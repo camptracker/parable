@@ -71,8 +71,12 @@ body {
 }
 .lesson-card-text {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 1rem;
+  gap: 0.25rem 1rem;
+  width: 100%;
+}
+.lesson-card-text .lesson-date {
   width: 100%;
 }
 
