@@ -77,7 +77,7 @@ body {
 }
 
 /* Lesson page */
-.top-nav { margin-bottom: 1.5rem; }
+.top-nav { margin-bottom: 1.5rem; padding-top: 1rem; }
 .nav-link { color: var(--gold); text-decoration: none; font-size: 0.9rem; }
 .nav-link:hover { text-decoration: underline; }
 
