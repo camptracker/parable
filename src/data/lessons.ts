@@ -4,6 +4,7 @@ export interface Lesson {
   date: string;
   standard: string;
   parable: string;
+  sonnet?: string;
   image?: string;
 }
 
@@ -13,6 +14,25 @@ export const lessons: Lesson[] = [
     title: "What Is Interest?",
     date: "2026-02-27",
     image: "images/day-1.png",
+    sonnet: `**🪶 Sonnet I: The Lending of Seeds**
+
+A boy once held a sack of golden grain,
+His grandmother's last gift before she slept—
+"Let not these seeds sit idle," she had kept
+Her final breath to whisper through the rain.
+
+A farmer came with nothing but his name,
+And begged to borrow what the boy possessed.
+"Return my sack, plus ten," the boy expressed,
+And so the seeds were lent, and fortune came.
+
+For he who lends what others need to grow
+Shall find his patience paid in golden yield.
+The idle hoard rots slow beneath the field,
+While planted trust makes harvests overflow.
+
+*So ask yourself before you spend or save:*
+*Am I the lender — or the borrower's slave?*`,
     standard: `**💰 Day 1: What Is Interest?**
 
 Before we can talk about building wealth, we need to understand one word: **interest**.
@@ -85,6 +105,25 @@ The wise ones of the valley always asked themselves: *Am I the lender of seeds �
     title: "Compound Interest — The Eighth Wonder",
     date: "2026-02-28",
     image: "images/day-2.png",
+    sonnet: `**🪶 Sonnet II: The Doubling Garden**
+
+The elder drew her circles in the dirt—
+Each ring a season, wider than the last.
+"I planted twelve," she said, "when I was young,
+And never touched the harvest as it passed."
+
+The boy watched spirals bloom beneath her hand,
+Each loop embracing more than what came first.
+"But how?" he asked. "You never sowed again?"
+"I let the seeds repay their own sweet thirst."
+
+For interest earned becomes the soil anew,
+And growth compounds like whispers in the dawn—
+A single coin, left patient, splits in two,
+Then four, then eight, until a fortune's drawn.
+
+*The secret isn't starting rich or wise—*
+*It's giving time the room to multiply.*`,
     standard: `**💰 Day 2: Compound Interest — The Eighth Wonder**
 
 Yesterday we learned that interest is the reward for lending your money. But here's where it gets exciting: *what happens when you earn interest on your interest?*

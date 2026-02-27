@@ -12,7 +12,7 @@ export default function LessonPage() {
   const { day } = useParams();
   const dayNum = Number(day);
   const lesson = lessons.find((l) => l.day === dayNum);
-  const [mode, setMode] = useState<'parable' | 'standard'>('parable');
+  const [mode, setMode] = useState<'parable' | 'standard' | 'sonnet'>('parable');
 
   if (!lesson) {
     return (
@@ -57,10 +57,18 @@ export default function LessonPage() {
         >
           📖 Standard
         </button>
+        {lesson.sonnet && (
+          <button
+            className={`toggle-btn ${mode === 'sonnet' ? 'active' : ''}`}
+            onClick={() => setMode('sonnet')}
+          >
+            🪶 Sonnet
+          </button>
+        )}
       </div>
 
       <article className={`lesson-content ${mode}`} key={mode}>
-        <ReactMarkdown>{mode === 'parable' ? lesson.parable : lesson.standard}</ReactMarkdown>
+        <ReactMarkdown>{mode === 'parable' ? lesson.parable : mode === 'sonnet' ? (lesson.sonnet || '') : lesson.standard}</ReactMarkdown>
       </article>
 
       <nav className="bottom-nav">

@@ -117,6 +117,7 @@ body {
 }
 .lesson-content.parable { font-family: var(--serif); font-size: 1.15rem; }
 .lesson-content.standard { font-family: var(--sans); font-size: 1rem; }
+.lesson-content.sonnet { font-family: var(--serif); font-size: 1.2rem; text-align: center; font-style: italic; line-height: 2; }
 
 .lesson-content h1, .lesson-content h2, .lesson-content h3 { color: var(--gold); margin: 1.5rem 0 0.5rem; }
 .lesson-content p { margin-bottom: 1rem; }
