@@ -32,6 +32,12 @@ export default function LessonPage() {
         <Link to="/" className="nav-link">← Home</Link>
       </nav>
 
+      {lesson.image && (
+        <div className="lesson-hero">
+          <img src={`${import.meta.env.BASE_URL}${lesson.image}`} alt={lesson.title} />
+        </div>
+      )}
+
       <header className="lesson-header">
         <span className="lesson-day-badge">Day {lesson.day}</span>
         <h1>{lesson.title}</h1>

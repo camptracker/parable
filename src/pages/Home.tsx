@@ -16,9 +16,14 @@ export default function Home() {
       <div className="lesson-list">
         {lessons.map((lesson) => (
           <Link to={`/lesson/${lesson.day}`} key={lesson.day} className="lesson-card">
-            <span className="lesson-day">Day {lesson.day}</span>
-            <span className="lesson-title">{lesson.title}</span>
-            <span className="lesson-date">{formatDate(lesson.date)}</span>
+            {lesson.image && (
+              <img src={`${import.meta.env.BASE_URL}${lesson.image}`} alt={lesson.title} className="lesson-card-img" />
+            )}
+            <div className="lesson-card-text">
+              <span className="lesson-day">Day {lesson.day}</span>
+              <span className="lesson-title">{lesson.title}</span>
+              <span className="lesson-date">{formatDate(lesson.date)}</span>
+            </div>
           </Link>
         ))}
       </div>
