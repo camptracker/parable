@@ -1,7 +1,7 @@
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, Navigate } from 'react-router-dom';
 import { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
-import { lessons } from '../data/lessons';
+import { getSeriesById } from '../data/lessons';
 
 function formatDate(dateStr: string) {
   const d = new Date(dateStr + 'T00:00:00');
@@ -9,27 +9,33 @@ function formatDate(dateStr: string) {
 }
 
 export default function LessonPage() {
-  const { day } = useParams();
+  const { seriesId, day } = useParams();
+  const s = getSeriesById(seriesId || '');
   const dayNum = Number(day);
-  const lesson = lessons.find((l) => l.day === dayNum);
+  const lesson = s?.lessons.find((l) => l.day === dayNum);
   const [mode, setMode] = useState<'parable' | 'standard' | 'sonnet'>('parable');
 
+  if (!s) return <Navigate to="/" replace />;
   if (!lesson) {
     return (
       <div className="container">
         <p>Lesson not found.</p>
-        <Link to="/" className="nav-link">← Home</Link>
+        <Link to={`/${s.id}`} className="nav-link">← Back to {s.name}</Link>
       </div>
     );
   }
 
-  const prev = lessons.find((l) => l.day === dayNum - 1);
-  const next = lessons.find((l) => l.day === dayNum + 1);
+  const prev = s.lessons.find((l) => l.day === dayNum - 1);
+  const next = s.lessons.find((l) => l.day === dayNum + 1);
 
   return (
     <div className="container">
-      <nav className="top-nav">
-        <Link to="/" className="nav-link">← Home</Link>
+      <nav className="breadcrumb">
+        <Link to="/" className="nav-link">Home</Link>
+        <span className="breadcrumb-sep">›</span>
+        <Link to={`/${s.id}`} className="nav-link">{s.name}</Link>
+        <span className="breadcrumb-sep">›</span>
+        <span>Day {lesson.day}</span>
       </nav>
 
       {lesson.image && (
@@ -45,25 +51,10 @@ export default function LessonPage() {
       </header>
 
       <div className="toggle-container">
-        <button
-          className={`toggle-btn ${mode === 'parable' ? 'active' : ''}`}
-          onClick={() => setMode('parable')}
-        >
-          🏰 Parable
-        </button>
-        <button
-          className={`toggle-btn ${mode === 'standard' ? 'active' : ''}`}
-          onClick={() => setMode('standard')}
-        >
-          📖 Standard
-        </button>
+        <button className={`toggle-btn ${mode === 'parable' ? 'active' : ''}`} onClick={() => setMode('parable')}>🏰 Parable</button>
+        <button className={`toggle-btn ${mode === 'standard' ? 'active' : ''}`} onClick={() => setMode('standard')}>📖 Standard</button>
         {lesson.sonnet && (
-          <button
-            className={`toggle-btn ${mode === 'sonnet' ? 'active' : ''}`}
-            onClick={() => setMode('sonnet')}
-          >
-            🪶 Sonnet
-          </button>
+          <button className={`toggle-btn ${mode === 'sonnet' ? 'active' : ''}`} onClick={() => setMode('sonnet')}>🪶 Sonnet</button>
         )}
       </div>
 
@@ -72,8 +63,8 @@ export default function LessonPage() {
       </article>
 
       <nav className="bottom-nav">
-        {prev ? <Link to={`/lesson/${prev.day}`} className="nav-link">← Day {prev.day}</Link> : <span />}
-        {next ? <Link to={`/lesson/${next.day}`} className="nav-link">Day {next.day} →</Link> : <span />}
+        {prev ? <Link to={`/${s.id}/lesson/${prev.day}`} className="nav-link">← Day {prev.day}</Link> : <span />}
+        {next ? <Link to={`/${s.id}/lesson/${next.day}`} className="nav-link">Day {next.day} →</Link> : <span />}
       </nav>
     </div>
   );

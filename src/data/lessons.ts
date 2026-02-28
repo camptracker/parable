@@ -8,7 +8,19 @@ export interface Lesson {
   image?: string;
 }
 
-export const lessons: Lesson[] = [
+export interface Series {
+  id: string;
+  name: string;
+  theme: string;
+  lessons: Lesson[];
+}
+
+export const series: Series[] = [
+  {
+    id: "financial-independence",
+    name: "Financial Independence",
+    theme: "Warren Buffett's teachings and mathematical principles",
+    lessons: [
   {
     day: 1,
     title: "What Is Interest?",
@@ -307,4 +319,11 @@ Before you take on any debt, ask yourself: *Will this borrowed seed plant a harv
 
 ❓ *Tomorrow's tale: If debt can be a trap, can it ever be a bridge? How do you tell the difference between chains and wings?*`
   }
+    ]
+  }
 ];
+
+// Helper to find a series by id
+export function getSeriesById(id: string): Series | undefined {
+  return series.find(s => s.id === id);
+}

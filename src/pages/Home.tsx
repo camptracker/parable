@@ -1,31 +1,27 @@
 import { Link } from 'react-router-dom';
-import { lessons } from '../data/lessons';
-
-function formatDate(dateStr: string) {
-  const d = new Date(dateStr + 'T00:00:00');
-  return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-}
+import { series } from '../data/lessons';
 
 export default function Home() {
   return (
     <div className="container">
       <header className="home-header">
         <h1>📜 Parable</h1>
-        <p className="subtitle">Daily Lessons on Financial Independence</p>
+        <p className="subtitle">Daily Lessons Through Stories</p>
       </header>
-      <div className="lesson-list">
-        {lessons.map((lesson) => (
-          <Link to={`/lesson/${lesson.day}`} key={lesson.day} className="lesson-card">
-            {lesson.image && (
-              <img src={`${import.meta.env.BASE_URL}${lesson.image}`} alt={lesson.title} className="lesson-card-img" />
-            )}
-            <div className="lesson-card-text">
-              <span className="lesson-day">Day {lesson.day}</span>
-              <span className="lesson-title">{lesson.title}</span>
-              <span className="lesson-date">{formatDate(lesson.date)}</span>
-            </div>
-          </Link>
-        ))}
+      <div className="series-grid">
+        {series.map(s => {
+          const latest = s.lessons[s.lessons.length - 1];
+          return (
+            <Link to={`/${s.id}`} key={s.id} className="series-card">
+              <h2 className="series-card-name">{s.name}</h2>
+              <p className="series-card-theme">{s.theme}</p>
+              <div className="series-card-meta">
+                <span>{s.lessons.length} lesson{s.lessons.length !== 1 ? 's' : ''}</span>
+                {latest && <span className="series-card-latest">Latest: {latest.title}</span>}
+              </div>
+            </Link>
+          );
+        })}
       </div>
     </div>
   );
