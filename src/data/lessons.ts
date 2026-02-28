@@ -202,5 +202,109 @@ The key is never to eat *all* the harvest. Always replant. Always give your seed
 > *"The best time to plant a seed was twenty years ago. The second best time is today."*
 
 ❓ *Tomorrow's tale: If the doubling garden is so powerful, what dark force can turn it against you?*`
+  },
+  {
+    day: 3,
+    title: "Debt — Compound Interest in Reverse",
+    date: "2026-02-28",
+    image: "images/day-3.png",
+    sonnet: `**🪶 Sonnet III: The Thorned Path**
+
+The garden grows for those who plant with care,
+But there exists a darker, mirrored force—
+When borrowed seeds demand a thorny share,
+The debt compounds and swallows field and horse.
+
+A merchant came with promises of gold,
+"Take now, pay later," sweet as honeyed wine.
+But every moon the interest took its hold,
+And what was one became eleven, then nine-and-nine.
+
+The vines crept slow at first, a harmless thread,
+Then wrapped the barn, the plow, the granary door.
+He'd borrowed spring but harvested instead
+A winter debt that always wanted more.
+
+*Beware the path where borrowed seeds are sown—*
+*For compound growth cuts deepest on a loan.*`,
+    standard: `**💰 Day 3: Debt — Compound Interest in Reverse**
+
+Yesterday we saw how compound interest can turn a handful of seeds into a forest. But here's the dark side: *the exact same force works against you when you owe money.*
+
+🧱 **The Concept**
+Debt is compound interest working in reverse. Instead of your money growing for you, it grows for someone else — and you're the one paying.
+
+❓ **Why It Matters**
+Credit cards, car loans, student loans — they all use compound interest. If you only make minimum payments, you can end up paying back 2x or 3x what you originally borrowed. The same math that builds fortunes can trap people in cycles of debt for decades.
+
+⚙️ **How It Works**
+Imagine you borrow $1,000 on a credit card at 20% interest. After one year, you owe $1,200. But if you don't pay it off, next year you owe 20% on $1,200 — that's $1,440. Then $1,728. In just 4 years, your $1,000 debt nearly doubled, and you never bought anything else.
+
+It's the Doubling Garden in reverse — except the garden is eating *your* house.
+
+The minimum payment trap is real: a $5,000 credit card balance at 18% with minimum payments takes **decades** to pay off and costs over $12,000 total.
+
+📖 **Definitions**
+• **Debt**: Money you owe to someone else
+• **Principal**: The original amount borrowed
+• **APR (Annual Percentage Rate)**: The yearly interest rate on a loan or credit card
+• **Minimum Payment**: The smallest amount you can pay — designed to keep you in debt longer
+
+🎯 **Buffett Wisdom**
+"I've seen more people fail because of liquor and leverage — leverage being borrowed money." Buffett has consistently warned that debt is the #1 destroyer of financial independence.
+
+❓ **Tomorrow's Question:**
+*If debt is so dangerous, how do you know the difference between "good debt" and "bad debt"?*`,
+    parable: `**🏰 The Parable of the Thorned Path**
+
+Kael was beginning to understand the power of planting seeds. But one evening, a traveling merchant arrived in the village — a man named Varen, draped in silk and smiling wide.
+
+---
+
+"Young man," Varen said, "why wait for your seeds to grow when you can have what you want *now*?"
+
+He spread a blanket of treasures — a fine leather satchel, a silver compass, boots that could walk through any storm.
+
+"Take them," Varen said. "Pay me back with seeds after the harvest. Just a small fee for the convenience."
+
+Kael hesitated, but another villager — a young carpenter named Edrin — stepped forward eagerly.
+
+"I'll take the boots, the satchel, *and* the compass," Edrin declared.
+
+Varen's smile widened. "Of course. You owe me 100 seeds, plus 20 extra for each season you take to repay."
+
+---
+
+The first season passed. Edrin couldn't repay — he'd spent his time enjoying his new things instead of planting. His debt: 120 seeds.
+
+The second season? He owed interest on 120. That's 144.
+
+Third season: 173. Fourth: 207.
+
+Edrin watched in horror as the number grew faster and faster, like thorny vines creeping across his workshop. First they took his tools. Then his timber. Then his workshop itself.
+
+"But I only borrowed 100 seeds!" Edrin cried.
+
+"Yes," Varen said calmly. "And the interest borrowed from the interest. That is the nature of debt."
+
+---
+
+Kael watched from across the square, remembering Sable's Doubling Garden. The same spiraling circles — but this time, they were spiraling *around* Edrin, squeezing tighter with each turn.
+
+He went to Sable that night. "The merchant used the same power you showed me — the compounding — but as a weapon."
+
+Sable nodded gravely. "The Doubling Garden has no loyalty, child. It serves whoever plants the seeds. When you save and invest, it works for you. When you borrow, it works for *them*. The math does not care whose side it's on."
+
+---
+
+**🌾 The Moral**
+
+Compound interest is a tool — like fire. It can warm your home or burn it down. When you're the lender (saving, investing), the spiral grows your wealth. When you're the borrower, the spiral grows your chains.
+
+> *The wise farmer never borrows seeds for things that don't grow more seeds.*
+
+Before you take on any debt, ask yourself: *Will this borrowed seed plant a harvest — or just buy a prettier satchel?*
+
+❓ *Tomorrow's tale: If debt can be a trap, can it ever be a bridge? How do you tell the difference between chains and wings?*`
   }
 ];
