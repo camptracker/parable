@@ -320,9 +320,7 @@ Before you take on any debt, ask yourself: *Will this borrowed seed plant a harv
 ❓ *Tomorrow's tale: If debt can be a trap, can it ever be a bridge? How do you tell the difference between chains and wings?*`
   }
     ]
-  }
-];
-
+  },
   {
     id: "nutrition-science",
     name: "Nutrition Science",
@@ -439,9 +437,121 @@ Every bite of food is a tiny flame. Your body is the hearth. Understanding how m
 > *"To eat without knowing is to burn without watching the fire."*
 
 ❓ *Tomorrow's tale: What are the three types of fuel — and why does Maren keep three separate hearths?*`
+      },
+      {
+        day: 2,
+        title: "Macronutrients — The Three Fuels",
+        date: "2026-02-28",
+        image: "images/nutrition-science/day-2.png",
+        sonnet: `**🪶 Sonnet II: The Three Hearths**
+
+Three fires burn within the healer's hall,
+Each fed by different wood, each serving need—
+The first burns bright and answers hunger's call,
+A flash of warmth from sugar, fruit, and seed.
+
+The second smolders patient, firm, and true,
+It mends the walls and fortifies the frame—
+From egg and fish and bean, the body grew
+Its sinew, muscle, bone — repaired the same.
+
+The third burns slow, a deep and lasting glow,
+A reservoir of heat against the cold—
+From nut and oil, its embers barely show,
+Yet carry twice the fire, if truth be told.
+
+*Three fuels, three fires, three purposes they keep—*
+*Know what you burn, and master what you eat.*`,
+        standard: `**🍎 Day 2: Macronutrients — The Three Fuels**
+
+Yesterday we learned that a calorie is a unit of energy — the fire your body burns. Today we answer: *what are the three types of fuel, and why does it matter which one you eat?*
+
+🧱 **The Concept**
+Macronutrients are the three main types of fuel in food: carbohydrates, protein, and fat. Each one provides calories, but they serve very different roles in your body.
+
+❓ **Why It Matters**
+Not all calories are created equal. 200 calories of chicken, 200 calories of bread, and 200 calories of olive oil affect your energy, hunger, and body composition in completely different ways. Understanding macros is how you go from "counting calories" to actually understanding nutrition.
+
+⚙️ **How It Works**
+Think of your body as a house with three needs: electricity (quick energy), building materials (structure), and a backup generator (long-term reserves).
+
+**Carbohydrates** are electricity — they burn fast and give you immediate energy. Bread, rice, fruit, sugar — your body breaks them down quickly into glucose, which powers your brain and muscles right now. 1 gram = 4 calories.
+
+**Protein** is building material — it repairs muscle, skin, hair, organs, and immune cells. Chicken, eggs, fish, beans — your body uses these to rebuild itself. You're constantly under construction. 1 gram = 4 calories.
+
+**Fat** is the backup generator — it burns slow and steady, stores massive amounts of energy, and protects your organs. Nuts, oils, avocado, butter — fat carries more than double the energy of carbs or protein. 1 gram = 9 calories.
+
+📖 **Definitions**
+• **Macronutrients ("Macros")**: Nutrients your body needs in large amounts — carbs, protein, fat
+• **Carbohydrates**: Quick-burning fuel; your body's preferred energy source
+• **Protein**: The building and repair nutrient; essential for muscle and tissue
+• **Fat**: Dense, slow-burning energy; vital for hormones and cell membranes
+• **Micronutrients**: Vitamins and minerals — needed in tiny amounts (that's a future lesson!)
+
+🎯 **Science Wisdom**
+Your body can convert between fuel types in a pinch — it can turn extra carbs into fat for storage, or break down protein for energy in an emergency. But each macro does its primary job best. Eating the right balance isn't about restriction — it's about giving your body the right tool for each job.
+
+❓ **Tomorrow's Question:**
+*You know the three fuels now — but how does your body actually decide which one to burn first, and can you control it?*`,
+        parable: `**🏰 The Parable of the Three Hearths**
+
+The next morning, Lila woke to the smell of porridge and the crackle of three fires. Maren was already at work, tending each hearth with different fuel.
+
+---
+
+"You promised to tell me about the three types of fire," Lila said, pulling her blanket tighter.
+
+Maren nodded and led her to the first hearth.
+
+"This one I feed with dry straw and kindling." She tossed in a handful of straw — it caught instantly, blazing bright and hot, then quickly dimming. "This is the fire of **carbohydrates**. It lights fast, burns fast, and gives you energy *right now*. Bread, rice, fruit, honey — they are your body's kindling."
+
+"It's warm," Lila said. "But it doesn't last."
+
+"Exactly. Quick fuel for quick needs. Your brain, your muscles when you run — they reach for this fire first."
+
+---
+
+They moved to the second hearth. Here, Maren placed carefully cut blocks of hardwood — dense, solid, slow to catch.
+
+"This is **protein**. It doesn't burn as brightly, because burning it isn't its true purpose." She ran her hand along the stone mantel. "Protein is the *builder*. It repairs the walls of this house. It mends what breaks. Every muscle, every scar, every strand of hair — built from this wood."
+
+"So it's not really fuel?" Lila asked.
+
+"It *can* burn for energy — but that's like tearing down your walls for firewood. You only do it when you're desperate."
+
+---
+
+The third hearth burned low and deep — a thick, resinous log that glowed with an almost invisible heat but radiated warmth across the entire room.
+
+"**Fat**," Maren said simply. "The slowest fire. The deepest reserve. One log of fat holds more than twice the heat of the same size log of kindling or hardwood."
+
+Lila's eyes widened. "Twice?"
+
+"More. This is your body's cellar — the fuel it stores for winter, for famine, for the long journey. Nuts, oils, the marrow of bones. It also protects your organs like padding and keeps your body's messengers — your hormones — working."
+
+---
+
+Lila stood in the center of the three hearths, feeling their different warmths.
+
+"So my body burns all three?"
+
+"Every day," Maren said. "But not equally. It reaches for kindling first — quick energy. It uses hardwood to rebuild. And it keeps the deep logs in reserve, burning them slowly when needed."
+
+She placed a hand on Lila's shoulder. "The art of eating well is not about feeding one hearth and starving the others. It's about giving each fire the right fuel, in the right amount, at the right time."
+
+---
+
+**🌾 The Moral**
+
+Your body runs on three fuels: carbohydrates for quick energy, protein for building and repair, and fat for deep reserves. Each serves a purpose. The wise eater doesn't fear any of them — they learn to balance all three.
+
+> *"A house with only kindling burns bright but collapses. A house with only stone stands cold. A house with all three endures."*
+
+❓ *Tomorrow's tale: Lila asks — when all three fuels are available, how does the body choose which to burn? And can you change its mind?*`
       }
     ]
-  },
+  }
+];
 
 // Helper to find a series by id
 export function getSeriesById(id: string): Series | undefined {
