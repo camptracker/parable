@@ -548,6 +548,123 @@ Your body runs on three fuels: carbohydrates for quick energy, protein for build
 > *"A house with only kindling burns bright but collapses. A house with only stone stands cold. A house with all three endures."*
 
 ❓ *Tomorrow's tale: Lila asks — when all three fuels are available, how does the body choose which to burn? And can you change its mind?*`
+      },
+      {
+        day: 3,
+        title: "Fuel Priority — How Your Body Chooses What to Burn",
+        date: "2026-02-28",
+        image: "images/nutrition-science/day-3.png",
+        sonnet: `**🪶 Sonnet III: The Order of Flames**
+
+The healer spoke of order in the burn—
+Not chaos rules the body's inner fire,
+But ancient laws that every cell must learn:
+Which fuel to reach for first, which to retire.
+
+The kindling catches quick — the sugar's blaze,
+It lights the blood and feeds the racing mind.
+But when the straw is spent in fleeting days,
+The deeper logs are next the flames will find.
+
+First carbohydrate's flash, then fat's slow glow,
+And only when the cellar shelves run bare
+Does protein burn — the walls begin to go,
+The body eating what it built with care.
+
+*You hold the match that chooses what will burn—*
+*Feed wisely, and the order serves your turn.*`,
+        standard: `**🍎 Day 3: Fuel Priority — How Your Body Chooses What to Burn**
+
+Yesterday we met the three macronutrients: carbs (kindling), protein (building material), and fat (deep reserves). Today we answer: *how does your body decide which one to burn first — and can you control it?*
+
+🧱 **The Concept**
+Your body burns fuel in a specific priority order: carbohydrates first, then fat, and protein only as a last resort. This hierarchy isn't random — it's survival logic built over millions of years.
+
+❓ **Why It Matters**
+If you want to lose fat, build muscle, or just have steady energy throughout the day, you need to understand this fuel ladder. Most diets — keto, low-carb, intermittent fasting — are really just strategies for manipulating which rung your body is on.
+
+⚙️ **How It Works**
+Picture a house with three fuel sources stacked in order:
+
+**Level 1 — Carbs (burn first).** When you eat carbs, your body converts them to glucose. Glucose is the easiest, fastest fuel to burn, so your body always reaches for it first. It's like grabbing the newspaper to start a fire — quick and effortless. Your blood sugar rises, insulin shuttles glucose to cells, and you get immediate energy.
+
+**Level 2 — Fat (burn second).** Once available glucose runs low (a few hours after eating, or during light exercise), your body shifts to burning stored fat. This is the slow, steady backup generator. It takes more effort to convert fat into energy, but there's a LOT of it stored — even a lean person carries 50,000+ calories in fat reserves.
+
+**Level 3 — Protein (emergency only).** Your body really doesn't want to burn protein. That's like tearing down your walls for firewood. It only happens during starvation, extreme dieting, or very prolonged exercise when carbs and fat are depleted. This is why crash diets cause muscle loss.
+
+**Can you control it?** Yes! If you eat fewer carbs, your body shifts to fat-burning sooner. That's the entire principle behind low-carb and keto diets. Exercise also accelerates the shift — moderate activity burns through glucose faster and taps fat reserves.
+
+📖 **Definitions**
+• **Fuel Priority (Oxidative Hierarchy)**: The order in which your body prefers to burn macronutrients
+• **Glycogen**: Stored glucose in your muscles and liver — your carb reserve tank (~2,000 calories worth)
+• **Lipolysis**: The process of breaking down stored fat for energy
+• **Gluconeogenesis**: Your body making glucose from non-carb sources (protein, glycerol) in emergencies
+• **Ketosis**: When carb stores are very low and your body shifts to burning fat as its primary fuel
+
+🎯 **Science Wisdom**
+Your body is an incredibly smart machine. It always burns the most efficient fuel available before tapping deeper reserves. You don't need to "trick" it — you just need to understand what's on the shelf when it goes looking for energy.
+
+❓ **Tomorrow's Question:**
+*You know carbs burn first and fast — but not all carbs are equal. What makes some carbs give you steady energy while others spike and crash?*`,
+        parable: `**🏰 The Parable of the Burning Order**
+
+That evening, Lila sat by the three hearths, watching Maren cook. A question had been turning in her mind all day.
+
+---
+
+"Maren," she said, "if all three fuels sit in the kitchen, how does the fire know which to burn first?"
+
+Maren set down her ladle and smiled — the smile of a teacher who has been waiting for exactly this question.
+
+"The fire doesn't choose. The *house* chooses."
+
+She walked to the first hearth, where dry straw sat piled high. "When there is kindling available, the house always reaches for it first. It's the easiest to light, the fastest to burn. Your body does the same — when you eat bread or fruit or rice, the glucose hits your blood within minutes. Quick fire. Immediate warmth."
+
+"And when the kindling runs out?" Lila asked.
+
+---
+
+Maren moved to the third hearth — the deep, glowing one fed by dense resinous logs.
+
+"When the straw is gone, the house opens the cellar and pulls out the heavy logs. Fat. It takes longer to catch, longer to burn, but the heat lasts for hours." She placed her hand near the embers. "Even a thin person carries enough logs in their cellar to heat this house for weeks."
+
+"So the body burns fat second?"
+
+"Always. It's the reserve — patient, waiting, enormous. Most people never empty their cellar because they keep restocking the kindling before it runs out."
+
+---
+
+Lila's eyes drifted to the second hearth — the hardwood blocks.
+
+"And the building wood? The protein?"
+
+Maren's face grew serious. "That is the last resort. The house will tear planks from its own walls before it lets the fires die completely. But it *hates* doing it. Burning protein means burning muscle, burning the structures that hold you together."
+
+She gripped Lila's arm gently. "This is why people who starve themselves don't just lose fat — they lose strength. Their body, desperate for fuel, begins dismantling itself."
+
+---
+
+"Can I choose which hearth burns?" Lila asked.
+
+"You already do," Maren said. "Every time you eat, you're stacking kindling on the first hearth. If you want the cellar logs to burn, you have to let the kindling run low first. And if you move your body — walk, carry, climb — you burn through the kindling faster and reach the deeper fuel sooner."
+
+She stirred the pot once more. "Every meal is a choice: *which hearth am I feeding? Which fire do I want to burn?*"
+
+---
+
+Lila sat quietly, watching the three fires dance at their different speeds — one bright and fast, one deep and steady, one barely touched.
+
+"Tomorrow," Maren said, "I'll show you why not all kindling burns the same. Some straw gives steady warmth. Other straw explodes in a flash and leaves you colder than before."
+
+---
+
+**🌾 The Moral**
+
+Your body follows a strict order: burn carbs first (quick fuel), then fat (deep reserves), then protein (only in desperation). Understanding this order is the key to controlling your energy, your weight, and your health.
+
+> *"The wise keeper of the hearth does not fear an empty kindling pile — she knows the cellar is full."*
+
+❓ *Tomorrow's tale: Why does some kindling burn steady and warm, while other kindling flares bright and dies — leaving the house colder than before?*`
       }
     ]
   }
