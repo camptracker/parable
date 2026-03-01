@@ -1,0 +1,20 @@
+{
+  "series": [
+    {
+      "seriesId": "financial-independence",
+      "seriesName": "Financial Independence",
+      "seriesTheme": "Warren Buffett's teachings and mathematical principles",
+      "seriesEmoji": "💰",
+      "wisdomLabel": "Buffett Wisdom",
+      "parableCharacters": "Kael (village boy), Sable (elder), Tobren (farmer)"
+    },
+    {
+      "seriesId": "nutrition-science",
+      "seriesName": "Nutrition Science",
+      "seriesTheme": "the science of how food fuels your body, from macronutrients to metabolism",
+      "seriesEmoji": "🍎",
+      "wisdomLabel": "Science Wisdom",
+      "parableCharacters": "Lila (apprentice), Maren (village healer with three hearths)"
+    }
+  ]
+}

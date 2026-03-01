@@ -318,6 +318,113 @@ Compound interest is a tool — like fire. It can warm your home or burn it down
 Before you take on any debt, ask yourself: *Will this borrowed seed plant a harvest — or just buy a prettier satchel?*
 
 ❓ *Tomorrow's tale: If debt can be a trap, can it ever be a bridge? How do you tell the difference between chains and wings?*`
+  },
+  {
+    day: 4,
+    title: "Good Debt vs Bad Debt",
+    date: "2026-02-28",
+    image: "images/financial-independence/day-4.jpg",
+    sonnet: `**🪶 Sonnet IV: The Bridge and the Chain**
+
+Two paths diverge where borrowed rivers flow—
+One builds a bridge across the churning deep,
+The other binds with chains that twist and grow
+Around the fool who borrows what he'll keep.
+
+The merchant bought a mill with borrowed gold,
+Its grinding stones turned grain to flour fine—
+Each season's profit paid the debt threefold,
+And soon the mill was wholly, freely mine.
+
+But Edrin borrowed for a velvet cloak,
+Which frayed and faded even as he paid.
+The interest grew while fabric thinned and broke—
+He bought a ghost and called the debt "well-made."
+
+*Ask not "Can I afford to borrow this?"—*
+*Ask "Will it earn me more than what I give?"*`,
+    standard: `**💰 Day 4: Good Debt vs Bad Debt**
+
+Yesterday we saw how debt is compound interest working against you — the Thorned Path. But today we answer a crucial question: *if debt is so dangerous, how do you know the difference between "good debt" and "bad debt"?*
+
+🧱 **The Concept**
+Good debt puts money in your pocket over time. Bad debt takes money out. The difference isn't the amount — it's whether the borrowed money creates value greater than its cost.
+
+❓ **Why It Matters**
+Not all borrowing is reckless. A mortgage on a home that appreciates, a student loan for a high-earning career, a business loan that generates revenue — these can be bridges to wealth. A credit card balance for vacations, clothes, or dining out? That's yesterday's thorned path. The ability to tell them apart is one of the most important financial skills you'll ever develop.
+
+⚙️ **How It Works**
+Think of it as a simple test: **will this borrowed money earn me more than the interest I'll pay?**
+
+If you borrow $10,000 at 5% interest to start a business that earns 20% returns, you're netting 15% — the debt is a tool working *for* you. If you borrow $10,000 at 20% interest to buy furniture, the furniture loses value while the debt grows. You're paying compound interest on something worth less every year.
+
+A mortgage at 4% on a house that appreciates 6% per year? Good debt — you're gaining more than you're paying. A car loan at 8% on a vehicle that loses 20% of its value the day you drive it off the lot? The math doesn't work.
+
+The key question isn't "can I afford the monthly payment?" — it's "will this thing I'm buying grow in value or generate income that exceeds what the debt costs me?"
+
+📖 **Definitions**
+• **Good Debt**: Borrowing that finances an asset expected to grow in value or generate income
+• **Bad Debt**: Borrowing that finances consumption or depreciating assets
+• **Leverage**: Using borrowed money to amplify returns (works both ways — amplifies losses too!)
+• **Asset**: Something that puts money in your pocket over time
+• **Liability**: Something that takes money out of your pocket over time
+
+🎯 **Buffett Wisdom**
+Buffett has used debt strategically through Berkshire Hathaway's insurance "float" — essentially borrowing at near-zero cost to invest at high returns. But he never borrows to consume. "If you're smart, you don't need leverage. If you're not smart, it will kill you."
+
+❓ **Tomorrow's Question:**
+*Now that you understand earning, compounding, and debt — what's the simplest rule for deciding how much of your income to save versus spend?*`,
+    parable: `**🏰 The Parable of the Bridge and the Chain**
+
+Word of Edrin's ruin spread quickly through the village. Some swore off borrowing entirely — "Never take a single seed from a lender!" they cried. But Sable, watching from her doorstep, shook her head.
+
+---
+
+"Come," she said to Kael that evening. "I want to show you something."
+
+She led him to the river that split the village in two. On the far bank stood a flour mill — its great stone wheel turning with the current, grinding grain for the entire valley.
+
+"That mill was built with borrowed seeds," Sable said.
+
+Kael stared. "Borrowed? But you said debt was dangerous—"
+
+"I said *compound interest* has no loyalty. I never said borrowing was forbidden." She pointed to the mill. "Thirty years ago, a woman named Petra had no seeds of her own. She borrowed 500 from a merchant — with interest, she owed 600 by year's end."
+
+"That sounds like Edrin's story," Kael said.
+
+"Listen. Petra used those 500 seeds to build *this mill*. In its first season, the mill earned her 200 seeds from grinding fees. She paid back 100 toward her debt and reinvested the rest. By the third year, the mill earned 400 seeds per season. She paid the debt in full and has been profiting ever since."
+
+---
+
+Kael thought about this. "So Petra borrowed seeds... to build something that *grows more seeds*."
+
+"Exactly." Sable drew two lines in the dirt. "There are two kinds of borrowed seeds. The first kind you plant in fertile soil — a business, a skill, land that produces. The debt costs you interest, but the thing you bought earns you *more* than the interest. The borrowed seeds built a bridge to wealth."
+
+She drew the second line — tangled and knotted. "The second kind you spend on things that wilt. A velvet cloak. A feast. A shiny trinket. These things don't earn seeds. They don't grow. They just sit there losing value while the debt underneath them grows thorns."
+
+---
+
+"So how do I know which is which?" Kael asked.
+
+Sable held up one finger. "Ask one question before you borrow: **will this thing I'm buying earn me more seeds than the debt will cost me?** If the answer is yes — and you've done the math honestly — then the debt is a bridge. If the answer is no, or you haven't done the math, it's a chain."
+
+She looked toward Edrin's shuttered workshop. "Edrin never asked that question. He just wanted the boots."
+
+---
+
+Kael nodded slowly. The same force — compound interest — could build a mill or destroy a carpenter. It depended entirely on what you did with the borrowed seeds.
+
+"Remember," Sable said as they walked home. "The wise never say 'I can afford the payments.' They say 'Will this earn more than it costs?' Those are very different questions."
+
+---
+
+**🌾 The Moral**
+
+Debt is a river. You can build a bridge across it — borrowing to invest in something that grows — or you can fall in and let the current pull you under. The difference is never the act of borrowing itself. It's *what you do with what you borrow.*
+
+> *"Before you take a single borrowed seed, ask: am I building a mill, or buying a cloak?"*
+
+❓ *Tomorrow's tale: Kael has learned to earn, to compound, and to borrow wisely. But how much of each harvest should he keep for himself — and how much should he replant?*`
   }
     ]
   },
@@ -665,6 +772,116 @@ Your body follows a strict order: burn carbs first (quick fuel), then fat (deep 
 > *"The wise keeper of the hearth does not fear an empty kindling pile — she knows the cellar is full."*
 
 ❓ *Tomorrow's tale: Why does some kindling burn steady and warm, while other kindling flares bright and dies — leaving the house colder than before?*`
+      },
+      {
+        day: 4,
+        title: "Simple vs Complex Carbs — The Glycemic Index",
+        date: "2026-02-28",
+        image: "images/nutrition-science/day-4.jpg",
+        sonnet: `**🪶 Sonnet IV: The Straw and the Braid**
+
+Two bundles lay before the healer's door—
+One loose and dry, the other tightly wound.
+She lit the first: it blazed and was no more,
+A flash of heat that vanished without sound.
+
+The second caught with patience, strand by strand,
+Its braided fibers slowly feeding flame—
+A steady warmth that spread across the land
+Of blood and bone, consistent, sure, and tame.
+
+"The sugar burns like scattered straw," she said,
+"A rush of fire, then emptiness and cold.
+But complex chains release their warmth instead
+In measured waves, as fiber's grip takes hold."
+
+*Not all that's sweet gives lasting warmth within—*
+*The braided burn outlasts the fastest spin.*`,
+        standard: `**🍎 Day 4: Simple vs Complex Carbs — The Glycemic Index**
+
+Yesterday we learned that your body burns carbs first — they're the kindling, the quick fuel. But today we answer: *what makes some carbs give you steady energy while others spike and crash?*
+
+🧱 **The Concept**
+Not all carbohydrates burn at the same speed. Simple carbs (sugar, white bread, candy) hit your bloodstream fast and leave you crashing. Complex carbs (oats, brown rice, vegetables) release energy slowly and keep you fueled for hours. The Glycemic Index measures this speed.
+
+❓ **Why It Matters**
+This is why you feel energized after oatmeal but sluggish an hour after donuts. The speed at which carbs raise your blood sugar affects your energy, hunger, mood, and over time — your risk of diabetes, obesity, and heart disease. Same calorie count, wildly different outcomes.
+
+⚙️ **How It Works**
+Imagine two piles of kindling. One is loose, dry straw — you toss it in the fire and WHOOSH, it blazes up instantly, burns hot for 30 seconds, then it's gone. You're left colder than before. That's a **simple carb** — white sugar, soda, white bread. Your blood sugar spikes, your pancreas floods you with insulin to bring it down, and you crash. You're hungry again in an hour.
+
+The other pile is tightly braided rope. It catches slowly, burns at a steady pace, and gives off consistent heat for hours. That's a **complex carb** — oatmeal, sweet potatoes, lentils, whole grains. The fiber and structure slow down digestion, so glucose trickles into your blood instead of flooding it.
+
+The **Glycemic Index (GI)** scores foods from 0-100 based on how fast they raise blood sugar:
+- **High GI (70+)**: White bread, candy, soda, white rice — fast spike, fast crash
+- **Medium GI (56-69)**: Whole wheat bread, brown rice, bananas
+- **Low GI (0-55)**: Oats, lentils, most vegetables, nuts — slow, steady energy
+
+📖 **Definitions**
+• **Simple Carbohydrates**: Short sugar chains (1-2 molecules) that digest rapidly — glucose, fructose, sucrose
+• **Complex Carbohydrates**: Long chains of sugar molecules that take longer to break down — starches, fiber
+• **Glycemic Index (GI)**: A scale (0-100) measuring how quickly a food raises blood sugar
+• **Insulin**: The hormone your pancreas releases to move glucose from blood into cells
+• **Blood Sugar Crash**: The fatigue and hunger that follows a rapid spike when insulin overshoots
+
+🎯 **Science Wisdom**
+Fiber is the secret weapon. It wraps around carbohydrate molecules and forces your body to digest them slowly — turning what would be a spike into a steady burn. This is why an apple (with fiber) affects you differently than apple juice (fiber removed), even though they have similar sugar content. Always eat the whole fruit.
+
+❓ **Tomorrow's Question:**
+*We've been focused on carbs — but what about protein? How much do you actually need, and what happens if you don't get enough?*`,
+        parable: `**🏰 The Parable of the Two Bundles**
+
+Lila had spent the morning hauling water from the well — a task that left her arms trembling and her stomach growling. She stumbled into the kitchen and reached for a jar of honey, spooning it straight into her mouth.
+
+---
+
+Within minutes, warmth flooded her body. Energy surged through her limbs. "I feel amazing," she said, wiping her chin.
+
+Maren watched from her stool but said nothing.
+
+Twenty minutes later, Lila was slumped against the wall, more exhausted than before. "What happened?" she whispered. "I just ate..."
+
+"You lit scattered straw," Maren said.
+
+---
+
+The healer took two bundles from the shelf and held them up.
+
+The first was a loose pile of dry straw — thin, wispy, falling apart in her hands. "This is honey. White bread. Sugar. It's kindling with no structure." She tossed it into the first hearth. It erupted in a blaze — brilliant, hot, *brief*. Within seconds, it was ash. The hearth felt colder than before.
+
+"Your body burns this instantly," Maren said. "Your blood fills with fire all at once. Your body panics — too much heat! — and sends out a flood of water to douse it." She mimed dumping a bucket. "The fire dies. You're left colder and hungrier than you started."
+
+Lila stared at the empty hearth. "That's exactly what happened to me."
+
+---
+
+Maren held up the second bundle — straw that had been tightly braided into a thick, dense cord. "This is oats. Lentils. Sweet potato. The same material — but *structured*."
+
+She placed it in the hearth. It caught slowly, one strand at a time. The flame built gradually, burned steadily, and continued giving off heat long after the loose straw had turned to ash.
+
+"The braiding is **fiber**," Maren explained. "It wraps around the fuel and forces the fire to work for it. Your body can't burn it all at once — it has to unravel it strand by strand. So the heat comes slowly, evenly, for hours."
+
+---
+
+"So all kindling is not the same," Lila said.
+
+"Not even close. The village bakers know this. When they make white bread, they strip away the braid — they remove the husk, the fiber, the structure. What's left burns fast and hot. But when they leave the grain whole?" Maren held up a rough, dark loaf. "The fire lasts all morning."
+
+She poured Lila a bowl of porridge made from whole oats, topped with nuts and a sliced pear.
+
+"Eat this. Watch what happens."
+
+Lila ate. The warmth came slowly this time — no surge, no rush. Just a steady, building glow that was still burning an hour later when she went back to the well. She hauled water until sunset without flagging.
+
+---
+
+**🌾 The Moral**
+
+All carbohydrates are kindling — but their structure determines whether they burn in a flash or sustain you for hours. Loose straw (simple sugars) gives a spike and a crash. Braided cord (complex carbs with fiber) gives steady, lasting energy.
+
+> *"The wise do not ask 'how much kindling?' but 'how is it bound?' For the same straw, braided, outlasts a bonfire of loose chaff."*
+
+❓ *Tomorrow's tale: Lila has mastered the kindling. But what about the hardwood — the building fuel? How much does the body truly need, and what crumbles when it doesn't get enough?*`
       }
     ]
   }
