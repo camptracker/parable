@@ -4,12 +4,9 @@ import { series } from '../data/lessons';
 interface SidebarProps {
   open: boolean;
   onClose: () => void;
-  mode: 'dark' | 'light' | 'auto';
-  resolvedTheme: 'dark' | 'light';
-  onToggleTheme: () => void;
 }
 
-export default function Sidebar({ open, onClose, mode, resolvedTheme, onToggleTheme }: SidebarProps) {
+export default function Sidebar({ open, onClose }: SidebarProps) {
   const location = useLocation();
   const currentSeriesId = location.pathname.split('/')[1] || '';
 
@@ -33,9 +30,6 @@ export default function Sidebar({ open, onClose, mode, resolvedTheme, onToggleTh
             </Link>
           ))}
         </nav>
-        <button className="theme-toggle" onClick={onToggleTheme} title={`Theme: ${mode}`}>
-          {mode === 'auto' ? '🖥️' : resolvedTheme === 'dark' ? '☀️' : '🌙'}
-        </button>
       </aside>
     </>
   );

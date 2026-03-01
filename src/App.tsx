@@ -39,10 +39,13 @@ function App() {
   return (
     <HashRouter>
       <div className="app-layout">
-        <Sidebar open={sidebarOpen} onClose={() => setSidebarOpen(false)} mode={mode} resolvedTheme={resolved} onToggleTheme={() => setMode(m => m === 'auto' ? 'light' : m === 'light' ? 'dark' : 'auto')} />
+        <Sidebar open={sidebarOpen} onClose={() => setSidebarOpen(false)} />
         <div className="main-content">
           <button className="hamburger" onClick={() => setSidebarOpen(true)} aria-label="Open menu">
             ☰
+          </button>
+          <button className="theme-toggle" onClick={() => setMode(m => m === 'auto' ? 'light' : m === 'light' ? 'dark' : 'auto')} title={`Theme: ${mode}`}>
+            {mode === 'auto' ? '🖥️' : resolved === 'dark' ? '☀️' : '🌙'}
           </button>
           <Routes>
             <Route path="/" element={<Home />} />
