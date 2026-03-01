@@ -5,25 +5,41 @@ import Home from './pages/Home';
 import SeriesPage from './pages/SeriesPage';
 import LessonPage from './pages/LessonPage';
 
-function getInitialTheme(): 'dark' | 'light' {
-  const saved = localStorage.getItem('parable-theme');
-  if (saved === 'light' || saved === 'dark') return saved;
+type ThemeMode = 'dark' | 'light' | 'auto';
+
+function getSystemTheme(): 'dark' | 'light' {
   return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+}
+
+function getInitialMode(): ThemeMode {
+  const saved = localStorage.getItem('parable-theme');
+  if (saved === 'light' || saved === 'dark' || saved === 'auto') return saved;
+  return 'auto';
 }
 
 function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
-  const [theme, setTheme] = useState<'dark' | 'light'>(getInitialTheme);
+  const [mode, setMode] = useState<ThemeMode>(getInitialMode);
+  const [systemTheme, setSystemTheme] = useState<'dark' | 'light'>(getSystemTheme);
 
   useEffect(() => {
-    document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem('parable-theme', theme);
-  }, [theme]);
+    const mq = window.matchMedia('(prefers-color-scheme: light)');
+    const handler = () => setSystemTheme(mq.matches ? 'light' : 'dark');
+    mq.addEventListener('change', handler);
+    return () => mq.removeEventListener('change', handler);
+  }, []);
+
+  const resolved = mode === 'auto' ? systemTheme : mode;
+
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', resolved);
+    localStorage.setItem('parable-theme', mode);
+  }, [mode, resolved]);
 
   return (
     <HashRouter>
       <div className="app-layout">
-        <Sidebar open={sidebarOpen} onClose={() => setSidebarOpen(false)} theme={theme} onToggleTheme={() => setTheme(t => t === 'dark' ? 'light' : 'dark')} />
+        <Sidebar open={sidebarOpen} onClose={() => setSidebarOpen(false)} mode={mode} resolvedTheme={resolved} onToggleTheme={() => setMode(m => m === 'auto' ? 'light' : m === 'light' ? 'dark' : 'auto')} />
         <div className="main-content">
           <button className="hamburger" onClick={() => setSidebarOpen(true)} aria-label="Open menu">
             ☰
