@@ -1,5 +1,5 @@
 import { useParams, Link, Navigate } from 'react-router-dom';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { getSeriesById } from '../data/lessons';
 
@@ -14,6 +14,8 @@ export default function LessonPage() {
   const dayNum = Number(day);
   const lesson = s?.lessons.find((l) => l.day === dayNum);
   const [mode, setMode] = useState<'parable' | 'standard' | 'sonnet'>('parable');
+
+  useEffect(() => { window.scrollTo(0, 0); }, [seriesId, day]);
 
   if (!s) return <Navigate to="/" replace />;
   if (!lesson) {

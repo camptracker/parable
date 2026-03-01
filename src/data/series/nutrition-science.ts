@@ -629,4 +629,140 @@ As they watched the third hearth burn with its patient, powerful flame, Maren ad
 
 **Tomorrow:** Lila will discover the great mystery — how these three hearths work together in the grand alchemy that transforms food into life itself.`,
   },
+  {
+    day: 7,
+    title: "Metabolism — Your Body's Energy Engine",
+    date: "2026-03-01",
+    image: "images/nutrition-science/day-7.jpg",
+    sonnet: `**🪶 Sonnet VII: Metabolism — Your Body's Energy Engine**
+
+Within each cell there burns a sacred flame,
+That turns the bread and meat to vital spark,
+Four furnaces that bear metabolism's name:
+The resting fire that glows both light and dark.
+
+The muscles' blaze that feeds on every move,
+The digestion forge that melts the food we eat,
+The restless dance our bodies can't disprove—
+All fidgets, all the tremors, all heartbeat.
+
+Some souls burn bright like forges in the night,
+With muscle-mass that stokes the inner coal,
+While others bank their fires, dim their light,
+Yet each can learn to tend their burning soul.
+
+*Not genes alone decide your metabolic fate,*
+*But daily choices small and truly great.*`,
+    standard: `🍎 Day 7: Metabolism — Your Body's Energy Engine
+
+Yesterday we explored fat as your body's most energy-dense nutrient and essential building block for hormones and brain function. The answer to metabolism: your "metabolic rate" isn't fixed destiny — it's a dynamic system influenced by muscle mass, activity, food choices, and even the energy cost of digestion itself.
+
+🧱 **The Concept**
+Metabolism is the sum of all chemical reactions that convert food into usable energy (ATP) in your cells. Your Total Daily Energy Expenditure includes four components: basal metabolic rate, physical activity, digestion, and non-exercise thermogenesis.
+
+❓ **Why It Matters**
+Understanding metabolism dispels the myth of being "stuck" with a slow metabolism. While genetics influence your baseline, you control major factors like muscle mass, meal composition, and daily movement. People with "fast metabolisms" often have more muscle tissue and higher daily activity levels — both trainable traits.
+
+⚙️ **How It Works**
+Your **Basal Metabolic Rate (BMR)** accounts for 60-70% of daily calories — the energy needed for breathing, circulation, and cellular repair while at rest. **Physical activity** burns 15-30% through exercise and daily movement. **Thermic Effect of Food (TEF)** uses 8-10% of calories just to digest, absorb, and process nutrients — protein has the highest TEF at 20-30%, while carbs burn 5-10% and fats only 0-5%. **Non-Exercise Activity Thermogenesis (NEAT)** — fidgeting, posture maintenance, and spontaneous movement — varies dramatically between people and can account for 15-50% of activity calories. Muscle tissue burns 3-5 times more calories at rest than fat tissue, which is why strength training permanently elevates metabolism. Extreme calorie restriction triggers metabolic adaptation, slowing BMR by 10-40% as your body conserves energy.
+
+📖 **Definitions**
+• **Basal Metabolic Rate (BMR)**: Calories burned at complete rest for basic physiological functions
+• **Total Daily Energy Expenditure (TDEE)**: All calories burned in a day from all sources
+• **Thermic Effect of Food (TEF)**: Energy cost of digesting, absorbing, and processing nutrients
+• **ATP (Adenosine Triphosphate)**: The universal energy currency that powers all cellular functions
+• **Metabolic Adaptation**: Body's ability to slow metabolism during prolonged calorie restriction
+
+🎯 **Science Wisdom**
+Metabolism isn't a fixed number — it's a dynamic system that responds to your choices. Building muscle, eating adequate protein, staying active, and avoiding extreme dieting keeps your metabolic engine running efficiently. The biggest metabolic differences between people often come from daily habits, not genetic destiny.
+
+❓ **Tomorrow's Question:**
+*We've covered the macronutrients and metabolism, but what about the micronutrients — vitamins and minerals? How do these tiny compounds orchestrate the complex chemical reactions that keep us alive and thriving?*`,
+    parable: `The next morning, Lila found Maren tending all three hearths simultaneously — the bread oven glowing steady and bright, the soup kettle bubbling with gentle vigor, and the preservation smoker sending thin wisps into the dawn air. "Master Maren," Lila said, "I understand now how the three great nutrients feed our bodies, but I'm puzzled. Why do some villagers seem to burn through their daily bread like kindling, while others store every crumb?"
+
+Maren smiled, adjusting the airflow beneath each hearth with practiced precision. "Ah, you're asking about the great furnace within — what the learned ones call metabolism. Watch closely, dear apprentice, for these three fires mirror the very processes that turn your supper into the spark of life itself."
+
+She gestured to the bread oven, its stones radiating steady heat. "This represents your body's constant fire — the energy burned simply to keep your heart beating, lungs breathing, mind thinking. Like this oven that must stay warm even when empty, your body burns most of its fuel just staying alive. Some people have larger ovens — more muscle, bigger frames — and thus burn brighter always."
+
+Next, she stirred the bubbling soup. "This kettle shows the fire of movement and work. Every step you take, every basket you carry, every dance at harvest festival fans these flames higher. Those who move with purpose throughout their days keep this fire well-fed, while those who sit still let it dwindle to embers."
+
+At the smoker, Maren added a handful of apple wood chips that hissed and flared. "And this teaches the most curious lesson — your body must burn fuel simply to process fuel. Breaking down a tough root takes more fire than soft berries. Protein, like thick oak logs, demands much flame to consume, while sugars burn quick and easy like dry grass. Even the act of eating feeds the furnace."
+
+Lila watched the interplay of flames with growing wonder. "But Master, why do the fires burn differently in different people?"
+
+"Partly born, partly made," Maren replied, banking the coals with care. "Your grandmother's oven may run naturally hot or cool, but you tend the flames daily. Build your muscles like stoking the hearth stones — they'll burn bright even while you sleep. Move your body like feeding the active fire — it grows with use. Choose your foods like a wise fire-tender — some fuel burns clean and long, others leave only ash and smoke."
+
+She paused, watching a young hawk circle overhead with effortless grace. "Remember this, Lila: the villagers with 'quick-burning' fires often simply carry more muscle and move more freely through their days. The ones who 'store every crumb' may have let their fires bank too low through stillness and poor tending. But here's the healer's secret — these fires can be rekindled and retrained with patience and wisdom."
+
+**Moral:** *Metabolism is not fate but craft — the daily tending of your body's inner fires through movement, nourishment, and the building of lean strength.*
+
+*Tomorrow, Lila would learn why the smallest seeds in Maren's medicine garden held the greatest power over the body's vast furnace...*`,
+  },
+  {
+    day: 8,
+    title: "Micronutrients — The Orchestrators of Life",
+    date: "2026-03-01",
+    image: "images/nutrition-science/day-8.jpg",
+    sonnet: `**🪶 Sonnet VIII: The Orchestrators of Life**
+
+In tiny vials lie the sparks of health,
+Vitamins and minerals, small yet grand,
+Though weightless seeming, they control all wealth
+Of energy that flows through blood and gland.
+
+The iron carries oxygen's sweet breath,
+While zinc awakens enzymes by the score,
+And magnesium guards against slow death
+Of cells that cry for ATP and more.
+
+Fat-soluble guardians A, D, E, and K
+Store patient in the body's hidden vaults,
+While water's children wash away each day,
+Demanding fresh renewal without faults.
+
+*Though macronutrients fuel the flame so bright,*
+*These micro-servants orchestrate all light.*`,
+    standard: `🍎 Day 8: Micronutrients — The Orchestrators of Life
+
+Yesterday we explored metabolism as your body's dynamic energy engine, discovering that it responds to muscle mass, protein intake, and daily activity rather than genetic destiny. The answer to micronutrients: these vitamins and minerals don't provide calories, but they're the essential cofactors, enzymes, and catalysts that make every metabolic reaction possible — without them, your cellular machinery grinds to a halt.
+
+🧱 **The Concept**
+Micronutrients are vitamins and minerals required in small amounts that enable enzymes to catalyze biochemical reactions, support immune function, and maintain cellular structures. Unlike macronutrients, they provide no energy but are absolutely essential for converting food into usable energy and maintaining health.
+
+❓ **Why It Matters**
+Even mild micronutrient deficiencies can sabotage your metabolism, energy levels, and overall health despite adequate calorie intake. Modern processed foods provide plenty of calories but often lack the micronutrient density of whole foods. Understanding micronutrients helps you choose foods that not only fuel your body but optimize how efficiently that fuel burns.
+
+⚙️ **How It Works**
+**Fat-soluble vitamins** (A, D, E, K) are stored in body fat and liver, requiring dietary fat for absorption — vitamin D enables calcium absorption, while vitamin K activates proteins for bone health and blood clotting. **Water-soluble vitamins** (B-complex and C) aren't stored long-term and must be replenished daily — B vitamins serve as coenzymes in energy metabolism, while vitamin C supports collagen synthesis and immune function. **Minerals** like iron carry oxygen in hemoglobin, zinc activates over 300 enzymes, and magnesium participates in more than 600 biochemical reactions including ATP production. **Trace elements** like selenium and chromium are needed in tiny amounts but have outsized impacts — selenium protects against oxidative stress, while chromium helps regulate blood sugar. Nutrient synergies matter tremendously: vitamin C enhances iron absorption, while calcium can inhibit iron uptake when consumed together.
+
+📖 **Definitions**
+• **Cofactors**: Non-protein compounds that help enzymes catalyze biochemical reactions
+• **Fat-soluble vitamins**: A, D, E, K — stored in fat tissue and require fat for absorption
+• **Water-soluble vitamins**: B-complex and C — not stored long-term, need daily replenishment
+• **Bioavailability**: The proportion of a nutrient that can be absorbed and used by the body
+• **Nutrient density**: The amount of beneficial nutrients relative to calories in a food
+
+🎯 **Science Wisdom**
+Micronutrients are like a symphony orchestra — each plays a small part, but together they create the music of life. Focus on nutrient-dense whole foods rather than isolated supplements, as nutrients work synergistically and food provides them in their most bioavailable forms.
+
+❓ **Tomorrow's Question:**
+*Now that we understand both macronutrients and micronutrients, how does the timing and combination of what we eat affect our energy, performance, and health throughout the day?*`,
+    parable: `Lila found Maren in her herb garden at dawn, examining leaves with a magnifying lens made of polished crystal. "Master, yesterday you showed me how the great hearths of metabolism burn our food for energy. But what makes the flames burn bright and steady?"
+
+Maren plucked a single basil leaf, holding it up to catch the morning light. "Watch closely, child. Do you see the green that captures sunlight? The oils that give fragrance? The countless compounds invisible to our eyes?" She crushed the leaf between her fingers, releasing its aroma. "A leaf weighs almost nothing, yet contains hundreds of substances that could heal or harm, strengthen or weaken."
+
+Leading Lila to her workshop, Maren opened a chest filled with tiny vials of powders, oils, and crystalline substances. "Your body's hearths burn food for warmth and energy, yes — but without these," she gestured to the collection, "the fires would sputter and die. These are the spark-makers, the flame-tenders, the invisible servants that make all reactions possible."
+
+She picked up two vials — one containing iron-red powder, another with golden oil. "Iron carries the breath of life through your blood, but without this golden helper," she held up the oil, "the iron cannot be absorbed. They are partners in an ancient dance, each incomplete without the other."
+
+Maren arranged the vials in groups. "Some dissolve in water and flow away quickly — they must be replenished like water in a vessel. Others dissolve in oil and hide in your body's stores, waiting patiently for their moment of need. Each has its role, its timing, its perfect partner."
+
+"But Master," Lila asked, "if they're so small, so seemingly insignificant, how can they matter so much?"
+
+Maren smiled, lighting a candle with a tiny spark. "Tell me, child — which is more important to this flame: the wick, the wax, or the spark that ignites them?" She paused as understanding dawned in Lila's eyes. "Without the spark, there is no fire. Without these tiny orchestrators, there is no symphony of life."
+
+**The Moral:** The smallest elements often wield the greatest power, orchestrating the grand performances of life through invisible acts of service.
+
+*Tomorrow, Maren would teach Lila about the sacred rhythms of nourishment — when and how the body best receives its gifts throughout the day's cycles.*`,
+  },
 ];

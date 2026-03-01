@@ -663,4 +663,170 @@ As the morning lesson concluded, Sable gathered the stones carefully. "Remember,
 
 *Tomorrow, Kael would discover that even the finest stones must be acquired at the right price...*`,
   },
+  {
+    day: 8,
+    title: "The Price Tag — Valuing Investments Like a Business Owner",
+    date: "2026-03-01",
+    image: "images/financial-independence/day-8.jpg",
+    sonnet: `**🪶 Sonnet VIII: The Price Tag**
+
+The merchant's scale weighs gold, but not true worth,
+For price is but emotion dressed as fact.
+While markets swing between great joy and dearth,
+The wise investor keeps his mind intact.
+
+A tree that bears sweet fruit year after year
+Holds value in its roots and fertile ground,
+Not in the seller's greed or buyer's fear,
+Nor in the crowd's applause or worried sound.
+
+The patient gardener counts each future spring,
+Each harvest that the seasons will bestow,
+And calculates what golden years will bring
+Before he pays for what he hopes to grow.
+
+*Let others chase the market's fickle dance—*
+*True wealth awaits the valuer's patient glance.*`,
+    standard: `💰 Day 8: The Price Tag — Valuing Investments Like a Business Owner
+
+Yesterday we learned to identify quality investments through Buffett's three-screen filter. The answer to pricing lies in thinking like a business owner — what would you pay to own this entire company?
+
+🧱 **The Concept**
+Intrinsic value is what a business is actually worth based on its ability to generate cash, not what the stock market says it's worth on any given day.
+
+❓ **Why It Matters**
+Price is what you pay, value is what you get. Even the best company becomes a poor investment if you overpay. The stock market is emotional — it swings between greed and fear, often pricing stocks far above or below their true worth. Patient investors who buy quality businesses below their intrinsic value and wait for the market to recognize that value create lasting wealth.
+
+⚙️ **How It Works**
+Buffett uses several methods to estimate intrinsic value:
+
+**The Earnings Method**: If a company earns $1 billion annually and you expect 7% returns, it's worth roughly $14 billion ($1B ÷ 0.07). Compare this to the market capitalization.
+
+**The Asset Method**: What could you sell the company's assets for? This works for banks, real estate companies, or asset-heavy businesses.
+
+**The Growth Method**: A company growing earnings 10% annually is worth more than one growing 3%. Factor expected growth into your valuation.
+
+**The Comparison Method**: How does the price compare to similar companies? If competitors trade at 15x earnings and your target trades at 25x, it might be overvalued.
+
+For beginners, focus on the price-to-earnings ratio (P/E) — paying 15x annual earnings is generally safer than paying 50x.
+
+📖 **Definitions**
+• **Intrinsic Value**: The true worth of a business based on its fundamentals
+• **Market Capitalization**: Total value of all company shares (share price × shares outstanding)
+• **Price-to-Earnings Ratio (P/E)**: Stock price divided by annual earnings per share
+• **Margin of Safety**: Buying below intrinsic value to protect against errors
+• **Mr. Market**: Buffett's metaphor for the stock market's emotional pricing
+
+🎯 **Buffett Wisdom**
+"Price is what you pay; value is what you get." The stock market is there to serve you, not guide you — use its emotional swings to buy quality businesses when they're on sale.
+
+❓ **Tomorrow's Question:**
+*You've identified quality investments and learned to value them — but how do you know when to pull the trigger and actually buy?*`,
+    parable: `The morning sun cast long shadows across the village square as Kael hurried to meet Sable at the old market stalls. The boy's mind buzzed with questions about the quality filter the elder had taught him, but today something different awaited.
+
+"Today, young merchant," Sable said, gesturing toward the bustling marketplace, "we learn the art of the price tag. Tell me, what would you pay for Tobren's finest apple tree?"
+
+Kael studied the gnarled tree heavy with crimson fruit. "I... I'm not sure, Master Sable. What does Tobren ask for it?"
+
+The elder's eyes twinkled. "Ah, but that's where most traders stumble. They ask what the seller wants, not what the tree is truly worth. Come, let us think like orchard owners."
+
+Together they examined the tree's yearly harvest, its health, its prime location. Sable showed Kael how to calculate the tree's intrinsic value — the sum of all future apple harvests, discounted for uncertainty.
+
+"This tree yields fifty gold worth of apples yearly," Sable explained. "If we expect that for twenty years, accounting for risk and time, the tree is worth perhaps six hundred gold pieces. Yet see how Tobren's asking price changes with his mood?"
+
+Indeed, the farmer had priced the tree at eight hundred gold when spirits were high after yesterday's successful market, but just last week, worried about drought, he would have sold for four hundred.
+
+"The tree's ability to bear fruit hasn't changed," Kael observed, understanding dawning. "Only Tobren's feelings have."
+
+"Precisely! The wise investor waits for fear to price quality below its worth, then strikes with the patience of a master gardener."
+
+**Moral**: *Value lies not in the asking price, but in the true worth of future returns.*
+
+*Tomorrow, Sable will teach Kael the final piece — when to act on these valuations...*`,
+  },
+  {
+    day: 9,
+    title: "The Shopping List — When Markets Go on Sale",
+    date: "2026-03-01",
+    image: "images/financial-independence/day-9.jpg",
+    sonnet: `**🪶 Sonnet IX: The Shopping List**
+
+When tempests rage through markets filled with fear,
+And panic grips the hearts of lesser men,
+The wise investor's opportunity draws near
+To fill his vault with treasures sold again.
+
+For quality lies broken on the floor,
+Cast down by trembling hands that cannot hold,
+While patient hunters seek what they're looking for:
+Great businesses now trading cheap as gold.
+
+The margin guards against our human flaw,
+This cushion 'tween the price and what it's worth,
+Let others chase momentum without law—
+We wait for fear to offer bargains forth.
+
+*When greed runs high, be cautious and take care,*
+*When others flee in terror, boldly dare.*`,
+    standard: `💰 Day 9: The Shopping List — When Markets Go on Sale
+
+Yesterday we learned to calculate intrinsic value like a business owner. The answer to timing purchases lies in waiting for Mr. Market's emotional sales — when fear creates opportunities that greed would never offer.
+
+🧱 **The Concept**
+The margin of safety is the difference between a stock's intrinsic value and its market price — your protective cushion against valuation errors and market volatility.
+
+❓ **Why It Matters**
+Even the best analysis can be wrong, and markets are unpredictable. By only buying when there's a significant gap between price and value, you protect yourself from permanent losses while positioning for substantial gains. This disciplined approach turns market crashes from disasters into shopping opportunities.
+
+⚙️ **How It Works**
+Buffett typically wants at least a 25-50% margin of safety before buying:
+
+**Example**: If you calculate a company's intrinsic value at $100 per share, wait until it trades below $75 (25% margin) or $50 (50% margin) before buying.
+
+**Market Timing**: Don't try to time the bottom — buy when quality businesses trade significantly below fair value. Recessions, industry scares, and temporary problems often create these opportunities.
+
+**Dollar-Cost Averaging**: If you find a quality business at a good price but aren't sure about timing, buy in portions over time to average your entry price.
+
+**The Shopping List**: Keep a list of quality companies you understand, with target buy prices. When Mr. Market panics and drives prices down, you're ready to act while others are paralyzed by fear.
+
+📖 **Definitions**
+• **Margin of Safety**: The cushion between purchase price and intrinsic value
+• **Bear Market**: Extended period of declining stock prices (20%+ drop)
+• **Dollar-Cost Averaging**: Buying fixed dollar amounts at regular intervals
+• **Target Price**: The maximum you're willing to pay for a specific investment
+• **Contrarian Investing**: Buying when others are selling, selling when others are buying
+
+🎯 **Buffett Wisdom**
+"Be fearful when others are greedy, and greedy when others are fearful." The best buying opportunities come when the market is most pessimistic about quality businesses.
+
+❓ **Tomorrow's Question:**
+*You've bought quality businesses at good prices — but how do you know when to sell, and what mistakes should you avoid along the way?*`,
+    parable: `The morning mist clung to the valley as Kael found Sable tending his small garden behind the cottage. The elder's weathered hands moved methodically among the herbs, selecting only the choicest leaves while leaving others to grow.
+
+"Master Sable," Kael began, "I understand how to spot quality businesses and value them, but when do I actually buy? The prices change every day."
+
+Sable smiled, holding up a handful of perfect sage leaves. "Tell me, young one, when do I harvest these herbs?"
+
+"When they're ready?" Kael ventured.
+
+"Precisely. But what if I told you I never harvest until they're more than ready — until there's abundance beyond what I need?" Sable gestured to the untouched sections of his garden. "This is my margin of safety. If I misjudge the herb's potency, if weather damages some leaves, if I drop a few on the way to market, I still have more than enough."
+
+Tobren approached from the fields, sweat beading his brow. "Forgive the interruption, but I couldn't help overhearing. It's like buying grain for winter, isn't it, Sable?"
+
+The elder nodded approvingly. "Indeed, friend Tobren. You keep a list of trusted merchants and the fair prices for quality grain. But you only buy when prices drop well below those fair values — when fear of oversupply or temporary troubles create abundance for the patient buyer."
+
+"Exactly!" Tobren exclaimed. "Last autumn, everyone panicked about the early frost rumors. Grain prices plummeted, though the harvest was actually fine. I bought enough for two winters at half the normal price, while others waited for prices to stabilize."
+
+Sable turned to Kael, his eyes twinkling. "The marketplace of investments works the same way. Keep a list of quality businesses you understand, with the prices you'd gladly pay for them. Then wait. When fear grips other investors — when they speak of doom and disaster — that's when you quietly make your purchases."
+
+"But what if I'm wrong about the value?" Kael asked.
+
+"That's why we demand our margin of safety," Sable replied, showing the extra herbs in his basket. "If I calculate a business is worth 100 gold pieces, I wait until I can buy it for 75, or better yet, 50. This cushion protects me from my own errors and the market's unpredictable moods."
+
+Tobren chuckled. "I remember the year of the locust scare. Everyone was selling grain cheap, terrified the crops would fail. But I'd studied the patterns, knew the risk was overblown. While others sold in fear, I bought with confidence. The harvest was bountiful, and my extra stores fed us well through the following lean spring."
+
+**Moral**: *True wealth comes not from predicting market movements, but from patiently waiting for fear to offer quality investments at prices that provide a generous margin of safety.*
+
+*Tomorrow, Sable will teach Kael the most difficult lesson of all — knowing when to let go, and the costly mistakes that can destroy years of patient accumulation...*`,
+  },
 ];
