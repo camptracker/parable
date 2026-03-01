@@ -108,12 +108,14 @@ async function main() {
     }
 
     if (recipientsAtLatest.length > 0) {
-      // Date guard: skip if latest lesson was already generated today
+      // Date guard: skip if we already generated a NEW lesson today
+      // (i.e., latestDay increased today). Check by seeing if latestDay's date is today
+      // AND latestDay > what it was at the start of this run (meaning orchestrate already bumped it)
       try {
         const latestJson = run(`npx tsx scripts/get-latest.ts ${seriesId}`);
         const latest = JSON.parse(latestJson);
-        if (latest.lesson?.date === today) {
-          console.error(`  ${seriesId} already generated today, skipping`);
+        if (latest.lesson?.date === today && latest.latestDay > latestDay) {
+          console.error(`  ${seriesId} already generated today (day ${latest.latestDay}), skipping`);
           continue;
         }
       } catch { /* no lessons yet, proceed */ }
