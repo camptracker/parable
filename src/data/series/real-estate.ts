@@ -181,4 +181,139 @@ The old landlord smiled, pointing to his stone cottage with its solid walls and 
 
 *Tomorrow, Dara will learn how Hallam chooses which properties deserve his silver — and which promises are merely fool's gold wrapped in pretty words.*`,
   },
+  {
+    day: 3,
+    title: "Finding and Evaluating Your First Rental",
+    date: "2026-03-01",
+    image: "images/real-estate/day-3.jpg",
+    sonnet: `**🪶 Sonnet III: Finding and Evaluating Your First Rental**
+
+Amidst the rows of houses standing tall,
+How does the wise investor choose their prize?
+Not beauty's face nor architecture's call,
+But numbers speak where lasting profit lies.
+
+The one percent rule serves as faithful guide,
+Where monthly rents should match the purchase cost.
+Cash flow reveals what ledgers cannot hide—
+If monthly gains exceed what you have lost.
+
+Seek neighborhoods where jobs and schools abound,
+Where families plant roots and businesses grow.
+For empty lots on economically sound
+Ground yield more gold than mansions' pretty show.
+
+*Let heart admire, but let the mind decide,*
+*For wealth flows where the numbers can't lie.*`,
+    standard: `🏠 Day 3: Finding and Evaluating Your First Rental
+
+Yesterday we learned that leverage risk can destroy wealth as quickly as it creates it, which is why successful investors use conservative ratios and maintain cash reserves. Today we tackle the practical question: how do you find and evaluate rental properties that actually make money?
+
+🧱 **The Concept**
+Property evaluation combines market research, financial analysis, and due diligence to identify rentals that generate positive cash flow and long-term appreciation potential.
+
+❓ **Why It Matters**
+Most new investors fall in love with properties based on emotion or surface appeal, ignoring the numbers that determine profitability. A beautiful house in a declining neighborhood will lose money, while an ordinary duplex in a growing area with strong rental demand can build wealth for decades. The difference between success and failure lies in systematic evaluation.
+
+⚙️ **How It Works**
+Start with market research: identify neighborhoods with job growth, good schools, low crime, and strong rental demand. Use online tools like Rentometer, BiggerPockets calculators, and local MLS data to understand rent ranges. Calculate the 1% rule as a quick screen — monthly rent should equal at least 1% of purchase price ($2,000 rent on a $200,000 property). Then dive deeper with cash flow analysis: subtract all expenses (mortgage, taxes, insurance, maintenance, vacancy allowance, property management) from rental income. For example, a $250,000 duplex renting for $2,800/month with $2,100 in total expenses yields $700 monthly cash flow. Factor in repairs, vacancies, and capital expenditures — successful investors budget 10-15% of rent for each.
+
+📖 **Definitions**
+• **1% Rule**: Monthly rent should equal 1% of purchase price as a basic screening tool
+• **Cash Flow**: Net rental income after all expenses
+• **Cap Rate**: Annual net operating income divided by purchase price
+• **Cash-on-Cash Return**: Annual cash flow divided by initial cash invested
+• **CapEx**: Capital expenditures for major repairs and replacements
+
+🎯 **Real Estate Wisdom**
+The best deals aren't found — they're recognized. Train your eye to see value where others see problems, but never let emotion override the numbers. A deal that doesn't work on paper won't work in reality.
+
+❓ **Tomorrow's Question:**
+*Once you've found a promising property, how do you structure the financing to maximize returns while minimizing risk?*`,
+    parable: `Dara had spent weeks watching Hallam inspect properties throughout the village, noting his careful attention to seemingly mundane details. "Master Hallam," she ventured one morning as they stood before a weathered cottage, "how do you choose which properties to purchase when so many seem similar?"
+
+Hallam smiled, producing a worn leather ledger from his coat. "Child, every building tells two stories — one with the heart, one with the mind. The heart sees charm and possibility, but the mind sees numbers and truth." He pointed to the cottage's sagging porch. "Your heart might see character in those warped boards. My mind calculates the cost of replacement and the months of lost rent."
+
+They walked through the village as Hallam demonstrated his method. At each property, he noted the surrounding businesses, counted foot traffic, and observed the condition of neighboring homes. "Location breathes life into property," he explained. "A humble dwelling near the new mill will outperform a mansion by the dying quarry."
+
+Returning to his study, Hallam opened ledgers filled with columns of numbers. "Here lies the secret, Dara. Each property must pass three tests: Will tenants pay enough rent to cover all expenses? Will the property appreciate as the village grows? Can I afford the carrying costs if tenants disappear for months?" He showed her calculations for different properties — some beautiful but unprofitable, others plain but wealth-building.
+
+"The greatest fortunes aren't built on the prettiest properties," Hallam concluded, "but on those that serve their numbers faithfully, month after month, year after year."
+
+**Moral:** *Beauty may catch the eye, but only sound numbers catch wealth.*
+
+*Tomorrow, Dara would learn how Hallam structured his purchases to amplify returns while protecting against disaster...*`,
+  },
+  {
+    day: 3,
+    title: "Finding and Evaluating Your First Rental Property",
+    date: "2026-03-01",
+    image: "images/real-estate/day-3.jpg",
+    sonnet: `**🪶 Sonnet III: Finding and Evaluating Your First Rental Property**
+
+When seeking stones to build your wealth's foundation,
+Let numbers guide your eye, not beauty's gleam,
+For monthly rent must match your gold's duration—
+The one percent that makes a landlord's dream.
+
+Walk through the streets where workers make their home,
+Near schools and trades where steady income flows,
+Avoid the grand but empty halls of Rome,
+Seek humble dwellings where the profit grows.
+
+Count every coin that leaves your monthly take—
+The tax, repair, and vacancy's cruel bite,
+Let fifty percent for hidden costs you make,
+And what remains shall be your true delight.
+
+*For those who buy with wisdom's careful art,*
+*Find riches where the cash flows, not the heart.*`,
+    standard: `🏠 Day 3: Finding and Evaluating Your First Rental Property
+
+Yesterday we learned how leverage risk can destroy investors who don't maintain reserves and use conservative assumptions. Today we answer: How do you actually find and evaluate your first rental property? What numbers matter most when deciding if a deal makes sense?
+
+🧱 **The Concept**
+Successful rental property evaluation combines location research, financial analysis, and market fundamentals to identify properties that generate positive cash flow and long-term appreciation.
+
+❓ **Why It Matters**
+Most new investors either overpay for properties or buy in weak rental markets, leading to negative cash flow and poor returns. The difference between a good deal and a bad deal often comes down to running the right numbers upfront. A property that looks profitable at first glance can become a money pit when you factor in realistic vacancy rates, maintenance costs, and property management fees.
+
+⚙️ **How It Works**
+Start with the 1% rule as a screening tool: monthly rent should equal at least 1% of purchase price. A $150,000 house should rent for $1,500/month minimum. Then calculate cash flow: monthly rent minus mortgage payment, taxes, insurance, vacancy allowance (5-10%), maintenance reserve (5-10%), and property management (8-12% if using a company). Use the 50% rule for quick estimates — expect expenses to eat roughly 50% of gross rental income. Research neighborhoods by driving them, checking crime stats, school ratings, and job growth. Look for properties near employment centers, universities, or growing industries. Always verify rent estimates with comparable properties currently on the market, not outdated listings.
+
+📖 **Definitions**
+• **1% Rule**: Monthly rent should equal 1% of purchase price for initial screening
+• **Cash Flow**: Monthly rental income minus all expenses including mortgage, taxes, insurance
+• **50% Rule**: Estimate that expenses will consume 50% of gross rental income
+• **Cap Rate**: Net operating income divided by property value (excludes mortgage)
+• **Gross Rent Multiplier (GRM)**: Purchase price divided by annual rental income
+• **Comparable Properties (Comps)**: Similar properties used to estimate market rent and value
+
+🎯 **Real Estate Wisdom**
+You make money when you buy, not when you sell. A great deal at the wrong price is still a bad investment. Focus on cash flow first, appreciation second — you can't eat equity.
+
+❓ **Tomorrow's Question:**
+*What financing options exist beyond traditional mortgages, and how can creative financing help you acquire properties with less money down?*`,
+    parable: `Dara had spent weeks walking through the village, notebook in hand, studying every cottage and shop with the eye of a future landlord. Old Hallam watched her methodical approach with growing approval.
+
+"Tell me, child, what makes a worthy investment?" he asked as they stood before a modest stone cottage near the market square.
+
+Dara consulted her notes. "The miller's family pays twelve silver coins monthly for their cottage by the river. This one is similar but costs only one hundred and twenty gold pieces. That means the rent equals one coin per ten gold pieces invested — what you taught me to call the golden tenth rule."
+
+Hallam nodded. "And what of the numbers beneath?"
+
+"The rent of twelve silver becomes six after I account for repairs, vacant months, and the tax collector's share," Dara replied. "If I borrowed eighty gold pieces at standard terms, the lender would claim four silver monthly. That leaves me two silver coins each month in my purse."
+
+"Wise calculations," Hallam said, leading her to another property. "But what of this grand house near the lord's manor?"
+
+Dara frowned at her figures. "It costs three hundred gold pieces but rents for only twenty silver monthly. The numbers fail your rules entirely. Though it appears more impressive, it would drain my purse each month."
+
+"Many young investors fall for such traps," Hallam warned. "They see grandeur where they should see poverty. The wealthy understand that a humble cottage paying its way surpasses a mansion that devours gold."
+
+As sunset painted the village roofs golden, Dara realized that true wealth came not from owning the finest properties, but from owning the most profitable ones.
+
+The moral: *Judge properties by their purse, not their appearance — for cash flow, not pride, builds lasting wealth.*
+
+Tomorrow, Hallam would reveal the ancient arts of acquiring properties without emptying one's treasury entirely...`,
+  },
 ];

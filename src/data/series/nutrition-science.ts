@@ -765,4 +765,138 @@ Maren smiled, lighting a candle with a tiny spark. "Tell me, child — which is 
 
 *Tomorrow, Maren would teach Lila about the sacred rhythms of nourishment — when and how the body best receives its gifts throughout the day's cycles.*`,
   },
+  {
+    day: 9,
+    title: "Nutrient Timing — The Rhythm of Optimal Fuel",
+    date: "2026-03-01",
+    image: "images/nutrition-science/day-9.jpg",
+    sonnet: `**🪶 Sonnet IX: Nutrient Timing — The Rhythm of Optimal Fuel**
+
+As morning breaks with cortisol's bright call,
+The body seeks its steady protein fire,
+While afternoon demands quick fuel for all
+The tasks that push performance ever higher.
+
+Before we train, swift carbohydrates dance
+To fuel the muscles' eager, burning need,
+Then protein joins in post-workout romance
+To heal and build from every planted seed.
+
+When evening falls and shadows softly creep,
+The gentler foods prepare us for night's rest,
+Magnesium's gift and tryptophan's deep
+Embrace that guides our bodies to be blessed.
+
+*Thus wisdom knows that when we eat matters more*
+*Than simple counting calories we store.*`,
+    standard: `🍎 Day 9: Nutrient Timing — The Rhythm of Optimal Fuel
+
+Yesterday we discovered micronutrients as the orchestrators of life, learning that these vitamins and minerals enable every metabolic reaction despite providing no calories themselves. The answer to nutrient timing: when and how you combine foods creates a rhythm that optimizes energy, performance, and health by working with your body's natural circadian cycles and metabolic needs.
+
+🧱 **The Concept**
+Nutrient timing involves strategically consuming specific macronutrients and micronutrients at optimal times to maximize energy utilization, support recovery, and align with your body's circadian rhythms. The timing and combination of nutrients can significantly impact blood sugar stability, hormone production, and cellular repair processes.
+
+❓ **Why It Matters**
+Your body's nutritional needs change throughout the day based on hormonal fluctuations, activity levels, and cellular repair cycles. Poor nutrient timing can lead to energy crashes, impaired recovery, disrupted sleep, and suboptimal metabolic health. Understanding these rhythms allows you to eat in harmony with your biology rather than against it, maximizing the benefits of every meal.
+
+⚙️ **How It Works**
+**Morning nutrition** should emphasize protein and healthy fats to support stable blood sugar and sustained energy as cortisol naturally peaks — a breakfast of eggs with vegetables provides amino acids for neurotransmitter production while avoiding the blood sugar spike of refined carbohydrates. **Pre-workout timing** benefits from easily digestible carbohydrates 30-60 minutes before exercise to fuel performance, while **post-workout nutrition** requires both protein for muscle repair and carbohydrates to replenish glycogen stores within the 30-minute anabolic window. **Evening meals** should be lighter and emphasize foods that support sleep — magnesium-rich leafy greens, tryptophan-containing proteins, and complex carbohydrates that promote serotonin production. **Intermittent fasting windows** can enhance cellular repair processes like autophagy, while **meal spacing** of 3-4 hours allows complete digestion and prevents constant insulin stimulation. Food combinations matter tremendously: pairing iron-rich foods with vitamin C enhances absorption, while consuming fiber with carbohydrates slows glucose absorption and prevents blood sugar spikes.
+
+📖 **Definitions**
+• **Circadian rhythms**: Internal biological clocks that regulate metabolism, hormone production, and cellular processes over 24-hour cycles
+• **Anabolic window**: The period after exercise when muscle protein synthesis is elevated and nutrient uptake is optimized
+• **Glycemic response**: The blood sugar rise and fall pattern following food consumption
+• **Autophagy**: Cellular "housekeeping" process that breaks down damaged components, enhanced during fasting periods
+• **Meal timing**: Strategic scheduling of food intake to optimize metabolic and physiological responses
+
+🎯 **Science Wisdom**
+Your body is not a simple calorie-counting machine but a sophisticated biological system with natural rhythms and optimal windows for different nutrients. Eating with intention and timing transforms food from mere fuel into medicine that supports your body's innate wisdom.
+
+❓ **Tomorrow's Question:**
+*We've explored macronutrients, micronutrients, and timing — but how do we navigate the overwhelming world of nutritional information to make practical, sustainable choices that fit our unique lives?*`,
+    parable: `Lila watched in fascination as Maren tended her three hearths with precise timing, each flame serving a different purpose throughout the day. "Master," she asked, "why do you feed each fire at such specific moments? Wouldn't it be simpler to keep them all burning the same way?"
+
+Maren smiled, stirring a pot of healing broth over the morning hearth. "Watch closely, child. See how I kindle the dawn fire with dry kindling and steady wood? This gives us the sustained warmth we need as the day awakens, just as our bodies need steady proteins and healthy fats when we rise."
+
+As the sun climbed higher, Maren moved to the second hearth, adding quick-burning twigs before Lila's archery practice. "Before you draw your bow, we feed this fire with swift fuel — it burns bright and fast, giving you immediate energy for your training, then settles to embers."
+
+That evening, as shadows lengthened, Maren approached the third hearth with different materials entirely — aromatic herbs, slow-burning logs, and fragrant roots. "The twilight fire requires gentle fuel," she explained, as calming scents filled the air. "We feed it with what promotes rest and healing, for this is when our bodies restore themselves."
+
+"But Master," Lila protested, "couldn't any fuel feed any fire at any time?"
+
+"Indeed it could," Maren replied, "but observe what happens when we work against the natural rhythm." She threw quick-burning twigs onto the evening fire — it flared violently, then died to ash, filling the room with harsh smoke. "When we force the wrong fuel at the wrong time, we create chaos instead of harmony."
+
+The next morning, Lila noticed how each hearth had served its purpose perfectly — the dawn fire had provided steady warmth through the night, the midday embers were ready for rekindling, and the evening fire had burned to the perfect glowing coals for the night's gentle heat.
+
+"Your body, like these hearths, has its own sacred rhythms," Maren said, banking the coals. "Feed it with wisdom, not just with volume. The right fuel at the right time creates the symphony of health."
+
+Moral: True nourishment honors the body's natural rhythms, providing the right nutrients at the right moments to create harmony rather than chaos.
+
+Tomorrow, Lila would learn that even the wisest principles mean nothing without the practical wisdom to apply them in daily life.`,
+  },
+  {
+    day: 9,
+    title: "Nutrient Timing — The Rhythm of Optimal Fuel",
+    date: "2026-03-01",
+    image: "images/nutrition-science/day-9.jpg",
+    sonnet: `**🪶 Sonnet IX: The Rhythm of Optimal Fuel**
+
+When morning light awakens sleeping earth,
+The body calls for fuel to start the day,
+As dawn's first fire gives metabolism birth,
+Sweet carbohydrates light the working way.
+
+Before great labors, simple energy flows,
+To power muscles through their destined task,
+But when the work is done, the body knows
+To seek repair — protein and carbs to ask.
+
+As evening shadows lengthen on the ground,
+The wisest souls choose gentler nourishment,
+While digestive rest in darkness can be found,
+And growth hormones work their night's intent.
+
+*Like seasons turn with earth's eternal dance,*
+*Our meals should flow with biology's advance.*`,
+    standard: `🍎 Day 9: Nutrient Timing — The Rhythm of Optimal Fuel
+
+Yesterday we explored micronutrients as the orchestrators of life, learning that these vitamins and minerals enable every metabolic reaction despite providing no calories themselves. The answer to nutrient timing: when and how you combine foods creates distinct metabolic states throughout the day — strategic timing optimizes energy, performance, and recovery by aligning nutrition with your body's natural circadian rhythms and physiological needs.
+
+🧱 **The Concept**
+Nutrient timing involves strategically consuming specific macronutrients and micronutrients at optimal times to maximize energy utilization, enhance performance, support recovery, and align with your body's natural metabolic rhythms.
+
+❓ **Why It Matters**
+Your body's ability to process and utilize nutrients fluctuates throughout the day based on hormonal cycles, activity levels, and circadian biology. Poor timing can lead to energy crashes, suboptimal performance, and inefficient nutrient utilization. Understanding nutrient timing helps you work with your biology rather than against it, creating sustained energy and better health outcomes.
+
+⚙️ **How It Works**
+**Morning metabolism** favors carbohydrates as cortisol levels peak and insulin sensitivity is high — this is when your body most efficiently converts glucose to energy rather than storing it as fat. **Pre-workout nutrition** should emphasize easily digestible carbohydrates for immediate energy and some protein to prime muscle protein synthesis, consumed 30-60 minutes before exercise. **Post-workout** represents a critical "anabolic window" where muscles are primed to absorb nutrients — combining protein (20-40g) with carbohydrates within 2 hours maximizes recovery and adaptation. **Evening meals** should emphasize protein and healthy fats while minimizing simple carbohydrates, as insulin sensitivity decreases and growth hormone release increases during sleep. **Intermittent fasting** periods allow digestive systems to rest and can improve insulin sensitivity, while **meal frequency** affects metabolic rate — eating every 3-4 hours maintains steady blood sugar and prevents metabolic slowdown.
+
+📖 **Definitions**
+• **Anabolic window**: Post-exercise period when muscles are most receptive to nutrients
+• **Insulin sensitivity**: How effectively cells respond to insulin and uptake glucose
+• **Circadian rhythm**: Your body's internal 24-hour biological clock
+• **Glycemic timing**: Strategic consumption of carbohydrates based on activity and metabolism
+• **Metabolic flexibility**: The ability to efficiently switch between fuel sources
+
+🎯 **Science Wisdom**
+Nutrient timing is like conducting a metabolic symphony — the same notes played at different times create entirely different effects. Align your eating patterns with your body's natural rhythms for optimal energy and health.
+
+❓ **Tomorrow's Question:**
+*Given that nutrient timing optimizes how we fuel our bodies, how do different cooking methods and food processing affect the bioavailability and nutritional value of what we eat?*`,
+    parable: `As dawn painted the village in golden hues, Lila found Maren at her eastern hearth, grinding fresh herbs with practiced precision. "Master," Lila began, "I understand that nutrients are like musicians in an orchestra, but when should this music play?"
+
+Maren smiled, gesturing to her three hearths arranged in perfect harmony. "Observe, dear apprentice. This eastern hearth burns brightest at sunrise, when the village awakens hungry and ready for the day's work. Here, I prepare warming broths rich in easily-digested grains — foods that spark the body's morning fire."
+
+She moved to the central hearth, where coals glowed steadily. "This hearth maintains constant warmth, like the body during active hours. Before great tasks, I prepare light, energizing meals. After hard work, when muscles cry out for repair, I craft hearty stews combining flesh and grain — the body welcomes such gifts most eagerly when it has labored."
+
+Finally, Maren approached the western hearth, where flames danced low and gentle. "As twilight approaches, this hearth offers quiet nourishment. Here I prepare foods that restore without overwhelming — rich broths, tender roots, and healing herbs that work their magic while the body rests."
+
+Lila watched in wonder as villagers arrived at different times, each drawn to the appropriate hearth. "But Master, how do they know which hearth serves their needs?"
+
+"The wise listen to their body's ancient rhythms," Maren replied, stirring a fragrant evening tonic. "The sun guides not only plants in their growing, but also the human form in its hunger and healing. Those who eat with the sun's wisdom find their energy flows like a clear stream — never flooding, never dry."
+
+**Moral**: *True nourishment honors the body's natural rhythms, providing the right fuel at the right time.*
+
+*Tomorrow, Maren will reveal why the manner of preparing food can transform its very essence...*`,
+  },
 ];
