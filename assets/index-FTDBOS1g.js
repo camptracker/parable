@@ -279,7 +279,7 @@ Compound interest is a tool — like fire. It can warm your home or burn it down
 
 Before you take on any debt, ask yourself: *Will this borrowed seed plant a harvest — or just buy a prettier satchel?*
 
-❓ *Tomorrow's tale: If debt can be a trap, can it ever be a bridge? How do you tell the difference between chains and wings?*`},{day:4,title:"Good Debt vs Bad Debt",date:"2026-02-28",image:"images/financial-independence/day-4.png",sonnet:`**🪶 Sonnet IV: The Bridge and the Chain**
+❓ *Tomorrow's tale: If debt can be a trap, can it ever be a bridge? How do you tell the difference between chains and wings?*`},{day:4,title:"Good Debt vs Bad Debt",date:"2026-02-28",image:"images/financial-independence/day-4.jpg",sonnet:`**🪶 Sonnet IV: The Bridge and the Chain**
 
 Two paths diverge where borrowed rivers flow—
 One builds a bridge across the churning deep,
@@ -690,7 +690,7 @@ Your body follows a strict order: burn carbs first (quick fuel), then fat (deep 
 
 > *"The wise keeper of the hearth does not fear an empty kindling pile — she knows the cellar is full."*
 
-❓ *Tomorrow's tale: Why does some kindling burn steady and warm, while other kindling flares bright and dies — leaving the house colder than before?*`},{day:4,title:"Simple vs Complex Carbs — The Glycemic Index",date:"2026-02-28",image:"images/nutrition-science/day-4.png",sonnet:`**🪶 Sonnet IV: The Straw and the Braid**
+❓ *Tomorrow's tale: Why does some kindling burn steady and warm, while other kindling flares bright and dies — leaving the house colder than before?*`},{day:4,title:"Simple vs Complex Carbs — The Glycemic Index",date:"2026-02-28",image:"images/nutrition-science/day-4.jpg",sonnet:`**🪶 Sonnet IV: The Straw and the Braid**
 
 Two bundles lay before the healer's door—
 One loose and dry, the other tightly wound.
