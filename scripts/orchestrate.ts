@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { resolve } from 'path';
-import { execSync } from 'child_process';
+import { execSync, exec } from 'child_process';
 
 const ROOT = resolve(import.meta.dirname!, '..');
 
@@ -16,12 +16,15 @@ const run = (cmd: string, input?: string) => {
 };
 
 const runAsync = (cmd: string, input?: string): Promise<string> => {
-  return new Promise((resolve, reject) => {
-    try {
-      const result = run(cmd, input);
-      resolve(result);
-    } catch (err) {
-      reject(err);
+  console.error(`> (async) ${cmd}`);
+  return new Promise((res, rej) => {
+    const child = exec(cmd, { cwd: ROOT, encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 }, (err, stdout, stderr) => {
+      if (err) return rej(err);
+      res(stdout.trim());
+    });
+    if (input && child.stdin) {
+      child.stdin.write(input);
+      child.stdin.end();
     }
   });
 };
@@ -128,9 +131,9 @@ async function main() {
 
   // ── Phase 2: Generate all lessons in parallel ──
   console.error('Phase 2: Generating lessons in parallel...');
-  const lessonTasks = generationQueue.map(q => () => {
+  const lessonTasks = generationQueue.map(q => async () => {
     console.error(`  Generating ${q.seriesId} day ${q.newDay}...`);
-    const lessonJson = run(`npx tsx scripts/generate-lesson.ts ${q.seriesId}`);
+    const lessonJson = await runAsync(`npx tsx scripts/generate-lesson.ts ${q.seriesId}`);
     const generated = JSON.parse(lessonJson);
     const titleMatch = generated.standard.match(/Day \d+:\s*(.+)/);
     const title = titleMatch ? titleMatch[1].replace(/\*\*/g, '').trim() : `Day ${q.newDay}`;
