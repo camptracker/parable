@@ -5,36 +5,16 @@ import Home from './pages/Home';
 import SeriesPage from './pages/SeriesPage';
 import LessonPage from './pages/LessonPage';
 
-type ThemeMode = 'dark' | 'light' | 'auto';
-
-function getSystemTheme(): 'dark' | 'light' {
-  return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
-}
-
-function getInitialMode(): ThemeMode {
-  const saved = localStorage.getItem('parable-theme');
-  if (saved === 'light' || saved === 'dark' || saved === 'auto') return saved;
-  return 'auto';
-}
-
 function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
-  const [mode, setMode] = useState<ThemeMode>(getInitialMode);
-  const [systemTheme, setSystemTheme] = useState<'dark' | 'light'>(getSystemTheme);
 
   useEffect(() => {
     const mq = window.matchMedia('(prefers-color-scheme: light)');
-    const handler = () => setSystemTheme(mq.matches ? 'light' : 'dark');
-    mq.addEventListener('change', handler);
-    return () => mq.removeEventListener('change', handler);
+    const apply = () => document.documentElement.setAttribute('data-theme', mq.matches ? 'light' : 'dark');
+    apply();
+    mq.addEventListener('change', apply);
+    return () => mq.removeEventListener('change', apply);
   }, []);
-
-  const resolved = mode === 'auto' ? systemTheme : mode;
-
-  useEffect(() => {
-    document.documentElement.setAttribute('data-theme', resolved);
-    localStorage.setItem('parable-theme', mode);
-  }, [mode, resolved]);
 
   return (
     <HashRouter>
@@ -43,9 +23,6 @@ function App() {
         <div className="main-content">
           <button className="hamburger" onClick={() => setSidebarOpen(true)} aria-label="Open menu">
             ☰
-          </button>
-          <button className="theme-toggle" onClick={() => setMode(m => m === 'auto' ? 'light' : m === 'light' ? 'dark' : 'auto')} title={`Theme: ${mode}`}>
-            {mode === 'auto' ? '🖥️' : resolved === 'dark' ? '☀️' : '🌙'}
           </button>
           <Routes>
             <Route path="/" element={<Home />} />
