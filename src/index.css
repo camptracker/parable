@@ -170,7 +170,6 @@ body {
 /* Lesson hero image */
 .lesson-hero {
   margin: 0 -1.5rem 2rem;
-  border-radius: 0 0 12px 12px;
   overflow: hidden;
 }
 .lesson-hero img { width: 100%; height: auto; display: block; object-fit: cover; }
