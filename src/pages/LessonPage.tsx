@@ -8,7 +8,7 @@ export default function LessonPage() {
   const s = getSeriesById(seriesId || '');
   const dayNum = Number(day);
   const lesson = s?.lessons.find((l) => l.day === dayNum);
-  const [mode, setMode] = useState<'parable' | 'standard' | 'sonnet'>('parable');
+  const [mode, setMode] = useState<'parable' | 'standard'>('parable');
 
   useEffect(() => { window.scrollTo(0, 0); }, [seriesId, day]);
 
@@ -50,13 +50,10 @@ export default function LessonPage() {
       <div className="toggle-container">
         <button className={`toggle-btn ${mode === 'parable' ? 'active' : ''}`} onClick={() => setMode('parable')}>🏰 Parable</button>
         <button className={`toggle-btn ${mode === 'standard' ? 'active' : ''}`} onClick={() => setMode('standard')}>📖 Standard</button>
-        {lesson.sonnet && (
-          <button className={`toggle-btn ${mode === 'sonnet' ? 'active' : ''}`} onClick={() => setMode('sonnet')}>🪶 Sonnet</button>
-        )}
       </div>
 
       <article className={`lesson-content ${mode}`} key={mode}>
-        <ReactMarkdown>{mode === 'parable' ? lesson.parable : mode === 'sonnet' ? (lesson.sonnet || '') : lesson.standard}</ReactMarkdown>
+        <ReactMarkdown>{mode === 'parable' ? lesson.parable : lesson.standard}</ReactMarkdown>
       </article>
 
       <nav className="bottom-nav">
