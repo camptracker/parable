@@ -405,5 +405,109 @@ Debt is a river. You can build a bridge across it — borrowing to invest in som
 > *"Before you take a single borrowed seed, ask: am I building a mill, or buying a cloak?"*
 
 ❓ *Tomorrow's tale: Kael has learned to earn, to compound, and to borrow wisely. But how much of each harvest should he keep for himself — and how much should he replant?*`
+  },
+  {
+    day: 5,
+    title: "Pay Yourself First — The 50/30/20 Rule",
+    date: "2026-03-01",
+    image: "images/financial-independence/day-5.jpg",
+    sonnet: `**🪶 Sonnet V: The First Harvest Keeper**
+
+Before the merchant comes, before the tax,
+Before the baker takes his loaf of bread,
+Before the tailor mends the coat that cracks—
+The wise man sets his portion first, instead.
+
+For he who pays the world before himself
+Finds nothing left when winter's shadow falls.
+His seeds are spent on every merchant's shelf,
+And empty is the cellar past his walls.
+
+But she who takes the first fruit of her toil
+And plants it deep where no one else can reach,
+Builds slowly on the compound-fertile soil
+A fortress time and patience came to teach.
+
+*Pay every debt, but pay yourself the first—*
+*For no one guards your harvest but your thirst.*`,
+    standard: `**💰 Day 5: Pay Yourself First — The 50/30/20 Rule**
+
+Now that you understand earning, compounding, and the difference between good and bad debt, we answer the practical question: *how much of your income should you save versus spend?*
+
+🧱 **The Concept**
+Pay Yourself First means treating savings like your most important bill — it comes out before anything else, not after. The 50/30/20 rule gives you a simple framework: 50% for needs, 30% for wants, 20% for savings and debt payoff.
+
+❓ **Why It Matters**
+Most people save whatever's "left over" at the end of the month. Spoiler: there's never anything left over. By flipping the order — saving first, spending second — you guarantee your future self gets fed. This single habit separates people who build wealth from people who wonder where their money went.
+
+⚙️ **How It Works**
+Imagine your paycheck is a harvest of 100 seeds. Before you buy anything — before rent, groceries, entertainment — you take 20 seeds and put them in your planting jar. They're gone. Untouchable. They go straight to savings or investments.
+
+The remaining 80 seeds split like this:
+- **50 seeds (Needs)**: Rent, food, utilities, insurance, minimum debt payments — the non-negotiables
+- **30 seeds (Wants)**: Dining out, streaming, hobbies, new clothes — the things you enjoy but could survive without
+
+The 20% isn't a suggestion — it's a minimum. If you can do 30% or 40%, even better. The point is: your future self eats first.
+
+📖 **Definitions**
+• **Pay Yourself First**: Automatically setting aside savings before discretionary spending
+• **50/30/20 Rule**: A budgeting framework — 50% needs, 30% wants, 20% savings/investing
+• **Emergency Fund**: 3-6 months of expenses saved in cash for unexpected events
+• **Automation**: Setting up auto-transfers to savings so willpower isn't required
+
+🎯 **Buffett Wisdom**
+"Do not save what is left after spending; spend what is left after saving." Buffett lived in the same modest house he bought in 1958 for $31,500 — even as a billionaire. He understood that wealth isn't about earning more; it's about keeping more of what you earn.
+
+❓ **Tomorrow's Question:**
+*You're saving 20% — but where should you put it? What's the difference between a savings account, the stock market, and other places your money can grow?*`,
+    parable: `**🏰 The Parable of the First Harvest Keeper**
+
+Kael had been planting diligently. His small patch of seeds was growing — slowly, but growing. Yet each harvest, the same thing happened: the baker needed payment, the toolsmith needed payment, the landlord needed payment. By the time everyone was paid, Kael's planting jar was nearly empty.
+
+---
+
+"I earn well enough," he told Sable one evening, frustrated. "But there's never anything left to plant."
+
+Sable didn't look up from her tea. "That's because you're paying yourself last."
+
+"What do you mean? I pay what I owe."
+
+"Exactly. You pay the baker. The toolsmith. The landlord. The merchant. And whatever crumbs remain, you plant." She finally looked at him. "Tell me — if planting is the most important thing you do, why does it get the leftovers?"
+
+---
+
+Kael had no answer.
+
+"Here is what I did when I was young," Sable said. "Every harvest, before I paid anyone — before the baker, before the landlord, before I even bought dinner — I took two handfuls out of every ten and put them in a jar behind a locked door."
+
+"But what about your bills?"
+
+"I paid them from the remaining eight handfuls. And you know what I discovered? Eight handfuls was always enough. I adjusted. I found cheaper bread. I mended my own clothes. But those two handfuls? They went into the planting jar *every single harvest*, without exception."
+
+---
+
+"Two out of ten," Kael repeated. "That's…"
+
+"Twenty percent. And here's the secret — I never *decided* to save. I made it automatic. The jar behind the locked door filled itself because I never gave myself the chance to spend it. The decision was made once, and then it was done."
+
+She tapped the table. "Most people in this village earn enough to build a grove. But they pay the world first and themselves last. So the world gets rich, and they stay poor."
+
+---
+
+Kael went home that night and found a jar with a heavy lid. He placed it on the highest shelf, behind a sack of flour.
+
+The next morning, when Tobren paid him for lending seeds, Kael counted ten handfuls — and immediately put two in the jar before touching the rest.
+
+It felt strange. Like he was stealing from himself. But by week's end, he realized Sable was right: eight handfuls covered everything he needed. And the jar on the high shelf was fuller than his planting fund had ever been.
+
+---
+
+**🌾 The Moral**
+
+The world will always find ways to spend your harvest. Bakers, merchants, landlords, temptations — they line up before you can blink. The only way to guarantee your future is to pay yourself *first*, before anyone else gets a seed.
+
+> *"The harvest keeper who waits until the end finds nothing left to keep. The one who takes her share first finds that the rest is always enough."*
+
+❓ *Tomorrow's tale: Kael's jar is filling — but where should he plant those saved seeds? Under his mattress? In Tobren's field? Somewhere else entirely?*`
   }
 ];

@@ -450,5 +450,114 @@ All carbohydrates are kindling — but their structure determines whether they b
 > *"The wise do not ask 'how much kindling?' but 'how is it bound?' For the same straw, braided, outlasts a bonfire of loose chaff."*
 
 ❓ *Tomorrow's tale: Lila has mastered the kindling. But what about the hardwood — the building fuel? How much does the body truly need, and what crumbles when it doesn't get enough?*`
+      },
+      {
+        day: 5,
+        title: "Protein — The Body's Master Builder",
+        date: "2026-03-01",
+        image: "images/nutrition-science/day-5.jpg",
+        sonnet: `**🪶 Sonnet V: The Mason's Craft**
+
+When storms have torn the roof and cracked the wall,
+When muscle aches from labor long endured,
+A silent mason answers every call—
+With brick and mortar, damage is obscured.
+
+He works by night when weary builders sleep,
+Repairing sinew, stitching bone to bone,
+His mortar made from meals the body keeps—
+From egg and fish and seed, from flesh and stone.
+
+But give him straw where he requires clay,
+And watch the walls grow thin, the rafters bow.
+The house still stands — but weaker every day,
+A crumbling frame that time will disallow.
+
+*Feed well the mason working through the night—*
+*For protein keeps the body's structure right.*`,
+        standard: `**🍎 Day 5: Protein — The Body's Master Builder**
+
+Yesterday we explored how different carbs burn at different speeds. Now we turn to the second hearth: *how much protein do you actually need, and what happens if you don't get enough?*
+
+🧱 **The Concept**
+Protein is the building material of your body. It repairs muscle, builds immune cells, creates enzymes and hormones, and maintains virtually every tissue. Unlike carbs and fat, your body can't store protein — you need a steady daily supply.
+
+❓ **Why It Matters**
+Without enough protein, your body starts cannibalizing itself — breaking down muscle to get the amino acids it needs. This is why crash dieters lose muscle, why elderly people get frail, and why athletes who skip protein recover slowly. It's also the most satiating macro — protein keeps you full longer than carbs or fat.
+
+⚙️ **How It Works**
+Think of protein as Lego bricks. The foods you eat contain chains of amino acids — 20 different types. Your body breaks these chains apart during digestion, then reassembles them into whatever it needs: muscle fibers, antibodies, hair, skin, digestive enzymes.
+
+Nine of these amino acids are "essential" — your body can't make them, so you must eat them. Animal sources (meat, eggs, dairy, fish) contain all nine. Most plant sources are missing one or two, which is why vegetarians need to combine sources (beans + rice, for example).
+
+**How much?** A solid baseline is **0.7–1.0 grams per pound of body weight** if you're active, or about **0.36 grams per pound** at bare minimum. A 150-pound person needs at least 54g daily just to avoid deficiency — closer to 105-150g for optimal health and muscle maintenance.
+
+📖 **Definitions**
+• **Amino Acids**: The 20 building blocks that make up all proteins
+• **Essential Amino Acids**: 9 amino acids your body cannot produce — must come from food
+• **Complete Protein**: A food containing all 9 essential amino acids (eggs, meat, soy, quinoa)
+• **Incomplete Protein**: A food missing one or more essential amino acids (most grains, most legumes)
+• **Protein Synthesis**: The process of building new proteins from amino acids — happens constantly
+
+🎯 **Science Wisdom**
+Protein has the highest "thermic effect" of any macronutrient — your body burns about 20-30% of protein calories just digesting it, compared to 5-10% for carbs and 0-3% for fat. So 100 calories of chicken costs your body 25 calories to process, while 100 calories of butter costs almost nothing. Protein literally makes your metabolism work harder.
+
+❓ **Tomorrow's Question:**
+*We've covered carbs and protein — now what about fat? It's the most calorie-dense macro, but is dietary fat actually bad for you, or has the "low-fat" era been wrong all along?*`,
+        parable: `**🏰 The Parable of the Night Mason**
+
+Lila had been hauling water, chopping herbs, and scrubbing floors for a week now — apprentice work that left her muscles sore and her hands raw. One morning she woke to find the blisters on her palms had healed overnight, the soreness in her shoulders was gone.
+
+---
+
+"How?" she asked Maren, flexing her fingers in amazement.
+
+"You have a mason," Maren said.
+
+"A... mason?"
+
+"A builder who works while you sleep. Every night, he inspects the damage — torn muscle, worn skin, cracked bone — and repairs it. Brick by brick, fiber by fiber."
+
+Maren led her to the second hearth — the one fed with dense hardwood blocks.
+
+"This is his fuel. **Protein**. Without it, the mason has no bricks. He shows up for work and finds his hands empty."
+
+---
+
+"What happens then?" Lila asked.
+
+Maren's face darkened. "Then he steals from the walls. Your body begins dismantling existing muscle to get the building blocks it needs elsewhere — for your heart, your blood, your immune soldiers. You get weaker. Thinner. Not lighter — *weaker*. There is a difference."
+
+She held up an egg. "Inside this shell are twenty different types of bricks — amino acids, the village calls them. Nine of them are rare — your body cannot make them. They must come from food. Every day."
+
+"What if I miss a day?"
+
+"One day, the mason manages. A week? The house starts showing cracks."
+
+---
+
+Maren set out a row of foods on the table: eggs, dried fish, lentils, a block of firm tofu, a handful of nuts.
+
+"The animal foods — eggs, fish, meat — carry all nine rare bricks in one package. The plants carry most, but each is missing one or two." She placed the lentils next to a bowl of rice. "That's why the village grandmothers always pair beans with grain. Together, they complete each other."
+
+Lila picked up the egg, turning it in her hand. "How many bricks do I need each day?"
+
+"For a working apprentice? About a fistful of protein at every meal. Your body cannot store bricks the way it stores kindling or cellar logs. What you eat today gets used today. Tomorrow, the mason needs a fresh delivery."
+
+---
+
+That evening, Maren served a dinner of grilled fish over lentils with roasted vegetables. Lila noticed something: she felt full — genuinely, deeply full — in a way that porridge alone never achieved.
+
+"The building fuel satisfies differently," Maren explained. "Your body knows when the mason has what he needs. It stops asking for more."
+
+---
+
+**🌾 The Moral**
+
+Protein is not fuel to burn — it's material to build. Your body uses it every night to repair, rebuild, and maintain the house you live in. Without a steady supply, the house crumbles from within.
+
+> *"The mason works without complaint, but he cannot build with air. Feed him daily, and the house stands strong. Starve him, and he tears down walls to patch the roof."*
+
+❓ *Tomorrow's tale: Lila has mastered the kindling and the building wood. But what of the third hearth — the deep, slow-burning logs of fat? Is fat the enemy the village gossips claim, or has the village been wrong all along?*`
       }
 ];
