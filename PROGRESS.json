@@ -1,5 +1,20 @@
 {
   "financial-independence": {
+    "latestDay": 11,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 11
+      },
+      "zany": {
+        "telegramId": "8483194333",
+        "username": "Zanyh2012",
+        "lastDaySent": 9
+      }
+    }
+  },
+  "nutrition-science": {
     "latestDay": 10,
     "recipients": {
       "jon": {
@@ -10,87 +25,72 @@
       "zany": {
         "telegramId": "8483194333",
         "username": "Zanyh2012",
-        "lastDaySent": 8
-      }
-    }
-  },
-  "nutrition-science": {
-    "latestDay": 9,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 9
-      },
-      "zany": {
-        "telegramId": "8483194333",
-        "username": "Zanyh2012",
-        "lastDaySent": 5
+        "lastDaySent": 6
       }
     }
   },
   "negotiation": {
-    "latestDay": 5,
+    "latestDay": 6,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 5
+        "lastDaySent": 6
       }
     }
   },
   "stoic-philosophy": {
-    "latestDay": 5,
+    "latestDay": 6,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 5
+        "lastDaySent": 6
       }
     }
   },
   "music-theory": {
-    "latestDay": 3,
+    "latestDay": 4,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 3
+        "lastDaySent": 4
       }
     }
   },
   "real-estate": {
-    "latestDay": 3,
+    "latestDay": 4,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 3
+        "lastDaySent": 4
       }
     }
   },
   "storytelling": {
-    "latestDay": 3,
+    "latestDay": 4,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 3
+        "lastDaySent": 4
       }
     }
   },
   "building-relationships": {
-    "latestDay": 3,
+    "latestDay": 4,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 3
+        "lastDaySent": 4
       },
       "zany": {
         "telegramId": "8483194333",
         "username": "Zanyh2012",
-        "lastDaySent": 2
+        "lastDaySent": 3
       }
     }
   }

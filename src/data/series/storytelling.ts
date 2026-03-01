@@ -258,71 +258,7 @@ Osha handed him a strand that shimmered between courage and cowardice. "Try agai
 
 *Tomorrow, Pip will discover why even the most compelling characters need something more — the invisible force that transforms peaceful scenes into edge-of-your-seat tension...*`,
   },
-  {
-    day: 3,
-    title: "The Heart of Story — Creating Characters That Breathe",
-    date: "2026-03-01",
-    image: "images/storytelling/day-3.jpg",
-    sonnet: `**🪶 Sonnet III: The Heart of Story — Creating Characters That Breathe**
 
-Not gods who walk on earth without a flaw,
-Nor devils carved from darkness, cold and stark,
-But souls who stumble, fall, yet still press on,
-With light and shadow wrestling in their heart.
-
-The merchant wants his gold, yet needs true love,
-The hero fears the very thing she'd save,
-The villain weeps for innocence long lost—
-These contradictions make them bold and brave.
-
-For in the cracks where broken mirrors dwell,
-We glimpse the truth that perfect glass conceals:
-That want and need wage war within us all,
-And wounded hearts are what the story heals.
-
-*So craft your players flawed but fierce and true,*
-*For broken mirrors best reflect me, you.*`,
-    standard: `📖 Day 3: The Heart of Story — Creating Characters That Breathe
-
-Structure provides the roadmap, but memorable stories live or die by their characters. A character that feels like a real person rather than a plot device has **internal logic** — desires, fears, and contradictions that drive their choices even when those choices surprise us.
-
-🧱 **The Concept**
-Great characters have both **external goals** (what they want) and **internal needs** (what they actually require for growth), creating natural conflict within themselves.
-
-❓ **Why It Matters**
-Readers don't connect with perfect heroes or pure villains — they connect with people who feel real. Characters with internal contradictions make choices that feel both surprising and inevitable. When we understand a character's deepest fear or desire, their actions carry emotional weight that transcends plot mechanics.
-
-⚙️ **How It Works**
-Start with **want versus need**. Harry Potter wants to belong somewhere, but needs to learn that love requires sacrifice. Walter White wants to provide for his family, but needs to confront his pride and fear of insignificance. This tension creates an **internal arc** that mirrors the external plot. Add **contradictory traits** — a brave character who's afraid of intimacy, a kind person with a cruel temper. These contradictions make characters unpredictable yet consistent. Finally, give them a **ghost** — a past wound that explains their behavior without excusing it. Scrooge's loneliness explains his miserliness but doesn't justify it.
-
-📖 **Definitions**
-• **External Goal**: What the character consciously wants to achieve
-• **Internal Need**: What the character must learn or overcome to grow
-• **Character Arc**: The internal journey from one emotional state to another
-• **Ghost**: A past wound or trauma that shapes current behavior
-• **Contradictory Traits**: Opposing qualities that make characters complex and unpredictable
-
-🎯 **Storytelling Wisdom**
-Characters aren't people, but they must feel like people. The best characters are walking contradictions — flawed enough to be human, compelling enough to follow anywhere.
-
-❓ **Tomorrow's Question:**
-*You have compelling characters on an emotional journey, but how do you keep readers turning pages? What creates that irresistible forward momentum that makes a story unputdownable?*`,
-    parable: `Pip sat by Osha's loom, watching her weathered fingers work the threads. "I create characters," he said, "but they feel hollow, like puppets dancing on strings."
-
-Osha's shuttle paused mid-weave. "Once," she began, her voice carrying the weight of centuries, "there lived a merchant who sold only mirrors. Each glass showed a perfect reflection — flawless, beautiful, empty. Customers would gaze and see exactly what they expected: themselves without blemish."
-
-She pulled a thread loose, creating a small imperfection in the pattern. "But in the corner of his shop sat a cracked mirror, warped and scarred. This mirror showed truth — the merchant's hidden kindness, his secret shame, his desperate need to be loved despite his greed. People fled from this mirror, for it revealed not just their faces, but their souls."
-
-"One day a child gazed into the cracked glass and laughed with delight. 'Look!' she cried. 'I can see my heart!' The merchant, watching her joy, finally understood. He shattered all his perfect mirrors and learned to love the broken one."
-
-Pip frowned. "But surely people prefer the perfect reflection?"
-
-Osha resumed weaving, incorporating the loose thread into a new pattern. "Your characters, dear bard, are like those perfect mirrors — they show only what the audience expects. But a true character is the cracked glass, revealing contradictions that make us human. Give them wants that war with their needs, virtues that birth their very flaws."
-
-**Moral:** Characters who feel real are beautifully broken — their cracks catch the light and reveal the depths within.
-
-*Tomorrow, Pip discovers why even the most compelling characters need something more to make stories truly irresistible...*`,
-  },
   {
     day: 4,
     title: "The Invisible Hand — Mastering Tension and Suspense",

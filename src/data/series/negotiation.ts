@@ -393,76 +393,7 @@ Vasska's good eye twinkled. "I gave him something more precious than silk, young
 
 *Tomorrow, Ren would learn how even the most hostile hearts could be softened, when Vasska faced a merchant who despised all traders from their distant homeland...*`,
   },
-  {
-    day: 5,
-    title: "The Illusion of Control - Calibrated Questions That Guide Without Commanding",
-    date: "2026-03-01",
-    image: "images/negotiation/day-5.jpg",
-    sonnet: `**🪶 Sonnet V: The Illusion of Control**
 
-What sorcery lies within a question's art,
-That guides the mind while seeming to retreat?
-The asker yields control, yet plays the part
-Of shepherd, making others' thoughts complete.
-
-"How shall we solve this puzzle that we face?"
-Transforms resistance into willing thought.
-The questioned one now owns the reasoning space,
-And champions solutions they have wrought.
-
-No force required when curiosity leads,
-For minds engage when challenged to explore.
-The clever trader plants the questioning seeds,
-Then watches as another opens doors.
-
-*Ask not what they should do, but how they might—*
-*And watch them think their way into your sight.*`,
-    standard: `🤝 Day 5: The Illusion of Control - Calibrated Questions That Guide Without Commanding
-
-When you give someone permission to say "No," you create psychological safety that transforms resistance into collaboration. But how do you guide that collaboration toward your desired outcome?
-
-🧱 **The Concept**
-Calibrated questions create the illusion of control by making the other person feel they're driving the conversation while you subtly steer toward your objectives.
-
-❓ **Why It Matters**
-People resist being told what to do but embrace solutions they believe they discovered themselves. Calibrated questions bypass the rational mind's defenses and engage the problem-solving instincts. When someone feels in control of the decision-making process, they become emotionally invested in the outcome. FBI negotiators use this to make suspects feel empowered while actually constraining their options to safe choices.
-
-⚙️ **How It Works**
-Calibrated questions typically start with "How" or "What" and avoid "Why" (which triggers defensiveness). Instead of "You need to lower your price," ask "How am I supposed to accept this price when my budget is X?" This makes them solve your problem. "What would you need to see happen for this to work?" puts them in the driver's seat while revealing their true constraints. A manager might ask "How do you see this project getting completed on time?" rather than dictating deadlines. The key is removing yourself as the source of pressure — you become a collaborator helping them solve a puzzle they now own.
-
-📖 **Definitions**
-• **Calibrated Questions**: Open-ended questions designed to guide thinking without triggering resistance
-• **Illusion of Control**: The feeling of being in charge while actually being influenced
-• **Solution Ownership**: When people feel they discovered the answer themselves
-• **Indirect Influence**: Guiding behavior without direct commands or pressure
-
-🎯 **Negotiation Wisdom**
-The person asking the questions controls the conversation. Make them think, and they'll think their way to your conclusion.
-
-❓ **Tomorrow's Question**
-*How do you use strategic silence and calculated pauses to create psychological pressure that works in your favor?*`,
-    parable: `Ren watched as Vasska faced the silk merchant's impossible demand — triple the usual price for passage through the mountain pass. The one-eyed trader didn't argue or refuse. Instead, he leaned back thoughtfully.
-
-"How do you see us paying triple fare when our current cargo barely covers normal passage?" Vasska asked, his voice genuinely curious.
-
-The merchant frowned, suddenly tasked with solving a puzzle. "Well... perhaps you have other goods?"
-
-"What would need to happen for you to feel comfortable with our usual rate?" Vasska continued, making the merchant dig deeper into his own reasoning.
-
-The merchant's expression shifted as he began calculating. "The danger has increased... but if you could guarantee safe passage for my nephew's caravan next month..."
-
-Vasska nodded encouragingly. "How would that arrangement work exactly?"
-
-Within minutes, the merchant had talked himself into not just the original rate, but a future partnership. Ren marveled at how Vasska had made the merchant feel brilliant while guiding him exactly where he wanted.
-
-"Young merchant," Vasska later explained, "never tell someone what to think. Ask them how to think, and they'll think their way to your conclusion. Questions don't threaten — they invite. And people cherish solutions they believe they discovered."
-
-Ren nodded, understanding dawning like sunrise over the trading routes.
-
-**Moral**: The person asking questions controls the conversation without appearing to control anything at all.
-
-*Tomorrow, Ren would learn that sometimes the most powerful word in negotiation is the one left unspoken...*`,
-  },
   {
     day: 6,
     title: "Tactical Empathy - Mirroring Emotions to Disarm Hostility",

@@ -834,71 +834,7 @@ Moral: True nourishment honors the body's natural rhythms, providing the right n
 
 Tomorrow, Lila would learn that even the wisest principles mean nothing without the practical wisdom to apply them in daily life.`,
   },
-  {
-    day: 9,
-    title: "Nutrient Timing — The Rhythm of Optimal Fuel",
-    date: "2026-03-01",
-    image: "images/nutrition-science/day-9.jpg",
-    sonnet: `**🪶 Sonnet IX: The Rhythm of Optimal Fuel**
 
-When morning light awakens sleeping earth,
-The body calls for fuel to start the day,
-As dawn's first fire gives metabolism birth,
-Sweet carbohydrates light the working way.
-
-Before great labors, simple energy flows,
-To power muscles through their destined task,
-But when the work is done, the body knows
-To seek repair — protein and carbs to ask.
-
-As evening shadows lengthen on the ground,
-The wisest souls choose gentler nourishment,
-While digestive rest in darkness can be found,
-And growth hormones work their night's intent.
-
-*Like seasons turn with earth's eternal dance,*
-*Our meals should flow with biology's advance.*`,
-    standard: `🍎 Day 9: Nutrient Timing — The Rhythm of Optimal Fuel
-
-Yesterday we explored micronutrients as the orchestrators of life, learning that these vitamins and minerals enable every metabolic reaction despite providing no calories themselves. The answer to nutrient timing: when and how you combine foods creates distinct metabolic states throughout the day — strategic timing optimizes energy, performance, and recovery by aligning nutrition with your body's natural circadian rhythms and physiological needs.
-
-🧱 **The Concept**
-Nutrient timing involves strategically consuming specific macronutrients and micronutrients at optimal times to maximize energy utilization, enhance performance, support recovery, and align with your body's natural metabolic rhythms.
-
-❓ **Why It Matters**
-Your body's ability to process and utilize nutrients fluctuates throughout the day based on hormonal cycles, activity levels, and circadian biology. Poor timing can lead to energy crashes, suboptimal performance, and inefficient nutrient utilization. Understanding nutrient timing helps you work with your biology rather than against it, creating sustained energy and better health outcomes.
-
-⚙️ **How It Works**
-**Morning metabolism** favors carbohydrates as cortisol levels peak and insulin sensitivity is high — this is when your body most efficiently converts glucose to energy rather than storing it as fat. **Pre-workout nutrition** should emphasize easily digestible carbohydrates for immediate energy and some protein to prime muscle protein synthesis, consumed 30-60 minutes before exercise. **Post-workout** represents a critical "anabolic window" where muscles are primed to absorb nutrients — combining protein (20-40g) with carbohydrates within 2 hours maximizes recovery and adaptation. **Evening meals** should emphasize protein and healthy fats while minimizing simple carbohydrates, as insulin sensitivity decreases and growth hormone release increases during sleep. **Intermittent fasting** periods allow digestive systems to rest and can improve insulin sensitivity, while **meal frequency** affects metabolic rate — eating every 3-4 hours maintains steady blood sugar and prevents metabolic slowdown.
-
-📖 **Definitions**
-• **Anabolic window**: Post-exercise period when muscles are most receptive to nutrients
-• **Insulin sensitivity**: How effectively cells respond to insulin and uptake glucose
-• **Circadian rhythm**: Your body's internal 24-hour biological clock
-• **Glycemic timing**: Strategic consumption of carbohydrates based on activity and metabolism
-• **Metabolic flexibility**: The ability to efficiently switch between fuel sources
-
-🎯 **Science Wisdom**
-Nutrient timing is like conducting a metabolic symphony — the same notes played at different times create entirely different effects. Align your eating patterns with your body's natural rhythms for optimal energy and health.
-
-❓ **Tomorrow's Question:**
-*Given that nutrient timing optimizes how we fuel our bodies, how do different cooking methods and food processing affect the bioavailability and nutritional value of what we eat?*`,
-    parable: `As dawn painted the village in golden hues, Lila found Maren at her eastern hearth, grinding fresh herbs with practiced precision. "Master," Lila began, "I understand that nutrients are like musicians in an orchestra, but when should this music play?"
-
-Maren smiled, gesturing to her three hearths arranged in perfect harmony. "Observe, dear apprentice. This eastern hearth burns brightest at sunrise, when the village awakens hungry and ready for the day's work. Here, I prepare warming broths rich in easily-digested grains — foods that spark the body's morning fire."
-
-She moved to the central hearth, where coals glowed steadily. "This hearth maintains constant warmth, like the body during active hours. Before great tasks, I prepare light, energizing meals. After hard work, when muscles cry out for repair, I craft hearty stews combining flesh and grain — the body welcomes such gifts most eagerly when it has labored."
-
-Finally, Maren approached the western hearth, where flames danced low and gentle. "As twilight approaches, this hearth offers quiet nourishment. Here I prepare foods that restore without overwhelming — rich broths, tender roots, and healing herbs that work their magic while the body rests."
-
-Lila watched in wonder as villagers arrived at different times, each drawn to the appropriate hearth. "But Master, how do they know which hearth serves their needs?"
-
-"The wise listen to their body's ancient rhythms," Maren replied, stirring a fragrant evening tonic. "The sun guides not only plants in their growing, but also the human form in its hunger and healing. Those who eat with the sun's wisdom find their energy flows like a clear stream — never flooding, never dry."
-
-**Moral**: *True nourishment honors the body's natural rhythms, providing the right fuel at the right time.*
-
-*Tomorrow, Maren will reveal why the manner of preparing food can transform its very essence...*`,
-  },
   {
     day: 10,
     title: "Nutritional Discernment — Cutting Through the Information Overload",

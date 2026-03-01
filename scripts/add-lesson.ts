@@ -36,6 +36,13 @@ async function main() {
     parable: \`${escapeBackticks(lesson.parable)}\`,
   },`;
 
+  // Check for duplicate day
+  const dayRegex = new RegExp(`day:\\s*${lesson.day}\\b`);
+  if (dayRegex.test(content)) {
+    console.error(`Day ${lesson.day} already exists in ${seriesId}, skipping`);
+    process.exit(0);
+  }
+
   // Insert before the closing ];
   const closingIndex = content.lastIndexOf('];');
   if (closingIndex === -1) {
