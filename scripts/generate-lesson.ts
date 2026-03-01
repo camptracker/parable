@@ -105,7 +105,7 @@ Return ONLY valid JSON. No markdown code fences. No explanation.`;
   const result = JSON.parse(jsonStr);
 
   // Add style to dallePrompt
-  result.dallePrompt = `Create an image based on this sonnet: ${result.sonnet} Do not add words to image`;
+  result.dallePrompt = `Classical oil painting with Rembrandt lighting, rich golden amber tones, dramatic chiaroscuro. Scene inspired by this sonnet: ${result.sonnet} Do not include any text or words in the image.`;
 
   console.log(JSON.stringify(result));
 }
