@@ -406,4 +406,79 @@ Debt is a river. You can build a bridge across it — borrowing to invest in som
 
 ❓ *Tomorrow's tale: Kael has learned to earn, to compound, and to borrow wisely. But how much of each harvest should he keep for himself — and how much should he replant?*`
   },
+  {
+    day: 5,
+    title: "The 50/30/20 Rule",
+    date: "2026-03-01",
+    image: "images/financial-independence/day-5.jpg",
+    sonnet: `**🪶 Sonnet V: The Three Vessels**
+
+From one clear stream, three vessels must be filled,
+Each portion measured by eternal law:
+The first, with half, keeps mortal needs fulfilled—
+Shelter and bread, without which life withdraws.
+
+The second holds what makes existence bright,
+Three portions out of ten for joy and art,
+For music, love, and laughter's pure delight
+That feeds the hungered, ever-yearning heart.
+
+But wisest is the third vessel's sacred share,
+Two portions kept for tomorrow's golden dawn,
+Where patient drops grow into fortunes fair
+And freedom's seeds in silence are withdrawn.
+
+*Balance these three and watch your wealth take flight,*
+*As darkness turns compound drops to light.*`,
+    standard: `**💰 Day 5: The 50/30/20 Rule**
+
+Yesterday we learned to distinguish good debt (which puts money in your pocket) from bad debt (which takes it out). Today we answer: *what's the simplest rule for deciding how much of your income to save versus spend?*
+
+🧱 **The Concept**
+The 50/30/20 rule divides your after-tax income into three buckets: 50% for needs, 30% for wants, and 20% for savings and debt repayment.
+
+❓ **Why It Matters**
+Without a clear spending plan, money disappears into lifestyle inflation and impulse purchases. This rule creates automatic boundaries that ensure you're building wealth while still enjoying life. It's simple enough to follow but flexible enough to adapt to your situation.
+
+⚙️ **How It Works**
+Start with your take-home pay. **Needs (50%)** cover rent, utilities, groceries, minimum debt payments, insurance — things you truly cannot live without. **Wants (30%)** are dining out, entertainment, hobbies, travel — everything that makes life enjoyable but isn't essential. **Savings (20%)** includes emergency fund contributions, retirement accounts, extra debt payments, and investments.
+
+If you earn $4,000 monthly after taxes: $2,000 for needs, $1,200 for wants, $800 for savings. Can't fit your needs into 50%? Your housing might be too expensive. Struggling to save 20%? Start with 10% and increase gradually. The rule bends, but never break the savings habit.
+
+The magic happens in the 20% bucket — that's your compound interest machine from Day 2, working every month to buy your freedom.
+
+📖 **Definitions**
+• **Take-home pay**: Your income after taxes and deductions
+• **Needs**: Essential expenses required for basic living
+• **Wants**: Discretionary spending that enhances lifestyle
+• **Pay yourself first**: Saving before spending on wants
+• **Lifestyle inflation**: Increasing spending as income rises
+
+🎯 **Buffett Wisdom**
+Buffett lives this principle in reverse — he determines what he needs, enjoys some wants, then invests everything else. "Do not save what is left after spending, but spend what is left after saving."
+
+❓ **Tomorrow's Question:**
+*You're saving 20% consistently — but where exactly should those savings go first to build the strongest financial foundation?*`,
+    parable: `The morning mist clung to the valley as Kael found Sable tending three clay vessels by the stream, each filled with water from the same source.
+
+"Elder," Kael began, "I understand earning like water flowing, and the magic of letting drops multiply. I know which debts are thorns and which are bridges. But how do I know where each drop should go?"
+
+Sable smiled, lifting the first vessel. "This holds half your water — for what sustains life itself. Food, shelter, warmth. Without these, the body fails." She poured carefully, the water crystal clear.
+
+She raised the second vessel. "This holds three portions of ten — for what brings joy to life. Music, stories, celebration. Without these, the spirit withers." The water danced as it fell.
+
+"And this?" Kael asked, watching her lift the third vessel.
+
+"Two portions of ten — for tomorrow's freedom." Sable's voice grew reverent. "These drops you never touch. They multiply in darkness, growing stronger while you sleep, until one day they flow back as a river."
+
+Tobren approached, carrying his own three vessels. "I learned this truth through seasons of plenty and famine," he said. "When harvest came, I spent freely on everything I desired. Come winter, I had nothing. Now I fill these vessels first — needs, then joys, then tomorrow. The third vessel saved my farm."
+
+Sable nodded. "The vessels must balance, young Kael. Too much to needs and you live without beauty. Too much to wants and you live without security. Too little to tomorrow and you live without hope. But maintain the balance, and abundance flows to all three."
+
+As evening fell, Kael watched the three vessels catch moonlight, understanding at last how to channel the stream of his days.
+
+**Moral**: *Like water finding its level, prosperity flows to those who divide their resources with wisdom — providing for today while securing tomorrow.*
+
+*Tomorrow, Sable will reveal where the third vessel's water should flow first to create the strongest foundation...*`,
+  },
 ];

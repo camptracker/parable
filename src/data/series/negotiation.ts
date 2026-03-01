@@ -115,4 +115,76 @@ The first rule of negotiation is not persuasion — it's understanding. Before y
 
 ❓ *Tomorrow's tale: Ren learned to listen. But what is the one question that keeps people talking — and why does Vasska never ask "why"?*`
   },
+  {
+    day: 2,
+    title: "The Magic of \"What\" and \"How\"",
+    date: "2026-03-01",
+    image: "images/negotiation/day-2.jpg",
+    sonnet: `**🪶 Sonnet II: The Magic of "What" and "How"**
+
+When "why" demands that hearts defend their ground,
+And minds retreat to castles built of pride,
+The clever tongue seeks gentler ways around—
+Asks "what" and "how" to draw the truth outside.
+
+For "why" awakens ancient fears of blame,
+While "what" invites the story to unfold,
+And "how" transforms the other from a name
+Into a partner, brave and wise and bold.
+
+The prefrontal cortex loves to solve,
+To paint with words the pictures in the mind,
+When questions help, not hurt, when they revolve
+Around the truth that both sides hope to find.
+
+*So ask not "why" but "how" and "what" instead,*
+*And watch defensive walls turn bridges red.*`,
+    standard: `🤝 Day 2: The Magic of "What" and "How"
+
+Yesterday we learned that tactical empathy opens people up by making them feel understood. The answer to our question: FBI negotiators avoid "why" because it triggers defensiveness and justification. Instead, they use "what" and "how" questions that invite explanation without judgment.
+
+🧱 **The Concept**
+"What" and "how" questions are open-ended inquiries that encourage elaboration while avoiding the psychological trap of making someone defend their position.
+
+❓ **Why It Matters**
+When you ask "Why did you do that?" the person's brain interprets it as an attack — they must justify and defend. But "What led you to that decision?" or "How did you come to that conclusion?" invites storytelling. Stories reveal motivations, constraints, and hidden needs that "why" questions would never uncover.
+
+⚙️ **How It Works**
+Chris Voss discovered that "why" questions make people feel accused, triggering their amygdala into fight-or-flight mode. But "what" and "how" engage the prefrontal cortex — the thinking, problem-solving part of the brain. Instead of asking "Why won't you accept this offer?" try "What would need to change for this to work for you?" The first question creates an adversary; the second creates a collaborator. "How am I supposed to do that?" is Voss's favorite — it forces the other person to solve your problem with you. When someone explains *how* something could work, they're mentally committed to making it happen.
+
+📖 **Definitions**
+• **Open-ended questions**: Questions that can't be answered with yes/no and require explanation
+• **Prefrontal cortex**: The brain's executive center responsible for logical thinking and problem-solving
+• **Calibrated questions**: Carefully crafted "what" and "how" questions designed to guide thinking
+• **Defense mechanisms**: Psychological responses that protect ego when feeling attacked
+
+🎯 **Negotiation Wisdom**
+The goal isn't to win an argument — it's to understand the problem so completely that the solution becomes obvious to both parties.
+
+❓ **Tomorrow's Question:**
+*What happens when you deliberately say something wrong about what the other person wants — and why does this "mirroring" mistake actually move negotiations forward?*`,
+    parable: `The next morning, Ren found Vasska examining a bolt of silk, his weathered fingers testing its weight. "Master, yesterday you showed me how understanding opens doors. But how do I keep them talking once they trust me?"
+
+Vasska's blind eye caught the light as he smiled. "Observe, young merchant." A wool trader approached, clearly frustrated. "These eastern silks cost too much! Why should I pay double for something my customers barely notice?"
+
+Ren expected Vasska to justify the price. Instead, the master trader tilted his head. "What makes you feel the price doesn't match the value?"
+
+The trader's shoulders relaxed. "Well, my customers are simple folk. They want warm wool, not fancy threads. How am I supposed to sell luxury to people counting every coin?"
+
+"Ah," Vasska nodded slowly. "What kind of customers would appreciate both quality and value?"
+
+Suddenly the trader was thinking, not defending. "The inn-keepers, perhaps. They need durability for their guest rooms, but also something that looks prosperous..."
+
+"How would we need to adjust the offering to serve them perfectly?"
+
+By day's end, they'd designed a custom order — less decorative silk, more practical weave — at a price that satisfied both parties.
+
+Later, Ren marveled. "You never asked why he objected."
+
+"'Why' makes a man defend his castle walls," Vasska explained. "'What' and 'how' invite him to open the gates and show you around. When someone explains their world to you, they begin to trust you with its treasures."
+
+**Moral:** Questions that seek understanding build bridges; questions that demand justification build walls.
+
+**Tomorrow:** The master trader will teach Ren why sometimes the best way forward is to get something deliberately wrong...`,
+  },
 ];

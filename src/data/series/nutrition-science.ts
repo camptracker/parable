@@ -113,4 +113,69 @@ Every bite of food is a tiny flame. Your body is the hearth. Understanding how m
 
 ❓ *Tomorrow's tale: What are the three types of fuel — and why does Maren keep three separate hearths?*`
       },
+  {
+    day: 2,
+    title: "The Three Macronutrients - Your Body's Fuel Sources",
+    date: "2026-03-01",
+    image: "images/nutrition-science/day-2.jpg",
+    sonnet: `**🪶 Sonnet II: The Three Macronutrients - Your Body's Fuel Sources**
+
+Three fires burn within our mortal frame,
+Each fuel distinct in purpose and in power:
+Swift carbs like kindling feed the dancing flame
+That lights our steps through each demanding hour.
+
+The patient fats, like seasoned logs that glow,
+Burn long and steady, warming flesh and bone,
+While proteins, craftsmen of our form below,
+Build sinew, cell, and make our strength their own.
+
+Not one alone can serve our body's need—
+The sugar burns too bright and fades too fast,
+The fat too slow when urgent actions plead,
+Protein too precious for mere fuel to last.
+
+*When three flames dance in harmony's embrace,*
+*They forge the fire that fuels our human race.*`,
+    standard: `🍎 Day 2: The Three Macronutrients - Your Body's Fuel Sources
+
+Yesterday we learned that calories measure energy from food. The answer to our question: your body burns three types of fuel — **carbohydrates**, **fats**, and **proteins** — and each affects your energy, hunger, and health differently.
+
+🧱 **The Concept**
+All food contains three macronutrients: carbs, fats, and proteins. These are your body's only sources of calories, each providing different amounts of energy per gram.
+
+❓ **Why It Matters**
+Not all calories are created equal. A 500-calorie meal of salmon and vegetables affects your blood sugar, hunger hormones, and energy levels completely differently than 500 calories of candy. Understanding macronutrients explains why some foods keep you satisfied for hours while others leave you hungry in 30 minutes.
+
+⚙️ **How It Works**
+**Carbohydrates** (4 calories per gram) are quick-burning fuel — like kindling on a fire. Simple carbs (sugar, white bread) burn fast and hot, spiking blood sugar then crashing. Complex carbs (oats, sweet potatoes) burn slower and steadier. **Fats** (9 calories per gram) are slow-burning logs that provide sustained energy and help you feel full. Think olive oil, nuts, avocado. **Proteins** (4 calories per gram) are the construction crew — they build and repair muscle, organs, and enzymes. Your body can burn protein for energy, but it prefers to use it for maintenance and growth.
+
+Most foods contain combinations of macronutrients. An egg has protein and fat. Beans have protein and carbs. Understanding these ratios helps you build meals that provide steady energy and lasting satisfaction.
+
+📖 **Definitions**
+• **Macronutrients**: The three calorie-containing nutrients: carbs, fats, proteins
+• **Simple Carbs**: Fast-digesting sugars that spike blood glucose quickly
+• **Complex Carbs**: Slow-digesting starches and fibers that provide steady energy
+• **Essential Amino Acids**: Protein building blocks your body can't make and must get from food
+• **Satiety**: The feeling of fullness and satisfaction after eating
+
+🎯 **Science Wisdom**
+The magic happens in the combination. Protein slows carb absorption, preventing blood sugar spikes. Fat triggers satiety hormones that tell your brain "I'm full." This is why an apple with peanut butter keeps you satisfied longer than an apple alone.
+
+❓ **Tomorrow's Question:**
+*Why does your body need 20 different amino acids, but you only have to eat 9 of them?*`,
+    parable: `Lila found Maren tending three different fires in her healing chamber — one crackling bright with dry twigs, another glowing steady with seasoned oak, and the third burning slow with dense hardwood.
+
+"Each flame serves a purpose," Maren explained, stirring a pot over the twig fire. "This quick blaze heats water fast but dies quickly — like the sweet fruits that give you swift energy but leave you wanting more." She gestured to the oak fire roasting vegetables. "This steady flame cooks evenly and lasts — like the grains and roots that sustain you through long work." Finally, she pointed to the hardwood fire, barely flickering but radiating deep heat. "And this patient fire burns longest, like the nuts and oils that keep your inner flame warm through the coldest nights."
+
+Lila watched the three fires dance in their hearths. "But Master, why three fires? Why not just use one?"
+
+"Watch," Maren said, taking a ember from each fire and placing them together in a fourth hearth. The combined flames burned brighter and more steadily than any alone. "Your body is like my kitchen, child. It needs all three fuels working together. The quick-burning sweet foods awaken your energy. The steady grains sustain your daily tasks. The slow-burning fats nourish your deepest needs. But here's the wisdom — " she added a handful of dried herbs to the combined fire, and it settled into a perfect, enduring glow. "When you add the builders — the foods that repair and strengthen your body like these healing herbs — the three fires work in harmony."
+
+As the evening shadows deepened, Lila understood: like Maren's fires, her body needed not just fuel, but the right kinds of fuel, balanced and purposeful.
+
+**Moral:** True nourishment comes not from any single source, but from the harmony of all three flames — quick energy, steady fuel, and patient sustenance — burning together in wisdom.
+
+*Tomorrow, Lila would learn why some of the body's building blocks must come from the world beyond, while others are forged within...*`,
+  },
 ];
