@@ -980,4 +980,81 @@ Kael pondered deeply. "Impatience, Elder. A tree can survive drought, but not th
 
 *Tomorrow, Sable would teach Kael how to tend an entire orchard, balancing different crops for both sustenance and prosperity...*`,
   },
+  {
+    day: 11,
+    title: "The Balanced Garden — Portfolio Construction and Risk Management",
+    date: "2026-03-01",
+    image: "images/financial-independence/day-11.jpg",
+    sonnet: `**🪶 Sonnet XI: The Balanced Garden**
+
+Not all in wheat, nor scattered thin and wide,
+The prudent gardener plants with careful thought.
+Few chosen seeds in fertile rows reside,
+Each placement planned, each purpose firmly wrought.
+
+The apple tree claims space with rightful pride,
+While herbs take smaller plots but vital ground.
+No empty soil where weeds might come to hide,
+Yet room for treasure when it can be found.
+
+Through seasons harsh some plants may fail to thrive,
+But others flourish in their destined place.
+This wisdom keeps the harvest garden alive
+When single crops would meet a swift disgrace.
+
+*For he who tends with knowledge, not with chance,*
+*Finds plenty growing in his balance dance.*`,
+    standard: `💰 Day 11: The Balanced Garden — Portfolio Construction and Risk Management
+
+Yesterday we mastered the patience to hold great businesses forever and the wisdom to know when to sell. The answer to building a complete portfolio lies in diversification across quality businesses while maintaining concentrated conviction in your best ideas.
+
+🧱 **The Concept**
+Buffett advocates for focused diversification: own 5-10 exceptional businesses rather than hundreds of mediocre ones, spreading risk across different industries while maintaining conviction.
+
+❓ **Why It Matters**
+Over-diversification leads to average returns, while concentration without diversification creates unnecessary risk. The goal is to own enough quality businesses to sleep well at night while maintaining enough focus to beat the market. Risk comes from not knowing what you're doing, not from concentration in quality businesses.
+
+⚙️ **How It Works**
+**Focused Portfolio**: Build around 5-10 core positions in businesses you understand deeply. This allows you to monitor each investment properly while maintaining meaningful positions. **Industry Diversification**: Don't put all holdings in one sector. Spread across consumer goods, technology, healthcare, and financials to reduce sector-specific risk. **Position Sizing**: Your largest position might be 20-25% of your portfolio, smallest around 5-10%. Size positions based on conviction and margin of safety, not arbitrary equal weighting. **Cash Management**: Keep some cash available (5-15%) for exceptional opportunities, but don't hoard cash waiting for crashes that may never come.
+
+📖 **Definitions**
+• **Diversification**: Spreading investments across different assets to reduce risk
+• **Concentration Risk**: Risk from having too much money in one investment
+• **Position Sizing**: Determining how much to invest in each holding
+• **Sector Allocation**: Distribution of investments across different industries
+• **Portfolio Turnover**: How frequently holdings are bought and sold
+
+🎯 **Buffett Wisdom**
+"Diversification is protection against ignorance. It makes little sense if you know what you are doing." Focus on quality over quantity.
+
+❓ **Tomorrow's Question:**
+*You've built a focused portfolio of quality businesses — but how do you handle the psychological challenges when markets crash and your carefully chosen stocks plummet 30-50%?*`,
+    parable: `The morning sun cast long shadows as Kael found Sable tending to her garden behind the cottage. Unlike Tobren's vast fields of single crops, Sable's plot contained carefully arranged sections—herbs near the kitchen door, fruit trees along the southern wall, vegetables in neat rows, and flowering plants throughout.
+
+"Your garden is different from Tobren's farm," Kael observed, watching her prune a rose bush.
+
+Sable smiled, brushing dirt from her hands. "Tobren grows wheat because wheat feeds many. But what if blight strikes wheat alone? His whole harvest fails." She gestured to her diverse plantings. "Here I grow herbs for healing, fruits for sweetness, vegetables for sustenance, and flowers for beauty. If one fails, the others sustain me."
+
+"But surely having many plants means each gets less attention?"
+
+"Ah, but look closer." Sable led him through the garden. "I don't grow fifty different plants—that would be madness. I choose perhaps ten varieties, each for a purpose, each in its proper place. The roses by the wall catch morning sun, the mint by the well stays moist, the tomatoes face south for warmth. I know each plant's needs intimately."
+
+Kael noticed how she'd grouped compatible plants together. "Like your chamomile growing beside the roses?"
+
+"Exactly. They help each other—the chamomile keeps pests from the roses, while the roses provide afternoon shade. This is not random scattering but thoughtful arrangement." She knelt beside a struggling bean plant. "And see—I give more space to what thrives best. My apple tree takes a quarter of the garden because it feeds us all winter. The exotic flower I tried last year gets a small corner—beautiful, but unproven."
+
+As they walked, Sable pointed to a small section left unseeded. "And this?"
+
+"Empty ground seems wasteful."
+
+"Wasteful? Or ready? When I find something wonderful—perhaps a neighbor offers cuttings from their prized pear tree—I have space prepared. But I don't leave half the garden empty waiting for perfect plants that may never come."
+
+That evening, as Kael helped her harvest dinner, he understood. "You're not trying to grow everything, but you're not risking everything on one crop either."
+
+"A gardener sleeps peacefully," Sable agreed, "knowing that nature may challenge some plants, but never all at once."
+
+**Moral**: *True security comes not from owning everything, but from choosing few things well and arranging them wisely.*
+
+*Tomorrow, Kael will face his greatest test yet—when winter storms threaten even the most carefully tended gardens.*`,
+  },
 ];

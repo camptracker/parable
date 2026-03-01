@@ -342,4 +342,77 @@ Together, Ash and Lume studied both paths again, this time seeing not competing 
 
 As they walked the middle path together, Elder Rynn called after them: "Remember, young travelers — knowing how to disagree well is only half the art. Tomorrow, you must learn how broken trust can be rewoven stronger than before..."`,
   },
+  {
+    day: 4,
+    title: "Emotional Attunement — Staying Connected Through the Storm",
+    date: "2026-03-01",
+    image: "images/building-relationships/day-4.jpg",
+    sonnet: `**🪶 Sonnet IV: Emotional Attunement**
+
+When tempests rage within your lover's heart,
+And words like lightning strike with fearsome might,
+Do not retreat or play defensive part—
+Become the beacon in their darkest night.
+
+Their nervous system floods with ancient fear,
+Their rational mind drowns beneath the tide,
+Yet in this moment you can draw them near
+By staying calm while storms rage deep inside.
+
+Lower your voice when theirs begins to rise,
+Step closer when they push the world away,
+Reflect the pain you witness in their eyes,
+And hold the space for what they cannot say.
+
+*For those who stay when souls are tempest-tossed*
+*Become the harbor where no love is lost.*`,
+    standard: `💕 Day 4: Emotional Attunement — Staying Connected Through the Storm
+
+Yesterday we learned about fighting fair and using conflict as a growth tool. But what happens when your partner becomes emotionally overwhelmed, defensive, or shuts down completely during these difficult conversations?
+
+🧱 **The Concept**
+Emotional attunement is the ability to **tune in** to your partner's emotional state and respond with empathy, even when they're activated or defensive. It's like being an emotional lighthouse — staying calm and connected while your partner navigates rough emotional waters.
+
+❓ **Why It Matters**
+When people feel threatened or overwhelmed, their nervous system goes into fight, flight, or freeze mode, making rational conversation nearly impossible. Partners who can recognize these states and respond with compassion rather than escalation help de-escalate conflicts and maintain emotional safety. This creates a secure base where both people can eventually return to productive dialogue.
+
+⚙️ **How It Works**
+Emotional attunement starts with recognizing the signs: raised voice, crossed arms, looking away, rapid speech, or complete silence. Instead of matching their energy or getting frustrated, you slow down your own nervous system. Soften your voice, uncross your arms, and validate their experience: "I can see you're really upset about this." You might say, "It seems like you're feeling attacked right now — that's not what I intended." Sometimes simply acknowledging their emotional state helps them feel seen and safe enough to re-engage. If they need space, honor that: "I can see you need some time. I'm here when you're ready."
+
+📖 **Definitions**
+• **Emotional Attunement**: Sensing and responding appropriately to your partner's emotional state
+• **Nervous System Activation**: Fight, flight, or freeze responses that shut down rational thinking
+• **Emotional Validation**: Acknowledging and accepting your partner's feelings without judgment
+• **Co-regulation**: The process of helping each other return to emotional calm
+• **Secure Base**: Creating safety that allows vulnerability and honest communication
+
+🎯 **Relationship Wisdom**
+The partner who can stay emotionally present when things get difficult becomes the anchor that helps both people find their way back to connection.
+
+❓ **Tomorrow's Question:**
+*What role does trust play in creating the safety needed for deep emotional intimacy, and how is it built day by day?*`,
+    parable: `As autumn painted the mountains in fire, Ash and Lume found themselves caught in an unexpected storm. The wind howled through the canyon, and what had begun as a simple disagreement about which path to take had escalated into something much deeper.
+
+Lume's voice rose above the wind, words sharp as hail: "You never listen to me! We should have taken the eastern route!" Her face was flushed, arms crossed tight against the cold and her own vulnerability.
+
+Ash felt the familiar surge of defensive fire rise in his chest. Every instinct screamed to match her energy, to defend his choice, to win. But something Elder Rynn had taught them echoed in his mind: *When your companion is lost in the storm of their own emotions, become their lighthouse.*
+
+Instead of raising his voice, Ash lowered it. Instead of stepping back, he stepped closer. "Lume," he said gently, his breath visible in the cold air, "I can see this feels really scary right now. You're worried we're lost."
+
+Something shifted in Lume's eyes. The defensive walls didn't crumble immediately, but they cracked just enough. "I... yes. I'm terrified we'll be caught out here all night."
+
+Ash didn't try to fix or minimize her fear. He simply nodded. "That would be frightening. I'm scared too." He waited, staying present with her storm rather than fleeing from it or fighting it.
+
+Gradually, Lume's shoulders began to soften. Her breathing slowed. The emotional hurricane in her nervous system found its eye, and in that calm center, they could think clearly again.
+
+"Thank you for not leaving me alone in that," she whispered.
+
+"Never," Ash replied. "We weather all storms together."
+
+Elder Rynn would later tell them that the strongest bridges aren't built to avoid storms, but to remain standing through them.
+
+*Moral: True partnership means becoming an anchor of calm when your beloved is tossed by emotional storms, staying connected rather than defensive.*
+
+*Tomorrow, Elder Rynn will reveal how the Bridge of Vows is built one stone of trust at a time...*`,
+  },
 ];

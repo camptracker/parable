@@ -354,4 +354,83 @@ Wren experimented, shifting between major and minor versions of the same chord o
 
 **Tomorrow**: But what force drives this dance forward through time, creating the very pulse that makes our hearts want to follow the music's lead?`,
   },
+  {
+    day: 4,
+    title: "Chord Progressions — The Journey Between Harmonies",
+    date: "2026-03-01",
+    image: "images/music-theory/day-4.jpg",
+    sonnet: `**🪶 Sonnet IV: The Journey Between Harmonies**
+
+From stable tonic shores we dare depart,
+Through dominant seas where tension builds its might,
+To minor harbors that can break the heart,
+Then subdominant paths that catch the light.
+
+Each chord a waypoint in our quest for home,
+A Roman numeral upon the map,
+Guiding wanderers wherever they may roam
+Through progressions that close the harmonic gap.
+
+The circle turns in fifths descending down,
+As V to I resolves with perfect grace,
+While ii-V-I progressions wear the crown
+Of jazz's most beloved, sacred space.
+
+*For music mirrors life's eternal way:*
+*We leave our home to find it once again.*`,
+    standard: `🎵 Day 4: Chord Progressions — The Journey Between Harmonies
+
+Yesterday we discovered how chords create emotional colors through mathematical ratios. The answer: when we connect chords in sequence, we create **chord progressions** that tell stories by establishing tension and release, taking listeners on emotional journeys through patterns our ears recognize as satisfying.
+
+🧱 **The Concept**
+A chord progression is a sequence of chords that creates harmonic movement in music. These progressions form the backbone of songs, establishing key centers, creating tension, and providing resolution.
+
+❓ **Why It Matters**
+Chord progressions are music's storytelling engine. They create anticipation, surprise, and satisfaction by moving between stability and tension. Every hit song uses progressions that feel both familiar and fresh. Understanding progressions reveals why certain songs make you want to sing along or bring tears to your eyes.
+
+⚙️ **How It Works**
+The most famous progression is **I-V-vi-IV** (in C major: C-G-Am-F). You hear this in "Let It Be," "Don't Stop Believin'," and thousands of other songs. It works because it moves from home (I) to the dominant (V) which creates tension, then to the relative minor (vi) for emotional depth, and back through the subdominant (IV) which naturally wants to return home.
+
+Each chord in a key has a **function**: tonic chords (I, iii, vi) feel stable, dominant chords (V, vii°) create tension that wants to resolve, and subdominant chords (II, IV) provide gentle movement away from home. The **circle of fifths** shows how chords naturally want to move in descending perfect fifths (C to F to Bb to Eb...).
+
+Jazz musicians love **ii-V-I progressions** because they create the strongest sense of resolution. Blues uses a **12-bar progression** (I-I-I-I-IV-IV-I-I-V-IV-I-I) that's become foundational to popular music.
+
+📖 **Definitions**
+• **Chord Progression**: A sequence of chords that creates harmonic movement
+• **Roman Numeral Analysis**: System using I, ii, iii, IV, V, vi, vii° to describe chord relationships
+• **Tonic Function**: Chords that sound stable and at rest (I, iii, vi)
+• **Dominant Function**: Chords that create tension wanting resolution (V, vii°)
+• **Subdominant Function**: Chords that move away from tonic (ii, IV)
+• **Circle of Fifths**: Pattern showing how chords naturally progress in descending perfect fifths
+• **Cadence**: Specific chord progressions that create closure (like V-I)
+
+🎯 **Musical Insight**
+Chord progressions tap into psychological patterns of tension and release that mirror human emotional experiences. We crave the journey away from stability and the satisfying return home — this is why the same progressions work across cultures and generations.
+
+❓ **Tomorrow's Question:**
+*We've explored harmony, but what about time? How does rhythm — the heartbeat of music — organize sound in time and create the groove that makes you want to move?*`,
+    parable: `Wren sat on the cathedral steps, her weathered guitar case open to catch the afternoon coins, when she heard Old Ferro's voice drifting from the music shop across the cobblestones.
+
+"Come, child," the blind piano tuner called, his fingers dancing across worn keys. "I want to show you something about journeys."
+
+She packed her guitar and crossed to where Ferro sat at an ancient upright piano, his clouded eyes focused on something only he could see.
+
+"Play me a chord," he said. "Any chord."
+
+Wren struck a C major on her guitar. "Ah," Ferro smiled, "bright yellow, stable as sunlight. But watch — listen — what happens when we move." His left hand found C major on the piano, then shifted to G major. "Do you hear the pull? The yellow brightens to gold, creates a tension that wants to go somewhere."
+
+"Like a question," Wren murmured.
+
+"Exactly." Ferro's hands moved to A minor, and the color in his mind shifted to deep blue. "Now we've introduced melancholy, complexity. The story deepens." Finally, F major — warm orange that seemed to beckon. "And here, the subdominant calls us gently home."
+
+As his fingers returned to C major, Wren felt something complete in her chest, like a held breath released.
+
+"This is why humans make music," Ferro said softly. "We need journeys. We need to leave home so we can return to it. Every song is a map of leaving and coming back, of tension and rest. The chords don't just make pretty sounds — they mirror our deepest emotional patterns."
+
+Wren played the progression on her guitar, feeling how each chord pulled toward the next like a river flowing toward the sea. In the distance, church bells chimed the hour, and she realized they too followed a progression — a musical journey that had marked time for centuries.
+
+**Moral:** Just as life is a journey of departures and returns, chord progressions create meaning through movement — taking us away from home so we can feel the joy of coming back.
+
+**Tomorrow:** Ferro taps his foot against the piano bench, and Wren discovers that harmony isn't the only thing that moves through time...`,
+  },
 ];
