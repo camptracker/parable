@@ -117,74 +117,70 @@ The first rule of negotiation is not persuasion — it's understanding. Before y
   },
   {
     day: 2,
-    title: "The Magic of \"What\" and \"How\"",
+    title: "The Magic of \"How\" and \"What\"",
     date: "2026-03-01",
     image: "images/negotiation/day-2.jpg",
-    sonnet: `**🪶 Sonnet II: The Magic of "What" and "How"**
+    sonnet: `**🪶 Sonnet II: The Magic of "How" and "What"**
 
-When "why" demands that hearts defend their ground,
-And minds retreat to castles built of pride,
-The clever tongue seeks gentler ways around—
-Asks "what" and "how" to draw the truth outside.
+When "why" strikes like a blade against the heart,
+The soul retreats behind defensive walls,
+But "how" and "what" play the gentler part—
+They whisper soft where harsh accusation calls.
 
-For "why" awakens ancient fears of blame,
-While "what" invites the story to unfold,
-And "how" transforms the other from a name
-Into a partner, brave and wise and bold.
+The hostage-taker, cornered by his fear,
+Will silence when his motives are attacked,
+Yet speaks his truth when questions feel sincere,
+When curiosity, not judgment, makes the pact.
 
-The prefrontal cortex loves to solve,
-To paint with words the pictures in the mind,
-When questions help, not hurt, when they revolve
-Around the truth that both sides hope to find.
+In boardrooms where the stakes run just as high,
+The same sweet psychology holds its reign:
+"How did you reach this point?" unlocks reply,
+While "Why so much?" brings only cold disdain.
 
-*So ask not "why" but "how" and "what" instead,*
-*And watch defensive walls turn bridges red.*`,
-    standard: `🤝 Day 2: The Magic of "What" and "How"
+*For in this art of words that open doors,*
+*The gentlest key unlocks the deepest stores.*`,
+    standard: `**🤝 Day 2: The Magic of "How" and "What"**
 
-Yesterday we learned that tactical empathy opens people up by making them feel understood. The answer to our question: FBI negotiators avoid "why" because it triggers defensiveness and justification. Instead, they use "what" and "how" questions that invite explanation without judgment.
+Yesterday we learned that tactical empathy opens doors by making people feel understood. The answer to our question: FBI negotiators avoid "why" because it triggers defensiveness — people hear accusation. Instead, they use "how" and "what" to keep suspects talking without raising their guard.
 
-🧱 **The Concept**
-"What" and "how" questions are open-ended inquiries that encourage elaboration while avoiding the psychological trap of making someone defend their position.
+**🧱 The Concept**
+Open-ended questions beginning with "how" and "what" are psychological truth serums that invite explanation without triggering defensiveness, while "why" questions make people feel judged and shut down.
 
-❓ **Why It Matters**
-When you ask "Why did you do that?" the person's brain interprets it as an attack — they must justify and defend. But "What led you to that decision?" or "How did you come to that conclusion?" invites storytelling. Stories reveal motivations, constraints, and hidden needs that "why" questions would never uncover.
+**❓ Why It Matters**
+When someone asks "Why did you do that?", your brain hears attack and builds walls. But "How did that happen?" or "What led to this situation?" feels like genuine curiosity. In high-stakes negotiations — whether it's a hostage situation or asking for a promotion — you need people to keep talking, not clam up.
 
-⚙️ **How It Works**
-Chris Voss discovered that "why" questions make people feel accused, triggering their amygdala into fight-or-flight mode. But "what" and "how" engage the prefrontal cortex — the thinking, problem-solving part of the brain. Instead of asking "Why won't you accept this offer?" try "What would need to change for this to work for you?" The first question creates an adversary; the second creates a collaborator. "How am I supposed to do that?" is Voss's favorite — it forces the other person to solve your problem with you. When someone explains *how* something could work, they're mentally committed to making it happen.
+**⚙️ How It Works**
+Chris Voss discovered this during crisis negotiations: "Why did you take the hostage?" creates silence and anger. "How did you get to this point?" gets them talking. The suspect feels heard, not interrogated. Similarly, in business: "Why is your price so high?" puts vendors on defense. "How did you arrive at this number?" invites explanation. "What would need to happen for us to move forward?" becomes collaboration, not confrontation. These questions hack our psychology — they feel safe, so we respond openly. Robert Cialdini's research shows that when people explain their reasoning out loud, they often convince themselves to change course.
 
-📖 **Definitions**
-• **Open-ended questions**: Questions that can't be answered with yes/no and require explanation
-• **Prefrontal cortex**: The brain's executive center responsible for logical thinking and problem-solving
-• **Calibrated questions**: Carefully crafted "what" and "how" questions designed to guide thinking
-• **Defense mechanisms**: Psychological responses that protect ego when feeling attacked
+**📖 Definitions**
+• **Open-ended Questions**: Questions that can't be answered with yes/no, requiring explanation
+• **Defensive Response**: The psychological reaction that shuts down communication when feeling attacked
+• **How/What Framework**: Using "how" and "what" to gather information without triggering defensiveness
+• **Truth Serum Effect**: When people reveal more than intended because questions feel non-threatening
 
-🎯 **Negotiation Wisdom**
-The goal isn't to win an argument — it's to understand the problem so completely that the solution becomes obvious to both parties.
+**🎯 Negotiation Wisdom**
+Voss teaches: "The goal isn't to get to 'yes' — it's to get them talking. Once they're talking, they're thinking. Once they're thinking, they might change their mind."
 
-❓ **Tomorrow's Question:**
-*What happens when you deliberately say something wrong about what the other person wants — and why does this "mirroring" mistake actually move negotiations forward?*`,
-    parable: `The next morning, Ren found Vasska examining a bolt of silk, his weathered fingers testing its weight. "Master, yesterday you showed me how understanding opens doors. But how do I keep them talking once they trust me?"
+**❓ Tomorrow's Question:**
+*If getting people to talk freely gives you power, what happens when you deliberately give them the illusion of control — and why might saying "no" actually be the fastest path to "yes"?*`,
+    parable: `The morning sun cast long shadows across the bazaar as young Ren approached Master Vasska's stall, clutching a jade pendant his grandmother had left him. The one-eyed trader looked up from his ledgers, his silver tongue already working.
 
-Vasska's blind eye caught the light as he smiled. "Observe, young merchant." A wool trader approached, clearly frustrated. "These eastern silks cost too much! Why should I pay double for something my customers barely notice?"
+"Ah, young merchant," Vasska smiled, his good eye gleaming. "I see desperation in your stride. Why do you need money so urgently?"
 
-Ren expected Vasska to justify the price. Instead, the master trader tilted his head. "What makes you feel the price doesn't match the value?"
+Ren's jaw tightened. "That's... that's my business." He clutched the pendant closer.
 
-The trader's shoulders relaxed. "Well, my customers are simple folk. They want warm wool, not fancy threads. How am I supposed to sell luxury to people counting every coin?"
+Vasska chuckled, stroking his beard. "Watch how quickly walls rise when 'why' leaves my lips. Let me try again." He leaned forward with genuine curiosity. "How did you come to possess such a beautiful piece?"
 
-"Ah," Vasska nodded slowly. "What kind of customers would appreciate both quality and value?"
+Ren's shoulders relaxed slightly. "It was my grandmother's. She always said it would help in times of great need."
 
-Suddenly the trader was thinking, not defending. "The inn-keepers, perhaps. They need durability for their guest rooms, but also something that looks prosperous..."
+"What kind of help are you hoping for today?" Vasska's voice was warm, inviting.
 
-"How would we need to adjust the offering to serve them perfectly?"
+The words poured out. Ren spoke of his sick mother, the medicine costs, the weight of responsibility. As he talked, something shifted — he felt heard, not judged.
 
-By day's end, they'd designed a custom order — less decorative silk, more practical weave — at a price that satisfied both parties.
+"Yesterday, I asked 'why' and you built a fortress," Vasska observed. "Today, I asked 'how' and 'what,' and you opened your heart. Words are keys, young merchant. Choose them wisely — some lock doors, others open them."
 
-Later, Ren marveled. "You never asked why he objected."
+**Moral**: Questions beginning with "how" and "what" invite truth; those beginning with "why" invite defense.
 
-"'Why' makes a man defend his castle walls," Vasska explained. "'What' and 'how' invite him to open the gates and show you around. When someone explains their world to you, they begin to trust you with its treasures."
-
-**Moral:** Questions that seek understanding build bridges; questions that demand justification build walls.
-
-**Tomorrow:** The master trader will teach Ren why sometimes the best way forward is to get something deliberately wrong...`,
+**Tomorrow**: Ren will learn why sometimes the most powerful position is letting others believe they're in control.`,
   },
 ];
