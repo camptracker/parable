@@ -1,96 +1,96 @@
 {
   "financial-independence": {
-    "latestDay": 12,
+    "latestDay": 4,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 12
-      },
-      "zany": {
-        "telegramId": "8483194333",
-        "username": "Zanyh2012",
-        "lastDaySent": 10
-      }
-    }
-  },
-  "nutrition-science": {
-    "latestDay": 11,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 11
-      },
-      "zany": {
-        "telegramId": "8483194333",
-        "username": "Zanyh2012",
-        "lastDaySent": 7
-      }
-    }
-  },
-  "negotiation": {
-    "latestDay": 7,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 7
-      }
-    }
-  },
-  "stoic-philosophy": {
-    "latestDay": 7,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 7
-      }
-    }
-  },
-  "music-theory": {
-    "latestDay": 5,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 5
-      }
-    }
-  },
-  "real-estate": {
-    "latestDay": 5,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 5
-      }
-    }
-  },
-  "storytelling": {
-    "latestDay": 5,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 5
-      }
-    }
-  },
-  "building-relationships": {
-    "latestDay": 5,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 5
+        "lastDaySent": 4
       },
       "zany": {
         "telegramId": "8483194333",
         "username": "Zanyh2012",
         "lastDaySent": 4
+      }
+    }
+  },
+  "nutrition-science": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 1
+      },
+      "zany": {
+        "telegramId": "8483194333",
+        "username": "Zanyh2012",
+        "lastDaySent": 1
+      }
+    }
+  },
+  "negotiation": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 1
+      }
+    }
+  },
+  "stoic-philosophy": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 1
+      }
+    }
+  },
+  "music-theory": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 1
+      }
+    }
+  },
+  "real-estate": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 1
+      }
+    }
+  },
+  "storytelling": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 1
+      }
+    }
+  },
+  "building-relationships": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 1
+      },
+      "zany": {
+        "telegramId": "8483194333",
+        "username": "Zanyh2012",
+        "lastDaySent": 1
       }
     }
   }
