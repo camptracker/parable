@@ -173,7 +173,7 @@ body {
   border-radius: 0 0 12px 12px;
   overflow: hidden;
 }
-.lesson-hero img { width: 100%; aspect-ratio: 1 / 1; display: block; object-fit: cover; }
+.lesson-hero img { width: 100%; height: auto; display: block; object-fit: cover; }
 
 /* Lesson page */
 .top-nav { margin-bottom: 1.5rem; padding-top: 1rem; }
