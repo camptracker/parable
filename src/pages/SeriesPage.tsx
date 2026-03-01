@@ -1,11 +1,6 @@
 import { Link, useParams, Navigate } from 'react-router-dom';
 import { getSeriesById } from '../data/lessons';
 
-function formatDate(dateStr: string) {
-  const d = new Date(dateStr + 'T00:00:00');
-  return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-}
-
 export default function SeriesPage() {
   const { seriesId } = useParams();
   const s = getSeriesById(seriesId || '');
@@ -32,7 +27,6 @@ export default function SeriesPage() {
             <div className="lesson-card-text">
               <span className="lesson-day">Day {lesson.day}</span>
               <span className="lesson-title">{lesson.title}</span>
-              <span className="lesson-date">{formatDate(lesson.date)}</span>
             </div>
           </Link>
         ))}
