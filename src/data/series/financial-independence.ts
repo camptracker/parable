@@ -406,5 +406,85 @@ Debt is a river. You can build a bridge across it — borrowing to invest in som
 
 ❓ *Tomorrow's tale: Kael has learned to earn, to compound, and to borrow wisely. But how much of each harvest should he keep for himself — and how much should he replant?*`
   },
+  {
+    day: 5,
+    title: "The 50/30/20 Rule",
+    date: "2026-03-01",
+    image: "images/financial-independence/day-5.jpg",
+    sonnet: `**🪶 Sonnet V: The 50/30/20 Rule**
 
+As income flows like rivers to the sea,
+Without a dam, it vanishes from sight.
+But wisdom builds three channels carefully:
+For needs, for wants, for future's growing light.
+
+Half flows to shelter, sustenance, and care—
+Those necessities that keep life secure.
+Three-tenths may dance on pleasures rich and rare,
+While two-tenths plant seeds that shall endure.
+
+The fool lets all his earnings slip away,
+Expanding wants to match his swelling purse.
+But measured souls divide each golden ray,
+And thus escape the spendthrift's ancient curse.
+
+*For he who guards tomorrow's sacred share*
+*Finds wealth that time and fortune cannot tear.*`,
+    standard: `💰 Day 5: The 50/30/20 Rule
+
+Yesterday we learned to distinguish good debt from bad debt by asking: "will this borrowed money earn me more than the interest I'll pay?" Today we answer: *what's the simplest rule for deciding how much of your income to save versus spend?*
+
+🧱 **The Concept**
+The 50/30/20 rule allocates your after-tax income: 50% for needs, 30% for wants, 20% for savings and debt repayment. This framework prevents lifestyle inflation while ensuring consistent wealth building.
+
+❓ **Why It Matters**
+Without a plan, expenses expand to consume whatever you earn — a phenomenon called Parkinson's Law of Money. The 50/30/20 rule creates automatic boundaries that protect your financial future. It's simple enough to follow consistently, yet flexible enough to adapt to different income levels. Most importantly, it prioritizes paying yourself first through that 20% savings rate.
+
+⚙️ **How It Works**
+Start with your after-tax income. If you earn $5,000 monthly after taxes, allocate $2,500 to needs (housing, food, utilities, transportation), $1,500 to wants (dining out, entertainment, hobbies), and $1,000 to savings and debt repayment.
+
+**Needs** are non-negotiable expenses for survival and basic functioning. **Wants** are everything else that improves your quality of life. The key insight: if your needs exceed 50%, you either need to increase income or reduce lifestyle expectations. If wants creep above 30%, you're stealing from your future self.
+
+The 20% savings should be split: emergency fund first (3-6 months of expenses), then retirement investing, then other goals. Pay minimum debt payments from the 20%, but throw any extra at high-interest bad debt.
+
+📖 **Definitions**
+• **Needs**: Essential expenses for basic living (housing, food, utilities, transportation)
+• **Wants**: Discretionary spending that enhances lifestyle
+• **Pay Yourself First**: Saving before spending on wants
+• **Lifestyle Inflation**: Tendency for expenses to rise with income
+• **After-Tax Income**: Take-home pay after taxes and deductions
+
+🎯 **Buffett Wisdom**
+Buffett famously still lives in the same modest Omaha home he bought in 1958 for $31,500. "Do not save what is left after spending; instead spend what is left after saving." The 20% savings rate ensures you're always paying your future self first.
+
+❓ **Tomorrow's Question:**
+*You're saving 20% consistently — but where should that money go first to create the strongest financial foundation?*`,
+    parable: `The evening air carried the scent of harvest as Kael found Sable and Tobren sharing ale beneath the ancient oak. The farmer's weathered hands gestured animatedly as he spoke of his latest dilemma.
+
+"Elder, my crop yield has doubled this season," Tobren said, his voice thick with both pride and uncertainty. "But already I find myself eyeing a larger plow, finer clothes, a grander feast for my family. How does one know what portion to enjoy now versus what to preserve for tomorrow?"
+
+Sable smiled, her fingers tracing patterns in the dirt. "Tell me, farmer — when you plant your fields, how do you divide your grain?"
+
+"A simple rule my father taught me," Tobren replied. "Half for sustaining my family through the year, three-tenths for improving our lives and celebrating our blessings, and two-tenths always returned to the earth for next season's planting."
+
+"Ah," Sable nodded. "And if you deviated from this wisdom?"
+
+Kael watched understanding dawn across the farmer's features. "If I consumed more grain than planned, I'd have insufficient seed for spring. If I stored too much and denied my family proper nourishment, what purpose would the wealth serve?"
+
+"Precisely," the elder said. "Your father's rule creates what we call *intentional boundaries*. It prevents the dangerous tendency for our desires to expand exactly to match our means, leaving nothing for the future."
+
+Tobren leaned forward. "But surely as my harvest grows larger, I could adjust these portions?"
+
+"The proportions remain constant," Sable explained, "but their absolute values grow with your success. A larger harvest means more grain for all three purposes — sustenance, enjoyment, and future planting. The discipline lies not in the amounts, but in maintaining the balance regardless of prosperity."
+
+Kael thought of his own meager earnings from odd jobs around the village. "Elder, what if one's harvest barely covers the grain needed for sustenance?"
+
+Sable's expression grew serious. "Then you face a choice, young one. Either increase the size of your harvest through greater effort and skill, or reduce what you consider 'sustenance' to its most essential elements. The mathematics cannot be cheated — you cannot plant tomorrow's crop with grain that was consumed yesterday."
+
+As stars emerged overhead, Tobren stood with renewed purpose. "I shall maintain my father's wisdom, allowing my newfound prosperity to strengthen all three portions equally."
+
+*Moral: True wealth comes not from earning more, but from maintaining discipline in how we allocate what we have, ensuring that our future prosperity is never sacrificed for present indulgence.*
+
+*Tomorrow, Kael will learn about the crucial order in which to plant his financial seeds...*`,
+  },
 ];

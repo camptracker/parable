@@ -115,5 +115,76 @@ The first rule of negotiation is not persuasion — it's understanding. Before y
 
 ❓ *Tomorrow's tale: Ren learned to listen. But what is the one question that keeps people talking — and why does Vasska never ask "why"?*`
   },
+  {
+    day: 2,
+    title: "The Magic of \"How\" and \"What\"",
+    date: "2026-03-01",
+    image: "images/negotiation/day-2.jpg",
+    sonnet: `**🪶 Sonnet II: The Magic of "How" and "What"**
 
+When "why" falls harsh upon the listening ear,
+Defenses rise like castle walls of stone,
+The questioned soul draws back in shame and fear,
+And leaves the questioner to stand alone.
+
+But "how" arrives with gentle, curious grace,
+A bridge of words that spans the widening divide,
+While "what" extends an invitation's embrace,
+To walk together, standing side by side.
+
+The brain responds to tone as much as word—
+"Why" strikes the limbic system like a bell,
+While "how" lets reasoning be clearly heard,
+And "what" makes partnership stories tell.
+
+*So choose your questions with a craftsman's care:*
+*Not "why" that wounds, but "how" that shows you care.*`,
+    standard: `🤝 Day 2: The Magic of "How" and "What"
+
+Yesterday we learned that tactical empathy opens doors by making people feel understood. The answer to our question: FBI negotiators avoid "why" because it triggers defensiveness — instead, they use "how" and "what" questions that feel collaborative, not accusatory.
+
+🧱 **The Concept**
+Open-ended questions beginning with "how" and "what" invite explanation without judgment, while "why" questions activate the brain's defense mechanisms and shut down communication.
+
+❓ **Why It Matters**
+When you ask "Why did you do that?" the other person hears blame and prepares to defend themselves. When you ask "How did you come to that conclusion?" or "What makes this important to you?" they feel invited to share their reasoning. This shift from interrogation to collaboration is the difference between triggering fight-or-flight and encouraging open dialogue.
+
+⚙️ **How It Works**
+Compare these approaches: "Why are you asking for so much money?" versus "How did you arrive at that number?" The first sounds like an attack; the second sounds like genuine curiosity. "What would need to happen for this to work?" invites problem-solving. "How can we make this fair for everyone?" assumes partnership. FBI negotiator Chris Voss discovered that suspects would talk for hours when asked "How" questions but clam up immediately with "Why." The neuroscience is clear: "Why" activates the limbic system (emotion/defense), while "How" and "What" engage the prefrontal cortex (logic/reasoning). In salary negotiations, instead of "Why can't you pay me more?" try "What would need to change for a raise to be possible?"
+
+📖 **Definitions**
+• **Open-ended Questions**: Questions that can't be answered with yes/no and require explanation
+• **Calibrated Questions**: Carefully crafted "how" and "what" questions that guide without controlling
+• **Limbic System**: Emotional brain center that triggers fight-or-flight responses
+• **Prefrontal Cortex**: Rational brain center responsible for logic and problem-solving
+
+🎯 **Negotiation Wisdom**
+As Chris Voss teaches: "The goal isn't to get them to say yes. The goal is to get them to say 'That's right' — meaning they feel heard and understood."
+
+❓ **Tomorrow's Question:**
+*What's the difference between "yes" and "that's right" in negotiation, and why does one move deals forward while the other often leads to broken promises?*`,
+    parable: `The morning sun painted the marketplace in golden hues as Ren watched Vasska approach a silk merchant whose face was flushed with anger. The merchant's prized bolts had been damaged in transport, and he was shouting at a young carrier who cowered before him.
+
+"Why did you let this happen?" the merchant bellowed, his voice carrying across the square. "Why weren't you more careful?"
+
+The carrier's jaw tightened, his fists clenched. "It wasn't my fault! The road was muddy, the cart got stuck—"
+
+"Enough!" The merchant waved him away. "I should never have trusted you!"
+
+Vasska stepped forward, his silver tongue working its subtle magic. "Master Chen," he said softly, his good eye meeting the merchant's gaze. "How devastating this must be for you. What happened during the journey?"
+
+The merchant's shoulders sagged slightly. "The rains came suddenly. Half my silk is ruined."
+
+"How can we salvage what remains?" Vasska asked, examining the damaged goods. "What would make this right?"
+
+Ren watched in amazement as the merchant's fury melted away. Where "why" had built walls, "how" and "what" opened doors. The merchant began explaining, planning, problem-solving. Within an hour, Vasska had brokered a deal where the damaged silk would be sold at half-price to dyers who could work with the stains.
+
+Later, as they walked away with a modest commission, Ren asked, "Master, why didn't you ask him why he was so angry?"
+
+Vasska's scarred face crinkled in a smile. "Because, young merchant, 'why' is the language of judges. 'How' and 'what' are the language of partners. When someone feels judged, they defend. When they feel heard, they share."
+
+**Moral**: Questions that invite explanation build bridges, while questions that demand justification build walls.
+
+*Tomorrow, Ren will learn why the merchant's final words — "That's exactly right" — held more power than any simple "yes" ever could.*`,
+  },
 ];

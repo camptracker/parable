@@ -118,5 +118,72 @@ A story doesn't begin when the teller starts talking. It begins when the listene
 
 ❓ *Tomorrow's tale: Pip can hook them now — but how does he keep them? Osha teaches him the invisible shape that every great story follows, whether the teller knows it or not.*`
   },
+  {
+    day: 2,
+    title: "The Three-Act Engine",
+    date: "2026-03-01",
+    image: "images/storytelling/day-2.jpg",
+    sonnet: `**🪶 Sonnet II: The Three-Act Engine**
 
+Like mighty oaks that rise from fertile ground,
+A tale begins with roots in common earth,
+Where characters in normal life are found
+Before the storm that proves their hidden worth.
+Then comes the climb through trials ever steep,
+Each obstacle a test of will and heart,
+As heroes face the fears they've buried deep
+And watch their former, safer selves depart.
+Until at last the breaking point arrives,
+Where all must change or perish in the fire,
+The moment when the soul decides it strives
+To rise above or fall to dark desire.
+*This ancient shape our hungry minds require:*
+*Setup, then struggle, then the earned empire.*`,
+    standard: `📖 Day 2: The Three-Act Engine
+
+Yesterday we learned that hooks open curiosity gaps — and virtually every great story follows the same invisible shape because our brains are wired to expect a specific pattern of tension and release.
+
+🧱 **The Concept**
+Story structure is the underlying architecture that governs how tension builds and resolves. The **three-act structure** — setup, confrontation, resolution — mirrors the way humans naturally process conflict and change.
+
+❓ **Why It Matters**
+Without structure, even brilliant characters and beautiful prose feel aimless. Structure is what transforms a series of events into a *story*. It's the invisible engine that keeps readers turning pages, because it mirrors how we expect problems to unfold and resolve in real life.
+
+⚙️ **How It Works**
+Think of structure like a roller coaster. **Act I (Setup)** gets you in the car and pulls you up the first hill — we meet characters, establish stakes, and end with an **inciting incident** that launches the story. **Act II (Confrontation)** is the long climb and wild ride — obstacles escalate, characters face their deepest fears, tension peaks at the **climax**. **Act III (Resolution)** is the final descent — consequences play out, loose ends tie up, characters reach their new normal.
+
+This pattern works because it matches how humans solve problems: we encounter a challenge, struggle against mounting obstacles, reach a breaking point, then either succeed or fail and deal with the aftermath. Even a simple anecdote follows this shape: "I was running late (setup), hit every red light (rising action), then realized I had the wrong address (climax), but it turned out the meeting was canceled anyway (resolution)."
+
+📖 **Definitions**
+• **Three-Act Structure**: Setup, confrontation, resolution — the basic shape of most stories
+• **Inciting Incident**: The event that launches the main story and disrupts the character's normal world
+• **Rising Action**: Escalating obstacles and complications that build toward the climax
+• **Climax**: The highest point of tension where the central conflict reaches its peak
+• **Denouement**: The resolution phase where consequences unfold and loose ends are tied up
+
+🎯 **Storytelling Wisdom**
+Structure isn't a constraint — it's a promise. When you follow the pattern, readers trust you're taking them somewhere worthwhile. Break it only when you understand what you're breaking.
+
+❓ **Tomorrow's Question:**
+*Structure gives stories their shape — but what breathes life into that shape? How do you create characters that feel like real people rather than plot devices?*`,
+    parable: `Pip sat by the dying embers, his lute silent across his knees. Three times tonight he'd begun tales, and three times the words had scattered like startled birds before he could weave them into flight.
+
+"The problem," came Osha's voice from the shadows, "is not in your beginnings, young bard. It is in your endings."
+
+The ancient weaver emerged, her fingers working thread that seemed to shimmer in the firelight. "Watch," she said, and began to weave. "Every tapestry needs three things: the foundation threads that establish the pattern, the rising weave where complexity builds and colors clash, and the binding edge that holds all together."
+
+Pip watched as her loom took shape. The bottom showed a peaceful village, threads orderly and bright. The middle section erupted in dark tangles — storm clouds, fleeing figures, chaos woven in bold strokes that made the eye race upward. At the top, new patterns emerged from the disorder, threads finding harmony again but in a configuration forever changed.
+
+"Your stories wander because they lack this architecture," Osha continued. "You begin with beautiful images but no destination. A story without structure is like building a house without bones — pretty fragments that collapse under their own weight."
+
+She held up her work. "See how each section serves the whole? The peaceful beginning makes the chaos meaningful. The chaos gives weight to the resolution. Remove any part, and the pattern fails."
+
+Pip nodded slowly, understanding dawning like sunrise. "The shape itself tells the story."
+
+"Indeed. Structure is not a cage, young bard — it is wings. It lifts your tale from mere events to something that resonates in the bone, because it mirrors the rhythm of all human struggle: comfort disturbed, obstacles faced, new wisdom earned."
+
+**Moral**: *Without structure, even the most beautiful moments remain fragments. True storytelling requires the architecture of beginning, struggle, and resolution — for this pattern lives deep in the human heart.*
+
+Tomorrow, Pip will learn what breathes life into this framework, transforming mere plot points into souls that walk and breathe...`,
+  },
 ];
