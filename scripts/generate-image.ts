@@ -21,30 +21,43 @@ async function main() {
   // Truncate prompt to 4000 chars (DALL-E limit)
   const truncatedPrompt = dallePrompt.slice(0, 4000);
 
-  console.error('Generating image with DALL-E 3...');
-  const response = await fetch('https://api.openai.com/v1/images/generations', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${OPENAI_KEY}`,
-    },
-    body: JSON.stringify({
-      model: 'dall-e-3',
-      prompt: truncatedPrompt,
-      n: 1,
-      size: '1024x1024',
-      quality: 'standard',
-    }),
-  });
+  let imageUrl: string | null = null;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    console.error(`Generating image with DALL-E 3 (attempt ${attempt}/3)...`);
+    const response = await fetch('https://api.openai.com/v1/images/generations', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${OPENAI_KEY}`,
+      },
+      body: JSON.stringify({
+        model: 'dall-e-3',
+        prompt: truncatedPrompt,
+        n: 1,
+        size: '1024x1024',
+        quality: 'standard',
+      }),
+    });
 
-  if (!response.ok) {
+    if (response.ok) {
+      const data = await response.json() as any;
+      imageUrl = data.data[0].url;
+      break;
+    }
+
     const err = await response.text();
-    console.error(`OpenAI API error ${response.status}: ${err}`);
-    process.exit(1);
+    console.error(`Attempt ${attempt} failed (${response.status}): ${err}`);
+    if (attempt < 3) {
+      const delay = attempt * 5000;
+      console.error(`Retrying in ${delay / 1000}s...`);
+      await new Promise(r => setTimeout(r, delay));
+    }
   }
 
-  const data = await response.json() as any;
-  const imageUrl = data.data[0].url;
+  if (!imageUrl) {
+    console.error('All 3 attempts failed');
+    process.exit(1);
+  }
 
   console.error('Downloading image...');
   const imgResponse = await fetch(imageUrl);
