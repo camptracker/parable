@@ -70,6 +70,9 @@ interface GeneratedLesson {
 }
 
 async function main() {
+  const testMode = process.argv.includes('--test');
+  if (testMode) console.error('🧪 TEST MODE: only processing jon');
+
   const config = JSON.parse(readFileSync(resolve(ROOT, 'SERIES_CONFIG.json'), 'utf-8'));
   const progress = JSON.parse(readFileSync(resolve(ROOT, 'PROGRESS.json'), 'utf-8'));
   const today = new Date().toISOString().split('T')[0];
@@ -91,6 +94,7 @@ async function main() {
     const recipientsAtLatest: string[] = [];
 
     for (const [name, recip] of Object.entries(recipients) as [string, any][]) {
+      if (testMode && name !== 'jon') continue;
       const { telegramId, lastDaySent } = recip;
 
       if (lastDaySent < latestDay) {
