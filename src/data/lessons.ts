@@ -884,6 +884,42 @@ All carbohydrates are kindling — but their structure determines whether they b
 ❓ *Tomorrow's tale: Lila has mastered the kindling. But what about the hardwood — the building fuel? How much does the body truly need, and what crumbles when it doesn't get enough?*`
       }
     ]
+  },
+  {
+    id: "negotiation",
+    name: "Negotiation",
+    theme: "FBI hostage negotiation tactics, persuasion psychology, and everyday deal-making",
+    lessons: []
+  },
+  {
+    id: "stoic-philosophy",
+    name: "Stoic Philosophy",
+    theme: "ancient Stoic teachings — mental resilience, emotional control, and living with purpose",
+    lessons: []
+  },
+  {
+    id: "music-theory",
+    name: "Music Theory",
+    theme: "the building blocks of music — notes, scales, chords, rhythm, harmony, and why certain sounds make you feel things",
+    lessons: []
+  },
+  {
+    id: "real-estate",
+    name: "Real Estate Investing",
+    theme: "building wealth through property — from your first rental to cash flow analysis and passive income",
+    lessons: []
+  },
+  {
+    id: "storytelling",
+    name: "Storytelling",
+    theme: "the craft of storytelling — narrative structure, character arcs, tension, pacing, dialogue, and what makes stories unforgettable",
+    lessons: []
+  },
+  {
+    id: "building-relationships",
+    name: "Building Relationships",
+    theme: "the science and art of building lasting romantic relationships — communication, love languages, conflict resolution, emotional intelligence, trust, and growing together",
+    lessons: []
   }
 ];
 

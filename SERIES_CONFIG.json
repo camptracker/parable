@@ -15,6 +15,55 @@
       "seriesEmoji": "🍎",
       "wisdomLabel": "Science Wisdom",
       "parableCharacters": "Lila (apprentice), Maren (village healer with three hearths)"
+    },
+    {
+      "seriesId": "negotiation",
+      "seriesName": "Negotiation",
+      "seriesTheme": "FBI hostage negotiation tactics, persuasion psychology, and everyday deal-making — Chris Voss, Robert Cialdini, and real-world frameworks",
+      "seriesEmoji": "🤝",
+      "wisdomLabel": "Negotiation Wisdom",
+      "parableCharacters": "Ren (young merchant), Vasska (master trader with a silver tongue and one blind eye)"
+    },
+    {
+      "seriesId": "stoic-philosophy",
+      "seriesName": "Stoic Philosophy",
+      "seriesTheme": "ancient Stoic teachings from Marcus Aurelius, Epictetus, and Seneca — mental resilience, emotional control, and living with purpose",
+      "seriesEmoji": "🏛️",
+      "wisdomLabel": "Stoic Wisdom",
+      "parableCharacters": "Caius (young Roman soldier), Maxima (battle-scarred general turned philosopher)"
+    },
+    {
+      "seriesId": "music-theory",
+      "seriesName": "Music Theory",
+      "seriesTheme": "the building blocks of music — notes, scales, chords, rhythm, harmony, and why certain sounds make you feel things",
+      "seriesEmoji": "🎵",
+      "wisdomLabel": "Musical Insight",
+      "parableCharacters": "Wren (street musician with perfect pitch), Old Ferro (blind piano tuner who hears colors)"
+    },
+    {
+      "seriesId": "real-estate",
+      "seriesName": "Real Estate Investing",
+      "seriesTheme": "building wealth through property — from your first rental to cash flow analysis, leverage, market cycles, and passive income",
+      "seriesEmoji": "🏠",
+      "wisdomLabel": "Real Estate Wisdom",
+      "parableCharacters": "Dara (carpenter's daughter), Hallam (old landlord who owns half the village)"
+    }
+    },
+    {
+      "seriesId": "storytelling",
+      "seriesName": "Storytelling",
+      "seriesTheme": "the craft of storytelling — narrative structure, character arcs, tension, pacing, dialogue, and what makes stories unforgettable. From campfire tales to screenwriting.",
+      "seriesEmoji": "📖",
+      "wisdomLabel": "Storytelling Wisdom",
+      "parableCharacters": "Pip (wandering bard who can't finish a story), Osha (ancient weaver who speaks only in tales)"
+    },
+    {
+      "seriesId": "building-relationships",
+      "seriesName": "Building Relationships",
+      "seriesTheme": "the science and art of building lasting romantic relationships — communication, love languages, conflict resolution, emotional intelligence, trust, and growing together",
+      "seriesEmoji": "💕",
+      "wisdomLabel": "Relationship Wisdom",
+      "parableCharacters": "Ash and Lume (two travelers who chose the same road), Elder Rynn (keeper of the Bridge of Vows)"
     }
   ]
 }
