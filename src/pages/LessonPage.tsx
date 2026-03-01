@@ -3,11 +3,6 @@ import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { getSeriesById } from '../data/lessons';
 
-function formatDate(dateStr: string) {
-  const d = new Date(dateStr + 'T00:00:00');
-  return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-}
-
 export default function LessonPage() {
   const { seriesId, day } = useParams();
   const s = getSeriesById(seriesId || '');
@@ -49,7 +44,7 @@ export default function LessonPage() {
       <header className="lesson-header">
         <span className="lesson-day-badge">Day {lesson.day}</span>
         <h1>{lesson.title}</h1>
-        <p className="lesson-date">{formatDate(lesson.date)}</p>
+{/* date removed */}
       </header>
 
       <div className="toggle-container">
