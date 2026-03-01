@@ -353,4 +353,87 @@ Wren played the progression on her guitar, feeling how each chord pulled toward 
 
 **Tomorrow:** Ferro taps his foot against the piano bench, and Wren discovers that harmony isn't the only thing that moves through time...`,
   },
+  {
+    day: 5,
+    title: "Rhythm — The Heartbeat of Music",
+    date: "2026-03-01",
+    image: "images/music-theory/day-5.jpg",
+    sonnet: `**🪶 Sonnet V: The Heartbeat of Music**
+
+In steady pulse the music finds its way,
+Like heartbeat marking time through mortal frame,
+Each measure bound to rhythm's ancient sway,
+Where strong and weak beats dance in ordered game.
+
+The downbeat falls with gravitational might,
+While upbeats lift like birds on morning air,
+But when syncopation breaks expected flight,
+The soul delights in patterns strange and fair.
+
+As polyrhythms weave their complex thread,
+Like clockwork gears that turn at different speed,
+The body knows what cannot be misread —
+Rhythm speaks to its most primal need.
+
+*For in these patterns time itself takes form,*
+*And music moves the dancer through the storm.*`,
+    standard: `🎵 Day 5: Rhythm — The Heartbeat of Music
+
+Yesterday we explored how chord progressions tell stories through harmony. The answer: **rhythm** is music's pulse in time, organizing sound into patterns of strong and weak beats that create groove, drive forward motion, and trigger our innate desire to move and dance.
+
+🧱 **The Concept**
+Rhythm is the organization of sound and silence in time through patterns of beats, accents, and durations. It provides music's temporal framework and creates the physical pulse that makes you tap your foot or nod your head.
+
+❓ **Why It Matters**
+Rhythm is primal — before melody or harmony existed, humans made rhythm with heartbeats, footsteps, and breath. It connects music to our bodies and emotions in ways that bypass conscious thought. Great rhythm can make simple melodies irresistible, while poor rhythm can ruin even the most sophisticated harmonies. Rhythm creates genre identity, cultural expression, and the groove that transforms notes into dance.
+
+⚙️ **How It Works**
+All rhythm starts with a steady **pulse** — like a heartbeat marking equal time intervals. We group pulses into **measures** using **time signatures** like 4/4 (four beats per measure) or 3/4 (three beats per measure). Within each measure, certain beats feel stronger (**downbeats**) while others feel weaker (**upbeats**), creating natural emphasis patterns.
+
+**Syncopation** happens when we accent the "wrong" beats, creating tension against the expected pattern. Jazz and Latin music use syncopation to create swing and groove. **Polyrhythm** layers different rhythmic patterns simultaneously — like African drumming where multiple rhythms interlock to create complex textures.
+
+Different **note values** (whole, half, quarter, eighth, sixteenth notes) let us divide beats into smaller or larger chunks. A **shuffle** feel uses triplet subdivisions instead of straight eighths, creating the bouncing rhythm of blues and jazz.
+
+📖 **Definitions**
+• **Pulse**: The steady, underlying beat that divides time equally
+• **Meter**: The organization of pulses into strong and weak patterns
+• **Time Signature**: Mathematical notation showing beats per measure and note value (4/4, 3/4, 6/8)
+• **Downbeat**: The first, strongest beat of each measure
+• **Upbeat**: Weaker beats, especially the "and" between main beats
+• **Syncopation**: Accenting unexpected beats to create rhythmic tension
+• **Polyrhythm**: Multiple rhythmic patterns played simultaneously
+• **Subdivision**: Dividing beats into smaller note values
+• **Groove**: The rhythmic feel that makes music compelling to move to
+
+🎯 **Musical Insight**
+Rhythm connects music directly to our bodies because it mirrors biological processes — heartbeat, breathing, walking. When rhythm aligns with these natural patterns, we feel compelled to move; when it plays against them through syncopation, we feel excitement and surprise.
+
+❓ **Tomorrow's Question:**
+*We've covered notes, scales, chords, and rhythm, but what magical force lets a single melody line suggest entire harmonies and tell complete emotional stories without any accompaniment?*`,
+    parable: `In the square where autumn leaves danced to their own silent rhythm, Wren sat cross-legged beside Old Ferro's piano bench, her fingers tracing patterns in the air. "Master Ferro," she said, "yesterday you showed me how chords paint emotions. But what makes my heart want to beat along with certain songs?"
+
+The old tuner's weathered hands found the keys, striking a simple, steady pulse. "Ah, child, you ask about rhythm — music's heartbeat." His fingers marked time like a metronome, each note falling like a drop of water into still pond. "Tell me, when you hear this pulse, what does your body want to do?"
+
+Wren found her foot tapping involuntarily. "It wants to... move. To sway."
+
+"Precisely." Ferro's left hand continued the steady pulse while his right began to dance around it, sometimes with it, sometimes against it. "Rhythm is older than melody, older than harmony. Before our ancestors sang, they drummed. Before they drummed, they walked, breathed, felt their hearts beating in their chests."
+
+He shifted the pattern, accenting unexpected beats, and Wren felt her body respond with delighted surprise. "When I place emphasis where you don't expect it — here, on the 'and' of two — I create syncopation. Your body expects the strong beat, but I give you tension instead."
+
+"It's like... like stumbling, but in a good way," Wren laughed.
+
+"Music is conversation between expectation and surprise," Ferro nodded. "In my mind's eye, rhythm appears as colored threads weaving through time — steady beats like golden strands, syncopation like silver sparks that catch the light unexpectedly."
+
+He began layering patterns — his left hand marking steady quarters while his right played triplets, creating a rich polyrhythmic tapestry. "In West Africa, drummers layer three, four, five different rhythms simultaneously. Each pattern is simple, but together they create something greater than their parts."
+
+Wren closed her eyes, feeling the interlocking patterns wash over her. "It's like watching gears in a clock — each moving at its own speed but all connected."
+
+"Time is rhythm's canvas," Ferro said, "and we are its painters. Every culture paints differently — the lilting 6/8 of an Irish jig, the driving 4/4 of rock, the complex polyrhythms of jazz. But all rhythm speaks to something primal in us."
+
+As the sun set behind the cathedral spires, Wren understood that rhythm was music's bridge between the mathematical and the physical, between thought and feeling. In its patterns lay the secret of why music could move not just the mind, but the entire human form.
+
+**Moral:** *Rhythm connects music to the body's wisdom, creating patterns that speak directly to our deepest, most primal responses.*
+
+*Tomorrow, she would discover how a single melodic line could contain entire worlds...*`,
+  },
 ];

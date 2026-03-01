@@ -314,4 +314,75 @@ Moral: *The wise investor uses leverage not as a crutch, but as a lever — ampl
 
 Tomorrow, Dara would learn the delicate art of managing multiple properties without drowning in their daily demands.`,
   },
+  {
+    day: 5,
+    title: "Property Management Systems That Scale",
+    date: "2026-03-01",
+    image: "images/real-estate/day-5.jpg",
+    sonnet: `**🪶 Sonnet V: Property Management Systems That Scale**
+
+The landlord who would chase each tenant's call
+Shall find himself a slave to every need,
+While he who builds systems to govern all
+Sees passive income grow from planted seed.
+
+Let screening be thy fortress at the gate—
+Bad tenants cost more than empty dwelling,
+And procedures that never deviate
+Keep chaos from thy portfolio swelling.
+
+As shepherds train their dogs to guard the flock,
+So must investors train systems to serve,
+That maintenance flows smooth as ticking clock
+And rent collections follow every curve.
+
+*The master builds machines that work alone,*
+*While amateurs are chained to every stone.*`,
+    standard: `🏠 Day 5: Property Management Systems That Scale
+
+Yesterday we explored financing strategies that maximize returns while managing risk, discovering that the best financing maximizes return on invested capital while keeping you safely leveraged. Today we answer: how do you manage your rental properties efficiently while building systems that scale as your portfolio grows?
+
+🧱 **The Concept**
+Effective property management systems transform real estate from active work into passive income by creating standardized processes for tenant screening, maintenance, rent collection, and property oversight.
+
+❓ **Why It Matters**
+Poor management destroys returns faster than bad deals. A single problematic tenant can cost months of profit through damages, legal fees, and vacancy. As your portfolio grows, manual management becomes impossible. Professional investors succeed by building systems that handle routine tasks automatically while flagging issues that need attention. The goal is creating truly passive income where properties run themselves.
+
+⚙️ **How It Works**
+Start with ironclad tenant screening: require credit scores above 650, income 3x rent, positive references, and background checks. Use property management software like Buildium or AppFolio to automate rent collection, maintenance requests, and financial reporting. Create maintenance networks with vetted contractors who provide fixed pricing for common repairs. For growing portfolios, the 10-unit rule applies: self-manage up to 10 units, then consider professional management at 8-12% of gross rents. Document everything in standard operating procedures so anyone can execute your systems. Emergency protocols, move-in checklists, and inspection schedules should run like clockwork whether you're present or on vacation in Europe.
+
+📖 **Definitions**
+• **Tenant Screening**: Systematic evaluation of prospective renters' creditworthiness and reliability
+• **Property Management Software**: Digital platforms automating rent collection, maintenance, and reporting
+• **Standard Operating Procedures (SOPs)**: Written processes ensuring consistent property management execution
+• **Professional Property Management**: Third-party companies managing properties for percentage fees
+• **Maintenance Network**: Pre-vetted contractors providing reliable, fixed-price repair services
+
+🎯 **Real Estate Wisdom**
+The difference between real estate investors and real estate operators is systems. Investors buy properties; operators build machines that generate wealth automatically. Your systems determine whether you own your properties or they own you.
+
+❓ **Tomorrow's Question:**
+*How do market cycles affect real estate values, and how can investors position themselves to profit from both up and down markets?*`,
+    parable: `As autumn painted the village in gold, Dara found herself overwhelmed. Her three rental cottages demanded constant attention—loose shutters here, late rent there, complaints about neighbors everywhere. She spent more time managing properties than building new ones.
+
+"I see you've discovered the landlord's curse," chuckled Hallam, finding her buried in maintenance requests at the village square. "Properties that should serve you have made you their servant instead."
+
+"But how do you manage dozens of cottages?" Dara asked, gesturing helplessly at her stack of problems. "Some days I wonder if I should sell everything."
+
+Hallam's eyes twinkled. "Come, let me show you something."
+
+He led her to a small stone building behind the inn. Inside, a young clerk sat at a wooden desk, methodically sorting papers. "This is Willem, my property steward. Every tenant request flows through this office. Every cottage has the same lease terms, the same move-in process, the same inspection schedule."
+
+Willem showed Dara his ledgers—one for maintenance, organized by cottage and contractor, another for tenants with their payment history and references. "Master Hallam taught me that chaos comes from treating each situation as unique. But tenant problems follow patterns. Broken windows, late payments, noise complaints—we have procedures for everything."
+
+"I learned long ago," Hallam explained, "that good tenants are like good timber—you must inspect carefully before accepting them. We require references from previous landlords, proof of steady income, and a character assessment from village elders. Better to have a cottage empty one month than a bad tenant for six."
+
+Dara watched as Willem efficiently dispatched a carpenter to repair a door, collected rent from a merchant's widow, and scheduled inspections for month's end. "You've built a machine," she marveled.
+
+"Precisely. Now my properties run themselves while I focus on finding new opportunities. The key is this: create systems that work whether you're present or traveling to distant markets."
+
+The moral rang clear: The master builds systems that serve him; the amateur serves properties that should be working for him.
+
+Tomorrow, Dara would learn how Hallam had survived the great market upheaval of twenty years past, when half the village's property values crumbled—yet somehow, he had emerged wealthier than before.`,
+  },
 ];
