@@ -115,67 +115,69 @@ Every bite of food is a tiny flame. Your body is the hearth. Understanding how m
       },
   {
     day: 2,
-    title: "The Three Macronutrients - Your Body's Fuel Sources",
+    title: "The Three Macronutrients",
     date: "2026-03-01",
     image: "images/nutrition-science/day-2.jpg",
-    sonnet: `**🪶 Sonnet II: The Three Macronutrients - Your Body's Fuel Sources**
+    sonnet: `**🪶 Sonnet II: The Three Macronutrients**
 
-Three fires burn within our mortal frame,
-Each fuel distinct in purpose and in power:
-Swift carbs like kindling feed the dancing flame
-That lights our steps through each demanding hour.
+Three fuels within our mortal engine burn,
+Each serving flesh with purpose all its own:
+Carbohydrates like kindling quick to turn
+To flame, while muscles dance and minds are shown.
 
-The patient fats, like seasoned logs that glow,
-Burn long and steady, warming flesh and bone,
-While proteins, craftsmen of our form below,
-Build sinew, cell, and make our strength their own.
+Protein, the builder of our very frame,
+Repairs what time and toil have torn apart,
+Four calories per gram to stake its claim
+As architect of sinew, bone, and heart.
 
-Not one alone can serve our body's need—
-The sugar burns too bright and fades too fast,
-The fat too slow when urgent actions plead,
-Protein too precious for mere fuel to last.
+Yet fat burns richest, nine per measured gram,
+A steady flame that long endures the night,
+Like oil that feeds the temple's sacred lamp
+And carries wisdom's vitamins to sight.
 
-*When three flames dance in harmony's embrace,*
-*They forge the fire that fuels our human race.*`,
-    standard: `🍎 Day 2: The Three Macronutrients - Your Body's Fuel Sources
+*No single fuel can serve our body's need—*
+*Three flames together make one life complete.*`,
+    standard: `🍎 Day 2: The Three Macronutrients
 
-Yesterday we learned that calories measure energy from food. The answer to our question: your body burns three types of fuel — **carbohydrates**, **fats**, and **proteins** — and each affects your energy, hunger, and health differently.
+Yesterday we learned that calories are units of energy, like measuring how much heat different pieces of wood give a campfire. Your body can actually burn three different types of fuel: **carbohydrates**, **proteins**, and **fats** — the macronutrients.
 
 🧱 **The Concept**
-All food contains three macronutrients: carbs, fats, and proteins. These are your body's only sources of calories, each providing different amounts of energy per gram.
+Macronutrients are the three main types of nutrients that provide calories and serve as your body's primary fuel sources.
 
 ❓ **Why It Matters**
-Not all calories are created equal. A 500-calorie meal of salmon and vegetables affects your blood sugar, hunger hormones, and energy levels completely differently than 500 calories of candy. Understanding macronutrients explains why some foods keep you satisfied for hours while others leave you hungry in 30 minutes.
+Not all calories are created equal in how they affect your body. Each macronutrient has a different job, burns differently, and affects your hunger, energy levels, and metabolism in unique ways. Understanding this is the key to eating for your goals rather than just counting calories.
 
 ⚙️ **How It Works**
-**Carbohydrates** (4 calories per gram) are quick-burning fuel — like kindling on a fire. Simple carbs (sugar, white bread) burn fast and hot, spiking blood sugar then crashing. Complex carbs (oats, sweet potatoes) burn slower and steadier. **Fats** (9 calories per gram) are slow-burning logs that provide sustained energy and help you feel full. Think olive oil, nuts, avocado. **Proteins** (4 calories per gram) are the construction crew — they build and repair muscle, organs, and enzymes. Your body can burn protein for energy, but it prefers to use it for maintenance and growth.
-
-Most foods contain combinations of macronutrients. An egg has protein and fat. Beans have protein and carbs. Understanding these ratios helps you build meals that provide steady energy and lasting satisfaction.
+Think of your body as a hybrid car with three fuel tanks. **Carbohydrates** are like gasoline — quick, clean-burning energy that powers immediate needs (4 calories per gram). Your brain runs almost exclusively on glucose from carbs. **Proteins** are like premium fuel — they build and repair your engine while providing energy (4 calories per gram). Your muscles, organs, and immune system are made of protein. **Fats** are like diesel — slow-burning, long-lasting energy that also helps your body absorb vitamins and make hormones (9 calories per gram). Each macronutrient triggers different hormonal responses: carbs spike insulin for energy storage, protein triggers muscle building, and fats help you feel satisfied longer.
 
 📖 **Definitions**
-• **Macronutrients**: The three calorie-containing nutrients: carbs, fats, proteins
-• **Simple Carbs**: Fast-digesting sugars that spike blood glucose quickly
-• **Complex Carbs**: Slow-digesting starches and fibers that provide steady energy
-• **Essential Amino Acids**: Protein building blocks your body can't make and must get from food
-• **Satiety**: The feeling of fullness and satisfaction after eating
+• **Macronutrients**: The three main nutrients that provide calories (carbs, protein, fat)
+• **Carbohydrates**: Quick energy source, 4 cal/gram (sugars, starches, fiber)
+• **Proteins**: Building blocks for muscles/organs, 4 cal/gram (amino acids)
+• **Fats**: Long-lasting energy and hormone production, 9 cal/gram (saturated, unsaturated)
+• **Micronutrients**: Vitamins and minerals that don't provide calories but are essential
 
 🎯 **Science Wisdom**
-The magic happens in the combination. Protein slows carb absorption, preventing blood sugar spikes. Fat triggers satiety hormones that tell your brain "I'm full." This is why an apple with peanut butter keeps you satisfied longer than an apple alone.
+Your body is constantly switching between fuel sources based on availability and need. The magic isn't in avoiding any macronutrient — it's in understanding how each one serves your body and choosing the right balance for your goals.
 
 ❓ **Tomorrow's Question:**
-*Why does your body need 20 different amino acids, but you only have to eat 9 of them?*`,
-    parable: `Lila found Maren tending three different fires in her healing chamber — one crackling bright with dry twigs, another glowing steady with seasoned oak, and the third burning slow with dense hardwood.
+*Your body can store thousands of calories as fat and some as glycogen, but why can't it store protein — and what does this reveal about why you need to eat it regularly?*`,
+    parable: `Lila found Maren tending three distinct fires in her healing chambers — one crackling with quick-burning kindling, another glowing steady with seasoned hardwood, and the third burning slow and bright with rendered fat from the morning's meal.
 
-"Each flame serves a purpose," Maren explained, stirring a pot over the twig fire. "This quick blaze heats water fast but dies quickly — like the sweet fruits that give you swift energy but leave you wanting more." She gestured to the oak fire roasting vegetables. "This steady flame cooks evenly and lasts — like the grains and roots that sustain you through long work." Finally, she pointed to the hardwood fire, barely flickering but radiating deep heat. "And this patient fire burns longest, like the nuts and oils that keep your inner flame warm through the coldest nights."
+"Three fires for three needs," Maren explained, her weathered hands adjusting each flame. "Watch how each burns differently, child. Your body is like a village with three hearths, each requiring its own fuel."
 
-Lila watched the three fires dance in their hearths. "But Master, why three fires? Why not just use one?"
+She pointed to the first fire, dancing high and fast. "Carbohydrates burn like dry grass — quick energy for immediate needs. Your mind thinks with this fire, your muscles sprint with it. But see how quickly it consumes itself?"
 
-"Watch," Maren said, taking a ember from each fire and placing them together in a fourth hearth. The combined flames burned brighter and more steadily than any alone. "Your body is like my kitchen, child. It needs all three fuels working together. The quick-burning sweet foods awaken your energy. The steady grains sustain your daily tasks. The slow-burning fats nourish your deepest needs. But here's the wisdom — " she added a handful of dried herbs to the combined fire, and it settled into a perfect, enduring glow. "When you add the builders — the foods that repair and strengthen your body like these healing herbs — the three fires work in harmony."
+The second fire glowed steadily, its flames neither high nor low. "Protein burns differently — it feeds the fire while rebuilding the hearth stones themselves. Every muscle fiber, every drop of blood, every strand of hair grows from this fuel. Without it, the village crumbles."
 
-As the evening shadows deepened, Lila understood: like Maren's fires, her body needed not just fuel, but the right kinds of fuel, balanced and purposeful.
+The third fire burned with a deep, lasting warmth. "Fat burns longest and richest — nine measures of heat where the others give four. It carries the lamp oil for your nerves, the building mortar for your cells, the slow warmth that sustains you through winter's hunger."
 
-**Moral:** True nourishment comes not from any single source, but from the harmony of all three flames — quick energy, steady fuel, and patient sustenance — burning together in wisdom.
+Lila watched in wonder as Maren stirred a pot containing grains, fish, and olive oil. "But teacher, which fire is most important?"
 
-*Tomorrow, Lila would learn why some of the body's building blocks must come from the world beyond, while others are forged within...*`,
+"That, dear apprentice, is like asking which leg you'd rather walk on," Maren smiled. "A wise healer tends all three fires according to the village's needs."
+
+**Moral**: *Like a village with three hearths, your body thrives when all its fuel sources are honored for their unique gifts.*
+
+*Tomorrow, Lila will discover why one of these fuels cannot be stored away like winter grain...*`,
   },
 ];
