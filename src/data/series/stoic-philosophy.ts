@@ -120,5 +120,85 @@ You cannot control the storm, the assignment, or the judgment of others. You can
 > *"The soldier who guards a grain road with honor is freer than the general who chases glory he cannot control."*
 
 ❓ *Tomorrow's tale: Caius has stopped fighting the outer circle. But does that mean he should abandon ambition? How does a Stoic pursue great things without being enslaved by the outcome?*`
-  }
+  },
+  {
+    day: 2,
+    title: "The Discipline of Desire",
+    date: "2026-03-01",
+    image: "images/stoic-philosophy/day-2.jpg",
+    sonnet: `**🪶 Sonnet II: The Discipline of Desire**
+
+When mortal hearts demand the world obey,
+And chase rewards beyond their meager reach,
+They bind their joy to Fortune's fickle way—
+What outcomes grant, swift circumstance can breach.
+
+But wise souls learn to want what comes to pass,
+To prize the deed above the deed's reward,
+Like gardeners who tend each blade of grass,
+Not for the harvest, but for love toward
+
+The sacred work itself. Excellence pure
+Requires no crown to validate its worth;
+The surgeon's skill, the scholar's truth secure
+Find satisfaction in the act, not birth
+
+*Of fame or gold. When process is the prize,*
+*The soul finds peace beneath uncertain skies.*`,
+    standard: `🏛️ Day 2: The Discipline of Desire
+
+Yesterday we learned the dichotomy of control — distinguishing what's up to us from what isn't. Today's question was whether Stoics should stop caring about outcomes entirely. The answer: No — Stoics care deeply, but they **desire the process, not the prize**.
+
+🧱 **The Concept**
+The discipline of desire teaches us to want what happens, rather than demanding that what we want should happen.
+
+❓ **Why It Matters**
+Desiring outcomes you can't control creates a life of constant frustration and disappointment. When your happiness depends on external results — promotions, relationships, recognition — you're essentially gambling with your peace of mind. The discipline of desire breaks this cycle by redirecting your wanting toward what's actually achievable.
+
+⚙️ **How It Works**
+Instead of "I want to get the job," think "I want to interview with excellence." Instead of "I need them to like me," focus on "I want to be genuinely kind and authentic." You shift from **attachment to outcomes** to **commitment to excellence**.
+
+Marcus Aurelius practiced this daily: "Confine yourself to the present." When leading Rome's armies, he desired to make wise decisions, show courage, and act with justice — not to guarantee victory. Seneca, one of Rome's wealthiest men, regularly practiced poverty to prove his contentment didn't depend on riches.
+
+The discipline doesn't kill ambition — it purifies it. You work just as hard, but your satisfaction comes from effort, not results. This paradox often leads to better outcomes because you're not paralyzed by fear of failure.
+
+📖 **Definitions**
+• **Discipline of Desire**: Training yourself to want what happens rather than demanding what you want
+• **Preferred Indifferents**: Things naturally preferred (health, wealth) but not essential for happiness
+• **Reserve Clause**: Mental addition of "fate permitting" to all plans and hopes
+• **Prosoche**: Continuous attention to living according to Stoic principles
+
+🎯 **Stoic Wisdom**
+Epictetus taught: "Don't demand that things happen as you wish — wish that they happen as they do, and you will go on well." Freedom comes from wanting what you get, not getting what you want.
+
+❓ **Tomorrow's Question:**
+*This sounds like passive resignation. How do Stoics maintain the drive to improve themselves and change the world if they're supposed to accept everything that happens?*`,
+    parable: `The morning sun cast long shadows across the training grounds as Caius practiced sword work with mechanical precision. Each thrust, each parry — perfect form, yet his shoulders carried the weight of worry.
+
+"Your blade is sharp," Maxima observed, approaching with measured steps, "but your mind is dull with desire."
+
+Caius lowered his gladius. "The centurion evaluations are next week, General. I must make the cut. My family's honor depends on it."
+
+"Ah," Maxima nodded, settling onto a stone bench worn smooth by countless conversations. "Tell me, young soldier — do you control the centurion's judgment?"
+
+"No, but—"
+
+"Do you control whether plague strikes the camp, or whether Caesar calls for immediate deployment?"
+
+Caius shook his head, confusion creeping across his features.
+
+"Then why," Maxima continued gently, "do you chain your peace to a thousand things beyond your reach? You desire the rank, not the excellence. You want the outcome, not the process."
+
+Maxima stood and drew his own sword — not the ceremonial blade of retirement, but the battle-worn steel that had seen twenty campaigns. "Watch me fight this post," he said, beginning a fluid sequence of strikes. "I desire perfect form. Each cut, precisely placed. Each movement, executed with full attention. Whether the post falls or stands matters nothing — my satisfaction comes from the doing, not the done."
+
+Caius watched, mesmerized. The general's blade sang through air with purposeful grace.
+
+"This is the discipline of desire," Maxima said, sheathing his sword. "Want what happens, rather than demanding what you want. Train with excellence not to guarantee promotion, but because excellence is its own reward. Fight with courage not to ensure victory, but because courage makes you worthy regardless of outcome."
+
+The young soldier felt something shift in his chest — a loosening of invisible chains.
+
+**Moral:** True strength comes from desiring the process over the prize, for in seeking excellence for its own sake, we find both peace and purpose.
+
+**Tomorrow:** Maxima will teach Caius why acceptance of fate paradoxically creates the power to change the world.`,
+  },
 ];

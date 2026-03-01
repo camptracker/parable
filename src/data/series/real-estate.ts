@@ -111,5 +111,74 @@ Real estate builds wealth because it combines four forces: rental income, apprec
 > *"The carpenter builds the house. The owner keeps the house. And the house keeps paying."*
 
 ❓ *Tomorrow's tale: If borrowed money is the engine of real estate wealth, what happens when it backfires? Dara learns the danger of leverage — and why even Hallam fears the word "overleveraged."*`
-  }
+  },
+  {
+    day: 2,
+    title: "Understanding Leverage Risk",
+    date: "2026-03-01",
+    image: "images/real-estate/day-2.jpg",
+    sonnet: `**🪶 Sonnet II: Understanding Leverage Risk**
+
+The lever lifts the stone too great to bear,
+Yet he who pulls without a steady hand
+May find the weight too much for mortal care,
+And crush the dreams he thought to understand.
+
+For borrowed gold that multiplies the gain
+Will just as surely multiply the loss,
+When fortune turns and brings the storm and rain,
+The debtor learns who truly pays the cost.
+
+The vacant rooms that once sang rental songs
+Now echo empty, rent no longer flowing,
+While interest grows and compounds all the wrongs
+Of those who bet without truly knowing.
+
+*The wise respect the lever's double edge,*
+*And never risk more than they can pledge.*`,
+    standard: `🏠 Day 2: Understanding Leverage Risk
+
+Yesterday we explored how leverage amplifies returns — a 3% property gain becomes a 15% return on your down payment. But leverage is a double-edged sword: just as it magnifies gains, it can magnify losses catastrophically.
+
+🧱 **The Concept**
+Leverage risk occurs when borrowed money amplifies losses, potentially wiping out your equity or forcing foreclosure when property values fall or cash flow disappears.
+
+❓ **Why It Matters**
+Many investors focus only on leverage's upside without understanding its downside. A 20% drop in property value can wipe out a 20% down payment entirely. Add vacancy, major repairs, or job loss to the mix, and leveraged investors can lose everything while cash buyers simply wait out the storm.
+
+⚙️ **How It Works**
+Using our $200,000 house example: if the market drops 20%, your property is now worth $160,000. You still owe roughly $160,000 on the mortgage — you're underwater with zero equity. If you can't make payments and must sell, you'll owe money at closing. Smart investors mitigate this through conservative loan-to-value ratios, cash reserves for vacancies and repairs, and buying in strong rental markets. They stress-test deals by asking: "What if rents drop 20%? What if I have three months vacancy? What if I need a new roof?" The best defense against leverage risk is conservative assumptions and adequate cash reserves.
+
+📖 **Definitions**
+• **Loan-to-Value (LTV)**: The mortgage amount divided by property value
+• **Underwater/Upside Down**: Owing more on the mortgage than the property is worth
+• **Cash Reserves**: Money set aside for vacancies, repairs, and unexpected expenses
+• **Stress Testing**: Analyzing how a deal performs under worst-case scenarios
+• **Foreclosure**: The legal process where lenders reclaim property due to missed payments
+
+🎯 **Real Estate Wisdom**
+Warren Buffett warns that leverage can turn a smart person into a poor person very quickly. The wealthy don't avoid leverage — they respect it. They use conservative ratios, maintain reserves, and never bet the farm on one property.
+
+❓ **Tomorrow's Question:**
+*How do you actually find and evaluate your first rental property? What numbers matter most when deciding if a deal makes sense?*`,
+    parable: `The morning mist still clung to the village rooftops when Dara found old Hallam examining a ledger beneath the great oak tree, his weathered fingers tracing columns of figures with the precision of a master craftsman.
+
+"You spoke yesterday of how borrowed gold multiplies gains," Dara said, settling beside him. "But surely there must be dangers in such magic?"
+
+Hallam's eyes grew distant. "Aye, child. Thirty years past, young Willem thought himself clever. He borrowed against his father's mill to buy three cottages when land was dear. 'The rents will pay the debts,' he boasted, 'and I'll be rich as a merchant prince.'"
+
+The old man closed his ledger with a soft thud. "But harvests failed that year. Tenants fled to seek work in distant towns. Willem's cottages sat empty while the moneylender's interest grew like weeds. When he tried to sell, the market had soured — men wanted bread, not property. The same lever that promised to lift him up crushed him down."
+
+Dara watched a sparrow struggle with a twig too large for its nest. "So the borrowed gold that was to make him wealthy..."
+
+"Made him poor instead. The cottages were seized, the mill lost, his family scattered like autumn leaves. Willem learned too late that a lever can break the one who wields it carelessly." Hallam's voice carried the weight of hard-won wisdom. "I've seen men drunk on the promise of easy wealth, borrowing against tomorrow's dreams without counting today's risks."
+
+"Then how does one use this power safely?" Dara asked.
+
+The old landlord smiled, pointing to his stone cottage with its solid walls and paid-for deed. "Never borrow more than you can bear to lose. Keep gold in reserve for lean seasons. Buy where people must live, not where they merely wish to. And remember — the moneylender cares not if your crops fail; he wants his due whether the sun shines or storms rage."
+
+**Moral**: *The same force that can elevate you to great heights can cast you into deep valleys. Wisdom lies not in avoiding the lever, but in wielding it with respect and preparation.*
+
+*Tomorrow, Dara will learn how Hallam chooses which properties deserve his silver — and which promises are merely fool's gold wrapped in pretty words.*`,
+  },
 ];

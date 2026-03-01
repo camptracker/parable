@@ -509,5 +509,158 @@ The world will always find ways to spend your harvest. Bakers, merchants, landlo
 > *"The harvest keeper who waits until the end finds nothing left to keep. The one who takes her share first finds that the rest is always enough."*
 
 ❓ *Tomorrow's tale: Kael's jar is filling — but where should he plant those saved seeds? Under his mattress? In Tobren's field? Somewhere else entirely?*`
-  }
+  },
+  {
+    day: 6,
+    title: "The Investment Ladder — Where to Put Your Money",
+    date: "2026-03-01",
+    image: "images/financial-independence/day-6.jpg",
+    sonnet: `**🪶 Sonnet VI: The Investment Ladder**
+
+As gardeners tend their plots with careful hand,
+Some seeds for safety in the fertile loam,
+Some cast toward seasons they can understand,
+Some planted wild where exotic flowers roam.
+
+The prudent soul builds ladders rung by rung,
+With emergency gold secured below,
+While bonds and funds, like grain when harvest-young,
+Provide the steady yield that gardens know.
+
+But at the heights where starlight meets the earth,
+The boldest seeds may bloom or fade away,
+Their risk rewarded with transcendent worth,
+Or lost like morning mist at break of day.
+
+*Each dollar finds its proper place and time,*
+*From safety's roots to growth's celestial climb.*`,
+    standard: `💰 Day 6: The Investment Ladder — Where to Put Your Money
+
+Yesterday we learned to pay yourself first with the 50/30/20 rule. The answer to where your 20% should go depends on your timeline and risk tolerance — different money belongs in different places.
+
+🧱 **The Concept**
+The Investment Ladder is a hierarchy of where to put your money based on when you'll need it and how much risk you can handle. Cash for emergencies sits at the bottom, long-term investments at the top.
+
+❓ **Why It Matters**
+Putting all your money in a savings account earning 0.5% while inflation runs at 3% means you're losing purchasing power every year. But putting your emergency fund in volatile stocks is equally dangerous. The ladder ensures each dollar is in the right place for its purpose.
+
+⚙️ **How It Works**
+Think of your money like water flowing up a ladder — it fills each rung completely before moving to the next:
+
+**Rung 1 (Foundation)**: Emergency fund in high-yield savings (3-6 months expenses)
+**Rung 2 (Safety)**: CDs or bonds for money needed in 1-5 years
+**Rung 3 (Growth)**: Index funds for retirement and long-term goals (5+ years)
+**Rung 4 (Speculation)**: Individual stocks, crypto — only after the foundation is solid
+
+A 25-year-old might have 10% in cash, 90% in stocks. A 60-year-old approaching retirement might reverse that ratio. The ladder adapts to your life stage and goals.
+
+📖 **Definitions**
+• **Investment Ladder**: A hierarchy of investment types ranked by risk and liquidity
+• **High-Yield Savings**: Bank accounts paying 4-5% interest (vs. 0.5% for regular savings)
+• **Index Funds**: Baskets of hundreds of stocks that track market averages
+• **Asset Allocation**: The percentage split of your money across different investment types
+• **Risk Tolerance**: How much volatility you can handle without losing sleep
+
+🎯 **Buffett Wisdom**
+"Risk comes from not knowing what you're doing." Buffett keeps billions in cash when he can't find good investments, but puts the rest in businesses he understands for decades. The ladder isn't about avoiding all risk — it's about taking the right risks with the right money.
+
+❓ **Tomorrow's Question:**
+*You've built your ladder — but how do you pick which specific investments to buy? What makes one stock or fund better than another?*`,
+    parable: `The morning after Sable's lesson on the seed harvest, Kael found the elder tending to several different gardens behind his cottage. Some plots held sturdy root vegetables, others delicate herbs, and one contained exotic flowering plants that seemed to shimmer in the dawn light.
+
+"Each plant requires different soil, different care," Sable observed, brushing dirt from his weathered hands. "Your saved seeds are like these plants — they need different homes to flourish."
+
+Kael watched as Sable gestured to a sturdy wooden box filled with dark, rich earth. "Here I keep my emergency turnips — hardy, reliable, ready to harvest when winter comes unexpectedly. They grow slowly but never fail." He moved to a second plot with neat rows of grain. "These are for the seasons I can see coming — not as safe as turnips, but they yield more when tended properly."
+
+Finally, Sable led Kael to the shimmering flowers. "And these," he smiled, "are my dreams made manifest. They might bloom into something magnificent, or they might wither. But I plant them only after my turnips and grain are secure."
+
+Tobren approached, carrying a heavy sack. "I used to plant everything in one field," the farmer admitted. "Lost it all to a single bad storm. Now I spread my seeds like Sable taught me — some safe, some growing, some reaching for the stars."
+
+Sable nodded approvingly. "The wise gardener plants not just for this season, but for all the seasons of his life. Young roots can weather storms that would topple old trees, while mature gardens need steady ground beneath them."
+
+As they walked back through the different plots, Kael marveled at how each served its purpose — the emergency turnips promised security, the grain offered steady growth, and the exotic flowers held the possibility of extraordinary beauty. The garden was a ladder of hope, each rung supporting the next.
+
+**Moral:** Like a wise gardener tends different plots for different purposes, the prudent person places their money where it can grow according to its intended use and the seasons of life.
+
+*Tomorrow, Sable will teach Kael the ancient art of choosing the finest seeds — for not all that glitters bears fruit, and not all investments that promise riches deliver them.*`,
+  },
+  {
+    day: 7,
+    title: "The Quality Filter — How to Pick Winning Investments",
+    date: "2026-03-01",
+    image: "images/financial-independence/day-7.jpg",
+    sonnet: `**🪶 Sonnet VII: The Quality Filter**
+
+Among the stones that glitter in the light,
+Not all possess the worth that meets the eye;
+Some crystals clear will last through endless night,
+While others crack when testing seasons try.
+
+The merchant wise knows how to separate
+The lasting gems from fool's gold cheaply sold;
+Three questions asked will help discriminate:
+What moats protect? What numbers can unfold?
+
+What leaders guide with wisdom, skill, and care?
+For companies, like stones, must pass the test
+Of time and pressure—those beyond compare
+Will compound wealth and serve investors best.
+
+*Thus Buffett teaches: seek not price alone,*
+*But quality that's carved in lasting stone.*`,
+    standard: `💰 Day 7: The Quality Filter — How to Pick Winning Investments
+
+Yesterday we built our Investment Ladder to match money with timeframes. The answer to picking specific investments lies in filtering for quality — businesses with sustainable advantages that compound wealth over time.
+
+🧱 **The Concept**
+The Quality Filter is a screening process to identify investments with durable competitive advantages, strong financials, and competent management — the hallmarks of businesses that create long-term wealth.
+
+❓ **Why It Matters**
+Not all stocks are created equal. Some companies have "moats" — competitive advantages that protect their profits from competitors. Others are commodity businesses where profits get competed away. Quality companies compound wealth; poor ones destroy it. The difference between investing in Coca-Cola versus a failing retailer can mean the difference between retirement and poverty.
+
+⚙️ **How It Works**
+Buffett's quality filter has three main screens:
+
+**Screen 1 (The Moat)**: Does the business have sustainable competitive advantages? Strong brands (Apple), network effects (Visa), switching costs (software), or economies of scale (Walmart) create moats that protect profits.
+
+**Screen 2 (The Numbers)**: Look for consistent profitability, growing revenues, manageable debt, and high returns on equity. A company earning 20% on shareholder equity year after year is compounding wealth faster than one earning 5%.
+
+**Screen 3 (The People)**: Management should be competent, honest, and shareholder-friendly. Do they reinvest profits wisely or waste them on ego projects? Are they buying back shares when undervalued or issuing stock to enrich themselves?
+
+For beginners, broad market index funds like the S&P 500 provide instant diversification across hundreds of quality companies, removing the need to pick individual winners.
+
+📖 **Definitions**
+• **Economic Moat**: Sustainable competitive advantages that protect a company's profits
+• **Return on Equity (ROE)**: How much profit a company generates per dollar of shareholder investment
+• **Competitive Advantage**: Unique strengths that allow a company to outperform competitors
+• **Management Quality**: The competence and integrity of a company's leadership team
+• **Diversification**: Spreading investments across many companies to reduce risk
+
+🎯 **Buffett Wisdom**
+"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." Quality businesses compound wealth through reinvestment and growth, while poor businesses destroy it regardless of how cheaply you bought them.
+
+❓ **Tomorrow's Question:**
+*You've found quality investments — but when is the right time to buy? How do you know if a stock is fairly priced or overvalued?*`,
+    parable: `The morning sun cast long shadows across the village square as Kael found Sable examining a collection of polished stones spread across a wooden table. Each stone gleamed differently in the light — some rough and dull, others smooth and brilliant.
+
+"What makes one stone more valuable than another, Elder?" Kael asked, drawn by the display.
+
+Sable smiled, lifting a perfectly clear crystal. "Observe carefully, young seeker. This crystal has three qualities that make it precious: clarity, hardness, and rarity. Remove any one, and its value diminishes." He set it aside and picked up a cloudy, brittle stone. "This one may look similar to untrained eyes, but it lacks the enduring qualities."
+
+Tobren approached, carrying a sack of grain. "Like choosing seeds for planting," he added thoughtfully. "I could buy cheap seeds that sprout quickly but produce weak crops, or invest in hardy varieties that yield abundantly year after year."
+
+"Precisely," Sable nodded. "Whether stones, seeds, or the businesses we invest in, we must learn to recognize true quality. A business is like Tobren's seeds — we want those with deep roots, strong growth, and the ability to thrive in changing seasons."
+
+Kael studied the stones more carefully. "How do I learn to see these qualities?"
+
+"Three questions guide us," Sable replied, arranging three stones in a row. "First, does this business have protections that competitors cannot easily overcome — like a crystal's unique structure? Second, do the numbers show consistent strength and growth — like a stone's proven hardness? Third, are the people running it trustworthy and skilled — like a jeweler who cuts with precision rather than haste?"
+
+Tobren chuckled. "I've learned the hard way that the cheapest seeds often cost the most in the end. Better to pay fairly for quality than chase bargains that disappoint."
+
+As the morning lesson concluded, Sable gathered the stones carefully. "Remember, young Kael — in a world full of glittering distractions, the ability to recognize true quality is the investor's greatest skill."
+
+**Moral**: *Quality reveals itself to those who learn to look beyond surface appearances to the enduring strengths beneath.*
+
+*Tomorrow, Kael would discover that even the finest stones must be acquired at the right price...*`,
+  },
 ];

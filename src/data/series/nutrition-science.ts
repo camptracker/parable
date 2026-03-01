@@ -559,5 +559,74 @@ Protein is not fuel to burn — it's material to build. Your body uses it every 
 > *"The mason works without complaint, but he cannot build with air. Feed him daily, and the house stands strong. Starve him, and he tears down walls to patch the roof."*
 
 ❓ *Tomorrow's tale: Lila has mastered the kindling and the building wood. But what of the third hearth — the deep, slow-burning logs of fat? Is fat the enemy the village gossips claim, or has the village been wrong all along?*`
-      }
+      },
+  {
+    day: 6,
+    title: "Fat — The Essential Energy Dense Nutrient",
+    date: "2026-03-01",
+    image: "images/nutrition-science/day-6.jpg",
+    sonnet: `**🪶 Sonnet VI: Fat — The Essential Energy Dense Nutrient**
+
+Behold the third hearth burning amber bright,
+With logs that glow through winter's longest night,
+Though elders feared these flames would bring us harm,
+These vital oils possess a healing charm.
+
+From olive groves and northern seas so deep,
+Come golden gifts our bodies need to keep,
+While twisted fats from factories bring disease,
+Nature's own fats grant health and inner peace.
+
+Nine calories packed in every precious gram,
+Support the brain and craft each healing balm,
+The moon-blood flows, the mind thinks swift and clear,
+When proper fats burn steady through the year.
+
+*Fear not the fat that nature freely gives,*
+*For concentrated fuel is how life lives.*`,
+    standard: `🍎 Day 6: Fat — The Essential Energy Dense Nutrient
+
+Yesterday we learned that protein builds and repairs your body while burning calories just to digest. The answer to our fat question: *dietary fat isn't the villain* — the low-fat era got it backwards. Your body needs fat for hormones, brain function, and vitamin absorption.
+
+🧱 **The Concept**
+Fat is your body's most concentrated energy source and serves critical structural and regulatory functions. At 9 calories per gram (versus 4 for carbs and protein), fat provides sustained energy while building cell membranes, creating hormones, and helping absorb fat-soluble vitamins.
+
+❓ **Why It Matters**
+Without adequate fat, your hormone production crashes, your brain suffers, and you can't absorb vitamins A, D, E, and K. The "low-fat" diet craze of the 1980s-90s coincided with rising obesity and diabetes rates — partly because people replaced healthy fats with processed carbs and sugar.
+
+⚙️ **How It Works**
+Fats come in three main types, each with different effects on your body. **Saturated fats** (butter, coconut oil, meat) are stable and used for hormone production — not the heart villain once thought. **Monounsaturated fats** (olive oil, avocados, nuts) reduce inflammation and support cardiovascular health. **Polyunsaturated fats** include essential omega-3s (fish, flax, walnuts) that your brain desperately needs, and omega-6s (vegetable oils) that become inflammatory when overconsumed. The key is balance: most people get 10-20 times more omega-6 than omega-3, driving chronic inflammation. **Trans fats** (partially hydrogenated oils) are the only truly harmful fats — they're banned in many countries because they increase disease risk.
+
+📖 **Definitions**
+• **Saturated Fat**: Fat molecules with no double bonds — solid at room temperature, stable for cooking
+• **Monounsaturated Fat**: Fat with one double bond — liquid at room temperature, heart-healthy
+• **Polyunsaturated Fat**: Fat with multiple double bonds — includes essential omega-3 and omega-6 fatty acids
+• **Essential Fatty Acids**: Omega-3 and omega-6 fats your body cannot make — must come from food
+• **Trans Fat**: Artificially created fat that increases inflammation and disease risk
+
+🎯 **Science Wisdom**
+Fat doesn't make you fat — excess calories do. In fact, eating adequate healthy fats helps regulate appetite hormones and keeps you satisfied longer than low-fat meals. Your brain is 60% fat by dry weight and performs best on a steady supply of quality fats, especially omega-3s.
+
+❓ **Tomorrow's Question:**
+*Now that we understand all three macronutrients, how does your body actually turn food into usable energy? What's really happening during metabolism, and why do some people seem to have "fast" or "slow" metabolisms?*`,
+    parable: `The next morning, Lila found Maren tending the third and final hearth — the one that burned with the steadiest, most enduring flame. Unlike the quick flare of kindling or the moderate burn of seasoned wood, this fire consumed thick logs that glowed deep amber and radiated warmth for hours.
+
+"This is the hearth of fats," Maren said, her weathered hands steady as she adjusted a heavy log. "Notice how concentrated this fuel is — one piece burns longer and hotter than all the twigs from the first hearth combined."
+
+Lila watched, mesmerized by the steady flame. "But the village elders always warned us about eating too much fat. They said it would make us heavy and sick."
+
+Maren chuckled softly. "Ah, the great confusion of your grandmother's time. They blamed the logs for the size of the fire, when it was really about burning more fuel than the hearth could contain." She gestured to the glowing coals. "Your body needs these concentrated fuels, child. Without them, your inner forge cannot craft the vital essences — the moon-blood of women, the strength-humors of men, the swift-thought spirits of the mind."
+
+She reached into her herb pouch and withdrew three different oils in small vials. "See here — this golden oil from the olive groves soothes inflammation like a healing salve. This darker oil from cold northern fish feeds the mind's lightning. But this clear oil," she held up a vial of processed liquid, "this has been twisted by artifice until it breeds fire-sickness in the blood."
+
+Lila examined the vials in the firelight. "So not all fats are the same?"
+
+"Indeed. The steady fats from animals and ancient trees build your body's foundation stones. The flowing fats from fruits and nuts calm the body's storms. The fish-gifts from deep waters kindle clear thinking. But the false fats born of machines..." Maren shook her head gravely. "These bring only corruption."
+
+As they watched the third hearth burn with its patient, powerful flame, Maren added, "Remember this: your ancestors thrived on the fat of the land and sea. It was when we feared our own nourishment that sickness truly began to spread."
+
+**Moral:** The most concentrated fuel is not to be feared, but chosen with wisdom, for true nourishment comes from nature's ancient gifts, not from the artifice of fearful minds.
+
+**Tomorrow:** Lila will discover the great mystery — how these three hearths work together in the grand alchemy that transforms food into life itself.`,
+  },
 ];
