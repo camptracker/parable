@@ -6,7 +6,7 @@ export const lessons: Lesson[] = [
     title: "The Question That Haunts Us All",
     date: "2026-03-01",
     image: "images/meaning-of-life/day-1.jpg",
-    audio: "audio/meaning-of-life/day-1.mp3",
+    audio: "audio/meaning-of-life/day-1",
     standard: `🌌 **Day 1: The Question That Haunts Us All**
 
 Welcome to humanity's oldest mystery. For millennia, conscious beings have gazed at stars and asked: "Why am I here?" This isn't mere curiosity—it's the fundamental question that shapes how we live, love, and find meaning in an seemingly indifferent universe.

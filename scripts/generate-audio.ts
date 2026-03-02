@@ -18,76 +18,76 @@ function stripMarkdown(text: string): string {
     .replace(/\[(.+?)\]\(.+?\)/g, '$1');
 }
 
+async function generateOne(text: string, outputPath: string, apiKey: string) {
+  mkdirSync(dirname(outputPath), { recursive: true });
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    console.error(`  TTS attempt ${attempt}/3 → ${outputPath}`);
+    const response = await fetch('https://api.openai.com/v1/audio/speech', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
+      body: JSON.stringify({
+        model: 'gpt-4o-mini-tts',
+        voice: 'fable',
+        input: text,
+        instructions: 'Speak like a calm, warm teacher reading a story to a class of young children. Gentle pace, soft tone, with occasional wonder and emphasis on key moments. Let pauses breathe naturally.',
+        response_format: 'mp3',
+      }),
+    });
+    if (response.ok) {
+      writeFileSync(outputPath, Buffer.from(await response.arrayBuffer()));
+      console.error(`  Saved: ${outputPath}`);
+      return;
+    }
+    const err = await response.text();
+    console.error(`  Failed (${response.status}): ${err}`);
+    if (attempt < 3) await new Promise(r => setTimeout(r, attempt * 5000));
+  }
+  throw new Error(`All 3 attempts failed for ${outputPath}`);
+}
+
 async function main() {
   const seriesId = process.argv[2];
   const day = process.argv[3];
+  const modeArg = process.argv.indexOf('--mode');
+  const modes = modeArg !== -1 ? [process.argv[modeArg + 1]] : ['parable', 'standard'];
 
   if (!seriesId || !day) {
-    console.error('Usage: npx tsx scripts/generate-audio.ts <seriesId> <day> [--from-file <path>]');
+    console.error('Usage: npx tsx scripts/generate-audio.ts <seriesId> <day> [--mode parable|standard]');
     process.exit(1);
   }
 
   const fromFileIdx = process.argv.indexOf('--from-file');
-  let parableText: string;
+  let parableText: string | undefined;
+  let standardText: string | undefined;
 
   if (fromFileIdx !== -1 && process.argv[fromFileIdx + 1]) {
-    parableText = readFileSync(process.argv[fromFileIdx + 1], 'utf-8').trim();
+    // --from-file provides JSON with { parable, standard }
+    const raw = readFileSync(process.argv[fromFileIdx + 1], 'utf-8').trim();
+    try {
+      const obj = JSON.parse(raw);
+      parableText = obj.parable;
+      standardText = obj.standard;
+    } catch {
+      // Legacy: plain text = parable only
+      parableText = raw;
+    }
   } else {
     const lessonJson = execSync(`npx tsx scripts/get-lesson.ts ${seriesId} ${day}`, {
       cwd: ROOT, encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024,
     }).trim();
     const lesson = JSON.parse(lessonJson);
     parableText = lesson.parable;
+    standardText = lesson.standard;
   }
-
-  const cleanText = stripMarkdown(parableText);
-  const outputPath = resolve(ROOT, `public/audio/${seriesId}/day-${day}.mp3`);
-  mkdirSync(dirname(outputPath), { recursive: true });
 
   const OPENAI_KEY = getOpenAIKey();
+  const base = resolve(ROOT, `public/audio/${seriesId}`);
 
-  let success = false;
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    console.error(`Generating audio with TTS (attempt ${attempt}/3)...`);
-    const response = await fetch('https://api.openai.com/v1/audio/speech', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${OPENAI_KEY}`,
-      },
-      body: JSON.stringify({
-        model: 'gpt-4o-mini-tts',
-        voice: 'fable',
-        input: cleanText,
-        instructions: 'Speak like a calm, warm teacher reading a story to a class of young children. Gentle pace, soft tone, with occasional wonder and emphasis on key moments. Let pauses breathe naturally.',
-        response_format: 'mp3',
-      }),
-    });
-
-    if (response.ok) {
-      const buffer = Buffer.from(await response.arrayBuffer());
-      writeFileSync(outputPath, buffer);
-      console.error(`Saved to ${outputPath}`);
-      success = true;
-      break;
-    }
-
-    const err = await response.text();
-    console.error(`Attempt ${attempt} failed (${response.status}): ${err}`);
-    if (attempt < 3) {
-      const delay = attempt * 5000;
-      console.error(`Retrying in ${delay / 1000}s...`);
-      await new Promise(r => setTimeout(r, delay));
-    }
-  }
-
-  if (!success) {
-    console.error('All 3 attempts failed');
-    process.exit(1);
+  for (const mode of modes) {
+    const text = mode === 'parable' ? parableText : standardText;
+    if (!text) { console.error(`  No ${mode} text, skipping`); continue; }
+    await generateOne(stripMarkdown(text), resolve(base, `day-${day}-${mode}.mp3`), OPENAI_KEY);
   }
 }
 
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+main().catch(err => { console.error(err); process.exit(1); });

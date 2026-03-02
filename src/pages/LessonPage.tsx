@@ -1,5 +1,5 @@
 import { useParams, Link, Navigate } from 'react-router-dom';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { getSeriesById } from '../data/lessons';
 
@@ -10,8 +10,18 @@ export default function LessonPage() {
   const lesson = s?.lessons.find((l) => l.day === dayNum);
   const [mode, setMode] = useState<'parable' | 'standard'>('parable');
   const [isPlaying, setIsPlaying] = useState(false);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => { window.scrollTo(0, 0); }, [seriesId, day]);
+
+  // Stop audio and reset when switching tabs
+  useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+      setIsPlaying(false);
+    }
+  }, [mode]);
 
   if (!s) return <Navigate to="/" replace />;
   if (!lesson) {
@@ -25,6 +35,7 @@ export default function LessonPage() {
 
   const prev = s.lessons.find((l) => l.day === dayNum - 1);
   const next = s.lessons.find((l) => l.day === dayNum + 1);
+  const audioSrc = lesson.audio ? `${import.meta.env.BASE_URL}${lesson.audio}-${mode}.mp3` : null;
 
   return (
     <div className="container">
@@ -50,10 +61,11 @@ export default function LessonPage() {
       <div className="toggle-container">
         <button className={`toggle-btn ${mode === 'parable' ? 'active' : ''}`} onClick={() => setMode('parable')}>🏰 Parable</button>
         <button className={`toggle-btn ${mode === 'standard' ? 'active' : ''}`} onClick={() => setMode('standard')}>📖 Standard</button>
-        {lesson.audio && (
+        {audioSrc && (
           <>
             <button className={`audio-btn${isPlaying ? ' playing' : ''}`} onClick={() => {
-              const audio = document.getElementById('parable-audio') as HTMLAudioElement;
+              const audio = audioRef.current;
+              if (!audio) return;
               if (audio.paused) {
                 audio.play();
                 setIsPlaying(true);
@@ -65,8 +77,9 @@ export default function LessonPage() {
               {isPlaying ? '⏸️ Pause' : '🎧 Listen'}
             </button>
             <audio
-              id="parable-audio"
-              src={`${import.meta.env.BASE_URL}${lesson.audio}`}
+              ref={audioRef}
+              key={audioSrc}
+              src={audioSrc}
               onEnded={() => setIsPlaying(false)}
             />
           </>

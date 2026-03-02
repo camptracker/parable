@@ -6,7 +6,7 @@ export const lessons: Lesson[] = [
     title: "The Great Pattern Hunt",
     date: "2026-03-01",
     image: "images/machine-learning/day-1.jpg",
-    audio: "audio/machine-learning/day-1.mp3",
+    audio: "audio/machine-learning/day-1",
     standard: `🤖 Day 1: The Great Pattern Hunt
 
 Welcome to the fascinating world of machine learning, where algorithms discover hidden patterns in data to make predictions about the future.

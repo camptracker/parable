@@ -184,8 +184,8 @@ async function main() {
   const audioTasks = generatedLessons.map(g => async () => {
     console.error(`  Audio: ${g.seriesId} day ${g.newDay}...`);
     try {
-      const tmpFile = `/tmp/parable-${g.seriesId}-${g.newDay}.txt`;
-      writeFileSync(tmpFile, g.parable);
+      const tmpFile = `/tmp/parable-${g.seriesId}-${g.newDay}.json`;
+      writeFileSync(tmpFile, JSON.stringify({ parable: g.parable, standard: g.standard }));
       await runAsync(`npx tsx scripts/generate-audio.ts ${g.seriesId} ${g.newDay} --from-file ${tmpFile}`);
     } catch (err) {
       console.error(`  Audio failed for ${g.seriesId} day ${g.newDay}, continuing`);
@@ -202,7 +202,7 @@ async function main() {
       title: g.title,
       date: today,
       image: g.imagePath,
-      audio: `audio/${g.seriesId}/day-${g.newDay}.mp3`,
+      audio: `audio/${g.seriesId}/day-${g.newDay}`,
       standard: g.standard,
       parable: g.parable,
       sonnet: g.sonnet,
