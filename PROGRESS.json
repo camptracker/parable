@@ -79,6 +79,16 @@
       }
     }
   },
+  "cooking": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 0
+      }
+    }
+  },
   "building-relationships": {
     "latestDay": 2,
     "recipients": {

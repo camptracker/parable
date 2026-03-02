@@ -23,6 +23,7 @@ import { lessons as musicLessons } from './series/music-theory';
 import { lessons as realEstateLessons } from './series/real-estate';
 import { lessons as storytellingLessons } from './series/storytelling';
 import { lessons as relationshipLessons } from './series/building-relationships';
+import { lessons as cookingLessons } from './series/cooking';
 
 export const series: Series[] = [
   { id: "financial-independence", name: "Financial Independence", theme: "Warren Buffett's teachings and mathematical principles", lessons: fiLessons },
@@ -33,6 +34,7 @@ export const series: Series[] = [
   { id: "real-estate", name: "Real Estate Investing", theme: "building wealth through property — from your first rental to cash flow analysis and passive income", lessons: realEstateLessons },
   { id: "storytelling", name: "Storytelling", theme: "the craft of storytelling — narrative structure, character arcs, tension, pacing, dialogue, and what makes stories unforgettable", lessons: storytellingLessons },
   { id: "building-relationships", name: "Building Relationships", theme: "the science and art of building lasting romantic relationships — communication, love languages, conflict resolution, emotional intelligence, trust, and growing together", lessons: relationshipLessons },
+  { id: "cooking", name: "Cooking", theme: "the art and science of cooking — techniques, flavor profiles, knife skills, heat control, seasoning, and the chemistry behind why recipes work", lessons: cookingLessons },
 ];
 
 // Find a series by id

@@ -63,6 +63,14 @@
       "seriesEmoji": "💕",
       "wisdomLabel": "Relationship Wisdom",
       "parableCharacters": "Ash and Lume (two travelers who chose the same road), Elder Rynn (keeper of the Bridge of Vows)"
+    },
+    {
+      "seriesId": "cooking",
+      "seriesName": "Cooking",
+      "seriesTheme": "the art and science of cooking — techniques, flavor profiles, knife skills, heat control, seasoning, cuisines of the world, and the chemistry behind why recipes work",
+      "seriesEmoji": "🍳",
+      "wisdomLabel": "Culinary Wisdom",
+      "parableCharacters": "Sage (young apprentice cook with a curious palate), Ember (old chef who lost her sense of taste but cooks by memory and instinct)"
     }
   ]
 }
