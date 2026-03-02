@@ -90,7 +90,7 @@ export default function LessonPage() {
         )}
       </div>
 
-      <article className={`lesson-content ${mode}`} key={`${mode}-${isPlaying}`}>
+      <article className={`lesson-content ${mode}`} key={mode}>
         {timestampsUrl ? (
           <KaraokeText
             text={contentText}
