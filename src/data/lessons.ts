@@ -6,6 +6,7 @@ export interface Lesson {
   parable: string;
   sonnet?: string;
   image?: string;
+  audio?: string;
 }
 
 export interface Series {

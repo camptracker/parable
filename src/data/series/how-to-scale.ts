@@ -6,6 +6,7 @@ export const lessons: Lesson[] = [
     title: "The Foundation Paradox",
     date: "2026-03-01",
     image: "images/how-to-scale/day-1.jpg",
+    audio: "audio/how-to-scale/day-1.mp3",
     standard: `🚀 **Day 1: The Foundation Paradox**
 
 Welcome to "How to Scale" — a journey from building your first thing to building systems that build themselves. We begin with the most counterintuitive truth about scaling.

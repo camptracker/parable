@@ -9,6 +9,7 @@ export default function LessonPage() {
   const dayNum = Number(day);
   const lesson = s?.lessons.find((l) => l.day === dayNum);
   const [mode, setMode] = useState<'parable' | 'standard'>('parable');
+  const [isPlaying, setIsPlaying] = useState(false);
 
   useEffect(() => { window.scrollTo(0, 0); }, [seriesId, day]);
 
@@ -49,6 +50,27 @@ export default function LessonPage() {
       <div className="toggle-container">
         <button className={`toggle-btn ${mode === 'parable' ? 'active' : ''}`} onClick={() => setMode('parable')}>🏰 Parable</button>
         <button className={`toggle-btn ${mode === 'standard' ? 'active' : ''}`} onClick={() => setMode('standard')}>📖 Standard</button>
+        {lesson.audio && (
+          <>
+            <button className={`audio-btn${isPlaying ? ' playing' : ''}`} onClick={() => {
+              const audio = document.getElementById('parable-audio') as HTMLAudioElement;
+              if (audio.paused) {
+                audio.play();
+                setIsPlaying(true);
+              } else {
+                audio.pause();
+                setIsPlaying(false);
+              }
+            }}>
+              {isPlaying ? '⏸️ Pause' : '🎧 Listen'}
+            </button>
+            <audio
+              id="parable-audio"
+              src={`${import.meta.env.BASE_URL}${lesson.audio}`}
+              onEnded={() => setIsPlaying(false)}
+            />
+          </>
+        )}
       </div>
 
       <article className={`lesson-content ${mode}`} key={mode}>
