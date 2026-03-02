@@ -70,8 +70,13 @@ interface GeneratedLesson {
 }
 
 async function main() {
+  // Parse args
   const testMode = process.argv.includes('--test');
+  const recipientIdx = process.argv.indexOf('--recipient');
+  const recipientFilter = recipientIdx !== -1 ? process.argv[recipientIdx + 1] : null;
+
   if (testMode) console.error('🧪 TEST MODE: only processing jon');
+  if (recipientFilter) console.error(`👤 RECIPIENT MODE: only processing ${recipientFilter}`);
 
   const config = JSON.parse(readFileSync(resolve(ROOT, 'SERIES_CONFIG.json'), 'utf-8'));
   const progress = JSON.parse(readFileSync(resolve(ROOT, 'PROGRESS.json'), 'utf-8'));
@@ -91,10 +96,19 @@ async function main() {
     }
 
     const { latestDay, recipients } = seriesProgress;
+
+    // Skip series that don't include the filtered recipient
+    if (recipientFilter && !recipients[recipientFilter]) {
+      continue;
+    }
+
     const recipientsAtLatest: string[] = [];
 
     for (const [name, recip] of Object.entries(recipients) as [string, any][]) {
+      // Filter by recipient or test mode
       if (testMode && name !== 'jon') continue;
+      if (recipientFilter && name !== recipientFilter) continue;
+
       const { telegramId, lastDaySent } = recip;
 
       if (lastDaySent < latestDay) {
@@ -116,13 +130,20 @@ async function main() {
 
     if (recipientsAtLatest.length > 0) {
       // Date guard: skip if we already generated a NEW lesson today
-      // (i.e., latestDay increased today). Check by seeing if latestDay's date is today
-      // AND latestDay > what it was at the start of this run (meaning orchestrate already bumped it)
       try {
         const latestJson = run(`npx tsx scripts/get-latest.ts ${seriesId}`);
         const latest = JSON.parse(latestJson);
         if (latest.lesson?.date === today && latest.latestDay > latestDay) {
           console.error(`  ${seriesId} already generated today (day ${latest.latestDay}), skipping`);
+          // Still queue delivery for these recipients since lesson exists
+          for (const name of recipientsAtLatest) {
+            const recip = recipients[name];
+            const telegramId = recip.telegramId;
+            if (!deliveryMap[telegramId]) deliveryMap[telegramId] = [];
+            deliveryMap[telegramId].push({ emoji: seriesEmoji, seriesName, title: latest.lesson.title, day: latest.latestDay, seriesId });
+            recip._newDay = latest.latestDay;
+          }
+          progress[seriesId].latestDay = latest.latestDay;
           continue;
         }
       } catch { /* no lessons yet, proceed */ }
@@ -221,12 +242,15 @@ async function main() {
     progress[g.seriesId].latestDay = g.newDay;
   }
 
-  // ── Phase 5: Build + Deploy ──
-  console.error('Phase 5: Building and deploying...');
-  run('npm run build');
-
-  try { run('npx gh-pages -d dist'); } catch { console.error('  gh-pages deploy failed, continuing'); }
-  try { run('git add -A && git commit -m "Daily lessons update" && git push'); } catch { console.error('  Git push failed or nothing to commit'); }
+  // ── Phase 5: Build + Deploy (skip if no new lessons written) ──
+  if (generatedLessons.length > 0) {
+    console.error('Phase 5: Building and deploying...');
+    run('npm run build');
+    try { run('npx gh-pages -d dist'); } catch { console.error('  gh-pages deploy failed, continuing'); }
+    try { run('git add -A && git commit -m "Daily lessons update" && git push'); } catch { console.error('  Git push failed or nothing to commit'); }
+  } else {
+    console.error('Phase 5: No new lessons, skipping build/deploy.');
+  }
 
   // ── Phase 6: Batch progress update (single write) ──
   console.error('Phase 6: Updating progress...');
