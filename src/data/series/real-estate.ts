@@ -180,4 +180,71 @@ As storm clouds gathered overhead, Hallam added with a knowing smile, "Tomorrow,
 
 **Moral:** *The same force that can build an empire can topple it; wisdom lies not in avoiding power, but in wielding it with prudence and preparation.*`,
   },
+  {
+    day: 3,
+    title: "The Cash Flow Analysis — Your Investment's Report Card",
+    date: "2026-03-02",
+    image: "images/real-estate/day-3.jpg",
+    audio: "audio/real-estate/day-3",
+    sonnet: `**🪶 Sonnet III: The Monthly Reckoning**
+
+What flows in swift may drain away as fast,
+When rent collected meets expense's call.
+The landlord's ledger holds both first and last—
+For every coin must pay its rightful toll.
+
+Behold the mortgage payment, taxes due,
+The vacant months when tenants drift away,
+Repairs that come as surely as morning dew,
+And management that earns its monthly pay.
+
+The foolish count their rental income high,
+Yet never tally what flows out each door.
+They dream of riches reaching to the sky,
+While bleeding gold upon the counting floor.
+
+*True wealth emerges when the sums are done—*
+*What stays in pocket when the month is won.*`,
+    standard: `🏠 Day 3: The Cash Flow Analysis — Your Investment's Report Card
+
+**🧱 The Concept**
+Cash flow analysis is the systematic evaluation of all income versus all expenses to determine whether a property will put money in your pocket or drain it each month.
+
+**❓ Why It Matters**
+Positive cash flow is the foundation of sustainable real estate investing — it's what separates investors from speculators. A property that generates consistent monthly income can weather market downturns, fund future investments, and provide true passive income. Without proper analysis, you might buy a "good deal" that bleeds money every month.
+
+**⚙️ How It Works**
+Start with gross rental income, then subtract all expenses: mortgage payment (principal, interest, taxes, insurance), property management (8-12% of rent), maintenance and repairs (budget 5-10% of rent annually), vacancy allowance (typically 5-10% depending on your market), and miscellaneous costs like HOA fees or utilities you cover. For example: a $200,000 duplex renting for $2,400/month with a $1,200 mortgage payment, $200 in property management, $150 in maintenance reserves, $120 vacancy allowance, and $100 in insurance/taxes generates $630 monthly cash flow. Always use conservative estimates — overestimate expenses and underestimate income to avoid nasty surprises.
+
+**📖 Definitions**
+• **Gross Rental Income**: Total rent collected before any expenses
+• **Net Operating Income (NOI)**: Income after operating expenses but before debt service
+• **Cash-on-Cash Return**: Annual cash flow divided by initial investment
+• **Vacancy Rate**: Percentage of time property sits empty
+• **Cap Rate**: NOI divided by purchase price — measures property's inherent profitability
+• **1% Rule**: Monthly rent should equal at least 1% of purchase price
+
+**🎯 Real Estate Wisdom**
+Numbers don't lie, but optimistic projections do. Conservative cash flow analysis protects you from market cycles and ensures each property truly builds wealth rather than just looking good on paper.
+
+**❓ Tomorrow's Question:**
+*If cash flow analysis reveals what a property earns today, how do you evaluate its potential to appreciate in value over time? What market indicators separate neighborhoods destined to thrive from those destined to decline?*`,
+    parable: `As autumn painted the village in gold, Dara found Hallam hunched over his ledger books in the dim light of his study, columns of numbers dancing across yellowed pages.
+
+"Teaching yourself arithmetic, girl?" Hallam grunted, noticing her peering at his calculations. "Come, let me show you the heart of all property ownership — the monthly reckoning."
+
+He pointed to a page marked "Miller's Cottage." "See here — the miller pays me two gold pieces monthly rent. But look closer." His gnarled finger traced down the column. "Half a gold piece to the tax collector, another quarter to repair the roof each year, a tenth set aside for when the miller's trade slows and the cottage sits empty. By month's end, barely one gold piece remains."
+
+Dara studied the careful entries. "But that's still profit, isn't it?"
+
+"Aye, but now observe this folly." He flipped to another page marked "Merchant's Manor." "I paid twelve gold pieces for this grand house, collect three monthly in rent. Seems profitable, yes? But the chimney needs constant repair, the gardens require a groundskeeper, and merchants are fickle — sometimes it sits vacant for months. After all expenses, I lose half a gold piece each month."
+
+The old landlord leaned back in his chair. "Many see only the rent flowing in, child. They forget that property drinks gold as eagerly as it produces it. Every nail, every shingle, every day of emptiness costs coin. The wise landlord counts every expense before counting profits."
+
+He showed her his method: estimate each cost conservatively, assume the worst about vacancies, then see what remains. "Better to be pleasantly surprised by extra profit than ruined by unexpected loss."
+
+**Moral**: *True wealth flows from understanding not just what comes in, but what must go out — for only then can you see what truly remains yours.*
+
+*Tomorrow, Dara will learn why Hallam always walks the cobblestones at dawn, studying which streets the merchants favor and which the craftsmen abandon...*`,
+  },
 ];

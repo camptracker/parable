@@ -180,4 +180,73 @@ Lila watched in wonder as Maren stirred a pot containing grains, fish, and olive
 
 *Tomorrow, Lila will discover why one of these fuels cannot be stored away like winter grain...*`,
   },
+  {
+    day: 3,
+    title: "The Protein Paradox",
+    date: "2026-03-02",
+    image: "images/nutrition-science/day-3.jpg",
+    audio: "audio/nutrition-science/day-3",
+    sonnet: `**🪶 Sonnet III: The Protein Paradox**
+
+No storehouse holds the body's living flame,
+No granary keeps what muscles need to grow;
+Each dawn breaks down what yesterday became,
+While new foundations from the old must flow.
+Like cities razed and built in endless turn,
+Our flesh rebuilds itself with each new day;
+The proteins that our vital organs earn
+Are spent as swiftly as they come our way.
+Nine keys unlock the building blocks of life,
+Essential gifts that only food can bring;
+Without them, body turns upon itself with knife,
+And muscle yields to hunger's sharpened sting.
+*Thus wisdom feeds what cannot stored remain,*
+*For life demands we build ourselves again.*`,
+    standard: `🍎 Day 3: The Protein Paradox
+
+Your body can't store protein like a pantry stores canned goods because proteins are constantly being broken down and rebuilt — a process called **protein turnover**. Unlike fat (stored in adipose tissue) or carbs (stored as glycogen), protein exists only as functional tissue: your muscles, organs, enzymes, and immune cells. This means you need regular protein intake to maintain and repair these vital structures, making it the most "perishable" macronutrient.
+
+🧱 **The Concept**
+Protein turnover is your body's continuous cycle of breaking down old proteins and building new ones, requiring constant amino acid replenishment.
+
+❓ **Why It Matters**
+This biological reality explains why protein needs are so consistent and why skipping protein for even a day affects your body differently than skipping carbs or fats. Your muscles literally cannibalize themselves when amino acids aren't available, and your immune system weakens when it can't build new antibodies.
+
+⚙️ **How It Works**
+Imagine your body as a city where every building is constantly being demolished and rebuilt. **Muscle protein turnover** happens at about 1-2% per day — meaning your entire muscle mass is replaced roughly every 2-3 months. Your digestive enzymes last only hours before being recycled. Red blood cells live 120 days, then must be rebuilt from scratch. This requires a steady supply of all **essential amino acids** — the 9 building blocks your body can't make itself. When you eat protein, it's broken down into amino acids, which enter a shared pool used for repairs throughout your body. If the pool runs low, your body prioritizes vital organs over muscles, leading to muscle breakdown called **catabolism**.
+
+📖 **Definitions**
+• **Protein turnover**: Continuous breakdown and rebuilding of body proteins
+• **Essential amino acids**: 9 amino acids your body cannot produce and must get from food
+• **Amino acid pool**: Shared reservoir of amino acids available for protein synthesis
+• **Catabolism**: Breaking down of muscle tissue when amino acids are scarce
+• **Complete proteins**: Foods containing all essential amino acids (meat, eggs, dairy, quinoa)
+
+🎯 **Science Wisdom**
+Protein isn't just about building bigger muscles — it's about maintaining the living machinery that keeps you alive. Every enzyme that digests your food, every antibody that fights infection, every hormone that regulates your metabolism is made of protein that needs constant replacement.
+
+❓ **Tomorrow's Question:**
+*If your body breaks down and rebuilds proteins so efficiently, why do some people struggle to build muscle even when eating plenty of protein — what invisible factor determines whether those amino acids become new muscle or just get burned for energy?*`,
+    parable: `The next morning, Lila found Maren tending her three hearths with unusual urgency, constantly feeding each one with different materials.
+
+"Why do you never let the fires die completely?" Lila asked, watching the healer add kindling to the protein hearth.
+
+"Because this hearth burns differently than the others," Maren explained, her weathered hands steady as she worked. "The fat hearth stores fuel like oil in a lamp — it can burn for days. The carbohydrate hearth keeps reserves like dried wood in a shed. But the protein hearth..." She paused, stirring the glowing embers. "It cannot store its fuel at all."
+
+Lila frowned. "Then how does it keep burning?"
+
+"Watch closely." Maren pointed to the flames. "See how the protein fire consumes itself? The very stones that line this hearth are always crumbling, always being rebuilt. If I stopped feeding it, it would begin eating the hearth itself — the walls, the foundation, everything that makes it strong."
+
+As if to demonstrate, Maren showed Lila two piles of stones. "These represent the proteins in your body — your muscles, your blood, your very thoughts are made of such stones. Every dawn, some crumble to dust. Every sunset, new ones must be laid, or the whole structure weakens."
+
+"But why can't we simply store protein stones like we store fat oil and carbohydrate wood?"
+
+Maren smiled sadly. "Because protein stones are not fuel, child — they ARE the hearth. You cannot separate the fire from what it burns within. The moment you try to store them away, they cease to be what they were meant to be."
+
+Lila watched in wonder as the protein hearth continued its eternal dance of destruction and creation, never resting, never truly storing, always demanding fresh materials to rebuild what time had worn away.
+
+**Moral**: *The most essential things cannot be hoarded — they must be constantly renewed through daily devotion.*
+
+*Tomorrow, Maren will reveal why some hearths rebuild themselves stronger while others merely maintain their size, despite receiving the same stones...*`,
+  },
 ];

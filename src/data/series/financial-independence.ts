@@ -481,4 +481,82 @@ As evening fell, Kael watched the three vessels catch moonlight, understanding a
 
 *Tomorrow, Sable will reveal where the third vessel's water should flow first to create the strongest foundation...*`,
   },
+  {
+    day: 6,
+    title: "Emergency Fund First",
+    date: "2026-03-02",
+    image: "images/financial-independence/day-6.jpg",
+    audio: "audio/financial-independence/day-6",
+    sonnet: `**🪶 Sonnet VI: Emergency Fund First**
+
+Before you chase the golden profits bright,
+Build first a fortress made of liquid gold,
+Three months or six of needs kept close in sight,
+A shield against what future may unfold.
+
+When storms arise and steady income fails,
+When unexpected bills come knocking loud,
+This cash reserve ensures your ship still sails
+While others founder, broken and unbowed.
+
+Not buried treasure meant for distant dreams,
+But ready coin for life's immediate test,
+A well of strength when nothing's as it seems,
+The cornerstone on which to build the rest.
+
+*First fund emergency, then wealth pursue,*
+*For those who plan ahead see vision through.*`,
+    standard: `💰 Day 6: Emergency Fund First
+
+Your 20% savings should go to an **emergency fund first** — a cash cushion covering 3-6 months of essential expenses before you invest a single dollar elsewhere. This foundation protects you from derailing your wealth-building journey when life inevitably throws curveballs.
+
+🧱 **The Concept**
+An emergency fund is liquid cash set aside exclusively for unexpected expenses like job loss, medical bills, or major repairs — not vacations or shopping sprees.
+
+❓ **Why It Matters**
+Without an emergency buffer, you'll raid your investments or accumulate high-interest debt when crisis strikes. This destroys compound interest and creates financial stress. An emergency fund acts as self-insurance, letting you weather storms without derailing your long-term plans.
+
+⚙️ **How It Works**
+Calculate your monthly **essential expenses** (rent, utilities, groceries, insurance, minimum debt payments) and multiply by 3-6 months. If your needs cost $3,000 monthly, aim for $9,000-$18,000. Start with $1,000 as a mini-emergency fund, then build systematically. Keep this money in a **high-yield savings account** — boring but accessible. Once your emergency fund is complete, redirect that 20% toward investments and retirement accounts. The fund isn't an investment; it's insurance against financial catastrophe.
+
+📖 **Definitions**
+• **Emergency fund**: Cash reserves for unexpected expenses only
+• **Liquid**: Easily accessible without penalties or delays
+• **High-yield savings account**: Savings account earning competitive interest rates
+• **Essential expenses**: Minimum costs required to survive and function
+• **Self-insurance**: Using your own money instead of relying on credit
+
+🎯 **Buffett Wisdom**
+Buffett keeps massive cash reserves at Berkshire Hathaway, calling it "financial strength that cannot be taken away by stock market fluctuations or economic downturns."
+
+❓ **Tomorrow's Question:**
+*Once your emergency fund is built, you're ready to invest — but should you pay off all your debt first, or can you sometimes invest while carrying certain debts?*`,
+    parable: `The morning sun cast long shadows across the village square as Kael approached Sable's dwelling, his mind still wrestling with yesterday's lesson about dividing his earnings. The wise elder sat beneath the ancient oak, hands folded in contemplation.
+
+"Teacher," Kael began eagerly, "I've been practicing the 50-30-20 rule with my coin-sorting. But where should my savings go first? Should I bury them in different places?"
+
+Sable's weathered face creased into a knowing smile. "Ah, young Kael. Before a fortress can have towers reaching toward the heavens, what must it have first?"
+
+"A strong foundation?" Kael ventured.
+
+"Precisely. And what protects a village when storms rage and crops fail?"
+
+Kael thought of the harsh winter three seasons past, when Tobren's grain stores had saved many families from hunger. "Reserves," he whispered. "Stored provisions."
+
+"Your financial foundation must be an emergency reserve," Sable explained, gesturing toward the village well. "Just as we keep this well full for drought seasons, you must keep liquid coin accessible for life's inevitable storms. Not buried treasure for distant dreams, but ready provisions for immediate need."
+
+That afternoon, Tobren joined them, dust on his boots from the fields. "I learned this wisdom the hard way," the farmer admitted. "Once I put all my surplus into expanding my land, thinking I was building wealth. Then came the year of poor harvests and my ox fell lame. With no reserves, I borrowed at terrible terms, nearly losing everything I'd built."
+
+"How much should one keep in reserve?" Kael asked.
+
+Sable picked up three smooth stones and six rougher ones. "Count your essential monthly needs — shelter, food, tools, obligations. Three to six months' worth, kept where you can reach it quickly. This isn't your investment treasure; it's your shield against calamity."
+
+Tobren nodded vigorously. "Now I fill my emergency stores first, every harvest. Only when that granary is full do I expand elsewhere. It's the difference between surviving storms and being destroyed by them."
+
+As the day waned, Sable traced patterns in the earth. "The wealthy understand this principle deeply, young Kael. They maintain vast reserves not from fear, but from wisdom. Financial strength that cannot be swept away by market tempests or economic drought."
+
+**Moral:** Before reaching for golden towers, build an unshakeable foundation. The emergency fund is not an investment but insurance — your first line of defense against life's storms.
+
+*Tomorrow, Kael would learn a puzzling truth about debt and investment that challenges common wisdom...*`,
+  },
 ];
