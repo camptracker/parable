@@ -51,29 +51,28 @@ export default function LessonPage() {
       <div className="toggle-container">
         <button className={`toggle-btn ${mode === 'parable' ? 'active' : ''}`} onClick={() => setMode('parable')}>🏰 Parable</button>
         <button className={`toggle-btn ${mode === 'standard' ? 'active' : ''}`} onClick={() => setMode('standard')}>📖 Standard</button>
+        {lesson.audio && (
+          <>
+            <button className={`audio-btn${isPlaying ? ' playing' : ''}`} onClick={() => {
+              const audio = document.getElementById('parable-audio') as HTMLAudioElement;
+              if (audio.paused) {
+                audio.play();
+                setIsPlaying(true);
+              } else {
+                audio.pause();
+                setIsPlaying(false);
+              }
+            }}>
+              {isPlaying ? '⏸️ Pause' : '🎧 Listen'}
+            </button>
+            <audio
+              id="parable-audio"
+              src={`${import.meta.env.BASE_URL}${lesson.audio}`}
+              onEnded={() => setIsPlaying(false)}
+            />
+          </>
+        )}
       </div>
-
-      {mode === 'parable' && lesson.audio && (
-        <div className="audio-player">
-          <button className="audio-btn" onClick={() => {
-            const audio = document.getElementById('parable-audio') as HTMLAudioElement;
-            if (audio.paused) {
-              audio.play();
-              setIsPlaying(true);
-            } else {
-              audio.pause();
-              setIsPlaying(false);
-            }
-          }}>
-            {isPlaying ? '⏸️ Pause Story' : '🎧 Listen to Story'}
-          </button>
-          <audio
-            id="parable-audio"
-            src={`${import.meta.env.BASE_URL}${lesson.audio}`}
-            onEnded={() => setIsPlaying(false)}
-          />
-        </div>
-      )}
 
       <article className={`lesson-content ${mode}`} key={mode}>
         <ReactMarkdown>{mode === 'parable' ? lesson.parable : lesson.standard}</ReactMarkdown>

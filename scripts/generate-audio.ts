@@ -57,7 +57,7 @@ async function main() {
       },
       body: JSON.stringify({
         model: 'tts-1',
-        voice: 'nova',
+        voice: 'fable',
         input: cleanText,
         response_format: 'mp3',
       }),
