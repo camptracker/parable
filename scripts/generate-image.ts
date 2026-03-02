@@ -2,6 +2,8 @@ import { mkdirSync, writeFileSync, readFileSync } from 'fs';
 import { dirname, resolve } from 'path';
 import sharp from 'sharp';
 
+const ROOT = resolve(import.meta.dirname!, '..');
+
 function getOpenAIKey(): string {
   const authProfiles = JSON.parse(readFileSync(resolve(process.env.HOME!, '.openclaw/agents/main/agent/auth-profiles.json'), 'utf-8'));
   return authProfiles.profiles['openai:default'].key;
@@ -10,12 +12,33 @@ function getOpenAIKey(): string {
 const OPENAI_KEY = getOpenAIKey();
 
 async function main() {
-  const dallePrompt = process.argv[2];
-  const outputPath = resolve(process.argv[3]);
+  let dallePrompt: string;
+  let outputPath: string;
 
-  if (!dallePrompt || !outputPath) {
+  const arg1 = process.argv[2];
+  const arg2 = process.argv[3];
+
+  if (!arg1 || !arg2) {
     console.error('Usage: npx tsx scripts/generate-image.ts "<prompt>" <outputPath>');
+    console.error('   or: echo "<sonnet>" | npx tsx scripts/generate-image.ts <seriesId> <day>');
     process.exit(1);
+  }
+
+  // If arg2 is a number, treat as seriesId + day shorthand (read prompt from stdin)
+  if (/^\d+$/.test(arg2)) {
+    const seriesId = arg1;
+    const day = arg2;
+    outputPath = resolve(ROOT, `public/images/${seriesId}/day-${day}.jpg`);
+    // Read sonnet from stdin
+    const chunks: Buffer[] = [];
+    for await (const chunk of process.stdin) {
+      chunks.push(chunk);
+    }
+    const sonnet = Buffer.concat(chunks).toString('utf-8').trim();
+    dallePrompt = `Classical oil painting with Rembrandt lighting, rich golden amber tones, dramatic chiaroscuro. Scene inspired by this sonnet: ${sonnet} Do not include any text or words in the image.`;
+  } else {
+    dallePrompt = arg1;
+    outputPath = resolve(arg2);
   }
 
   // Truncate prompt to 4000 chars (DALL-E limit)

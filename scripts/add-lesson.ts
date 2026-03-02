@@ -22,7 +22,25 @@ async function main() {
   const input = Buffer.concat(chunks).toString('utf-8').trim();
   const lesson = JSON.parse(input);
 
+  // Auto-populate missing fields when piped from generate-lesson
   const filePath = resolve(ROOT, 'src/data/series', `${seriesId}.ts`);
+  if (!lesson.day) {
+    // Determine next day from existing file
+    const existingContent = readFileSync(filePath, 'utf-8');
+    const dayMatches = [...existingContent.matchAll(/day:\s*(\d+)/g)];
+    const maxDay = dayMatches.length > 0 ? Math.max(...dayMatches.map(m => parseInt(m[1]))) : 0;
+    lesson.day = maxDay + 1;
+  }
+  if (!lesson.title && lesson.standard) {
+    const titleMatch = lesson.standard.match(/\*\*Day \d+:\s*(.+?)\*\*/);
+    if (titleMatch) lesson.title = titleMatch[1].trim();
+  }
+  if (!lesson.date) {
+    lesson.date = new Date().toISOString().split('T')[0];
+  }
+  if (!lesson.image) {
+    lesson.image = `images/${seriesId}/day-${lesson.day}.jpg`;
+  }
   let content = readFileSync(filePath, 'utf-8');
 
   // Build the lesson entry
