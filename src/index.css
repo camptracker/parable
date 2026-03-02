@@ -283,9 +283,10 @@ body {
 .karaoke-container.playing .karaoke-word {
   color: var(--text-muted, #888);
 }
-.karaoke-word.spoken {
+.karaoke-container.playing .karaoke-word.spoken {
   color: var(--text, #e0e0e0);
 }
-.karaoke-word.active {
+.karaoke-container.playing .karaoke-word.active {
   color: var(--gold);
+  font-weight: 600;
 }
