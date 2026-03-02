@@ -272,7 +272,6 @@ body {
   margin-left: auto;
 }
 .audio-btn:hover { background: var(--gold-bg); }
-.audio-btn.playing { background: var(--gold-bg); color: var(--gold); }
 
 /* Karaoke word highlighting */
 .karaoke-container { line-height: 1.8; }
