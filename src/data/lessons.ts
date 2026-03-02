@@ -24,6 +24,9 @@ import { lessons as realEstateLessons } from './series/real-estate';
 import { lessons as storytellingLessons } from './series/storytelling';
 import { lessons as relationshipLessons } from './series/building-relationships';
 import { lessons as cookingLessons } from './series/cooking';
+import { lessons as meaningLessons } from './series/meaning-of-life';
+import { lessons as scaleLessons } from './series/how-to-scale';
+import { lessons as mlLessons } from './series/machine-learning';
 
 export const series: Series[] = [
   { id: "financial-independence", name: "Financial Independence", theme: "Warren Buffett's teachings and mathematical principles", lessons: fiLessons },
@@ -35,6 +38,9 @@ export const series: Series[] = [
   { id: "storytelling", name: "Storytelling", theme: "the craft of storytelling — narrative structure, character arcs, tension, pacing, dialogue, and what makes stories unforgettable", lessons: storytellingLessons },
   { id: "building-relationships", name: "Building Relationships", theme: "the science and art of building lasting romantic relationships — communication, love languages, conflict resolution, emotional intelligence, trust, and growing together", lessons: relationshipLessons },
   { id: "cooking", name: "Cooking", theme: "the art and science of cooking — techniques, flavor profiles, knife skills, heat control, seasoning, and the chemistry behind why recipes work", lessons: cookingLessons },
+  { id: "meaning-of-life", name: "Meaning of Life", theme: "the deepest philosophical question — existentialism, religion, absurdism, purpose, consciousness, and what thinkers from Aristotle to Camus to Viktor Frankl have said about why we're here", lessons: meaningLessons },
+  { id: "how-to-scale", name: "How to Scale", theme: "scaling startups, teams, and systems — from 0→1 to 1→100, hiring, delegation, technical architecture, organizational design, and lessons from founders who built billion-dollar companies", lessons: scaleLessons },
+  { id: "machine-learning", name: "Machine Learning", theme: "the fundamentals of machine learning — from linear regression to neural networks, gradient descent, backpropagation, transformers, and the math and intuition behind how machines learn", lessons: mlLessons },
 ];
 
 // Find a series by id

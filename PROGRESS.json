@@ -103,5 +103,35 @@
         "lastDaySent": 1
       }
     }
+  },
+  "meaning-of-life": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 0
+      }
+    }
+  },
+  "how-to-scale": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 0
+      }
+    }
+  },
+  "machine-learning": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 0
+      }
+    }
   }
 }

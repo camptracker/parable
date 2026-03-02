@@ -71,6 +71,30 @@
       "seriesEmoji": "🍳",
       "wisdomLabel": "Culinary Wisdom",
       "parableCharacters": "Sage (young apprentice cook with a curious palate), Ember (old chef who lost her sense of taste but cooks by memory and instinct)"
+    },
+    {
+      "seriesId": "meaning-of-life",
+      "seriesName": "Meaning of Life",
+      "seriesTheme": "the deepest philosophical question — existentialism, religion, absurdism, purpose, consciousness, and what thinkers from Aristotle to Camus to Viktor Frankl have said about why we're here",
+      "seriesEmoji": "🌌",
+      "wisdomLabel": "Existential Wisdom",
+      "parableCharacters": "Solen (wanderer who woke with no memory), The Keeper (ancient librarian of a tower with no doors)"
+    },
+    {
+      "seriesId": "how-to-scale",
+      "seriesName": "How to Scale",
+      "seriesTheme": "scaling startups, teams, and systems — from 0→1 to 1→100, hiring, delegation, technical architecture, organizational design, and lessons from founders who built billion-dollar companies",
+      "seriesEmoji": "🚀",
+      "wisdomLabel": "Scaling Wisdom",
+      "parableCharacters": "Vex (young builder of a small workshop), Ironmere (retired architect who once built a city from nothing)"
+    },
+    {
+      "seriesId": "machine-learning",
+      "seriesName": "Machine Learning",
+      "seriesTheme": "the fundamentals of machine learning — from linear regression to neural networks, gradient descent, backpropagation, transformers, and the math and intuition behind how machines learn",
+      "seriesEmoji": "🤖",
+      "wisdomLabel": "ML Insight",
+      "parableCharacters": "Nyx (curious apprentice in the Hall of Patterns), The Archivist (ancient scholar who taught stone tablets to predict the rain)"
     }
   ]
 }
