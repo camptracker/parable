@@ -81,6 +81,7 @@ function renderInline(content: string, globalWordStart: number, activeIndex: num
     const globalIdx = globalWordStart + idx;
     const isActive = globalIdx === activeIndex;
     let className = 'karaoke-word';
+    if (globalIdx <= activeIndex && activeIndex >= 0) className += ' spoken';
     if (isActive) className += ' active';
 
     let el = <span key={idx} className={className} data-word-idx={globalIdx}>{w.text} </span>;
