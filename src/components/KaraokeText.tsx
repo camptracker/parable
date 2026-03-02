@@ -149,7 +149,7 @@ export default function KaraokeText({ text, audioRef, isPlaying, timestampsUrl }
   }
 
   return (
-    <div className="karaoke-container">
+    <div className={`karaoke-container${isPlaying ? ' playing' : ''}`}>
       {segments.map((seg, i) => {
         const words = renderInline(seg.content, seg.wordStart, activeWordIndex);
         switch (seg.tag) {

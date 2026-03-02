@@ -280,6 +280,8 @@ body {
   transition: color 0.15s ease;
   border-radius: 3px;
   padding: 1px 0;
+}
+.karaoke-container.playing .karaoke-word {
   color: var(--text-muted, #888);
 }
 .karaoke-word.spoken {
