@@ -6,7 +6,6 @@ export const lessons: Lesson[] = [
     title: "The Foundation of All Great Cooking - Understanding Heat",
     date: "2026-03-01",
     image: "images/cooking/day-1.jpg",
-    audio: "audio/cooking/day-1.mp3",
     sonnet: `**🪶 Sonnet I: The Foundation of All Great Cooking - Understanding Heat**
 
 In kitchen's realm where transformation dwells,
@@ -75,7 +74,6 @@ Ember smiled, her scarred fingers reading the pan's vibrations, listening to the
     title: "The Art of Timing - When to Act in the Kitchen",
     date: "2026-03-01",
     image: "images/cooking/day-2.jpg",
-    audio: "audio/cooking/day-2.mp3",
     sonnet: `**🪶 Sonnet II: The Art of Timing**
 
 When oil begins its gentle, singing dance,
