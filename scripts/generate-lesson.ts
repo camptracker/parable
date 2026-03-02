@@ -36,6 +36,15 @@ async function main() {
   const previousStandard = lesson?.standard ?? null;
   const newDay = latestDay + 1;
 
+  // Extract "Tomorrow's Question" from previous lesson if it exists
+  let tomorrowQuestion: string | null = null;
+  if (previousStandard) {
+    const tqMatch = previousStandard.match(/Tomorrow's Question[^—]*—\s*(.*?)$/ms);
+    if (tqMatch) {
+      tomorrowQuestion = tqMatch[1].trim();
+    }
+  }
+
   const { seriesName, seriesTheme, seriesEmoji, wisdomLabel, parableCharacters } = config;
 
   const systemPrompt = `You are a lesson generator for the "${seriesName}" series.
@@ -48,7 +57,7 @@ Generate a lesson in JSON format with these exact keys: standard, parable, sonne
 
 The "standard" must follow this format exactly:
 ${seriesEmoji} Day ${newDay}: [Title]
-[1-2 sentence review of previous lesson + answer to its follow-up question, or intro if Day 1]
+${tomorrowQuestion ? `[IMPORTANT: The previous lesson ended with this question: "${tomorrowQuestion}" — You MUST open the lesson by directly answering this question in 2-3 sentences before moving on. This creates continuity between lessons.]` : `[Brief intro to the topic if Day 1]`}
 🧱 The Concept [1-2 sentences]
 ❓ Why It Matters [2-3 sentences]
 ⚙️ How It Works [3-5 sentences with concrete examples]
@@ -66,9 +75,16 @@ The "dallePrompt" should describe a classical oil painting scene inspired by the
 
 Return ONLY valid JSON. No markdown code fences. No explanation.`;
 
-  const userPrompt = previousStandard
-    ? `Here is the previous lesson's standard text:\n\n${previousStandard}\n\nGenerate Day ${newDay}.`
-    : `This is the first lesson. Start from the series theme. Generate Day ${newDay}.`;
+  let userPrompt: string;
+  if (previousStandard) {
+    userPrompt = `Here is the previous lesson's standard text:\n\n${previousStandard}\n\n`;
+    if (tomorrowQuestion) {
+      userPrompt += `CRITICAL: The previous lesson posed this question to the reader: "${tomorrowQuestion}"\nYour new lesson MUST begin by answering this question directly and thoughtfully. This is the #1 priority — the reader is expecting this answer. Then transition naturally into the new topic.\n\n`;
+    }
+    userPrompt += `Generate Day ${newDay}.`;
+  } else {
+    userPrompt = `This is the first lesson. Start from the series theme. Generate Day ${newDay}.`;
+  }
 
   const apiKey = getAnthropicKey();
 
