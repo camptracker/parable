@@ -91,7 +91,7 @@ export default function LessonPage() {
       </div>
 
       <article className={`lesson-content ${mode}`} key={mode}>
-        {timestampsUrl ? (
+        {isPlaying && timestampsUrl ? (
           <KaraokeText
             text={contentText}
             audioRef={audioRef}
