@@ -2,6 +2,7 @@ import { useParams, Link, Navigate } from 'react-router-dom';
 import { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { getSeriesById } from '../data/lessons';
+import KaraokeText from '../components/KaraokeText';
 
 export default function LessonPage() {
   const { seriesId, day } = useParams();
@@ -14,7 +15,7 @@ export default function LessonPage() {
 
   useEffect(() => { window.scrollTo(0, 0); }, [seriesId, day]);
 
-  // Stop audio and reset when switching tabs
+  // Stop audio when switching tabs
   useEffect(() => {
     if (audioRef.current) {
       audioRef.current.pause();
@@ -35,7 +36,10 @@ export default function LessonPage() {
 
   const prev = s.lessons.find((l) => l.day === dayNum - 1);
   const next = s.lessons.find((l) => l.day === dayNum + 1);
-  const audioSrc = lesson.audio ? `${import.meta.env.BASE_URL}${lesson.audio}-${mode}.mp3` : null;
+  const audioBase = lesson.audio ? `${import.meta.env.BASE_URL}${lesson.audio}` : null;
+  const audioSrc = audioBase ? `${audioBase}-${mode}.mp3` : null;
+  const timestampsUrl = audioBase ? `${audioBase}-${mode}.json` : null;
+  const contentText = mode === 'parable' ? lesson.parable : lesson.standard;
 
   return (
     <div className="container">
@@ -86,8 +90,17 @@ export default function LessonPage() {
         )}
       </div>
 
-      <article className={`lesson-content ${mode}`} key={mode}>
-        <ReactMarkdown>{mode === 'parable' ? lesson.parable : lesson.standard}</ReactMarkdown>
+      <article className={`lesson-content ${mode}`} key={`${mode}-${isPlaying}`}>
+        {timestampsUrl ? (
+          <KaraokeText
+            text={contentText}
+            audioRef={audioRef}
+            isPlaying={isPlaying}
+            timestampsUrl={timestampsUrl}
+          />
+        ) : (
+          <ReactMarkdown>{contentText}</ReactMarkdown>
+        )}
       </article>
 
       <nav className="bottom-nav">

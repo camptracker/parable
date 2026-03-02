@@ -20,6 +20,8 @@ function stripMarkdown(text: string): string {
 
 async function generateOne(text: string, outputPath: string, apiKey: string) {
   mkdirSync(dirname(outputPath), { recursive: true });
+
+  // Step 1: Generate TTS audio
   for (let attempt = 1; attempt <= 3; attempt++) {
     console.error(`  TTS attempt ${attempt}/3 → ${outputPath}`);
     const response = await fetch('https://api.openai.com/v1/audio/speech', {
@@ -34,15 +36,45 @@ async function generateOne(text: string, outputPath: string, apiKey: string) {
       }),
     });
     if (response.ok) {
-      writeFileSync(outputPath, Buffer.from(await response.arrayBuffer()));
+      const buffer = Buffer.from(await response.arrayBuffer());
+      writeFileSync(outputPath, buffer);
       console.error(`  Saved: ${outputPath}`);
-      return;
+      break;
     }
     const err = await response.text();
     console.error(`  Failed (${response.status}): ${err}`);
     if (attempt < 3) await new Promise(r => setTimeout(r, attempt * 5000));
+    if (attempt === 3) throw new Error(`All 3 TTS attempts failed for ${outputPath}`);
   }
-  throw new Error(`All 3 attempts failed for ${outputPath}`);
+
+  // Step 2: Get word-level timestamps via Whisper
+  const timestampsPath = outputPath.replace('.mp3', '.json');
+  console.error(`  Generating timestamps → ${timestampsPath}`);
+  const audioBlob = readFileSync(outputPath);
+  const form = new FormData();
+  form.append('file', new Blob([audioBlob], { type: 'audio/mpeg' }), 'audio.mp3');
+  form.append('model', 'whisper-1');
+  form.append('response_format', 'verbose_json');
+  form.append('timestamp_granularities[]', 'word');
+
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    console.error(`  Whisper attempt ${attempt}/3...`);
+    const resp = await fetch('https://api.openai.com/v1/audio/transcriptions', {
+      method: 'POST',
+      headers: { 'Authorization': `Bearer ${apiKey}` },
+      body: form,
+    });
+    if (resp.ok) {
+      const data = await resp.json() as { words?: Array<{ word: string; start: number; end: number }> };
+      writeFileSync(timestampsPath, JSON.stringify(data.words || [], null, 2));
+      console.error(`  Timestamps saved: ${timestampsPath}`);
+      return;
+    }
+    const err = await resp.text();
+    console.error(`  Whisper failed (${resp.status}): ${err}`);
+    if (attempt < 3) await new Promise(r => setTimeout(r, attempt * 3000));
+  }
+  console.error(`  WARNING: Timestamps failed for ${outputPath}, continuing without`);
 }
 
 async function main() {
