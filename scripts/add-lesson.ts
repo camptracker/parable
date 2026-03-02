@@ -41,6 +41,9 @@ async function main() {
   if (!lesson.image) {
     lesson.image = `images/${seriesId}/day-${lesson.day}.jpg`;
   }
+  if (!lesson.audio) {
+    lesson.audio = `audio/${seriesId}/day-${lesson.day}.mp3`;
+  }
   let content = readFileSync(filePath, 'utf-8');
 
   // Build the lesson entry
@@ -49,6 +52,7 @@ async function main() {
     title: ${JSON.stringify(lesson.title)},
     date: ${JSON.stringify(lesson.date)},
     image: ${JSON.stringify(lesson.image)},
+    audio: ${JSON.stringify(lesson.audio)},
     sonnet: \`${escapeBackticks(lesson.sonnet)}\`,
     standard: \`${escapeBackticks(lesson.standard)}\`,
     parable: \`${escapeBackticks(lesson.parable)}\`,

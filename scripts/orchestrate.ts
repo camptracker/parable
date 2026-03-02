@@ -179,6 +179,21 @@ async function main() {
   await pooled(imageTasks, 3);
   console.error('  Images done');
 
+  // ── Phase 3.5: Generate audio in parallel (max 3) ──
+  console.error('Phase 3.5: Generating audio in parallel (max 3)...');
+  const audioTasks = generatedLessons.map(g => async () => {
+    console.error(`  Audio: ${g.seriesId} day ${g.newDay}...`);
+    try {
+      const tmpFile = `/tmp/parable-${g.seriesId}-${g.newDay}.txt`;
+      writeFileSync(tmpFile, g.parable);
+      await runAsync(`npx tsx scripts/generate-audio.ts ${g.seriesId} ${g.newDay} --from-file ${tmpFile}`);
+    } catch (err) {
+      console.error(`  Audio failed for ${g.seriesId} day ${g.newDay}, continuing`);
+    }
+  });
+  await pooled(audioTasks, 3);
+  console.error('  Audio done');
+
   // ── Phase 4: Write lessons (sequential) ──
   console.error('Phase 4: Writing lessons...');
   for (const g of generatedLessons) {
