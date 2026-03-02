@@ -1,81 +1,81 @@
 {
   "financial-independence": {
-    "latestDay": 5,
+    "latestDay": 6,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 5
+        "lastDaySent": 6
       },
       "zany": {
         "telegramId": "8483194333",
         "username": "Zanyh2012",
-        "lastDaySent": 4
+        "lastDaySent": 5
       }
     }
   },
   "nutrition-science": {
-    "latestDay": 2,
+    "latestDay": 3,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 2
+        "lastDaySent": 3
       },
       "zany": {
         "telegramId": "8483194333",
         "username": "Zanyh2012",
-        "lastDaySent": 1
+        "lastDaySent": 2
       }
     }
   },
   "negotiation": {
-    "latestDay": 2,
+    "latestDay": 3,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 2
+        "lastDaySent": 3
       }
     }
   },
   "stoic-philosophy": {
-    "latestDay": 2,
+    "latestDay": 3,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 2
+        "lastDaySent": 3
       }
     }
   },
   "music-theory": {
-    "latestDay": 2,
+    "latestDay": 3,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 2
+        "lastDaySent": 3
       }
     }
   },
   "real-estate": {
-    "latestDay": 2,
+    "latestDay": 3,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 2
+        "lastDaySent": 3
       }
     }
   },
   "storytelling": {
-    "latestDay": 2,
+    "latestDay": 3,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 2
+        "lastDaySent": 3
       }
     }
   },
@@ -85,22 +85,22 @@
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 1
+        "lastDaySent": 2
       }
     }
   },
   "building-relationships": {
-    "latestDay": 2,
+    "latestDay": 3,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 2
+        "lastDaySent": 3
       },
       "zany": {
         "telegramId": "8483194333",
         "username": "Zanyh2012",
-        "lastDaySent": 1
+        "lastDaySent": 2
       }
     }
   },
@@ -110,7 +110,7 @@
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 0
+        "lastDaySent": 1
       }
     }
   },
@@ -120,7 +120,7 @@
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 0
+        "lastDaySent": 1
       }
     }
   },
@@ -130,7 +130,7 @@
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 0
+        "lastDaySent": 1
       }
     }
   }
