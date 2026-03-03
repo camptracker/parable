@@ -61,7 +61,6 @@ ${tomorrowQuestion ? `[IMPORTANT: The previous lesson ended with this question: 
 🧱 The Concept [1-2 sentences]
 ❓ Why It Matters [2-3 sentences]
 ⚙️ How It Works [3-5 sentences with concrete examples]
-📖 Definitions (bullet list of key terms)
 🎯 ${wisdomLabel} [1-2 sentences]
 ❓ Tomorrow's Question — Use the Socratic method: ask a thought-provoking question that challenges assumptions, invites deeper thinking, and naturally leads to the next concept. Don't ask a simple factual question — ask one that makes the reader wrestle with an idea.
 
