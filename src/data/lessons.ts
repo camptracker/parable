@@ -28,6 +28,11 @@ import { lessons as cookingLessons } from './series/cooking';
 import { lessons as meaningLessons } from './series/meaning-of-life';
 import { lessons as scaleLessons } from './series/how-to-scale';
 import { lessons as mlLessons } from './series/machine-learning';
+import { lessons as eqLessons } from './series/emotional-intelligence';
+import { lessons as habitsLessons } from './series/habits-and-systems';
+import { lessons as leadershipLessons } from './series/leadership';
+import { lessons as longevityLessons } from './series/health-and-longevity';
+import { lessons as joyLessons } from './series/joy-paradox';
 
 export const series: Series[] = [
   { id: "financial-independence", name: "Financial Independence", theme: "Warren Buffett's teachings and mathematical principles", lessons: fiLessons },
@@ -42,6 +47,11 @@ export const series: Series[] = [
   { id: "meaning-of-life", name: "Meaning of Life", theme: "the deepest philosophical question — existentialism, religion, absurdism, purpose, consciousness, and what thinkers from Aristotle to Camus to Viktor Frankl have said about why we're here", lessons: meaningLessons },
   { id: "how-to-scale", name: "How to Scale", theme: "scaling startups, teams, and systems — from 0→1 to 1→100, hiring, delegation, technical architecture, organizational design, and lessons from founders who built billion-dollar companies", lessons: scaleLessons },
   { id: "machine-learning", name: "Machine Learning", theme: "the fundamentals of machine learning — from linear regression to neural networks, gradient descent, backpropagation, transformers, and the math and intuition behind how machines learn", lessons: mlLessons },
+  { id: "emotional-intelligence", name: "Emotional Intelligence", theme: "understanding and managing emotions — self-awareness, empathy, social skills, emotional regulation, and reading people", lessons: eqLessons },
+  { id: "habits-and-systems", name: "Habits & Systems", theme: "building identity-based habits, designing systems that compound, breaking bad loops, and becoming the person who does the things", lessons: habitsLessons },
+  { id: "leadership", name: "Leadership & Influence", theme: "inspiring people, building trust, servant leadership, giving feedback, mentoring, and the difference between authority and influence", lessons: leadershipLessons },
+  { id: "health-and-longevity", name: "Health & Longevity", theme: "the science of living longer and better — sleep, exercise physiology, stress management, aging, recovery, and the habits that add decades of healthy life", lessons: longevityLessons },
+  { id: "joy-paradox", name: "The Joy Paradox", theme: "the science and philosophy of joy — hedonic adaptation, the paradox of chasing happiness, dopamine vs serotonin, peak experiences vs quiet contentment", lessons: joyLessons },
 ];
 
 // Find a series by id

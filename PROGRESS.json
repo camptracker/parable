@@ -133,5 +133,55 @@
         "lastDaySent": 1
       }
     }
+  },
+  "emotional-intelligence": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 0
+      }
+    }
+  },
+  "habits-and-systems": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 0
+      }
+    }
+  },
+  "leadership": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 0
+      }
+    }
+  },
+  "health-and-longevity": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 0
+      }
+    }
+  },
+  "joy-paradox": {
+    "latestDay": 1,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 0
+      }
+    }
   }
 }

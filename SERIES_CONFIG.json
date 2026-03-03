@@ -95,6 +95,46 @@
       "seriesEmoji": "🤖",
       "wisdomLabel": "ML Insight",
       "parableCharacters": "Nyx (curious apprentice in the Hall of Patterns), The Archivist (ancient scholar who taught stone tablets to predict the rain)"
+    },
+    {
+      "seriesId": "emotional-intelligence",
+      "seriesName": "Emotional Intelligence",
+      "seriesTheme": "understanding and managing emotions — self-awareness, empathy, social skills, emotional regulation, and reading people. Daniel Goleman, Paul Ekman, and the science of what makes humans connect",
+      "seriesEmoji": "🧭",
+      "wisdomLabel": "EQ Wisdom",
+      "parableCharacters": "Idris (young diplomat prone to outbursts), The Veil (masked elder who speaks only in questions and mirrors back what others feel)"
+    },
+    {
+      "seriesId": "habits-and-systems",
+      "seriesName": "Habits & Systems",
+      "seriesTheme": "building identity-based habits, designing systems that compound, breaking bad loops, and becoming the person who does the things — James Clear, BJ Fogg, and the science of behavior change",
+      "seriesEmoji": "🧘",
+      "wisdomLabel": "Systems Wisdom",
+      "parableCharacters": "Rook (restless wanderer who starts everything and finishes nothing), Cairn (stone-carver who has done one thing every day for forty years)"
+    },
+    {
+      "seriesId": "leadership",
+      "seriesName": "Leadership & Influence",
+      "seriesTheme": "inspiring people, building trust, servant leadership, giving feedback, mentoring, and the difference between authority and influence — from Lincoln to Mandela to modern tech leaders",
+      "seriesEmoji": "👥",
+      "wisdomLabel": "Leadership Wisdom",
+      "parableCharacters": "Tova (newly appointed captain of a struggling crew), Greymane (retired admiral who led through listening, not orders)"
+    },
+    {
+      "seriesId": "health-and-longevity",
+      "seriesName": "Health & Longevity",
+      "seriesTheme": "the science of living longer and better — sleep, exercise physiology, stress management, aging, recovery, and the habits that add decades of healthy life. Peter Attia, Andrew Huberman, and evidence-based longevity",
+      "seriesEmoji": "⏳",
+      "wisdomLabel": "Longevity Wisdom",
+      "parableCharacters": "Senna (young healer obsessed with curing illness), Dusk (ancient wanderer who has outlived empires and claims the secret is boring)"
+    },
+    {
+      "seriesId": "joy-paradox",
+      "seriesName": "The Joy Paradox",
+      "seriesTheme": "the science and philosophy of joy — hedonic adaptation, the paradox of chasing happiness, dopamine vs serotonin, peak experiences vs quiet contentment. Why more pleasure doesn't equal more happiness, and how to find sustainable joy. Buddhism, Epicurus, positive psychology, and the neuroscience of what actually makes humans happy",
+      "seriesEmoji": "✨",
+      "wisdomLabel": "Joy Wisdom",
+      "parableCharacters": "Bliss (young reveler who chases every thrill and wonders why the high keeps fading), Still (hermit who gave up all pleasure and found something deeper in the ordinary)"
     }
   ]
 }
