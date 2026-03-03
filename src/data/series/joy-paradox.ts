@@ -63,10 +63,10 @@ Still smiled, pouring her tea. "I learned that happiness is like a muscle that g
   },
   {
     day: 2,
-    title: undefined,
-    date: "2026-03-03",
+    title: "The Pleasure Paradox",
+    date: "2026-03-02",
     image: "images/joy-paradox/day-2.jpg",
-    audio: "audio/joy-paradox/day-2.mp3",
+    audio: "audio/joy-paradox/day-2",
     sonnet: `**🪶 Sonnet II: The Pleasure Paradox**
 
 The grandest feasts leave palates numbed and cold,
