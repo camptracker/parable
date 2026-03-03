@@ -173,15 +173,5 @@
         "lastDaySent": 0
       }
     }
-  },
-  "joy-paradox": {
-    "latestDay": 3,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 0
-      }
-    }
   }
 }

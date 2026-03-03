@@ -32,7 +32,6 @@ import { lessons as eqLessons } from './series/emotional-intelligence';
 import { lessons as habitsLessons } from './series/habits-and-systems';
 import { lessons as leadershipLessons } from './series/leadership';
 import { lessons as longevityLessons } from './series/health-and-longevity';
-import { lessons as joyLessons } from './series/joy-paradox';
 
 export const series: Series[] = [
   { id: "financial-independence", name: "Financial Independence", theme: "Warren Buffett's teachings and mathematical principles", lessons: fiLessons },
@@ -51,7 +50,6 @@ export const series: Series[] = [
   { id: "habits-and-systems", name: "Habits & Systems", theme: "building identity-based habits, designing systems that compound, breaking bad loops, and becoming the person who does the things", lessons: habitsLessons },
   { id: "leadership", name: "Leadership & Influence", theme: "inspiring people, building trust, servant leadership, giving feedback, mentoring, and the difference between authority and influence", lessons: leadershipLessons },
   { id: "health-and-longevity", name: "Health & Longevity", theme: "the science of living longer and better — sleep, exercise physiology, stress management, aging, recovery, and the habits that add decades of healthy life", lessons: longevityLessons },
-  { id: "joy-paradox", name: "The Joy Paradox", theme: "the science and philosophy of joy — hedonic adaptation, the paradox of chasing happiness, dopamine vs serotonin, peak experiences vs quiet contentment", lessons: joyLessons },
 ];
 
 // Find a series by id
