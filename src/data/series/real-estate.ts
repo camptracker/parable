@@ -247,4 +247,63 @@ He showed her his method: estimate each cost conservatively, assume the worst ab
 
 *Tomorrow, Dara will learn why Hallam always walks the cobblestones at dawn, studying which streets the merchants favor and which the craftsmen abandon...*`,
   },
+  {
+    day: 4,
+    title: "Market Analysis & Location Intelligence",
+    date: "2026-03-03",
+    image: "images/real-estate/day-4.jpg",
+    audio: "audio/real-estate/day-4",
+    sonnet: `**🪶 Sonnet IV: Market Analysis & Location Intelligence**
+
+Where commerce flows and steady workers dwell,
+The wisest investors plant their golden seed,
+For brick and mortar serve the buyer well
+Only when location answers every need.
+
+Seek not the cheapest plot in distant lands,
+But study where the growing tree takes root—
+Where jobs abound and strong employment stands,
+Where infrastructure bears its lasting fruit.
+
+The bridge that spans, the road that newly winds,
+The school bell's ring, the factory's honest smoke,
+These signs reveal where fortune gently binds
+Its blessing to the land that progress woke.
+
+*For houses rise and fall with time's decree,*
+*But prime locations hold prosperity.*`,
+    standard: `🏠 Day 4: Market Analysis & Location Intelligence
+
+**🧱 The Concept**
+Market analysis evaluates the economic, demographic, and growth factors that drive property appreciation and rental demand in a specific location over time.
+
+**❓ Why It Matters**
+Location determines both your property's appreciation potential and rental stability — a great house in a declining area will struggle, while an average property in a growing market can thrive. Smart investors buy not just properties, but neighborhoods with strong fundamentals that support long-term wealth building. Markets with job growth, population increases, and infrastructure development create the rising tide that lifts all real estate boats.
+
+**⚙️ How It Works**
+Analyze employment diversity and major employers — avoid one-company towns that collapse if that employer leaves. Study population trends, median income growth, and crime statistics over 5-10 years. Examine infrastructure projects like new highways, airports, or transit systems that increase accessibility. Research planned developments, zoning changes, and local government fiscal health. For example, Austin's tech boom created massive appreciation because multiple factors aligned: job growth, population influx, limited land supply, and pro-business policies. Look for similar convergence of positive indicators. Track rental vacancy rates, average days on market, and price trends compared to surrounding areas.
+
+**🎯 Real Estate Wisdom**
+You make money when you buy, but you get rich when markets rise — choose locations where economic fundamentals create sustainable growth, not speculative bubbles.
+
+**❓ Tomorrow's Question:**
+*If market analysis helps you choose where to invest, how do you determine when to invest? What economic signals indicate whether you're buying at the top of a cycle or positioning for the next upswing?*`,
+    parable: `The morning mist clung to the village rooftops as Dara found Hallam surveying the cobblestone square, his weathered eyes tracking the movements of merchants setting up their stalls.
+
+"Tell me, child," Hallam said without preamble, "why do I own three shops here in the square, yet none in the hamlet beyond the ridge?"
+
+Dara studied the bustling scene — the bakery with its morning queue, the blacksmith's forge already glowing, the steady stream of travelers from the main road. "Because people gather here?"
+
+"Deeper," Hallam urged, gesturing toward the stone bridge that spanned the river. "That bridge brings trade from the eastern provinces. The mill wheel turns because the river runs swift here. The lord's manor sits on yonder hill, drawing servants and suppliers." He pointed to the cluster of new cottages near the forest edge. "Young families build there because the carpenter's guild — your father's guild — has steady work from all this growth."
+
+They walked to the village's edge, where Hallam owned a modest cottage that commanded twice the rent of similar homes elsewhere. "See how the road widens here? The king plans a new garrison just beyond those trees. More soldiers means more demand for lodging, food, trade."
+
+Dara nodded slowly. "So you study not just the property, but everything that makes people want to live and work nearby?"
+
+"Precisely. A house is shelter, but a location is opportunity." Hallam smiled. "The widow's cottage in the dying hamlet beyond the ridge costs half as much, but it's worth nothing if no one wishes to live there. I buy where roots run deep and growth comes natural."
+
+**Moral**: *The wise investor purchases not mere buildings, but the promise of places where commerce and community shall flourish.*
+
+*Tomorrow, young Dara will learn why even the finest locations must be bought at the proper season...*`,
+  },
 ];

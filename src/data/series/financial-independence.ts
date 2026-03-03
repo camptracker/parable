@@ -559,4 +559,65 @@ As the day waned, Sable traced patterns in the earth. "The wealthy understand th
 
 *Tomorrow, Kael would learn a puzzling truth about debt and investment that challenges common wisdom...*`,
   },
+  {
+    day: 7,
+    title: "Good Debt vs. Bad Debt",
+    date: "2026-03-03",
+    image: "images/financial-independence/day-7.jpg",
+    audio: "audio/financial-independence/day-7",
+    sonnet: `**🪶 Sonnet VII: Good Debt vs. Bad Debt**
+
+Not every chain that binds the soul is cruel,
+Some debts lift high while others drag us down,
+The merchant's vice makes him a borrowing fool,
+While farmer's loan brings harvest, gold, renown.
+
+The interest rate reveals the devil's hand,
+When twenty percent devours your yearly gain,
+But four percent helps purchase fertile land
+That yields far more than what you pay in pain.
+
+Let mathematics guide your moral choice,
+High-interest debt demands immediate death,
+While low-cost borrowing gives investment voice
+To compound growth with every patient breath.
+
+*The wise discern which debts serve wealth's true end:*
+*Some chains enslave, while others help ascend.*`,
+    standard: `💰 Day 7: Good Debt vs. Bad Debt
+
+The answer depends on the **interest rate** — pay off high-interest debt (credit cards at 18-25%) immediately since no investment reliably beats those rates. However, low-interest debt like mortgages (3-5%) or student loans (4-6%) can coexist with investing, since the stock market's long-term average return of 10% exceeds these rates.
+
+🧱 **The Concept**
+**Good debt** helps build wealth or income (mortgages, business loans), while **bad debt** finances consumption with high interest rates that destroy wealth.
+
+❓ **Why It Matters**
+Not all debt is created equal — some debt is a tool for building wealth, while other debt is a wealth destroyer. Understanding this distinction determines whether you should prioritize debt payoff or investing. Making the wrong choice costs you thousands in opportunity cost or interest payments.
+
+⚙️ **How It Works**
+Use the **interest rate test**: if debt costs more than 7-8% annually, pay it off before investing. Credit card debt at 22% interest guaranteed destroys wealth faster than any investment can build it. Conversely, a 4% mortgage allows you to invest the difference and potentially earn 6% more annually through stock market returns. Consider a $10,000 choice: paying extra on a 4% mortgage saves $400 yearly, but investing that same money at 10% market returns earns $1,000 yearly. The **debt avalanche method** prioritizes highest-interest debt first for maximum mathematical benefit.
+
+🎯 **Buffett Wisdom**
+"I've seen more people fail because of liquor and leverage — leverage being borrowed money" — yet Buffett strategically uses low-cost debt when the returns exceed the borrowing costs.
+
+❓ **Tomorrow's Question**
+*You understand debt prioritization, but once you start investing, should you try to time the market by waiting for crashes and corrections, or is there a better approach?*`,
+    parable: `The morning sun cast long shadows as Kael found Sable examining two ledgers by the village fountain. "Elder," Kael began hesitantly, "yesterday you spoke of emergency funds, but I'm troubled. Should I pay every debt before investing, or can some debts wait?"
+
+Sable smiled knowingly. "Ah, young seeker, you've discovered the great paradox of wealth building. Come, let me show you something." He pointed to farmer Tobren's fields in the distance. "See how Tobren borrowed silver to buy that fertile eastern field? The harvest from that land pays for the loan and more besides. This is **good debt** — it feeds him."
+
+Kael nodded, following Sable's gaze to the village tavern where a merchant stumbled out, pockets empty. "But see Aldric there? He borrowed gold at cruel rates to buy fine clothes and exotic wines. His debt devours him like a hungry beast. This is **bad debt** — it starves the soul."
+
+"The difference," Sable continued, opening his weathered ledgers, "lies in the **rate of tribute** demanded. When debt costs more than your investments can reasonably earn, it becomes a chain around your ankle. But when debt costs less than your gains, it becomes a lever that lifts you higher."
+
+Tobren approached, wiping sweat from his brow. "Elder speaks truly," the farmer said. "My field loan costs me four pieces of silver yearly for each hundred borrowed. Yet that same field yields me ten pieces profit. The debt serves me, not the reverse."
+
+Sable traced numbers in the dust. "The **interest rate test** reveals all truth, young Kael. High-interest debt — like the twenty pieces per hundred the merchant pays — must be slain immediately. But low-interest debt can coexist with wise investment, for time and compound growth favor the patient investor."
+
+As the three walked toward Tobren's prosperous fields, Sable added quietly, "Remember: debt is neither good nor evil by nature. It is a tool, like fire — warming your hearth or burning down your house, depending on your wisdom in wielding it."
+
+**Moral**: Not all debt is created equal — the interest rate determines whether debt serves you or enslaves you.
+
+**Tomorrow**: The young investor learns whether timing the market's storms and sunshine leads to riches or ruin.`,
+  },
 ];

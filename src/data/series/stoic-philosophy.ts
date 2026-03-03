@@ -269,4 +269,68 @@ Caius watched his mentor work through the night, every decision made with fierce
 
 Tomorrow, as they tracked the raiders deeper into hostile territory, Caius would learn why the Stoics spoke of emotions not as enemies to be destroyed, but as energies to be properly channeled...`,
   },
+  {
+    day: 4,
+    title: "The Therapy of Emotions",
+    date: "2026-03-03",
+    image: "images/stoic-philosophy/day-4.jpg",
+    audio: "audio/stoic-philosophy/day-4",
+    sonnet: `**🪶 Sonnet IV: The Therapy of Emotions**
+
+When Fortune strikes with her most bitter hand,
+And tears fall freely down the weathered cheek,
+The Stoic doesn't fight what nature planned—
+These first emotions make us truly speak.
+But past the natural grief that loss must bring,
+Lies judgment's realm where wisdom takes its stand:
+"Catastrophe!" or "temporary sting"?
+The meanings that we add are in our hand.
+No robot made of stone the Stoic proves,
+But gardener of the heart's wild, tangled ground,
+Who feels each joy and every sorrow moves,
+Yet keeps his deepest peace forever sound.
+*For he who rules his judgments rules his pain,*
+*And in that mastery, his strength shall reign.*`,
+    standard: `🏛️ Day 4: The Therapy of Emotions
+
+**🧱 The Concept**
+Stoics don't eliminate emotions — they transform destructive passions into healthy feelings by changing the judgments that create them.
+
+**❓ Why It Matters**
+Yesterday's question reveals a crucial misunderstanding: Stoics aren't emotionless robots, but emotional alchemists. When Seneca lost his fortune, he grieved. When Marcus Aurelius faced his son's death, he mourned. The difference lies not in feeling nothing, but in preventing emotions from becoming destructive forces that cloud judgment and compromise virtue. Stoics distinguish between initial emotional reactions (which are natural and involuntary) and sustained passionate attachments (which are chosen and often harmful).
+
+**⚙️ How It Works**
+Stoic emotional therapy works through judgment revision. According to Epictetus, we're disturbed not by events themselves, but by our judgments about events. The loss of a job triggers natural disappointment, but adding the judgment "this is catastrophic" creates despair. A friend's betrayal brings natural hurt, but the judgment "I'm worthless" breeds lasting anguish. Stoics practice catching these secondary judgments and examining them: Is losing this job truly catastrophic, or just inconvenient? Does someone's poor behavior actually diminish my worth? By questioning and revising these judgments, you maintain emotional resilience while still caring deeply about what matters. The goal isn't to feel nothing, but to feel appropriately — grieving losses without being destroyed, celebrating victories without becoming attached, loving deeply without being possessive.
+
+**🎯 Stoic Wisdom**
+Epictetus taught: "It's not what happens to you, but how you react to it that matters."
+
+**❓ Tomorrow's Question:**
+*If we can choose our emotional responses through rational judgment, why do some people seem naturally more resilient than others? Is emotional strength purely a matter of philosophical training, or are there deeper patterns that shape how we respond to adversity?*`,
+    parable: `The screams echoed across the garrison courtyard as another wounded soldier was carried from the surgeon's tent. Caius watched from the shadows, his stomach churning at the sight of his comrade's mangled leg.
+
+"You're judging again," came Maxima's voice behind him.
+
+Caius turned, startled. The general approached with his characteristic limp, acquired in some long-ago battle. "I don't understand, sir. Judging what?"
+
+"The suffering. The injury. You're adding meaning to what simply is." Maxima gestured toward the medical tent. "What do you see when you look at that scene?"
+
+"Horror," Caius replied immediately. "Tragedy. A young man's life ruined."
+
+Maxima nodded slowly. "And what does the surgeon see?"
+
+Caius paused, considering. "Work to be done. A problem to solve."
+
+"Precisely. The facts remain unchanged — a soldier has been injured and requires treatment. But your judgment creates horror, while the surgeon's judgment creates purpose." The general's weathered face softened. "This doesn't make you weak, young friend. The initial shock you feel is natural, even necessary — it signals that you care about your fellow soldiers. But watch what happens next."
+
+As they observed, Caius noticed his breathing had steadied. The nausea passed. His mind began calculating — how many men were still needed for the next patrol? Could this soldier's duties be redistributed?
+
+"You see?" Maxima smiled. "You haven't become heartless. You still care deeply about your comrade's welfare. But you've stopped adding judgments that serve no purpose except to increase suffering. The Stoic doesn't love less — he loves more wisely."
+
+That evening, Caius visited the wounded soldier, bringing food and companionship. He felt genuine sadness for his friend's pain, but underneath lay an unshakeable calm — the peace that comes from caring without being consumed.
+
+**Moral**: True emotional strength lies not in feeling nothing, but in feeling wisely — experiencing natural emotions without being enslaved by destructive judgments.
+
+*Tomorrow, Maxima would reveal why some soldiers crumbled under pressure while others seemed forged by it...*`,
+  },
 ];

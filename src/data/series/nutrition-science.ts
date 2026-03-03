@@ -249,4 +249,65 @@ Lila watched in wonder as the protein hearth continued its eternal dance of dest
 
 *Tomorrow, Maren will reveal why some hearths rebuild themselves stronger while others merely maintain their size, despite receiving the same stones...*`,
   },
+  {
+    day: 4,
+    title: "The Timing Code",
+    date: "2026-03-03",
+    image: "images/nutrition-science/day-4.jpg",
+    audio: "audio/nutrition-science/day-4",
+    sonnet: `**🪶 Sonnet IV: The Timing Code**
+
+When muscles cry for strength and sinew new,
+The body weighs each choice with careful thought:
+Shall amino acids build what time broke through,
+Or feed the fires where energy is sought?
+
+In exercise's wake, the signals shine—
+"Repair these fibers torn by effort's strain!"
+But when the cells need fuel to stay in line,
+Protein becomes the glucose in our brain.
+
+Like servants who must choose their master's call,
+These building blocks serve need above desire:
+If energy lacks, they'll sacrifice their all
+To feed the more immediate body's fire.
+
+*Yet timing grants the key to muscle's door—*
+*Feed hunger first, then build what wasn't there before.*`,
+    standard: `🍎 Day 4: The Timing Code
+
+The invisible factor is **timing** — specifically, the timing of protein intake relative to your body's metabolic state and energy needs. When you eat protein during or after physical activity, your muscles are primed for protein synthesis and will preferentially use amino acids for building tissue. However, if you consume protein when your body needs immediate energy (like during fasting or low-carb states), those same amino acids get converted to glucose through **gluconeogenesis** and burned for fuel instead of building muscle.
+
+🧱 **The Concept**
+**Protein timing** determines whether amino acids fuel energy production or tissue building based on your body's immediate metabolic priorities.
+
+❓ **Why It Matters**
+This explains why two people eating identical amounts of protein can have vastly different muscle-building results. Your body operates on a hierarchy of needs: survival energy comes first, tissue building comes second. Understanding this timing principle is the difference between protein being wasted as expensive fuel versus being used for its intended purpose of maintaining and building your body.
+
+⚙️ **How It Works**
+Think of amino acids as construction workers who can either build buildings or shovel coal into a furnace — the job they do depends entirely on what the city needs most urgently. After exercise, your muscles release signals that say "we need repairs" — this creates an **anabolic window** where protein synthesis is elevated for up to 48 hours. During this time, amino acids are preferentially shuttled toward muscle building. However, if you're in an energy deficit or haven't eaten carbohydrates, your body treats amino acids as emergency fuel through gluconeogenesis — literally converting protein into sugar. This is why athletes often combine protein with carbohydrates: the carbs satisfy immediate energy needs, allowing protein to do its building work. **Leucine**, one of the essential amino acids, acts like a molecular switch that signals muscles to start the building process, but only when energy needs are already met.
+
+🎯 **Science Wisdom**
+Protein timing isn't about narrow "anabolic windows" — it's about aligning your protein intake with your body's metabolic priorities. Feed energy needs first, then protein can do its real job.
+
+❓ **Tomorrow's Question:**
+*If protein can be converted to energy when needed, why does your body seem to prefer burning carbohydrates and fats first — what makes protein such a reluctant fuel source that your body saves it for last?*`,
+    parable: `Lila watched as Maren sorted through her morning's collection, separating herbs into different clay vessels with practiced precision. "Master," Lila began, "yesterday you spoke of how the body cannot store the healing proteins like grain in a storehouse. But I've observed something puzzling — why do some villagers grow strong on the same remedies that seem to provide others only fleeting energy?"
+
+Maren smiled, her weathered hands continuing their methodical work. "Ah, young apprentice, you've stumbled upon one of healing's greatest secrets — the mystery of timing." She held up a handful of precious medicinal seeds. "Watch closely."
+
+She approached her three hearths, each burning at different intensities. At the first hearth, where flames danced high and hungry, she cast a portion of seeds directly into the fire. They crackled and burned, providing immediate warmth but leaving nothing behind. "When the body cries out for energy," she explained, "even the most precious building materials become mere kindling."
+
+At the second hearth, banked with glowing coals, she placed seeds in a special vessel that protected them from the flames while still providing gentle heat. "But observe — when the fire's hunger is already satisfied, when there is fuel enough for warmth, then these same seeds can work their true magic." She pointed to tiny green shoots beginning to emerge from the protected vessel.
+
+At the third hearth, cold and prepared, she planted the remaining seeds in rich soil, moistening them with care. "And when the body is at rest, primed for growth like freshly turned earth after rain, these building materials find their highest purpose."
+
+Lila's eyes widened with understanding. "The seeds themselves never change — only the conditions that greet them!"
+
+"Precisely," Maren nodded. "The healing compounds that rebuild muscle and mend tissue are the same ones that can fuel the body's fires when need demands it. A wise healer learns not just what to give, but when to give it. The body speaks in the language of priority — survival first, building second. Honor this order, and even the humblest protein becomes a master builder."
+
+Moral: The same resource serves different purposes depending on the timing of need — wisdom lies in understanding the body's hierarchy of priorities.
+
+Tomorrow, Maren will reveal why the body treats protein like a precious reserve, reluctant to burn what took so much energy to create.`,
+  },
 ];

@@ -253,4 +253,61 @@ As the first stars appeared overhead, Wren played a simple progression: C major 
 
 *Tomorrow, Old Ferro will teach Wren about the invisible conductor that orchestrates when each note appears — the mysterious pulse that makes music move through time like a heartbeat...*`,
   },
+  {
+    day: 4,
+    title: "Rhythm — The Heartbeat of Music",
+    date: "2026-03-03",
+    image: "images/music-theory/day-4.jpg",
+    audio: "audio/music-theory/day-4",
+    sonnet: `**🪶 Sonnet IV: The Heartbeat of Music**
+
+What force makes melody and harmony dance,
+Transforms mere notes to living, breathing song?
+'Tis rhythm's pulse that gives each phrase its chance
+To move through time where music does belong.
+
+The steady beat like heart within the chest
+Provides the frame where melodies can play,
+While syncopation adds its sweet unrest,
+And meter marks the boundaries of day.
+
+Without this pulse, the sweetest harmonies
+Would float like ships becalmed on silent seas,
+But rhythm breathes life into music's trees
+And sets both soul and dancing feet at ease.
+
+*For time itself finds voice in music's measure,*
+*And rhythm unlocks melody's true treasure.*`,
+    standard: `🎵 Day 4: Rhythm — The Heartbeat of Music
+
+🧱 **The Concept**
+Rhythm is the organization of time in music — the pattern of beats, accents, and silences that gives music its pulse and forward motion.
+
+❓ **Why It Matters**
+Without rhythm, music would be chaos floating in time. Rhythm creates expectation and surprise, tension and release. It's what makes you tap your foot, nod your head, or feel compelled to dance. Even in the most complex classical pieces, rhythm provides the invisible backbone that holds everything together.
+
+⚙️ **How It Works**
+Rhythm operates on multiple layers simultaneously. The **beat** is the steady pulse you feel — like a musical heartbeat. **Meter** organizes beats into patterns (4/4 time groups beats in fours, 3/4 in threes). **Tempo** determines how fast those beats move. But the magic happens with **syncopation** — when accents fall on unexpected beats, creating tension. A simple **backbeat** (emphasizing beats 2 and 4 in 4/4 time) transforms a march into rock and roll. **Polyrhythm** layers different rhythmic patterns simultaneously, like having conversations in multiple time signatures at once.
+
+🎯 **Musical Insight**
+Rhythm taps into something primal — our heartbeat, our breathing, our walking pace. This is why certain rhythmic patterns feel natural and others create exciting tension.
+
+❓ **Tomorrow's Question:**
+If individual notes are letters and chords are words, what happens when we arrange these musical elements across time to tell a complete story? How does music create meaning beyond just pleasant sounds?`,
+    parable: `Wren found Old Ferro in the cathedral at dawn, his weathered hands dancing across the organ's keys in complex patterns that seemed to breathe with life itself.
+
+"Listen," Ferro whispered, playing a simple melody without rhythm — notes floating like leaves on still water. "Beautiful, yes? But lifeless." Then he began the same melody again, but now his foot found the pedal in steady pulses. The music suddenly had a heartbeat.
+
+"Rhythm is time made audible," Ferro explained, his fingers finding a gentle waltz pattern. "Three beats, like a heart at rest — one-two-three, one-two-three." The cathedral filled with the graceful motion of imaginary dancers.
+
+Wren watched, fascinated, as Ferro shifted to four beats, then emphasized the second and fourth — suddenly the waltz became something you could march to, then something that made you want to move your shoulders. "The same notes," he said, "but rhythm changes everything."
+
+"But master," Wren asked, "why does changing when things happen change how they feel?"
+
+Ferro smiled, playing a complex passage where his left hand kept steady time while his right hand danced around it, sometimes with the beat, sometimes against it. "Because rhythm speaks to something deeper than our ears, child. It speaks to our bodies, our breathing, our walking, our very pulse of life. When rhythm matches our natural patterns, we feel comfort. When it surprises us..." He struck a syncopated chord on an unexpected beat, making Wren jump. "We feel alive."
+
+**Moral:** *Rhythm is the invisible architect of time, transforming random moments into purposeful motion, just as a heartbeat transforms mere existence into life.*
+
+*Tomorrow, Wren would discover how all these elements — melody, harmony, and rhythm — weave together into something greater than their individual parts...*`,
+  },
 ];

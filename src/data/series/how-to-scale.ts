@@ -68,4 +68,64 @@ Than rigid walls that bind us with their yoke.
 *Build strong foundations, but with wisdom's art—*
 *Make room for growth within each beating heart.*`,
   },
+  {
+    day: 2,
+    title: "The Sacred vs. Sacrifice Framework",
+    date: "2026-03-03",
+    image: "images/how-to-scale/day-2.jpg",
+    audio: "audio/how-to-scale/day-2",
+    sonnet: `**🪶 Sonnet II: The Sacred vs. Sacrifice Framework**
+
+What must remain when all else falls away?
+The builder's heart beats steady through the storm,
+While methods shift like seasons through the day,
+The mission holds its true and lasting form.
+
+The anvil breaks, the workshop walls expand,
+The tools that served so well now constrain growth,
+Yet principles carved deep by master's hand
+Survive each change, fulfilling sacred oath.
+
+Like oak trees shedding leaves but keeping root,
+The wise will sacrifice the temporal shell,
+While guarding close the core that bears all fruit—
+The why that makes the changing how sing well.
+
+*Your values anchor you through growth's rough sea,*
+*While methods flow like rivers to be free.*`,
+    standard: `🚀 **Day 2: The Sacred vs. Sacrifice Framework**
+
+The answer lies in distinguishing between your **core values** (which should never change) and your **implementation methods** (which must evolve constantly). Sacred principles are about *why* you exist — your mission, core values, and fundamental beliefs about serving customers. Everything else — your tech stack, organizational structure, and operational processes — should be treated as temporary solutions awaiting better ones.
+
+🧱 **The Concept**
+The Sacred vs. Sacrifice Framework helps you identify which foundational elements to preserve during growth and which to deliberately abandon.
+
+❓ **Why It Matters**
+Without this framework, companies either become paralyzed by over-protecting everything, or they lose their identity by changing too much too fast. The most successful scaling stories involve leaders who held firm to their core mission while ruthlessly evolving everything else.
+
+⚙️ **How It Works**
+Classify every foundational element into three buckets: **Sacred** (core values and mission that define your identity), **Sacrifice** (current implementations that served you well but must evolve), and **Situational** (elements you'll evaluate case-by-case). Amazon has kept "customer obsession" sacred for 30 years while sacrificing everything from their original bookstore model to their monolithic architecture. Netflix preserved their mission to "entertain the world" while sacrificing their DVD business, recommendation algorithms, and content strategy multiple times. Google's "organize the world's information" remains sacred, but they've sacrificed countless products, reorganized teams dozens of times, and completely rebuilt their infrastructure.
+
+🎯 **Scaling Wisdom**
+Your mission is your anchor; everything else is just scaffolding to be rebuilt as you grow.
+
+❓ **Tomorrow's Question** — When rapid growth forces you to choose between maintaining team culture and hitting aggressive targets, how do you scale the human elements that actually drive those numbers?`,
+    parable: `Vex stood before her workshop's central forge, hammer in hand, staring at the masterwork anvil her grandfather had crafted. It was beautiful, perfectly balanced — and completely wrong for the larger projects her growing reputation now demanded.
+
+"It pains you to consider changing it," Ironmere observed, running his weathered fingers along the anvil's smooth edges. "This forge built your early success."
+
+"It feels like betrayal," Vex admitted. "This anvil taught me precision. How do I honor that while building something completely different?"
+
+Ironmere smiled, remembering his own struggles. "When I built my city, I faced this choice a thousand times. The first stone I laid was sacred — it represented my promise to create something lasting. But the wooden scaffolding I used to place that stone? I tore it down the moment I no longer needed it."
+
+He gestured to the workshop around them. "Your grandfather's anvil taught you the *why* of craftsmanship — precision, care, dedication to excellence. That wisdom is sacred. But this particular tool, this specific implementation of those values? It's just scaffolding."
+
+Vex nodded slowly, understanding dawning. "So I keep the principles it taught me, but I build the forge I need for tomorrow's work."
+
+"Exactly. The sacred elements are invisible — your commitment to quality, your respect for the craft, your promise to your customers. Everything visible can and should change when growth demands it."
+
+**Moral**: Hold your mission as sacred, but treat your methods as temporary scaffolding to be rebuilt as you grow.
+
+Tomorrow, Vex will face her greatest challenge yet: how to teach her growing team the invisible principles while building systems that scale beyond her personal touch.`,
+  },
 ];

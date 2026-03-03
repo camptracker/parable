@@ -290,4 +290,61 @@ As evening approached, the travelers prepared to leave. Elder Rynn handed them a
 
 *Tomorrow, Elder Rynn would teach them about the inner compass that guides us when emotions run high — for what good are repair skills if we cannot access them when we need them most?*`,
   },
+  {
+    day: 4,
+    title: "Emotional Intelligence in Love — Mastering Your Inner World",
+    date: "2026-03-03",
+    image: "images/building-relationships/day-4.jpg",
+    audio: "audio/building-relationships/day-4",
+    sonnet: `**🪶 Sonnet IV: Emotional Intelligence in Love**
+
+When passion's fire ignites the tender heart,
+And words like arrows pierce the fragile air,
+The wise in love pause ere they speak their part,
+And tend the storms that rage within their care.
+
+For in that space 'tween feeling and reply,
+Lies wisdom's throne where better choices dwell,
+Where heated blood learns patience to apply,
+And wounded pride its fury learns to quell.
+
+The lover skilled reads both their own heart's page,
+And sees their partner's pain beneath the mask,
+Transforming conflict's wild and bitter rage
+Into connection's more enduring task.
+
+*So train your heart to feel yet still think clear,*
+*That love may flourish even when storms appear.*`,
+    standard: `💕 Day 4: Emotional Intelligence in Love — Mastering Your Inner World
+
+🧱 **The Concept**
+Emotional intelligence in relationships means **recognizing, understanding, and managing your emotions** while staying attuned to your partner's emotional state, especially during conflict or stress.
+
+❓ **Why It Matters**
+When triggered, our **amygdala** hijacks rational thinking, turning partners into perceived threats rather than teammates. Couples with high emotional intelligence don't avoid getting triggered — they recover faster and make better choices even when flooded with intense emotions. This creates safety for both partners to be vulnerable and authentic.
+
+⚙️ **How It Works**
+**Self-Awareness**: Notice your emotional triggers and physical sensations before you react explosively. **Self-Regulation**: Use techniques like deep breathing, pausing, or taking breaks to calm your nervous system when overwhelmed. **Empathy**: Read your partner's emotional cues and respond to their underlying feelings, not just their words. **Social Skills**: Express your needs clearly while validating your partner's experience, even during disagreements. For example, instead of "You never listen!" try "I'm feeling unheard right now and need to know you care about my perspective."
+
+🎯 **Relationship Wisdom**
+Emotionally intelligent lovers create space between feeling and action, choosing responses that serve the relationship rather than just venting their immediate emotions.
+
+❓ **Tomorrow's Question:**
+*If emotional intelligence helps us manage our reactions, what happens when our core values or non-negotiables clash with our partner's? How do we distinguish between differences we can bridge and incompatibilities that might break us?*`,
+    parable: `As dawn broke over the valley, Ash noticed Lume walking with unusual stiffness, their jaw clenched tight. Yesterday's harsh words about their chosen route still echoed between them like stones rattling in a hollow gourd.
+
+"The path grows treacherous ahead," Elder Rynn observed, appearing beside a weathered signpost. "See how the morning mist obscures the cliffs? When travelers cannot see clearly within themselves, they stumble even on familiar ground."
+
+Ash felt their chest tighten, recognizing the familiar surge of defensive heat. But instead of striking back with wounded pride, they paused, feeling their rapid heartbeat, the shallow breathing that signaled their inner storm. "I'm angry," Ash said quietly, "but beneath that... I'm scared we're losing each other."
+
+Lume's rigid posture softened slightly. "I've been carrying yesterday's hurt like a stone in my pack," they admitted. "But watching you pause just now, choosing honesty over retaliation... it reminds me why I chose this journey with you."
+
+Elder Rynn smiled, gesturing toward the clearing mist. "The wise traveler tends their inner weather as carefully as they read the sky. When you master the storms within, you can navigate any external tempest together."
+
+They walked on, the morning air lighter between them, each more aware of the emotional landscape they carried within.
+
+**Moral**: True partnership requires mastering not just the art of loving another, but the science of understanding yourself.
+
+*Tomorrow, Elder Rynn will reveal what happens when two well-intentioned travelers discover their inner compasses point in different directions...*`,
+  },
 ];
