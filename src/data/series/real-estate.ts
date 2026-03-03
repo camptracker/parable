@@ -306,4 +306,59 @@ Dara nodded slowly. "So you study not just the property, but everything that mak
 
 *Tomorrow, young Dara will learn why even the finest locations must be bought at the proper season...*`,
   },
+  {
+    day: 5,
+    title: "Market Cycles & Economic Timing",
+    date: "2026-03-03",
+    image: "images/real-estate/day-5.jpg",
+    audio: "audio/real-estate/day-5",
+    sonnet: `**🪶 Sonnet V: Market Cycles & Economic Timing**
+
+As seasons turn from spring to winter's chill,
+So markets rise and fall in endless dance,
+From recovery's hope to peak's fevered thrill,
+Then contraction's fear breaks speculation's trance.
+
+The wise investor reads these ancient signs—
+When others flee, opportunity draws near,
+While euphoria breeds expensive designs,
+And panic sells what patience holds most dear.
+
+In cycles deep as tide and lunar phase,
+The patterns speak to those who learn to see:
+That fortune favors not the crowd's mad craze,
+But those who from emotion's bondage free.
+
+*For markets crown the patient soul who knows*
+*That winter's depths herald spring's sweetest rose.*`,
+    standard: `🏠 Day 5: Market Cycles & Economic Timing
+
+**🧱 The Concept**
+Real estate markets move in predictable cycles of expansion, peak, contraction, and recovery, driven by interest rates, employment, supply constraints, and investor sentiment.
+
+**❓ Why It Matters**
+Timing your entry and exit points within market cycles can dramatically impact your returns — buying during recovery phases and holding through expansion maximizes wealth building potential. Understanding where you are in the cycle helps you avoid overpaying at peaks and recognize opportunities during downturns. Cycles repeat because human psychology and economic fundamentals create recurring patterns of optimism, euphoria, fear, and despair that drive price movements.
+
+**⚙️ How It Works**
+Recovery phases feature declining inventory, stabilizing prices, and returning buyer confidence after a downturn. Expansion brings rising prices, increasing construction, and easy credit as demand outpaces supply. Peak periods show bidding wars, speculative buying, and overbuilding as euphoria takes hold. Contraction involves rising inventory, price declines, and tightening credit as reality sets in. Monitor leading indicators: employment growth signals early recovery, construction permits peak before price peaks, and mortgage delinquencies rise before contractions. For example, savvy investors bought during 2011-2013's recovery phase when others feared another crash, then rode the expansion through 2020. Interest rate changes often trigger cycle shifts — rising rates cool expansion, falling rates fuel recovery.
+
+**🎯 Real Estate Wisdom**
+Markets reward patience and punish panic — buy when others are fearful, hold when others are greedy, and remember that cycles create millionaires who recognize patterns others miss.
+
+**❓ Tomorrow's Question:**
+*Once you've identified the right market and timing, how do you structure your purchase to maximize returns while minimizing risk? What role does other people's money play in amplifying your wealth-building potential?*`,
+    parable: `The seasons turned, and Dara found herself walking the village square with old Hallam as merchants packed their stalls under autumn's fading light. "Master Hallam," she said, "I've learned to read the signs of a good location, but when do you know the right moment to act?"
+
+Hallam paused beside the fountain, watching the ebb and flow of villagers. "Child, observe the marketplace. In spring, after harsh winters, vendors return tentatively — few stalls, cautious prices, grateful for any trade. This is recovery. Then comes summer's expansion — every corner filled, prices rising, confidence blooming like flowers. By harvest's end, we reach the peak — frenzied bidding for the best goods, new merchants arriving daily, thinking the plenty will last forever."
+
+He gestured toward empty stalls where eager traders had competed just months before. "Then autumn's contraction — overstocked merchants, falling prices, desperation replacing greed. The wise merchant knows these seasons repeat endlessly, driven not by weather but by human nature itself."
+
+Dara watched a lone merchant securing his shutters. "So when do you buy?"
+
+"When others board their windows in fear," Hallam smiled, "for winter always yields to spring. I purchased half these properties during the great panic twenty years past, when sellers fled and buyers vanished. Those who recognized the season's turn earned fortunes, while those who sold at winter's depth lost their legacies."
+
+**Moral:** Markets move in eternal cycles, rewarding those who read the seasons of human sentiment and economic reality.
+
+**Tomorrow:** Dara will discover how the wealthy use other people's gold to multiply their own purchasing power.`,
+  },
 ];

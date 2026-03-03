@@ -15,14 +15,14 @@ function getSeriesConfig(seriesId: string) {
 }
 
 function getLatestLesson(seriesId: string): { latestDay: number; lesson: any } {
-  const out = execSync(`npx tsx scripts/get-latest.ts ${seriesId}`, { cwd: ROOT, encoding: 'utf-8' });
+  const out = execSync(`./node_modules/.bin/tsx scripts/get-latest.ts ${seriesId}`, { cwd: ROOT, encoding: 'utf-8' });
   return JSON.parse(out);
 }
 
 async function main() {
   const seriesId = process.argv[2];
   if (!seriesId) {
-    console.error('Usage: npx tsx scripts/generate-lesson.ts <seriesId>');
+    console.error('Usage: ./node_modules/.bin/tsx scripts/generate-lesson.ts <seriesId>');
     process.exit(1);
   }
 
@@ -87,28 +87,29 @@ Return ONLY valid JSON. No markdown code fences. No explanation.`;
 
   const apiKey = getAnthropicKey();
 
-  const response = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': apiKey,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 4096,
-      system: systemPrompt,
-      messages: [{ role: 'user', content: userPrompt }],
-    }),
+  const requestBody = JSON.stringify({
+    model: 'claude-sonnet-4-20250514',
+    max_tokens: 4096,
+    system: systemPrompt,
+    messages: [{ role: 'user', content: userPrompt }],
   });
 
-  if (!response.ok) {
-    const err = await response.text();
-    console.error(`Anthropic API error ${response.status}: ${err}`);
-    process.exit(1);
+  // Use curl instead of fetch to avoid Node.js fetch hanging issues
+  const { writeFileSync, unlinkSync } = await import('fs');
+  const tmpBody = resolve(ROOT, `.tmp-request-${seriesId}-${Date.now()}.json`);
+  writeFileSync(tmpBody, requestBody);
+  let curlOut: string;
+  try {
+    curlOut = execSync(`curl -s --max-time 120 https://api.anthropic.com/v1/messages -H "Content-Type: application/json" -H "x-api-key: ${apiKey}" -H "anthropic-version: 2023-06-01" -d @${tmpBody}`, { cwd: ROOT, encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 });
+  } finally {
+    try { unlinkSync(tmpBody); } catch {}
   }
 
-  const data = await response.json() as any;
+  const data = JSON.parse(curlOut) as any;
+  if (data.type === 'error') {
+    console.error(`Anthropic API error: ${JSON.stringify(data.error)}`);
+    process.exit(1);
+  }
   const text = data.content[0].text;
 
   // Parse JSON from response (strip code fences if present)

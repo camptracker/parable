@@ -310,4 +310,65 @@ Moral: The same resource serves different purposes depending on the timing of ne
 
 Tomorrow, Maren will reveal why the body treats protein like a precious reserve, reluctant to burn what took so much energy to create.`,
   },
+  {
+    day: 5,
+    title: "The Metabolic Cost of Breaking Down",
+    date: "2026-03-03",
+    image: "images/nutrition-science/day-5.jpg",
+    audio: "audio/nutrition-science/day-5",
+    sonnet: `**🪶 Sonnet V: The Metabolic Cost of Breaking Down**
+
+When protein meets the body's burning flame,
+A costly dance of chemistry unfolds,
+Each amino acid bears a processing claim—
+Thrice dear the price that such conversion holds.
+
+The liver labors, breaking bonds with care,
+While toxic ammonia demands swift flight,
+And nitrogen waste pollutes the cellular air,
+As precious building blocks fuel appetite.
+
+Yet carbs ignite like kindling, quick and clean,
+And fats burn steady as the seasoned oak,
+While protein's fire burns hot but leaves between
+Its ashes costly work and labored smoke.
+
+*So nature hoards what costs the most to burn,*
+*And saves its treasures for their proper turn.*`,
+    standard: `🍎 Day 5: The Metabolic Cost of Breaking Down
+
+Protein is your body's reluctant fuel because **converting amino acids to energy is metabolically expensive** — it requires more energy to break down protein than carbs or fats, making it an inefficient fuel source. Additionally, protein serves critical structural and functional roles throughout your body, so burning it for energy is like burning your furniture to heat your house when you have perfectly good firewood available.
+
+🧱 **The Concept**
+**Thermic effect of food (TEF)** measures how much energy your body expends to digest, absorb, and process different macronutrients — and protein demands the highest metabolic cost.
+
+❓ **Why It Matters**
+This metabolic "tax" on protein explains why high-protein diets can boost metabolism and why your body hoards amino acids for essential functions. Understanding TEF reveals why not all calories are created equal metabolically, and why the source of your calories matters as much as the quantity.
+
+⚙️ **How It Works**
+When you eat 100 calories of protein, your body immediately spends 20-30 of those calories just processing it — breaking peptide bonds, deaminating amino acids, and converting waste nitrogen to urea. Compare this to carbohydrates (5-10% TEF) or fats (0-5% TEF), and you see why protein is metabolically "expensive." This process, called **diet-induced thermogenesis**, literally heats up your body as cellular machinery works overtime. The **deamination** process that strips nitrogen from amino acids is particularly costly because your liver must safely package the toxic ammonia byproduct into urea for excretion. Meanwhile, your body jealously guards amino acids for making enzymes, hormones, antibodies, and structural proteins — burning them for energy is like using rare building materials as kindling. This is why **protein-sparing** occurs during moderate calorie restriction: your body will slow metabolism and burn fat stores before sacrificing precious amino acids.
+
+🎯 **Science Wisdom**
+Protein's high metabolic cost makes it both a metabolic accelerator and a protected resource — your body burns it reluctantly because the processing expense isn't worth it when easier fuels are available.
+
+❓ **Tomorrow's Question:**
+*If your body is so efficient at switching between fuel sources, why do some people seem to "hit a wall" when their preferred fuel runs out — what determines whether someone is metabolically flexible or metabolically rigid?*`,
+    parable: `"Why does the body resist burning its most precious building blocks?" Lila asked, watching Maren tend the three hearths that represented the body's fuel sources.
+
+Maren gestured to the third hearth, where she burned only the finest hardwood. "Watch how much work it takes to prepare this wood," she said, carefully splitting and shaping each piece. "I must cut it perfectly, remove the bark, and tend the flame constantly. See how it crackles and protests? This wood burns hot but demands great effort to process."
+
+She moved to the first hearth, where kindling caught fire instantly. "This simple wood lights easily and burns cleanly — no preparation needed." Then to the second hearth: "This seasoned oak requires some work but burns steadily once lit."
+
+"The hardwood is like protein," Maren explained as sweat beaded on her brow from the extra labor. "Your body must work so hard to break it down — snapping molecular bonds, handling toxic waste, converting complex structures into simple fuel. For every ten pieces of protein-wood I burn, three pieces worth of energy goes just to processing it. Meanwhile, the carbohydrate-kindling and fat-oak burn with barely any effort."
+
+Lila watched the hardwood hearth consume far more of Maren's attention. "So the body saves protein for building, not burning?"
+
+"Precisely. Why burn your crafted furniture when you have plenty of firewood? The body pays a steep price in energy just to use protein as fuel — it's like hiring expensive craftsmen to do common labor."
+
+As evening fell, Maren banked the protein hearth carefully, preserving its precious fuel. "Remember, apprentice: the most valuable resources demand the highest cost to use, which is why wisdom reserves them for their true purpose."
+
+**Moral:** *The body's reluctance to burn protein as fuel reflects both its metabolic expense and precious value — true efficiency means using each resource for its highest purpose.*
+
+*Tomorrow, we explore why some bodies switch fuels like skilled dancers while others stumble when their preferred energy source runs dry...*`,
+  },
 ];

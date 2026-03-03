@@ -326,4 +326,69 @@ Osha's shuttle paused. "A blacksmith speaks in hammer-blows, short and strong. A
 
 *Tomorrow, Osha will teach Pip about the invisible conductor who orchestrates when hearts race and when they rest...*`,
   },
+  {
+    day: 5,
+    title: "Pacing — The Heartbeat of Story",
+    date: "2026-03-03",
+    image: "images/storytelling/day-5.jpg",
+    audio: "audio/storytelling/day-5",
+    sonnet: `**🪶 Sonnet V: The Heartbeat of Story**
+
+Like drummers who know when to quicken the beat,
+The storyteller weaves with time itself,
+Now rushing forward with scenes incomplete,
+Now pausing soft to place upon the shelf
+
+Some revelation that the heart needs space
+To comprehend before the next wave hits.
+The master knows that rhythm sets the pace—
+That silence between words as loudly sits
+
+As thunder after lightning's brilliant flash.
+Too fast, and readers drown in breathless noise;
+Too slow, and attention turns to ash,
+The story losing all its native poise.
+
+*For pacing mirrors life's own ebb and flow—*
+*The pulse that makes a story breathe and grow.*`,
+    standard: `📖 Day 5: Pacing — The Heartbeat of Story
+
+**The Concept**
+Pacing is the **rhythm of revelation** — controlling when information flows, when tension builds, and when readers need to breathe.
+
+❓ **Why It Matters**
+Pacing isn't about speed; it's about **emotional orchestration**. A thriller that never slows down becomes numbing noise. A literary novel that never quickens loses its pulse. Great stories mirror the human heartbeat — accelerating during danger, slowing during reflection, creating a rhythm that keeps readers physiologically engaged. Hitchcock understood this: he'd build excruciating tension in a three-minute bomb scene, then release it with a single cut. The relief becomes part of the pleasure.
+
+⚙️ **How It Works**
+Pacing operates through **sentence structure** — short, punchy sentences accelerate action while long, flowing sentences encourage contemplation. **Scene breaks** control breathing space, letting readers process revelations before the next wave hits. **Information timing** determines impact — revealing a character's secret too early deflates drama, too late frustrates readers. In *The Godfather*, Coppola varies pace masterfully: the wedding's leisurely warmth makes the horse head's sudden horror more shocking. **Tension and release** create addictive rhythms — chase scenes followed by quiet character moments, explosive arguments followed by tender reconciliations. Even **dialogue pacing** matters — rapid-fire exchanges during conflict, thoughtful pauses during emotional breakthroughs.
+
+🎯 **Storytelling Wisdom**
+Pacing is invisible when done right — readers should feel the story's rhythm in their bones without noticing the technique. Vary your tempo like a jazz musician varies rhythm, always in service of the emotional journey.
+
+❓ **Tomorrow's Question:**
+*We've explored character, structure, dialogue, and pacing — but what makes some stories linger in memory for decades while others vanish overnight? What transforms a well-crafted tale into an unforgettable experience that changes how we see the world?*`,
+    parable: `Pip found Osha at her loom again, but this time her shuttle moved in an erratic dance — sometimes racing across the warp threads like lightning, sometimes pausing so long he wondered if she'd fallen asleep.
+
+"Your weaving seems... confused today," Pip ventured, still smarting from yesterday's lesson about dialogue. His latest story attempt had characters talking past each other beautifully, but somehow the whole thing felt flat.
+
+"Confused?" Osha's fingers never stopped their work. "Watch closer, bard. See how the tight weave here"—the shuttle flew rapidly—"makes the loose weave there sing with space? A tapestry of constant density would bore the eye to tears."
+
+Pip watched the rhythm emerge: tight clusters of thread creating intensity, then flowing sections of lighter weave that seemed to breathe. "It's like... music made visible."
+
+"Now you begin to understand," Osha murmured. "Once, a young weaver came to me, frantic because his tapestries felt wrong. Every section was perfectly crafted, every thread precisely placed, but viewers walked away unmoved. 'What am I missing?' he pleaded. I had him watch a master drummer for three days."
+
+The shuttle paused completely, then resumed with deliberate slowness.
+
+"On the third day, he understood. The drummer didn't just keep time — she played with time. Accelerating heartbeats during the hunt, slowing to match rainfall during sorrow. The silence between beats was as important as the beats themselves. The young weaver returned to his loom and began varying his density, his tension, his rhythm. His next tapestry made grown warriors weep."
+
+Pip felt something click. "My stories... I've been weaving them all the same tightness."
+
+"Precisely. Rush through emotional revelations and they have no weight. Linger too long on action and it loses its power. But vary the rhythm — quick dialogue punctuated by slow, introspective moments; sudden revelations followed by quiet processing — and you create something that resonates with the human heartbeat itself."
+
+As if to demonstrate, Osha's shuttle suddenly flew across the loom in rapid strokes, then slowed to an almost meditative pace. The pattern that emerged seemed to pulse with its own life.
+
+**Moral:** The master storyteller, like the master weaver, knows that rhythm creates meaning — varying the pace of revelation to match the natural cadence of human emotion.
+
+Tomorrow, Pip would discover that even perfect technique means nothing without the final, mysterious element that transforms craft into magic.`,
+  },
 ];

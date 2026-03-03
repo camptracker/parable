@@ -620,4 +620,67 @@ As the three walked toward Tobren's prosperous fields, Sable added quietly, "Rem
 
 **Tomorrow**: The young investor learns whether timing the market's storms and sunshine leads to riches or ruin.`,
   },
+  {
+    day: 8,
+    title: "Dollar-Cost Averaging vs. Market Timing",
+    date: "2026-03-03",
+    image: "images/financial-independence/day-8.jpg",
+    audio: "audio/financial-independence/day-8",
+    sonnet: `**🪶 Sonnet VIII: Dollar-Cost Averaging vs. Market Timing**
+
+The fool waits for the perfect time to sow,
+While wisdom plants through sunshine and through rain.
+Though market storms may ebb and markets flow,
+Consistent care yields the abundant grain.
+
+What prophet knows when fortune's wheel will turn?
+The crystal ball reveals but clouded lies.
+While timing seekers crash and timing burn,
+The steady sower sees his harvest rise.
+
+Each month the same amount, through fear and greed,
+Buys fewer shares when prices reach their height.
+But when the market bleeds, that faithful deed
+Acquires more value hidden from plain sight.
+
+*Time in the garden beats the timing game—*
+*The patient planter earns enduring fame.*`,
+    standard: `💰 Day 8: Dollar-Cost Averaging vs. Market Timing
+
+🧱 **The Concept**
+**Dollar-cost averaging** involves investing fixed amounts regularly regardless of market conditions, while **market timing** attempts to buy low and sell high by predicting market movements.
+
+❓ **Why It Matters**
+Even professional investors fail at market timing 80% of the time, yet individual investors consistently try to outsmart the market. This behavioral trap causes people to buy high during euphoria and sell low during panic. Missing just the 10 best market days over 20 years can cut your returns in half.
+
+⚙️ **How It Works**
+Dollar-cost averaging automatically buys more shares when prices are low and fewer when high — imagine investing $500 monthly regardless of whether the market is up or down. When stocks cost $50, you buy 10 shares; when they drop to $25, you buy 20 shares. This **price averaging** reduces your cost basis over time without requiring perfect timing. The **time in market beats timing the market** principle shows that staying invested through all conditions typically outperforms jumping in and out. Even if you invested at every market peak since 1950, you'd still beat someone who waited for the "perfect" entry point.
+
+🎯 **Buffett Wisdom**
+"Time is the friend of the wonderful business, the enemy of the mediocre" — consistent investing over decades matters more than perfect timing.
+
+❓ **Tomorrow's Question**
+*If consistent investing works better than timing, how do you choose what to actually invest in — should you pick individual stocks or is there a simpler approach for building wealth?*`,
+    parable: `The morning mist clung to the valley as Kael found Sable tending to his garden with methodical precision. The elder watered each plant with exactly the same amount, regardless of whether yesterday had brought sun or storm.
+
+"Why do you water the same amount each day?" Kael asked, watching the steady rhythm. "Wouldn't it be wiser to wait for the perfect conditions?"
+
+Sable smiled, continuing his routine. "Young Kael, observe Tobren across the field. He studies the clouds each morning, deciding whether to plant based on his predictions of weather."
+
+Kael turned to see Tobren standing idle in his field, seeds still in hand, waiting for what he deemed the perfect moment. Months had passed, yet his field remained largely unplanted.
+
+"But surely timing matters," Kael protested. "If I could plant only when conditions are ideal—"
+
+"Ah," Sable interrupted, gesturing toward his flourishing garden. "See how my consistent watering has nurtured growth through both drought and deluge? My plants have learned to thrive in all seasons because they receive steady care. Tobren's sporadic efforts yield sporadic results."
+
+The elder knelt beside a particularly robust tomato plant. "This received the same daily attention as all others, yet it has grown strongest not because I timed its care perfectly, but because it never lacked for attention."
+
+As they watched, storm clouds gathered suddenly overhead. Tobren scrambled to cover his few planted seeds, while Sable's established garden stood ready to weather whatever came.
+
+"The wise gardener plants consistently," Sable concluded, "knowing that time and patience create abundance, while those who wait for perfection often harvest only regret."
+
+**Moral:** Regular, consistent action builds wealth more reliably than waiting for perfect conditions.
+
+Tomorrow, Kael would learn what seeds of investment deserve such faithful tending...`,
+  },
 ];

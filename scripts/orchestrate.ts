@@ -115,7 +115,7 @@ async function main() {
         // Catch-up: queue delivery for next day only
         const catchUpDay = lastDaySent + 1;
         console.error(`  Catch-up: ${name} in ${seriesId} day ${catchUpDay}`);
-        const lessonJson = run(`npx tsx scripts/get-lesson.ts ${seriesId} ${catchUpDay}`);
+        const lessonJson = run(`./node_modules/.bin/tsx scripts/get-lesson.ts ${seriesId} ${catchUpDay}`);
         const lesson = JSON.parse(lessonJson);
 
         if (!deliveryMap[telegramId]) deliveryMap[telegramId] = [];
@@ -131,7 +131,7 @@ async function main() {
     if (recipientsAtLatest.length > 0) {
       // Date guard: skip if we already generated a NEW lesson today
       try {
-        const latestJson = run(`npx tsx scripts/get-latest.ts ${seriesId}`);
+        const latestJson = run(`./node_modules/.bin/tsx scripts/get-latest.ts ${seriesId}`);
         const latest = JSON.parse(latestJson);
         if (latest.lesson?.date === today && latest.latestDay > latestDay) {
           console.error(`  ${seriesId} already generated today (day ${latest.latestDay}), skipping`);
@@ -158,7 +158,7 @@ async function main() {
   console.error('Phase 2: Generating lessons in parallel...');
   const lessonTasks = generationQueue.map(q => async () => {
     console.error(`  Generating ${q.seriesId} day ${q.newDay}...`);
-    const lessonJson = await runAsync(`npx tsx scripts/generate-lesson.ts ${q.seriesId}`);
+    const lessonJson = await runAsync(`./node_modules/.bin/tsx scripts/generate-lesson.ts ${q.seriesId}`);
     const generated = JSON.parse(lessonJson);
     const titleMatch = generated.standard.match(/Day \d+:\s*(.+)/);
     const title = titleMatch ? titleMatch[1].replace(/\*\*/g, '').trim() : `Day ${q.newDay}`;
@@ -173,7 +173,7 @@ async function main() {
     } as GeneratedLesson & typeof q;
   });
 
-  const lessonResults = await pooled(lessonTasks, 4);
+  const lessonResults = await pooled(lessonTasks, 2);
   const generatedLessons: (GeneratedLesson & { seriesEmoji: string; seriesName: string; recipientsAtLatest: string[] })[] = [];
 
   for (const r of lessonResults) {
@@ -191,7 +191,7 @@ async function main() {
     const fullImagePath = resolve(ROOT, 'public', g.imagePath);
     console.error(`  Image: ${g.seriesId} day ${g.newDay}...`);
     try {
-      await runAsync(`npx tsx scripts/generate-image.ts ${JSON.stringify(g.dallePrompt)} ${fullImagePath}`);
+      await runAsync(`./node_modules/.bin/tsx scripts/generate-image.ts ${JSON.stringify(g.dallePrompt)} ${fullImagePath}`);
     } catch (err) {
       console.error(`  Image failed for ${g.seriesId} day ${g.newDay}, continuing`);
     }
@@ -207,7 +207,7 @@ async function main() {
     try {
       const tmpFile = `/tmp/parable-${g.seriesId}-${g.newDay}.json`;
       writeFileSync(tmpFile, JSON.stringify({ parable: g.parable, standard: g.standard }));
-      await runAsync(`npx tsx scripts/generate-audio.ts ${g.seriesId} ${g.newDay} --from-file ${tmpFile}`);
+      await runAsync(`./node_modules/.bin/tsx scripts/generate-audio.ts ${g.seriesId} ${g.newDay} --from-file ${tmpFile}`);
     } catch (err) {
       console.error(`  Audio failed for ${g.seriesId} day ${g.newDay}, continuing`);
     }
@@ -228,7 +228,7 @@ async function main() {
       parable: g.parable,
       sonnet: g.sonnet,
     };
-    run(`npx tsx scripts/add-lesson.ts ${g.seriesId}`, JSON.stringify(lessonObj));
+    run(`./node_modules/.bin/tsx scripts/add-lesson.ts ${g.seriesId}`, JSON.stringify(lessonObj));
 
     // Queue deliveries for recipients at latest
     for (const name of g.recipientsAtLatest) {
@@ -270,7 +270,7 @@ async function main() {
 
   if (deliveries.length > 0) {
     console.error('Phase 7: Sending summaries...');
-    run('npx tsx scripts/send-summary.ts', JSON.stringify(deliveries));
+    run('./node_modules/.bin/tsx scripts/send-summary.ts', JSON.stringify(deliveries));
   } else {
     console.error('Phase 7: No lessons to deliver today.');
   }
