@@ -142,7 +142,7 @@ body {
 .lesson-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 0;
+  gap: 1rem;
 }
 .lesson-card {
   position: relative;
@@ -150,12 +150,13 @@ body {
   align-items: flex-end;
   aspect-ratio: 1;
   overflow: hidden;
+  border-radius: 12px;
   text-decoration: none;
   color: #fff;
   background: var(--surface);
-  transition: opacity 0.2s;
+  transition: transform 0.2s, box-shadow 0.2s;
 }
-.lesson-card:hover { opacity: 0.9; }
+.lesson-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.3); }
 .lesson-card-img {
   position: absolute;
   inset: 0;
