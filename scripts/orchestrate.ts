@@ -129,25 +129,6 @@ async function main() {
     }
 
     if (recipientsAtLatest.length > 0) {
-      // Date guard: skip if we already generated a NEW lesson today
-      try {
-        const latestJson = run(`./node_modules/.bin/tsx scripts/get-latest.ts ${seriesId}`);
-        const latest = JSON.parse(latestJson);
-        if (latest.lesson?.date === today && latest.latestDay > latestDay) {
-          console.error(`  ${seriesId} already generated today (day ${latest.latestDay}), skipping`);
-          // Still queue delivery for these recipients since lesson exists
-          for (const name of recipientsAtLatest) {
-            const recip = recipients[name];
-            const telegramId = recip.telegramId;
-            if (!deliveryMap[telegramId]) deliveryMap[telegramId] = [];
-            deliveryMap[telegramId].push({ emoji: seriesEmoji, seriesName, title: latest.lesson.title, day: latest.latestDay, seriesId });
-            recip._newDay = latest.latestDay;
-          }
-          progress[seriesId].latestDay = latest.latestDay;
-          continue;
-        }
-      } catch { /* no lessons yet, proceed */ }
-
       generationQueue.push({ seriesId, seriesName, seriesEmoji, newDay: latestDay + 1, recipientsAtLatest });
     }
   }
