@@ -1,121 +1,81 @@
 import { Link, useParams, Navigate, useNavigate } from 'react-router-dom';
-import { useState, useRef, useEffect } from 'react';
+import { useRef, useEffect, useState } from 'react';
 import { getSeriesById } from '../data/lessons';
 
 export default function SeriesPage() {
   const { seriesId } = useParams();
   const s = getSeriesById(seriesId || '');
   const navigate = useNavigate();
+  const scrollRef = useRef<HTMLDivElement>(null);
   const [current, setCurrent] = useState(0);
-  const touchStart = useRef<{ x: number; y: number } | null>(null);
-  const [swipeX, setSwipeX] = useState(0);
-  const swiping = useRef(false);
 
-  // Reset to last card when series changes
+  const total = s?.lessons.length || 0;
+
+  // Scroll to latest lesson on mount
   useEffect(() => {
-    if (s) setCurrent(s.lessons.length - 1);
+    if (s && scrollRef.current) {
+      const lastIdx = s.lessons.length - 1;
+      const el = scrollRef.current;
+      requestAnimationFrame(() => {
+        el.scrollTo({ left: lastIdx * el.offsetWidth, behavior: 'instant' as ScrollBehavior });
+        setCurrent(lastIdx);
+      });
+    }
   }, [seriesId, s?.lessons.length]);
+
+  // Track scroll position
+  useEffect(() => {
+    const el = scrollRef.current;
+    if (!el) return;
+    const onScroll = () => {
+      const idx = Math.round(el.scrollLeft / el.offsetWidth);
+      setCurrent(idx);
+    };
+    el.addEventListener('scroll', onScroll, { passive: true });
+    return () => el.removeEventListener('scroll', onScroll);
+  }, []);
 
   if (!s) return <Navigate to="/" replace />;
 
   const lessons = s.lessons;
-  const total = lessons.length;
   const lesson = lessons[current];
 
   const goTo = (idx: number) => {
-    if (idx >= 0 && idx < total) setCurrent(idx);
-  };
-
-  const handleTouchStart = (e: React.TouchEvent) => {
-    touchStart.current = { x: e.touches[0].clientX, y: e.touches[0].clientY };
-    swiping.current = false;
-    setSwipeX(0);
-  };
-
-  const handleTouchMove = (e: React.TouchEvent) => {
-    if (!touchStart.current) return;
-    const dx = e.touches[0].clientX - touchStart.current.x;
-    const dy = e.touches[0].clientY - touchStart.current.y;
-    // Only swipe if horizontal movement dominates
-    if (!swiping.current && Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 10) {
-      swiping.current = true;
-    }
-    if (swiping.current) {
-      e.preventDefault();
-      setSwipeX(dx);
-    }
-  };
-
-  const handleTouchEnd = () => {
-    if (Math.abs(swipeX) > 60) {
-      if (swipeX > 0) goTo(current - 1); // swipe right = previous
-      else goTo(current + 1); // swipe left = next
-    }
-    setSwipeX(0);
-    touchStart.current = null;
-    swiping.current = false;
-  };
-
-  const handleClick = () => {
-    if (!swiping.current && lesson) {
-      navigate(`/${s.id}/lesson/${lesson.day}`);
+    if (idx >= 0 && idx < total && scrollRef.current) {
+      scrollRef.current.scrollTo({ left: idx * scrollRef.current.offsetWidth, behavior: 'smooth' });
     }
   };
 
   return (
-    <div className="container">
-      <nav className="breadcrumb">
-        <Link to="/" className="nav-link">Home</Link>
-        <span className="breadcrumb-sep">›</span>
-        <span>{s.name}</span>
-      </nav>
-      <header className="home-header">
-        <h1>{s.name}</h1>
-        <p className="subtitle">{s.theme}</p>
-      </header>
-
-      {/* Counter */}
-      <div className="deck-counter">{current + 1} / {total}</div>
-
-      {/* Deck */}
-      <div className="deck-wrapper">
-        <div
-          className="deck-card"
-          onTouchStart={handleTouchStart}
-          onTouchMove={handleTouchMove}
-          onTouchEnd={handleTouchEnd}
-          onClick={handleClick}
-          style={{ transform: swipeX ? `translateX(${swipeX}px) rotate(${swipeX * 0.03}deg)` : undefined, transition: swipeX ? 'none' : 'transform 0.3s ease' }}
-        >
-          {lesson?.image && (
-            <img src={`${import.meta.env.BASE_URL}${lesson.image}`} alt={lesson.title} className="deck-card-img" />
-          )}
-          <div className="deck-card-text">
-            <span className="deck-day">Day {lesson?.day}</span>
-            <span className="deck-title">{lesson?.title}</span>
-          </div>
-        </div>
-
-        {/* Desktop arrows */}
-        {current > 0 && (
-          <button className="deck-arrow deck-arrow-left" onClick={(e) => { e.stopPropagation(); goTo(current - 1); }}>‹</button>
-        )}
-        {current < total - 1 && (
-          <button className="deck-arrow deck-arrow-right" onClick={(e) => { e.stopPropagation(); goTo(current + 1); }}>›</button>
-        )}
+    <div className="series-page">
+      {/* Top bar */}
+      <div className="series-topbar">
+        <Link to="/" className="series-back">← Home</Link>
+        <span className="series-counter">{current + 1} / {total}</span>
+        <span className="series-name">{s.name}</span>
       </div>
 
-      {/* Dots */}
-      <div className="deck-dots">
-        {lessons.map((_, i) => (
-          <button key={i} className={`deck-dot ${i === current ? 'active' : ''}`} onClick={() => goTo(i)} />
+      {/* Carousel */}
+      <div className="carousel" ref={scrollRef}>
+        {lessons.map((l) => (
+          <div className="carousel-slide" key={l.day} onClick={() => navigate(`/${s.id}/lesson/${l.day}`)}>
+            {l.image && (
+              <img src={`${import.meta.env.BASE_URL}${l.image}`} alt={l.title} className="carousel-img" />
+            )}
+            <div className="carousel-overlay">
+              <span className="carousel-day">Day {l.day}</span>
+              <span className="carousel-title">{l.title}</span>
+            </div>
+          </div>
         ))}
       </div>
 
-      {/* Caption */}
-      <p className="deck-caption">
-        {current < total - 1 ? '← Swipe to browse lessons →' : 'Tap to read →'}
-      </p>
+      {/* Bottom controls */}
+      <div className="series-bottom">
+        <button className="series-btn" disabled={current <= 0} onClick={() => goTo(current - 1)}>← Previous</button>
+        <button className="series-btn primary" onClick={() => navigate(`/${s.id}/lesson/${lesson?.day}`)}>Read</button>
+        <button className="series-btn" disabled={current >= total - 1} onClick={() => goTo(current + 1)}>Next →</button>
+      </div>
     </div>
   );
 }
