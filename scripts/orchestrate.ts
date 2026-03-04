@@ -72,10 +72,12 @@ interface GeneratedLesson {
 async function main() {
   // Parse args
   const testMode = process.argv.includes('--test');
+  const noSend = process.argv.includes('--no-send');
   const recipientIdx = process.argv.indexOf('--recipient');
   const recipientFilter = recipientIdx !== -1 ? process.argv[recipientIdx + 1] : null;
 
   if (testMode) console.error('🧪 TEST MODE: only processing jon');
+  if (noSend) console.error('📭 NO-SEND MODE: generating only, no delivery');
   if (recipientFilter) console.error(`👤 RECIPIENT MODE: only processing ${recipientFilter}`);
 
   const config = JSON.parse(readFileSync(resolve(ROOT, 'SERIES_CONFIG.json'), 'utf-8'));
@@ -104,27 +106,37 @@ async function main() {
 
     const recipientsAtLatest: string[] = [];
 
-    for (const [name, recip] of Object.entries(recipients) as [string, any][]) {
-      // Filter by recipient or test mode
-      if (testMode && name !== 'jon') continue;
-      if (recipientFilter && name !== recipientFilter) continue;
+    if (noSend) {
+      // In no-send mode, just check if ANY recipient is at latest to trigger generation
+      for (const [name, recip] of Object.entries(recipients) as [string, any][]) {
+        if (testMode && name !== 'jon') continue;
+        if (recip.lastDaySent === latestDay) {
+          recipientsAtLatest.push(name);
+        }
+      }
+    } else {
+      for (const [name, recip] of Object.entries(recipients) as [string, any][]) {
+        // Filter by recipient or test mode
+        if (testMode && name !== 'jon') continue;
+        if (recipientFilter && name !== recipientFilter) continue;
 
-      const { telegramId, lastDaySent } = recip;
+        const { telegramId, lastDaySent } = recip;
 
-      if (lastDaySent < latestDay) {
-        // Catch-up: queue delivery for next day only
-        const catchUpDay = lastDaySent + 1;
-        console.error(`  Catch-up: ${name} in ${seriesId} day ${catchUpDay}`);
-        const lessonJson = run(`./node_modules/.bin/tsx scripts/get-lesson.ts ${seriesId} ${catchUpDay}`);
-        const lesson = JSON.parse(lessonJson);
+        if (lastDaySent < latestDay) {
+          // Catch-up: queue delivery for next day only
+          const catchUpDay = lastDaySent + 1;
+          console.error(`  Catch-up: ${name} in ${seriesId} day ${catchUpDay}`);
+          const lessonJson = run(`./node_modules/.bin/tsx scripts/get-lesson.ts ${seriesId} ${catchUpDay}`);
+          const lesson = JSON.parse(lessonJson);
 
-        if (!deliveryMap[telegramId]) deliveryMap[telegramId] = [];
-        deliveryMap[telegramId].push({ emoji: seriesEmoji, seriesName, title: lesson.title, day: catchUpDay, seriesId });
+          if (!deliveryMap[telegramId]) deliveryMap[telegramId] = [];
+          deliveryMap[telegramId].push({ emoji: seriesEmoji, seriesName, title: lesson.title, day: catchUpDay, seriesId });
 
-        // Queue progress update (applied in Phase 6)
-        recip._newDay = catchUpDay;
-      } else if (lastDaySent === latestDay) {
-        recipientsAtLatest.push(name);
+          // Queue progress update (applied in Phase 6)
+          recip._newDay = catchUpDay;
+        } else if (lastDaySent === latestDay) {
+          recipientsAtLatest.push(name);
+        }
       }
     }
 
@@ -211,16 +223,20 @@ async function main() {
     };
     run(`./node_modules/.bin/tsx scripts/add-lesson.ts ${g.seriesId}`, JSON.stringify(lessonObj));
 
-    // Queue deliveries for recipients at latest
-    for (const name of g.recipientsAtLatest) {
-      const telegramId = progress[g.seriesId].recipients[name].telegramId;
-      if (!deliveryMap[telegramId]) deliveryMap[telegramId] = [];
-      deliveryMap[telegramId].push({ emoji: g.seriesEmoji, seriesName: g.seriesName, title: g.title, day: g.newDay, seriesId: g.seriesId });
-
-      // Queue progress update
-      progress[g.seriesId].recipients[name]._newDay = g.newDay;
-    }
+    // Update latestDay always
     progress[g.seriesId].latestDay = g.newDay;
+
+    if (!noSend) {
+      // Queue deliveries for recipients at latest
+      for (const name of g.recipientsAtLatest) {
+        const telegramId = progress[g.seriesId].recipients[name].telegramId;
+        if (!deliveryMap[telegramId]) deliveryMap[telegramId] = [];
+        deliveryMap[telegramId].push({ emoji: g.seriesEmoji, seriesName: g.seriesName, title: g.title, day: g.newDay, seriesId: g.seriesId });
+
+        // Queue progress update
+        progress[g.seriesId].recipients[name]._newDay = g.newDay;
+      }
+    }
   }
 
   // ── Phase 5: Build + Deploy (skip if no new lessons written) ──
@@ -238,7 +254,7 @@ async function main() {
   for (const [seriesId, sp] of Object.entries(progress) as [string, any][]) {
     for (const [name, recip] of Object.entries(sp.recipients) as [string, any][]) {
       if (recip._newDay !== undefined) {
-        recip.lastDaySent = recip._newDay;
+        if (!noSend) recip.lastDaySent = recip._newDay;
         delete recip._newDay;
       }
     }
@@ -246,14 +262,18 @@ async function main() {
   writeFileSync(resolve(ROOT, 'PROGRESS.json'), JSON.stringify(progress, null, 2) + '\n', 'utf-8');
   console.error('  Progress saved');
 
-  // ── Phase 7: Send batch summary ──
-  const deliveries = Object.entries(deliveryMap).map(([recipientId, lessons]) => ({ recipientId, lessons }));
+  if (!noSend) {
+    // ── Phase 7: Send batch summary ──
+    const deliveries = Object.entries(deliveryMap).map(([recipientId, lessons]) => ({ recipientId, lessons }));
 
-  if (deliveries.length > 0) {
-    console.error('Phase 7: Sending summaries...');
-    run('./node_modules/.bin/tsx scripts/send-summary.ts', JSON.stringify(deliveries));
+    if (deliveries.length > 0) {
+      console.error('Phase 7: Sending summaries...');
+      run('./node_modules/.bin/tsx scripts/send-summary.ts', JSON.stringify(deliveries));
+    } else {
+      console.error('Phase 7: No lessons to deliver today.');
+    }
   } else {
-    console.error('Phase 7: No lessons to deliver today.');
+    console.error('Phase 7: Skipped (--no-send mode).');
   }
 
   console.error('Done! ✅');
