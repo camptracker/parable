@@ -32,6 +32,7 @@ import { lessons as eqLessons } from './series/emotional-intelligence';
 import { lessons as habitsLessons } from './series/habits-and-systems';
 import { lessons as leadershipLessons } from './series/leadership';
 import { lessons as longevityLessons } from './series/health-and-longevity';
+import { lessons as weddingLessons } from './series/wedding-planning';
 
 export const series: Series[] = [
   { id: "financial-independence", name: "Financial Independence", theme: "Warren Buffett's teachings and mathematical principles", lessons: fiLessons },
@@ -50,6 +51,7 @@ export const series: Series[] = [
   { id: "habits-and-systems", name: "Habits & Systems", theme: "building identity-based habits, designing systems that compound, breaking bad loops, and becoming the person who does the things", lessons: habitsLessons },
   { id: "leadership", name: "Leadership & Influence", theme: "inspiring people, building trust, servant leadership, giving feedback, mentoring, and the difference between authority and influence", lessons: leadershipLessons },
   { id: "health-and-longevity", name: "Health & Longevity", theme: "the science of living longer and better — sleep, exercise physiology, stress management, aging, recovery, and the habits that add decades of healthy life", lessons: longevityLessons },
+  { id: "wedding-planning", name: "Wedding Planning", theme: "the art and philosophy of planning a wedding — what truly matters, balancing traditions with authenticity, managing family dynamics, budgeting wisely, and creating a celebration that reflects who you are as a couple", lessons: weddingLessons },
 ];
 
 // Find a series by id
