@@ -455,4 +455,67 @@ As Maxima walked away, he called back: "The patient farmer plants seeds in sprin
 
 *Tomorrow, Caius will discover how to measure progress on the philosophical path — for even oak trees show signs of growth to those who know where to look.*`,
   },
+  {
+    day: 7,
+    title: "The Inner Scoreboard",
+    date: "2026-03-04",
+    image: "images/stoic-philosophy/day-7.jpg",
+    audio: "audio/stoic-philosophy/day-7",
+    sonnet: `**🪶 Sonnet VII: The Inner Scoreboard**
+
+While worldly men count coins and lands they've won,
+The Stoic measures progress by the heart:
+How swiftly does the gap between thought and action run?
+Does wisdom guide when circumstances dart?
+
+No trophy gleams for anger held in check,
+No medal honors those who choose their peace,
+When provocation comes like lightning's beck,
+And inner stillness marks virtue's increase.
+
+The scoreboard of the soul records each test:
+Did patience bloom where fury once held sway?
+When setbacks came, did equanimity rest
+Unshaken through fortune's fickle play?
+
+*True metrics lie not in the world's applause,*
+*But in the growing space 'tween act and cause.*`,
+    standard: `🏛️ Day 7: The Inner Scoreboard
+
+**🧱 The Concept**
+Stoic progress is measured not by external achievements but by internal metrics: how we respond to setbacks, our capacity for equanimity, and the growing gap between stimulus and reaction.
+
+**❓ Why It Matters**
+Yesterday's question illuminates the Stoic's fundamental challenge: measuring philosophical growth when the world offers only external scorecards. Society rewards wealth, status, and visible success, but these fluctuate wildly and depend largely on fortune. Seneca lost his fortune multiple times yet remained internally rich; Epictetus owned nothing yet was truly free. The Stoic learns to track different metrics: Did I remain calm when criticized? Did I choose virtue when vice was easier? Am I less disturbed by things outside my control today than last year?
+
+**⚙️ How It Works**
+Victor Frankl's **logos therapy** echoes ancient Stoic practice: meaning comes from how we respond to circumstances, not the circumstances themselves. Track your **response time** — the gap between external trigger and internal reaction. Notice when anger arises but doesn't control you. Measure your **sphere of concern** versus **sphere of control** — are you wasting less energy on uncontrollables? Count moments of **negative visualization** that prepared you for actual setbacks. When Marcus Aurelius wrote "Confine yourself to the present," he was practicing present-moment awareness — a skill that strengthens with use. Your progress isn't about eliminating emotions but about choosing your responses more consciously.
+
+**🎯 Stoic Wisdom**
+As Epictetus taught: "Don't demand that things happen as you wish — instead wish that they happen as they do, and you will go on well."
+
+**❓ Tomorrow's Question:**
+*If we can only control our responses and not outcomes, how do we maintain motivation to act in the world? Does Stoicism lead to passive withdrawal or engaged action?*`,
+    parable: `The morning sun cast long shadows across the training ground as Caius approached his mentor, frustration etched across his young face.
+
+"Maxima, I've followed your teachings for months, yet I see no progress. My temper still flares, my worries multiply like weeds, and yesterday I envied Senator Marcus his golden villa. How do I know if philosophy is changing me at all?"
+
+The old general smiled, drawing a line in the sand with his staff. "Tell me, young soldier — when you began sword training, how did you measure improvement?"
+
+"By my accuracy, my speed, my strength..."
+
+"External metrics, all dependent on your instructor's eye and your opponent's skill." Maxima drew another line. "But philosophy requires different measurements. When last did you lose sleep over things beyond your control?"
+
+Caius paused. "Not for weeks, actually."
+
+"And when criticized by Tribune Lucius last month?"
+
+"I... I listened instead of defending immediately."
+
+"These are your true victories. The Stoic warrior tracks not the battles won but the wisdom gained. You measure not the absence of anger but the space between provocation and response — that growing silence where virtue chooses your action." The general erased both lines. "External scoreboards crumble like these marks in sand. But the scoreboard within your soul is written in bronze."
+
+**Moral:** True progress in philosophy is measured not by external achievements but by internal transformations — the growing capacity to choose virtue over impulse, wisdom over reaction.
+
+*Tomorrow, Caius will question whether this inner focus makes a warrior passive in the world — a doubt Maxima will address with tales of philosopher-kings who changed history.*`,
+  },
 ];

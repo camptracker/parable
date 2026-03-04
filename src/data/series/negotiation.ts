@@ -369,4 +369,69 @@ Ren marveled as the transformation occurred. Khalil's face relaxed, his breathin
 
 *Tomorrow, young Ren will discover why the smallest word can carry the greatest weight...*`,
   },
+  {
+    day: 6,
+    title: "The Power of \"That's Right\"",
+    date: "2026-03-04",
+    image: "images/negotiation/day-6.jpg",
+    audio: "audio/negotiation/day-6",
+    sonnet: `**🪶 Sonnet VI: The Power of "That's Right"**
+
+When minds in conflict dance around their fears,
+And positions harden into walls of stone,
+The wise negotiator simply volunteers
+To mirror back the thoughts they call their own.
+
+"You worry profit margins might be thin,
+Your timeline's tight, your stakeholders demand—"
+Until the other nods and lets you in:
+"That's right, exactly!" — now they understand
+
+You see their world through eyes that truly know
+The weight they carry, burdens that they bear.
+From this foundation, partnership can grow,
+For trust blooms when we feel someone truly cares.
+
+*Not "You're right" which ends the conversation's flow,*
+*But "That's right" — where real solutions start to grow.*`,
+    standard: `🤝 Day 6: The Power of "That's Right"
+
+🧱 **The Concept**
+The two words "That's right" represent the holy grail of negotiation — when your counterpart says them, they've just agreed with your summary of their position so completely that they feel ownership of the solution.
+
+❓ **Why It Matters**
+Voss discovered that "That's right" is neurologically different from "You're right" — the latter is often dismissive agreement to end conversation, while the former indicates genuine breakthrough. When someone says "That's right," their brain releases oxytocin and dopamine, creating a sense of partnership and satisfaction. This moment transforms adversaries into collaborators because they feel you truly understand their world.
+
+⚙️ **How It Works**
+The path to "That's right" requires **summarizing their position** so accurately they feel you've read their mind. Use the formula: "So if I understand correctly..." then repeat back their concerns, motivations, and constraints in their own words. Add **emotional labels** from tactical empathy: "You're feeling pressure from your board, you need to show ROI within six months, and you're concerned this solution might not scale." When you nail it, watch their body language shift — they'll nod, relax, and often say those magic words. **Avoid leading them** to your conclusion; instead, help them arrive at it themselves. The difference between manipulation and influence is that influence helps people make better decisions for themselves.
+
+🎯 **Negotiation Wisdom**
+"That's right" isn't agreement with you — it's agreement with themselves, which makes all the difference in creating lasting deals.
+
+❓ **Tomorrow's Question**
+If saying "Yes" can actually be the most dangerous word in negotiation, trapping both parties in false agreement, what three types of "Yes" exist, and why does the wrong one destroy deals before they begin?`,
+    parable: `Vasska's single eye gleamed as he watched the silk merchant's shoulders tense. Three hours of haggling had yielded nothing but circular arguments about thread counts and shipping delays. Ren fidgeted beside his master, certain they'd lost another deal.
+
+"Friend," Vasska said suddenly, his voice dropping to that peculiar cadence that seemed to slow time itself. "Let me see if I truly understand your position."
+
+The merchant's jaw tightened, expecting another sales pitch.
+
+"You've built your reputation on delivering premium silk that arrives exactly when promised. Your customers don't just buy fabric — they buy certainty. You're worried that if you commit to our timeline and something goes wrong, you'll lose clients you've spent decades cultivating. The profit margin we're discussing is attractive, but not worth risking relationships that took a lifetime to build. You need a partner who understands that your word is your most valuable currency."
+
+The merchant's posture shifted. His arms uncrossed. "That's... that's right. Exactly right. My grandfather always said—" He paused, studying Vasska with new interest. "How did you know about my grandfather?"
+
+"I didn't," Vasska smiled. "But men who speak of their word as currency learned it somewhere sacred."
+
+The merchant nodded slowly. "What if we structured the deal with milestone payments? That way, if delays occur, you're only risking partial shipments..."
+
+Ren watched in wonder as the merchant began solving his own problem, crafting terms that moments before seemed impossible.
+
+Later, as they walked away with signed contracts, Ren asked, "How did you turn him from opponent to ally so quickly?"
+
+Vasska touched his blind eye. "The greatest magic isn't changing someone's mind, young one. It's helping them recognize what was already there. When a person hears their deepest concerns spoken with perfect clarity, something remarkable happens — they stop defending and start solving."
+
+**Moral:** True influence comes not from imposing your will, but from understanding theirs so completely that partnership becomes inevitable.
+
+**Tomorrow:** Ren will learn why the word "Yes" can be more dangerous than "No," and how master negotiators navigate the treacherous waters of false agreement.`,
+  },
 ];

@@ -414,4 +414,63 @@ Lila watched the mixed fire burn steady and bright. "So metabolic flexibility is
 
 Tomorrow, Maren would reveal why two people eating identical calories might experience entirely different hormonal responses...`,
   },
+  {
+    day: 7,
+    title: "The Hormonal Language of Food",
+    date: "2026-03-04",
+    image: "images/nutrition-science/day-7.jpg",
+    audio: "audio/nutrition-science/day-7",
+    sonnet: `**🪶 Sonnet VII: The Hormonal Language of Food**
+
+Each morsel speaks in tongues the body knows,
+A chemical symphony of sweet and sharp,
+As honey's song through insulin softly flows,
+While bitter herbs strike metabolism's harp.
+
+The protein whispers building, strong and true,
+Glucagon and insulin dance as one,
+While fats work quietly, their message through
+The slower tide of hormones, never done.
+
+Not calories alone, but signals sent
+From plate to cell in ancient coded speech,
+Each nutrient carries evolutionary intent,
+Instructing what our deepest hungers teach.
+
+*For food is conversation, not mere fuel,*
+*And bodies listen well to nature's rule.*`,
+    standard: `🍎 Day 7: The Hormonal Language of Food
+
+The deeper story behind how food talks to your hormones lies in **evolutionary signaling** — different foods don't just provide energy, they carry information that tells your body what metabolic state it should enter based on the type and timing of nutrients arriving. **Food acts as a hormone trigger** because specific macronutrients activate distinct hormonal cascades that prepare your body for different survival scenarios, from insulin's "store and grow" message from carbohydrates to glucagon's "access stored fuel" signal during protein-rich, low-carb meals.
+
+🧱 **The Concept**
+**Hormonal food signaling** means that different macronutrients trigger specific hormone releases that coordinate your body's metabolic response independent of calorie content.
+
+❓ **Why It Matters**
+Understanding food as hormonal information explains why 100 calories of sugar affects your body differently than 100 calories of protein — they literally send different chemical messages to your cells about energy storage, appetite, and metabolic priorities. This hormonal response determines whether nutrients get stored as fat, used for immediate energy, or directed toward muscle building and repair.
+
+⚙️ **How It Works**
+**Carbohydrates** trigger insulin release from your pancreas, which signals cells to open glucose channels, store excess energy as glycogen or fat, and suppress fat burning through the Randle cycle. **Protein** stimulates both insulin and glucagon simultaneously — insulin helps amino acids enter cells for muscle building while glucagon prevents blood sugar crashes by promoting glucose production from protein. **Fats** have minimal immediate hormonal impact but influence longer-term hormone production, as dietary fats provide building blocks for steroid hormones like testosterone and cortisol. **Fiber** and resistant starches feed gut bacteria that produce short-chain fatty acids, which then signal the release of satiety hormones like GLP-1 and PYY. The **timing** of these foods matters too — eating carbs post-workout enhances muscle uptake due to exercise-induced insulin sensitivity, while the same carbs eaten during sedentary periods more readily trigger fat storage.
+
+🎯 **Science Wisdom**
+Food is information first, energy second — your body reads the hormonal messages from nutrients and adjusts metabolism accordingly, making food choice as important as food quantity.
+
+❓ **Tomorrow's Question:**
+*If your gut bacteria can influence your cravings and mood through the compounds they produce, what does this mean for the idea that willpower alone controls your food choices?*`,
+    parable: `"But Master Maren," Lila said, watching steam rise from the healing broths at each hearth, "yesterday you spoke of the body's ability to burn different fuels. Yet I notice you prepare different remedies for different ailments — surely they all provide nourishment?"
+
+Maren ladled a rich bone broth from the first hearth, then a delicate herbal tea from the second. "Observe closely, child. This broth carries the message of strength and building — see how it calls to those recovering from illness, how their bodies respond with renewed vigor. But this tea..." She lifted the fragrant cup. "It whispers of calm and clarity, though it provides barely any substance at all."
+
+"Each preparation speaks a different language to the body," Maren continued, adding honey to one vessel and bitter herbs to another. "The honey sings of abundance and quick energy — the body hears this song and prepares for activity, opening its stores wide. The bitter herbs tell tales of scarcity and cleansing — the body listens and begins to burn what it has saved."
+
+Lila touched her own stomach thoughtfully. "So the food... it's like sending messages?"
+
+"Precisely. Your body reads every morsel as a letter from the world, telling it whether winter approaches or spring has arrived, whether to prepare for work or rest, whether to build or to cleanse. Two remedies of equal substance may carry entirely different instructions."
+
+The old healer stirred each pot in turn. "The wise understand that nourishment is conversation, not mere filling of an empty vessel."
+
+**Moral:** Food speaks in hormones, and the body listens with its metabolism.
+
+**Tomorrow, Lila will discover how the smallest inhabitants of her body hold surprising power over her deepest desires.**`,
+  },
 ];

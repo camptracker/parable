@@ -400,4 +400,63 @@ As Dara studied the numbers, she saw how the moneylender's interest was paid by 
 
 *Tomorrow, Hallam would teach her the art of measuring which properties deserved such borrowed gold — and which would squander it...*`,
   },
+  {
+    day: 7,
+    title: "Property Analysis & Due Diligence",
+    date: "2026-03-04",
+    image: "images/real-estate/day-7.jpg",
+    audio: "audio/real-estate/day-7",
+    sonnet: `**🪶 Sonnet VII: Property Analysis & Due Diligence**
+
+As carpenter must measure wood with care,
+Before the saw blade makes its final mark,
+So must the investor's eye seek to declare
+What lies beneath each property's bright spark.
+
+The gleaming paint may hide a failing roof,
+The soaring rents mask neighborhoods in decline,
+While modest homes with numbers offering proof
+Reward the patient seeker line by line.
+
+Study the bones, the market, and the flow
+Of cash that turns from promise into gold,
+For hasty choices breed financial woe,
+While measured wisdom makes the cautious bold.
+
+*In property as timber, truth runs deep—*
+*The wise measure thrice before they leap.*`,
+    standard: `🏠 Day 7: Property Analysis & Due Diligence
+
+**🧱 The Concept**
+Due diligence is the systematic evaluation process that transforms property hunting from gambling into calculated investment decisions through financial analysis, market research, and risk assessment.
+
+**❓ Why It Matters**
+Thorough **property analysis** prevents costly mistakes that can wipe out years of returns in a single bad purchase. Professional investors use standardized metrics like the **1% rule** (monthly rent should equal 1% of purchase price), **cap rates** (net operating income divided by property value), and **cash flow projections** to quickly filter opportunities. Without proper due diligence, even experienced investors fall victim to hidden repair costs, declining neighborhoods, or properties that look profitable on paper but drain cash monthly.
+
+**⚙️ How It Works**
+Start with **market analysis** — study comparable sales, rental rates, vacancy rates, and neighborhood trends using MLS data, rental websites, and local property managers. Calculate **net operating income** by subtracting all expenses (taxes, insurance, maintenance, vacancy allowance, property management) from gross rental income, then divide by purchase price for the **capitalization rate**. Inspect thoroughly for structural issues, deferred maintenance, and major system replacements (roof, HVAC, plumbing) that could cost $10,000-$50,000. Verify rental income potential through actual market rents, not seller projections — a $200,000 property renting for $1,800 monthly meets the 1% rule, while one renting for $1,200 falls short. Always factor in **holding costs** during renovations and initial vacancy periods, plus a 10-15% contingency for unexpected repairs.
+
+**🎯 Real Estate Wisdom**
+Measure twice, buy once — every hour spent analyzing properties saves months of regret and thousands in losses.
+
+**❓ Tomorrow's Question:**
+*Once you've identified a profitable property through analysis, how do you structure the purchase to maximize your returns while minimizing risk? What negotiation strategies and financing options can turn a good deal into a great one?*`,
+    parable: `Dara had watched her father measure timber countless times — twice, sometimes thrice before making the first cut. "Why such care for a simple plank?" she once asked. "Because, daughter," he replied, "one wrong cut wastes the entire board."
+
+Now, standing before Hallam's ledger-covered desk, she understood. The old landlord spread three property listings before her like her father might lay out planks. "Tell me, carpenter's daughter, which deserves our borrowed gold?"
+
+The first gleamed with fresh paint and boasted high rents. "This one looks finest," Dara began, but Hallam's weathered finger tapped the numbers. "Look deeper. The roof is twenty years old, the furnace older still. Subtract replacement costs — $15,000 — and your profit vanishes like morning mist."
+
+The second property sat in a declining quarter where three shops had recently shuttered. "The price seems fair," Dara offered. "Fair as fool's gold," Hallam chuckled. "Study the neighborhood as you would study wood grain. See how it splits? This area bleeds tenants faster than we can find them."
+
+The third appeared modest, almost shabby, in a working district where children played in swept streets. Hallam's eyes brightened as his quill scratched calculations. "Monthly rent equals one percent of purchase price — good. Operating expenses total forty percent — acceptable. The bones are sound, the location stable." He set down his quill. "This one rewards the patient investor."
+
+"But it looks so plain," Dara protested.
+
+"Child, pretty flowers often hide shallow roots, while oak trees grow strong in simple soil. Your father's finest furniture comes from unremarkable logs he studied carefully before cutting."
+
+**Moral:** *The wise investor, like the skilled carpenter, measures thrice before committing — for in property as in woodwork, one hasty decision can waste years of careful saving.*
+
+*Tomorrow, discover how Hallam transforms this careful analysis into a masterful purchase negotiation...*`,
+  },
 ];

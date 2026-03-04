@@ -724,4 +724,67 @@ Sable smiled knowingly. "Even master farmers fail more often than they succeed a
 
 *Tomorrow, Sable will reveal why the human heart rebels against such simple wisdom...*`,
   },
+  {
+    day: 10,
+    title: "The Psychology of Overcomplicating Wealth",
+    date: "2026-03-04",
+    image: "images/financial-independence/day-10.jpg",
+    audio: "audio/financial-independence/day-10",
+    sonnet: `**🪶 Sonnet X: The Psychology of Overcomplicating Wealth**
+
+When simple paths to riches lay in sight,
+Why do we seek the maze of complex schemes?
+Our minds, deceived by glittering insight,
+Prefer elaborate over modest dreams.
+
+The merchant sells what sparkles and confounds,
+While wisdom wears the garb of common clay.
+Though plain truth builds the most enduring grounds,
+We chase the bright illusions that betray.
+
+The wealthy know what fools refuse to see:
+That boring funds outshine the exotic trade.
+Yet pride demands grand complexity,
+So fortunes in false sophistication fade.
+
+*For those who master simple, patient art*
+*Find riches flow to the untroubled heart.*`,
+    standard: `💰 Day 10: The Psychology of Overcomplicating Wealth
+
+Psychological traps like **status anxiety** and **complexity bias** make simple solutions feel insufficient because our brains equate difficulty with value. We assume that expensive financial advisors, exotic investments, and complex strategies must be superior to "boring" index funds, even when evidence proves otherwise. This mental bias costs investors billions annually.
+
+🧱 **The Concept**
+**Complexity bias** is our tendency to believe that complicated solutions are better than simple ones, especially when money is involved.
+
+❓ **Why It Matters**
+The financial industry profits enormously from this bias, selling expensive products that underperform simple index funds. Investors pay higher fees for hedge funds, structured products, and active management that typically deliver worse results. Meanwhile, the wealthy quietly use boring, low-cost strategies while marketing complexity to everyone else.
+
+⚙️ **How It Works**
+A financial advisor selling a "sophisticated portfolio" of international bonds, emerging market funds, commodities, and alternative investments sounds impressive — but studies show these complex portfolios rarely outperform a simple three-fund portfolio (total stock market, international stocks, bonds). The complexity creates an illusion of expertise while generating higher fees. **Analysis paralysis** also keeps people from starting — they research endlessly instead of investing in simple index funds. The most successful investors often have the most boring portfolios: they buy index funds regularly and ignore market noise.
+
+🎯 **Buffett Wisdom**
+"There seems to be some perverse human characteristic that likes to make easy things difficult."
+
+❓ **Tomorrow's Question**
+*If wealthy people use simple strategies while selling complexity to others, how can you distinguish between genuine financial education and profitable confusion?*`,
+    parable: `Kael found Sable studying a collection of intricate mechanical devices in the village workshop, each more elaborate than the last. Gears turned within gears, springs coiled through chambers, and brass fittings gleamed in the lamplight.
+
+"These contraptions promise to predict the rain," Sable explained, gesturing to the complex instruments. "The merchant who sold them insisted that simple weather wisdom — watching clouds, feeling wind, observing animals — was too primitive for a progressive village."
+
+"Do they work better than the old ways?" Kael asked, mesmerized by their spinning complexity.
+
+"Not remotely." Sable picked up a smooth river stone. "This simple stone, when placed outside, tells me more about coming weather than all these mechanisms combined. Wet means rain, warm means sun, cool means change approaching. But the merchant convinced half the village that complexity equals superiority."
+
+Tobren emerged from behind a workbench, oil staining his hands. "I spent my entire harvest payment on that brass contraption with seventeen dials. It predicted drought during our wettest season. Meanwhile, my grandfather's simple rule — 'red sky at night, sailor's delight' — hasn't failed in forty years."
+
+"Why do we fall for such deceptions?" Kael wondered.
+
+"Because simple truths wound our pride," Sable replied. "We want to believe that wealth requires secret knowledge, that success demands sophisticated tools. The merchants exploit this vanity, selling us complicated solutions to simple problems."
+
+The elder opened a worn ledger. "The wealthiest farmers in neighboring valleys use the most basic methods — good seed, rich soil, careful timing. Yet they market 'advanced agricultural systems' to ambitious newcomers who pay dearly for inferior results."
+
+**Moral:** Complexity often masks incompetence, while simplicity reveals mastery. The wise distinguish between genuine sophistication and profitable confusion.
+
+Tomorrow, Kael will learn how to separate true wisdom from clever marketing...`,
+  },
 ];
