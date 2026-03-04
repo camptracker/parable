@@ -142,7 +142,7 @@ body {
 .lesson-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 1rem;
+  gap: 0;
 }
 .lesson-card {
   position: relative;
@@ -150,13 +150,12 @@ body {
   align-items: flex-end;
   aspect-ratio: 1;
   overflow: hidden;
-  border-radius: 12px;
   text-decoration: none;
   color: #fff;
   background: var(--surface);
-  transition: transform 0.2s, box-shadow 0.2s;
+  transition: opacity 0.2s;
 }
-.lesson-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.3); }
+.lesson-card:hover { opacity: 0.9; }
 .lesson-card-img {
   position: absolute;
   inset: 0;
@@ -188,114 +187,6 @@ body {
   line-height: 1.2;
 }
 .lesson-card .lesson-date { display: none; }
-
-/* Series page — full viewport carousel */
-.series-page {
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  height: 100dvh;
-  overflow: hidden;
-  background: var(--bg);
-}
-.series-topbar {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  padding: 0.75rem 1rem;
-  border-bottom: 1px solid var(--border);
-  flex-shrink: 0;
-}
-.series-back {
-  color: var(--gold);
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 0.85rem;
-}
-.series-counter {
-  color: var(--text-muted);
-  font-size: 0.8rem;
-  font-weight: 600;
-  margin-left: auto;
-}
-.series-name {
-  color: var(--text);
-  font-size: 0.85rem;
-  font-weight: 500;
-}
-.carousel {
-  flex: 1;
-  display: flex;
-  overflow-x: auto;
-  overflow-y: hidden;
-  scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
-}
-.carousel::-webkit-scrollbar { display: none; }
-.carousel-slide {
-  flex: 0 0 100%;
-  position: relative;
-  cursor: pointer;
-  scroll-snap-align: start;
-}
-.carousel-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-}
-.carousel-overlay {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-  padding: 3rem 1.25rem 1.25rem;
-  background: linear-gradient(transparent, rgba(0,0,0,0.8));
-}
-.carousel-day {
-  color: var(--gold);
-  font-weight: 600;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-.carousel-title {
-  color: #fff;
-  font-weight: 700;
-  font-size: 1.2rem;
-  line-height: 1.25;
-}
-.series-bottom {
-  display: flex;
-  gap: 0.75rem;
-  padding: 0.75rem 1rem;
-  border-top: 1px solid var(--border);
-  flex-shrink: 0;
-}
-.series-btn {
-  flex: 1;
-  padding: 0.6rem;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  background: var(--surface);
-  color: var(--text);
-  font-size: 0.85rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-.series-btn:hover { border-color: var(--gold-dim); }
-.series-btn:disabled { opacity: 0.3; cursor: default; }
-.series-btn.primary {
-  background: var(--gold);
-  color: #000;
-  border-color: var(--gold);
-}
-.series-btn.primary:hover { opacity: 0.9; }
 
 /* Lesson hero image */
 .lesson-hero {
