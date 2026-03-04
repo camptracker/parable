@@ -139,33 +139,65 @@ body {
 .series-card-latest { font-style: italic; }
 
 /* Lesson list */
-.lesson-list { display: flex; flex-direction: column; gap: 0.75rem; }
-.lesson-card {
-  display: flex; align-items: center; gap: 1rem;
-  background: var(--surface); border: 1px solid var(--border);
-  border-radius: 8px; padding: 1rem 1.25rem;
-  text-decoration: none; color: var(--text);
-  transition: border-color 0.2s, background 0.2s;
-  flex-wrap: wrap;
+.lesson-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
 }
-.lesson-card:hover { border-color: var(--gold-dim); background: var(--surface-hover); }
-.lesson-card .lesson-day { color: var(--gold); font-weight: 600; min-width: 3.5rem; font-size: 0.85rem; }
-.lesson-card .lesson-title { flex: 1; font-weight: 500; }
-.lesson-card .lesson-date { color: var(--text-muted); font-size: 0.8rem; }
-
-/* Lesson card image */
+.lesson-card {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  aspect-ratio: 1;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  color: #fff;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.lesson-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+}
 .lesson-card-img {
-  width: calc(100% + 2.5rem);
-  height: 140px;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
-  border-radius: 6px 6px 0 0;
-  margin: -1rem -1.25rem 0.75rem;
+  object-position: center;
 }
 .lesson-card-text {
-  display: flex; flex-wrap: wrap; align-items: center;
-  gap: 0.25rem 1rem; width: 100%;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  margin-bottom: 0.75rem;
+  text-align: center;
+  max-width: 90%;
 }
-.lesson-card-text .lesson-date { width: 100%; }
+.lesson-card .lesson-day {
+  color: var(--gold);
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.lesson-card .lesson-title {
+  font-weight: 500;
+  font-size: 0.85rem;
+  line-height: 1.2;
+}
+.lesson-card .lesson-date { display: none; }
 
 /* Lesson hero image */
 .lesson-hero {
