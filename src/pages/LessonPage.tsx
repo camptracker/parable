@@ -1,8 +1,7 @@
 import { useParams, Link, Navigate } from 'react-router-dom';
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { getSeriesById, series, getLatestDay } from '../data/lessons';
-import KaraokeText from '../components/KaraokeText';
 
 export default function LessonPage() {
   const { seriesId, day } = useParams();
@@ -10,19 +9,8 @@ export default function LessonPage() {
   const dayNum = Number(day);
   const lesson = s?.lessons.find((l) => l.day === dayNum);
   const [mode, setMode] = useState<'parable' | 'standard'>('parable');
-  const [isPlaying, setIsPlaying] = useState(false);
-  const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => { window.scrollTo(0, 0); }, [seriesId, day]);
-
-  // Stop audio when switching tabs
-  useEffect(() => {
-    if (audioRef.current) {
-      audioRef.current.pause();
-      audioRef.current.currentTime = 0;
-      setIsPlaying(false);
-    }
-  }, [mode]);
 
   if (!s) return <Navigate to="/" replace />;
   if (!lesson) {
@@ -36,9 +24,6 @@ export default function LessonPage() {
 
   const prev = s.lessons.find((l) => l.day === dayNum - 1);
   const next = s.lessons.find((l) => l.day === dayNum + 1);
-  const audioBase = lesson.audio ? `${import.meta.env.BASE_URL}${lesson.audio}` : null;
-  const audioSrc = audioBase ? `${audioBase}-${mode}.mp3` : null;
-  const timestampsUrl = audioBase ? `${audioBase}-${mode}.json` : null;
   const contentText = mode === 'parable' ? lesson.parable : lesson.standard;
 
   return (
@@ -65,42 +50,10 @@ export default function LessonPage() {
       <div className="toggle-container">
         <button className={`toggle-btn ${mode === 'parable' ? 'active' : ''}`} onClick={() => setMode('parable')}>🏰 Parable</button>
         <button className={`toggle-btn ${mode === 'standard' ? 'active' : ''}`} onClick={() => setMode('standard')}>📖 Standard</button>
-        {audioSrc && (
-          <>
-            <button className={`audio-btn${isPlaying ? ' playing' : ''}`} onClick={() => {
-              const audio = audioRef.current;
-              if (!audio) return;
-              if (audio.paused) {
-                audio.play();
-                setIsPlaying(true);
-              } else {
-                audio.pause();
-                setIsPlaying(false);
-              }
-            }}>
-              {isPlaying ? '⏸️ Pause' : '🎧 Listen'}
-            </button>
-            <audio
-              ref={audioRef}
-              key={audioSrc}
-              src={audioSrc}
-              onEnded={() => setIsPlaying(false)}
-            />
-          </>
-        )}
       </div>
 
       <article className={`lesson-content ${mode}`} key={mode}>
-        {isPlaying && timestampsUrl ? (
-          <KaraokeText
-            text={contentText}
-            audioRef={audioRef}
-            isPlaying={isPlaying}
-            timestampsUrl={timestampsUrl}
-          />
-        ) : (
-          <ReactMarkdown>{contentText}</ReactMarkdown>
-        )}
+        <ReactMarkdown>{contentText}</ReactMarkdown>
       </article>
 
       <nav className="bottom-nav">
