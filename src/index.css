@@ -145,35 +145,29 @@ body {
   gap: 1rem;
 }
 .lesson-card {
-  position: relative;
   display: flex;
-  align-items: flex-end;
-  aspect-ratio: 1;
+  flex-direction: column;
   border-radius: 12px;
   overflow: hidden;
   text-decoration: none;
-  color: #fff;
+  color: var(--text);
   background: var(--surface);
-  transition: opacity 0.2s;
+  border: 1px solid var(--border);
+  transition: transform 0.2s, box-shadow 0.2s;
 }
-.lesson-card:hover { opacity: 0.9; }
+.lesson-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.2); }
 .lesson-card-img {
-  position: absolute;
-  inset: 0;
   width: 100%;
-  height: 100%;
+  aspect-ratio: 1;
   object-fit: cover;
   object-position: center;
+  display: block;
 }
 .lesson-card-text {
-  position: relative;
-  z-index: 1;
   display: flex;
   flex-direction: column;
-  gap: 0.1rem;
-  width: 100%;
-  padding: 2rem 0.75rem 0.6rem;
-  background: linear-gradient(transparent, rgba(0,0,0,0.75));
+  gap: 0.15rem;
+  padding: 0.5rem 0.75rem 0.6rem;
 }
 .lesson-card .lesson-day {
   color: var(--gold);
