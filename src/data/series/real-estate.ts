@@ -361,4 +361,43 @@ Dara watched a lone merchant securing his shutters. "So when do you buy?"
 
 **Tomorrow:** Dara will discover how the wealthy use other people's gold to multiply their own purchasing power.`,
   },
+  {
+    day: 6,
+    title: "Leverage & Other People's Money",
+    date: "2026-03-04",
+    image: "images/real-estate/day-6.jpg",
+    audio: "audio/real-estate/day-6",
+    sonnet: ``,
+    standard: `🏠 Day 6: Leverage & Other People's Money
+
+**🧱 The Concept**
+Leverage allows you to control valuable real estate assets with a fraction of your own capital by borrowing against the property's value, amplifying both potential returns and risks.
+
+**❓ Why It Matters**
+Using **other people's money** (OPM) through mortgages lets you acquire multiple properties instead of one, multiplying your wealth-building capacity exponentially. A 20% down payment controls 100% of a property's appreciation and cash flow, creating returns of 15-25% annually on invested capital versus 3-5% if buying cash. Smart leverage transforms modest savings into substantial portfolios — $100,000 can control $500,000 in real estate rather than just one $100,000 property.
+
+**⚙️ How It Works**
+Mortgage leverage typically requires 20-25% down on investment properties, with the bank financing 75-80% based on the property's income potential and your creditworthiness. **Cash-on-cash returns** measure your annual cash flow against actual invested capital — if a $200,000 duplex generates $2,400 yearly profit after a $40,000 down payment, that's a 6% cash-on-cash return. Factor in **appreciation** and **principal paydown** from tenant payments, and total returns often exceed 20% annually. Conservative leverage ratios (70-80% loan-to-value) provide safety margins during market downturns, while aggressive leverage (90-95%) amplifies gains but increases foreclosure risk. For example, five leveraged properties appreciating 5% annually on $1 million total value generates $50,000 in equity growth, compared to $5,000 on one $100,000 cash purchase.
+
+**🎯 Real Estate Wisdom**
+Leverage is a double-edged sword that makes the wealthy wealthier and the careless broke — respect its power by maintaining adequate cash reserves and conservative debt ratios.
+
+**❓ Tomorrow's Question:**
+*If leverage amplifies your buying power, how do you systematically evaluate which properties deserve that borrowed capital? What metrics separate profitable investments from costly mistakes?*`,
+    parable: `Dara stood before Hallam's oak desk, her carpenter's hands steady despite the magnitude of her request. "I want to buy the Miller's cottage," she declared. "But I only have saved one-fifth of its price."
+
+Hallam's weathered eyes twinkled with approval. "Ah, young builder, you're learning the ancient art of **leverage** — using other people's coin to multiply your own power." He gestured toward the village beyond his window. "See those five houses I bought this decade? I used my own gold for but one, borrowing against each to buy the next."
+
+He drew circles on parchment, each representing a property. "Your hundred silver pieces can purchase one cottage outright, earning you perhaps five pieces yearly. Or..." His quill traced connecting lines between the circles. "That same hundred can secure five cottages through the moneylender's craft, controlling five times the rent, five times the appreciation."
+
+"But the risk?" Dara asked, remembering tales of merchants who borrowed beyond their means.
+
+Hallam nodded gravely. "**Other people's money** is like fire — wield it wisely and it warms your hearth for generations. Abuse it, and it burns down everything you've built." He showed her his ledgers, where conservative ratios and careful calculations marked each investment. "I never borrow more than four-fifths of any property's worth, and I keep enough coin set aside to weather any storm."
+
+As Dara studied the numbers, she saw how the moneylender's interest was paid by her tenants, while she captured all the property's growth. The magic of leverage began to unfold — her small stake commanding vast resources, multiplying her wealth like seed grain planted in fertile soil.
+
+**Moral:** *Leverage transforms modest capital into empire-building power, but only for those who respect its double-edged nature.*
+
+*Tomorrow, Hallam would teach her the art of measuring which properties deserved such borrowed gold — and which would squander it...*`,
+  },
 ];

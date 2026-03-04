@@ -683,4 +683,45 @@ As they watched, storm clouds gathered suddenly overhead. Tobren scrambled to co
 
 Tomorrow, Kael would learn what seeds of investment deserve such faithful tending...`,
   },
+  {
+    day: 9,
+    title: "Index Funds vs. Stock Picking",
+    date: "2026-03-04",
+    image: "images/financial-independence/day-9.jpg",
+    audio: "audio/financial-independence/day-9",
+    sonnet: ``,
+    standard: `💰 Day 9: Index Funds vs. Stock Picking
+
+For most investors, **index funds** offer a simpler, more effective approach than picking individual stocks. While stock picking can work for dedicated investors willing to spend hundreds of hours researching companies, index funds provide instant diversification across hundreds or thousands of stocks with minimal effort and fees.
+
+🧱 **The Concept**
+**Index funds** own every stock in a market index (like the S&P 500), while **stock picking** involves selecting individual companies you believe will outperform.
+
+❓ **Why It Matters**
+Over 90% of professional fund managers fail to beat index funds over 15-year periods, despite having teams of analysts and insider access. Individual stock pickers face even worse odds — studies show most people's stock picks underperform the market by 2-7% annually. The **diversification** of index funds protects you from company-specific disasters while capturing overall market growth.
+
+⚙️ **How It Works**
+An S&P 500 index fund automatically owns shares in Apple, Microsoft, Amazon, and 497 other top companies in proportion to their market value. If you invest $1,000, you instantly own tiny pieces of America's best businesses without researching financial statements or worrying about individual company risks. When one stock crashes, others balance it out. **Total stock market index funds** go even further, owning virtually every publicly traded company. The annual fees (expense ratios) run as low as 0.03%, meaning you keep 99.97% of your returns instead of paying high management fees.
+
+🎯 **Buffett Wisdom**
+"A low-cost index fund is the most sensible equity investment for the great majority of investors" — even the Oracle of Omaha recommends this approach for most people.
+
+❓ **Tomorrow's Question**
+*If index funds are so effective, why do people still chase complex investment strategies and exotic financial products — what psychological traps make simple solutions feel insufficient?*`,
+    parable: `As dawn broke over the marketplace, Kael found Sable examining two merchant stalls. "Elder," Kael said, "yesterday you spoke of steady investing. But how do I choose what seeds to plant — should I pick individual crops or follow some simpler path?"
+
+Sable gestured toward the first stall, where a merchant displayed exotic seeds from distant lands. "This merchant, like many stock pickers, promises riches from rare varieties. He claims to know which seeds will yield the greatest harvest." The merchant's prices were steep, and he spoke in riddles about weather patterns and soil mysteries.
+
+At the second stall, an elderly woman sold simple packets labeled "Village Garden Mix" — seeds from every successful crop grown in their region for generations. "This wise woman," Sable explained, "offers what we call an index of prosperity. Instead of betting on one miraculous plant, you sow seeds from all the village's proven crops."
+
+Tobren approached, his weathered hands holding both types of seeds. "Young Kael, I once spent years trying to predict which single crop would bring fortune. I studied moon phases, consulted weather-seers, and lost many harvests to my clever guessing. Now I plant the village mix — when drought kills my wheat, my beans still flourish. When frost damages my vegetables, my grains survive. I work less and harvest more."
+
+"But surely," Kael protested, "a skilled farmer can choose the best crops?"
+
+Sable smiled knowingly. "Even master farmers fail more often than they succeed at predicting which single plant will thrive. The village mix ensures you capture the growth of all successful crops without needing to be right about any particular one."
+
+**Moral:** *Diversification through simplicity often outperforms complexity through speculation.*
+
+*Tomorrow, Sable will reveal why the human heart rebels against such simple wisdom...*`,
+  },
 ];

@@ -398,4 +398,61 @@ Caius looked at his calloused hands, remembering months of blisters that had har
 
 **Tomorrow:** But what happens when virtue seems to bring only hardship while vice appears rewarded?`,
   },
+  {
+    day: 6,
+    title: "The Long View of Virtue",
+    date: "2026-03-04",
+    image: "images/stoic-philosophy/day-6.jpg",
+    audio: "audio/stoic-philosophy/day-6",
+    sonnet: ``,
+    standard: `🏛️ Day 6: The Long View of Virtue
+
+**🧱 The Concept**
+Stoic virtue operates on cosmic time — its rewards unfold across decades and generations, not quarters and news cycles, requiring us to align with nature's patient rhythms rather than society's frantic pace.
+
+**❓ Why It Matters**
+Yesterday's question strikes at every aspiring Stoic's deepest doubt: why choose virtue when vice seems rewarded? Seneca was Rome's richest man yet chose philosophical restraint; Marcus Aurelius could have lived in luxury but wrote his *Meditations* in a frontier tent. They understood something modern culture obscures: virtue's rewards operate on a different timeline than immediate gratification. While the corrupt politician may prosper for years, virtue builds something indestructible — inner peace, genuine relationships, and a legacy that outlasts empires. The question isn't whether virtue pays, but whether we're wise enough to invest in compound interest for the soul.
+
+**⚙️ How It Works**
+Nature teaches patience through seasons, mountains, and mighty oaks that grow imperceptibly yet endure centuries. Stoics align with this natural rhythm by focusing on **process over outcomes**. When you choose honesty and lose a promotion, you've strengthened integrity's foundation. When you show compassion to difficult people, you've expanded your capacity for love. Each virtuous act deposits into an account that pays dividends in unshakeable character, deep relationships, and the ability to sleep peacefully regardless of external circumstances. Epictetus, though a slave, possessed greater freedom than his masters because his virtue made him internally unassailable. The corrupt may win battles, but virtue wins wars — especially the only war that truly matters: the one within yourself.
+
+**🎯 Stoic Wisdom**
+As Seneca wrote: "Time will bring to light what is hidden in darkness and bury in eternal oblivion what is now held in high regard."
+
+**❓ Tomorrow's Question:**
+*If virtue's rewards are internal and long-term, how do we practically measure our philosophical progress when external circumstances remain chaotic? What are the true metrics of a Stoic life?*`,
+    parable: `The morning sun found Caius pacing the garrison courtyard, his jaw tight with frustration. Three nights prior, he'd refused to participate in his century's scheme to skim supplies from local villages — a "tradition" that lined soldiers' purses while impoverishing peasants. Yesterday, his honest report had cost him promotion to optio, the rank going instead to Marcus, the scheme's architect.
+
+"You look like a man who's discovered virtue doesn't pay dividends," came Maxima's weathered voice from the shadows.
+
+Caius spun around. "Forgive me, General. I was just—"
+
+"Questioning why the gods reward vice while virtue earns mockery?" Maxima stepped into the light, his scarred face knowing. "I wore that same expression forty years ago, after choosing honor over advancement in Germania."
+
+"Then you understand," Caius said bitterly. "Marcus grows rich while I remain a common soldier. Where's the justice in that?"
+
+Maxima picked up a fallen acorn, turning it slowly in his palm. "Tell me, young Stoic — how long does it take this acorn to become an oak?"
+
+"Decades, General."
+
+"And how long for a mushroom to sprout after rain?"
+
+"Days."
+
+"Which endures the next storm?" Maxima's eyes held depths of understanding. "Marcus builds his fortune like mushrooms — quick, flashy, shallow-rooted. You build character like oak trees. His wealth may tower now, but when life's true tempests come — and they always come — which foundation will hold?"
+
+Caius considered this as Maxima continued. "I've watched countless 'successful' men crumble when faced with genuine adversity. They built on sand — popular opinion, material wealth, others' approval. But I've also seen simple soldiers, mocked for their integrity, stand unshakeable when empires fell around them."
+
+"But the waiting, General. The doubt when virtue seems foolish..."
+
+"Ah," Maxima smiled, "there's the secret. Virtue doesn't ask you to wait for external rewards — it rewards you immediately with something no Marcus can touch: the ability to respect the man in the mirror. Peace that doesn't depend on others' approval. Strength that grows with each honest choice."
+
+He placed the acorn in Caius's palm. "Plant this today, and in forty years, your grandchildren will shelter beneath its branches. Choose virtue today, and forty years hence, men will speak your name with reverence while Marcus lies forgotten. More importantly — tonight you'll sleep with clear conscience while he schemes in shadows."
+
+As Maxima walked away, he called back: "The patient farmer plants seeds in spring, trusting harvest will come. The wise philosopher plants virtue daily, trusting time will vindicate truth."
+
+**Moral:** *Virtue operates on nature's timeline — slow, steady, and ultimately unshakeable. While vice may flourish like mushrooms after rain, character grows like mighty oaks, enduring long after the storms have passed.*
+
+*Tomorrow, Caius will discover how to measure progress on the philosophical path — for even oak trees show signs of growth to those who know where to look.*`,
+  },
 ];

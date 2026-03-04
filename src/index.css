@@ -228,6 +228,22 @@ body {
   padding-top: 1.5rem; border-top: 1px solid var(--border);
 }
 
+.series-nav {
+  display: flex; justify-content: space-between; margin-top: 1.5rem;
+  padding: 1.25rem 0; border-top: 1px solid var(--border);
+  gap: 1rem;
+}
+.series-nav-link {
+  display: flex; flex-direction: column; gap: 0.2rem;
+  padding: 0.75rem 1rem; border-radius: 8px;
+  background: var(--surface); border: 1px solid var(--border);
+  text-decoration: none; transition: all 0.2s; max-width: 48%;
+}
+.series-nav-link:hover { border-color: var(--gold-dim); background: var(--card-bg); }
+.series-nav-link.next { text-align: right; margin-left: auto; }
+.series-nav-label { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+.series-nav-name { font-family: var(--serif); font-size: 1rem; color: var(--gold); font-weight: 600; }
+
 /* Theme toggle */
 .theme-toggle {
   position: fixed; top: 1rem; right: 1rem; z-index: 90;

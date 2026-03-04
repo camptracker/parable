@@ -42,7 +42,7 @@ async function main() {
     lesson.image = `images/${seriesId}/day-${lesson.day}.jpg`;
   }
   if (!lesson.audio) {
-    lesson.audio = `audio/${seriesId}/day-${lesson.day}.mp3`;
+    lesson.audio = `audio/${seriesId}/day-${lesson.day}`;
   }
   let content = readFileSync(filePath, 'utf-8');
 
@@ -53,7 +53,7 @@ async function main() {
     date: ${JSON.stringify(lesson.date)},
     image: ${JSON.stringify(lesson.image)},
     audio: ${JSON.stringify(lesson.audio)},
-    sonnet: \`${escapeBackticks(lesson.sonnet)}\`,
+    sonnet: \`${escapeBackticks(lesson.sonnet || '')}\`,
     standard: \`${escapeBackticks(lesson.standard)}\`,
     parable: \`${escapeBackticks(lesson.parable)}\`,
   },`;

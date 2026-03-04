@@ -1,7 +1,7 @@
 import { useParams, Link, Navigate } from 'react-router-dom';
 import { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
-import { getSeriesById } from '../data/lessons';
+import { getSeriesById, series, getLatestDay } from '../data/lessons';
 import KaraokeText from '../components/KaraokeText';
 
 export default function LessonPage() {
@@ -107,6 +107,30 @@ export default function LessonPage() {
         {prev ? <Link to={`/${s.id}/lesson/${prev.day}`} className="nav-link">← Day {prev.day}</Link> : <span />}
         {next ? <Link to={`/${s.id}/lesson/${next.day}`} className="nav-link">Day {next.day} →</Link> : <span />}
       </nav>
+
+      {(() => {
+        const idx = series.findIndex(x => x.id === s.id);
+        const prevSeries = idx > 0 ? series[idx - 1] : null;
+        const nextSeries = idx < series.length - 1 ? series[idx + 1] : null;
+        const prevLatest = prevSeries ? getLatestDay(prevSeries.id) : 0;
+        const nextLatest = nextSeries ? getLatestDay(nextSeries.id) : 0;
+        return (
+          <nav className="series-nav">
+            {prevSeries && prevLatest > 0 ? (
+              <Link to={`/${prevSeries.id}/lesson/${prevLatest}`} className="series-nav-link prev">
+                <span className="series-nav-label">Previous Series</span>
+                <span className="series-nav-name">{prevSeries.name}</span>
+              </Link>
+            ) : <span />}
+            {nextSeries && nextLatest > 0 ? (
+              <Link to={`/${nextSeries.id}/lesson/${nextLatest}`} className="series-nav-link next">
+                <span className="series-nav-label">Next Series</span>
+                <span className="series-nav-name">{nextSeries.name}</span>
+              </Link>
+            ) : <span />}
+          </nav>
+        );
+      })()}
     </div>
   );
 }
