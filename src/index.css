@@ -142,13 +142,14 @@ body {
 .lesson-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 0;
+  gap: 1rem;
 }
 .lesson-card {
   position: relative;
   display: flex;
   align-items: flex-end;
   aspect-ratio: 1;
+  border-radius: 12px;
   overflow: hidden;
   text-decoration: none;
   color: #fff;
