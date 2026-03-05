@@ -87,38 +87,43 @@ async function main() {
   const deliveryMap: Record<string, DeliveryLesson[]> = {};
   const generationQueue: Array<{ seriesId: string; seriesName: string; seriesEmoji: string; newDay: number; recipientsAtLatest: string[] }> = [];
 
-  // ── Phase 1: Collect work (read-only) ──
+  // ── Phase 1: Collect work ──
   console.error('Phase 1: Collecting work...');
   for (const series of config.series) {
     const { seriesId, seriesName, seriesEmoji } = series;
-    const seriesProgress = progress[seriesId];
-    if (!seriesProgress) {
-      console.error(`  No progress entry for ${seriesId}, skipping`);
-      continue;
+
+    // Find the actual latest day from the series data file (not progress)
+    let latestDay = 0;
+    try {
+      const latestJson = run(`./node_modules/.bin/tsx scripts/get-latest.ts ${seriesId}`);
+      const latest = JSON.parse(latestJson);
+      latestDay = latest.latestDay || 0;
+    } catch { /* new series with no lessons yet */ }
+
+    // Always queue generation for next lesson
+    generationQueue.push({ seriesId, seriesName, seriesEmoji, newDay: latestDay + 1, recipientsAtLatest: [] });
+
+    // Ensure progress entry exists
+    if (!progress[seriesId]) {
+      progress[seriesId] = { latestDay, recipients: {} };
     }
+  }
 
-    const { latestDay, recipients } = seriesProgress;
+  // Handle delivery (only when not --no-send)
+  if (!noSend) {
+    for (const series of config.series) {
+      const { seriesId, seriesName, seriesEmoji } = series;
+      const sp = progress[seriesId];
+      if (!sp?.recipients) continue;
 
-    // Skip series that don't include the filtered recipient
-    if (recipientFilter && !recipients[recipientFilter]) {
-      continue;
-    }
-
-    const recipientsAtLatest: string[] = [];
-
-    if (noSend) {
-      // In no-send mode, always generate the next lesson for every series
-      recipientsAtLatest.push('_all');
-    } else {
-      for (const [name, recip] of Object.entries(recipients) as [string, any][]) {
-        // Filter by recipient or test mode
+      for (const [name, recip] of Object.entries(sp.recipients) as [string, any][]) {
         if (testMode && name !== 'jon') continue;
         if (recipientFilter && name !== recipientFilter) continue;
 
         const { telegramId, lastDaySent } = recip;
+        const latestDay = sp.latestDay || 0;
 
         if (lastDaySent < latestDay) {
-          // Catch-up: queue delivery for next day only
           const catchUpDay = lastDaySent + 1;
           console.error(`  Catch-up: ${name} in ${seriesId} day ${catchUpDay}`);
           const lessonJson = run(`./node_modules/.bin/tsx scripts/get-lesson.ts ${seriesId} ${catchUpDay}`);
@@ -126,17 +131,9 @@ async function main() {
 
           if (!deliveryMap[telegramId]) deliveryMap[telegramId] = [];
           deliveryMap[telegramId].push({ emoji: seriesEmoji, seriesName, title: lesson.title, day: catchUpDay, seriesId });
-
-          // Queue progress update (applied in Phase 6)
           recip._newDay = catchUpDay;
-        } else if (lastDaySent === latestDay) {
-          recipientsAtLatest.push(name);
         }
       }
-    }
-
-    if (recipientsAtLatest.length > 0) {
-      generationQueue.push({ seriesId, seriesName, seriesEmoji, newDay: latestDay + 1, recipientsAtLatest });
     }
   }
 
@@ -205,20 +202,8 @@ async function main() {
     };
     run(`./node_modules/.bin/tsx scripts/add-lesson.ts ${g.seriesId}`, JSON.stringify(lessonObj));
 
-    // Update latestDay always
+    // Update latestDay
     progress[g.seriesId].latestDay = g.newDay;
-
-    if (!noSend) {
-      // Queue deliveries for recipients at latest
-      for (const name of g.recipientsAtLatest) {
-        const telegramId = progress[g.seriesId].recipients[name].telegramId;
-        if (!deliveryMap[telegramId]) deliveryMap[telegramId] = [];
-        deliveryMap[telegramId].push({ emoji: g.seriesEmoji, seriesName: g.seriesName, title: g.title, day: g.newDay, seriesId: g.seriesId });
-
-        // Queue progress update
-        progress[g.seriesId].recipients[name]._newDay = g.newDay;
-      }
-    }
   }
 
   // ── Phase 5: Build + Deploy (skip if no new lessons written) ──
