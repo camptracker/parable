@@ -548,4 +548,68 @@ Sage tasted both stocks. The difference was unmistakable—one carried story, th
 
 *Tomorrow, Sage will discover why some simple dishes satisfy the soul while elaborate creations leave us empty...*`,
   },
+  {
+    day: 10,
+    title: "The Heart of Intention - Cooking with Purpose",
+    date: "2026-03-05",
+    image: "images/cooking/day-10.jpg",
+    audio: "audio/cooking/day-10",
+    sonnet: `**🪶 Sonnet X: The Heart of Intention - Cooking with Purpose**
+
+Within the kitchen's dance of flame and steel,
+Where countless techniques vie for center stage,
+One force alone can make the simple meal
+Transcend the grandest feast of any age.
+
+Intention guides the hand that holds the knife,
+And whispers wisdom to the tasting tongue,
+It breathes into each dish a deeper life
+Than all elaborate arts together sung.
+
+The master knows that purpose lights the way,
+That every grain of salt must serve its part,
+That humble bread can speak what words can't say
+When baked with clear intention from the heart.
+
+*For in this truth all culinary art resides:*
+*Cook not just with skill, but let purpose be your guide.*`,
+    standard: `🍳 Day 10: The Heart of Intention - Cooking with Purpose
+
+The principle that separates profound simplicity from empty complexity is **intention** - the conscious purpose behind every culinary decision. When a cook understands why each element belongs in a dish and how it serves the greater whole, even three ingredients can create transcendent satisfaction, while a cook who layers techniques without understanding creates elaborate confusion.
+
+🧱 **The Concept**
+Intention is the invisible thread that connects technique to meaning, transforming cooking from mere process into purposeful expression.
+
+❓ **Why It Matters**
+Without clear intention, cooking becomes a series of disconnected actions that may showcase skill but fail to nourish the soul. Intention acts as both compass and editor, guiding what to include and, more importantly, what to leave out. It transforms ingredients from mere components into collaborators in a unified vision.
+
+⚙️ **How It Works**
+Intentional cooking begins with a clear purpose: are you comforting, celebrating, nourishing, or exploring? A perfectly ripe tomato with sea salt and olive oil becomes profound when the intention is to honor the tomato's peak flavor, while the same ingredients feel thoughtless when added without purpose to an overly complex salad. Master cooks taste constantly not just for seasoning, but to ensure each element serves their intended story. They ask "why this ingredient, why this technique, why now?" before acting. Even in elaborate dishes, every component earns its place through intentional contribution to the whole.
+
+🎯 **Culinary Wisdom**
+Cook with purpose, not just technique - let your intention guide every choice from ingredient selection to final garnish.
+
+❓ **Tomorrow's Question** — If intention provides the 'why' behind our cooking choices, what fundamental element allows us to communicate that intention clearly to those who taste our food, ensuring our culinary message reaches them as powerfully as we conceived it?`,
+    parable: `Sage watched Ember prepare what appeared to be the simplest meal imaginable: bread, butter, and soup. Yet something about the old chef's movements suggested profound deliberation in every gesture.
+
+"Master Ember," Sage ventured, "yesterday's elaborate feast used fifty ingredients, but this simple meal feels... more important somehow. Why?"
+
+Ember smiled, her weathered hands warming the bowl before ladling the soup. "Tell me, young one, what do you see me doing?"
+
+"You're... being very careful with simple things?"
+
+"I am cooking with intention," Ember replied, buttering the bread with slow, purposeful strokes. "Yesterday's feast was impressive, yes, but each dish served the cook's ego more than the diner's need. This soup? I made it because the autumn air carries a chill, and this bread because hungry souls need comfort, not complexity."
+
+She placed the meal before Sage, who tasted and immediately understood. The soup was perfectly seasoned, the bread still warm, each element serving a clear purpose: nourishment, comfort, care.
+
+"Every ingredient has a job," Ember continued. "Every technique serves a reason. When you cook without knowing why, you create elaborate emptiness. When you cook with clear intention, even water and salt can move hearts."
+
+Sage ate slowly, tasting not just flavor but purpose in every spoonful. "So the difference isn't complexity - it's clarity?"
+
+"Precisely. Intention is the difference between cooking and merely combining ingredients. It transforms technique into meaning."
+
+**Moral**: Cook with purpose in your heart, not just skill in your hands, for intention transforms simple ingredients into profound nourishment.
+
+*Tomorrow, Ember will reveal how intention must flow from cook to diner...*`,
+  },
 ];

@@ -978,4 +978,64 @@ Kael watched the interplay of sun and shadow across the garden. "So my age tells
 
 Tomorrow, Sable will reveal what happens when the mind wars against time's counsel...`,
   },
+  {
+    day: 14,
+    title: "Emotional Risk Tolerance vs. Financial Risk Capacity",
+    date: "2026-03-05",
+    image: "images/financial-independence/day-14.jpg",
+    audio: "audio/financial-independence/day-14",
+    sonnet: `**🪶 Sonnet XIV: Emotional Risk Tolerance vs. Financial Risk Capacity**
+
+Though time may grant thee strength to bear great loss,
+What good if fear should make thy resolve break?
+The mind's own limits oft become the cross
+That turns sound strategy to grave mistake.
+
+A portfolio too bold for heart to bear
+Will prompt thee to sell low when markets fall,
+While modest gains, pursued with steady care,
+Compound through seasons, enriching thee through all.
+
+Better to plant thy gold in fertile ground
+That lets thee sleep through storm and sunshine bright,
+Than chase returns so high thy peace is drowned
+In sleepless worry through each market night.
+
+*For wealth grows best where patience can take root,*
+*Not where fear makes thee abandon the pursuit.*`,
+    standard: `💰 Day 14: Emotional Risk Tolerance vs. Financial Risk Capacity
+
+The answer lies in distinguishing between **financial risk capacity** (what you can afford mathematically) and **emotional risk tolerance** (what you can handle psychologically). Someone with decades until retirement might have high financial capacity for risk but low emotional tolerance — and the emotional component often matters more, because panic-selling during downturns destroys long-term wealth faster than conservative investing.
+
+🧱 **The Concept**
+Your optimal investment strategy must balance both your mathematical ability to take risk and your psychological ability to stay the course during market volatility.
+
+❓ **Why It Matters**
+Many investors with long time horizons sabotage themselves by choosing aggressive portfolios they can't emotionally handle. When markets crash, they sell at the worst possible time, turning temporary losses into permanent ones. The "best" portfolio on paper becomes worthless if it causes you to make destructive emotional decisions.
+
+⚙️ **How It Works**
+Start with your financial capacity: a 25-year-old might mathematically handle 90% stocks. But if market swings cause sleepless nights or panic selling, dial back to 70% or even 60% stocks. A portfolio you can stick with through thick and thin will outperform a theoretically superior one you abandon during crashes. For example, someone who stays invested in a 60/40 portfolio through all market cycles typically beats someone who panic-sells an 80/20 portfolio during downturns. The key is finding your "sleep well at night" allocation — aggressive enough for growth, conservative enough to prevent emotional mistakes.
+
+🎯 **Buffett Wisdom**
+"The stock market is a voting machine in the short run, but a weighing machine in the long run." Your portfolio allocation should let you focus on the long-term weighing, not get distracted by short-term voting.
+
+❓ **Tomorrow's Question** — If staying invested through market crashes is so crucial, how do you actually train yourself to ignore the daily noise and emotional swings of the market?*`,
+    parable: `"Master Sable," Kael said, his voice heavy with frustration, "you say time gives me strength to weather storms, but what if the storm terrifies me so much I flee to the caves?"
+
+The old elder nodded knowingly. "Ah, young one. You speak of the great paradox that has humbled many a strong villager." He gestured toward the mountain pass where two paths diverged. "Tell me, which path should a traveler take — the swift but treacherous cliff road, or the longer but safer valley route?"
+
+"The cliff road is faster," Kael replied, "but if I'm so afraid of heights that I freeze halfway across..."
+
+"Precisely." Sable's eyes twinkled. "Tobren the farmer understands this wisdom well. When he was young and eager, he attempted to plant his entire field with the most demanding crops — those that promised the greatest yield. But when the first harsh weather came, his fear overwhelmed him. He pulled up his plantings and replanted with grain, losing an entire season."
+
+Tobren, who had been listening from his fence, chuckled ruefully. "Aye, I learned that the crop you can tend through drought and flood will feed you better than the crop you abandon at the first sign of trouble."
+
+"Your gold must grow in soil you can nurture consistently," Sable continued. "Better to plant three-quarters of your field with crops that let you sleep peacefully, knowing you won't uproot them in panic, than to plant your entire field with crops that keep you awake with worry."
+
+Kael watched a merchant's wagon choose the valley path over the cliff road, understanding dawning in his eyes. "So wisdom lies not in taking the maximum risk I can afford, but the maximum risk I can endure without losing my resolve."
+
+**Moral:** *The strongest portfolio is not the most aggressive one you can mathematically handle, but the most growth-oriented one you can emotionally maintain through all seasons.*
+
+Tomorrow, Sable would teach Kael how to build the mental fortitude to stay true to his chosen path, even when the market's daily storms rage loudest.`,
+  },
 ];

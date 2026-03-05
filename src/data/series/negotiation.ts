@@ -627,4 +627,61 @@ Vasska smiled knowingly. "Because fury hidden stays powerful, but fury revealed 
 
 **Tomorrow:** Vasska teaches Ren why making others feel wise might be the wisest move of all.`,
   },
+  {
+    day: 10,
+    title: "The Consultant's Crown",
+    date: "2026-03-05",
+    image: "images/negotiation/day-10.jpg",
+    audio: "audio/negotiation/day-10",
+    sonnet: `**🪶 Sonnet X: The Consultant's Crown**
+
+When faced with walls that seem too high to scale,
+And those who guard what we would hope to gain,
+We oft forget that asking them to hail
+As experts turns resistance into brain
+That works for us, not 'gainst our noble cause.
+"How should I solve this puzzle that we share?"
+Transforms the foe to friend without a pause,
+For none can resist showing they know where
+The answers hide within their treasure chest
+Of wisdom earned through years of trial and test.
+The consultant's crown sits heavy on the head—
+They'll solve your problems just to prove their best.
+*Ask not for gifts, but guidance from their throne,*
+*And watch them build the bridge you walk upon.*`,
+    standard: `🤝 Day 10: The Consultant's Crown
+
+When you ask for someone's advice on solving your problem, you transform the entire dynamic — they shift from opponent to consultant, from adversary to ally. This psychological elevation makes them emotionally invested in finding a solution that works for both of you, because now their expertise and reputation are on the line.
+
+🧱 **The Concept**
+The "How am I supposed to do that?" question transforms your counterpart from adversary into problem-solving partner.
+
+❓ **Why It Matters**
+People have a deep psychological need to feel competent and valued. When you genuinely seek their guidance, you're not just flattering their ego — you're enlisting their cognitive resources to work on your behalf. This shifts them from defending their position to creatively exploring solutions.
+
+⚙️ **How It Works**
+Instead of making demands ("I need a 20% discount"), ask for guidance ("How am I supposed to make this work with my budget constraints?"). The magic phrase "How am I supposed to...?" forces them to see the situation from your perspective while maintaining their sense of control. FBI negotiators use this to get hostage-takers to talk themselves into surrender: "How am I supposed to convince my boss you're negotiating in good faith if you won't release someone?" The question implies collaboration while subtly pressuring for concessions. Your counterpart's brain automatically starts generating solutions rather than objections.
+
+🎯 **Negotiation Wisdom**
+Make them the expert in solving your shared problem, not the obstacle preventing your success.
+
+❓ **Tomorrow's Question** — If asking "how" makes people feel like consultants, what happens when you anchor their expectations so low that any reasonable offer feels generous by comparison?`,
+    parable: `The harbor buzzed with morning commerce as Ren approached Vasska's stall, clutching a leather pouch light with coin. The master trader's good eye assessed the young merchant while his scarred hands arranged bolts of silk.
+
+"Master Vasska," Ren began hesitantly, "I need your finest blue silk, but my purse holds only half your asking price."
+
+Vasska's weathered face creased into what might have been a smile. "And you expect me to halve my profit for your poverty?"
+
+"No, master. I expect your wisdom." Ren's voice grew stronger. "How am I supposed to satisfy my client's demands while honoring the value of your craftsmanship? You know these markets better than anyone — what would you do in my position?"
+
+The transformation was subtle but profound. Vasska's shoulders straightened, his blind eye seemed to focus inward on the puzzle presented. No longer was this young merchant a supplicant to be dismissed, but a fellow trader seeking counsel.
+
+"Hmm," Vasska mused, stroking his beard. "Your client — what exactly do they require? Perhaps we could substitute this lighter weave here, or arrange payment across two moon cycles..." His mind raced through possibilities, each suggestion born from genuine desire to solve the problem he'd been honored to address.
+
+By sunset, Ren walked away with premium silk at a fair price, while Vasska counted coins and nodded approvingly. The young merchant hadn't demanded a discount — he'd requested consultation.
+
+**Moral:** Transform your counterpart from gatekeeper to guide, and watch obstacles become stepping stones.
+
+*Tomorrow, Ren discovers how the master trader uses impossible anchors to make reasonable prices feel like generous gifts...*`,
+  },
 ];

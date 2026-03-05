@@ -680,4 +680,64 @@ As they prepared to cross the bridge, Elder Rynn's eyes twinkled with ancient wi
 
 *Tomorrow: The language beyond words awaits...*`,
   },
+  {
+    day: 11,
+    title: "The Mirror of Projection — Seeing Yourself in Your Partner",
+    date: "2026-03-05",
+    image: "images/building-relationships/day-11.jpg",
+    audio: "audio/building-relationships/day-11",
+    sonnet: `**🪶 Sonnet XI: The Mirror of Projection**
+
+Within your love's eyes burns a faithful glass
+That shows not them, but you in clearest light,
+The faults you see in them shall come to pass
+As shadows of your own unhealed sight.
+
+When anger flares at their perceived wrong,
+Look inward first before you cast the stone—
+The discord that you feel so sharp and strong
+May echo from the seeds that you have sown.
+
+Their laziness reflects your own retreat,
+Their coldness mirrors walls within your heart,
+Their chaos shows where you feel incomplete,
+Their silence plays your own withdrawn part.
+
+*Yet in this mirror lies love's greatest gift:*
+*To heal yourself through love's transforming shift.*`,
+    standard: `💕 Day 11: The Mirror of Projection — Seeing Yourself in Your Partner
+
+**🧱 The Concept** 
+Projection occurs when we unconsciously attribute our own emotions, flaws, or unresolved issues to our partner, creating conflict where understanding should live.
+
+**❓ Why It Matters** 
+Most relationship arguments aren't really about dishes or money—they're about the parts of ourselves we haven't faced. When we project our insecurities onto our partner, we fight shadows instead of solving real problems. Understanding projection transforms blame into self-awareness and conflict into growth.
+
+**⚙️ How It Works** 
+Projection manifests when you're triggered by something your partner does that mirrors your own behavior or fears. If you're highly critical of your partner's "laziness," examine whether you struggle with motivation yourself. If their social media use bothers you intensely, consider your own relationship with technology. The intensity of your reaction often reveals the projection—when something annoys you far more than it logically should, you're likely seeing your own reflection. Ask yourself: "What part of me am I seeing in this situation?" Instead of saying "You never listen," try "I'm feeling unheard, and I wonder if I'm not listening well myself."
+
+**🎯 Relationship Wisdom** 
+Your partner is often your greatest mirror, reflecting back the parts of yourself you most need to see and heal.
+
+**❓ Tomorrow's Question** — If the trait that irritates you most about your partner suddenly disappeared tomorrow, what would you then have to face about yourself?`,
+    parable: `As Ash and Lume continued their journey along the winding road, they came upon a peculiar inn called the Mirror's Rest. The innkeeper, a woman with knowing eyes, led them to adjacent rooms, each containing only a bed and a large, ornate mirror.
+
+That evening, Lume stormed into Ash's room. "The innkeeper is insufferably slow! She takes forever to bring anything, never listens to requests, and seems completely scattered."
+
+Ash looked puzzled. "Strange. I found her quite attentive and efficient. She anticipated my needs before I even asked."
+
+Their argument grew heated, each insisting their perception was correct, until Elder Rynn appeared at their doorway. "Tell me," he said gently, "what did you see when you looked in your room's mirror tonight?"
+
+Lume shifted uncomfortably. "I... I was rushing to get ready for dinner. I kept dropping things, forgetting items, moving frantically from task to task."
+
+Ash nodded slowly. "I took my time, organized my belongings methodically, and prepared with intention."
+
+Elder Rynn smiled. "The Mirror's Rest reveals a profound truth—we often see in others what lives unexamined within ourselves. Lume, your frustration with the innkeeper's pace reflected your own scattered energy. Ash, her efficiency matched your inner state of calm preparation."
+
+As dawn broke, both travelers stood before their mirrors once more, this time seeing not just their reflections, but windows into understanding.
+
+*Moral: The traits that trigger us most in others often reveal the shadows we carry within ourselves.*
+
+*Tomorrow, Elder Rynn will teach them about the courage required when these mirrors reveal truths we'd rather not face...*`,
+  },
 ];

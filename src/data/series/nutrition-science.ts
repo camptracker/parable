@@ -644,4 +644,56 @@ As the night deepened, the hearths gradually settled into their ancient rhythm, 
 
 *Tomorrow, Lila will discover why some villagers can weather these disruptions while others fall gravely ill from the same chaos.*`,
   },
+  {
+    day: 11,
+    title: "The Resilience Spectrum",
+    date: "2026-03-05",
+    image: "images/nutrition-science/day-11.jpg",
+    audio: "audio/nutrition-science/day-11",
+    sonnet: `**🪶 Sonnet XI: The Resilience Spectrum**
+
+When storms of life disrupt our ordered days,
+Some souls stand firm while others bend and break,
+Not will alone determines who obeys
+The chaos, but what inner strength we make.
+
+Like fires built with many burning logs,
+Resilient hearts have pathways manifold,
+While fragile flames, when struck by bitter fogs,
+Depend on single embers, weak and cold.
+
+The difference lies in backup systems strong,
+Where fat and glucose dance in balance true,
+And mitochondria sing their steady song
+Through every storm that life may put us through.
+
+*Yet hope remains: resilience can be grown,*
+*Through patient tending of the seeds we've sown.*`,
+    standard: `🍎 Day 11: The Resilience Spectrum
+
+The answer lies in **metabolic resilience** — your body's capacity to maintain stable energy production despite environmental stress. Some people possess robust metabolic machinery with efficient backup systems, while others have more fragile metabolic networks that falter under pressure. This isn't about willpower; it's about biological architecture.
+
+🧱 **The Concept**: Metabolic resilience is your body's ability to maintain steady energy output when faced with irregular eating, sleep disruption, or stress.
+
+❓ **Why It Matters**: Understanding your personal resilience level helps explain why identical lifestyles produce vastly different outcomes. It also reveals why some dietary approaches work brilliantly for your friend but leave you exhausted and craving sugar.
+
+⚙️ **How It Works**: Resilient metabolisms have multiple backup pathways for energy production — efficient fat-burning systems, stable blood sugar regulation, and robust mitochondrial networks. When one system struggles, others compensate seamlessly. Less resilient metabolisms rely heavily on primary pathways like glucose burning, so when those systems are stressed by irregular schedules, the whole network becomes unstable. Think of it like a city's power grid: some have multiple backup generators and redundant connections, while others depend on a single power plant. Age, genetics, chronic stress history, and past metabolic damage all influence where you fall on this spectrum.
+
+🎯 **Science Wisdom**: Your metabolic resilience isn't fixed — it can be strengthened through consistent practices that build robust backup systems.
+
+❓ **Tomorrow's Question** — *If metabolic resilience can be built like muscle strength, what daily practices actually strengthen these backup energy systems, and why do some approaches backfire by making you more metabolically fragile?*`,
+    parable: `Lila watched as Maren tended her three hearths, each flame dancing with different intensities as the mountain winds shifted unpredictably through the healing chamber. "Master," she said, "yesterday you spoke of how disruption throws our inner fires into chaos. Yet I've noticed something curious — when storms rage through our valley, some villagers seem barely affected, while others become bedridden for days. Why do identical winds create such different outcomes?"
+
+Maren smiled, adjusting the logs on her middle hearth as it flickered. "Observe these flames, apprentice. This one burns with many small logs, carefully arranged with space between them for air to flow. When the wind gusts, some flames may waver, but others stabilize the fire." She gestured to an imaginary fourth hearth. "But imagine a fire built with only one large log, burning bright but dependent on perfect conditions. When the wind strikes, the whole fire struggles."
+
+"The villagers carry hearths within them," Maren continued, "some built with many pathways for energy to flow — fat-burning embers that glow steady in any weather, blood-sugar flames that dance without wild swings, strong bellows that keep oxygen flowing to every spark. Others have simpler fires, dependent on regular feeding and shelter from life's storms."
+
+Lila nodded slowly. "So resilience isn't about being untouchable — it's about having backup systems?"
+
+"Precisely. And here lies hope," Maren said, banking coals carefully. "Just as we can teach a fire to burn more steadily by how we tend it, we can strengthen our inner resilience. The question becomes: which practices truly build these backup systems, and which ones, despite good intentions, leave us more vulnerable than before?"
+
+Moral: True metabolic strength lies not in never faltering, but in having multiple pathways to maintain your inner fire when life's storms inevitably blow.
+
+Tomorrow, Maren will reveal the practices that build lasting resilience — and the surprising ways some approaches can backfire.`,
+  },
 ];

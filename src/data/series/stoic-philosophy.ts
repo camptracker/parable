@@ -718,4 +718,70 @@ As they walked toward the barracks, Maxima added, "The ancients called this meme
 
 *Tomorrow, Maxima will challenge Caius to examine which virtues he has neglected, and why we often avoid developing the very strengths our souls most need.*`,
   },
+  {
+    day: 11,
+    title: "The Courage of Acceptance",
+    date: "2026-03-05",
+    image: "images/stoic-philosophy/day-11.jpg",
+    audio: "audio/stoic-philosophy/day-11",
+    sonnet: `**🪶 Sonnet XI: The Courage of Acceptance**
+
+When earthquakes shatter what we thought secure,
+And morning shows us fragments where once stood
+The monuments we labored to endure,
+We learn that rage will do us little good.
+
+The wise man kneels among the broken stone,
+Not weeping for the form that was before,
+But gathering pieces, making them his own
+To build anew from ruin's scattered store.
+
+Acceptance is not surrender to defeat,
+But courage to embrace what is as true—
+The earthquake's gift, though bitter, is complete:
+It clears the ground for something fresh and new.
+
+*For those who fight what is will never see*
+*That broken things hold their own majesty.*`,
+    standard: `🏛️ Day 11: The Courage of Acceptance
+
+**The fears that keep us from opening the door** are often the very fears of losing what we believe defines us—our plans, our expectations, our carefully constructed sense of how life should unfold. We fear that accepting what is means surrendering our power to change what could be.
+
+🧱 **The Concept**
+Stoic acceptance doesn't mean passive resignation—it means courageously embracing reality as the starting point for all meaningful action.
+
+❓ **Why It Matters**
+Resistance to what has already happened drains the energy we need for what comes next. When we fight against unchangeable facts, we become prisoners of our own denial, unable to respond wisely to the present moment.
+
+⚙️ **How It Works**
+True acceptance begins with **distinguishing between acknowledgment and approval**—you can fully accept that your business failed without approving of the circumstances that led to it. This creates space for **intelligent response rather than emotional reaction**. When Marcus Aurelius faced plague, war, and betrayal, he didn't pretend these were good things, but he accepted them as the raw materials for practicing virtue. A modern example: accepting a cancer diagnosis doesn't mean being happy about it, but rather channeling all your energy toward treatment and living meaningfully within this new reality. **Acceptance becomes the foundation for effective action**, not its enemy.
+
+🎯 **Stoic Wisdom**
+**"You have power over your mind—not outside events. Realize this, and you will find strength."** —Marcus Aurelius
+
+❓ **Tomorrow's Question** — If your current struggles were actually perfectly designed to develop the exact qualities you most need to cultivate, what would that suggest about the nature of your relationship with difficulty?`,
+    parable: `The morning mist clung to the training grounds as Caius found Maxima sitting motionless before a shattered statue of Mars, the god of war. The marble head lay in fragments at the sculpture's feet, victim of the previous night's earthquake.
+
+"Why do you stare at broken stone, General?" Caius asked, settling beside his mentor.
+
+Maxima's weathered fingers traced the air where the god's face once was. "Yesterday, I would have grieved this loss. Today, I practice something more difficult than grief."
+
+"Which is?"
+
+"Acceptance. Not the weak acceptance of a beaten dog, but the fierce acceptance of a warrior who sees the battlefield clearly." Maxima stood, brushing dust from his tunic. "Watch."
+
+The old general knelt and gathered the marble fragments, arranging them carefully on a nearby stone ledge. "I could rage against the earth's trembling. I could pretend this statue still stands whole. Or I could accept these broken pieces as my new materials."
+
+Caius watched, puzzled, as Maxima began fitting the fragments together in a new pattern—not attempting to rebuild the original face, but creating something entirely different: a spiral of broken marble that caught the morning light.
+
+"But you're not fixing it," Caius protested.
+
+"No," Maxima smiled, his creation now complete. "I'm accepting it. The earthquake gave me different materials than I expected. A lesser man fights against what is. A Stoic builds with what he's given."
+
+The young soldier stared at the spiral, seeing how its very brokenness had become its beauty.
+
+**Moral**: True courage lies not in denying reality, but in accepting it so completely that it becomes the foundation for something new.
+
+*Tomorrow, Maxima will reveal the hidden gift that difficulty always carries—if we have eyes to see it.*`,
+  },
 ];

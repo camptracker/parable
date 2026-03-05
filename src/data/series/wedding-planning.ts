@@ -249,4 +249,73 @@ Nana Rose smiled knowingly. "That, my dears, is tomorrow's beautiful discovery."
 
 **Tomorrow:** The couple learns to distinguish between family harmony and family tyranny.`,
   },
+  {
+    day: 5,
+    title: "The Budget as Compass",
+    date: "2026-03-05",
+    image: "images/wedding-planning/day-5.jpg",
+    audio: "audio/wedding-planning/day-5",
+    sonnet: `**🪶 Sonnet V: The Budget as Compass**
+
+When coffers speak in whispers, not in shouts,
+And dreams must bow to what the purse can hold,
+The wise will find that money's careful clouts
+Reveal which stories beg to be retold.
+
+Not limitation's cruel and binding chain,
+But compass true that points to treasured ground,
+Each dollar spent becomes love's sweet refrain,
+Each choice a note in harmony's pure sound.
+
+The flowers fade, the feast becomes a memory,
+But photographs of laughter live for years,
+So spend on what endures past ceremony,
+On moments that will multiply through tears.
+
+*Your budget is your values made concrete,*
+*Where money flows, your truest heart will meet.*`,
+    standard: `💍 Day 5: The Budget as Compass
+
+Choosing to disappoint others rather than yourselves reveals that your wedding is fundamentally about your union, not their expectations. This choice honors the truth that you'll be living with the memories and meaning long after the guests go home. When you prioritize authenticity over appeasement, you're already practicing the kind of partnership that makes marriages last.
+
+**🧱 The Concept**
+Your wedding budget isn't just a financial constraint — it's a values compass that reveals what truly matters to you as a couple.
+
+**❓ Why It Matters**
+Every dollar you spend (or don't spend) is a vote for what you believe your wedding should be. When couples treat their budget as merely a limitation to work around, they miss its power as a clarifying force that can cut through noise and focus on essence.
+
+**⚙️ How It Works**
+Start by allocating money to your non-negotiables first — perhaps that means spending 40% on photography because memories matter most, or investing heavily in the reception because celebration is your priority. If live music moves you both to tears, find those musicians before you book the venue. If handwritten vows matter more than professional florals, hire a calligrapher instead of a florist. Your budget becomes a tool for saying 'yes' to what aligns with your vision and 'no' to everything else, regardless of what wedding magazines suggest you should prioritize.
+
+**🎯 Wedding Wisdom**
+A thoughtful budget doesn't limit your dreams — it reveals them.
+
+**❓ Tomorrow's Question**
+If you discovered that the vendors and professionals you're considering working with had vastly different philosophies about what makes weddings meaningful, how would you choose between technical excellence and shared values, and what would that choice teach you about what you're really buying?`,
+    parable: `The morning sun streamed through Nana Rose's office windows as Dove slumped in the velvet armchair, a crumpled spreadsheet in her lap. "We can't afford everything," she whispered, her voice thick with defeat. "The flowers alone cost more than our first apartment's rent."
+
+Elm reached over and smoothed the wrinkled paper. "Maybe that's telling us something."
+
+Nana Rose set down her teacup with the gentleness of someone who had witnessed this moment countless times. "Child, you're looking at that budget all wrong. You see constraints, but I see clarity."
+
+"How can you say that?" Dove's eyes glistened. "We have to cut so much."
+
+"No, dear one. You get to choose so much." Nana Rose pulled out a leather-bound ledger, its pages soft with age. "Let me show you something. This was my very first couple, forty-three years ago. They had exactly three hundred dollars — not three thousand, not thirty thousand. Three hundred."
+
+She opened to a faded photograph tucked between the pages: a radiant couple dancing under string lights in what appeared to be someone's backyard, surrounded by loved ones holding mason jar candles.
+
+"They spent one hundred on her grandmother's wedding dress alterations, one hundred on his grandfather's suit tailoring, and one hundred on ingredients for a potluck feast where every guest brought a dish that meant something to their family story."
+
+Elm leaned forward, studying the image. "They look..."
+
+"Completely themselves," Nana Rose finished. "Because their budget forced them to ask the only question that matters: what do we actually need to marry each other well?"
+
+Dove wiped her eyes, seeing her spreadsheet differently now. "So the budget isn't the enemy?"
+
+"It's your truest friend, dear. It strips away everything that doesn't serve your love story and illuminates everything that does."
+
+**Moral:** A wedding budget is not a barrier to your dreams but a pathway to discovering what those dreams truly are.
+
+**Tomorrow, Nana Rose will reveal why the people you hire matter as much as what you hire them to do...**`,
+  },
 ];
