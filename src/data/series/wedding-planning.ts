@@ -187,4 +187,66 @@ Moral: A guest list built on obligation creates a celebration of appearances; on
 
 Tomorrow, we'll explore what happens when your authentic guest list collides with financial reality—and discover that the most meaningful celebrations often emerge from the most honest constraints.`,
   },
+  {
+    day: 4,
+    title: "The Tradition Test",
+    date: "2026-03-05",
+    image: "images/wedding-planning/day-4.jpg",
+    audio: "audio/wedding-planning/day-4",
+    sonnet: `**🪶 Sonnet IV: The Tradition Test**
+
+In halls of custom, ancient voices call,
+With whispered rules of how love should be shown,
+While modern hearts against convention fall,
+Seeking paths that they can call their own.
+
+The white dress waits, expectant on its frame,
+Though sapphire silk would better suit her soul,
+And father's "giving" feels a dated game
+When partnership has always been their goal.
+
+Yet wisdom lies not in rebellion's cry,
+Nor blind obedience to what came before,
+But choosing which traditions lift us high
+And which ones bind us to another's shore.
+
+*Take from the past what makes your spirits soar,*
+*Leave what constrains—love needs tradition's core.*`,
+    standard: `💍 Day 4: The Tradition Test
+
+When you invite only those who truly celebrate your love, you often discover that your dream guest list looks remarkably different from your "should" list—smaller, perhaps, but infinitely more meaningful. This reveals that many wedding elements we assume are mandatory are actually inherited expectations rather than authentic choices.
+
+🧱 **The Concept**
+Every wedding tradition carries both beauty and baggage—the key is distinguishing between customs that enhance your story and those that constrain it.
+
+❓ **Why It Matters**
+Traditions become invisible chains when we follow them without questioning whether they serve our actual relationship. The most memorable weddings honor the past while fearlessly embracing what makes each couple unique.
+
+⚙️ **How It Works**
+For each tradition you're considering, ask three questions: Does this reflect who we are? Does this create joy or stress? Would we miss this if it disappeared? The white dress might feel essential until you realize you've always dreamed of deep blue. The father "giving away" the bride might feel wrong when both your parents raised you as equals. Walking down the aisle together might feel more authentic than the traditional entrance. Some couples discover that their most meaningful moment happens during a private first look rather than the public ceremony. The goal isn't rebellion—it's alignment between your celebration and your truth.
+
+🎯 **Wedding Wisdom**
+Tradition should be a launching pad for authenticity, not a prison for conformity.
+
+❓ **Tomorrow's Question** — If you had to choose between disappointing family members who expect certain traditions and disappointing yourselves by including elements that don't feel authentic, which disappointment would you rather live with for the rest of your lives, and what does that choice reveal about where your true allegiance lies?`,
+    parable: `Dove stood in the bridal boutique, drowning in a sea of white tulle and family expectations. "But every bride wears white," her mother insisted, while Dove's heart yearned for the midnight blue gown that made her eyes shine like stars.
+
+Elm found her there an hour later, tears threatening to spill. "What's wrong, my love?"
+
+"I feel like I'm planning someone else's wedding," Dove whispered. "Every choice feels predetermined, every tradition feels mandatory."
+
+Nana Rose appeared as if summoned by their distress, her silver hair gleaming under the boutique lights. "Child," she said gently, "let me tell you about the most beautiful wedding I ever planned. The bride wore her grandmother's green silk dress—the one she'd worn to her own graduation from medical school. The groom's father, a baker, made bread instead of cake. They exchanged vows they'd written in three languages to honor both their families."
+
+Dove looked up, intrigued. "But wasn't it... wrong?"
+
+"Wrong?" Nana Rose laughed, a sound like silver bells. "It was the most right thing I'd ever seen. Every element sang their song. That's the secret, dear ones—tradition is a palette, not a prescription. You take the colors that speak to your souls and leave the rest."
+
+Elm squeezed Dove's hand. "What colors speak to us?"
+
+Nana Rose smiled knowingly. "That, my dears, is tomorrow's beautiful discovery."
+
+**Moral:** The most sacred traditions are those that honor your authentic selves, not those that demand your conformity.
+
+**Tomorrow:** The couple learns to distinguish between family harmony and family tyranny.`,
+  },
 ];

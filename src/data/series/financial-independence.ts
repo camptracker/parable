@@ -913,4 +913,69 @@ Kael frowned. "But if I put my money where it might grow, couldn't I lose it all
 
 *Tomorrow, Kael will learn how to measure which risks are worth taking, and which are merely gambles in disguise.*`,
   },
+  {
+    day: 13,
+    title: "Age-Based Risk Allocation",
+    date: "2026-03-05",
+    image: "images/financial-independence/day-13.jpg",
+    audio: "audio/financial-independence/day-13",
+    sonnet: `**🪶 Sonnet XIII: Age-Based Risk Allocation**
+
+When youth's bright morning gilds the investor's way,
+Bold ventures call across the market's field,
+For decades stretch like summer's longest day—
+Time's friend to heal what volatile storms yield.
+But as the seasons turn and years advance,
+The wise adjust their sails to calmer seas,
+Trading growth's wild song for stability's dance,
+As autumn whispers through the money trees.
+The sapling bends but does not break in gales,
+While ancient oaks need shelter from the storm,
+So portfolios must change as daylight pales,
+And preservation takes its rightful form.
+*Yet none should bury gold beneath the ground,*
+*For inflation's thief makes silent, stealing sound.*`,
+    standard: `💰 Day 13: Age-Based Risk Allocation
+
+The amount of investment risk appropriate for your situation depends primarily on your **time horizon** — how long until you need the money. A 25-year-old saving for retirement can weather decades of market volatility, while a 60-year-old nearing retirement needs more stability. The classic rule suggests holding your age in bonds (30-year-old = 30% bonds, 70% stocks), though many now favor more aggressive allocations given longer lifespans.
+
+🧱 **The Concept**
+Your investment risk should decrease as you approach the time when you'll need to spend the money.
+
+❓ **Why It Matters**
+Time is your greatest ally in investing because it allows you to ride out market crashes and benefit from compound growth. A portfolio that loses 40% can recover if you have 20 years, but not if you need the money next year. Your age serves as a proxy for how much time you have until retirement.
+
+⚙️ **How It Works**
+A 25-year-old might hold 90% stocks and 10% bonds, accepting high volatility for maximum growth potential over 40 years. A 45-year-old might shift to 70% stocks and 30% bonds, reducing risk as retirement approaches. A 65-year-old might hold 50% stocks and 50% bonds, prioritizing preservation while maintaining some growth. The key is gradually shifting from growth to preservation as your time horizon shrinks. However, with people living longer, some financial advisors now suggest subtracting your age from 120 (instead of 100) to determine stock allocation.
+
+🎯 **Buffett Wisdom**
+"Time is the friend of the wonderful business, the enemy of the mediocre."
+
+❓ **Tomorrow's Question** — If time horizon determines risk tolerance, what about someone who won't need their investment money for decades but psychologically can't handle watching their portfolio drop 30% in a bad year?*`,
+    parable: `The morning sun cast long shadows across the village square as Kael found Sable tending to his herb garden, carefully arranging plants by their growing seasons.
+
+"Master Sable," Kael began, "yesterday you spoke of taking measured risks. But how does one know what measure is right?"
+
+The elder's weathered hands paused over a young sapling. "Tell me, young one, would you plant this tender seedling in the same manner as that ancient oak?"
+
+Kael studied the mighty oak whose roots ran deep, its trunk thick enough to withstand any storm. "No, Master. The sapling needs protection, gentle care. But the oak... it can weather anything."
+
+"Precisely." Sable smiled, brushing soil from his fingers. "Your coins, like these plants, must be tended according to their season. When you are young like this sapling, you have decades for your wealth to grow. You can endure harsh winters of loss because many springs await. But as you age, like our oak in its final centuries, preservation becomes as important as growth."
+
+Tobren approached, overhearing their conversation. "My grandfather kept all his coins in clay jars buried beneath his floor. He feared any risk, even in his youth."
+
+"And what became of his wealth?" Sable inquired.
+
+"It purchased less bread each passing year," Tobren admitted. "The merchant's prices rose, but grandfather's coins remained the same."
+
+Sable nodded gravely. "Therein lies wisdom's balance. The young farmer plants hardy crops that yield bountifully despite occasional drought. The aging farmer chooses reliable harvests over risky abundance. Yet both must plant something, for the field that lies fallow feeds no one."
+
+Kael watched the interplay of sun and shadow across the garden. "So my age tells me how much storm I can weather?"
+
+"Your age whispers of time's remaining gift," Sable replied. "The young have time's friendship, the old must court time's patience. Both can prosper, but through different paths."
+
+**Moral**: Let your season determine your strategy, for time is the wise investor's truest compass.
+
+Tomorrow, Sable will reveal what happens when the mind wars against time's counsel...`,
+  },
 ];

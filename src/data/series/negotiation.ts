@@ -565,4 +565,66 @@ Ren found himself speaking freely for the first time. "I want to understand why 
 
 Tomorrow, Ren would learn why sometimes the wrong word spoken with confidence reveals more than the right word whispered in doubt.`,
   },
+  {
+    day: 9,
+    title: "The Mislabel Correction",
+    date: "2026-03-05",
+    image: "images/negotiation/day-9.jpg",
+    audio: "audio/negotiation/day-9",
+    sonnet: `**🪶 Sonnet IX: The Mislabel Correction**
+
+When words misname the tempest in their breast,
+The heart rebels against the false description,
+And speaks the truth it meant to keep compressed,
+Revealing all through passionate correction.
+
+The labeled "sad" declares they burn with rage,
+The "worried" soul confesses deeper fear,
+Each wrong impression sets the truthful stage
+For secrets they had planned to hold too dear.
+
+This art of strategic misunderstanding
+Unlocks the vaults where real emotions hide,
+By seeming wrong, we gain commanding
+Insight to what they struggle to confide.
+
+*In mislabeling lies a curious art—*
+*Being wrong reveals the truest heart.*`,
+    standard: `🤝 Day 9: The Mislabel Correction
+
+When you intentionally mislabel someone's emotion, you trigger their natural correction instinct. People cannot resist setting the record straight about their feelings, often revealing far more truth than they intended. This "strategic misunderstanding" bypasses their defenses because they're focused on correcting you rather than guarding their true state.
+
+**🧱 The Concept**
+Mislabeling is the deliberate act of incorrectly naming someone's emotion to provoke them into revealing their actual feelings.
+
+**❓ Why It Matters**
+People have an irresistible urge to correct misperceptions about their internal state. When you "get it wrong," they feel compelled to set you straight, often sharing information they wouldn't volunteer otherwise. This technique transforms resistance into revelation.
+
+**⚙️ How It Works**
+Start with a tentative, slightly incorrect emotional label: "It seems like you're frustrated with this proposal." If they're actually angry, they'll correct you: "Frustrated? I'm not frustrated—I'm furious that you think this is acceptable!" The mislabel creates psychological safety because you're "wrong," making them feel superior and more willing to open up. Use gentle, questioning tones with phrases like "It sounds like..." or "It seems like..." followed by an emotion that's close but not quite right. The key is being wrong enough to trigger correction but close enough to feel like you're trying to understand.
+
+**🎯 Negotiation Wisdom**
+Sometimes being wrong on purpose reveals more truth than being right accidentally.
+
+**❓ Tomorrow's Question** — If getting someone to correct your "mistake" opens them up, what happens when you make them feel like the smartest person in the room by asking for their advice on solving your problem?`,
+    parable: `The morning sun cast long shadows across the merchant quarter as Ren watched Vasska approach a particularly stubborn spice dealer who had been rejecting every offer for his precious saffron.
+
+"Master Chen," Vasska began, his silver tongue working with calculated precision, "you seem quite disappointed by our proposals today."
+
+The dealer's weathered face darkened. "Disappointed?" Chen's voice rose sharply. "Young trader, I am not disappointed—I am insulted! You offer copper prices for gold-quality saffron that took my family three generations to perfect. Disappointed doesn't begin to capture my indignation at such disrespect!"
+
+Vasska nodded slowly, his one good eye gleaming. "Ah, insulted. I understand completely now." He had learned exactly what he needed—Chen's pride in his family legacy was the true barrier, not just price.
+
+Ren watched in amazement as Vasska pivoted: "A three-generation craft deserves recognition. Perhaps we could structure a deal that honors your family's mastery—a premium price with public acknowledgment of your saffron's superior quality?"
+
+Chen's posture shifted immediately. "Now you speak with wisdom."
+
+Later, as they walked away with the finest saffron in the market, Ren asked, "Why did you call him disappointed when you could see he was furious?"
+
+Vasska smiled knowingly. "Because fury hidden stays powerful, but fury revealed becomes manageable. When people correct your 'misunderstanding' of their feelings, they hand you the map to their heart."
+
+**Moral:** Sometimes the wrong key opens more doors than the right one, for in correction lies revelation.
+
+**Tomorrow:** Vasska teaches Ren why making others feel wise might be the wisest move of all.`,
+  },
 ];

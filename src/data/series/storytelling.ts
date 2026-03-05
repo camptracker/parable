@@ -614,4 +614,62 @@ Pip watched the threads dance between Osha's fingers, understanding dawning. "Yo
 
 *Tomorrow, Pip will discover what happens when the world itself becomes the enemy.*`,
   },
+  {
+    day: 10,
+    title: "Conflict — When the Universe Pushes Back",
+    date: "2026-03-05",
+    image: "images/storytelling/day-10.jpg",
+    audio: "audio/storytelling/day-10",
+    sonnet: `**🪶 Sonnet X: Conflict — When the Universe Pushes Back**
+
+What force opposes every heart's desire,
+And turns the hero's path to treacherous stone?
+Not villain's scheme or passion set on fire,
+But mountains that refuse to be outgrown.
+
+The greatest tales are forged in pressure's grip,
+Where characters must choose 'tween cherished dreams,
+And watch their certainties like anchors slip
+Into the depths of unforeseen extremes.
+
+For conflict is the crucible of truth,
+That strips away pretense and false facade,
+Reveals the core beneath the mask of youth,
+And shows us mortals wrestling with their god.
+
+*When forces vast as oceans block the way,*
+*The soul at last finds what it means to pray.*`,
+    standard: `📖 Day 10: Conflict — When the Universe Pushes Back
+
+When the world becomes the antagonist, conflict shifts from personal battles to existential struggles against the very nature of reality—society's expectations in Pride and Prejudice, the brutality of war in All Quiet on the Western Front, or time itself in Groundhog Day. These forces create the most powerful conflicts because they feel inescapable and universal, making readers recognize their own struggles against systems, nature, or fate.
+
+🧱 **The Concept**
+Conflict is the engine that drives every story forward, the friction between what characters want and what prevents them from getting it.
+
+❓ **Why It Matters**
+Without conflict, characters have no reason to grow, change, or reveal their true nature. It's the pressure that transforms coal into diamonds, forcing characters to make impossible choices that expose who they really are. The quality of your conflict determines whether readers will care about the outcome or abandon your story.
+
+⚙️ **How It Works**
+Conflict operates on multiple levels simultaneously: **internal** (Hamlet's indecision), **interpersonal** (Romeo vs. Tybalt), **societal** (Katniss vs. the Capitol), and **cosmic** (humanity vs. alien invasion). The best stories layer these conflicts, with each level amplifying the others—Katniss's internal struggle with violence mirrors her fight against oppression. **External obstacles** should reflect **internal barriers**: a character afraid of commitment faces a time-traveling paradox that requires choosing one timeline forever. **Stakes must escalate**—what begins as wanting a promotion becomes fighting for the company's survival, then humanity's future.
+
+🎯 **Storytelling Wisdom**
+The strongest conflicts force characters to choose between two things they desperately want, revealing their deepest values under pressure.
+
+❓ **Tomorrow's Question** — but what happens when your perfectly crafted conflict reaches its breaking point? How do you deliver a resolution that feels both surprising and inevitable, satisfying every promise your story has made?*`,
+    parable: `The wind had grown fierce by evening, rattling the shutters of the village inn where Pip huddled over his latest attempt. Pages scattered across the floor—beginnings of adventures that meandered into nothing, heroes who faced no real opposition, conflicts that dissolved the moment he examined them closely.
+
+"My characters argue," he muttered to Osha, who sat spinning thread that seemed to catch the firelight strangely. "They disagree, they fight, but somehow... it feels hollow. Like children playing at war."
+
+Osha's fingers never paused in their work. "There was once a mountain," she began, her voice threading through the storm outside, "that stood between two valleys. Each valley believed the mountain stole their rain, their sunshine, their prosperity. They sent armies to move it, engineers to tunnel through it, priests to pray it away. But the mountain was not malicious—it simply existed, as mountains do."
+
+Pip watched the thread grow longer. "What happened?"
+
+"The people learned to see their enemy clearly. Not evil, not vindictive—just immovable. And in fighting something truly immovable, they discovered what could move within themselves." Her eyes met his. "The mountain changed them. They became people who could find rain in shadow, who could carry sunshine in their hearts."
+
+The storm outside seemed to echo her words. Pip understood suddenly that his characters had been fighting strawmen—conflicts that bent too easily, obstacles that moved aside at the first push. True conflict was like the storm itself: impersonal, relentless, indifferent to his characters' desires.
+
+"Tomorrow," Osha said, gathering her thread, "we shall speak of mountains that move only when they choose to."
+
+**Moral:** Real conflict arises not from hatred but from the collision of unstoppable forces with immovable truths, revealing character through the pressure of genuine opposition.`,
+  },
 ];

@@ -657,4 +657,65 @@ Caius sat beside his mentor, struggling with the concept. "But surely such thoug
 
 **Tomorrow:** *Caius will learn how philosophy transforms not just how we think, but how we live each precious day.*`,
   },
+  {
+    day: 10,
+    title: "The Practice of Memento Mori",
+    date: "2026-03-05",
+    image: "images/stoic-philosophy/day-10.jpg",
+    audio: "audio/stoic-philosophy/day-10",
+    sonnet: `**🪶 Sonnet X: The Practice of Memento Mori**
+
+When morning breaks upon this fleeting stage,
+And death stands patient at life's garden gate,
+We wake to find we're players for an age
+Whose final curtain call we cannot date.
+
+Yet in this knowledge lies a sacred gift—
+To live each moment with intentioned grace,
+As autumn leaves that in the wind drift
+Teach trees to yield with beauty, not disgrace.
+
+The hourglass sands fall steady, grain by grain,
+Not meant to torture but to clarify
+Which deeds deserve our passion, joy, and pain,
+Which words are worth our breath before we die.
+
+*So death becomes not enemy but friend,*
+*Who shows us how to live before life's end.*`,
+    standard: `🏛️ **Day 10: The Practice of Memento Mori**
+
+Knowing that everything could vanish tomorrow would strip away our tendency to postpone gratitude, authenticity, and meaningful action. We would treat each conversation as precious, each moment of beauty as unrepeatable, and each opportunity to act virtuously as sacred. This awareness transforms us from sleepwalkers into fully awakened beings who engage with life's fullness rather than its distractions.
+
+🧱 **The Concept**
+Memento mori—"remember you must die"—is the Stoic practice of contemplating mortality to cultivate wisdom and urgency in living well.
+
+❓ **Why It Matters**
+Death gives life its meaning and urgency. When we truly grasp our mortality, we stop wasting time on petty concerns and focus on what genuinely matters. This practice doesn't breed morbidity but vitality—it awakens us to the preciousness of each moment.
+
+⚙️ **How It Works**
+Begin each day by acknowledging that this could be your last—not with fear, but with clarity. Marcus Aurelius wrote in his *Meditations*: "It is not death that a man should fear, but never beginning to live." When facing a difficult decision, ask: "If I had one year to live, what would I choose?" This filters out the trivial and illuminates the essential. Practice gratitude for ordinary moments—the warmth of sunlight, a friend's laughter, the ability to breathe—because mortality makes everything precious. End each day reflecting on what you accomplished that aligned with your deepest values.
+
+🎯 **Stoic Wisdom**
+Death is not the enemy of life but its teacher, showing us what deserves our attention and energy.
+
+❓ **Tomorrow's Question**
+If your character were a house, and each virtue a room within it, which room would you find locked, dusty, and avoided—and what fears keep you from opening that door?`,
+    parable: `The morning sun cast long shadows across the training grounds as Caius found Maxima sitting alone, gazing at a small silver coin in her weathered palm.
+
+"General, why do you carry that old coin?" Caius asked, settling beside her on the stone bench.
+
+Maxima smiled, her battle-scarred face softening. "This belonged to my first centurion—a man named Brutus who saved my life in Gaul. He died three days after giving it to me, struck down by a fever that came like lightning." She turned the coin slowly, its surface worn smooth by countless touches. "Before he died, he told me something I've never forgotten: 'Maxima, we spend our lives preparing for tomorrow's battles while missing today's victories. Don't make my mistake.'"
+
+Caius frowned. "What mistake?"
+
+"He had planned to visit his daughter after our campaign—hadn't seen her in two years. He was going to tell his wife he loved her when he returned to Rome. He was going to plant the vineyard he'd dreamed of since boyhood." Maxima's voice grew quiet. "Death doesn't wait for our plans, young soldier. It comes when it comes."
+
+She stood, tucking the coin into her tunic. "Every morning, I hold this coin and remember: today might be my last day to act with courage, to speak with kindness, to live with virtue. Not because death is terrible, but because life is precious."
+
+As they walked toward the barracks, Maxima added, "The ancients called this memento mori—remember death. Not to frighten us, but to awaken us. When you truly understand that your time is limited, every moment becomes sacred, every choice significant."
+
+**Moral:** Remembering our mortality doesn't diminish life's joy—it magnifies it, teaching us to cherish what matters and release what doesn't.
+
+*Tomorrow, Maxima will challenge Caius to examine which virtues he has neglected, and why we often avoid developing the very strengths our souls most need.*`,
+  },
 ];

@@ -430,4 +430,70 @@ As if to demonstrate, The Veil's voice carried a note that Idris couldn't quite 
 
 **Tomorrow:** The challenge of reading others' emotions when they cannot read their own.`,
   },
+  {
+    day: 7,
+    title: "The Mirror of Others",
+    date: "2026-03-05",
+    image: "images/emotional-intelligence/day-7.jpg",
+    audio: "audio/emotional-intelligence/day-7",
+    sonnet: `**🪶 Sonnet VII: The Mirror of Others**
+
+Beneath the words that mask what hearts would say,
+Lie trembling truths that bodies can't disguise—
+The merchant's smile that wavers and gives way
+To fears that gather clouds behind his eyes.
+
+We learn to read the language written small
+In shoulders tensed, in voices pitched too high,
+In gaps between what lips would dare entall
+And what the soul's authentic self would cry.
+
+To mirror back these feelings unconfessed
+Requires a heart both steady and aware,
+That sees beyond the masks we wear as dress
+To find the human struggling hidden there.
+
+*When we reflect emotions clear and true,*
+*We help lost souls find pathways back to who.*`,
+    standard: `🧭 Day 7: The Mirror of Others
+
+When we attempt to decode the emotional language of others who lack self-awareness, we often become emotional archaeologists, piecing together fragments of feeling from their words, tone, and body language. This requires tremendous patience and skill, as we must resist the urge to project our own emotional patterns onto them while remaining open to the possibility that their confusion about their feelings is itself valuable information about their inner state.
+
+🧱 **The Concept**
+Emotional mirroring is our ability to reflect and understand the feelings of others, even when they cannot articulate or recognize those emotions themselves.
+
+❓ **Why It Matters**
+Most human conflict stems from emotional miscommunication—people acting from feelings they can't name or understand. When we develop the skill to mirror emotions accurately, we become bridges between people's inner worlds and their outer expression. This capacity transforms relationships from battlegrounds of misunderstanding into spaces of genuine connection.
+
+⚙️ **How It Works**
+Emotional mirroring begins with **attentional discipline**—focusing on what someone is actually expressing rather than what we think they should be feeling. Watch for incongruence: when someone says "I'm fine" but their shoulders are tense, their voice is tight, and they're avoiding eye contact, the emotion is hiding in the gap between words and body. Notice **emotional leakage**—anger that seeps through as sarcasm, fear that disguises itself as criticism, or sadness that presents as irritability. Practice **reflective listening**: "I hear you saying you're not upset, but I'm sensing some frustration in your voice. Am I reading that right?" This gives people permission to discover their own feelings through your mirror. Remember that mirroring isn't about fixing or solving—it's about witnessing and reflecting back what you observe with curiosity rather than judgment.
+
+🎯 **EQ Wisdom**
+When we mirror emotions skillfully, we help others discover parts of themselves they didn't know existed. The greatest gift we can offer another person is the experience of being truly seen and understood, especially in their confusion.
+
+❓ **Tomorrow's Question** — If mirroring emotions helps others understand themselves better, what happens when the emotions we're reflecting back are ones that society—or the person themselves—has labeled as unacceptable or shameful?`,
+    parable: `Idris found himself seated across from a merchant whose face was a mask of politeness, but whose hands trembled as they signed the trade agreement. "Everything is perfectly acceptable," the merchant insisted, yet his voice carried the brittle quality of glass about to shatter.
+
+The Veil glided closer, their presence causing both men to straighten. "Young diplomat," they intoned, "what do you see when you look upon this merchant?"
+
+"I see someone who says he's satisfied," Idris replied carefully, remembering his recent lessons about the pause between trigger and response.
+
+"And what else do you see?"
+
+Idris studied the merchant more closely. The man's smile never reached his eyes, his breathing was shallow, and despite the cool evening air, perspiration beaded on his forehead. "I see... fear? But fear of what?"
+
+The Veil turned to the merchant. "This young man observes that your words speak of satisfaction, yet your body whispers of unease. What wisdom might your body hold that your mind has not yet recognized?"
+
+The merchant's composure cracked slightly. "I... the terms are fair, truly they are. It's just..." He paused, as if discovering his own thoughts. "I've never negotiated such a large contract before. I keep wondering if I've missed something crucial."
+
+"Ah," said The Veil softly. "And now that this feeling has been given words, how does it change in you?"
+
+The merchant's shoulders relaxed visibly. "It feels... smaller somehow. More manageable. I was so afraid of appearing incompetent that I couldn't admit even to myself that I was nervous."
+
+Idris watched this transformation with wonder. By simply reflecting back what he observed without judgment, he had helped the merchant discover his own hidden emotional truth.
+
+**Moral**: When we become skilled mirrors for others' emotions, we help them discover feelings they couldn't name or acknowledge. The art lies not in telling others what they feel, but in reflecting back what we observe with such clarity that they can finally see themselves.
+
+**Tomorrow**: The Veil's gaze turns toward the shadows where shame hides, and Idris must learn what happens when the emotions we mirror back are the ones people have spent lifetimes trying to deny.`,
+  },
 ];

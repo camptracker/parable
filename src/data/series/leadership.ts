@@ -374,4 +374,64 @@ By noon, the crew had developed new protocols, each person understanding not jus
 
 **Tomorrow:** Tova will discover why the most powerful leaders often speak the least, letting others find their own voices in the silence.`,
   },
+  {
+    day: 7,
+    title: "The Mentorship Bridge",
+    date: "2026-03-05",
+    image: "images/leadership/day-7.jpg",
+    audio: "audio/leadership/day-7",
+    sonnet: `**🪶 Sonnet VII: The Mentorship Bridge**
+
+The wisest leaders plant what they won't reap,
+In minds of those who'll sail beyond their shore,
+Not answers given from their knowledge deep,
+But questions asked that open wisdom's door.
+
+Like gardeners who tend but cannot grow
+The seed's potential hidden in the earth,
+They nurture what only others' souls can know,
+And celebrate each moment of rebirth.
+
+The mentor's greatest triumph is release—
+To watch the student surpass teacher's art,
+To find in others' growth their truest peace,
+And know their legacy lives in each heart.
+
+*For leadership that lasts beyond our days*
+*Lives on in those we've helped to find their ways.*`,
+    standard: `👥 Day 7: The Mentorship Bridge
+
+When feedback becomes inquiry, leaders discover that people learn far more from questions they answer themselves than from truths they're told. This questioning approach reveals how often our assumptions about what people "should" know actually block us from understanding what they truly need to grow.
+
+🧱 **The Concept**
+Mentorship transforms leadership from instruction to invitation, creating pathways for others to discover their own wisdom.
+
+❓ **Why It Matters**
+The greatest leaders multiply themselves not by creating followers, but by developing other leaders. True mentorship doesn't just transfer knowledge—it awakens potential that was always there but needed the right conditions to flourish.
+
+⚙️ **How It Works**
+Effective mentorship operates through strategic patience rather than immediate answers. When a team member struggles with a decision, instead of providing the solution, great mentors ask: "What would success look like here?" or "What's worked for you in similar situations?" This approach builds decision-making muscles rather than dependency. Lincoln famously said he learned from everyone he met—the mentor's mindset is fundamentally one of mutual learning. Modern leaders like Satya Nadella transformed Microsoft's culture by modeling this curiosity, asking "What can I learn from you?" as often as offering guidance. The mentor creates safe spaces for experimentation, celebrates intelligent failures, and helps others see patterns in their own growth.
+
+🎯 **Leadership Wisdom**
+The mark of great mentorship isn't how much you know, but how much wisdom you help others discover within themselves.
+
+❓ **Tomorrow's Question** — If you discovered that your greatest leadership legacy would be measured not by your own achievements, but by the achievements of those you've developed, how would this change your daily priorities and the way you invest your time?`,
+    parable: `The storm had passed, but its lessons lingered in the salt air as Tova found Greymane mending nets by the harbor. "Admiral," she said, settling beside him, "my crew improves daily, but I wonder—how do I prepare them to lead others?"
+
+Greymane's weathered hands never paused in their work. "Tell me, Captain, what did you learn from our questioning approach to feedback?"
+
+"That people discover truths more deeply when they find them themselves," Tova replied. "And that my assumptions often clouded what they actually needed to learn."
+
+"Precisely. Now watch." Greymane gestured toward young Marcus, who was teaching newer sailors to read the wind. "See how he doesn't simply point to the sail's position? He asks them what they observe, what they feel in the breeze. He's building navigators, not just crew members."
+
+Tova observed Marcus patiently guiding a sailor through knot-tying, asking "What happens if this line fails in a storm?" rather than simply demonstrating the technique. The sailor's eyes lit with understanding—not just of the knot, but of its purpose.
+
+"Mentorship," Greymane continued, "is the bridge between learning and leading. You've mastered making your crew competent sailors. Now you must help them become captains of their own ships—even if those ships exist only in their minds for now."
+
+As evening approached, Tova watched her transformed crew members naturally begin teaching others, asking the same thoughtful questions she had learned to ask them. Leadership, she realized, was not just about reaching a destination—it was about ensuring others could find their own way.
+
+Moral: The greatest leaders create other leaders by nurturing the wisdom that already exists within those they guide.
+
+Tomorrow, Greymane would share the delicate art of measuring success not by one's own achievements, but by the flourishing of those we've helped to grow.`,
+  },
 ];

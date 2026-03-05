@@ -576,4 +576,64 @@ Months later, as rent arrived punctually and the mill remained in pristine condi
 
 Tomorrow, Hallam will reveal how wise investors multiply their success across many properties without losing their personal touch...`,
   },
+  {
+    day: 10,
+    title: "Building Your Real Estate Empire — Portfolio Expansion & Scaling Strategies",
+    date: "2026-03-05",
+    image: "images/real-estate/day-10.jpg",
+    audio: "audio/real-estate/day-10",
+    sonnet: `**🪶 Sonnet X: Building Your Real Estate Empire**
+
+From single cottage to a dozen doors,
+The investor dreams of vast estate,
+Yet growth without foundation surely pours
+Like sand through fingers, sealing chaotic fate.
+
+Build systems first, then scale with measured pace,
+Let processes preserve your standards true,
+In distant markets, local partners grace
+Your empire with their knowledge, tried and new.
+
+One property taught you tenant's heart,
+Ten properties demand the manager's eye,
+A hundred require systematic art—
+Each brick and beam beneath the same clear sky.
+
+*Expansion multiplies both wealth and care,*
+*Success lies in the systems that you share.*`,
+    standard: `🏠 Day 10: Building Your Real Estate Empire — Portfolio Expansion & Scaling Strategies
+
+The key to scaling across multiple properties and markets lies in **systematization without depersonalization**. You build repeatable processes, leverage technology for efficiency, and create local partnerships while maintaining consistent quality standards. The most successful investors develop **scalable systems** that preserve the personal touch through local property managers or trusted partners who understand their standards and values.
+
+🧱 The Concept
+Portfolio expansion is the art of growing your real estate holdings strategically while maintaining operational excellence and cash flow quality.
+
+❓ Why It Matters
+Scaling your portfolio multiplies your wealth-building potential, but it also multiplies your risks and complexity. Without proper systems and strategy, rapid expansion can transform a profitable investment business into an unmanageable nightmare that destroys both cash flow and peace of mind.
+
+⚙️ How It Works
+**Geographic diversification** starts with markets you understand, then expands methodically to similar markets with strong fundamentals. You might begin with three properties in your home city, then expand to a neighboring city with similar demographics and rent-to-price ratios. **Operational scaling** requires building systems: standardized tenant screening processes, maintenance protocols, rent collection procedures, and financial reporting. Technology becomes crucial—property management software, automated rent collection, and digital maintenance requests. **Team building** involves recruiting local property managers, reliable contractors, and real estate agents in each market. The most successful investors create detailed **standard operating procedures** for everything from tenant turnover to emergency repairs, ensuring consistency regardless of location.
+
+🎯 Real Estate Wisdom
+True wealth in real estate comes not from owning many properties, but from owning many **well-managed** properties that generate predictable cash flow.
+
+❓ Tomorrow's Question — You've built systems, expanded your portfolio, and cash is flowing steadily from multiple properties. But here's the paradox: the more successful you become, the more you realize that your greatest limitation isn't finding deals or managing properties—it's something far more fundamental. What is the one resource that no amount of success can create more of, and how do the wealthiest real estate investors learn to multiply its impact?`,
+    parable: `Dara found Hallam in his study, surrounded by ledgers from properties across three villages. Maps covered his walls, marked with colored pins representing his various holdings.
+
+"I've been watching you manage fifty properties as easily as I once managed five," Dara observed. "Yet you never seem overwhelmed. How?"
+
+Hallam smiled, gesturing to a thick manual on his desk. "When I owned just the mill and two cottages, I managed by memory and instinct. But empire requires system." He opened the manual, revealing detailed procedures for everything from tenant selection to roof repairs. "Every property manager I employ follows these exact methods. Whether in this village or the next, a leaking roof receives the same swift attention, a late payment triggers the same gentle but firm response."
+
+He pointed to a wall chart showing monthly collections from all properties. "See how consistent the numbers are? That's not accident—it's architecture. I built systems that work whether I'm present or traveling to distant holdings."
+
+"But don't you lose the personal touch?" Dara asked.
+
+Hallam walked to his window, gazing at tenants tending their gardens. "The personal touch isn't about doing everything yourself—it's about ensuring your standards and values reach every corner of your empire. My property managers know that we fix problems quickly, treat tenants fairly, and maintain buildings with pride. The system preserves what matters while allowing growth."
+
+He turned back to Dara, his eyes gleaming. "A single candle lights a room, but to illuminate a castle, you must light many candles from that same flame."
+
+Moral: True scaling comes not from doing more yourself, but from creating systems that multiply your best qualities across all your holdings.
+
+Tomorrow, Dara would discover the one constraint that even the most systematic empire-builder cannot overcome...`,
+  },
 ];

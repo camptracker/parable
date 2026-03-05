@@ -584,4 +584,64 @@ She ladled the morning grain porridge and set it aside, then prepared the same r
 
 **Tomorrow:** Lila discovers what happens when the fires burn at the wrong hours...`,
   },
+  {
+    day: 10,
+    title: "The Metabolic Chaos of Disruption",
+    date: "2026-03-05",
+    image: "images/nutrition-science/day-10.jpg",
+    audio: "audio/nutrition-science/day-10",
+    sonnet: `**🪶 Sonnet X: The Metabolic Chaos of Disruption**
+
+When midnight feasts disturb the body's rest,
+And sleep eludes the weary, wakeful mind,
+The metabolic fires burn distressed,
+Their ancient rhythms broken and maligned.
+
+The liver, programmed for the fasting night,
+Receives unwelcome glucose from late meals,
+While hormones, meant to guide by natural light,
+Send mixed signals that the body feels.
+
+Cortisol rises when it should subside,
+Leptin whispers false satiety,
+As ghrelin's hunger cannot be denied,
+Creating metabolic anarchy.
+
+*When we defy our circadian law,*
+*We pay with chaos, dysfunction, and flaw.*`,
+    standard: `🍎 Day 10: The Metabolic Chaos of Disruption
+
+When you disrupt your sleep or eat at irregular times, your metabolic rhythms become desynchronized—like musicians in an orchestra playing different songs. Your liver might be preparing for nighttime fasting while your muscles are still expecting daytime fuel, creating metabolic confusion that impairs insulin sensitivity, disrupts hormone production, and forces your body to work against its natural programming.
+
+🧱 **The Concept**
+Metabolic disruption occurs when lifestyle choices clash with your body's circadian programming, creating a cascade of physiological dysfunction.
+
+❓ **Why It Matters**
+This metabolic chaos doesn't just make you tired—it fundamentally alters how your body processes food, stores fat, and manages energy. Studies show that shift workers and chronic sleep disruptors have dramatically higher rates of diabetes, obesity, and cardiovascular disease, even when controlling for diet and exercise.
+
+⚙️ **How It Works**
+When you eat late at night, your digestive system is biochemically prepared for fasting, leading to poor glucose clearance and increased fat storage. Sleep deprivation disrupts leptin (satiety hormone) and ghrelin (hunger hormone), making you crave high-calorie foods while feeling less satisfied. Your cortisol rhythm becomes erratic, promoting muscle breakdown and abdominal fat storage. Meanwhile, your liver's detoxification processes, normally active during deep sleep, become impaired, affecting everything from cholesterol synthesis to toxin clearance.
+
+🎯 **Science Wisdom**
+Your metabolism isn't just about what you eat—it's about *when* you eat, sleep, and move in harmony with your biological clock.
+
+❓ **Tomorrow's Question** — *If metabolic disruption creates such profound physiological chaos, why do some people seem to thrive on irregular schedules while others crash and burn under the same conditions?*`,
+    parable: `Lila found Maren tending to her three hearths in the deep hours of night, each flame flickering erratically instead of burning with their usual steady glow.
+
+"Master, why do the fires burn so strangely?" Lila asked, noting how the cooking hearth sparked and dimmed unpredictably.
+
+Maren stirred the coals with a heavy iron rod. "Yesterday, I tried to force them against their nature—banking the sleeping hearth during the day, stoking the cooking fire at midnight, keeping the warming hearth blazing when it should have rested. Now watch." She pointed to where sparks flew wildly from the cooking hearth. "This fire expects to rest now, yet I'm demanding it work. The fuel burns poorly, creates more smoke than heat, and wastes the precious wood."
+
+The sleeping hearth, meanwhile, glowed too brightly for the hour, consuming logs that should last until dawn. "And this one," Maren continued, "should be gently warming dreams, but instead it rages like midday, burning through reserves meant for the week ahead."
+
+Lila watched the chaotic dance of flames. "Can they find their rhythm again?"
+
+"With patience and respect for their true nature," Maren replied, carefully adjusting each fire back toward its proper cycle. "But the damage takes time to heal. Wood wasted cannot be unburned, and trust, once broken, must be slowly rebuilt."
+
+As the night deepened, the hearths gradually settled into their ancient rhythm, but Lila could see it would be days before they burned with their former efficiency.
+
+**Moral**: When we force our body's metabolic fires against their natural rhythm, we create chaos that wastes our vital energy and damages the delicate balance within.
+
+*Tomorrow, Lila will discover why some villagers can weather these disruptions while others fall gravely ill from the same chaos.*`,
+  },
 ];
