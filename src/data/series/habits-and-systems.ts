@@ -329,4 +329,62 @@ Rook stared at the walls of completed work—masterpieces born from the aggregat
 
 **Tomorrow**: Rook discovers why the brain sabotages sustainable progress in favor of dramatic failure.`,
   },
+  {
+    day: 6,
+    title: "The Friction Principle",
+    date: "2026-03-05",
+    image: "images/habits-and-systems/day-6.jpg",
+    audio: "audio/habits-and-systems/day-6",
+    sonnet: `**🪶 Sonnet VI: The Friction Principle**
+
+The steepest paths attract the strongest souls,
+Yet gentle slopes deliver travelers whole.
+While dramatic cliffs promise swift ascent,
+Smooth stones beneath reward persistent feet.
+
+Resistance dwells in every noble quest—
+Not enemies to face with sword in hand,
+But friction's weight that makes the simple hard,
+Small barriers that crush the grandest plans.
+
+The master builder clears the path each day,
+Removing rocks that trip tomorrow's stride.
+For laziness, when channeled toward right,
+Makes virtue flow like water finding home.
+
+*Design for ease, not heroic display—*
+*The smoothest road leads farthest from dismay.*`,
+    standard: `🧘 Day 6: The Friction Principle
+
+We choose difficult goals over sustainable ones because our culture celebrates dramatic transformation stories while ignoring the invisible daily work that creates them. We're addicted to the emotional high of ambitious commitments, mistaking intensity for effectiveness, when true change happens through reducing friction, not increasing motivation.
+
+🧱 **The Concept**
+The easier a behavior is to do, the more likely it is to become automatic.
+
+❓ **Why It Matters**
+Most people fail not because they lack motivation, but because their desired behaviors require too much energy to perform consistently. When we design systems that minimize friction—the resistance between intention and action—we tap into the power of human laziness rather than fighting against it.
+
+⚙️ **How It Works**
+Friction works in both directions: reducing barriers for good habits while increasing them for bad ones. Want to read more? Place books on your pillow each morning. Want to exercise? Sleep in your workout clothes. Want to stop mindless scrolling? Delete apps and use browser versions that require logging in each time. The key is making desired behaviors so easy they feel inevitable, while making undesired behaviors require deliberate effort. Small changes in convenience create massive changes in consistency.
+
+🎯 **Systems Wisdom**
+Design for your laziest self, and your motivated self will be unstoppable.
+
+❓ **Tomorrow's Question** — If the path of least resistance determines most of our daily choices, why do we design our lives as if willpower were unlimited and friction didn't exist?`,
+    parable: `Rook stood before two paths leading up the mountain, breathing heavily from his latest failed ascent. One path carved straight up the cliff face—treacherous but direct. The other wound gently around the slope, barely perceptible as it rose.
+
+"I keep choosing the dramatic route," Rook panted to Cairn, who was methodically placing smooth stones along the gentler path. "Every time I think I'll power through with pure determination."
+
+Cairn paused his work, running weathered fingers along a stone worn smooth by forty years of daily handling. "Notice how this stone became perfect not through violent blows, but through gentle, repeated touch. I carved it the same way I built this path—by removing resistance rather than increasing force."
+
+"But surely the direct route is faster?" Rook protested, gesturing toward the cliff.
+
+"Watch," Cairn replied, releasing a small boulder. On the steep path, it tumbled chaotically, gathering destructive speed before crashing into obstacles. On the smooth path, it rolled steadily, effortlessly reaching heights that had defeated many dramatic attempts.
+
+"I spent my youth like that boulder on the cliff—all explosive energy and spectacular failures. Only when I learned to remove the rocks from my path rather than trying to leap over them did I begin to climb mountains." Cairn smiled, placing another stone. "The secret isn't strength, Rook. It's smoothness."
+
+**Moral**: *True power lies not in overcoming resistance, but in designing it away.*
+
+*Tomorrow, Cairn will show Rook why the steepest mountain can be conquered by those who understand the hidden laws of momentum...*`,
+  },
 ];

@@ -593,4 +593,68 @@ Caius lifted his gladius, seeing it anew. "So we fight not for certain victory, 
 
 *Tomorrow, Caius will face a choice that tests whether wisdom lies in accepting fate or fighting to change it.*`,
   },
+  {
+    day: 9,
+    title: "The Practice of Negative Visualization",
+    date: "2026-03-05",
+    image: "images/stoic-philosophy/day-9.jpg",
+    audio: "audio/stoic-philosophy/day-9",
+    sonnet: `**🪶 Sonnet IX: The Practice of Negative Visualization**
+
+In morning's quiet, before the world awakes,
+I sit and ponder what might slip away—
+The breath that fills my lungs, the choice that makes
+This dawn complete, the loved ones who might stray.
+
+Not morbid thoughts, but shields against despair,
+These mental rehearsals of potential loss
+Prepare the soul for what we cannot bear,
+And teach us how to carry any cross.
+
+For when we taste tomorrow's bitter cup
+Today, while sweetness lingers on the tongue,
+We build the strength to face what fortune's up-
+turned hand might bring before our song is sung.
+
+*Thus wisdom arms us with imagination's might—*
+*To face the dark by practicing twilight.*`,
+    standard: `🏛️ Day 9: The Practice of Negative Visualization
+
+**🧱 The Concept**
+Negative visualization (premeditatio malorum) involves mentally rehearsing potential losses or setbacks to build resilience and appreciate what we currently have.
+
+**❓ Why It Matters**
+By imagining loss before it occurs, we prepare our minds for adversity and reduce the shock when difficulties arise. This practice also cultivates gratitude for present blessings and prevents us from taking them for granted.
+
+**⚙️ How It Works**
+Spend a few minutes each day imagining the loss of something you value—your health, a relationship, your job, or even life itself. Don't dwell morbidly, but consider how you would respond with Stoic virtue. For example, imagine losing your income and visualize yourself maintaining dignity, finding new opportunities, and supporting your family through wisdom and perseverance. This mental rehearsal builds emotional calluses, making you less vulnerable to fortune's changes while deepening appreciation for what you possess today.
+
+**🎯 Stoic Wisdom**
+"What is grief but an opinion?" — Epictetus reminds us that our suffering comes not from events themselves, but from our judgments about them.
+
+**❓ Tomorrow's Question** — If you knew that everything you cherish could vanish tomorrow, how would that knowledge change the way you engage with life today?`,
+    parable: `The morning mist clung to the training grounds as Maxima watched Caius practice his sword work. The young soldier's movements had grown confident, perhaps too confident.
+
+"Your blade work improves," Maxima observed, "but tell me—what happens when this sword breaks?"
+
+Caius paused mid-thrust. "I... would find another weapon, sir."
+
+"And if your sword arm were severed?"
+
+The question hung in the air like the morning fog. Caius lowered his weapon, disturbed by the thought.
+
+"You teach me to imagine such horrors?" he asked.
+
+"I teach you to prepare for them," Maxima replied, settling onto a stone bench worn smooth by countless soldiers. "Each dawn, I spend time imagining loss—the death of friends, the failure of campaigns, even the fall of Rome itself. Not to invite despair, but to build strength."
+
+He gestured to an old scar across his forearm. "When this wound came in Gaul, I was ready. I had already lived through worse in my mind. The pain became merely pain, not catastrophe."
+
+Caius sat beside his mentor, struggling with the concept. "But surely such thoughts breed fear?"
+
+"On the contrary," Maxima smiled. "When we rehearse loss, we discover our capacity to endure. We also learn to treasure what we have while we have it. This morning's bread tastes sweeter when we have imagined hunger."
+
+**Moral:** *True strength comes not from avoiding thoughts of loss, but from facing them with wisdom, building resilience while cultivating gratitude for the present moment.*
+
+**Tomorrow:** *Caius will learn how philosophy transforms not just how we think, but how we live each precious day.*`,
+  },
 ];

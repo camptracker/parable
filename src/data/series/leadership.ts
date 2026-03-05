@@ -314,4 +314,64 @@ Tova felt something shift in her chest—a recognition that trust wasn't about b
 
 *Tomorrow, Greymane will share the most dangerous mistake new leaders make when giving feedback...*`,
   },
+  {
+    day: 6,
+    title: "The Feedback Mirror",
+    date: "2026-03-05",
+    image: "images/leadership/day-6.jpg",
+    audio: "audio/leadership/day-6",
+    sonnet: `**🪶 Sonnet VI: The Feedback Mirror**
+
+Not hammer's blow that breaks the spirit's will,
+But mirror's truth that shows the soul its face,
+The leader's art: to heal, not wound or kill,
+To light the path, not shame in dark disgrace.
+
+When words like daggers pierce the tender heart,
+They close the mind and build defensive walls,
+But wisdom speaks to make the whole, not part,
+And lifts the fallen when the spirit falls.
+
+The master knows that growth needs gentle rain,
+Not lightning's flash that scorches earth below,
+In safety's garden, truth can bloom from pain,
+And feedback's mirror helps the person grow.
+
+*For those who lead with love instead of fear,*
+*Find broken hearts become both strong and clear.*`,
+    standard: `👥 Day 6: The Feedback Mirror
+
+When teams know that admitting mistakes increases respect rather than diminishes it, they transform into learning machines—openly sharing failures, seeking help before crises emerge, and innovating without fear. This reveals whether you've built a culture of growth or one of self-preservation, where energy flows toward learning or toward hiding.
+
+🧱 **The Concept**
+Effective feedback is a mirror, not a hammer—it reflects reality to help others see themselves clearly rather than beating them into submission.
+
+❓ **Why It Matters**
+Most people have never received truly developmental feedback that made them better rather than smaller. Leaders who master the art of the feedback mirror create exponential growth in others while building deeper trust and psychological safety.
+
+⚙️ **How It Works**
+The feedback mirror operates on three principles: specificity over generality ("Your presentation lost the audience during slides 4-6 when you read directly from text" vs. "You need to improve your presentations"), impact over intent ("When you interrupted Sarah three times, she stopped contributing" vs. "You're too aggressive"), and future focus over past judgment ("Next time, try pausing for questions after each main point" vs. "You should have done better"). Great leaders also create feedback loops—they ask "What feedback do you have for me?" and model receiving it gracefully. Lincoln famously sought harsh criticism from his cabinet, knowing that leaders who can't hear truth can't make good decisions.
+
+🎯 **Leadership Wisdom**
+Feedback that transforms rather than wounds requires courage to speak truth and skill to package it in love.
+
+❓ Tomorrow's Question — If you could only give feedback by asking questions instead of making statements, how would this change both what your team learns about themselves and what you discover about your own assumptions?`,
+    parable: `The morning sun cast long shadows across the harbor as Tova found herself face-to-face with her crew's greatest failure yet. The night watch had missed crucial storm warnings, and their ship had barely avoided the rocks. Her predecessors would have unleashed fury, but Greymane's recent words echoed: "The mirror shows truth; the hammer only creates fear."
+
+"Gather round," Tova called, her voice steady. The crew approached with downcast eyes, expecting the storm of her wrath. Instead, she pulled out the ship's log. "Marcus, walk me through your thinking at midnight when you saw those clouds."
+
+Marcus straightened, surprised by the question rather than accusation. "I... I thought they were too far north to matter, Captain. I see now I was watching the sky but not reading the sea."
+
+"And what does the sea tell you that the sky might hide?" Tova pressed gently.
+
+As Marcus began to articulate the signs he'd missed—the subtle shift in wave patterns, the unusual bird flight—something remarkable happened. Other crew members began adding their observations, building a collective understanding none had possessed alone.
+
+Greymane, watching from the docks, smiled. The young captain had discovered what he'd learned through decades: feedback was not about proving who was wrong, but about making everyone clearer about what was true.
+
+By noon, the crew had developed new protocols, each person understanding not just what to do, but why. They had looked into the mirror of their mistake and seen not shame, but the path to mastery.
+
+**Moral:** The leader who holds up a mirror creates clarity; the one who wields a hammer creates only fear.
+
+**Tomorrow:** Tova will discover why the most powerful leaders often speak the least, letting others find their own voices in the silence.`,
+  },
 ];

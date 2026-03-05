@@ -530,4 +530,58 @@ She handed Lila a jar of dark, rich compost tea. "Your gut bacteria are like the
 
 *Tomorrow, Lila would discover how the very walls meant to protect her garden could become the pathway for chaos to enter...*`,
   },
+  {
+    day: 9,
+    title: "The Circadian Kitchen",
+    date: "2026-03-05",
+    image: "images/nutrition-science/day-9.jpg",
+    audio: "audio/nutrition-science/day-9",
+    sonnet: `**🪶 Sonnet IX: The Circadian Kitchen**
+
+When morning sun ignites the metabolic fire,
+Insulin stands ready, eager to receive
+Each carbohydrate the body may require,
+And swiftly grants the muscles sweet reprieve.
+
+But as the day progresses toward its end,
+The flame grows cautious, whispers soft and low,
+The same sweet fuel it once rushed to befriend
+Now meets resistance in its steady flow.
+
+For growth hormone waits in slumber's deep
+To weave amino threads through muscle fiber,
+While melatonin bids the body keep
+Its stores intact with metabolic cipher.
+
+*Each nutrient has its appointed hour to shine,*
+*When body's rhythm and fuel's purpose align.*`,
+    standard: `🍎 Day 9: The Circadian Kitchen
+
+**🧱 The Concept**
+Your metabolism runs on a 24-hour clock, with different nutrients being processed more efficiently at different times of day.
+
+**❓ Why It Matters**
+Eating the same meal at breakfast versus dinner can produce dramatically different metabolic outcomes. Your body's ability to handle carbohydrates, process fats, and build protein follows predictable rhythms that evolved over millions of years.
+
+**⚙️ How It Works**
+Insuin sensitivity peaks in the morning and gradually declines throughout the day, making your body most efficient at processing carbohydrates early on. Growth hormone surges during deep sleep, optimizing protein synthesis for muscle repair when amino acids are available. Cortisol's natural morning spike actually helps mobilize stored energy, while melatonin production in the evening shifts your body toward fat storage mode. A bowl of oatmeal at 7 AM gets shuttled efficiently into muscle glycogen, while the same bowl at 9 PM is more likely to be converted to fat storage.
+
+**🎯 Science Wisdom**
+Timing isn't just when you eat—it's about aligning your fuel choices with your body's natural metabolic rhythms.
+
+**❓ Tomorrow's Question** — *If your metabolism follows such precise circadian rhythms, what happens to these natural patterns when you disrupt your sleep or eat at irregular times?*`,
+    parable: `As dawn broke over the village, Lila found Maren tending to three different fires in her hearth—each burning with a unique intensity and purpose.
+
+"Notice, dear apprentice, how each flame has its hour," Maren said, stirring a pot over the brightest fire. "This morning blaze burns hot and eager, ready to transform even the heaviest grains into pure energy. But watch." She gestured toward the gentler evening fire. "By nightfall, this same flame grows contemplative, preferring to store rather than consume."
+
+Lila observed as Maren moved between the fires throughout the day. The morning fire devoured root vegetables and grains with fierce efficiency, while the midday flame burned steady and balanced. But when evening came, the quieter fire seemed to whisper rather than roar, treating even simple foods with careful reservation.
+
+"Your body keeps three fires too," Maren explained, banking the evening coals. "The morning fire of metabolism burns bright with insulin's eager flame. The midday fire maintains its steady rhythm. But the evening fire? It knows that night approaches, when the body must repair and restore rather than consume."
+
+She ladled the morning grain porridge and set it aside, then prepared the same recipe as evening fell. "Watch tomorrow what becomes of each portion, though they be identical twins."
+
+**Moral:** The wise healer feeds each fire in its season, knowing that timing transforms even simple sustenance.
+
+**Tomorrow:** Lila discovers what happens when the fires burn at the wrong hours...`,
+  },
 ];

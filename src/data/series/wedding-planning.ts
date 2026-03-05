@@ -121,4 +121,70 @@ Suddenly, their wedding began to speak in their own language.
 
 *Tomorrow, Nana Rose will challenge them to discover what remains when all expectations fall away...*`,
   },
+  {
+    day: 3,
+    title: "The Guest List Mirror",
+    date: "2026-03-05",
+    image: "images/wedding-planning/day-3.jpg",
+    audio: "audio/wedding-planning/day-3",
+    sonnet: `**🪶 Sonnet III: The Guest List Mirror**
+
+Upon the parchment lies a sacred roll,
+Each name inscribed a choice of heart or mind,
+To populate the witness of two souls—
+But obligation's chains can make us blind.
+
+The Hendersons we haven't seen for years,
+The golf club friends who barely know our names,
+They crowd the list while love's true circle clears,
+And duty dims our celebration's flames.
+
+Yet close your eyes and see the perfect day—
+Whose faces shine with genuine delight?
+Those tears of joy, that laughter's pure display,
+Those souls who've walked beside you through the night.
+
+*Your guest list mirrors who you choose to be:*
+*Invite the hearts that set your love most free.*`,
+    standard: `💍 Day 3: The Guest List Mirror
+
+When you strip away the shoulds, what remains is often startlingly simple: the faces of people whose presence would make your joy feel complete, the rituals that hold personal meaning, and the atmosphere where you can be authentically yourselves. This clarity reveals that your heart wants celebration, not performance—connection, not perfection.
+
+🧱 **The Concept**
+Your guest list is a mirror that reflects your values, priorities, and the life you're building together.
+
+❓ **Why It Matters**
+Every person you invite shapes the energy of your day, influences your budget, and affects your stress levels. The guest list isn't just names on paper—it's the audience for your love story, and choosing wisely determines whether you feel supported or scrutinized on your wedding day.
+
+⚙️ **How It Works**
+Start with your inner circle: who are the people whose absence would leave a hole in your heart? Then expand thoughtfully, asking whether each addition brings joy or obligation. Consider creating categories: must-have (immediate family, closest friends), would-love (extended family, good friends), and nice-to-have (acquaintances, plus-ones). Remember that intimate doesn't mean lesser—a 30-person wedding can be as meaningful as a 300-person celebration. The key is intentionality: every guest should be someone whose presence enhances your joy rather than someone you invite out of guilt, tradition, or social expectation.
+
+🎯 **Wedding Wisdom**
+Your wedding guest list should read like a love letter to the relationships that have shaped your journey together.
+
+❓ **Tomorrow's Question**—If money were truly no object but you could only invite people who genuinely celebrate your relationship (not just show up out of obligation), how would your guest list change, and what does that reveal about the difference between the wedding you think you should have versus the one that would actually fill your heart?`,
+    parable: `The morning sun filtered through Nana Rose's office windows as Dove spread three different guest lists across the mahogany table, each one longer than the last. "My mother says we can't not invite the Hendersons," Dove sighed, pointing to names that seemed to multiply before her eyes. "And Elm's father insists on his entire golf club."
+
+Elm rubbed his temples. "We started with forty people we actually wanted there. Now we're at two hundred and counting."
+
+Nana Rose poured three cups of chamomile tea, her silver bracelets chiming softly. "Tell me, dear ones, when you close your eyes and imagine your perfect wedding moment—perhaps your first dance—whose faces do you see watching you?"
+
+Dove's eyes fluttered shut. "My sister Sarah, crying happy tears. Your brother Jake, probably making faces to make us laugh. My grandmother, if she's able to travel..."
+
+"My college roommates," Elm added quietly. "The ones who knew us when we first met. And Mrs. Chen from next door—she's been like a second mother to us both."
+
+"Beautiful," Nana Rose smiled. "Now tell me about the Hendersons."
+
+Dove's face fell. "I haven't spoken to them in three years. But mother says they'll be offended if we don't invite them after they invited us to their daughter's wedding."
+
+"Ah," Nana Rose nodded knowingly. "So we're planning their wedding, not yours?" She drew a circle on a fresh piece of paper. "Your guest list is a mirror, my dears. It reflects not just who you know, but who you are. Every name you add changes the reflection. The question isn't who might be offended if they're not invited—it's who would be heartbroken to miss witnessing your love."
+
+Elm leaned forward. "But how do we handle the family pressure?"
+
+"With truth and kindness," Nana Rose replied. "'We're planning an intimate celebration with our closest loved ones. We hope you'll understand and celebrate with us in spirit.'" She tapped the circle she'd drawn. "Your wedding day energy comes from your guests. Choose people who fill you up, not drain you."
+
+Moral: A guest list built on obligation creates a celebration of appearances; one built on love creates a celebration of the heart.
+
+Tomorrow, we'll explore what happens when your authentic guest list collides with financial reality—and discover that the most meaningful celebrations often emerge from the most honest constraints.`,
+  },
 ];

@@ -856,4 +856,61 @@ Kael understood. "So the abundance of information becomes a trap?"
 
 Tomorrow, Sable would reveal why humans consistently choose the complicated path over the profitable one...`,
   },
+  {
+    day: 12,
+    title: "The Risk of Playing It Too Safe",
+    date: "2026-03-05",
+    image: "images/financial-independence/day-12.jpg",
+    audio: "audio/financial-independence/day-12",
+    sonnet: `**🪶 Sonnet XII: The Risk of Playing It Too Safe**
+
+In vaults of gold where coins lie still and cold,
+A greater thief than bandits comes to steal—
+Not sword nor mask, but time makes fortunes fold,
+As silent rot makes strongest coffers reel.
+The merchant's hoard beneath his floor lies dead,
+While prices climb like morning's gentle sun;
+What bought him bread may scarce buy crumbs instead,
+When decades pass and inflation's work is done.
+The safest path proves treacherous and long,
+Where stagnant pools breed pestilence and loss;
+While rivers flowing swift and true stay strong,
+Though rocks may cause them turbulence to toss.
+*Though storms may shake the tree that seeks the light,*
+*The seed in darkness dies without a fight.*`,
+    standard: `💰 Day 12: The Risk of Playing It Too Safe
+
+🧱 **The Concept**
+While emergency funds and conservative savings are essential, keeping all your money in "safe" investments like savings accounts actually guarantees you'll lose purchasing power to inflation over time.
+
+❓ **Why It Matters**
+Money sitting in a 0.5% savings account loses value when inflation runs at 3% annually. What feels safe today becomes a slow leak tomorrow. The "riskiest" long-term strategy might be taking no investment risk at all.
+
+⚙️ **How It Works**
+If you save $10,000 in a savings account earning 1% while inflation averages 3%, your money's purchasing power shrinks by 2% each year. After 20 years, that $10,000 can only buy what $6,700 could today. Meanwhile, the same money in diversified investments historically growing at 7% annually would be worth about $38,700 in today's purchasing power. The math is unforgiving: **inflation risk** often exceeds **market risk** over long time horizons. Beyond your emergency fund, money needs to grow faster than prices rise.
+
+🎯 **Buffett Wisdom**
+"The biggest risk is not taking any risk... In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks."
+
+❓ **Tomorrow's Question** — If taking some risk with your investments is necessary to beat inflation, how do you know how much risk is appropriate for your specific situation?*`,
+    parable: `The morning mist clung to the village as Kael found Sable tending to her small garden behind the cottage. The elder's weathered hands moved carefully among the sprouting vegetables, pulling weeds with practiced precision.
+
+"Your emergency fund grows well," Sable observed without looking up. "But tell me, young one, where do you keep the rest of your coins?"
+
+"Buried safely beneath my floor," Kael replied proudly. "Just as you taught me to be cautious."
+
+Sable's hands stilled. She lifted a young tomato plant, its roots pale from too much shade. "This seedling was safe in the dark corner of my garden. Protected from wind, from harsh sun, from every danger." She held it beside a robust plant growing in full light. "But see how weak it became? Safety from all risk became its greatest danger."
+
+Tobren approached, carrying a sack of grain. "I learned this lesson the hard way," he said. "Years ago, I stored all my harvest in the safest place I knew—my cellar. No thieves, no weather could touch it. But the rats found it anyway, and what the rats didn't take, the dampness spoiled. I lost more to 'safety' than I ever did to storms."
+
+Sable nodded thoughtfully. "Money hidden away faces its own rats—the slow, steady nibbling of rising prices. What costs one copper today will cost more tomorrow. Coins that don't grow become coins that shrink."
+
+Kael frowned. "But if I put my money where it might grow, couldn't I lose it all?"
+
+"The seedling might face storms in the light," Sable replied, "but in the darkness, its death is certain. The question isn't whether to face risks, but which risks serve growth and which serve only fear."
+
+**Moral:** The greatest risk often lies in taking no risk at all, for what seems safest may slowly wither away.
+
+*Tomorrow, Kael will learn how to measure which risks are worth taking, and which are merely gambles in disguise.*`,
+  },
 ];

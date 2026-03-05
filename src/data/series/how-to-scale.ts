@@ -401,4 +401,66 @@ Vex looked around his harmonious workshop with new eyes. "You're saying I should
 
 **Tomorrow:** Ironmere will reveal why the strongest structures are built with the fewest constraints.`,
   },
+  {
+    day: 7,
+    title: "The Principles Over Process Revolution",
+    date: "2026-03-05",
+    image: "images/how-to-scale/day-7.jpg",
+    audio: "audio/how-to-scale/day-7",
+    sonnet: `**🪶 Sonnet VII: The Principles Over Process Revolution**
+
+When rules multiply like weeds in fertile ground,
+Each new procedure breeds another need,
+Till workers lose themselves in forms they've found,
+And bureaucracy chokes the swiftest deed.
+
+But principles, like stars that guide the lost,
+Illuminate the path through unknown night,
+They teach the heart what matters, worth the cost,
+And turn each worker to a beacon bright.
+
+No manual thick enough could ever hold
+The wisdom needed for tomorrow's test,
+Yet simple truths, when deeply felt and told,
+Empower souls to give their very best.
+
+*For rules constrain the hands to known refrain,*
+*But principles set free the thinking brain.*`,
+    standard: `🚀 Day 7: The Principles Over Process Revolution
+
+The most disciplined organizations eliminate rules because they've discovered something profound: when people deeply understand the 'why' behind decisions, they make better choices than any rulebook could dictate. Rules tell you what to do in known situations, but principles guide you through the unknown—and scaling means constantly navigating uncharted territory.
+
+🧱 **The Concept**
+Principle-driven organizations replace rigid processes with clear decision-making frameworks that empower every person to act like an owner.
+
+❓ **Why It Matters**
+Rules become bottlenecks at scale—they require approval chains, create exceptions, and break down in novel situations. But when your team operates from shared principles, they can move at the speed of trust rather than the speed of bureaucracy. The most successful scaling companies realize that their competitive advantage isn't having the best processes, it's having people who can create the right process for any situation.
+
+⚙️ **How It Works**
+Netflix eliminated expense policies and replaced them with one principle: "Act in Netflix's best interest." Amazon's leadership principles guide decisions from hiring to product launches without prescriptive rules. Patagonia's environmental mission enables employees to make customer service decisions that strengthen brand loyalty without checking with managers. These companies invest heavily in onboarding people into their principles, then trust those principles to scale decision-making. When conflicts arise, they return to principles rather than creating new rules.
+
+🎯 **Scaling Wisdom**
+Rules scale linearly with problems, but principles scale exponentially with people. The goal isn't zero rules—it's having so few that everyone knows them by heart.
+
+❓ **Tomorrow's Question** — If principles create such powerful alignment, why do the most successful companies intentionally hire people whose personal values conflict with their corporate principles?`,
+    parable: `Vex stumbled through Ironmere's workshop, consulting a thick manual for every task. "Master, your apprentices' rules are overwhelming—there's a procedure for everything, yet nothing gets done efficiently."
+
+Ironmere chuckled, watching Vex fumble with the lengthy protocols. "I wrote those rules when I was young and foolish, believing I could anticipate every situation. But tell me, what happens when you encounter something not in the manual?"
+
+"I... I have to find you and ask," Vex admitted.
+
+"Precisely. And when I built my city, could I run to someone for every decision?" Ironmere pulled out a single, worn piece of parchment. "This contains the three principles that guided every choice: Build for beauty, build for permanence, build for the people. Every worker, from mason to architect, carried these words in their heart."
+
+Vex studied the simple phrases. "But surely you needed more specific guidance?"
+
+"Watch," Ironmere said, gesturing to his current apprentices. One was choosing between expensive marble and practical stone—without hesitation, she selected materials that balanced beauty with permanence. Another faced a design conflict—he immediately consulted with the future residents rather than impose his vision.
+
+"They've internalized the 'why' behind every decision," Ironmere explained. "Rules tell you what to do; principles tell you how to think. When your workshop grows beyond your direct oversight, which would you rather have: people who follow instructions, or people who share your judgment?"
+
+Vex burned the manual that evening, beginning to draft principles instead.
+
+**Moral:** *The master's greatest achievement is not perfect rules, but perfect understanding.*
+
+Tomorrow: *Why the wisest builders sometimes choose apprentices who question their most sacred beliefs.*`,
+  },
 ];

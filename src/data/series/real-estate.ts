@@ -520,4 +520,60 @@ As evening shadows stretched across the ledger, Dara understood that true deal m
 
 *Tomorrow, Hallam would reveal the alchemy of transforming vacant shells into income-producing assets...*`,
   },
+  {
+    day: 9,
+    title: "Property Management — The Foundation of Cash Flow",
+    date: "2026-03-05",
+    image: "images/real-estate/day-9.jpg",
+    audio: "audio/real-estate/day-9",
+    sonnet: `**🪶 Sonnet IX: Property Management — The Foundation of Cash Flow**
+
+When vacant walls stand silent, cold, and bare,
+The investor's vision sees what might yet be—
+But dreams alone cannot transform the air
+Into the gold of monthly tenancy.
+
+The wise landlord knows that screening comes first,
+That character outweighs the fattest purse,
+For problem tenants make investments cursed,
+While quality folk make properties diverse.
+
+With systems built and standards clearly set,
+Communication flows like morning dew,
+Each maintenance call answered without fret,
+Each lease renewal planned and thought right through.
+
+*For buildings may provide the stage and space,*
+*But management conducts the rental's grace.*`,
+    standard: `🏠 Day 9: Property Management — The Foundation of Cash Flow
+
+The answer lies in establishing robust **property management systems** from day one, treating tenant screening as your first line of defense, and building relationships rather than just collecting rent. Smart investors know that proper management isn't an expense—it's the engine that transforms properties into passive income machines.
+
+🧱 **The Concept**
+Property management is the operational backbone that determines whether your investment generates consistent cash flow or becomes a constant headache.
+
+❓ **Why It Matters**
+Even the best-located, perfectly-financed property will fail without competent management. Poor management leads to high vacancy rates, problem tenants, deferred maintenance, and sleepless nights. Conversely, excellent management can make an average property outperform market expectations through higher retention, premium rents, and lower operating costs.
+
+⚙️ **How It Works**
+Effective property management starts with **rigorous tenant screening**—verifying income (3x rent minimum), checking credit scores, calling previous landlords, and conducting background checks. Once tenants are in place, establish clear communication channels, respond promptly to maintenance requests, and conduct regular property inspections. Create detailed lease agreements that protect your interests while being fair to tenants. Build a reliable network of contractors, maintain adequate cash reserves for unexpected repairs, and track all expenses meticulously. Whether you self-manage or hire professionals, systems and standards matter more than good intentions.
+
+🎯 **Real Estate Wisdom**
+Great property managers don't just collect rent—they preserve and enhance asset value while creating positive tenant relationships that reduce turnover and maximize long-term profitability.
+
+❓ **Tomorrow's Question** — If property management is about maximizing income while minimizing headaches, what happens when you own multiple properties across different markets? How do you scale your operations without losing control or sacrificing the personal touch that keeps good tenants happy?`,
+    parable: `Dara found Hallam inspecting the roof tiles of the old mill he'd just purchased, his weathered hands running along the gutters with practiced precision. "The building is sound," she observed, "but how do you turn empty rooms into gold?"
+
+Hallam smiled, pulling out a worn ledger. "Watch and learn, young carpenter. First, we choose our tenants like you choose your wood—carefully, with an eye for quality that will last." He showed her pages of notes about prospective renters: their trades, their families, their reputations in the village. "A tenant who pays late once will pay late always. A tenant who keeps a tidy cottage will keep my mill the same way."
+
+Over the following weeks, Dara watched as Hallam interviewed each applicant personally, visiting their current homes, speaking with their employers and neighbors. When the miller's son applied, offering to pay six months in advance, Hallam politely declined. "His father drinks away the grain profits," he explained. "Desperation makes poor tenants."
+
+Instead, he chose the young weaver and her family—modest folk with steady income and glowing references. He spent a morning showing them every corner of their new home, explaining his expectations while listening to theirs. "A good landlord plants seeds of respect," he told Dara. "Harvest follows naturally."
+
+Months later, as rent arrived punctually and the mill remained in pristine condition, Hallam's wisdom became clear. "The building may hold the tenants," he said, "but good management holds the investment together."
+
+**Moral**: The foundation of rental income isn't built with bricks and mortar, but with careful selection, clear communication, and consistent care.
+
+Tomorrow, Hallam will reveal how wise investors multiply their success across many properties without losing their personal touch...`,
+  },
 ];

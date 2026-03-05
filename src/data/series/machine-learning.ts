@@ -365,4 +365,60 @@ He showed Nyx a third tablet, more complex still. This one seemed to pit two voi
 
 **Tomorrow:** The Archivist's eyes gleamed as he produced a tablet that seemed to argue with itself about which ancient wisdom to trust. "But tell me, apprentice — when old wisdom conflicts with new evidence, how should a truly wise tablet decide which voice to follow?"`,
   },
+  {
+    day: 7,
+    title: "The Learning Rate Dilemma",
+    date: "2026-03-05",
+    image: "images/machine-learning/day-7.jpg",
+    audio: "audio/machine-learning/day-7",
+    sonnet: `**🪶 Sonnet VII: The Learning Rate Dilemma**
+
+Between the rush of youth and wisdom's crawl,
+Lies learning's pace — too swift destroys the past,
+Too slow ignores the present's urgent call,
+While knowledge wavers, first to last.
+
+The gradient descends through valleys deep,
+With steps both bold and careful, measured well,
+Some algorithms take a mighty leap,
+While others inch through learning's citadel.
+
+Adaptive rates begin with courage strong,
+Then gentle as the patterns come to light,
+Each parameter finds its rightful song,
+In chorus tuned to learning's sacred rite.
+
+*The master's art: to know when hearts should race,*
+*And when to trust in wisdom's measured pace.*`,
+    standard: `🤖 Day 7: The Learning Rate Dilemma
+
+The mathematical principle governing trust versus adaptation is the **learning rate** — a parameter that controls how aggressively a model updates its beliefs when encountering new evidence. Too high, and the model abandons valuable prior knowledge; too low, and it stubbornly ignores contradictory data. This creates what we call the **learning rate dilemma**.
+
+🧱 **The Concept**
+The learning rate determines how much a model's parameters change with each training example, fundamentally controlling the speed and stability of learning.
+
+❓ **Why It Matters**
+Choosing the right learning rate is crucial because it governs whether your model will converge to a solution, oscillate wildly, or get stuck in suboptimal patterns. It's the difference between a student who learns steadily, one who jumps to conclusions, and one who refuses to change their mind.
+
+⚙️ **How It Works**
+In gradient descent, the learning rate multiplies the gradient (direction of steepest improvement) to determine how big a step to take toward better performance. A learning rate of 0.01 means we take small, cautious steps — safe but slow. A rate of 1.0 means we take giant leaps — fast but potentially unstable, like trying to descend a mountain by jumping rather than walking. Many modern algorithms use **adaptive learning rates** that start large for quick progress and shrink over time for fine-tuning, or even adjust differently for each parameter based on how much it has been changing. Some algorithms like Adam combine momentum (remembering previous steps) with adaptive rates to navigate the complex landscape of possible solutions more intelligently.
+
+🎯 **ML Insight**
+The optimal learning rate often lies not in a single value, but in a carefully orchestrated schedule that evolves as the model learns.
+
+❓ **Tomorrow's Question** — If we can schedule learning rates to change over time, what deeper principle determines not just how fast we should learn, but in which direction we should take each step when the landscape of possible improvements has millions of dimensions?`,
+    parable: `In the Hall of Patterns, Nyx watched The Archivist tend to his ancient stone tablets, each one slowly learning to predict the rains. "Master," she asked, "when you show the tablets new weather signs that contradict what they've learned, how do they decide whether to trust their ancient wisdom or embrace the new?"
+
+The Archivist smiled, adjusting a small crystal weight on each tablet. "Observe these weights, child. They control the **pace of belief**. When I make them heavy, the tablets change their predictions boldly with each new storm — but sometimes they forget centuries of accumulated wisdom in their eagerness. When I make them light, the tablets hold fast to their knowledge, but may stubbornly ignore the changing climate."
+
+Nyx noticed how The Archivist constantly adjusted these weights, making them lighter as each tablet grew wiser. "The weight must match the tablet's stage of learning," she realized. "Heavy when young and ignorant, lighter as ancient wisdom accumulates."
+
+"Precisely," The Archivist nodded. "But I have discovered something profound — different aspects of prediction require different paces. Some tablets learn the rhythm of seasons quickly but take centuries to understand the deeper cycles. So I give each corner of each tablet its own weight, its own pace of change."
+
+As twilight fell, Nyx watched the tablets glow softly, each fragment learning at its own rhythm, like a symphony of understanding where every note found its own tempo.
+
+**Moral**: *The pace of learning is not one speed for all knowledge, but a symphony of rates that must harmonize with the complexity of what is being learned.*
+
+*Tomorrow, we shall discover how these tablets choose not just their pace, but their very direction when the paths to wisdom stretch in countless dimensions.*`,
+  },
 ];
