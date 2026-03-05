@@ -1,11 +1,11 @@
 {
   "financial-independence": {
-    "latestDay": 13,
+    "latestDay": 14,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 9
+        "lastDaySent": 10
       },
       "zany": {
         "telegramId": "8483194333",
@@ -15,12 +15,12 @@
     }
   },
   "nutrition-science": {
-    "latestDay": 10,
+    "latestDay": 11,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 6
+        "lastDaySent": 7
       },
       "zany": {
         "telegramId": "8483194333",
@@ -30,72 +30,72 @@
     }
   },
   "negotiation": {
-    "latestDay": 9,
+    "latestDay": 10,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 5
+        "lastDaySent": 6
       }
     }
   },
   "stoic-philosophy": {
-    "latestDay": 10,
+    "latestDay": 11,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 6
+        "lastDaySent": 7
       }
     }
   },
   "music-theory": {
-    "latestDay": 10,
+    "latestDay": 11,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 6
+        "lastDaySent": 7
       }
     }
   },
   "real-estate": {
-    "latestDay": 10,
+    "latestDay": 11,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 6
+        "lastDaySent": 7
       }
     }
   },
   "storytelling": {
-    "latestDay": 10,
+    "latestDay": 11,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 6
+        "lastDaySent": 7
       }
     }
   },
   "cooking": {
-    "latestDay": 9,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 5
-      }
-    }
-  },
-  "building-relationships": {
     "latestDay": 10,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
         "lastDaySent": 6
+      }
+    }
+  },
+  "building-relationships": {
+    "latestDay": 11,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 7
       },
       "zany": {
         "telegramId": "8483194333",
@@ -105,26 +105,36 @@
     }
   },
   "meaning-of-life": {
-    "latestDay": 8,
+    "latestDay": 9,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 4
+        "lastDaySent": 5
       }
     }
   },
   "how-to-scale": {
-    "latestDay": 8,
+    "latestDay": 9,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 4
+        "lastDaySent": 5
       }
     }
   },
   "machine-learning": {
+    "latestDay": 9,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 5
+      }
+    }
+  },
+  "emotional-intelligence": {
     "latestDay": 8,
     "recipients": {
       "jon": {
@@ -134,53 +144,43 @@
       }
     }
   },
-  "emotional-intelligence": {
-    "latestDay": 7,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 3
-      }
-    }
-  },
   "habits-and-systems": {
-    "latestDay": 7,
+    "latestDay": 8,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 3
+        "lastDaySent": 4
       }
     }
   },
   "leadership": {
-    "latestDay": 7,
+    "latestDay": 8,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 3
+        "lastDaySent": 4
       }
     }
   },
   "health-and-longevity": {
-    "latestDay": 7,
+    "latestDay": 8,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 3
+        "lastDaySent": 4
       }
     }
   },
   "wedding-planning": {
-    "latestDay": 4,
+    "latestDay": 5,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
         "username": "jonwu92",
-        "lastDaySent": 0
+        "lastDaySent": 1
       },
       "zany": {
         "telegramId": "8483194333",
@@ -190,7 +190,17 @@
     }
   },
   "history-of-israel": {
-    "latestDay": 3,
+    "latestDay": 4,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 1
+      }
+    }
+  },
+  "3d-printing": {
+    "latestDay": 0,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",

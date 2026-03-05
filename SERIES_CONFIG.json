@@ -139,10 +139,21 @@
     {
       "seriesId": "history-of-israel",
       "seriesName": "History of Israel",
-      "seriesTheme": "the complete history of Israel — from ancient Canaan to modern statehood, the influence of Jewish thought on civilization, the roles Israel has played across empires and centuries, hidden power structures, intelligence operations, geopolitical secrets, and the intentions behind pivotal decisions that shaped the Middle East and the world",
-      "seriesEmoji": "🕎",
+      "seriesTheme": "the complete history of Israel \u2014 from ancient Canaan to modern statehood, the influence of Jewish thought on civilization, the roles Israel has played across empires and centuries, hidden power structures, intelligence operations, geopolitical secrets, and the intentions behind pivotal decisions that shaped the Middle East and the world",
+      "seriesEmoji": "\ud83d\udd4e",
       "wisdomLabel": "Historical Wisdom",
       "parableCharacters": "Ezra (young scribe seeking forbidden archives), Miriam the Keeper (ageless librarian who guards the true records beneath the Temple Mount)"
+    },
+    {
+      "seriesId": "3d-printing",
+      "seriesName": "3D Printing",
+      "seriesTheme": "From fundamentals to mastery \u2014 materials, mechanics, slicing, design principles, and real-world applications of 3D printing",
+      "seriesEmoji": "\ud83d\udda8\ufe0f",
+      "wisdomLabel": "Maker Wisdom",
+      "parableCharacters": "Finn (curious tinkerer), Orna (master fabricator with a workshop of wonders)",
+      "recipients": [
+        "jon"
+      ]
     }
   ]
 }
