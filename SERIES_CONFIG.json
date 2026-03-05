@@ -135,6 +135,14 @@
       "seriesEmoji": "\ud83d\udc8d",
       "wisdomLabel": "Wedding Wisdom",
       "parableCharacters": "Dove (bride-to-be overwhelmed by expectations), Elm (her grounded partner), Nana Rose (wise wedding planner who has seen a thousand ceremonies)"
+    },
+    {
+      "seriesId": "history-of-israel",
+      "seriesName": "History of Israel",
+      "seriesTheme": "the complete history of Israel — from ancient Canaan to modern statehood, the influence of Jewish thought on civilization, the roles Israel has played across empires and centuries, hidden power structures, intelligence operations, geopolitical secrets, and the intentions behind pivotal decisions that shaped the Middle East and the world",
+      "seriesEmoji": "🕎",
+      "wisdomLabel": "Historical Wisdom",
+      "parableCharacters": "Ezra (young scribe seeking forbidden archives), Miriam the Keeper (ageless librarian who guards the true records beneath the Temple Mount)"
     }
   ]
 }
