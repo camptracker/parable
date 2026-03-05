@@ -14,9 +14,22 @@ function getSeriesConfig(seriesId: string) {
   return config.series.find((s: any) => s.seriesId === seriesId);
 }
 
-function getLatestLesson(seriesId: string): { latestDay: number; lesson: any } {
-  const out = execSync(`./node_modules/.bin/tsx scripts/get-latest.ts ${seriesId}`, { cwd: ROOT, encoding: 'utf-8' });
+function getAllLessons(seriesId: string): { latestDay: number; lessons: any[] } {
+  const out = execSync(`./node_modules/.bin/tsx -e "
+    const { getSeriesById, getLatestDay } = require('./src/data/lessons');
+    const s = getSeriesById('${seriesId}');
+    const latestDay = s ? getLatestDay('${seriesId}') : 0;
+    console.log(JSON.stringify({ latestDay, lessons: s?.lessons || [] }));
+  "`, { cwd: ROOT, encoding: 'utf-8' });
   return JSON.parse(out);
+}
+
+function extractTitleAndQuestion(lesson: any): { day: number; title: string; question: string | null } {
+  const titleMatch = lesson.standard?.match(/Day \d+:\s*(.+)/);
+  const title = titleMatch ? titleMatch[1].trim().replace(/\*\*/g, '') : lesson.title || 'Unknown';
+  const qMatch = lesson.standard?.match(/Tomorrow's Question[^—]*—\s*(.*?)$/ms);
+  const question = qMatch ? qMatch[1].trim() : null;
+  return { day: lesson.day, title, question };
 }
 
 async function main() {
@@ -32,27 +45,31 @@ async function main() {
     process.exit(1);
   }
 
-  const { latestDay, lesson } = getLatestLesson(seriesId);
-  const previousStandard = lesson?.standard ?? null;
+  const { latestDay, lessons } = getAllLessons(seriesId);
   const newDay = latestDay + 1;
 
-  // Extract "Tomorrow's Question" from previous lesson if it exists
-  let tomorrowQuestion: string | null = null;
-  if (previousStandard) {
-    const tqMatch = previousStandard.match(/Tomorrow's Question[^—]*—\s*(.*?)$/ms);
-    if (tqMatch) {
-      tomorrowQuestion = tqMatch[1].trim();
-    }
-  }
+  // Extract titles and questions from ALL previous lessons
+  const previousLessons = lessons.map(extractTitleAndQuestion);
+  const lastLesson = previousLessons.length > 0 ? previousLessons[previousLessons.length - 1] : null;
+  const tomorrowQuestion = lastLesson?.question ?? null;
+
+  // Build history summary for context
+  const historyLines = previousLessons.map(l =>
+    `- Day ${l.day}: "${l.title}"${l.question ? ` → Q: "${l.question}"` : ''}`
+  ).join('\n');
 
   const { seriesName, seriesTheme, seriesEmoji, wisdomLabel, parableCharacters } = config;
+
+  const historyBlock = historyLines
+    ? `\nPrevious lessons (DO NOT repeat these titles or questions):\n${historyLines}\n`
+    : '';
 
   const systemPrompt = `You are a lesson generator for the "${seriesName}" series.
 Theme: ${seriesTheme}
 Emoji: ${seriesEmoji}
 Wisdom Label: ${wisdomLabel}
 Parable Characters: ${parableCharacters}
-
+${historyBlock}
 Generate a lesson in JSON format with these exact keys: standard, parable, sonnet, dallePrompt
 
 The "standard" must follow this format exactly:
@@ -62,7 +79,7 @@ ${tomorrowQuestion ? `[IMPORTANT: The previous lesson ended with this question: 
 ❓ Why It Matters [2-3 sentences]
 ⚙️ How It Works [3-5 sentences with concrete examples]
 🎯 ${wisdomLabel} [1-2 sentences]
-❓ Tomorrow's Question — Use the Socratic method: ask a thought-provoking question that challenges assumptions, invites deeper thinking, and naturally leads to the next concept. Don't ask a simple factual question — ask one that makes the reader wrestle with an idea.
+❓ Tomorrow's Question — Use the Socratic method: ask a thought-provoking question that challenges assumptions, invites deeper thinking, and naturally leads to the next concept. Don't ask a simple factual question — ask one that makes the reader wrestle with an idea. IMPORTANT: Do NOT repeat or rephrase any previous question listed above.
 
 Use ** for bold markdown on section headers and key terms.
 
@@ -75,12 +92,10 @@ The "dallePrompt" should describe a classical oil painting scene inspired by the
 Return ONLY valid JSON. No markdown code fences. No explanation.`;
 
   let userPrompt: string;
-  if (previousStandard) {
-    userPrompt = `Here is the previous lesson's standard text:\n\n${previousStandard}\n\n`;
-    if (tomorrowQuestion) {
-      userPrompt += `CRITICAL: The previous lesson posed this question to the reader: "${tomorrowQuestion}"\nYour new lesson MUST begin by answering this question directly and thoughtfully. This is the #1 priority — the reader is expecting this answer. Then transition naturally into the new topic.\n\n`;
-    }
-    userPrompt += `Generate Day ${newDay}.`;
+  if (tomorrowQuestion) {
+    userPrompt = `The previous lesson ended with this question: "${tomorrowQuestion}"\n\nYour new lesson MUST begin by answering this question directly and thoughtfully. This is the #1 priority — the reader is expecting this answer. Then transition naturally into the new topic.\n\nGenerate Day ${newDay}.`;
+  } else if (previousLessons.length > 0) {
+    userPrompt = `Continue the series. Generate Day ${newDay}.`;
   } else {
     userPrompt = `This is the first lesson. Start from the series theme. Generate Day ${newDay}.`;
   }
