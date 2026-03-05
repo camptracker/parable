@@ -336,4 +336,69 @@ Vex looked at her workshop with new eyes. "You're saying I should destroy this?"
 
 **Tomorrow:** Ironmere will reveal why the strongest foundations require the most unlikely stones.`,
   },
+  {
+    day: 6,
+    title: "Constructive Dissent",
+    date: "2026-03-05",
+    image: "images/how-to-scale/day-6.jpg",
+    audio: "audio/how-to-scale/day-6",
+    sonnet: `**🪶 Sonnet VI: Constructive Dissent**
+
+When all voices sing in sweet accord,
+The harmony conceals a hidden flaw:
+No ear remains to hear the warning chord
+That signals when the music breaks its law.
+The wisest kings sought counsel from their foes,
+For friendly tongues speak only what they know,
+While opposition's sharper insight shows
+The blind spots where disasters like to grow.
+In boardrooms where agreement reigns supreme,
+The greatest dangers wear a pleasant face—
+The strategies that seem like shared dream
+May lead the whole procession off their base.
+*So hire the voice that dares to sing alone,*
+*For dissent builds what consensus can't: a throne.*`,
+    standard: `🚀 Day 6: Constructive Dissent
+
+The fastest-growing companies hire strategic dissenters because homogeneous thinking is the enemy of adaptation. When everyone agrees with your strategy, you've created an echo chamber that blinds you to market shifts, customer evolution, and competitive threats. Strategic disagreement isn't about chaos — it's about building **cognitive diversity** that stress-tests assumptions before the market does.
+
+🧱 **The Concept**
+Constructive Dissent is the practice of intentionally embedding thoughtful opposition into your organization to prevent groupthink and accelerate strategic evolution.
+
+❓ **Why It Matters**
+Consensus feels safe but breeds complacency. When teams think alike, they miss obvious problems and overlook breakthrough opportunities. Companies that scale successfully institutionalize **productive conflict** — they hire people who will challenge core assumptions, question sacred strategies, and propose uncomfortable alternatives. This friction prevents the organizational arthritis that kills agility.
+
+⚙️ **How It Works**
+First, recruit **devil's advocates**: hire brilliant people whose backgrounds naturally conflict with your approach. Airbnb hired hotel industry veterans who initially opposed their model, then used their skepticism to identify and solve trust issues. Next, establish **dissent protocols**: create formal mechanisms for challenging decisions. Amazon's "disagree and commit" principle requires leaders to voice opposition before alignment. Then build **red teams**: dedicate resources to attacking your own strategy. Tesla maintains internal teams whose job is proving why electric vehicles will fail. Finally, reward **constructive rebellion**: promote people who successfully challenge bad decisions, not just those who execute good ones. Netflix famously promotes "keeper test" leaders who fire themselves from roles they've outgrown.
+
+🎯 **Scaling Wisdom**
+The most dangerous person in your organization isn't the one who disagrees with you — it's the one who never does.
+
+❓ **Tomorrow's Question** — If giving employees complete autonomy creates chaos, why do the most disciplined organizations eliminate almost all rules?`,
+    parable: `Vex stood in his expanding workshop, admiring the twelve craftsmen working in perfect harmony. Each knew their role, followed the established methods, and produced consistent results. "Look, Ironmere," he said proudly, "finally, everyone works as one mind."
+
+Ironmere watched the seamless operation with concern. "Tell me, young builder, what happens when that unified mind makes a unified mistake?"
+
+"Impossible," Vex replied. "We've perfected our methods. Everyone agrees they work."
+
+The old architect picked up a peculiar tool from the corner — something unfamiliar, clearly abandoned. "Whose was this?"
+
+"Oh, that belonged to Kestra. She kept suggesting strange improvements, questioning our proven techniques. I let her go — she didn't fit our culture."
+
+Ironmere nodded slowly. "I once knew a master builder like you. His towers were flawless, his teams unified. They built the same magnificent structures for decades, each one perfect, each one exactly like the last." He paused. "Do you know what happened to his city?"
+
+Vex shook his head.
+
+"It stood frozen in time while the world changed around it. When earthquakes came — not physical ones, but economic ones — every building fell the same way because they all had the same weakness. No one had questioned the foundations in so long that everyone had forgotten they could be questioned."
+
+The old man held up Kestra's strange tool. "This is a foundation tester — designed to find cracks before they become catastrophes. But it only works if someone dares to use it."
+
+Vex looked around his harmonious workshop with new eyes. "You're saying I should hire people who disagree with me?"
+
+"I'm saying you should treasure them," Ironmere replied. "The voice that sounds discordant today may be the only thing that saves your symphony tomorrow."
+
+**Moral:** A choir of identical voices creates beautiful harmony, but only diverse instruments can adapt their song to changing times.
+
+**Tomorrow:** Ironmere will reveal why the strongest structures are built with the fewest constraints.`,
+  },
 ];

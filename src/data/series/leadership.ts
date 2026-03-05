@@ -248,4 +248,70 @@ He set down the net and looked directly at her. "Authority commands compliance, 
 
 *Tomorrow, Greymane will reveal the secret of leadership that multiplies itself...*`,
   },
+  {
+    day: 5,
+    title: "The Trust Multiplier",
+    date: "2026-03-05",
+    image: "images/leadership/day-5.jpg",
+    audio: "audio/leadership/day-5",
+    sonnet: `**🪶 Sonnet V: The Trust Multiplier**
+
+What bonds can bind when titles hold no sway?
+What strength emerges when the heart leads true?
+Trust builds in drops through each consistent day,
+Yet shatters swift when words and deeds unglue.
+
+The leader who would see their people soar
+Must first convince them safety lies within—
+That mistakes shared will open wisdom's door,
+And vulnerability marks where trust begins.
+
+Each promise kept, though small it may appear,
+Deposits gold in credibility's vault,
+While broken vows, once whispered in the ear,
+Withdraw in buckets what took years to exalt.
+
+*For trust multiplies what skills alone can't do—*
+*Transform mere workers into leaders true.*`,
+    standard: `👥 Day 5: The Trust Multiplier
+
+Shifting from "What do you need from me?" to "How can I serve you?" would fundamentally alter your leadership dynamic—transforming you from a resource manager into a **trust builder**. This subtle change signals that you see your role as empowering others' success rather than extracting their output, creating psychological safety that unleashes innovation and discretionary effort.
+
+🧱 **The Concept**
+Trust is the multiplier that amplifies every other leadership skill—without it, even the best intentions and strategies fall flat.
+
+❓ **Why It Matters**
+Trust determines the speed at which teams execute and innovate. **High-trust environments** enable rapid decision-making, honest feedback, and creative risk-taking because people believe their leader has their best interests at heart. **Low-trust environments** create defensive behavior, political maneuvering, and the hoarding of information. Research shows that companies with high-trust cultures outperform peers by 250% in stock returns and experience 74% less stress among employees.
+
+⚙️ **How It Works**
+Trust builds through **consistency between words and actions** over time. When **Frances Hesselbein** led Girl Scouts USA, she practiced "management by wandering around"—not to check up on people, but to understand their challenges and remove obstacles. **Vulnerability-based leadership** accelerates trust: leaders who admit mistakes, ask for help, and show genuine concern for others' wellbeing create permission for others to be equally authentic. **Transparent communication** about both victories and setbacks demonstrates integrity. **Follow-through** on commitments, no matter how small, builds credibility incrementally. The **trust equation** operates simply: credibility plus reliability plus intimacy, divided by self-orientation, equals trustworthiness.
+
+🎯 **Leadership Wisdom**
+Trust is built in drops and lost in buckets—every interaction either deposits or withdraws from your trust account with others.
+
+❓ **Tomorrow's Question** — If your team knew that admitting mistakes would make you respect them more rather than less, how would their behavior change, and what does this reveal about the culture you're actually creating?`,
+    parable: `**The Harbor Master's Test**
+
+Tova found herself staring at the harbor charts spread across her cabin table, each marking showing another missed deadline, another crew member's growing frustration. The weight of captaincy felt heavier than her anchor chain.
+
+Greymane appeared at her door with two steaming cups of bitter harbor tea. "The crew whispers that you're different from Captain Thornwick," he said, settling into the worn chair across from her. "But different how, they wonder?"
+
+"I try to listen to their concerns," Tova replied, tracing a finger along the shipping routes. "But they still seem... guarded."
+
+Greymane nodded slowly. "Thornwick demanded reports. You ask for input. That's progress, but not transformation." He leaned forward, his weathered hands wrapping around his cup. "Tell me, when Finn the rigger came to you yesterday about the fraying mainlines, what was your first thought?"
+
+Tova flushed. "How much it would cost to replace them ahead of schedule."
+
+"Aye. And Finn sensed that, didn't he?" Greymane's eyes twinkled with understanding. "Trust isn't built through policy changes, young captain. It's built when your crew believes—truly believes—that their wellbeing matters more to you than your ledger books."
+
+The next morning, Tova found Finn inspecting the rigging. "Finn," she called up to him, "what do you need to keep our crew safe?" 
+
+The rigger paused his work, studying her face. "Captain, those lines need replacing. But more than that... we need to know you'd rather arrive late with everyone whole than on time with someone hurt."
+
+Tova felt something shift in her chest—a recognition that trust wasn't about being liked, but about being worthy of others' faith in her judgment.
+
+**Moral:** Trust multiplies when leaders prove through consistent action that they value people over profits, relationships over results, and long-term wellbeing over short-term gains.
+
+*Tomorrow, Greymane will share the most dangerous mistake new leaders make when giving feedback...*`,
+  },
 ];

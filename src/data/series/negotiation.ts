@@ -434,4 +434,73 @@ Vasska touched his blind eye. "The greatest magic isn't changing someone's mind,
 
 **Tomorrow:** Ren will learn why the word "Yes" can be more dangerous than "No," and how master negotiators navigate the treacherous waters of false agreement.`,
   },
+  {
+    day: 7,
+    title: "The Three Types of Yes",
+    date: "2026-03-05",
+    image: "images/negotiation/day-7.jpg",
+    audio: "audio/negotiation/day-7",
+    sonnet: `**🪶 Sonnet VII: The Three Types of Yes**
+
+When "yes" falls swift from lips that seek escape,
+Beware the hollow sound of false accord—
+This Counterfeit disguised in friendly shape
+Will crumble when you try to claim reward.
+
+Confirmation echoes what you've said,
+A mirror's voice that holds no binding power,
+While those who nod with quickly-bowing head
+May flee before the signing's fateful hour.
+
+But Commitment bears the weight of truth,
+It questions paths and plans for coming storm,
+Asks "how" and "when" with more than simple proof—
+This "yes" has substance, depth, and lasting form.
+
+*The surest way to win agreement's prize?*
+*Make "no" feel safe, and watch real "yes" arise.*`,
+    standard: `🤝 Day 7: The Three Types of Yes
+
+🧱 **The Concept**
+Not all "yes" responses are created equal — there are three distinct types: **Counterfeit Yes** (fake agreement to escape), **Confirmation Yes** (simple acknowledgment), and **Commitment Yes** (genuine agreement to act).
+
+❓ **Why It Matters**
+Most failed negotiations aren't killed by "no" — they're murdered by the wrong type of "yes." A Counterfeit Yes feels like victory but leads to broken promises, missed deadlines, and renegotiation. Understanding which "yes" you're hearing prevents you from building castles on quicksand. Voss learned this the hard way: hostage-takers would say "yes" to buy time while planning violence, teaching him that surface agreement often masks deeper resistance.
+
+⚙️ **How It Works**
+**Counterfeit Yes** comes when people feel cornered — they agree to end pressure but have no intention of following through. Watch for quick agreement without questions, lack of implementation details, or body language that doesn't match their words. **Confirmation Yes** is just acknowledgment — "Do you understand?" "Yes" — but carries no commitment. **Commitment Yes** emerges after thorough discussion, includes specific next steps, and comes with questions about implementation. Test for Commitment Yes by asking **"How will we know this is working?"** or **"What happens if we hit obstacles?"** Real commitment includes planning for problems. If they can't describe the "how," you don't have real agreement.
+
+🎯 **Negotiation Wisdom**
+Chase the right "yes" by making it safe to say "no" — when people feel free to refuse, their agreement becomes genuine.
+
+❓ **Tomorrow's Question**
+If "no" is actually the negotiator's best friend because it reveals true boundaries and opens honest dialogue, why do most people fear this word, and how can reframing "no" as information rather than rejection transform your entire approach to difficult conversations?`,
+    parable: `The morning sun cast long shadows across the bazaar as Ren approached Vasska's stall, still glowing from yesterday's breakthrough. "Master, I used your summary technique with the silk merchant. When I said 'So you're worried about quality consistency and delivery timing,' he nodded and said 'That's right!' Then he agreed to my terms immediately."
+
+Vasska's blind eye seemed to focus on something beyond the present. "Show me his contract."
+
+Ren proudly unfurled the parchment. Vasska ran his weathered fingers across the signatures, then looked up gravely. "Child, you have three types of agreement in this world, and you've collected the most dangerous one."
+
+He gestured to three clay pots on his counter. "The first pot appears full but holds only air — this is **Counterfeit Yes**, spoken by those who agree to escape pressure. They nod, they sign, they smile... then vanish like morning mist. Your silk merchant gave you this poisoned gift."
+
+Vasska tapped the second pot, which rang hollow. "**Confirmation Yes** — they understand your words but commit to nothing. Like echoes in an empty cave."
+
+His gnarled hand rested on the third pot, solid and heavy. "But **Commitment Yes** — ah, this has weight. It comes slow, with questions, with plans for obstacles. Watch." He turned to a passing customer. "Friend, will you buy this fine pottery?"
+
+"Yes, yes," the man said hurriedly, not breaking stride.
+
+"Counterfeit," Vasska whispered. "Now observe." To another customer: "This pot costs three silver pieces. Are you interested?"
+
+The woman stopped, lifted the pot, examined it closely. "How was it fired? Will it crack in winter cold? Can you guarantee it for a full season?"
+
+"There," Vasska smiled. "Questions reveal commitment. When someone plans for problems, they plan to succeed."
+
+Ren's face fell as understanding dawned. "The silk merchant... he agreed too quickly."
+
+"The wise negotiator makes it safe to say no," Vasska said, his silver tongue catching the light. "When people fear refusal is forbidden, their agreement becomes worthless. Tomorrow, return to your merchant. Ask him to describe how he'll handle quality problems. His silence will speak volumes."
+
+**Moral:** *True agreement is heavy with questions, while false promises float away on empty air.*
+
+*Tomorrow, Ren will discover why the word "no" is actually a negotiator's greatest gift...*`,
+  },
 ];

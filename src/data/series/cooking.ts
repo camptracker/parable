@@ -358,4 +358,74 @@ Sage tasted the stew and understood - every component had reached its perfect mo
 
 *Tomorrow, Ember will reveal the secret hierarchy that determines which voices should lead this culinary symphony...*`,
   },
+  {
+    day: 7,
+    title: "The Architecture of Flavor - Building Culinary Hierarchy",
+    date: "2026-03-05",
+    image: "images/cooking/day-7.jpg",
+    audio: "audio/cooking/day-7",
+    sonnet: `**🪶 Sonnet VII: The Architecture of Flavor**
+
+Upon the stage where taste and scent convene,
+Each flavor must assume its rightful place—
+Some bold and bright, commanding to be seen,
+While others lend their quiet, grounding grace.
+
+The rosemary stands proud with noble mien,
+Its piney voice calls forth across the dish,
+While thyme supports with notes both soft and clean,
+Fulfilling every cook's harmonious wish.
+
+But wait—what brightness dances at the end?
+The lemon's zest, like starlight sharp and true,
+Transforms the whole, makes memory transcend
+The simple sum of ingredients we knew.
+
+*So wisdom builds each plate with careful art,*
+*Where every flavor plays its destined part.*`,
+    standard: `🍳 **Day 7: The Architecture of Flavor - Building Culinary Hierarchy**
+
+The principle that determines which flavors lead, support, or accent is **flavor dominance hierarchy** - the strategic layering of tastes and aromas based on their intensity, persistence, and compatibility to create a structured flavor experience where each element has a defined role. Just as an orchestra requires first chairs and supporting sections, great dishes establish primary flavors that command attention, secondary flavors that provide depth and complexity, and accent flavors that add brightness and contrast.
+
+🧱 **The Concept**
+**Flavor hierarchy** is the intentional arrangement of ingredients and seasonings into dominant, supporting, and accent roles to create balanced, memorable dishes with clear flavor direction.
+
+❓ **Why It Matters**
+Without hierarchy, dishes become muddled symphonies where every ingredient competes for attention, resulting in confusion rather than clarity. Professional chefs understand that the human palate craves structure - we need to know which flavors to focus on first, which provide the foundation, and which deliver the memorable finishing notes. This principle separates sophisticated cuisine from amateur cooking, transforming ingredient lists into purposeful flavor narratives that guide the diner's sensory journey.
+
+⚙️ **How It Works**
+**Primary flavors** establish the dish's identity and should comprise 60-70% of the flavor impact - the beef in beef bourguignon, the tomatoes in marinara, the chocolate in chocolate mousse. **Secondary flavors** provide supporting complexity, typically 20-30% of the experience - the wine and aromatics that deepen the bourguignon, the herbs that round the marinara, the vanilla that enhances the chocolate. **Accent flavors** deliver 5-10% bright contrast - the final herbs, citrus zest, or spice that makes the dish memorable. **Layering techniques** build hierarchy through timing: base flavors develop through long cooking, supporting flavors integrate during mid-cooking, and accents appear in final moments or as garnish. **Seasoning hierarchy** follows the same principle - salt and fat provide foundation, acids and heat add contrast, and aromatics deliver finishing complexity.
+
+🎯 **Culinary Wisdom**
+Great dishes tell clear flavor stories where every ingredient knows its role and performs it beautifully, creating harmony through purposeful arrangement rather than chaotic abundance.
+
+❓ **Tomorrow's Question** — If flavor hierarchy creates structure within a single dish, what principle allows us to understand and navigate the vast landscape of global cuisines and their fundamental differences?`,
+    parable: `In the depths of winter, when the kitchen's warmth felt like sanctuary, Sage watched Ember methodically arrange ingredients across the marble counter. The old chef's movements were deliberate, almost ritualistic, as she separated herbs into three distinct piles.
+
+"Master, why do you divide everything so precisely?" Sage asked, noting how Ember kept the rosemary separate from the thyme, the lemon zest apart from both.
+
+"Close your eyes," Ember instructed, her weathered hands selecting a sprig of rosemary. "Tell me what you sense."
+
+Sage inhaled deeply. "Pine forests, warmth, something... commanding."
+
+"Exactly. Rosemary demands attention - it leads." Ember crushed thyme between her fingers. "And this?"
+
+"Gentler, like... background music."
+
+"A supporting voice." Finally, she grated lemon zest. "And now?"
+
+"Bright, surprising, like... like the final note that makes you remember the whole song."
+
+Ember smiled, her sightless eyes somehow seeing everything. "You understand. In every great dish, flavors must know their place. Some command the stage, others provide the foundation, and still others deliver the memorable final word. Without this hierarchy, we create not harmony, but noise."
+
+As they began cooking, Sage watched Ember build layers with the precision of an architect. The rosemary went in early, establishing dominance. The thyme joined midway, weaving support. The lemon zest waited until the very end, ready to crown their creation with brilliance.
+
+"But Master," Sage ventured as they worked, "how do the great cuisines of the world each find their own voice?"
+
+Ember paused, her fingers still fragrant with herbs. "Ah, tomorrow we explore the deeper mystery - the languages that kitchens speak."
+
+**Moral:** True culinary artistry lies not in using every flavor possible, but in arranging chosen flavors so each plays its perfect role in the greater symphony.
+
+**Tomorrow:** Ember will reveal the secret maps that guide us through the world's great culinary traditions.`,
+  },
 ];

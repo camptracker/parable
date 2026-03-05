@@ -787,4 +787,73 @@ The elder opened a worn ledger. "The wealthiest farmers in neighboring valleys u
 
 Tomorrow, Kael will learn how to separate true wisdom from clever marketing...`,
   },
+  {
+    day: 11,
+    title: "Information vs. Wisdom in Financial Decision-Making",
+    date: "2026-03-05",
+    image: "images/financial-independence/day-11.jpg",
+    audio: "audio/financial-independence/day-11",
+    sonnet: `**🪶 Sonnet XI: Information vs. Wisdom in Financial Decision-Making**
+
+A thousand voices cry from every screen,
+Each expert promising the golden key,
+While simple truths lie buried and unseen
+Beneath the noise of false complexity.
+
+The wise investor learns to close their ears
+To daily predictions and market fear,
+For in the silence, clarity appears—
+The path to wealth was always calm and clear.
+
+Yet mortals crave the excitement of the chase,
+They feast on data, starve on patient thought,
+And in their hunger lose the steady pace
+That turns small seeds to harvests dearly bought.
+
+*While information flows like raging flood,*
+*True wisdom waits in stillness, like old blood.*`,
+    standard: `💰 Day 11: Information vs. Wisdom in Financial Decision-Making
+
+🧱 **The Concept**
+**Information overload** creates the illusion of knowledge while **wisdom** comes from understanding what to ignore and when to act.
+
+❓ **Why It Matters**
+The financial media generates endless content because confusion keeps you consuming their products instead of taking simple action. Financial news channels, investment newsletters, and market analysis create artificial urgency around daily fluctuations that are meaningless for long-term wealth building. True financial education teaches you to filter signal from noise, while profitable confusion keeps you dependent on expert opinions.
+
+⚙️ **How It Works**
+Consider two investors: one reads financial news daily, tracks dozens of metrics, and constantly adjusts their portfolio based on expert predictions. The other checks their account quarterly, automatically invests in index funds, and ignores market commentary. Studies consistently show the second investor outperforms the first. **Analysis paralysis** disguises itself as research — you feel productive consuming financial content while avoiding the boring work of consistent investing. The financial industry profits from this cycle: more complexity means more products to sell, more fees to charge, and more dependency on their services. Real wisdom recognizes that most financial information is entertainment disguised as education.
+
+🎯 **Buffett Wisdom**
+"What counts for most people in investing is not how much they know, but rather how realistically they define what they don't know."
+
+❓ **Tomorrow's Question**
+*If the most profitable investment strategy is also the most boring, why do we instinctively seek excitement and complexity when building wealth?*`,
+    parable: `"Master Sable," Kael said, approaching the elder who sat reading beneath the great oak, "Tobren spends hours each morning studying weather patterns, soil reports, and market predictions from distant lands. He knows the price of grain in every village, the rainfall in every region, yet his harvests remain poor. How can someone so informed struggle so much?"
+
+Sable closed his weathered tome and smiled. "Tell me, young one, what did you observe in Tobren's fields yesterday?"
+
+"He was pulling up seedlings to examine their roots, checking the soil depth, measuring the spacing between plants. He seemed very... thorough."
+
+"And what of Old Henrik's field beside it?"
+
+Kael scratched his head. "Henrik just planted his seeds and left them alone. But his crops always flourish while Tobren's wither from constant disturbance."
+
+Sable nodded slowly. "Information and wisdom are not the same river, though they may seem to flow together. Tobren drowns in the first while thirsting for the second. He knows the color of soil in a hundred villages but cannot sit still long enough to let his own seeds grow."
+
+The elder stood and walked toward Tobren's field, where the farmer was frantically adjusting irrigation channels based on some new technique he'd read about. "Watch how he mistakes motion for progress, complexity for competence. The more he learns, the less he trusts the simple truth: plant good seeds, water them regularly, and wait."
+
+"But surely knowledge is valuable?" Kael protested.
+
+"Knowledge without wisdom is a sharp blade in a child's hand. Tobren has filled his mind with so many expert opinions that he's forgotten to trust his own experience. Every morning brings new advice to follow, new strategies to implement. He never gives any single approach time to bear fruit."
+
+They watched as Tobren rushed between his plots, implementing contradictory advice from various farming experts. "The wise farmer learns to distinguish between the signal and the noise," Sable continued. "Henrik knows that rain will come and seasons will change. He plants according to eternal principles, not daily predictions. Tobren seeks excitement in complexity while Henrik finds wealth in simplicity."
+
+Kael understood. "So the abundance of information becomes a trap?"
+
+"Precisely. When every voice claims to hold the secret, the loudest voices often hide the deepest ignorance. True wisdom whispers while foolishness shouts."
+
+**Moral:** Information without wisdom leads to paralysis, while wisdom with simple knowledge leads to prosperity. The path to abundance lies not in consuming more advice, but in trusting fewer, proven principles.
+
+Tomorrow, Sable would reveal why humans consistently choose the complicated path over the profitable one...`,
+  },
 ];

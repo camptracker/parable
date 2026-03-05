@@ -61,4 +61,64 @@ Nana Rose smiled, writing their words in elegant script. "This," she said, tappi
 
 *Tomorrow, Dove will discover that even the most beautiful traditions must pass through the filter of authenticity...*`,
   },
+  {
+    day: 2,
+    title: "Choosing Your Wedding's Voice",
+    date: "2026-03-05",
+    image: "images/wedding-planning/day-2.jpg",
+    audio: "audio/wedding-planning/day-2",
+    sonnet: `**🪶 Sonnet II: Choosing Your Wedding's Voice**
+
+When love speaks truly, it needs no borrowed tongue,
+No scripted words from magazines so bright;
+Your story asks for songs that you have sung
+In quiet moments, far from public sight.
+
+The roses may be lovely, white and pure,
+But wildflowers might better speak your name;
+Let authenticity be your allure,
+Not conformity to others' wedding game.
+
+For guests have come not just to see "a" bride,
+But witness how your particular hearts beat;
+They long to hear love's voice without disguise,
+To see your truest selves in vows complete.
+
+*When weddings speak in lovers' native tongue,*
+*The sweetest, truest songs are always sung.*`,
+    standard: `💍 Day 2: Choosing Your Wedding's Voice
+
+When you identify that one essential truth—perhaps that your love is built on deep friendship, or that you're two independent spirits choosing to intertwine, or that you're creating a bridge between different worlds—you'll likely discover it doesn't fit neatly into the standard wedding script. This revelation is liberating: your wedding doesn't need to perform generic romance; it needs to tell your specific story.
+
+🧱 **The Concept**
+Your wedding's voice is how you choose to communicate your story—the tone, style, and elements that will speak your truth to your guests.
+
+❓ **Why It Matters**
+Many couples get trapped trying to have a wedding that speaks everyone's language instead of their own. When you try to please every expectation, your wedding becomes a generic performance rather than an authentic celebration. Your guests didn't come to see "a wedding"—they came to witness your love story, and that story deserves its own voice.
+
+⚙️ **How It Works**
+Consider the difference between couples who choose their voice versus those who don't. A bookish couple might weave literary quotes throughout their ceremony, use vintage books as centerpieces, and write vows that read like poetry. Adventure lovers might exchange rings on a mountaintop, serve food truck fare, and create a playlist that tells the story of their travels together. Traditional couples might honor family customs with intentional explanations, helping guests understand the meaning behind each ritual. The key is consistency—every element should reinforce the same voice, creating a cohesive story that feels unmistakably yours.
+
+🎯 **Wedding Wisdom**
+A wedding with a clear voice becomes a powerful story that guests will remember and retell for years to come.
+
+❓ **Tomorrow's Question** — If you stripped away everything that you think a wedding "should" have and kept only what genuinely excites both of you, what would remain, and what does that tell you about the kind of celebration your hearts actually want?`,
+    parable: `Dove sat surrounded by bridal magazines, their glossy pages promising perfection in shades of blush and ivory. "Look at this," she called to Elm, holding up a photo of cascading white roses. "Isn't it beautiful?"
+
+Elm glanced over from where he was sketching ideas for their ceremony. "It's lovely," he said gently, "but it doesn't sound like you. Remember yesterday when you said our truth was about being two artists who found home in each other?"
+
+Nana Rose appeared at their kitchen table as if summoned by their uncertainty. "Ah, the voice question," she said, settling into a chair. "I once planned a wedding for two musicians who spent months agonizing over whether to have a string quartet or a jazz trio. Finally, I asked them: 'What music plays when you're happiest together?' Turns out, they sang old folk songs while cooking dinner. So we had their friends perform those same songs during the ceremony, with everyone joining in. Not one magazine would have featured it, but twenty years later, their guests still hum those melodies."
+
+Dove looked at her magazines with new eyes. "We're not white roses," she realized slowly. "We're wildflowers and oak leaves, coffee-stained notebooks and paint-splattered aprons."
+
+"Exactly," Nana Rose smiled. "Your wedding should sound like you having the most important conversation of your lives—with everyone you love listening in."
+
+Elm reached for Dove's hand. "What if we painted our vows instead of just writing them? What if our centerpieces were the art supplies our friends could use to create something during dinner?"
+
+Suddenly, their wedding began to speak in their own language.
+
+**Moral:** A wedding's true beauty lies not in its adherence to tradition, but in its faithful translation of love into a language uniquely your own.
+
+*Tomorrow, Nana Rose will challenge them to discover what remains when all expectations fall away...*`,
+  },
 ];

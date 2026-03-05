@@ -269,4 +269,64 @@ Rook stared at the pebble, feeling its coolness against his skin. For the first 
 
 **Tomorrow:** Cairn will reveal the precise alchemy of change—the smallest actions that yield the greatest shifts...`,
   },
+  {
+    day: 5,
+    title: "The 1% Rule",
+    date: "2026-03-05",
+    image: "images/habits-and-systems/day-5.jpg",
+    audio: "audio/habits-and-systems/day-5",
+    sonnet: `**🪶 Sonnet V: The 1% Rule**
+
+A single drop seems powerless and small,
+Yet oceans rise from countless drops combined.
+One step appears to lead us nowhere at all,
+But journeys long through single steps are signed.
+
+The mighty oak grows not in sudden spurts,
+But ring by ring through seasons' patient turn.
+Each day it adds what barely eye detects,
+Yet centuries of growth do thus adjourn.
+
+We chase the lightning's flash, the thunder's roar,
+And miss the quiet rain that feeds the ground.
+The 1% that seems like nothing more
+Builds empires where no empires could be found.
+
+*For in the realm where compound interest dwells,*
+*Small daily gains ring transformation's bells.*`,
+    standard: `🧘 Day 5: The 1% Rule
+
+The minimum effective dose is surprisingly small—just 1% better than yesterday. Research shows that tiny improvements, when sustained, create exponential change through the power of compound growth. A 1% daily improvement compounds to being 37 times better over a year, while perfectionistic leaps often lead to burnout and abandonment.
+
+🧱 **The Concept**
+Marginal gains—improvements so small they seem insignificant—accumulate into remarkable transformations when applied consistently over time.
+
+❓ **Why It Matters**
+We overestimate what we can accomplish in a day and underestimate what we can accomplish in a year. The 1% rule bypasses our resistance to change by feeling achievable while still creating momentum. A single pushup feels laughably easy, but it's infinitely more than zero. Reading one page seems trivial, but it's 365 pages annually. Your brain won't mobilize defenses against such small changes, allowing them to slip past your identity's security system.
+
+⚙️ **How It Works**
+Start ridiculously small—so small it feels almost silly to skip. One pushup, not twenty. One page, not a chapter. One minute of meditation, not twenty. The goal isn't the immediate result but the daily repetition that rewrites your identity. Each 1% improvement serves as a vote for the type of person you want to become. Miss once, and you're human. Miss twice, and you're in danger of forming a new identity around not doing the thing. The magic happens in the aggregation of marginal gains—small improvements that seem to make little difference on any given day but deliver remarkable results when compounded over months and years.
+
+🎯 **Systems Wisdom**
+Breakthroughs are often the result of many small improvements that have been building up quietly in the background.
+
+❓ **Tomorrow's Question** — If consistency matters more than intensity, why do we consistently choose difficult goals over sustainable ones?`,
+    parable: `Rook arrived at Cairn's workshop clutching a crumpled list of ambitious resolutions—write a novel in thirty days, meditate for two hours daily, learn three languages simultaneously. "I've calculated the minimum effective dose," Rook announced breathlessly. "If I work eighteen hours a day, I can transform myself completely within a month!"
+
+Cairn looked up from his stone, where he had carved exactly one small letter—the same daily practice for four decades. "Show me your smallest chisel," the master said quietly.
+
+Rook produced a massive hammer. "This is my approach to change—bold, decisive, transformative!"
+
+Cairn smiled and picked up a tool no bigger than a needle. "Yesterday I carved the letter 'A.' Today, just the letter 'B.' Tomorrow, 'C.' In forty years, I have carved the entire collected works of the ancient poets, one letter at a time." He gestured to the workshop walls, covered in thousands of stone tablets bearing intricate text.
+
+"But that's so slow!" Rook protested. "At that rate, it takes decades to see results!"
+
+"And at your rate," Cairn replied gently, "how long before you abandon the work entirely?" He touched the stone. "The mountain doesn't notice the river's daily touch, yet the river carves the deepest canyons. One drop of water is nothing. One drop every day for a thousand years moves mountains."
+
+Rook stared at the walls of completed work—masterpieces born from the aggregation of impossibly small daily actions.
+
+**Moral**: The power lies not in the size of the action, but in the unwavering consistency of its repetition.
+
+**Tomorrow**: Rook discovers why the brain sabotages sustainable progress in favor of dramatic failure.`,
+  },
 ];
