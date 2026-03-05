@@ -107,13 +107,8 @@ async function main() {
     const recipientsAtLatest: string[] = [];
 
     if (noSend) {
-      // In no-send mode, just check if ANY recipient is at latest to trigger generation
-      for (const [name, recip] of Object.entries(recipients) as [string, any][]) {
-        if (testMode && name !== 'jon') continue;
-        if (recip.lastDaySent === latestDay) {
-          recipientsAtLatest.push(name);
-        }
-      }
+      // In no-send mode, always generate the next lesson for every series
+      recipientsAtLatest.push('_all');
     } else {
       for (const [name, recip] of Object.entries(recipients) as [string, any][]) {
         // Filter by recipient or test mode
