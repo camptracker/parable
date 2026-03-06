@@ -125,4 +125,62 @@ Finn nodded slowly, understanding dawning. "So I must think like the machine to 
 
 *Tomorrow, Finn will discover how his perfect digital creation must sometimes defy gravity itself...*`,
   },
+  {
+    day: 3,
+    title: "The Invisible Foundation",
+    date: "2026-03-06",
+    image: "images/3d-printing/day-3.jpg",
+    audio: "audio/3d-printing/day-3",
+    sonnet: `**🪶 Sonnet III: The Invisible Foundation**
+
+Beneath the soaring wing, a scaffold grows,
+Of temporary trees with reaching arms,
+That hold aloft what gravity oppose,
+And shield the fragile print from mortal harms.
+
+These servants rise in latticed, spare design,
+Not meant for beauty, only faithful aid,
+They cradle every overhang and line,
+Until the final cooling debt is paid.
+
+When duty's done, they yield to plier's bite,
+And crumble like the autumn's golden leaves,
+Their sacrifice reveals the pure delight
+Of forms that float on what the eye believes.
+
+*In making's art, the wise have always known:*
+*True freedom springs from pillars we disown.*`,
+    standard: `🖨️ Day 3: The Invisible Foundation
+
+The answer lies in **support structures** — temporary scaffolding that the printer creates to hold up overhanging features, then gets removed after printing. Like a construction crane that builds a bridge then drives away, these sacrificial supports make the impossible possible.
+
+🧱 **The Concept**
+Support structures are temporary material foundations that enable complex geometries by providing a platform for features that would otherwise collapse during printing.
+
+❓ **Why It Matters**
+Without supports, 3D printing would be limited to simple, self-supporting shapes — no overhangs, bridges, or intricate details. They're the difference between printing a simple box and creating architectural marvels, mechanical assemblies, or artistic sculptures with complex geometries.
+
+⚙️ **How It Works**
+The slicer software analyzes your model and automatically generates **support material** wherever overhangs exceed a certain angle (typically 45-60 degrees). These supports use a different pattern — often sparse, tree-like, or lattice structures — making them easy to remove while providing necessary stability. For water-soluble supports, you can even print in two materials: one for your part, another that dissolves away in water. The printer treats supports like any other geometry, building them layer by layer alongside your actual part.
+
+🎯 **Maker Wisdom**
+Good support strategy is about building just enough scaffolding to succeed, then breaking it away cleanly — like a master sculptor removing excess marble to reveal the form within.
+
+❓ **Tomorrow's Question** — If every layer must bond to the one below it, what happens when your design requires two separate pieces that don't touch — and how does this change everything about what's possible in a single print?`,
+    parable: `Finn stared at the peculiar object emerging from Orna's printer — a delicate bird with outstretched wings, suspended impossibly in mid-flight. "But how?" he whispered, watching the extruder dance through empty air beneath the wing.
+
+"Ah," Orna smiled, pointing to the strange tree-like structures growing beneath the bird's wings. "You see the invisible foundation, young maker. These are support structures — temporary servants that hold up what cannot yet hold itself."
+
+As the print continued, Finn watched these bizarre scaffolds grow upward like coral, providing platforms for each layer of wing and tail feather. They looked nothing like the bird itself — sparse, angular, almost alien in their geometry.
+
+"But why do they look so different?" Finn asked.
+
+"Because they serve, then sacrifice," Orna replied, her eyes gleaming with ancient wisdom. "They're designed to break away cleanly when their duty is done. See how they touch the bird only at necessary points? Like a loving parent, they support without smothering, then release when the time comes."
+
+When the print finished, Orna carefully snapped away the supports with needle-nose pliers. The bird emerged perfect and complete, as if it had always existed in that flying pose. The temporary scaffolding crumbled away like autumn leaves, leaving behind only the intended creation.
+
+"Every great achievement requires invisible foundations," Orna mused, brushing away the support fragments. "We build them not to last, but to make the lasting possible."
+
+Tomorrow, Finn would discover how printers can create entire assemblies — multiple moving parts in a single print — and why this changes everything about manufacturing itself.`,
+  },
 ];

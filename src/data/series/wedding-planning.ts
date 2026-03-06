@@ -380,4 +380,66 @@ The moral bloomed clear: When a venue aligns with your authentic selves, decorat
 
 Tomorrow, they would discover that some choices reveal their truth only when stripped of all pretense.`,
   },
+  {
+    day: 7,
+    title: "The Sacred Hour",
+    date: "2026-03-06",
+    image: "images/wedding-planning/day-7.jpg",
+    audio: "audio/wedding-planning/day-7",
+    sonnet: `**🪶 Sonnet VII: The Sacred Hour**
+
+The clock commands, the schedule rules the day,
+While lovers race through moments meant to last.
+Each captured smile, each word they're supposed to say,
+Turns sacred present into photographed past.
+
+But wisdom whispers: pause between each task,
+Let conversations flow beyond their time.
+The heart needs space to do what hearts will ask—
+To feel the weight of love's most perfect rhyme.
+
+Three moments hold more power than forty-seven,
+When rushed events steal breath from those who wed.
+The altar, table, dance floor become heaven
+When time serves love, not deadlines to be fed.
+
+*So guard the hours that matter most of all—*
+*Let presence reign, and let the schedule fall.*`,
+    standard: `💍 Day 7: The Sacred Hour
+
+A venue that feels completely "you" in its raw state is one where your love story already lives—perhaps the park where you had your first kiss, your grandmother's living room, or even your own backyard. These spaces don't need transformation because they already hold your authentic selves. This reveals that the most powerful venues are discovered, not decorated—they're places where your relationship feels at home rather than on display.
+
+🧱 **The Concept**
+Your wedding timeline isn't just logistics—it's the rhythm that will carry your most sacred day, determining whether you feel rushed and scattered or present and connected.
+
+❓ **Why It Matters**
+Most couples pack their wedding day so full of events and photo opportunities that they barely experience their own celebration. The timeline becomes a taskmaster instead of a servant, creating stress rather than space for the emotions and connections that make the day meaningful.
+
+⚙️ **How It Works**
+Start by identifying the three moments that matter most to you—perhaps the ceremony itself, your first dance, and unstructured time with loved ones. Build your timeline around protecting these moments, not rushing through them. Consider a "first look" that gives you private connection time before the ceremony chaos. Plan buffer time between events—if cocktail hour runs long because guests are having deep conversations, that's a gift, not a problem. Most importantly, designate a "timeline guardian"—someone other than you who watches the clock so you can stay present.
+
+🎯 **Wedding Wisdom**
+The best wedding timelines serve the experience, not the photographer's schedule.
+
+❓ **Tomorrow's Question** — If you could only preserve three specific moments from your wedding day in your memory forever, which three would you choose, and how might designing your entire celebration around protecting and savoring just these moments change everything else you think you need?`,
+    parable: `Dove spread seventeen different timeline drafts across Nana Rose's kitchen table, each one crammed with events, each transition timed to the minute. "We have the ceremony at four, photos until five-thirty, cocktails until six-fifteen, then dinner, then dancing, then the cake cutting, then the bouquet toss, then the sparkler exit..." she recited breathlessly.
+
+Elm picked up one of the schedules, studying it like a battle plan. "When do we actually get to, you know, be married? To feel it?"
+
+Nana Rose chuckled, sweeping the papers into a neat stack. "Child, I once planned a wedding with forty-seven scheduled events. The couple was so exhausted they fell asleep during their own reception. The most beautiful wedding I ever witnessed had three moments: vows, dinner, and dancing under the stars. That's it."
+
+"But what about all the traditions?" Dove protested. "The cake cutting, the bouquet toss, the father-daughter dance..."
+
+"Traditions should serve joy, not command it," Nana Rose replied, pouring tea into three mismatched cups. "Tell me, when you imagine your wedding day, what do you actually see? Not what you think should happen—what do you hope to feel?"
+
+Dove closed her eyes. "I see Elm's face when I walk down the aisle. I see us laughing during dinner with everyone we love. I see us dancing badly to our song while everyone cheers."
+
+"Three moments," Elm said softly. "Everything else is just... decoration."
+
+Nana Rose smiled. "Now you're beginning to understand. The sacred hour isn't about cramming in every possible tradition—it's about creating space for the moments that will live in your hearts forever."
+
+**Moral**: The most meaningful celebrations unfold rather than perform, breathing with natural rhythm instead of gasping through scheduled chaos.
+
+*Tomorrow, we'll explore what happens when you discover that less planning can create more magic...*`,
+  },
 ];

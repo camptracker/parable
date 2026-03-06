@@ -798,4 +798,68 @@ As the barriers faded, Ash and Lume reached for each other with new awareness, s
 
 *Tomorrow, Elder Rynn will reveal how couples can transform their emotional energy from warfare to bridge-building.*`,
   },
+  {
+    day: 13,
+    title: "The Currency of Trust — Investment vs. Protection",
+    date: "2026-03-06",
+    image: "images/building-relationships/day-13.jpg",
+    audio: "audio/building-relationships/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Currency of Trust**
+
+What precious coins we clutch with fearful hands,
+These golden guards against love's risky game,
+While hoarding trust like misers hoard their lands,
+We starve the very bond we seek to claim.
+
+But trust, unlike the miser's buried gold,
+Grows richer when we spend it without care,
+Each vulnerable truth we dare unfold
+Creates more safety than our walls prepare.
+
+The heart that invests in another's dream
+Finds compound interest in connection's yield,
+While those who save for safety's hollow scheme
+Discover empty vaults their caution sealed.
+
+*So spend your trust like sunlight, warm and free—*
+*The currency of love grows generously.*`,
+    standard: `💕 Day 13: The Currency of Trust — Investment vs. Protection
+
+When we redirect our defensive energy toward connection, we often discover we've been bankrupting our relationship's potential while trying to protect assets that were never truly at risk. Most couples invest 40-60% of their emotional energy in self-protection, leaving precious little for the collaborative building of shared dreams, deep intimacy, and mutual growth.
+
+🧱 **The Concept**
+Trust functions like emotional currency—the more we hoard it for protection, the less we have available for investment in our relationship's growth.
+
+❓ **Why It Matters**
+Every relationship operates on two competing economic models: the scarcity mindset of protection (hoarding trust to avoid loss) and the abundance mindset of investment (spending trust to generate connection). The couples who thrive are those who learn to shift from emotional penny-pinching to generous investment in each other's dreams and vulnerabilities.
+
+⚙️ **How It Works**
+Protection-focused partners ask "How can I avoid getting hurt?" while investment-focused partners ask "How can we grow together?" When Sarah stops hiding her business dreams from her partner and instead invites collaboration, she's trading defensive hoarding for trust investment. When Marcus shares his fears about fatherhood rather than avoiding the topic, he's choosing to spend trust currency on deeper connection. The magic happens when both partners realize that trust, unlike money, actually multiplies when spent generously—every vulnerable sharing creates more safety, every collaborative risk builds stronger foundation.
+
+🎯 **Relationship Wisdom**
+The couples who build lasting wealth in love are those who discovered that trust is the only currency that grows when you give it away.
+
+❓ **Tomorrow's Question** — If your relationship were a startup and you both were co-founders, what would your "company culture" be, and what toxic practices would you need to eliminate to build the partnership you actually want to work in every day?`,
+    parable: `When Ash and Lume reached the Merchant's Crossroads, they found Elder Rynn weighing golden coins on an ancient scale, each coin shimmering with ethereal light.
+
+"Travelers," Rynn called, "I offer you a choice. In my left hand, I hold coins of Protection—spend these, and you shield yourselves from each other's mistakes, disappointments, and human frailties. In my right hand, coins of Investment—spend these, and you risk everything on each other's dreams, fears, and untested potential."
+
+Ash immediately reached for the Protection coins. "Surely it's wiser to guard what we have than risk it on uncertainty?"
+
+But Lume studied both hands carefully. "Elder, what happens to those who choose Protection?"
+
+Rynn smiled sadly. "They arrive at journey's end with their original coins intact, but their pockets heavy with unused currency and their hearts light with unlived possibility. They protected everything and built nothing."
+
+"And those who choose Investment?"
+
+"Some lose everything," Rynn admitted, "but others discover that trust, unlike gold, multiplies when spent generously. Each risk taken together creates more safety, each vulnerability shared builds stronger ground to stand on."
+
+Lume took Ash's hand. "What if we invested in each other instead of protecting ourselves from each other?"
+
+As they chose the Investment coins, the golden pieces dissolved into warm light that flowed between their joined hands, and suddenly they could see not just the road they'd traveled, but all the roads they could build together.
+
+**Moral**: The currency of trust grows richest when spent on each other's potential rather than hoarded against each other's humanity.
+
+*Tomorrow, our travelers will learn why some partnerships feel like startups destined for success, while others seem doomed to toxic workplace dynamics...*`,
+  },
 ];

@@ -848,4 +848,64 @@ As they trained, Maxima shared the teaching of the great emperor-philosopher: th
 
 Tomorrow, Maxima would reveal how this presence transforms not just our experience of time, but our understanding of what it truly means to be rich or poor...`,
   },
+  {
+    day: 13,
+    title: "The Practice of Voluntary Discomfort",
+    date: "2026-03-06",
+    image: "images/stoic-philosophy/day-13.jpg",
+    audio: "audio/stoic-philosophy/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Practice of Voluntary Discomfort**
+
+When comfort wraps us close in silken chains,
+And luxury becomes our daily bread,
+We lose the strength that comes from chosen pains,
+And fear the trials that lie ahead.
+
+The wise seek hardship ere it seeks them out,
+They fast when plenty fills their store,
+They walk when carriages roll about,
+To find what character is for.
+
+In cold and hunger, willingly embraced,
+Lies freedom from the tyranny of need,
+For what we choose cannot leave us disgraced,
+And voluntary want plants strength's seed.
+
+*So let us choose our crosses ere they're thrust,*
+*And find in chosen struggle, perfect trust.*`,
+    standard: `🏛️ Day 13: The Practice of Voluntary Discomfort
+
+The quality of life measured by presence reveals that true wealth lies not in accumulating possessions, but in the richness of awareness we bring to each experience. The poor in spirit are those who sleepwalk through abundance, while the wealthy are those who find depth in simplicity.
+
+🧱 **The Concept**
+Voluntary discomfort involves deliberately choosing temporary hardship to strengthen character and appreciate what we have.
+
+❓ **Why It Matters**
+When we voluntarily embrace discomfort, we inoculate ourselves against involuntary suffering. By choosing our struggles, we develop resilience and gratitude while reducing our dependence on external circumstances for happiness.
+
+⚙️ **How It Works**
+Seneca practiced sleeping on the floor and eating simple food to prepare for potential loss. Marcus Aurelius exposed himself to cold and heat to build endurance. Modern practitioners might fast occasionally, take cold showers, or walk instead of driving. These practices aren't about punishment—they're about expanding our comfort zone and discovering that we need far less than we think to be content. When real hardship comes, we're prepared rather than shocked.
+
+🎯 **Stoic Wisdom**
+Set aside a certain number of days during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'
+
+❓ **Tomorrow's Question** — If comfort and security were actually weakening the very qualities that make life meaningful, what would this suggest about our relationship with challenge and growth?`,
+    parable: `The morning mist clung to the training grounds as Maxima approached, her weathered cloak dripping with dew. Caius stood shivering beside the practice posts, having arrived early as instructed, though he questioned the wisdom of training in such bitter cold.
+
+"General, surely we could wait for the sun to burn off this chill," Caius suggested, his breath forming clouds in the frigid air.
+
+Maxima smiled, removing her cloak to reveal she wore only a thin tunic beneath. "Today, young soldier, we train not just our sword arms, but our capacity to choose discomfort before it chooses us."
+
+She began her exercises in the freezing dawn, her movements precise and deliberate despite the cold. "In my youth, I feared poverty, cold, hunger—all the things that might be taken from me. So I began taking them from myself, temporarily, voluntarily."
+
+Caius watched, fascinated, as Maxima continued her routine without complaint. "What did you discover?"
+
+"That I was far stronger than I knew, and needed far less than I feared." She paused, ice crystals forming in her graying hair. "When the siege of Dacia came, and we had no food for days, no warmth for weeks, I alone among my officers did not despair. I had already befriended hardship."
+
+The young soldier removed his own cloak, joining her in the exercises. The cold bit deep, but with each movement, he felt something harder than muscle awakening within.
+
+**Moral**: By voluntarily embracing discomfort, we transform from victims of circumstance into masters of our own resilience.
+
+*Tomorrow, Caius will learn why the path of least resistance may lead to the greatest weakness.*`,
+  },
 ];

@@ -638,4 +638,79 @@ As understanding dawned, Idris realized that boundaries weren't walls—they wer
 
 **Tomorrow:** When boundaries meet the wounded heart that sees all limits as rejection...`,
   },
+  {
+    day: 10,
+    title: "The Art of Repair",
+    date: "2026-03-06",
+    image: "images/emotional-intelligence/day-10.jpg",
+    audio: "audio/emotional-intelligence/day-10",
+    sonnet: `**🪶 Sonnet X: The Art of Repair**
+
+When boundaries wound the hearts we hold most dear,
+And distance births the pain we meant to heal,
+We face the choice 'twixt rigid stance and fear—
+To stand our ground or let our limits reel.
+
+But wisdom whispers of a middle way:
+To build the bridge while keeping both shores whole,
+To validate their hurt without dismay,
+Yet hold our truth as compass to our soul.
+
+Repair asks not for sacrifice of self,
+Nor cold dismissal of another's pain,
+But patient weaving, thread by careful thread,
+Connection's fabric, stronger after strain.
+
+*For love that learns to mend what breaks apart*
+*Grows deeper roots within each separate heart.*`,
+    standard: `🧭 Day 10: The Art of Repair
+
+When someone interprets our healthy boundaries as rejection, we face a crucial choice: we can abandon our boundaries to preserve their comfort, or we can learn the delicate art of emotional repair. True repair doesn't mean apologizing for our limits—it means helping the other person understand that boundaries actually create safety for deeper intimacy, not barriers against it.
+
+🧱 **The Concept**
+Emotional repair is the skill of reconnecting after rupture without compromising our authentic needs or theirs.
+
+❓ **Why It Matters**
+Every relationship experiences moments of disconnection, misunderstanding, or hurt feelings. The quality of a relationship isn't determined by the absence of ruptures, but by how skillfully we navigate back to connection. Without repair skills, we either become people-pleasers who sacrifice authenticity for harmony, or we become rigid defenders who prioritize being right over being connected.
+
+⚙️ **How It Works**
+Emotional repair follows a predictable pattern: acknowledge the rupture without blame, validate the other person's experience without taking responsibility for their emotions, clarify your intention versus their impact, and invite collaboration toward reconnection. For example, "I notice you seemed hurt when I said I needed space yesterday. That makes sense—it probably felt like rejection. My intention was to recharge so I could be more present with you, not to push you away. How can we handle this differently next time?" This approach validates their feelings while maintaining your boundary and inviting partnership in finding solutions. The key is genuine curiosity about their experience combined with clarity about your own needs.
+
+🎯 **EQ Wisdom**
+Repair is not about fixing the other person's feelings—it's about rebuilding the bridge of understanding between two separate emotional worlds.
+
+❓ **Tomorrow's Question**
+If emotional repair can strengthen relationships by navigating through conflict rather than around it, why do some people seem to thrive on drama and repeatedly create ruptures that require constant repair?`,
+    parable: `The morning mist clung to the diplomatic quarters as Idris paced before The Veil's chamber, his mind churning over yesterday's confrontation. His mentor's words about boundaries had felt liberating until his closest friend, Kael, had accused him of becoming cold and distant.
+
+"You speak of boundaries," Idris burst out as The Veil appeared, "but what good are they if they drive away those we care about most?"
+
+The Veil settled into their usual position, the morning light catching the silver threads of their mask. "Tell me, young diplomat, when a bridge is damaged, do you abandon the river or learn the art of reconstruction?"
+
+"That's different," Idris protested. "Kael said I was shutting him out, that I'd changed. He looked so hurt..."
+
+"And what did you do with his hurt?"
+
+"I... I wanted to take back everything I'd said, to promise I'd never set boundaries again." Idris's voice grew quiet. "But something stopped me."
+
+"What force could stay the hand of someone so eager to restore harmony?"
+
+Idris considered this. "Perhaps... perhaps I realized that abandoning my boundaries wouldn't actually heal his hurt. It would only teach us both that connection requires someone to sacrifice themselves."
+
+The Veil's mask tilted slightly. "And if neither sacrifice nor rigidity serves true connection, what third path reveals itself?"
+
+"Repair," Idris whispered, the word forming like a prayer. "Not abandoning my needs or dismissing his feelings, but... building a bridge that honors both."
+
+"Show me this bridge-building."
+
+Idris straightened, as if addressing Kael directly. "I can see my boundary felt like rejection to you. That wasn't my intention—I value our friendship deeply. I set that limit because I need space to be my best self with you, not because I want distance from you. How can we find a way that respects both our needs?"
+
+The Veil remained silent for a long moment. "What transforms mere words into the mortar of reconnection?"
+
+"Genuine care," Idris realized. "Not just for the outcome, but for understanding his world while staying true to mine."
+
+**Moral**: True repair builds bridges that honor both shores, creating stronger connections through honest understanding rather than false harmony.
+
+Tomorrow, The Veil will help Idris explore why some souls seem to find comfort in the very conflicts that exhaust others.`,
+  },
 ];

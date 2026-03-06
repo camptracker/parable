@@ -614,4 +614,68 @@ Solen watched as the garden scene shifted, showing the gardener at work—neithe
 
 *Tomorrow, Solen will discover why this dance sometimes leads us toward what we most want to avoid...*`,
   },
+  {
+    day: 11,
+    title: "The Sacred Wound",
+    date: "2026-03-06",
+    image: "images/meaning-of-life/day-11.jpg",
+    audio: "audio/meaning-of-life/day-11",
+    sonnet: `**🪶 Sonnet XI: The Sacred Wound**
+
+The heart that never breaks cannot contain
+The depth of love that sorrow teaches well;
+Through corridors of loss and halls of pain,
+We find the truths that comfort cannot tell.
+
+The pearl that glows within the oyster's shell
+Was born from irritation's constant sting;
+The tree struck down by lightning learns to dwell
+In twisted grace, still reaching for the spring.
+
+Our deepest wounds become our wells of light,
+Transforming private anguish into art;
+What breaks us open grants us second sight
+To see the sacred dwelling in each scar.
+
+*For in the places where we've been undone,*
+*The broken self and wholeness become one.*`,
+    standard: `🌌 Day 11: The Sacred Wound
+
+Our instinct to avoid all pain does indeed prevent us from experiencing life's full significance, because suffering serves as both catalyst and teacher in the creation of meaning. Pain breaks us open to experiences and truths we would never encounter in comfort, while our attempts to eliminate all discomfort often lead us to eliminate the very struggles through which we discover our deepest capacities and purposes.
+
+🧱 **The Concept**
+Suffering, rather than being meaningless obstacle, often becomes the crucible through which authentic meaning is forged and discovered.
+
+❓ **Why It Matters**
+Every attempt to create a life without suffering also eliminates the conditions under which resilience, compassion, and profound purpose typically emerge. When we understand pain as potentially sacred rather than purely destructive, we can engage with it as a teacher rather than flee from it as an enemy.
+
+⚙️ **How It Works**
+Viktor Frankl discovered in Auschwitz that those who survived weren't necessarily the physically strongest, but those who found meaning in their suffering. A parent caring for a disabled child may initially experience this as pure burden, yet often discovers depths of love and purpose they never knew they possessed. The artist who channels personal trauma into their work transforms private pain into universal beauty. The addict who hits bottom and chooses recovery often becomes a guide for others lost in similar darkness. These transformations don't happen despite the suffering, but through conscious engagement with it as a source of meaning rather than mere endurance.
+
+🎯 **Existential Wisdom**
+The question isn't whether we'll suffer, but whether we'll allow our suffering to teach us something profound about what it means to be fully human.
+
+❓ **Tomorrow's Question** — If our deepest wounds can become sources of wisdom and purpose, what happens when we discover that the very things we've spent our lives trying to fix or escape might actually be the keys to our most authentic contribution to the world?`,
+    parable: `Solen found The Keeper hunched over an ancient tome, its pages stained with what looked like tears. "I've been reading the Records of the Wounded," The Keeper said without looking up. "Every soul who has ever found their true purpose has had their heart broken first."
+
+"That seems cruel," Solen replied, settling beside the old librarian.
+
+The Keeper turned a page to reveal an illuminated manuscript showing a tree growing through stone. "Look closer. See how the lightning that splits the tree also creates the hollow where birds can nest? The wound becomes the sanctuary."
+
+Solen studied the image. "But surely some pain is meaningless. Some suffering serves no purpose."
+
+"Perhaps," The Keeper nodded. "But consider this: the pearl grows around the grain of sand that irritates the oyster. The most beautiful music often comes from broken hearts. The deepest wells are dug in the driest ground." He traced the tree's twisted branches with a gnarled finger. "We spend so much energy trying to avoid the breaking that we miss the opportunity for the becoming."
+
+"Then you're saying we should seek pain?"
+
+"No," The Keeper smiled sadly. "I'm saying we should stop running from it when it finds us. The tree doesn't invite the lightning, but when struck, it can choose to grow around the wound or wither from it."
+
+Solen touched their own chest, feeling the hollow ache of forgotten memories. "What if the wound is too deep?"
+
+"Then it becomes a well from which others can drink," The Keeper whispered. "The deepest wounds often hold the sweetest water."
+
+**Moral:** *The pain we try hardest to avoid often contains the seeds of our greatest purpose and most profound gifts.*
+
+*Tomorrow, Solen will discover what happens when we stop trying to fix ourselves and start asking what our brokenness might be trying to teach the world...*`,
+  },
 ];

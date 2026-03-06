@@ -643,4 +643,66 @@ Returning to the workshop, Vex reorganized completely—tools within reach, mate
 
 *Tomorrow, Ironmere will reveal why the city's greatest achievements required deliberately slowing down...*`,
   },
+  {
+    day: 11,
+    title: "The Quality Gate Advantage",
+    date: "2026-03-06",
+    image: "images/how-to-scale/day-11.jpg",
+    audio: "audio/how-to-scale/day-11",
+    sonnet: `**🪶 Sonnet XI: The Quality Gate Advantage**
+
+The rushing stream that leaps o'er every stone
+May seem the swiftest path from hill to sea,
+Yet oft arrives with force and speed alone—
+Broken and scattered, lost in debris.
+
+While patient rivers, checked by locks and dams,
+Flow deeper, clearer, carrying greater loads,
+Their measured pace serves greater, grander plans
+Than wild torrents that flood and leave their roads.
+
+So builders wise place gates along their way—
+Not barriers built to halt their grand design,
+But checkpoints where the work may pause and weigh
+Its worth before the next step falls in line.
+
+*For speed that builds on firm foundation's art*
+*Moves mountains while the hasty fall apart.*`,
+    standard: `🚀 Day 11: The Quality Gate Advantage
+
+High-performing teams introduce strategic friction because they've learned that preventing problems is exponentially faster than fixing them later. Strategic friction—like mandatory code reviews, design approvals, or customer validation checkpoints—creates short-term slowdowns that prevent catastrophic rework cycles that could derail entire quarters.
+
+🧱 **The Concept**
+Quality gates are intentional checkpoints that slow down immediate progress to ensure work meets standards before moving to the next stage.
+
+❓ **Why It Matters**
+Most scaling failures happen when teams optimize for speed over quality, creating technical debt, customer churn, or team burnout that eventually forces them to rebuild everything from scratch. Quality gates prevent the "fast-slow-stop" cycle that kills momentum just when companies need it most.
+
+⚙️ **How It Works**
+Stripe requires all code changes to pass automated tests AND human review before deployment—this "friction" prevents bugs that would crash payment processing. Airbnb's design system requires component approval before engineers can use new UI elements—slowing initial development but preventing inconsistent user experiences that confuse customers. Amazon's "six-page memo" rule forces teams to think deeply before meetings—the writing process eliminates poorly conceived projects that would waste months of execution time. The key is making gates automated and valuable, not bureaucratic bottlenecks.
+
+🎯 **Scaling Wisdom**
+The fastest path forward often requires deliberate slowdowns that compound into exponential acceleration.
+
+❓ **Tomorrow's Question** — If quality gates prevent so many problems, why do successful companies eventually eliminate most of their quality gates as they mature?`,
+    parable: `Vex hammered furiously at a cabinet door, sweat beading on his brow. "Ironmere, I could finish twice as many pieces if I didn't have to stop and check measurements every few cuts!"
+
+The old architect watched as Vex's latest door hung crooked on its hinges. "Tell me, young builder, how long did it take you to rebuild the three wardrobes you rushed last month?"
+
+Vex's hammer paused mid-swing. Those wardrobes had taken him two weeks to completely reconstruct when customers complained about doors that wouldn't close properly.
+
+"When I built the Great Bridge of Kaelthorne," Ironmere continued, settling onto his familiar stool, "my master mason insisted every stone be checked twice before placement. The young workers grumbled about the delays—they could see other crews racing ahead on simpler projects."
+
+"But did you fall behind?" Vex asked, now examining his current door frame more carefully.
+
+"Quite the opposite." Ironmere's eyes twinkled. "While other bridges collapsed under winter storms and had to be rebuilt entirely, ours stood firm. By year's end, we were the only crew still working while others explained failures to angry lords. Our deliberate slowness became unstoppable momentum."
+
+Vex set down his hammer and reached for his measuring square. "So the gate isn't meant to stop progress..."
+
+"It's meant to ensure progress never has to stop and start over," Ironmere finished. "Quality gates are like good hinges—invisible when working properly, but they're what allows everything else to move smoothly."
+
+**Moral:** Strategic friction prevents catastrophic rework cycles.
+
+*Tomorrow, Ironmere reveals why even the strongest gates must sometimes be removed...*`,
+  },
 ];

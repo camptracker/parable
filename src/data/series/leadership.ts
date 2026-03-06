@@ -571,4 +571,64 @@ As he reached the door, he turned back. "Tomorrow, instead of presenting your ne
 
 **Tomorrow's Glimpse:** *But what happens when that collective wisdom comes packaged in uncomfortable challenges to your thinking?*`,
   },
+  {
+    day: 10,
+    title: "The Authority of Earned Respect",
+    date: "2026-03-06",
+    image: "images/leadership/day-10.jpg",
+    audio: "audio/leadership/day-10",
+    sonnet: `**🪶 Sonnet X: The Authority of Earned Respect**
+
+No crown nor scepter makes a ruler true,
+Nor does a title carved in golden stone
+Command the hearts of those who serve with you—
+Respect is something that must be full-grown.
+
+Through steady deed and word kept without fail,
+Through listening ear and hand that lifts the weak,
+The leader builds a trust that will not pale
+When storms arise and lesser bonds grow bleak.
+
+The captain who descends from lofty height
+To work beside the crew through wind and rain
+Shall find their loyalty burns fierce and bright,
+For they have seen true worth through joy and pain.
+
+*Authority worn thin by time's decree,*
+*But earned respect lives on eternally.*`,
+    standard: `👥 Day 10: The Authority of Earned Respect
+
+**🧱 The Concept**
+True leadership authority comes not from position or title, but from consistently demonstrating competence, character, and care for others over time.
+
+**❓ Why It Matters**
+Positional authority can force compliance, but earned respect inspires commitment. People follow titles because they have to; they follow leaders they respect because they want to. The difference between these two forms of authority determines whether you get minimum effort or maximum engagement.
+
+**⚙️ How It Works**
+Earned respect builds through small, consistent actions: keeping promises even when inconvenient, admitting when you don't know something, defending team members in their absence, and making decisions based on principles rather than politics. When Nelson Mandela walked out of prison without bitterness, he demonstrated that his authority came from his character, not his circumstances. When tech leaders like Satya Nadella transformed Microsoft's culture by modeling vulnerability and growth mindset, they showed that respect is earned through authenticity, not hierarchy. The leader who stays late to help a struggling team member, who takes responsibility for failures while giving credit for successes, who listens more than they speak—this leader builds a foundation of respect that no organizational chart can capture.
+
+**🎯 Leadership Wisdom**
+Respect is the currency of true leadership, and like all valuable currency, it must be earned through consistent deposits of integrity, competence, and genuine care for others.
+
+**❓ Tomorrow's Question** — If the people you lead had to choose between following you because of your title or following you because of who you are as a person, which choice would they make, and what specific behaviors have you demonstrated that would justify their decision?`,
+    parable: `Captain Tova stood before the harbor master's ledger, her new insignia still unfamiliar on her shoulder. The crew of the *Windlass* watched from the dock—some with skepticism, others with barely concealed hostility. She was young, appointed from outside their ranks, carrying the authority of the admiralty but none of their trust.
+
+"They gave you the title," muttered Korren, the grizzled bosun, loud enough for others to hear. "Doesn't make you a captain."
+
+Tova felt the weight of every eye upon her. She could order them to respect her, write them up for insubordination, use her newfound authority like a club. Instead, she thought of Greymane's words: "A captain's coat carries authority, but a captain's character earns respect."
+
+That first week, Tova worked alongside her crew, learning their names and their struggles. When young Tam fell ill with fever, she personally tended to him through the night. When the quartermaster's ledgers showed discrepancies, she quietly investigated rather than publicly accusing. When a storm damaged their rigging, she was first up the mast, first to grab the ropes.
+
+Slowly, something shifted. Korren began asking her opinion rather than questioning her orders. The crew started gathering around her during meal breaks, sharing stories and concerns. By month's end, when another captain tried to poach her best sailors with promises of easier work, they declined without hesitation.
+
+"How did you know they would stay?" Greymane asked when she told him.
+
+"I didn't," Tova admitted. "But I knew that if they left because of who I am rather than who appointed me, at least I'd know where I truly stood."
+
+The old admiral smiled. "And that, Captain, is when your real authority began."
+
+**Moral:** *Authority imposed by position fades with distance; authority earned through character travels wherever you go.*
+
+*Tomorrow, we discover why the strongest leaders often appear the most fragile...*`,
+  },
 ];
