@@ -2,7 +2,8 @@ import { readFileSync, writeFileSync } from 'fs';
 import { resolve } from 'path';
 import { execSync, exec } from 'child_process';
 
-const ROOT = resolve(import.meta.dirname!, '..');
+const __dir = import.meta.dirname ?? new URL('.', import.meta.url).pathname;
+const ROOT = resolve(__dir, '..');
 
 const run = (cmd: string, input?: string) => {
   console.error(`> ${cmd}`);

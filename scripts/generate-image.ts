@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync, readFileSync } from 'fs';
 import { dirname, resolve } from 'path';
 import sharp from 'sharp';
 
-const ROOT = resolve(import.meta.dirname!, '..');
+const ROOT = resolve(import.meta.dirname ?? new URL('.', import.meta.url).pathname, '..');
 
 function getOpenAIKey(): string {
   const authProfiles = JSON.parse(readFileSync(resolve(process.env.HOME!, '.openclaw/agents/main/agent/auth-profiles.json'), 'utf-8'));

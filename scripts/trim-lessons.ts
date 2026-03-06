@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync, unlinkSync, existsSync } from 'fs';
 import { resolve } from 'path';
 import { series } from '../src/data/lessons';
 
-const ROOT = resolve(import.meta.dirname!, '..');
+const ROOT = resolve(import.meta.dirname ?? new URL('.', import.meta.url).pathname, '..');
 const keepMap: Record<string, number> = {
   'financial-independence': 4,
 };

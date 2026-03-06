@@ -2,7 +2,7 @@ import { existsSync } from 'fs';
 import { resolve } from 'path';
 import { series } from '../src/data/lessons';
 
-const root = resolve(import.meta.dirname!, '..');
+const root = resolve(import.meta.dirname ?? new URL('.', import.meta.url).pathname, '..');
 const missing: string[] = [];
 
 for (const s of series) {

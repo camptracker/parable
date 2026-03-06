@@ -629,4 +629,62 @@ Rook watched in amazement as Cairn produced work identical to what he created in
 
 *Tomorrow, Rook will discover the delicate art of knowing when to remove the scaffolding—and when doing so too early can bring the entire structure crashing down.*`,
   },
+  {
+    day: 11,
+    title: "The Graduation Test",
+    date: "2026-03-06",
+    image: "images/habits-and-systems/day-11.jpg",
+    audio: "audio/habits-and-systems/day-11",
+    sonnet: `**🪶 Sonnet XI: The Graduation Test**
+
+When scaffolding falls and structure still remains,
+When external props no longer hold the form,
+The habit's truth through disruption now explains
+If roots run deep or surface-bound and warm.
+
+No perfect setup needed for the act,
+No careful cues arranged in pristine rows,
+The graduated habit stays intact
+Though chaos swirls and circumstance bestows
+
+Its harshest tests upon the daily round.
+The truest measure: when to skip feels wrong,
+When missing hurts more than what's newly found,
+When identity makes weak behaviors strong.
+
+*For habits that survive disruption's call*
+*Need not the scaffolding — they are the wall.*`,
+    standard: `🧘 Day 11: The Graduation Test
+
+You're ready to remove the scaffolding when the habit feels more uncomfortable to skip than to perform — when the behavior has become so woven into your identity that omitting it creates cognitive dissonance. The true test isn't whether you can do it without cues, but whether you feel genuinely off-balance when you don't.
+
+🧱 **The Concept**
+Habit graduation occurs when external motivation transforms into internal compulsion — when scaffolding becomes unnecessary because the behavior now maintains itself through identity alignment.
+
+❓ **Why It Matters**
+Most people either remove scaffolding too early and watch their habits crumble, or become so dependent on external cues that they never develop true behavioral autonomy. Understanding the graduation moment prevents both premature independence and perpetual dependence.
+
+⚙️ **How It Works**
+The graduation test has three markers: first, you perform the habit even when the cue is absent or weak — like exercising when your gym clothes aren't laid out. Second, skipping the habit feels wrong at a visceral level, not just intellectually — missing your morning pages creates genuine unease, not just guilt. Third, you naturally adapt the habit to new environments without conscious planning — you find ways to meditate during travel without needing your usual setup. True graduation means the habit has become self-reinforcing through identity integration rather than external dependency.
+
+🎯 **Systems Wisdom**
+The strongest habits are those that would continue even if all external rewards disappeared, sustained purely by the identity they reinforce.
+
+❓ **Tomorrow's Question** — If our strongest habits become invisible to us precisely because they require no conscious effort, how can we tell the difference between a deeply integrated positive habit and a destructive pattern that's simply become automatic?`,
+    parable: `Rook found Cairn in his workshop, but something had changed. The stone-carver's tools lay scattered, his carefully arranged workspace disrupted by construction. "They're renovating the building," Cairn explained, continuing to carve despite the chaos. "My bench is gone, my lighting changed, even my daily rhythm interrupted."
+
+"But you're still working," Rook observed, watching the old man's hands move with their familiar precision.
+
+"For forty years, I arranged everything perfectly — tools in exact positions, stone at precise angles, light falling just so," Cairn said, his chisel never pausing. "I thought I needed all of it. Then one day, the power failed. I carved by candlelight and realized something profound: the habit had long since moved from my environment into my bones."
+
+Rook looked around at the disrupted space. "When did you know?"
+
+"When missing a day felt more painful than adapting to any external change," Cairn replied. "When the urge to carve became stronger than my need for perfect conditions. The scaffolding I'd built so carefully — it was no longer holding up the habit. The habit was holding up the scaffolding."
+
+The construction noise grew louder, but Cairn's rhythm remained steady. "You see, Rook, we graduate from our systems not when we no longer need them, but when we discover they need us more than we need them."
+
+**Moral:** True habit mastery reveals itself not in perfect conditions, but when the behavior persists despite imperfect ones — when the internal compulsion exceeds any external disruption.
+
+*Tomorrow, Cairn will show Rook something troubling about habits so deeply embedded they become invisible...*`,
+  },
 ];

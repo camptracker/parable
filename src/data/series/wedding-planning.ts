@@ -442,4 +442,67 @@ Nana Rose smiled. "Now you're beginning to understand. The sacred hour isn't abo
 
 *Tomorrow, we'll explore what happens when you discover that less planning can create more magic...*`,
   },
+  {
+    day: 8,
+    title: "The Photography Philosophy",
+    date: "2026-03-06",
+    image: "images/wedding-planning/day-8.jpg",
+    audio: "audio/wedding-planning/day-8",
+    sonnet: `**🪶 Sonnet VIII: The Photography Philosophy**
+
+Behind the lens lies choice 'tween truth and show,
+To stage the love or let it breathe unposed.
+The camera's eye can steal the heart's true glow
+Or guard the moments when two souls compose
+Their private song amid the wedding's dance.
+No artful angle captures what is real—
+The tender look, the unrehearsed romance,
+The joy that makes the watching angels kneel.
+While posed perfection fills the album's frame,
+The treasured shots live in the spaces between:
+When laughter breaks through protocol and shame,
+When love forgets that it is being seen.
+*Let photographers serve as silent guards,*
+*Who tend the flame but never mar its shards.*`,
+    standard: `💍 Day 8: The Photography Philosophy
+
+Most couples instinctively choose moments of pure connection: the first look when they see each other, the quiet exchange of personal vows, and that spontaneous dance when the formal timeline dissolves into joy. When you design around preserving these intimate moments, you realize that the best photographs aren't staged—they're protected spaces where authentic emotion can unfold naturally.
+
+🧱 **The Concept**
+Your wedding photography should document your love story, not manufacture it through endless posed shots that drain the day's energy.
+
+❓ **Why It Matters**
+Photographers can consume up to 30% of your wedding day timeline, pulling you away from guests and genuine moments. The pressure to get the "perfect shot" often creates the very artificiality that makes photos feel hollow years later. Meanwhile, the most treasured images are usually the unguarded moments when you forgot the camera was there.
+
+⚙️ **How It Works**
+Choose a photographer whose style captures candid emotion over technical perfection—someone who documents rather than directs. Build your timeline around relationship moments, not photo opportunities: longer ceremony time for meaningful vows, cocktail hour overlap so you can actually greet guests, and buffer time between events so you're not rushing through your own celebration. Consider a "first look" not for photos, but for a private moment before the ceremony chaos. Limit formal family photos to truly essential combinations—your photographer can capture extended family naturally during reception.
+
+🎯 **Wedding Wisdom**
+The best wedding photos are the ones where you can feel the love, not just see the dress.
+
+❓ **Tomorrow's Question** — If you had to choose between having professional photos of every traditional wedding moment or having no photos at all but being fully present for each experience, which would you choose, and what does that reveal about whether you're planning a wedding or planning a photoshoot?`,
+    parable: `The morning sun filtered through Nana Rose's studio windows as Dove spread dozens of wedding magazines across the oak table, each page marked with sticky notes. "Look at these photos," she breathed, pointing to impossibly perfect couples in impossibly perfect poses. "We need shots like this by the oak tree, and this one by the fountain, and—"
+
+"Child," Nana Rose interrupted gently, settling into her chair with a photo album worn soft at the edges. "Tell me about the three moments from your wedding that you'd want to remember forever."
+
+Dove paused, her finger hovering over a magazine spread. "Well... I guess when I first see Elm at the altar. And when we say our personal vows—the real ones, not the traditional ones. And maybe that moment at the end when it's just us, dancing, and everything else fades away."
+
+"And in how many of those moments," Nana Rose asked softly, "were you thinking about the camera?"
+
+Elm leaned forward. "In none of them," he said quietly. "In none of them were we performing for anyone else."
+
+Nana Rose opened her ancient album. The first photo showed a bride and groom, clearly from decades past, caught in an unguarded moment of laughter. The bride's bouquet was forgotten on a chair, her veil slightly askew, but their joy was radiant and real. "This couple hired me for six hours of photography," she said. "They spent thirty minutes on formal poses and five and a half hours living their wedding day. Guess which photos they treasure most?"
+
+She turned the page to reveal more candid moments: grandparents wiping away tears during vows, children spinning on the dance floor, the couple sharing a quiet laugh during dinner. "These weren't staged," Nana Rose continued. "They were protected. I created space for real moments to happen, then I captured them."
+
+Dove looked back at the magazine photos, and they suddenly seemed hollow—beautiful but empty, like mannequins in a store window. "But what if we miss the important shots?"
+
+"The important shots," Elm said, understanding dawning in his voice, "aren't the ones that look important. They're the ones that feel important."
+
+Nana Rose nodded. "A wedding photographer should be like a guardian angel—present but invisible, protecting the sacred moments rather than creating artificial ones. The question isn't whether your photographer can make you look perfect. It's whether they can disappear long enough for you to be perfect together."
+
+**Moral:** The most beautiful wedding photos capture not how you looked, but how you felt.
+
+*Tomorrow, we'll explore what happens when the performance pressure of the perfect day meets the reality of imperfect moments—and why embracing the flaws might create the most perfect celebration of all.*`,
+  },
 ];

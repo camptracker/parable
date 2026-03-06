@@ -183,4 +183,64 @@ When the print finished, Orna carefully snapped away the supports with needle-no
 
 Tomorrow, Finn would discover how printers can create entire assemblies — multiple moving parts in a single print — and why this changes everything about manufacturing itself.`,
   },
+  {
+    day: 4,
+    title: "The Puzzle Within",
+    date: "2026-03-06",
+    image: "images/3d-printing/day-4.jpg",
+    audio: "audio/3d-printing/day-4",
+    sonnet: `**🪶 Sonnet IV: The Puzzle Within**
+
+Within one form, two separate souls reside,
+Though born as one from printer's faithful dance,
+The hinge swings free, the gears turn side by side,
+While gaps preserve each part's independence.
+
+No assembly required when morning breaks,
+No screws or bolts to bind what moves apart,
+The maker's vision simultaneously makes
+Both housing firm and every moving part.
+
+In clearance small lies freedom's gentle birth,
+A whisper's width 'tween surfaces that mate,
+Where空隙 allows what traditional earth
+Must build in stages, step by measured state.
+
+*When space becomes the key to motion's art,*
+*One print contains both whole and every part.*`,
+    standard: `🖨️ Day 4: The Puzzle Within
+
+When your design requires separate pieces that don't touch, you've discovered one of 3D printing's most fascinating capabilities: **print-in-place assemblies**. Unlike traditional manufacturing where parts must be made separately and assembled later, a 3D printer can create moving joints, interlocking chains, and complex mechanisms all in a single print job by carefully designing gaps and clearances between components.
+
+🧱 **The Concept**
+Print-in-place design creates functional assemblies with moving parts that emerge ready-to-use straight from the printer bed.
+
+❓ **Why It Matters**
+This capability fundamentally changes product design and manufacturing workflows. Instead of creating dozens of separate parts that require assembly, fasteners, and precise tolerances, you can print entire mechanisms as single objects. This reduces assembly time, eliminates the need for hardware, and enables designs impossible with traditional manufacturing methods.
+
+⚙️ **How It Works**
+The key is designing precise clearances between moving parts — typically 0.2-0.4mm gaps that prevent layer bonding while allowing movement after printing. A hinged box lid needs enough space to pivot without fusing to the base. Ball-and-socket joints require spherical clearances. Chain links must have gaps that prevent welding together during printing. Even complex gear trains can be printed fully assembled, with each tooth properly spaced from its neighbors. The printer deposits material for both components simultaneously, but the designed gaps ensure they remain separate functional parts.
+
+🎯 **Maker Wisdom**
+Print-in-place design isn't just about saving assembly time — it's about reimagining what a single manufactured object can be.
+
+❓ **Tomorrow's Question** — If you can print moving parts together, what happens when you try to print materials with completely different properties in the same object — and how does this challenge our very definition of what a "material" is?`,
+    parable: `Finn stared at the peculiar object on Orna's workbench — a wooden box that seemed to mock the very laws of craftsmanship. Its lid was already attached, hinged and ready to open, yet Finn was certain he'd watched Orna carve the entire piece from a single block of wood without ever separating the parts.
+
+"Master Orna," Finn began, running his fingers along the seamless hinge, "yesterday you taught me that each layer must bond to the one below. But this lid moves freely, as if it were never connected to the box at all."
+
+Orna smiled, lifting the mysterious box. "Watch closely, young maker." She opened and closed the lid several times, the wooden hinge operating as smoothly as if it had been assembled from separate pieces. "I carved this box and its lid simultaneously, but I left just enough space between the moving parts — a hairsbreadth of emptiness that prevented them from joining as one solid mass."
+
+Finn's eyes widened as understanding dawned. "So you created two separate objects... within a single creation?"
+
+"Precisely," Orna nodded, reaching for another marvel from her collection — an intricately carved wooden chain, each link flowing freely into the next, yet clearly emerged from one continuous piece of wood. "By understanding the spaces between things, we can craft assemblies that would confound any conventional maker. Joints that move, gears that turn, mechanisms that function — all born whole from the maker's vision."
+
+She handed Finn a small wooden puzzle box with sliding panels and rotating elements. "Traditional crafters must build their creations piece by piece, joint by joint. But we who understand the magic of planned separation can birth entire working systems in one continuous act of creation."
+
+Finn manipulated the puzzle, marveling at its complexity. Every sliding panel, every rotating disc had been conceived as part of the whole, yet functioned as an independent element.
+
+**Moral:** *True mastery lies not just in joining things together, but in knowing precisely where to keep them apart.*
+
+*Tomorrow, Orna would reveal how different essences could be woven into a single creation, blurring the very boundaries of what constitutes a material...*`,
+  },
 ];

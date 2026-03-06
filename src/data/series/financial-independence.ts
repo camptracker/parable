@@ -1172,4 +1172,66 @@ Kael remembered the withered plants of the village's most anxious gardeners, the
 
 *Tomorrow, Sable will teach Kael about the frameworks that separate genuine influence from mere activity...*`,
   },
+  {
+    day: 17,
+    title: "The Circle of Control",
+    date: "2026-03-06",
+    image: "images/financial-independence/day-17.jpg",
+    audio: "audio/financial-independence/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Circle of Control**
+
+Three gardens lie within the wise one's care:
+The first, where every seed obeys her will,
+The second, where her skill meets nature's flair,
+The third, wild growth beyond her finest skill.
+
+She tends the inner plot with loving hands,
+Selects each plant and guards from every storm,
+Influences the middle's fertile lands,
+But lets the outer follow nature's form.
+
+The foolish gardener wastes her precious days
+Fretting o'er rain that may or may not fall,
+While weeds consume the plot that needs her ways,
+And order turns to chaos, past recall.
+
+*True power blooms when we clearly see*
+*What serves our will, and what must ever be.*`,
+    standard: `💰 Day 17: The Circle of Control
+
+The most powerful framework is the **Circle of Control** — visualizing three concentric circles representing what you control completely (your savings rate, investment timeline, asset allocation), what you influence partially (your income through skills and effort), and what lies beyond your reach (market movements, economic cycles, global events). Focus your energy entirely on the inner circle, acknowledge but don't stress over the middle ring, and accept the outer circle with equanimity.
+
+🧱 **The Concept**
+The Circle of Control divides every situation into three zones: what you control, what you influence, and what you cannot affect.
+
+❓ **Why It Matters**
+Most investment anxiety comes from trying to control the uncontrollable while neglecting the factors actually within our power. This framework prevents wasted mental energy and focuses attention where it can actually make a difference. When you clearly separate controllable from uncontrollable factors, decision-making becomes simpler and stress diminishes dramatically.
+
+⚙️ **How It Works**
+Draw three circles: your **control zone** includes savings rate, asset allocation, investment timeline, and whether you panic-sell during crashes. Your **influence zone** contains your income (through skill development), job security (through performance), and investment knowledge (through education). The **no-control zone** holds market returns, inflation rates, interest rate changes, and global economic events. Spend 80% of your mental energy on the inner circle, 20% on developing influence in the middle ring, and zero time worrying about the outer circle. For example, you can't control if the market drops 30% next year, but you can control whether you keep investing during that drop.
+
+🎯 **Buffett Wisdom**
+"You can't control the market, but you can control your costs, your behavior, and your timeline."
+
+❓ **Tomorrow's Question** — If the key to financial success is focusing only on what you can control, why do most people find it so psychologically difficult to ignore factors outside their control, and what does this reveal about human nature's relationship with uncertainty?`,
+    parable: `The autumn wind howled through the village as Kael found Sable tending three garden plots behind her cottage. The first, a small but meticulously maintained herb garden, flourished despite the harsh weather. The second, a larger vegetable patch, showed mixed results—some thriving plants, others struggling. The third, wild and overgrown, stretched toward the forest's edge.
+
+"Why do you tend only the first garden so carefully?" Kael asked, watching her adjust protective coverings around delicate herbs.
+
+"Come," Sable beckoned, leading him to the center of the three plots. "These gardens teach the wisdom of circles." She drew three rings in the dirt with her walking stick. "The herb garden lies within my complete control—I choose what to plant, when to water, how to protect each seedling. Here, my care determines the outcome."
+
+She gestured toward the vegetable patch. "This middle ground I influence but cannot command. I plant good seeds and tend them well, but rain, sun, and soil conditions ultimately decide their fate. My efforts matter, but other forces shape the results."
+
+Finally, she pointed to the wild growth. "That land follows nature's will entirely. I might wish for certain flowers or curse the weeds, but my desires change nothing. It grows as it will."
+
+Tobren approached, mud-caked from his fields. "The harvest taught me this lesson harshly," he admitted. "I spent sleepless nights worrying about weather and grain prices—things beyond my reach—while neglecting proper seed selection and soil preparation—things within my power."
+
+"The wise gardener," Sable concluded, "pours her heart into the inner circle, learns to work skillfully within the middle ring, and accepts the outer realm with peace. Your wealth grows the same way—control what you can, influence what you may, and release what lies beyond your grasp."
+
+As evening settled, Kael understood: true power came not from expanding control, but from knowing its proper boundaries.
+
+**Moral:** Wisdom lies not in controlling everything, but in knowing exactly what you can control and focusing your energy there completely.
+
+Tomorrow, Sable would reveal why humans struggle so deeply against this simple truth, and what it teaches us about our ancient relationship with the unknown.`,
+  },
 ];

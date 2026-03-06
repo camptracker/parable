@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { resolve } from 'path';
 
-const ROOT = resolve(import.meta.dirname!, '..');
+const ROOT = resolve(import.meta.dirname ?? new URL('.', import.meta.url).pathname, '..');
 const PROGRESS_PATH = resolve(ROOT, 'PROGRESS.json');
 
 const seriesId = process.argv[2];

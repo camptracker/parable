@@ -908,4 +908,70 @@ The young soldier removed his own cloak, joining her in the exercises. The cold 
 
 *Tomorrow, Caius will learn why the path of least resistance may lead to the greatest weakness.*`,
   },
+  {
+    day: 14,
+    title: "The Practice of Philosophical Reflection",
+    date: "2026-03-06",
+    image: "images/stoic-philosophy/day-14.jpg",
+    audio: "audio/stoic-philosophy/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Practice of Philosophical Reflection**
+
+When evening's lamp illuminates the page,
+And daylight's battles fade to memory,
+The mind becomes both actor and its stage,
+Examining each thought's strange chemistry.
+
+What made me rage when plans went awry?
+What fears disguised themselves as righteous wrath?
+Which judgments bloomed without my asking why,
+Like weeds that choke the philosophical path?
+
+The stylus moves across the tablet's face,
+Unearthing truths beneath assumption's soil,
+Each question opens up a thinking space
+Where wisdom grows through honest mental toil.
+
+*For in reflection's mirror we can see*
+*The difference 'tween our thoughts and reality.*`,
+    standard: `🏛️ Day 14: The Practice of Philosophical Reflection
+
+If comfort and security weaken meaningful qualities, it suggests we've inverted the natural order—treating ease as the goal rather than strength as the outcome. True growth requires us to reframe our relationship with difficulty: not as something to avoid, but as the very medium through which we develop wisdom, resilience, and character. This inversion demands a practice that helps us see clearly through our assumptions and desires.
+
+**🧱 The Concept**
+Philosophical reflection is the daily practice of examining our thoughts, reactions, and assumptions with rigorous honesty. It's the mirror that reveals where we've been living unconsciously.
+
+**❓ Why It Matters**
+Without reflection, we become slaves to our immediate reactions and inherited beliefs. We mistake our emotions for truth and our habits for wisdom. Reflection creates the space between stimulus and response where freedom lives.
+
+**⚙️ How It Works**
+Every evening, Marcus Aurelius would examine his day: What triggered anger? Where did I act from fear rather than virtue? What assumptions went unquestioned? Epictetus taught his students to catch their judgments in real-time: "This traffic is terrible" becomes "I'm choosing to be disturbed by traffic." Seneca practiced philosophical writing, working through moral dilemmas on paper. The key is consistent, honest self-examination without self-condemnation—you're a scientist studying your own mind, not a judge condemning it.
+
+**🎯 Stoic Wisdom**
+"We suffer more in imagination than in reality." —Seneca. Reflection reveals how much of our suffering comes from our thoughts about events, not the events themselves.
+
+**❓ Tomorrow's Question** — If your thoughts and judgments create more suffering than external circumstances ever could, what does this reveal about where your true power lies?`,
+    parable: `The oil lamps flickered in Maxima's tent as evening settled over the camp. Caius found his mentor seated at a wooden table, stylus in hand, writing on a wax tablet by the dim light.
+
+"Still working, General?" Caius asked, settling beside him.
+
+Maxima looked up, his scarred face thoughtful. "The day's most important work, young soldier. I'm examining what happened today—not the battles or the marching, but the battles within my own mind."
+
+Caius peered at the tablet, seeing scratched notes and crossed-out lines. "What do you write?"
+
+"Questions, mostly. This morning I felt anger when the supply wagons were late. Why? Because I expected them to be punctual? Because I feared looking incompetent to my superiors? Or because I simply hadn't accepted that delays are part of war?" Maxima's stylus moved across the wax. "This afternoon I felt pride when the new recruits executed their formations perfectly. Was this joy in their progress, or was my ego feeding on their success?"
+
+Caius frowned. "Isn't it good to feel pride in your soldiers?"
+
+"Perhaps. But without examination, I don't know if my pride serves them or myself. A general who needs his soldiers to succeed so he can feel worthy is dangerous—he might risk their lives for his vanity." Maxima set down his stylus. "The unexamined mind, Caius, is like an untended garden. Weeds of assumption and habit grow wild, choking out wisdom."
+
+"But how can you question everything? Wouldn't you become paralyzed?"
+
+Maxima smiled. "Not everything—just the reactions that cause suffering. When I examine my anger about the wagons, I see it changed nothing except my own peace. When I examine my pride, I can separate genuine care for my men from ego-driven need. Reflection doesn't paralyze—it liberates."
+
+He pointed to a line on his tablet: "Today I feared failure. Tomorrow I'll ask: what if failure were simply information?"
+
+**Moral**: The unexamined life perpetuates unconscious suffering; reflection reveals the difference between reality and our stories about reality.
+
+**Tomorrow**: Maxima will share with Caius the ultimate revelation that emerges from consistent reflection—where true power actually resides.`,
+  },
 ];

@@ -810,4 +810,66 @@ Months later, word spread through the village of Dara's fair dealings. Property 
 
 **Tomorrow:** As Dara's ethical approach builds both wealth and respect, she must grapple with an unexpected challenge—what purpose should drive her success beyond mere accumulation?`,
   },
+  {
+    day: 14,
+    title: "Legacy Building — Real Estate as Generational Impact",
+    date: "2026-03-06",
+    image: "images/real-estate/day-14.jpg",
+    audio: "audio/real-estate/day-14",
+    sonnet: `**🪶 Sonnet XIV: Legacy Building — Real Estate as Generational Impact**
+
+When coffers overflow and needs are met,
+What drives the builder's hand to shape once more?
+Not greed, but vision that we can't forget—
+To plant the seeds for those who come before.
+
+Each property becomes a living trust,
+A bridge between the present and what's next,
+Where families flourish, communities adjust,
+And purpose guides each carefully chosen text.
+
+The landlord's craft transcends the monthly rent,
+Creating pathways others might not see,
+Where shelter serves as instrument for bent
+Toward justice, growth, and generosity.
+
+*True wealth endures when builders understand*
+*Their greatest work lives far beyond their hand.*`,
+    standard: `🏠 Day 14: Legacy Building — Real Estate as Generational Impact
+
+The drive to continue building beyond personal comfort comes from understanding that true wealth isn't measured by what you accumulate, but by what you create for others—your family's future, your community's development, and the positive economic ripples that extend far beyond your own bank account. Purpose-driven real estate investing transforms from a wealth-building tool into a legacy-building platform where your properties become vehicles for generational impact, community development, and lasting positive change.
+
+🧱 **The Concept**
+Legacy building shifts your focus from maximizing personal returns to creating sustainable, multi-generational impact through strategic real estate investments that benefit families, communities, and future generations.
+
+❓ **Why It Matters**
+Without a clear legacy vision, successful investors often hit a plateau where additional wealth feels meaningless, leading to either stagnation or reckless speculation. Purpose-driven investing provides the motivation to continue building while ensuring your real estate empire creates lasting positive impact beyond your lifetime. Legacy thinking also attracts better partners, tenants, and opportunities because people want to be part of something meaningful.
+
+⚙️ **How It Works**
+Legacy builders structure their portfolios around three pillars: **family wealth preservation** through trust structures and education programs that teach the next generation responsible stewardship; **community development** by investing in underserved areas with patient capital and long-term improvement plans; and **economic empowerment** by creating pathways for tenants to become homeowners or helping local businesses thrive through commercial spaces. For example, instead of maximizing rents, you might offer rent-to-own programs or small business incubators. Some investors establish scholarship funds tied to their properties or create apprenticeship programs that teach construction and property management skills to local youth. The key is aligning every investment decision with your core values and long-term vision for impact.
+
+🎯 **Real Estate Wisdom**
+True wealth isn't what you can buy—it's what you can build that outlasts you. The greatest real estate fortunes become generational platforms for positive change.
+
+❓ **Tomorrow's Question** — You've built a real estate empire with clear purpose and lasting impact, but here's the ultimate test of your legacy: if you had to choose between a property deal that would double your net worth or one that would transform a struggling community but break even financially, which would you choose, and what does that choice reveal about whether you've truly transcended the pursuit of wealth for wealth's sake?`,
+    parable: `Years had passed since Dara first learned the carpenter's wisdom from old Hallam, and now her own portfolio sprawled across three villages, each property carefully tended and thoughtfully improved. But as she sat in her father's old workshop—now converted into her office—counting the month's receipts, a strange emptiness settled over her despite the abundance before her.
+
+"Why the long face, child?" Hallam's voice came from the doorway. Though well into his seventies, he still made his rounds, checking on the community he'd helped build.
+
+"I have enough, Hallam. More than enough. My children's children will never want for anything, yet I keep buying, keep building. What's the point?"
+
+The old landlord settled into the worn chair opposite her desk. "Ah, you've reached the crossroads every successful builder faces. Tell me, when your father crafted a table, did he stop once he'd made enough for his own family?"
+
+"No," Dara replied slowly. "He said each piece was a chance to make someone's home a little better, a little more beautiful."
+
+"Precisely. Your father understood that wealth isn't the destination—it's the tool. Look around this village, child. Every family you've housed, every young couple you've helped with their first home, every widow you've treated fairly when others might have taken advantage—that's your true portfolio."
+
+Dara's eyes brightened as understanding dawned. "The houses aren't the legacy. The lives they shelter are."
+
+"Now you're thinking like a true builder," Hallam smiled. "The question isn't how much you can accumulate, but how much good you can do with what flows through your hands. Some plant trees knowing they'll never sit in their shade."
+
+**Moral:** True wealth is measured not by what you keep, but by what you give forward through purposeful action.
+
+*Tomorrow, we discover the ultimate choice that reveals whether we've transcended mere accumulation...*`,
+  },
 ];

@@ -806,4 +806,64 @@ Ren watched in amazement as the merchant departed, practically floating with pri
 
 *Tomorrow, Ren will discover what happens when the master appears to need convincing that someone deserves his attention at all.*`,
   },
+  {
+    day: 13,
+    title: "The Qualification Reversal",
+    date: "2026-03-06",
+    image: "images/negotiation/day-13.jpg",
+    audio: "audio/negotiation/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Qualification Reversal**
+
+When suitors chase, the prize seems less divine,
+But when the prize itself asks "are you true?"
+The hunter pauses, seeking proof and sign
+That he deserves what he is pursuing.
+
+The merchant who must prove his wares are fine
+Values the buyer's coin as something new,
+While she who questions "is this trade benign?"
+Holds power in her careful, measured view.
+
+Reverse the roles, let them convince your ear
+That they deserve your time and precious care,
+Watch how their urgency makes crystal clear
+The worth of what you offer, rich and rare.
+
+*For when we make them qualify and plead,*
+*They chase what once they thought they'd never need.*`,
+    standard: `🤝 Day 13: The Qualification Reversal
+
+When you reverse the dynamic by making yourself the one who needs convincing, you transform from pursuer to prize. This creates what negotiators call "qualification pressure" — suddenly your counterpart must prove their worthiness to you, shifting the psychological balance of power entirely.
+
+🧱 **The Concept**
+Qualification reversal flips the script by making your counterpart compete for your approval rather than you competing for theirs.
+
+❓ **Why It Matters**
+Most people enter negotiations assuming they need to convince the other party to say yes. This puts them in a psychologically inferior position from the start. When you make them qualify themselves to you, they unconsciously begin to value what you're offering more highly.
+
+⚙️ **How It Works**
+Instead of pitching why they should hire you, ask: "What makes you think you're ready for this level of service?" Rather than explaining why your product is perfect for them, inquire: "Help me understand what you've done to prepare for this kind of investment." A consultant might say: "I'm very selective about my clients — walk me through why this project deserves my attention." The key is genuine curiosity, not arrogance. You're not rejecting them; you're ensuring mutual fit.
+
+🎯 **Negotiation Wisdom**
+The person asking questions controls the conversation; the person who must qualify themselves values the opportunity more.
+
+❓ **Tomorrow's Question** — If making someone qualify themselves increases their perceived value of your offer, what happens when you strategically withdraw that offer entirely, forcing them to chase what they thought they could easily obtain?`,
+    parable: `The market square buzzed with afternoon energy as Ren watched Vasska examine a merchant's finest silks. The silk trader, eager for the master's business, unfurled bolt after bolt of his most precious fabrics.
+
+"Master Vasska," the merchant pleaded, "surely these are exactly what a trader of your caliber requires? I can offer you a special price—"
+
+Vasska's single eye remained impassive. He stepped back slightly, creating distance both physical and psychological. "Tell me," he said quietly, "what makes you believe your silks are worthy of my caravan routes? I've seen a hundred merchants today, each claiming their goods are special."
+
+The merchant's demeanor shifted instantly. Gone was the salesman's confidence, replaced by nervous energy. "Well, Master, you see... these silks come from the royal looms of—" He began recounting credentials, provenance, quality measures — things he hadn't bothered to mention when he thought Vasska was just another buyer.
+
+"Interesting," Vasska mused, still distant. "But I work only with suppliers who understand the responsibility of serving my clients. Walk me through how you've prepared to meet the standards my reputation demands."
+
+Ren watched in fascination as the merchant, who moments before had been in control, now scrambled to prove his worthiness. The master hadn't rejected the silks — he had simply made himself the prize to be won.
+
+"You see, young Ren," Vasska murmured later, "the moment you make them chase your approval instead of you chasing their agreement, the entire game changes."
+
+**Moral:** He who must prove worthiness values the opportunity more than he who offers it freely.
+
+*Tomorrow: When desire meets scarcity, even the wisest merchants forget their training...*`,
+  },
 ];

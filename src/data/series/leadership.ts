@@ -631,4 +631,70 @@ The old admiral smiled. "And that, Captain, is when your real authority began."
 
 *Tomorrow, we discover why the strongest leaders often appear the most fragile...*`,
   },
+  {
+    day: 11,
+    title: "The Compassion Compass",
+    date: "2026-03-06",
+    image: "images/leadership/day-11.jpg",
+    audio: "audio/leadership/day-11",
+    sonnet: `**🪶 Sonnet XI: The Compassion Compass**
+
+When tempests rage and hearts grow heavy-laden,
+The leader's choice reveals their truest core:
+To rule with iron fist, or be the haven
+Where wounded souls find strength to fight once more.
+
+Compassion flows not as weakness disguised,
+But as the steel that bends yet never breaks,
+A force that sees where others' pain resides,
+Yet stands unmoved when difficult choice awakes.
+
+The captain who descends to murky depths
+To aid the sailor trembling with his fear,
+Gains more than titles, ranks, or royal preepts—
+She earns the hearts that hold her ever dear.
+
+*For in the marriage of both strength and care,*
+*True leadership finds power beyond compare.*`,
+    standard: `👥 Day 11: The Compassion Compass
+
+The answer reveals itself in how your people respond when you're not watching. Those who follow your character rather than your title demonstrate this through their continued dedication, their willingness to bring you difficult truths, and their desire to emulate your values even when you're absent. True leadership character shows itself through consistent empathy, reliability in crisis, and genuine care for others' growth over your own advancement.
+
+🧱 **The Concept**
+Compassionate leadership means leading with genuine concern for others' wellbeing while maintaining the strength to make difficult decisions.
+
+❓ **Why It Matters**
+Leaders who balance empathy with decisive action create environments where people feel both cared for and confident in direction. This combination builds deeper loyalty than fear or admiration alone ever could.
+
+⚙️ **How It Works**
+Compassionate leaders listen first before acting, consider the human impact of decisions alongside business outcomes, and demonstrate vulnerability without weakness. They offer support during team members' personal struggles while maintaining performance standards. For example, a compassionate leader might extend deadlines for someone dealing with family illness while ensuring the team understands expectations remain high. They celebrate others' victories as genuinely as their own and take responsibility for failures without deflecting blame.
+
+🎯 **Leadership Wisdom**
+Strength without compassion is tyranny; compassion without strength is ineffective kindness.
+
+❓ **Tomorrow's Question** — If you knew that every person you lead was fighting an invisible battle you knew nothing about, how would this change the assumptions you make about their performance, behavior, and potential?`,
+    parable: `Tova stood at the helm as the first storm clouds gathered on the horizon. Her crew worked frantically to secure the rigging, their movements sharp with barely contained panic. She had inherited this ship not through merit but through circumstance—the previous captain had abandoned them at port, taking half their provisions and their confidence with him.
+
+"Captain," called First Mate Korren, his voice tight with worry, "the port anchor's chain is fouled. Young Willem's volunteered to dive and clear it, but the water's already rough."
+
+Tova watched the boy—barely eighteen—checking his diving gear with trembling hands. She could order him down, as was her right. Instead, she found herself remembering Greymane's words from their last meeting: "Authority commands the body, but compassion reaches the soul."
+
+"Willem," she called, approaching the young sailor. "Tell me about your family back in Nordheim."
+
+The boy looked up, surprised. "My... my mother, Captain. She's sick. The physician says—" His voice broke.
+
+"And this voyage pays enough to help her?" Tova knelt beside him, checking his equipment herself. "Then we'll make sure you get home safely to do exactly that. I'm going down with you."
+
+Korren stepped forward. "Captain, with respect, your place is on deck—"
+
+"My place," Tova said firmly, "is wherever my crew needs me most."
+
+As they descended into the churning waters together, Willem's panic transformed into determination. Above them, the crew worked with renewed energy, no longer driven by fear of failure but by desire to prove worthy of a captain who would risk herself for any of them.
+
+Later, as the storm passed and the ship cut smoothly through calming seas, Greymane's voice echoed in Tova's memory: "True strength isn't the power to stand above others—it's the courage to stand beside them when the depths threaten to pull them under."
+
+**Moral**: Leadership that combines genuine care with unwavering resolve creates loyalty that weathers any storm.
+
+**Tomorrow**: Tova discovers that understanding her crew's hidden struggles reveals surprising truths about their untapped potential.`,
+  },
 ];

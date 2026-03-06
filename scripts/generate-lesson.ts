@@ -2,7 +2,7 @@ import { readFileSync } from 'fs';
 import { resolve } from 'path';
 import { execSync } from 'child_process';
 
-const ROOT = resolve(import.meta.dirname!, '..');
+const ROOT = resolve(import.meta.dirname ?? new URL('.', import.meta.url).pathname, '..');
 
 function getAnthropicKey(): string {
   const authProfiles = JSON.parse(readFileSync(resolve(process.env.HOME!, '.openclaw/agents/main/agent/auth-profiles.json'), 'utf-8'));
