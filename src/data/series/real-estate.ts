@@ -696,4 +696,56 @@ Moral: True wealth lies not in owning assets that demand your time, but in creat
 
 Tomorrow, Dara will discover how Master Hallam's clockwork village weathers the storms that shatter less prepared investors.`,
   },
+  {
+    day: 12,
+    title: "Crisis Investing — Turning Market Downturns Into Wealth Accelerators",
+    date: "2026-03-06",
+    image: "images/real-estate/day-12.jpg",
+    audio: "audio/real-estate/day-12",
+    sonnet: `**🪶 Sonnet XII: Crisis Investing — Turning Market Downturns Into Wealth Accelerators**
+
+When markets crash and desperate sellers flee,
+The wise investor sees opportunity,
+With patient capital and vision clear,
+They buy what others sell in abject fear.
+
+While panicked crowds abandon prime estate,
+The prepared few accumulate their fate,
+Cash reserves and credit lines secured
+Before the storm make profits long endured.
+
+Distressed assets flow to steady hands,
+As overleveraged empires crumble grand,
+Each crisis transfers wealth from weak to strong,
+Though moral questions linger right and wrong.
+
+*In downturns fortunes shift from those who weep,*
+*To those who planned while others chose to sleep.*`,
+    standard: `🏠 Day 12: Crisis Investing — Turning Market Downturns Into Wealth Accelerators
+
+Sophisticated investors profit from market downturns by maintaining strong cash reserves, securing flexible financing beforehand, and positioning themselves as buyers when others are forced sellers. They understand that real estate cycles create the greatest wealth transfer opportunities—when panicked owners sell quality properties at steep discounts to investors with patient capital and strategic vision.
+
+🧱 **The Concept**
+Crisis investing transforms market volatility from a threat into your greatest wealth-building accelerator.
+
+❓ **Why It Matters**
+While amateur investors get wiped out during downturns, professional investors make their fortunes by buying distressed assets from motivated sellers. The wealthy understand that market crashes don't destroy wealth—they transfer it from the unprepared to the prepared.
+
+⚙️ **How It Works**
+Crisis investors maintain 6-12 months of property expenses in cash reserves and secure lines of credit during good times, not when they need them. When markets crash, they target distressed sellers—overleveraged investors facing foreclosure, estate sales, or business failures—offering quick cash closings at 20-40% below peak values. For example, during 2008, savvy investors bought quality rental properties in prime locations for 50-70 cents on the dollar, then held them through recovery for massive gains. They also negotiate seller financing when banks tighten lending, structure lease-option deals with struggling homeowners, and acquire performing notes from banks eager to clear bad debt.
+
+🎯 **Real Estate Wisdom**
+Fortunes are made during crashes by those who prepare during booms—cash is king when credit disappears.
+
+❓ **Tomorrow's Question** — You've learned to profit from other people's panic and desperation, but here's an uncomfortable truth: the most successful crisis investors often buy from families losing their homes, struggling small landlords, or desperate business owners. How do you balance maximum profit with ethical responsibility, and is it possible to build wealth through real estate without contributing to someone else's financial ruin?`,
+    parable: `The winter when the great storm came, half the village found themselves in dire straits. Properties sat empty, rents went uncollected, and many landlords faced ruin. Young Dara watched as neighbors sold their holdings for whatever they could get, desperate to avoid complete loss.
+
+But old Hallam moved differently through the crisis. Years before, when times were flush, he had quietly set aside silver coins in hidden coffers and secured promises from the moneylenders for future credit. "Storms reveal who built on stone and who built on sand," he told Dara as they walked past a row of vacant shops whose owners had fled to the city.
+
+"Watch and learn," Hallam said, approaching a once-proud merchant whose family had owned the corner building for three generations. The man's eyes were hollow with defeat. "I can offer you silver today—enough to settle your debts and start fresh elsewhere. Or you can wait for spring and hope someone else comes along." The merchant took the offer, selling for half what the building was worth before the storm.
+
+Within two years, as the village recovered and new merchants arrived, that corner building doubled in value. "You seem to profit from others' misery," Dara observed, troubled. Hallam's weathered hands paused on his walking stick. "Child, I did not create the storm. But when it comes, would you rather be the one with shelter to offer, or the one standing in the rain?"
+
+Tomorrow, Dara would grapple with the weight of this wisdom, wondering if there was a way to build wealth that lifted others rather than profiting from their fall.`,
+  },
 ];

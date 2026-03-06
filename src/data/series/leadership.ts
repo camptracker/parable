@@ -504,4 +504,71 @@ As stars emerged overhead, Tova realized that her crew's success wasn't despite 
 
 Tomorrow, Greymane will reveal why the questions we ask can be more transformative than the answers we give.`,
   },
+  {
+    day: 9,
+    title: "The Courage to Be Vulnerable",
+    date: "2026-03-06",
+    image: "images/leadership/day-9.jpg",
+    audio: "audio/leadership/day-9",
+    sonnet: `**🪶 Sonnet IX: The Courage to Be Vulnerable**
+
+When captains cast aside their prideful mask,
+And dare confess they do not know the way,
+Their crews step forth, no longer forced to bask
+In silence while their wisdom fades away.
+
+The strongest oak that bends before the gale
+Outlives the rigid trunk that will not yield;
+So leaders who admit when they might fail
+Discover strength in vulnerability's field.
+
+No fortress built of certainty and fear
+Can match the bridge that honest doubt creates,
+Where minds converge and brilliant truths appear
+From souls who'd waited by the guarded gates.
+
+*For in the space where "I don't know" resides,*
+*Collective wisdom rises like the tides.*`,
+    standard: `👥 Day 9: The Courage to Be Vulnerable
+
+When we lead through questions instead of answers, we discover that our teams often possess solutions we never imagined—but they've been waiting for permission to share them. This shift reveals that many leadership challenges aren't knowledge problems but courage problems: our reluctance to admit we don't have all the answers creates the very silence that blocks breakthrough solutions.
+
+🧱 **The Concept**
+True leadership strength emerges not from projecting invincibility, but from modeling the courage to be genuinely vulnerable with our limitations and uncertainties.
+
+❓ **Why It Matters**
+When leaders admit they don't have all the answers, they give their teams permission to think creatively and take ownership of solutions. Vulnerability breaks down the artificial barriers that prevent authentic collaboration and innovation. Most importantly, it transforms leadership from a performance into a partnership.
+
+⚙️ **How It Works**
+Vulnerable leadership starts with phrases like "I'm not sure about this—what do you think?" or "I made a mistake here, and here's what I learned." It means sharing your decision-making process, including your doubts and the factors you're weighing. When a project fails, vulnerable leaders ask "What did I miss?" before asking "What went wrong?" This approach creates psychological safety where team members feel safe to challenge ideas, admit their own mistakes, and propose unconventional solutions. The result is a culture of collective problem-solving rather than individual heroics.
+
+🎯 **Leadership Wisdom**
+The strongest leaders are those brave enough to show they're still learning. Vulnerability isn't weakness—it's the foundation of trust and the catalyst for team courage.
+
+❓ **Tomorrow's Question**
+If you discovered that the people who challenge you most directly are actually your most valuable team members, how would this change your response to disagreement and the way you interpret pushback in your organization?`,
+    parable: `The harbor master's office felt unusually quiet as Tova stared at the navigation charts scattered across her desk. Three weeks into her captaincy, every solution she'd proposed had been met with polite nods and subtle resistance. Her crew worked efficiently but mechanically, like clockwork figures going through predetermined motions.
+
+"The tide charts aren't the problem," Greymane observed from the doorway, his weathered hands clasped behind his back. "Though you've been studying them like they hold the secrets of the universe."
+
+Tova looked up, frustration creasing her brow. "Every decision I make feels wrong, Admiral. I present clear plans based on solid reasoning, yet something's always off. The timing, the approach, the execution—it's like I'm missing something fundamental."
+
+"What if you are?" Greymane settled into the chair across from her, his gray eyes thoughtful. "I once commanded a vessel through the Shattered Straits—waters so treacherous that charts became useless after every storm. My first instinct was to plot our course with mathematical precision, to project absolute confidence in my navigation."
+
+He paused, running a finger along one of her charts. "We nearly foundered on the third day. That night, exhausted and humbled, I gathered my crew and said something that terrified me: 'I don't know these waters well enough. What have you observed that I might have missed?'"
+
+"What happened?" Tova asked.
+
+"My helmsman had noticed current patterns I'd dismissed. My lookout had spotted rock formations that weren't on any chart. My cook, of all people, had been tracking wind shifts through the smoke from his galley fires." Greymane smiled. "Each had been waiting for permission to speak—not because they lacked knowledge, but because they'd learned that captains prefer certainty to wisdom."
+
+Tova felt something shift inside her chest. "So vulnerability wasn't weakness—it was intelligence."
+
+"More than that," Greymane said, rising. "It was the bridge between your isolated leadership and their untapped capability. When you admit you don't have all the answers, you invite them to co-create the solutions."
+
+As he reached the door, he turned back. "Tomorrow, instead of presenting your next plan, try presenting your next question. See what wisdom has been waiting for your courage to unlock it."
+
+**Moral:** *The leader who admits uncertainty creates space for collective wisdom, while the leader who projects false certainty navigates alone toward predictable failure.*
+
+**Tomorrow's Glimpse:** *But what happens when that collective wisdom comes packaged in uncomfortable challenges to your thinking?*`,
+  },
 ];

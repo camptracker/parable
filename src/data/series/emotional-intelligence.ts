@@ -564,4 +564,78 @@ The Veil nodded slowly. "And when you listen to anger's message—that something
 
 **Tomorrow:** Idris will discover that accepting difficult emotions is only the beginning—but why do we confuse acceptance with surrender?`,
   },
+  {
+    day: 9,
+    title: "The Wisdom of Boundaries",
+    date: "2026-03-06",
+    image: "images/emotional-intelligence/day-9.jpg",
+    audio: "audio/emotional-intelligence/day-9",
+    sonnet: `**🪶 Sonnet IX: The Wisdom of Boundaries**
+
+Like gardens need their fences to grow free,
+Our hearts require borders to stay whole;
+Not walls that block connection's sacred key,
+But filters that protect the tender soul.
+
+The empath drowns in others' raging sea,
+While those with walls live barren and alone;
+But wisdom builds a bridge 'tween you and me—
+A membrane where true feeling can be known.
+
+To feel another's pain without their weight,
+To offer love yet keep your center strong,
+This art transforms compassion into grace,
+Where healing flows but nothing goes too wrong.
+
+*For boundaries are not the end of care—*
+*They let us love without the need to bear.*`,
+    standard: `🧭 Day 9: The Wisdom of Boundaries
+
+We mistake emotional acceptance for weakness because our culture conflates control with suppression, teaching us that strength means never feeling vulnerable. True emotional discipline, however, isn't about eliminating feelings—it's about learning to experience them without being consumed by them, which requires the paradoxical strength of allowing ourselves to be human.
+
+🧱 **The Concept**
+Emotional boundaries are the invisible lines that help us engage with others' feelings without losing ourselves in them.
+
+❓ **Why It Matters**
+Without clear emotional boundaries, we either become overwhelmed by others' emotions or completely shut down to protect ourselves. This creates a painful cycle where we're either drowning in emotional chaos or living in sterile isolation, unable to form genuine connections.
+
+⚙️ **How It Works**
+Healthy emotional boundaries work like a semi-permeable membrane—they let empathy flow while filtering out emotional toxicity. When your anxious friend calls in crisis, you can listen with compassion without absorbing their panic as your own. When a colleague explodes in anger, you can recognize their pain without taking responsibility for fixing their mood. The key is developing what psychologists call "emotional differentiation"—the ability to distinguish between your feelings and others' feelings. This means noticing when you start to feel someone else's anxiety creeping into your body, then consciously choosing whether to engage with it or let it pass through you.
+
+🎯 **EQ Wisdom**
+Compassion without boundaries becomes codependency; boundaries without compassion become walls.
+
+❓ **Tomorrow's Question** — If we can learn to maintain emotional boundaries while staying open to connection, what happens when someone we care about interprets our healthy boundaries as rejection or abandonment?`,
+    parable: `The diplomatic quarters buzzed with tension as Idris paced before The Veil's chamber. His latest assignment—mediating between two feuding trade guilds—had left him emotionally shattered. He'd absorbed every grievance, every slight, every burning resentment until he could no longer tell which anger belonged to whom.
+
+"I feel everything they feel," Idris confessed as he entered. "Their rage, their hurt, their fear—it all becomes mine. How can I help them if I'm drowning in their emotions?"
+
+The Veil sat motionless, then slowly reached for a bowl of water and a handful of sand. "What happens when you pour sand into water?" they asked, letting the grains fall.
+
+"It clouds everything," Idris replied, watching the murky swirl.
+
+"And if you stir it more?"
+
+"It gets murkier."
+
+The Veil set the bowl aside and picked up a fine mesh strainer. "What if water could flow through this, but sand could not?"
+
+Idris studied the strainer. "The water would remain clear... but you'd still have the sand."
+
+"Is the strainer cruel to the sand?"
+
+"No, it's just... selective."
+
+"When you absorbed every emotion in that room," The Veil asked, "did it help the guilds resolve their conflict, or did it create a third party who was also drowning?"
+
+Idris winced at the truth. His emotional overwhelm had made him less effective, not more compassionate. "But how do I care without absorbing? How do I help without taking on their pain?"
+
+The Veil held up the strainer again. "A strainer does not reject water—it allows it to flow through. It simply chooses what remains."
+
+As understanding dawned, Idris realized that boundaries weren't walls—they were conscious choices about what emotions to engage with and what to let pass through him like water through a sieve.
+
+**Moral:** True empathy requires the wisdom to feel with others without losing yourself in their emotional storms.
+
+**Tomorrow:** When boundaries meet the wounded heart that sees all limits as rejection...`,
+  },
 ];

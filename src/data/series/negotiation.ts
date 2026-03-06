@@ -684,4 +684,64 @@ By sunset, Ren walked away with premium silk at a fair price, while Vasska count
 
 *Tomorrow, Ren discovers how the master trader uses impossible anchors to make reasonable prices feel like generous gifts...*`,
   },
+  {
+    day: 11,
+    title: "The Anchor's Weight",
+    date: "2026-03-06",
+    image: "images/negotiation/day-11.jpg",
+    audio: "audio/negotiation/day-11",
+    sonnet: `**🪶 Sonnet XI: The Anchor's Weight**
+
+When merchants speak of prices, first they cast
+A number low as winter's shortest day,
+That all which follows seems a treasure vast
+Compared to what they thought they'd have to pay.
+
+The mind, like ship at anchor, holds its place
+By that first figure dropped in market's deep,
+And judges every offer by that base—
+The reference point our memories always keep.
+
+What seems a fortune when the bar sits low
+Would feel like loss if anchored high above,
+For value flows not from what coins bestow
+But from the contrast that our thoughts thereof.
+
+*The first number spoken casts its spell complete,*
+*Making fair deals feel like fortune sweet.*`,
+    standard: `🤝 Day 11: The Anchor's Weight
+
+When you anchor expectations dramatically low, you create a psychological baseline that makes any reasonable offer appear generous—even magnanimous. This exploits our tendency to judge value relatively rather than absolutely, turning what should be a fair deal into what feels like unexpected fortune.
+
+**🧱 The Concept**
+Extreme anchoring deliberately sets an unrealistic reference point to shift the entire negotiation range in your favor.
+
+**❓ Why It Matters**
+People don't evaluate offers in isolation—they judge them against the first number they hear. A ridiculously low anchor doesn't just influence the final price; it fundamentally reframes what "reasonable" means. When someone expects to pay $10,000 and you offer $15,000, they feel relief rather than resistance.
+
+**⚙️ How It Works**
+Start with an anchor so extreme it's almost absurd, but not insulting. If you're selling a car worth $20,000, mention you "saw one similar going for $35,000 but knew that was crazy." When you later suggest $22,000, it feels like a steal. Salary negotiations work similarly—if the budget "might only allow $60,000," then $75,000 feels generous rather than disappointing. The key is making your real offer appear reasonable by comparison to your anchor, not reasonable in absolute terms.
+
+**🎯 Negotiation Wisdom**
+The first number spoken casts a shadow over every number that follows.
+
+**❓ Tomorrow's Question** — If extreme anchors shift perceptions of value, what happens when you anchor not on price, but on the relationship itself by making your counterpart feel uniquely chosen for this opportunity?`,
+    parable: `The morning mist clung to the harbor stones as Ren watched Vasska examine a peculiar bronze compass, its needle dancing wildly in directions no honest compass should point. The ship captain who'd brought it from distant Khazar lands stood nervous as a cat in rain.
+
+"Cursed thing won't hold true north," the captain muttered. "Lucky if I get five coppers for it."
+
+Vasska's blind eye seemed to peer deeper than his good one. "Five coppers? Friend, I've seen broken compasses sold for scrap metal at two coppers. You're being generous with yourself."
+
+The captain's face fell. "Two coppers? But surely... it's bronze, and the craftsmanship..."
+
+"Oh, the bronze has some worth," Vasska conceded, turning the compass to catch the light. "And these Khazar markings... interesting. Tell you what—I'm feeling charitable today. I'll offer you fifteen coppers."
+
+Ren watched the captain's eyes widen with something approaching gratitude. Fifteen coppers—more than three times what he'd hoped for moments before. The deal was struck with eager handshakes.
+
+Later, as they walked away, Vasska whispered, "That compass isn't cursed, boy. It points to magnetic ore deposits. Worth fifty coppers to the right mining guild, but after hearing 'two coppers,' our friend felt like a king receiving fifteen."
+
+**Moral**: The first number whispered becomes the foundation upon which all others are judged.
+
+*Tomorrow, Ren will discover that the most powerful anchor isn't about money at all, but about making someone feel chosen.*`,
+  },
 ];

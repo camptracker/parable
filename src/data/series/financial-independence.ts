@@ -1038,4 +1038,72 @@ Kael watched a merchant's wagon choose the valley path over the cliff road, unde
 
 Tomorrow, Sable would teach Kael how to build the mental fortitude to stay true to his chosen path, even when the market's daily storms rage loudest.`,
   },
+  {
+    day: 15,
+    title: "The Power of Not Looking",
+    date: "2026-03-06",
+    image: "images/financial-independence/day-15.jpg",
+    audio: "audio/financial-independence/day-15",
+    sonnet: `**🪶 Sonnet XV: The Power of Not Looking**
+
+The wisest gardener tends his plot with care,
+Then lets the seasons work their patient art,
+Not measuring each seedling's growth to spare
+His anxious mind from doubt's corroding dart.
+
+So too the investor, planting wealth's seed,
+Must trust in time's great harvest yet to come,
+Ignoring daily fluctuations' greed
+That turns the rational mind completely numb.
+
+The market's voice is loud but seldom true,
+A siren song of profits quick and fast,
+While compound growth works silent as the dew,
+Building fortunes meant to ever last.
+
+*In stillness lies the power to create,*
+*Not watching makes the wealth accumulate.*`,
+    standard: `💰 Day 15: The Power of Not Looking
+
+The most effective way to ignore market noise is simply to stop watching it daily. Professional investors often check their portfolios only monthly or quarterly, focusing instead on their long-term plan and the underlying business fundamentals of their investments.
+
+🧱 **The Concept**
+Deliberately limiting your exposure to financial media and daily market updates trains your brain to think like a business owner rather than a day trader.
+
+❓ **Why It Matters**
+Daily market movements are essentially random noise that tells you nothing about long-term value creation. The more frequently you check your investments, the more likely you are to see temporary losses that trigger emotional selling decisions. Studies show that investors who check their portfolios less frequently actually earn higher returns over time.
+
+⚙️ **How It Works**
+Set specific times to review your investments—perhaps monthly or quarterly—and avoid financial news during market hours. Use automatic investing to remove the temptation to time purchases. Focus your attention on learning about the businesses you own or the broad economic trends that matter over decades, not the daily commentary about what "the market" did today. Many successful investors deliberately avoid having investment apps on their phones or bookmark financial websites.
+
+🎯 **Buffett Wisdom**
+"The stock market is a voting machine in the short run, but a weighing machine in the long run." Focus on the weight, not the votes.
+
+❓ **Tomorrow's Question** — If the key to investment success is patience and ignoring short-term volatility, why do so many people feel compelled to constantly monitor and adjust their portfolios instead of simply letting time do the work?*`,
+    parable: `The morning mist clung to the village as Kael found Sable tending his small garden behind the cottage. The elder worked methodically, never glancing toward the market square where merchants called out the daily prices of grain and livestock.
+
+"Master Sable," Kael began, "yesterday you taught me that staying invested through storms is crucial. But how does one truly ignore the daily clamor? Even now, I hear Tobren fretting over whether his stored grain has lost value since yesterday."
+
+Sable continued his weeding, his weathered hands steady. "Tell me, young Kael, does a farmer check his wheat's height each morning and despair when it hasn't grown overnight?"
+
+"Of course not," Kael replied. "That would be foolish."
+
+"Yet Tobren does exactly this with his investments." Sable straightened, brushing soil from his palms. "The wisest farmers plant their seeds, tend them seasonally, and trust in time's harvest. They do not measure each blade of grass daily, for such scrutiny breeds only anxiety and poor decisions."
+
+As if summoned by their conversation, Tobren appeared, his face creased with worry. "The grain prices have fallen again today! Perhaps I should sell my stored wheat before it drops further."
+
+Sable smiled gently. "My friend, you speak of wheat you planted for next year's feast, not this week's bread. Why do you measure its worth by today's merchants' mood?"
+
+"But I must know what it's worth," Tobren protested.
+
+"Must you?" Sable asked. "Does knowing change the wheat itself? Does your daily counting make it grow faster or yield more grain?"
+
+Kael watched understanding dawn in Tobren's eyes. The elder continued, "The merchant who checks his scales thrice daily becomes consumed by their fluctuations. But the merchant who weighs only when selling sleeps peacefully and prospers more."
+
+From that day forward, Tobren visited the market square only when the moon was full, focusing instead on tending his actual crops. His anxiety diminished, and curiously, his wealth grew.
+
+**Moral:** *True wealth grows in darkness, away from the harsh light of daily scrutiny.*
+
+*Tomorrow, Kael will discover why the human heart rebels against this simple wisdom...*`,
+  },
 ];

@@ -75,4 +75,54 @@ To shapes that once lived only in the air.
 *So dream in layers, patient, thin, and true—*
 *The world is built by those who start with few.*`
   },
+  {
+    day: 2,
+    title: "The Digital Clay",
+    date: "2026-03-06",
+    image: "images/3d-printing/day-2.jpg",
+    audio: "audio/3d-printing/day-2",
+    sonnet: `**🪶 Sonnet II: The Digital Clay**
+
+In realms where pixels dance and vertices gleam,
+The maker sculpts with mathematics' hand,
+No chisel needed for this cyber dream,
+Just logic's touch to shape the formless sand.
+
+Each polygon a facet of the whole,
+Triangles weaving surfaces so fine,
+The mesh becomes the vessel of the soul,
+Where imagination meets design.
+
+But beware the holes that pierce the digital skin,
+For printers read only what eyes can see—
+A manifold sealed tight, no gaps within,
+Transforms thought to firm reality.
+
+*The screen reflects what mind has truly wrought,*
+*No more, no less than what the heart has thought.*`,
+    standard: `🖨️ Day 2: The Digital Clay
+
+🧱 **The Concept** Digital models are the blueprints that transform imagination into printable reality.
+
+❓ **Why It Matters** Every 3D print begins as a digital sculpture in virtual space. Without proper modeling, even the most advanced printer becomes an expensive paperweight. Understanding how digital geometry translates to physical form is the bridge between creator and creation.
+
+⚙️ **How It Works** **CAD software** like Fusion 360 or Tinkercad lets you sculpt with mathematical precision, defining exact dimensions and relationships. **Mesh-based tools** like Blender treat objects as collections of connected triangular faces, perfect for organic shapes. The key is **manifold geometry** — your digital object must be "watertight" with no holes or inside-out faces, creating a clear distinction between inside and outside. A coffee cup needs thickness to its walls, not just a hollow shell, while a decorative vase might be solid throughout.
+
+🎯 **Maker Wisdom** The computer doesn't know what you intend — it only knows what you model.
+
+❓ **Tomorrow's Question** — If your printer can only deposit material where you tell it to, how does it create shapes that hang in mid-air or extend outward into empty space?`,
+    parable: `Finn stared at the glowing screen, his cursor hovering over the digital workspace like a hesitant sculptor before unmarked stone. "I can see it in my mind," he murmured, "but how do I make the computer see it too?"
+
+Orna smiled, her weathered hands dancing across the keyboard with practiced grace. "The machine speaks only in the language of geometry, young maker. Watch." She pulled vertices and stretched surfaces, each click transforming abstract mathematics into recognizable form. "In the physical world, clay yields to pressure, wood submits to the blade. But here, in this digital realm, we command matter itself through pure intention."
+
+As Finn watched, a simple cube blossomed into an intricate lattice, walls flowing like water frozen mid-pour. "Every surface must have thickness," Orna explained, "every edge must connect meaningfully to its neighbor. The computer is literal-minded — it will print exactly what you show it, nothing more, nothing less."
+
+Finn nodded slowly, understanding dawning. "So I must think like the machine to create for the human?"
+
+"Precisely. Master the digital clay, and you master the first law of making: clear intention yields clear results."
+
+**Moral:** *The computer is the most honest mirror — it reflects exactly what you create, not what you imagine.*
+
+*Tomorrow, Finn will discover how his perfect digital creation must sometimes defy gravity itself...*`,
+  },
 ];

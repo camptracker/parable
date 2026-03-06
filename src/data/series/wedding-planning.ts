@@ -318,4 +318,66 @@ Dove wiped her eyes, seeing her spreadsheet differently now. "So the budget isn'
 
 **Tomorrow, Nana Rose will reveal why the people you hire matter as much as what you hire them to do...**`,
   },
+  {
+    day: 6,
+    title: "The Venue as Canvas",
+    date: "2026-03-06",
+    image: "images/wedding-planning/day-6.jpg",
+    audio: "audio/wedding-planning/day-6",
+    sonnet: `**🪶 Sonnet VI: The Venue as Canvas**
+
+Within these walls, what story shall unfold?
+Does marble whisper secrets lovers share,
+Or do these stones grow distant, proud, and cold,
+Demanding transformation past compare?
+
+The grandest halls may dwarf the tender vow,
+While cottage gardens cradle gentle words.
+Each space holds breath—some sacred, some somehow
+At odds with how two faithful hearts are stirred.
+
+Seek not the venue others think you need,
+But one that breathes your rhythm, speaks your name,
+Where love requires no costume or false creed,
+Where being yourselves ignites the truest flame.
+
+*For when the space reflects your soul's own art,*
+*The setting sings in harmony with heart.*`,
+    standard: `💍 Day 6: The Venue as Canvas
+
+🧱 **The Concept**
+Your venue choice sets the emotional and aesthetic foundation for everything else, functioning less like a backdrop and more like a blank canvas that either enhances or fights against your wedding's true personality.
+
+❓ **Why It Matters**
+Many couples choose venues based on availability, price, or family pressure, then spend months forcing decorations and details to work in spaces that fundamentally clash with their vision. The right venue should feel like an extension of who you are as a couple, requiring minimal transformation to become magical.
+
+⚙️ **How It Works**
+Start by identifying the feeling you want your guests to experience—intimate and cozy, grand and celebratory, natural and organic, or elegant and refined. Then visit venues not during peak wedding mode, but when they're empty, asking yourself: "Does this space breathe the same energy we do?" A couple who loves quiet conversations might thrive in a small garden restaurant but feel lost in a grand ballroom. Conversely, natural entertainers might feel constrained in a tiny intimate space. Consider unconventional venues that reflect your shared interests—art galleries for creative couples, libraries for book lovers, or family properties for those who value roots over grandeur. The best venues require the least forcing.
+
+🎯 **Wedding Wisdom**
+When a venue aligns with your authentic selves, decoration becomes enhancement rather than transformation.
+
+❓ **Tomorrow's Question** — If you had to get married tomorrow with zero decorations or special lighting, which venue would still feel completely "you" in its raw, unadorned state, and what does that reveal about the difference between needing a space versus trying to create one?`,
+    parable: `Dove stood in the center of the grand ballroom, her voice echoing off marble walls as she spoke to Elm. "It photographs beautifully," she said, though something in her tone suggested uncertainty. Crystal chandeliers cast fractured light across the vast floor, and she could already envision two hundred guests scattered across the cavernous space.
+
+Elm walked to the towering windows, his footsteps sharp against the polished stone. "It's impressive," he agreed carefully, "but do you feel... us here?"
+
+Before Dove could answer, Nana Rose appeared in the doorway, her weathered hands tracing the ornate molding. "I've dressed a thousand ballrooms like this one," she mused. "Draped them in fabric to make them intimate, filled them with candles to warm the cold stone, hung lights to soften the harsh angles. Each time, the couple spent months and thousands of dollars trying to make the space whisper when it was built to roar."
+
+She gestured toward the vaulted ceiling. "This room wants to host galas and charity auctions. It dreams of orchestra music and formal dancing. There's nothing wrong with that—if that's who you are."
+
+Dove felt something shift in her chest. "We had our first date in that little café with mismatched chairs and books on every shelf," she admitted quietly.
+
+"And where do you have your best conversations now?" Nana Rose asked.
+
+"Our kitchen," Elm said immediately. "Or on the porch swing at sunset."
+
+Nana Rose nodded knowingly. "A venue should be like a favorite sweater—it should fit without forcing. The magic isn't in transforming a space into something it's not, but in finding the space that already holds your energy."
+
+As they walked toward the exit, Dove realized she'd been holding her breath in the ballroom. Outside, breathing came easier.
+
+The moral bloomed clear: When a venue aligns with your authentic selves, decoration becomes enhancement rather than transformation.
+
+Tomorrow, they would discover that some choices reveal their truth only when stripped of all pretense.`,
+  },
 ];

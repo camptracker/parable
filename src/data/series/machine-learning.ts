@@ -523,4 +523,62 @@ Nyx watched in wonder as the heavier stone navigated the carved landscape with f
 
 **Tomorrow**: The Archivist will reveal what happens when the mountain itself shifts beneath the rolling stone.`,
   },
+  {
+    day: 10,
+    title: "The Adaptive Learning Revolution",
+    date: "2026-03-06",
+    image: "images/machine-learning/day-10.jpg",
+    audio: "audio/machine-learning/day-10",
+    sonnet: `**🪶 Sonnet X: The Adaptive Learning Revolution**
+
+When gradient's path through shifting landscape bends,
+And single rates prove crude for complex art,
+Each parameter its own guidance transcends—
+Adam divides what momentum made whole part.
+
+The frequent-changed receive a gentler hand,
+While dormant weights gain boldness in their stride,
+As squared gradients, like shifting desert sand,
+Accumulate to be each step's true guide.
+
+No longer must the architect divine
+Which learning rate serves best for every node;
+The algorithm's memory, now refined,
+Adapts each pathway down the steepest road.
+
+*Yet still the deepest networks hold their ground,*
+*Where vanishing whispers can't be found.*`,
+    standard: `🤖 Day 10: The Adaptive Learning Revolution
+
+When the error landscape shifts during training, momentum alone becomes insufficient—we need adaptive optimization methods that adjust their step sizes based on the history of gradients for each parameter individually. This is where algorithms like Adam come in, combining momentum with adaptive learning rates that scale down for parameters that have been changing rapidly and scale up for those that have been relatively stable.
+
+🧱 **The Concept**
+Adaptive optimization algorithms automatically adjust learning rates for individual parameters based on their gradient history, rather than using a single global learning rate.
+
+❓ **Why It Matters**
+Different parameters in neural networks often require different learning rates—some need large steps to escape flat regions, while others need tiny adjustments to avoid overshooting narrow valleys. Manual tuning of learning rates becomes impractical as networks grow to millions or billions of parameters.
+
+⚙️ **How It Works**
+Algorithms like **AdaGrad** accumulate squared gradients to shrink learning rates for frequently updated parameters. **RMSprop** fixes AdaGrad's problem of learning rates shrinking to zero by using an exponential moving average of squared gradients. **Adam** (Adaptive Moment Estimation) combines RMSprop's adaptive learning rates with momentum, maintaining both first moments (momentum) and second moments (squared gradients) with bias correction. For example, if one weight consistently receives large gradients, Adam will automatically reduce its effective learning rate, while a weight with small, infrequent gradients gets a relatively larger step size.
+
+🎯 **ML Insight**
+Adaptive optimizers democratize deep learning by reducing the need for meticulous hyperparameter tuning, automatically discovering appropriate learning dynamics for each parameter.
+
+❓ **Tomorrow's Question** — If adaptive optimizers can automatically tune learning rates for millions of parameters simultaneously, what fundamental limitation prevents them from solving the exploding and vanishing gradient problems that plague very deep networks, and why do we need architectural innovations beyond just better optimization?`,
+    parable: `The Archivist observed Nyx struggling with her latest challenge—a thousand stone tablets, each requiring different pressures to carve meaningful patterns. Some tablets were hard as diamond, demanding forceful strikes, while others were soft as clay, needing the gentlest touch.
+
+"Master," Nyx sighed, "I cannot possibly remember the perfect pressure for each tablet. When I use the same force for all, the hard ones barely show marks while the soft ones shatter."
+
+The Archivist smiled knowingly. "Watch the master craftsmen in the workshop below," he said, gesturing to the valley. "See how each artisan's hammer grows heavier or lighter based on the metal's resistance? Their tools adapt, remembering which surfaces require strength and which demand delicacy."
+
+Nyx watched in wonder as the craftsmen worked, their hammers seeming to possess memory—striking iron with accumulated force while caressing silver with learned gentleness. Each tool maintained its own rhythm, its own understanding of the material beneath.
+
+"This is the secret of adaptive learning," the Archivist explained. "When the landscape of learning shifts like morning mist, we cannot rely on single strategies. We must give each parameter its own guide, its own memory of what has worked before."
+
+Nyx began to understand. Just as the craftsmen's tools remembered the nature of each metal, her learning algorithm could remember the behavior of each weight, adjusting accordingly without her conscious intervention.
+
+**Moral**: True mastery lies not in applying uniform force, but in adapting our approach to the unique nature of each challenge.
+
+*Tomorrow, Nyx will discover why even the most adaptive tools cannot penetrate the deepest mysteries of the learning process...*`,
+  },
 ];

@@ -583,4 +583,64 @@ Vex felt a chill as he noticed his own apprentices working with mechanical preci
 
 *Tomorrow, Ironmere reveals how to build systems that make discomfort feel like home...*`,
   },
+  {
+    day: 10,
+    title: "The Execution Velocity Paradox",
+    date: "2026-03-06",
+    image: "images/how-to-scale/day-10.jpg",
+    audio: "audio/how-to-scale/day-10",
+    sonnet: `**🪶 Sonnet X: The Execution Velocity Paradox**
+
+Not speed of hand that shapes the finest stone,
+But wisdom knowing where each tool should rest,
+While others race with movements overthrown,
+The master builder always works with less.
+
+Each step between the thought and finished deed
+Creates a chasm where momentum dies,
+The swiftest teams cut friction at its seed,
+And watch their smallest actions multiply.
+
+Beware the trap of motion without aim,
+Of busy hands that slow the greater whole,
+For true velocity burns with focused flame,
+While scattered effort dissipates the soul.
+
+*When distance shrinks 'tween vision and its birth,*
+*The lightest touch can move the heaviest earth.*`,
+    standard: `🚀 Day 10: The Execution Velocity Paradox
+
+🧱 **The Concept**
+The fastest teams aren't those who work hardest, but those who eliminate the most friction between decision and action.
+
+❓ **Why It Matters**
+Most scaling companies mistake activity for velocity—they add more processes, more approvals, more "coordination" as they grow. But velocity isn't about moving fast; it's about shortening the distance between having an idea and seeing it in the world. The companies that scale successfully obsess over execution velocity, not execution volume.
+
+⚙️ **How It Works**
+Execution velocity comes from three sources: **decision clarity** (everyone knows who decides what), **context sharing** (teams understand the 'why' behind decisions so they can act independently), and **feedback loops** (rapid learning cycles that prevent slow drift). Amazon's "disagree and commit" principle exemplifies this—once a decision is made, everyone moves at full speed regardless of initial disagreement. Stripe built their early competitive advantage not on better technology, but on faster iteration cycles than established payment processors. The best scaling teams measure cycle time (idea to implementation) more obsessively than they measure hours worked.
+
+🎯 **Scaling Wisdom**
+Velocity scales exponentially when you remove friction; effort scales linearly when you add people.
+
+❓ **Tomorrow's Question** — If execution velocity comes from removing friction, why do the highest-performing teams deliberately introduce strategic friction that slows them down?`,
+    parable: `Vex stood frustrated in his workshop, watching three apprentices stumble over each other while crafting a single table. "More hands should mean faster work," he muttered.
+
+Ironmere chuckled from the doorway. "You're confusing motion with progress, young builder. Come, let me show you something."
+
+They walked to the old city square, where Ironmere pointed to a fountain. "When I built this city, we had a mason who could lay fifty stones a day, while others managed twenty. I studied him obsessively."
+
+"Was he stronger? Faster?"
+
+"Neither. He eliminated wasted motion. While others walked back and forth for tools, he arranged everything within arm's reach. While others waited for mortar to be mixed, he prepared three batches in advance. While others debated placement, he had already memorized the pattern."
+
+Vex frowned. "But surely with more people—"
+
+"More people mean more coordination, more questions, more decisions. Each new person adds potential friction points exponentially." Ironmere traced the fountain's edge. "The fastest builders don't work harder; they eliminate the distance between thought and action."
+
+Returning to the workshop, Vex reorganized completely—tools within reach, materials pre-staged, each apprentice owning complete sections rather than sharing tasks. By evening, they had completed three tables.
+
+**Moral:** Velocity comes not from adding force, but from removing resistance.
+
+*Tomorrow, Ironmere will reveal why the city's greatest achievements required deliberately slowing down...*`,
+  },
 ];
