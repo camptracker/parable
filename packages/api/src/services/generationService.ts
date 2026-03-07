@@ -1,3 +1,26 @@
+/**
+ * Generation service — orchestrates the full AI content generation pipeline.
+ *
+ * Exports:
+ * - `createSeriesWithFirstLesson(topic, userId)` — creates a new Series, subscribes user,
+ *   and fires first-lesson generation in the background. Returns series immediately.
+ *   If the generated key already exists, subscribes user to existing series instead.
+ *
+ * - `createFirstLessonForSeries(series)` — generates lesson 1 without job queue:
+ *   generateFirstStandard → generateParable (saves characters) → generateSonnet →
+ *   generateImagePrompt → DALL-E/Cloudinary → create Lesson + Standard
+ *
+ * - `createLessonForSeries(seriesId)` — generates the next lesson using the job queue:
+ *   acquireJob → load prev lessons/standards → generateStandard → generateParable
+ *   (merge new characters) → generateSonnet → image → create Lesson + Standard → releaseJob
+ *   Called by the midnight cron and admin POST /api/series/:id/generate.
+ *
+ * Internal:
+ * - `acquireJob(seriesId)` — creates a 'generating' job or returns false if busy
+ * - `releaseJob(seriesId)` — deletes job or re-triggers if status was 'queued'
+ *
+ * Dependencies: aiTools (Claude), imageService (DALL-E/Cloudinary), all models
+ */
 import { Series, ISeries } from '../models/Series.js';
 import { Lesson } from '../models/Lesson.js';
 import { Standard } from '../models/Standard.js';

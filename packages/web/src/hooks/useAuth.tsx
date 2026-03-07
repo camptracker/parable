@@ -1,3 +1,21 @@
+/**
+ * Authentication context and provider.
+ *
+ * Exports:
+ * - `AuthProvider` — wraps the app; manages user state and token lifecycle
+ * - `useAuth()` — returns {user, loading, login, logout, refresh}
+ *
+ * Initialization: on mount, tries localStorage.accessToken → GET /api/users/me.
+ * Falls back to POST /auth/refresh (httpOnly cookie) if token is missing or invalid.
+ *
+ * Methods:
+ * - login() — redirects to /auth/google
+ * - logout() — POST /auth/logout, clears localStorage, nulls user state
+ * - refresh() — POST /auth/refresh, updates token + user state
+ *
+ * Admin check: user?.role === 'admin' (no separate hook needed)
+ * Dependencies: axios (direct, not the api client, for auth endpoints)
+ */
 import { createContext, useContext, useState, useEffect, useCallback, type ReactNode } from 'react';
 import axios from 'axios';
 import { type APIUser } from '../lib/api.js';

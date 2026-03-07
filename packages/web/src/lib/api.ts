@@ -1,3 +1,23 @@
+/**
+ * Axios API client and TypeScript type definitions for all API responses.
+ *
+ * The default export is a configured Axios instance (baseURL: '/api', withCredentials: true).
+ *
+ * Interceptors:
+ * - Request: attaches Authorization header from localStorage.accessToken
+ * - Response: on 401, attempts POST /auth/refresh (deduplicated), retries original request.
+ *   Clears localStorage token if refresh fails.
+ *
+ * Exported interfaces:
+ * - APISeries — series object from the API
+ * - APILesson — lesson with optional standard, read flag, dayNumber
+ * - APIStandard — structured lesson content (concept, definitions, wisdom, etc.)
+ * - APIUser — user profile {_id, email, name, picture, role, createdAt}
+ * - APISubscription — subscription with seriesId populated as APISeries
+ * - APIProgress — {currentDay: number}
+ * - APILessonsResponse — paginated response: {lessons, total, page, pages, progress}
+ * - Character — series character shape {name, pronoun, age?, personality?, role?}
+ */
 import axios from 'axios';
 
 const api = axios.create({
@@ -112,4 +132,16 @@ export interface APISubscription {
   seriesId: APISeries;
   userId: string;
   createdAt: string;
+}
+
+export interface APIProgress {
+  currentDay: number;
+}
+
+export interface APILessonsResponse {
+  lessons: APILesson[];
+  total: number;
+  page: number;
+  pages: number;
+  progress: APIProgress | null;
 }

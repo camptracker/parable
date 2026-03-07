@@ -1,3 +1,19 @@
+/**
+ * Series routes — mounted at /api/series
+ *
+ * Routes:
+ * - GET    /api/series                      — all active series, sorted by subscriberCount desc
+ * - GET    /api/series/popular              — top 20 by subscriberCount
+ * - POST   /api/series                      — create series from {topic}; auth required; 3/user/day limit
+ *   Triggers async first-lesson generation; returns series immediately (no lesson yet)
+ * - POST   /api/series/:seriesId/generate   — trigger next lesson generation; admin only
+ * - GET    /api/series/:seriesId/generation-status — returns {generating: boolean}
+ * - DELETE /api/series/:seriesId            — soft-delete series + lessons; admin only
+ *   Also hard-deletes standards, subscriptions, and the active GenerationJob
+ *
+ * Dependencies: generationService (createSeriesWithFirstLesson, createLessonForSeries),
+ * rateLimiter (checkCreateSeriesLimit), auth middleware
+ */
 import { Router, Request, Response } from 'express';
 import { Series } from '../models/Series.js';
 import { Lesson } from '../models/Lesson.js';
@@ -6,7 +22,7 @@ import { Subscription } from '../models/Subscription.js';
 import { GenerationJob } from '../models/GenerationJob.js';
 import { requireAuth, requireAdmin } from '../middleware/auth.js';
 import { checkCreateSeriesLimit } from '../middleware/rateLimiter.js';
-import { createSeriesWithFirstLesson } from '../services/generationService.js';
+import { createSeriesWithFirstLesson, createLessonForSeries } from '../services/generationService.js';
 
 const router = Router();
 
@@ -46,6 +62,33 @@ router.post('/', requireAuth, async (req: Request, res: Response) => {
     const msg = err instanceof Error ? err.message : 'Generation failed';
     res.status(500).json({ error: msg });
   }
+});
+
+// POST /api/series/:seriesId/generate - trigger next lesson generation (admin)
+router.post('/:seriesId/generate', requireAdmin, async (req: Request, res: Response) => {
+  const { seriesId } = req.params;
+
+  const series = await Series.findOne({ _id: seriesId, deletedAt: { $exists: false } });
+  if (!series) {
+    res.status(404).json({ error: 'Series not found' });
+    return;
+  }
+
+  const existing = await GenerationJob.findOne({ seriesId });
+  if (existing) {
+    res.status(409).json({ error: 'Generation already in progress' });
+    return;
+  }
+
+  createLessonForSeries(seriesId as string).catch(console.error);
+  res.json({ ok: true, message: 'Generation started' });
+});
+
+// GET /api/series/:seriesId/generation-status
+router.get('/:seriesId/generation-status', async (req: Request, res: Response) => {
+  const { seriesId } = req.params;
+  const job = await GenerationJob.findOne({ seriesId });
+  res.json({ generating: !!job });
 });
 
 // DELETE /api/series/:seriesId - soft delete + cleanup (admin)

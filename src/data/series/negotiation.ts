@@ -866,4 +866,66 @@ Ren watched in fascination as the merchant, who moments before had been in contr
 
 *Tomorrow: When desire meets scarcity, even the wisest merchants forget their training...*`,
   },
+  {
+    day: 14,
+    title: "The Scarcity Chase",
+    date: "2026-03-07",
+    image: "images/negotiation/day-14.jpg",
+    audio: "audio/negotiation/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Scarcity Chase**
+
+When prizes dangle close within our reach,
+We grasp with lazy hands and tepid hearts,
+But when those treasures suddenly retreat,
+Desire flames and desperation starts.
+
+The merchant shows his wares with casual care,
+Then speaks of other buyers at the door—
+See how the browsing customer's blank stare
+Transforms to hunger, wanting so much more.
+
+Withdrawal works where pressure always fails,
+For humans chase what slips between their hands,
+The fleeting prize that suddenly grows pale
+Becomes the thing for which their spirit stands.
+
+*When scarcity makes common treasure rare,*
+*The hunter's prey becomes the hunter's snare.*`,
+    standard: `🤝 Day 14: The Scarcity Chase
+
+When you strategically withdraw an offer, you transform desire into obsession—the withdrawal triggers loss aversion so powerfully that your counterpart will often improve their terms dramatically just to get back what they thought was already theirs. This creates a psychological vacuum that draws them toward you with increasing desperation.
+
+🧱 **The Concept**
+Scarcity multiplies value by making people chase what they can't have.
+
+❓ **Why It Matters**
+Humans are wired to want what's being taken away from them—it's why limited-time offers work and why playing hard to get increases attraction. In negotiation, strategic withdrawal doesn't just preserve your position; it actually improves it by making your counterpart compete against their own fear of loss.
+
+⚙️ **How It Works**
+Start by showing genuine interest, then introduce doubt about whether you can proceed: "I've been thinking about our conversation, and I'm not sure this is the right fit after all." Watch them shift from passive recipient to active pursuer. Real estate agents use this when they mention "another interested buyer"—suddenly the lukewarm prospect becomes desperate to close. The key is to withdraw authentically, not manipulatively. You're not playing games; you're genuinely reconsidering whether this serves both parties.
+
+🎯 **Negotiation Wisdom**
+The moment someone starts chasing you is the moment you've already won the negotiation.
+
+❓ **Tomorrow's Question** — If strategic withdrawal makes people chase harder, what happens when you combine this with giving them a way to "win you back" through a small, seemingly insignificant concession that actually costs you nothing?`,
+    parable: `Vasska watched as Ren clutched the jade pendant, eyes bright with possession. The young merchant had negotiated for three days, slowly wearing down the seller until victory seemed assured.
+
+"Ah," Vasska murmured, studying the scene with his good eye. "But look now—what happens when certainty becomes doubt?"
+
+The seller suddenly straightened, as if struck by revelation. "Wait," he said, reaching for the pendant. "I cannot sell this. My grandmother's spirit would never forgive me."
+
+Ren's fingers tightened involuntarily around the jade. "But we agreed—"
+
+"I'm sorry," the seller said, beginning to turn away. "Some things are not meant to be sold."
+
+"Wait!" Ren called out, his voice carrying a note of desperation that hadn't been there moments before. "Perhaps... perhaps we could discuss terms that would honor your grandmother's memory?"
+
+Vasska's scarred face creased into a knowing smile. The young merchant had gone from calculating buyer to pleading supplicant in mere seconds. What had been a simple transaction became a quest, and quests demanded higher prices.
+
+"See how the hunter becomes the hunted?" Vasska whispered. "When we withdraw the prize, desire transforms into need. The merchant who moments ago held all the power now chases shadows, offering more than he ever intended."
+
+**Moral**: *Scarcity is not about having less—it's about creating more want.*
+
+*Tomorrow, we discover what happens when the chase becomes a game of redemption...*`,
+  },
 ];

@@ -1,3 +1,19 @@
+/**
+ * Sidebar navigation component.
+ *
+ * Slide-out sidebar controlled by open/onClose props from App.tsx.
+ * Renders a hamburger overlay, nav links, and a scrollable series list.
+ *
+ * Nav links:
+ * - Discover (/) — always visible
+ * - My Series (/subscriptions) — authenticated users only
+ * - + New Series (/new) — authenticated users only
+ * - Admin (/admin) — admin role only
+ * - All active series (from GET /api/series) — always visible
+ *
+ * Footer: shows user avatar/name + Sign out button, or Sign in with Google button.
+ * Fetches series list on mount (independent of auth state).
+ */
 import { Link, useLocation } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import { useAuth } from '../hooks/useAuth.js';

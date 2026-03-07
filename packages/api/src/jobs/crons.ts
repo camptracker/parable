@@ -1,3 +1,17 @@
+/**
+ * Scheduled cron jobs (node-cron, UTC timezone).
+ *
+ * Exports:
+ * - `startOrchestrateSeriesCron` — runs at midnight UTC (0 0 * * *).
+ *   Calls createLessonForSeries for every active series with concurrency=3.
+ *   This is the primary mechanism for daily lesson production.
+ *
+ * - `startOrchestrateProgressCron` — runs at 7AM UTC (0 7 * * *).
+ *   For each subscription: creates Progress at day 1 if missing, or advances
+ *   currentDay if the user has a Read record for the current lesson.
+ *
+ * Both crons are started from src/index.ts on server boot (skipped in test env).
+ */
 import cron from 'node-cron';
 import pLimit from 'p-limit';
 import { Series } from '../models/Series.js';
@@ -36,38 +50,36 @@ export function startOrchestrateProgressCron(): void {
         const progress = await Progress.findOne({ userId: sub.userId, seriesId: sub.seriesId });
 
         if (!progress) {
-          // Set progress to first lesson
-          const firstLesson = await Lesson.findOne({
-            seriesId: sub.seriesId,
-            deletedAt: { $exists: false },
-          }).sort({ sortOrder: 1 });
-          if (firstLesson) {
-            await Progress.findOneAndUpdate(
-              { userId: sub.userId, seriesId: sub.seriesId },
-              { lessonId: firstLesson._id },
-              { upsert: true }
-            );
-            advanced++;
-          }
+          // Create initial progress at day 1
+          await Progress.findOneAndUpdate(
+            { userId: sub.userId, seriesId: sub.seriesId },
+            { $setOnInsert: { userId: sub.userId, seriesId: sub.seriesId, currentDay: 1 } },
+            { upsert: true }
+          );
+          advanced++;
           continue;
         }
 
-        // Check if current lesson has been read
-        const currentRead = await Read.findOne({ userId: sub.userId, lessonId: progress.lessonId });
+        // Check if current day's lesson has been read
+        const currentLesson = await Lesson.findOne({
+          seriesId: sub.seriesId,
+          sortOrder: progress.currentDay,
+          deletedAt: { $exists: false },
+        });
+        if (!currentLesson) continue;
+
+        const currentRead = await Read.findOne({ userId: sub.userId, lessonId: currentLesson._id });
         if (!currentRead) continue;
 
         // Find next lesson
-        const currentLesson = await Lesson.findById(progress.lessonId);
-        if (!currentLesson) continue;
-
         const nextLesson = await Lesson.findOne({
           seriesId: sub.seriesId,
           deletedAt: { $exists: false },
-          sortOrder: { $gt: currentLesson.sortOrder },
-        }).sort({ sortOrder: 1 });
+          sortOrder: progress.currentDay + 1,
+        });
 
         if (nextLesson) {
-          progress.lessonId = nextLesson._id;
+          progress.currentDay += 1;
           await progress.save();
           advanced++;
         }

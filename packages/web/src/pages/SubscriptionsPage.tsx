@@ -1,3 +1,12 @@
+/**
+ * Subscriptions page — URL: /subscriptions
+ *
+ * Auth guard: redirects to / if not authenticated.
+ *
+ * Displays the user's subscribed series as cards (GET /api/subscriptions).
+ * Each card links to /:seriesKey. Also shows a "+ Create New Series" card.
+ * Shows empty state with Browse link if user has no subscriptions.
+ */
 import { useEffect, useState } from 'react';
 import { Link, Navigate } from 'react-router-dom';
 import api, { type APISubscription } from '../lib/api.js';

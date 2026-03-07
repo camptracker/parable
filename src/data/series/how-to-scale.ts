@@ -771,4 +771,72 @@ Ironmere smiled as he watched a master weaver across the district create a patte
 
 **Tomorrow**: But if trust is so precious once built, why would any leader risk shattering it deliberately?`,
   },
+  {
+    day: 13,
+    title: "The Trust Reconstruction Engine",
+    date: "2026-03-07",
+    image: "images/how-to-scale/day-13.jpg",
+    audio: "audio/how-to-scale/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Trust Reconstruction Engine**
+
+When wooden bridges bear the founder's name,
+And every crossing needs the keeper's nod,
+The personal touch brings honor, warmth, and fame—
+But commerce chokes on trust that's bound by rod.
+
+The master builder breaks what seems so strong,
+Not hearts or faith, but patterns grown too small,
+For intimate bonds that served when teams were young
+Become the very walls that cause their fall.
+
+From "trust because I know you" we must grow
+To "trust your judgment backed by clear design,"
+Where systems amplify what skills can show
+And competence with principles combine.
+
+*For scaling trust means building bridges wide*
+*Where thousands cross, not just the keeper's pride.*`,
+    standard: `🚀 Day 13: The Trust Reconstruction Engine
+
+Successful leaders don't actually break trust—they break **outdated trust patterns** that no longer serve their growing organization. When a startup scales from 20 to 200 people, the intimate trust of "I know you'll figure it out" must evolve into systematic trust of "I trust our processes and your judgment within clear boundaries." This isn't betrayal; it's trust evolution.
+
+🧱 **The Concept**
+The Trust Reconstruction Engine is the deliberate process of dismantling informal trust systems and rebuilding them as scalable trust infrastructure.
+
+❓ **Why It Matters**
+Personal trust doesn't scale—it creates bottlenecks where everything flows through relationships rather than systems. As organizations grow, informal trust actually becomes a liability, creating insider/outsider dynamics and preventing new team members from contributing effectively. The most successful companies preemptively reconstruct their trust systems before informal relationships become organizational constraints.
+
+⚙️ **How It Works**
+Netflix exemplifies this perfectly: they moved from "we trust you completely" to "we trust you to make great decisions with full context and clear accountability." They replaced blanket trust with informed trust backed by radical transparency. Similarly, Amazon evolved from Bezos personally approving decisions to trusting teams within clear principles like "customer obsession" and "ownership." The key is replacing "trust the person" with "trust the person plus the system plus the feedback loops." This actually creates **stronger** trust because it's based on competence and alignment rather than personal relationships. Stripe's approach shows this too—they moved from founder gut-checks to systematic decision frameworks that new hires could immediately plug into and earn trust through performance rather than relationship-building.
+
+🎯 **Scaling Wisdom**
+The highest form of trust isn't personal—it's systematic. When you trust someone within a well-designed system, you're trusting their judgment amplified by collective intelligence.
+
+❓ **Tomorrow's Question** — If systematic trust is more powerful than personal trust, why do the most successful companies deliberately preserve pockets of personal, informal trust even as they scale to thousands of employees?`,
+    parable: `The morning mist clung to Ironmere's tower as Vex arrived, his young face clouded with confusion. "Master, I don't understand. Yesterday you spoke of breaking trust, but trust is the foundation of everything we build. How can destruction be construction?"
+
+Ironmere gestured toward the ancient bridge visible through his window. "Tell me, young builder, what do you see there?"
+
+"A bridge. Strong stone, built to last centuries."
+
+"Indeed. But twenty years ago, that bridge was wood—beautiful, personal, crafted by a single master who knew every grain. People trusted that bridge because they trusted him. But wood doesn't scale to carry the weight of a growing city."
+
+Vex frowned. "So you destroyed something people trusted?"
+
+"I reconstructed their trust," Ironmere corrected. "The people didn't need to trust *me* to cross safely—they needed to trust the engineering principles, the materials, the inspection systems. Personal trust had become a bottleneck. Every traveler had to meet the old bridge-keeper, learn his ways, earn his approval. Meanwhile, commerce waited."
+
+The old architect moved to his drafting table, revealing plans for a vast network of bridges. "When I announced we would replace the wooden bridge, the people were outraged. 'You're breaking our trust!' they cried. But I wasn't breaking trust—I was evolving it. The new bridge carries a hundred times more weight because a hundred engineers can verify its safety, not just one keeper."
+
+"But surely something was lost?"
+
+"Perhaps the warmth of the bridge-keeper's smile," Ironmere mused. "But gained was a system where any skilled engineer could maintain any bridge, where travelers didn't need personal introductions to cross safely, where trust became transferable rather than trapped in relationships."
+
+Vex studied the plans. "So trust reconstruction means...?"
+
+"Transforming 'I trust you because I know you' into 'I trust you because you operate within systems I understand, with accountability I can verify, guided by principles we share.' The second trust scales. The first trust constrains."
+
+**Moral**: The highest trust is not personal but systematic—when you trust someone within a well-designed system, you trust their judgment amplified by collective wisdom.
+
+*Tomorrow, Ironmere will reveal why even the most systematic cities preserve sacred spaces where old trust still flourishes...*`,
+  },
 ];

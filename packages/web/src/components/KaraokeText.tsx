@@ -1,3 +1,21 @@
+/**
+ * KaraokeText component — word-by-word text highlighting synced to audio playback.
+ *
+ * Props:
+ * - text: string — markdown fallback content (rendered when timestamps unavailable)
+ * - audioRef: RefObject<HTMLAudioElement> — audio element to track
+ * - isPlaying: boolean — drives the animation frame loop
+ * - timestampsUrl: string — URL to a JSON array of {word, start, end} (Whisper format)
+ *
+ * Behavior:
+ * - Fetches timestamps from timestampsUrl on mount/url change
+ * - Falls back to ReactMarkdown rendering if timestamps fail to load
+ * - Uses requestAnimationFrame to track audio currentTime and highlight the active word
+ * - Groups words into paragraphs on sentence-ending punctuation + gaps > 0.8s
+ * - Words get CSS classes: 'karaoke-word', 'spoken' (already said), 'active' (current)
+ *
+ * NOTE: This component is not currently wired to any page in the app.
+ */
 import { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 

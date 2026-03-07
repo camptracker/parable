@@ -1,3 +1,12 @@
+/**
+ * Home page — URL: /
+ *
+ * Displays the top 20 series by subscriberCount (GET /api/series/popular).
+ * Each series card links to /:seriesKey.
+ *
+ * Unauthenticated users see a "Sign in with Google" CTA.
+ * Authenticated users see a "+ Create New Series" card linking to /new.
+ */
 import { Link } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import api, { type APISeries } from '../lib/api.js';

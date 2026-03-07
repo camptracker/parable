@@ -1,3 +1,21 @@
+/**
+ * Authentication routes — mounted at /auth
+ *
+ * Configures Google OAuth 2.0 strategy via passport-google-oauth20.
+ * Admin role is assigned if the Google profile email is in ADMIN_EMAILS env var.
+ *
+ * Routes:
+ * - GET  /auth/google           — redirect to Google consent page
+ * - GET  /auth/google/callback  — OAuth callback; issues JWT pair; sets httpOnly refresh cookie;
+ *   redirects to CLIENT_URL/auth/callback?token=<accessToken>
+ * - POST /auth/refresh          — reads 'refreshToken' cookie; rotates tokens; returns {accessToken, user}
+ * - POST /auth/logout           — clears refresh cookie; removes token from User doc
+ *
+ * Token details: accessToken expires 15min, refreshToken expires 30d (httpOnly, path=/auth).
+ * Refresh tokens are validated against the stored value in User.refreshToken (rotation).
+ *
+ * Dependencies: generateTokens, verifyRefreshToken (auth middleware), User model, passport
+ */
 import { Router, Request, Response } from 'express';
 import passport from 'passport';
 import { Strategy as GoogleStrategy, Profile } from 'passport-google-oauth20';

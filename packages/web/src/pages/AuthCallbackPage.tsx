@@ -1,3 +1,10 @@
+/**
+ * Auth callback page — URL: /auth/callback
+ *
+ * Landing page after Google OAuth redirect. Reads the ?token= query parameter
+ * (access token from the API's OAuth callback) and saves it to localStorage.
+ * Immediately redirects to / with replace history.
+ */
 import { useEffect } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 

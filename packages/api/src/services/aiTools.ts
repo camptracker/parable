@@ -1,3 +1,23 @@
+/**
+ * Anthropic Claude AI tool-use wrappers for lesson content generation.
+ *
+ * All functions use forced tool use (tool_choice: {type: "tool", name: ...}) with
+ * claude-opus-4-6 to guarantee structured JSON output. Each function maps to one
+ * Claude tool with a defined input_schema.
+ *
+ * Exported functions:
+ * - `createSeriesDetails(topic)` → SeriesDetails — series metadata from a topic string
+ * - `generateFirstStandard(anchor, title, description)` → StandardOutput — lesson 1 content
+ * - `generateStandard(seriesContext, prevFollowUpQuestion, prevLessons)` → StandardOutput — subsequent lessons
+ *   Includes a 'review' field; uses previous titles/questions to avoid repetition
+ * - `generateParable(standard, existingCharacters)` → ParableOutput — narrative story + character list
+ *   Creates new characters on first lesson; reuses/extends them on subsequent lessons
+ * - `generateSonnet(standard)` → SonnetOutput — 14-line Shakespearean sonnet (ABAB CDCD EFEF GG)
+ * - `generateImagePrompt(sonnet)` → {prompt} — classical oil painting DALL-E prompt
+ *
+ * Exported interfaces: SeriesDetails, StandardOutput, ParableOutput, SonnetOutput
+ * Internal: callTool<T> — generic wrapper around anthropic.messages.create
+ */
 import Anthropic from '@anthropic-ai/sdk';
 
 const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });

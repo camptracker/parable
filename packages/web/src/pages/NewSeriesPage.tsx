@@ -1,3 +1,14 @@
+/**
+ * New Series page — URL: /new
+ *
+ * Auth guard: redirects to / if not authenticated.
+ *
+ * Single text input for a topic string. On submit, POSTs to /api/series with {topic}.
+ * On success, navigates to /:series.key.
+ * Handles rate limit (429): shows "max 3 series per day" message.
+ * Note: series creation is async — the API returns the series before the first lesson
+ * is generated. The user lands on SeriesPage which will show generation status.
+ */
 import { useState } from 'react';
 import { useNavigate, Navigate } from 'react-router-dom';
 import api, { type APISeries } from '../lib/api.js';

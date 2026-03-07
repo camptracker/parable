@@ -1,3 +1,21 @@
+/**
+ * Series model — a topic-based learning curriculum.
+ *
+ * Fields:
+ * - title: String (required)
+ * - key: String (required, unique) — URL slug, e.g. 'stoic-philosophy'
+ * - description: String (required) — short summary
+ * - anchor: String (required) — core theme that guides AI generation
+ * - emoji: String? — single UI emoji
+ * - wisdomLabel: String? — label for wisdom section (e.g. "The Principle")
+ * - characters: ICharacter[] — recurring narrative characters, merged across lessons
+ * - subscriberCount: Number (default 0) — denormalized; incremented/decremented on subscribe
+ * - deletedAt: Date? — soft delete; queries filter { deletedAt: { $exists: false } }
+ * - createdBy: ObjectId? → User
+ * - createdAt: Date
+ *
+ * Relationships: has many Lessons, Subscriptions, Progresses, GenerationJobs
+ */
 import mongoose, { Document, Schema, Types } from 'mongoose';
 
 export interface ICharacter {

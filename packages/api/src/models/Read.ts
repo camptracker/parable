@@ -1,3 +1,15 @@
+/**
+ * Read model — records that a user has read a specific lesson.
+ *
+ * Fields:
+ * - userId: ObjectId → User (required)
+ * - lessonId: ObjectId → Lesson (required)
+ * - readAt: Date (default: now)
+ *
+ * Index: (userId, lessonId) unique — upserted on POST /api/lessons/:id/read
+ *
+ * Used by the 7AM progress cron to determine whether to advance currentDay.
+ */
 import mongoose, { Document, Schema, Types } from 'mongoose';
 
 export interface IRead extends Document {

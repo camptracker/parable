@@ -1,3 +1,15 @@
+/**
+ * User routes — mounted at /api/users
+ *
+ * Routes:
+ * - GET   /api/users/me              — current user profile; auth required
+ *   Excludes refreshToken and googleId fields.
+ * - PATCH /api/users/:userId/role    — set user role to 'user' or 'admin'; admin only
+ * - GET   /api/users                 — all users sorted by createdAt desc; admin only
+ *   Excludes refreshToken and googleId.
+ *
+ * Dependencies: User model; requireAuth, requireAdmin middleware
+ */
 import { Router, Request, Response } from 'express';
 import { User } from '../models/User.js';
 import { requireAdmin, requireAuth } from '../middleware/auth.js';

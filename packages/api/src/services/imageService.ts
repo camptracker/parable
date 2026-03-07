@@ -1,3 +1,14 @@
+/**
+ * Image generation and upload service.
+ *
+ * Exports:
+ * - `generateAndUploadImage(prompt, seriesKey, sortOrder)` → Cloudinary URL
+ *   Generates a 1792x1024 image via DALL-E 3, then uploads to Cloudinary at
+ *   path parable/{seriesKey}/day-{sortOrder}. Returns the secure_url.
+ *
+ * Dependencies: OpenAI (DALL-E 3), Cloudinary v2
+ * Env vars: OPENAI_API_KEY, CLOUDINARY_CLOUD_NAME, CLOUDINARY_API_KEY, CLOUDINARY_API_SECRET
+ */
 import OpenAI from 'openai';
 import { v2 as cloudinary } from 'cloudinary';
 

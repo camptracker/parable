@@ -1,3 +1,16 @@
+/**
+ * Admin page — URL: /admin
+ *
+ * Auth guard: redirects to / if not authenticated or not admin role.
+ *
+ * Two-tab interface:
+ * - Users tab: lists all users with role badges; admins can toggle any other user's
+ *   role between 'user' and 'admin' (PATCH /api/users/:id/role)
+ * - Series tab: lists all series; admins can soft-delete with confirmation
+ *   (DELETE /api/series/:id)
+ *
+ * Data: fetches GET /api/users and GET /api/series on mount (parallel).
+ */
 import { useEffect, useState } from 'react';
 import { Navigate } from 'react-router-dom';
 import api, { type APIUser, type APISeries } from '../lib/api.js';

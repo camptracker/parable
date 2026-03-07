@@ -1,3 +1,12 @@
+/**
+ * Rate limiting middleware.
+ *
+ * Exports:
+ * - `generalLimiter` — 100 req/min/IP, applied to all /api routes
+ * - `authLimiter` — 10 req/min/IP, applied to all /auth routes
+ * - `checkCreateSeriesLimit` — in-memory per-user limit: max 3 series creations per 24h.
+ *   Not persisted across server restarts.
+ */
 import rateLimit from 'express-rate-limit';
 import { Request } from 'express';
 

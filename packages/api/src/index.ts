@@ -1,3 +1,13 @@
+/**
+ * Application entry point.
+ *
+ * Configures Express middleware (helmet, cors, cookie-parser, passport),
+ * rate limiters, all route handlers, static file serving for the web SPA,
+ * MongoDB connection, and cron job startup.
+ *
+ * Middleware order: helmet → cors → json → cookieParser → passport →
+ * authLimiter (/auth) → generalLimiter (/api) → routes → static → SPA fallback
+ */
 import 'dotenv/config';
 import express from 'express';
 import cors from 'cors';
@@ -59,7 +69,7 @@ app.use(express.static(webDistPath, {
 }));
 
 // SPA fallback — must be after API routes
-app.get('*', (_req, res) => {
+app.get('/{*path}', (_req, res) => {
   res.sendFile(path.join(webDistPath, 'index.html'));
 });
 
@@ -81,7 +91,7 @@ async function start(): Promise<void> {
   }
 
   app.listen(PORT, () => {
-    console.log(`Parable API running on port ${PORT}`);
+    console.log(`Parable API v2 running on port ${PORT}`);
   });
 }
 

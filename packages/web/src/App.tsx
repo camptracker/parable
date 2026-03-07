@@ -1,3 +1,18 @@
+/**
+ * Root application component.
+ *
+ * Sets up AuthProvider, BrowserRouter, and the full route table:
+ * - /                            → Home
+ * - /subscriptions               → SubscriptionsPage (auth required)
+ * - /new                         → NewSeriesPage (auth required)
+ * - /auth/callback               → AuthCallbackPage (stores access token from OAuth redirect)
+ * - /admin                       → AdminPage (admin only)
+ * - /:seriesKey                  → SeriesPage
+ * - /:seriesKey/lesson/:sortOrder → LessonPage
+ *
+ * Also renders the Sidebar (slide-out nav) and hamburger toggle button.
+ * Forces dark mode on mount via data-theme attribute.
+ */
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import { AuthProvider } from './hooks/useAuth.js';

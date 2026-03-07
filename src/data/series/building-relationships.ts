@@ -923,4 +923,70 @@ As they prepared to cross, Lume took Ash's pack when she stumbled, and Ash offer
 
 **Tomorrow:** The travelers will discover what happens when the bridge reveals the hidden costs of unspoken expectations.`,
   },
+  {
+    day: 15,
+    title: "The Energy Exchange — Who's Really Driving This Relationship?",
+    date: "2026-03-07",
+    image: "images/building-relationships/day-15.jpg",
+    audio: "audio/building-relationships/day-15",
+    sonnet: `**🪶 Sonnet XV: The Energy Exchange**
+
+Like rivers flowing from the mountain's peak,
+Our love requires a current flowing true,
+Where both the strong and tender spirits speak,
+And energy returns as morning dew.
+
+One cannot always be the giving tree,
+While other stands as ground to catch the fruit,
+For even oak trees need the honey bee,
+And rivers need both blossom and the root.
+
+When partners drain without replenishing,
+The well of love grows shallow, then runs dry,
+But conscious hearts keep balance flourishing,
+Like seasons that both nurture and supply.
+
+*In love's true dance, we learn to give and take,*
+*Each partner whole, for both our spirits' sake.*`,
+    standard: `💕 Day 15: The Energy Exchange — Who's Really Driving This Relationship?
+
+Most couples would discover they're emotional energy vampires without realizing it—one partner consistently giving while the other unconsciously takes, creating an invisible imbalance that breeds resentment. The surprising pattern isn't the imbalance itself, but how the "giver" often enables it by never asking for what they need, while the "taker" remains genuinely unaware of the disparity.
+
+🧱 **The Concept**
+Every relationship has an energy ecosystem where emotional labor, attention, and care flow between partners like electricity through a circuit.
+
+❓ **Why It Matters**
+When energy flow becomes chronically one-sided, relationships short-circuit through exhaustion, resentment, or emotional shutdown. Most couples focus on love languages and communication skills while ignoring the fundamental question: who's actually powering this relationship day after day?
+
+⚙️ **How It Works**
+Energy exchange shows up in micro-moments: who initiates difficult conversations, who remembers important details, who manages emotional crises, who plans date nights, who checks in first after arguments. One partner might be the "emotional engine" while the other coasts, or both might be stuck in parallel lanes of giving without receiving. The healthiest relationships function like renewable energy systems—both partners generate and consume in sustainable cycles. When Sarah always texts first, remembers David's work stress, and initiates intimacy while David responds but rarely initiates, their energy flows like a battery slowly draining. Conscious couples audit their energy exchange monthly: "What am I contributing? What am I receiving? Where are we out of balance?"
+
+🎯 **Relationship Wisdom**
+Love isn't just about compatibility—it's about creating sustainable energy cycles where both partners feel simultaneously nourished and needed.
+
+❓ **Tomorrow's Question** — If your relationship were a dance and you suddenly became aware that one of you has been leading for years while the other follows, what would happen if you switched roles for a month—and which of you would be more terrified of that experiment?`,
+    parable: `Ash and Lume had traveled the mountain path for countless seasons, but lately, Ash noticed a troubling pattern. Every morning, Lume would wake energized and ready, while Ash felt increasingly drained. Every evening, Ash would tend the fire, prepare their meal, and listen to Lume's stories of the day, while Lume simply received these gifts as natural as sunrise.
+
+"Something feels wrong," Ash confided to Elder Rynn at the Bridge of Vows. "I love our journey, but I feel like I'm carrying two packs instead of one."
+
+Elder Rynn gestured to the flowing river beneath them. "Watch the water, child. See how it moves?"
+
+Ash observed the current—swift in some places, slow in others, but always flowing. "It flows from mountain to sea," Ash replied.
+
+"And what would happen if the mountain only gave but the sea never returned moisture to the clouds?"
+
+The wisdom struck like lightning. "The mountain would become a desert," Ash whispered.
+
+"Every relationship is a river system," Elder Rynn explained. "Energy must flow both ways, or the source runs dry. Lume may not even realize they've become the sea, only receiving. But you, dear one, have forgotten you're not meant to be only the mountain."
+
+That evening, when Lume began sharing their day's adventures, Ash gently interrupted. "Before you continue, I need to share something important with you." For the first time in months, Ash spoke first of their own dreams, fears, and needs. Lume listened with surprise, then growing awareness.
+
+"I didn't know," Lume said softly. "I thought you preferred giving."
+
+"We both need to learn the rhythm of give and take," Ash replied. "A river that flows only one way eventually carves a canyon between its banks."
+
+**Moral:** Love requires conscious energy exchange—both partners must learn to give and receive, or the relationship becomes unsustainable.
+
+*Tomorrow, Elder Rynn will show them the ancient dance of leadership, where partners learn to alternate who guides and who follows...*`,
+  },
 ];

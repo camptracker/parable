@@ -872,4 +872,61 @@ Dara's eyes brightened as understanding dawned. "The houses aren't the legacy. T
 
 *Tomorrow, we discover the ultimate choice that reveals whether we've transcended mere accumulation...*`,
   },
+  {
+    day: 15,
+    title: "The Transcendent Investor — When Purpose Eclipses Profit",
+    date: "2026-03-07",
+    image: "images/real-estate/day-15.jpg",
+    audio: "audio/real-estate/day-15",
+    sonnet: `**🪶 Sonnet XV: The Transcendent Investor — When Purpose Eclipses Profit**
+
+When gold no longer glitters in your eyes,
+And deals are weighed by hearts they help to heal,
+The investor's soul begins its true reprise—
+From wealth accumulator to one who feels
+The deeper currents flowing through each choice,
+Where profit serves but purpose leads the way.
+In struggling streets, you hear community's voice
+Call out for shelter, hope, and brighter day.
+No longer slave to ledger's cold demand,
+You see beyond the numbers' narrow scope.
+Your portfolio becomes a helping hand
+That builds not just returns, but living hope.
+*For when your purpose rises above gain's call,*
+*You find that serving others enriches all.*`,
+    standard: `🏠 Day 15: The Transcendent Investor — When Purpose Eclipses Profit
+
+The question answers itself through your hesitation—if you had to think twice, you haven't transcended wealth-seeking yet. The investor who has truly moved beyond accumulation for its own sake chooses community transformation without pause, knowing that real legacy isn't measured in net worth but in lives changed. This choice reveals whether you've become a steward of capital rather than its slave.
+
+🧱 **The Concept**
+Transcendent investing occurs when your investment decisions are driven primarily by positive impact rather than maximum returns, marking the evolution from wealth accumulator to capital steward.
+
+❓ **Why It Matters**
+This represents the highest form of real estate investing—where your portfolio becomes a tool for social good while still generating sustainable returns. Most investors never reach this level because they remain trapped in the endless pursuit of "more," missing the profound satisfaction and legacy potential of purpose-driven investing. When you transcend pure profit maximization, you unlock opportunities invisible to purely transactional investors.
+
+⚙️ **How It Works**
+Transcendent investors evaluate deals through a dual lens: **financial viability** and **social impact**. They might choose to revitalize affordable housing in underserved areas, accepting 6% returns instead of chasing 12% returns on luxury developments. They partner with community organizations, create job training programs, or develop mixed-income housing that strengthens neighborhoods rather than displacing residents. The key is maintaining **financial sustainability**—impact without profitability is charity, not investing. For example, buying abandoned buildings in struggling areas and converting them into affordable workforce housing that generates modest but steady returns while providing stable homes for working families.
+
+🎯 **Real Estate Wisdom**
+When profit becomes the byproduct of purpose rather than the primary goal, you've achieved the highest form of investing—one that enriches both your portfolio and your soul.
+
+❓ **Tomorrow's Question** — You've transcended the pursuit of wealth for its own sake and embraced purpose-driven investing, but here's a profound paradox: the moment you stop chasing maximum returns and start prioritizing impact, you often discover something unexpected about the nature of true wealth. What is this discovery, and why do investors who care less about getting rich often end up the wealthiest of all?`,
+    parable: `Years had passed since Dara first learned the carpenter's wisdom from her father, and now she stood before a crossroads that would define her legacy. Two opportunities lay before her: Hallam offered to sell her his most profitable properties—prime commercial spaces that would triple her wealth within five years. Alternatively, the village council approached her about the abandoned quarter, where families once thrived before economic hardship drove them away.
+
+"The numbers don't lie," Hallam wheezed, spreading ledgers across his oak table. "Take my commercial district, and you'll never want for gold again. That crumbling district? You'll spend years just breaking even, if ever."
+
+Dara walked the empty streets where broken windows stared like hollow eyes. She saw not decay, but possibility—workshops where artisans could practice their trades, homes where young families could build their futures, gathering spaces where community could flourish again. The returns would be modest, the work tremendous, but something deeper called to her.
+
+That evening, she gave Hallam her answer. "I choose the forgotten quarter," she said simply.
+
+Hallam shook his head. "Child, you've learned nothing about wealth."
+
+"On the contrary," Dara replied, "I've learned everything about it. True wealth isn't what you accumulate—it's what you cultivate."
+
+As seasons turned, Dara's district bloomed with life. Families returned, businesses opened, children played in restored streets. Her financial returns were steady but unremarkable. Yet something remarkable had happened: she slept deeply, smiled easily, and felt richer than any ledger could measure.
+
+**Moral:** The investor who transcends the pursuit of wealth often discovers that the greatest returns cannot be counted in coins.
+
+*Tomorrow, we explore why those who care least about getting rich often become the wealthiest of all...*`,
+  },
 ];

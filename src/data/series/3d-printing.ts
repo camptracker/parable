@@ -243,4 +243,64 @@ Finn manipulated the puzzle, marveling at its complexity. Every sliding panel, e
 
 *Tomorrow, Orna would reveal how different essences could be woven into a single creation, blurring the very boundaries of what constitutes a material...*`,
   },
+  {
+    day: 5,
+    title: "The Gradient Genesis",
+    date: "2026-03-07",
+    image: "images/3d-printing/day-5.jpg",
+    audio: "audio/3d-printing/day-5",
+    sonnet: `**🪶 Sonnet V: The Gradient Genesis**
+
+Where once we chose 'tween rigid steel or soft,
+Now gradients flow like rivers in the night,
+As printer nozzles, working high aloft,
+Blend polymers from darkness into light.
+
+No boundary marks where hardness yields to bend,
+No seam divides the flexible from firm,
+Each layer shifts as properties transcend
+The limits that once made materials squirm.
+
+Like bone that hardens at its very core,
+Yet softens where it meets the living flesh,
+Our printed parts need not be rich or poor—
+They dance between extremes in perfect mesh.
+
+*When makers learn to speak transition's tongue,*
+*Each object sings the songs that can't be sung.*`,
+    standard: `🖨️ Day 5: The Gradient Genesis
+
+When you print materials with different properties in the same object, you discover something remarkable: the boundaries between materials don't have to be sharp lines — they can be gradual transitions. Multi-material printing allows you to create objects where rigid plastic smoothly becomes flexible rubber, or where clear sections gradually become opaque, challenging our binary notion that something is either "one material" or "another."
+
+🧱 **The Concept**
+Gradient materials in 3D printing create seamless transitions between different properties within a single continuous object.
+
+❓ **Why It Matters**
+Nature doesn't build with discrete materials — bone gradually transitions from hard to soft, wood varies in density from heartwood to sapwood. Multi-material printing lets us mimic these natural gradients, creating objects with properties that change smoothly across their structure.
+
+⚙️ **How It Works**
+Dual-extrusion printers can blend materials by varying their ratios layer by layer — printing 90% rigid plastic with 10% flexible material, then gradually shifting to 50-50, then pure flexible material. Advanced systems can even vary properties within a single layer, creating objects where one end is glass-hard while the other is rubber-soft. Think of a phone case that's rigid around the edges for protection but flexible at stress points, or a prosthetic hand where the palm is firm but the fingertips are soft for better grip. The printer essentially becomes a materials chemist, custom-blending properties exactly where needed.
+
+🎯 **Maker Wisdom**
+The future belongs not to objects made of materials, but to materials made of intentions — where every point has exactly the properties your design demands.
+
+❓ **Tomorrow's Question** — If you can vary material properties throughout an object, what happens when you try to vary the internal structure itself — and how does this blur the line between solid and hollow?`,
+    parable: `Finn found Orna at her workbench, holding what appeared to be a single piece of material that seemed to shift and change as he watched. "Master Orna, yesterday I learned about printing different materials together, but this... this looks like it's transforming itself."
+
+Orna smiled, bending the object in her hands. At one end, it remained rigid and straight. At the other, it curved like putty. "Ah, young maker, you're seeing the birth of gradient materials — where the boundaries between substances dissolve like morning mist."
+
+She led him to a peculiar printer with multiple nozzles working in harmony. "Watch," she said, as the machine began crafting a new object. "See how it starts with pure titanium-hard polymer here, but gradually introduces flexible elastomer? Layer by layer, the ratio shifts — 90-10, 80-20, 50-50, until at the far end, it's purely soft."
+
+Finn watched in wonder as the object emerged with properties that flowed like a river from rigid to flexible. "But how can one thing be two materials?"
+
+"That's the beautiful question, isn't it?" Orna replied, running her fingers along the gradient. "In nature, nothing is purely one thing. Your bones aren't uniformly hard — they're dense at the core, spongy at the ends. A tree trunk isn't the same throughout — heartwood, sapwood, bark, each with its purpose. We've simply learned to speak nature's language of gradual transition."
+
+The young tinkerer picked up the finished piece, marveling at how it could be both flexible and rigid simultaneously. "So the printer doesn't just place materials — it blends intentions?"
+
+"Precisely," Orna nodded. "Every point becomes exactly what it needs to be, no more, no less. We're not just making objects anymore, Finn — we're composing symphonies in material."
+
+**Moral:** True mastery lies not in choosing between options, but in creating seamless transitions that serve each purpose perfectly.
+
+**Tomorrow:** Orna's next lesson would reveal how structure itself could flow like her materials — but that's a tale for another dawn.`,
+  },
 ];
