@@ -932,4 +932,59 @@ Moral: Metabolic confusion arises not from too few environmental signals, but fr
 
 Tomorrow, Lila will learn why the minimum dose of clarity often proves more powerful than the maximum dose of optimization.`,
   },
+  {
+    day: 16,
+    title: "The Hierarchy of Signals",
+    date: "2026-03-10",
+    image: "images/nutrition-science/day-16.jpg",
+    audio: "audio/nutrition-science/day-16",
+    sonnet: `**🪶 Sonnet XVI: The Hierarchy of Signals**
+
+Among the thousand voices that compete
+For body's ear, some whisper, others roar—
+The master signals rise with ancient beat,
+While lesser ones attend the sovereign's lore.
+Like morning sun that wakes the sleeping earth
+And sets the rhythm for each living thing,
+These primal cues determine health and worth,
+While secondary signals merely sing.
+The fool attempts to tune each single note,
+Adjusting countless dials with trembling hand,
+While wisdom finds the frequency remote
+That harmonizes all throughout the land.
+*The hierarchy speaks in nature's tongue:*
+*Master the few, and many songs are sung.*`,
+    standard: `🍎 Day 16: The Hierarchy of Signals
+
+**The minimum effective dose requires focusing on what metabolic researcher Dr. Satchin Panda calls the "master signals" — primarily light exposure and eating windows — rather than trying to micromanage dozens of variables. Your circadian system evolved to prioritize certain environmental cues over others, and attempting to optimize everything simultaneously creates what systems theorists call "optimization overload," where the sheer cognitive burden of managing multiple interventions actually becomes a stressor that undermines the very metabolic flexibility you're trying to restore.**
+
+🧱 **The Concept**
+Your metabolism responds to environmental signals in a hierarchical order, with some cues carrying exponentially more weight than others in determining your metabolic flexibility.
+
+❓ **Why It Matters**
+Understanding signal hierarchy explains why some people achieve dramatic metabolic improvements with just 2-3 focused changes while others see minimal results despite following complex protocols. Your body's ancient programming prioritizes survival-critical signals over optimization signals, and working with this hierarchy rather than against it determines success or failure.
+
+⚙️ **How It Works**
+At the top of the hierarchy sit **circadian anchors** — morning light exposure and consistent eating windows — which synchronize your master clock and cascade down to influence thousands of metabolic processes. Secondary signals like exercise timing, temperature exposure, and meal composition amplify these effects but cannot override poor circadian hygiene. Tertiary signals like specific supplements or advanced biohacking techniques provide marginal gains only when the foundation is solid. For example, someone who optimizes their morning light exposure and stops eating 3 hours before bed will likely see more metabolic improvement than someone who takes expensive supplements while eating late and sleeping irregularly. The hierarchy exists because your hypothalamus must make rapid survival decisions with limited processing power, so it evolved shortcuts that prioritize the most reliable environmental indicators of safety and resource availability.
+
+🎯 **Science Wisdom**
+Metabolic transformation follows the Pareto Principle — 80% of your results come from 20% of the signals, and those critical few sit at the top of your body's ancient hierarchy.
+
+❓ **Tomorrow's Question** — *If your metabolism prioritizes signals in such a rigid hierarchy, what happens when modern life forces you to send conflicting messages within the same tier — like getting morning sunlight but then immediately entering a artificially-lit office, or maintaining consistent meal timing but eating processed foods that confuse your nutrient sensors?*`,
+    parable: `Lila found Maren standing before her three hearths, but today something was different. Instead of tending all three fires equally, the healer was focused entirely on the central hearth, letting the others burn low.
+
+"Master," Lila questioned, "yesterday you taught me about clearing the signal static, but now you're neglecting two of your fires. Isn't this creating more chaos?"
+
+Maren smiled, adjusting the central flame with practiced precision. "Watch carefully, child. This is not neglect—this is wisdom." She gestured to the main hearth. "This fire is the heart of my workshop. When it burns true, its warmth reaches every corner, its light guides every task. The other fires are important, yes, but they are servants to this master."
+
+As if to demonstrate, the central fire's steady glow seemed to illuminate the entire space more effectively than when all three had flickered uncertainly. "In the old days," Maren continued, "healers learned that the body has its own hierarchy of needs. The village elders discovered that when they focused on the most important signals—the rhythm of sun and sleep, the timing of meals—everything else began to fall into harmony."
+
+She picked up a handful of herbs, some vibrant and fresh, others exotic and rare. "A young healer might try to use every herb in her collection, thinking more is better. But the master healer knows that three common herbs, used in the right order and right timing, will heal more surely than thirty rare ones used without understanding."
+
+Lila watched as Maren placed just two simple herbs near the central fire, their essences releasing in perfect sequence. "Your body is the same," the healer explained. "It listens for certain signals above all others—the ancient voices of light and darkness, hunger and satisfaction. When these master signals sing clearly, they conduct the entire orchestra of your metabolism. Try to direct every instrument at once, and you create only noise."
+
+**The moral: True metabolic wisdom lies not in optimizing everything, but in mastering the fundamental signals that orchestrate all others.**
+
+*Tomorrow, Maren will show Lila what happens when even these master signals conflict with each other, and why modern life often forces such contradictions.*`,
+  },
 ];

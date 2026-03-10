@@ -767,4 +767,73 @@ The harbor master, watching their departure one morning, remarked to his assista
 
 *Tomorrow, Greymane will teach Tova about the profound difference between serving others and serving yourself through others...*`,
   },
+  {
+    day: 13,
+    title: "The Listening Leader",
+    date: "2026-03-10",
+    image: "images/leadership/day-13.jpg",
+    audio: "audio/leadership/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Listening Leader**
+
+In chambers where the loudest voice holds sway,
+The wisest leaders often speak the least,
+For in the space between words, truth finds way
+To surface from the heart's most guarded feast.
+
+While others rush to fill each silent pause
+With strategies and orders, firm and clear,
+The listening soul creates those sacred laws
+Where followers feel valued, safe, and near.
+
+A question asked with genuine intent to know
+Outweighs ten speeches filled with expert advice,
+For when we plant the seeds of trust and grow
+The garden where all voices can suffice,
+*Then influence blooms not from authority's throne,*
+*But from the grace of making others known.*`,
+    standard: `👥 Day 13: The Listening Leader
+
+If we could only influence through service, we'd likely start by truly listening to understand rather than listening to respond—spending more time asking about our team's challenges than telling them about our solutions. This shift would reveal how often we confuse broadcasting our expertise with actual leadership, and how rarely we create space for others' wisdom to emerge.
+
+🧱 **The Concept**
+True leadership begins not with speaking, but with the disciplined art of deep listening—creating space for others to be heard, understood, and valued.
+
+❓ **Why It Matters**
+Most leaders talk themselves out of influence by talking too much and listening too little. When people feel genuinely heard, they become more invested, more creative, and more willing to follow someone who has demonstrated they matter enough to deserve undivided attention.
+
+⚙️ **How It Works**
+Listening leadership means asking follow-up questions instead of jumping to solutions, maintaining eye contact instead of checking devices, and reflecting back what you've heard before adding your perspective. It's the difference between a manager who says "Here's what you need to do" and a leader who asks "What obstacles are you facing, and how can I help you overcome them?" When Lincoln met with his generals, he often spent the first half of meetings asking questions about conditions on the ground before offering any strategic guidance. Great leaders understand that their job is not to have all the answers, but to ask the questions that help others discover solutions they already possess.
+
+🎯 **Leadership Wisdom**
+The most powerful leaders are often the quietest in the room—not because they have nothing to say, but because they've learned that influence grows in the space between words.
+
+❓ **Tomorrow's Question** — If you discovered that your team's biggest problems weren't actually about skills or resources, but about feeling unheard and undervalued, how would this change your approach to every meeting, every conversation, and every decision you make as a leader?`,
+    parable: `Tova found herself in the ship's galley at dawn, watching Cook Elena prepare the morning meal with practiced efficiency. The woman's movements were swift but tense, her usual cheerful humming replaced by worried silence.
+
+"The men aren't eating much," Elena said without looking up, sensing Tova's presence. "Third day running."
+
+Tova's instinct was to investigate—check the stores, question the crew, issue orders about proper nutrition. But something in Elena's tone made her pause. Instead, she poured herself tea and sat at the worn wooden table.
+
+"Tell me what you're seeing," Tova said simply.
+
+Elena's hands stilled. "They come in here, Captain, but their minds are elsewhere. Young Marcus pushes food around his plate like he's solving puzzles. Old Henrik stares at his soup like it holds answers. They're hungry for something, but it isn't my cooking."
+
+Tova nodded, saying nothing, waiting.
+
+"Permission to speak freely?" Elena asked. When Tova gestured for her to continue, the cook's words tumbled out: worries about low morale, confusion about their destination, fear that their new captain might abandon ship like the last one had.
+
+"Why haven't you told me this before?" Tova asked.
+
+Elena looked surprised. "You never asked, Captain. You've been so busy giving orders and making plans—I didn't think you wanted to hear about feelings and fears."
+
+Later, Tova sought out Greymane at his usual perch overlooking the harbor. "I've been leading with my mouth instead of my ears," she confessed.
+
+"Ah," Greymane smiled. "The most common mistake of new captains. They think leadership means having something important to say at every moment. But the wisest leaders I've known were masters of the strategic pause—the pregnant silence that invites truth to emerge."
+
+He gestured toward two ships in the distance. "See those vessels? One captain shouts orders from his quarterdeck all day. The other walks among his crew, asking questions, listening to concerns. Guess which crew would follow their captain into a storm?"
+
+**Moral:** The leader who listens creates followers; the leader who only speaks creates compliance.
+
+**Tomorrow:** Greymane will teach Tova about the delicate art of making others feel valued, and why recognition is the currency that buys true loyalty.`,
+  },
 ];

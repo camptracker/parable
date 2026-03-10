@@ -928,4 +928,64 @@ Vasska's scarred face creased into a knowing smile. The young merchant had gone 
 
 *Tomorrow, we discover what happens when the chase becomes a game of redemption...*`,
   },
+  {
+    day: 15,
+    title: "The Redemption Bridge",
+    date: "2026-03-10",
+    image: "images/negotiation/day-15.jpg",
+    audio: "audio/negotiation/day-15",
+    sonnet: `**🪶 Sonnet XV: The Redemption Bridge**
+
+When withdrawal makes the heart grow desperate-fond,
+The bridge you build need cost but little gold;
+A pathway back, though narrow, forms a bond
+That makes your offer precious to behold.
+
+The merchant who must earn his second chance
+Will value what he fought so hard to win,
+Though your concession was but circumstance—
+A costless key to let him back within.
+
+What freely given would be counted small
+Becomes a trophy when it must be earned;
+The mind transforms rejection's bitter gall
+Into sweet victory righteously turned.
+
+*For those who bridge the gap they think they've crossed*
+*Prize most the gifts that never should have cost.*`,
+    standard: `🤝 **Day 15: The Redemption Bridge**
+
+When you combine strategic withdrawal with offering a costless "redemption path," you create a psychological masterpiece: the person feels they've "earned" their way back through effort, making them value the opportunity exponentially more than if you'd simply offered it freely. This small concession becomes their victory trophy, transforming what was your strategic retreat into their hard-won achievement.
+
+🧱 **The Concept**
+The redemption bridge is a costless concession that allows someone to "win you back" after strategic withdrawal, making them feel like they've earned the opportunity through their own merit.
+
+❓ **Why It Matters**
+People assign higher value to things they feel they've worked for or earned. When you withdraw and then offer a small path back, they don't see it as manipulation—they see it as validation of their worth and effort.
+
+⚙️ **How It Works**
+After strategically withdrawing from a negotiation, you offer a seemingly significant but actually costless way for them to re-engage. "I wasn't planning to take on new clients, but your passion for the project is exactly what I'm looking for—if you can commit to the timeline we discussed, I'll make an exception." The timeline was always your requirement, but now it feels like their golden ticket back in. A real estate agent might say, "I've already shown this house to three other buyers, but you clearly appreciate its unique character—if you can view it this afternoon, I'll give you first consideration." The afternoon viewing costs nothing but feels like preferential treatment they've earned.
+
+🎯 **Negotiation Wisdom**
+The most powerful concessions cost you nothing but feel priceless to the recipient.
+
+❓ **Tomorrow's Question** — If making someone "earn" their way back increases their investment, what happens when you make them teach you something about their own needs, turning them into the expert who must convince themselves?`,
+    parable: `The morning sun cast long shadows across the marketplace as Ren found Vasska examining bolts of silk with theatrical disappointment. "Master, yesterday you were so interested in this merchant's fabrics, but today you seem... distant?"
+
+Vasska's blind eye caught the light as he smiled. "Observe, young Ren. Yesterday I praised his silks to the heavens, spoke of grand purchases. Today—" He gestured dismissively at the merchant hovering nearby, "—I find myself reconsidering."
+
+The silk merchant approached nervously. "Master Vasska, surely we can discuss terms? Perhaps I was too hasty in my pricing?"
+
+"Ah," Vasska mused, as if struck by sudden inspiration, "there is one thing. Your knowledge of dye techniques—if you could show me the difference between Tyrian purple and common violet, help me understand what I'm truly buying—then perhaps we have something to discuss."
+
+The merchant's eyes lit up. For the next hour, he demonstrated techniques, shared trade secrets, his pride growing with each insight. When Vasska finally agreed to purchase—at the merchant's original asking price—the man beamed as if he'd won a great victory.
+
+Later, Ren marveled, "You learned nothing new about dyes, yet he felt honored to teach you."
+
+"The bridge back to my interest cost me nothing but an hour's attention," Vasska replied. "But for him? He earned his sale through expertise, not mere haggling. Which feels more valuable?"
+
+**Moral:** The costliest concessions often cost nothing at all—they cost only the appearance of effort earned.
+
+*Tomorrow, Vasska will show Ren why the most powerful negotiators make others become their own advocates...*`,
+  },
 ];

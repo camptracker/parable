@@ -1293,4 +1293,66 @@ Sable smiled knowingly. "Our minds crave complexity, young one. When we cannot c
 
 *Tomorrow, Sable will reveal how to separate useful complexity from mere psychological comfort.*`,
   },
+  {
+    day: 19,
+    title: "The Three-Question Filter",
+    date: "2026-03-10",
+    image: "images/financial-independence/day-19.jpg",
+    audio: "audio/financial-independence/day-19",
+    sonnet: `**🪶 Sonnet XIX: The Three-Question Filter**
+
+Through forests thick with financial schemes so dense,
+Where products gleam with complexity's bright sheen,
+Three questions cut through artifice and pretense:
+Does this serve what my true wealth needs have been?
+
+Will this help earnings flow more swift and sure?
+Will spending decrease through this tool's design?
+Will investments grow more steady and mature?
+If none ring true, I'll not make them mine.
+
+The merchant hawks his boxes locked with gold,
+Seventeen keys for treasures never there,
+While simple ledgers, honest truths unfold,
+And basic tools serve those with wisdom's care.
+
+*Ask not what glitters in complexity's maze,*
+*But what serves wealth through simple, tested ways.*`,
+    standard: `💰 Day 19: The Three-Question Filter
+
+Useful complexity answers three simple questions: "Does this help me earn more, spend less, or invest better?" If a financial product or strategy can't clearly answer at least one of these, it's likely exploiting your bias toward complexity rather than serving your interests. The financial industry thrives on products that sound sophisticated but add no real value.
+
+🧱 **The Concept**
+A simple three-question framework can cut through financial noise and identify what's genuinely useful versus what's unnecessarily complex.
+
+❓ **Why It Matters**
+Without a clear filter, investors get trapped in elaborate strategies that enrich advisors more than themselves. The complexity bias makes us feel smart while actually making us poorer through higher fees and worse outcomes.
+
+⚙️ **How It Works**
+Before adopting any financial strategy, ask: (1) Does this help me earn more money through better career moves or side income? (2) Does this help me spend less through better budgeting or expense tracking? (3) Does this help me invest better through lower costs, better diversification, or tax efficiency? If the answer is no to all three, walk away. A whole life insurance policy that "builds wealth" while charging 3% annual fees fails this test—it's complexity for complexity's sake. A simple term life policy plus low-cost index funds passes with flying colors.
+
+🎯 **Buffett Wisdom**
+"I try to buy stock in businesses that are so wonderful that an idiot can run them, because sooner or later, one will."
+
+❓ **Tomorrow's Question** — If simple strategies consistently outperform complex ones, why does the human brain seem programmed to reject simplicity as inadequate, and what does this reveal about the difference between feeling smart and actually being smart with money?`,
+    parable: `The harvest moon cast long shadows as Kael found Sable examining three simple tools laid before him: a sharp knife, a sturdy rope, and a smooth stone. "Elder," Kael said, "I've been thinking about what you said regarding complexity's false allure. How do I know what's truly useful?"
+
+Sable picked up the knife. "Before I accept any tool, I ask three questions." He tested the blade's edge. "First: will this help me work more efficiently?" The knife sliced cleanly through a apple. "Yes."
+
+He lifted the rope next. "Second: will this help me preserve what I already have?" He tied a secure knot around his supplies. "Yes."
+
+Finally, the stone. "Third: will this help me build something lasting?" He struck flint against it, producing sparks. "Yes. Fire for warmth, light for work."
+
+Kael nodded, understanding dawning. "And if a tool fails all three tests?"
+
+"Then it's decoration masquerading as utility." Sable gestured toward the merchant's wagon in the distance, laden with ornate but useless trinkets. "That merchant sells complexity—beautiful boxes with seventeen locks but nothing inside. Meanwhile, Tobren's simple ledger tells him exactly what his farm earned and spent. Which serves wealth better?"
+
+The boy watched villagers admire the merchant's glittering wares while Tobren counted honest coins by lamplight. "The ledger," he whispered.
+
+"Remember, young one: every financial choice you encounter can be tested with these three questions. If it doesn't help you earn more, spend less, or invest better, it's likely helping someone else earn more from you."
+
+**Moral**: True financial wisdom lies not in accumulating complex strategies, but in filtering ruthlessly for what actually serves your three core needs.
+
+*Tomorrow, Sable will reveal why our minds resist such elegant simplicity, and what this teaches us about the difference between appearing intelligent and actually growing wealthy.*`,
+  },
 ];

@@ -563,4 +563,60 @@ In the sudden quiet, Dove finally heard her own heartbeat, felt the weight of he
 
 **Tomorrow:** Nana Rose will reveal why the most memorable weddings often break the very rules that everyone insists are essential.`,
   },
+  {
+    day: 10,
+    title: "The Sacred Reception",
+    date: "2026-03-10",
+    image: "images/wedding-planning/day-10.jpg",
+    audio: "audio/wedding-planning/day-10",
+    sonnet: `**🪶 Sonnet X: The Sacred Reception**
+
+No timeline dictates when hearts should feel joy,
+No schedule commands the laughter's sweet sound,
+The dance floor calls when music would employ
+Two souls in love, on celebration's ground.
+
+Let toasts arise like bubbles in champagne,
+Spontaneous, effervescent, and true,
+While rigid programs only serve to strain
+The natural rhythms that would carry you.
+
+The finest feasts are those where hosts partake,
+Not watching from the sidelines of their day,
+Where connection flows for connection's sake,
+And prescribed moments give authentic way.
+
+*When celebration springs from lovers' hearts,*
+*The truest joy to every guest imparts.*`,
+    standard: `💍 Day 10: The Sacred Reception
+
+To feel completely unhurried and present, most couples would need to eliminate the exhausting receiving line, the rushed vendor timeline, and the pressure to "work the room" greeting every single guest. This reveals that true celebration flows naturally from connection, while performance demands we check boxes and meet everyone else's expectations of what a wedding "should" look like.
+
+🧱 **The Concept** Your wedding reception is not a performance you host for others—it's a celebration you experience with them.
+
+❓ **Why It Matters** The reception often becomes the most stressful part of the wedding day because couples feel obligated to be "on" for everyone else instead of being present for themselves. When you shift from hosting a show to sharing a celebration, both you and your guests have permission to be authentic and enjoy the moment.
+
+⚙️ **How It Works** Instead of a rigid timeline with scheduled dances and speeches, consider a reception that flows organically around connection and joy. This might mean ditching the formal receiving line for mingling during cocktail hour, replacing choreographed first dances with music that actually makes you want to dance, or having toasts happen naturally throughout the evening rather than all at once. Some couples create "connection stations" where guests can leave video messages or written memories instead of feeling obligated to have a conversation with everyone. The key is designing moments that invite genuine interaction rather than performed celebration.
+
+🎯 **Wedding Wisdom** The best receptions feel like the kind of party you'd want to attend, not the kind you'd feel obligated to endure.
+
+❓ **Tomorrow's Question** — If your wedding reception could only succeed by one measure—either impressing your guests or delighting yourselves—which would you choose, and what does that choice reveal about whether you're celebrating your marriage or trying to prove something about it?`,
+    parable: `Dove stared at her color-coded reception timeline, every fifteen-minute block scheduled with military precision. "First dance at 8:17, cake cutting at 8:32, bouquet toss at 9:15..." she muttered, feeling dizzy.
+
+"What if we just... didn't?" Elm suggested gently. "What if we let the evening unfold?"
+
+"But people expect—" Dove began, then caught herself. She'd been saying that phrase so often it had lost all meaning.
+
+Nana Rose smiled from her corner chair, watching young couples navigate between the dance floor and dessert table without checking watches or following scripts. "Child," she said, "I've seen a thousand receptions. The ones people remember aren't the ones that ran on time—they're the ones where the joy was contagious."
+
+She gestured toward an older couple slow dancing to upbeat music, completely lost in each other. "That's your Uncle Henry and Aunt Marie, married forty years. They're not following the playlist, but look how their happiness is spreading. Three other couples just joined them on the floor."
+
+Dove watched the dance floor fill organically, no DJ announcement needed. "It's like the celebration is creating itself," she whispered.
+
+"Exactly," Nana Rose nodded. "When you stop orchestrating joy and start experiencing it, everyone else feels free to do the same. Your reception isn't a show you're putting on—it's a party you're throwing for yourselves that others get to join."
+
+**Moral:** The most memorable celebrations happen when hosts become participants in their own joy.
+
+*Tomorrow, Dove will face the ultimate question about who her wedding is truly for...*`,
+  },
 ];
