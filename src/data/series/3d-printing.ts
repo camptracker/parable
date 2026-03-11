@@ -363,4 +363,64 @@ As the wing completed its final layer, Finn marveled at its beauty — a structu
 
 **Tomorrow:** Orna would show him how surfaces themselves could breathe...`,
   },
+  {
+    day: 7,
+    title: "The Breathing Boundaries",
+    date: "2026-03-11",
+    image: "images/3d-printing/day-7.jpg",
+    audio: "audio/3d-printing/day-7",
+    sonnet: `**🪶 Sonnet VII: The Breathing Boundaries**
+
+No longer must our crafted forms stand mute,
+With surfaces that block and walls that bind,
+For porous paths let substance pass en route
+Through barriers designed with purpose kind.
+
+The weeping jug that cools what lies within,
+The filter fine that purifies the stream,
+Each calculated gap lets life begin
+Where solid meets the world in shared dream.
+
+Through honeycomb and star-perforated clay,
+The boundary dissolves from harsh divide
+To gentle membrane where the forces play
+And inside speaks with outside, side by side.
+
+*When walls become the bridges that we build,*
+*Our objects breathe with purpose we instilled.*`,
+    standard: `🖨️ Day 7: The Breathing Boundaries
+
+When surfaces become porous, objects transform from impermeable barriers into breathing membranes that actively engage with their environment. This porosity dissolves the traditional boundary between inside and outside, creating objects that exist in continuous dialogue with the world around them. Rather than ending at their visible surface, these objects extend their influence through controlled exchange of air, light, moisture, or other substances.
+
+🧱 **The Concept**
+Porous surfaces in 3D printing create objects with designed permeability, turning solid barriers into selective filters that control what passes through.
+
+❓ **Why It Matters**
+This approach revolutionizes functional design by enabling objects that can breathe, filter, absorb, or selectively transmit substances. It opens entirely new categories of printed objects — from water filters to sound dampeners to living walls that support plant growth.
+
+⚙️ **How It Works**
+Controlled porosity is achieved through deliberate gaps in surface layers, using specific infill patterns that extend to the surface, or printing with dissolvable support materials that create channels when removed. A water filter might use graduated pore sizes from coarse to fine, while a speaker enclosure could use precisely sized ports for acoustic tuning. The key is intentional design — every pore serves a purpose, whether for airflow, liquid passage, or material exchange. Modern slicing software allows designers to specify exactly where porosity occurs and at what density, turning the surface from a barrier into a functional interface.
+
+🎯 **Maker Wisdom**
+The most powerful objects are often those that know when not to be solid — porosity transforms barriers into bridges between worlds.
+
+❓ **Tomorrow's Question** — If you can control exactly what passes through your object's boundaries, what happens when you design an object that changes its properties based on what it encounters — and how does this transform objects from static forms into responsive systems?`,
+    parable: `"Master," Finn said, examining a peculiar vessel Orna had crafted, "this water jug seems to weep. Is it broken?"
+
+Orna smiled as she watched droplets form on the vessel's surface, each emerging through tiny, precise pores that dotted its clay-like walls. "Not broken, young maker — breathing. Touch it."
+
+Finn placed his palm against the surface and gasped. The vessel was cool, far cooler than the warm workshop air. "But how?"
+
+"When I designed this piece, I didn't see a container's wall as something that must separate inside from outside," Orna explained, running her finger along the weeping surface. "Instead, I imagined it as a membrane — alive, responsive, selective. These pores aren't flaws; they're features. They allow water to seep through slowly, cooling the contents through evaporation while keeping dust and insects at bay."
+
+She led Finn to another shelf where dozens of vessels demonstrated different approaches to porosity. One had surfaces like honeycomb, perfect for drying herbs. Another featured gradient holes — large at the base for drainage, microscopic at the rim for filtered drinking. A third seemed solid until Orna lit a candle inside it, revealing that its walls glowed softly, perforated with star-like patterns.
+
+"But Master," Finn protested, "if walls can breathe, where does the object truly end?"
+
+Orna's eyes twinkled with the satisfaction of a question perfectly asked. "Ah, now you begin to see. When we allow our creations to exchange with the world — air, moisture, light, even sound — they become part of something larger. They don't end at their visible surface; they extend their influence through every pore, every calculated gap. The boundary becomes not a wall, but a conversation."
+
+**Moral:** *The wisest boundaries are not walls but membranes — strong enough to maintain integrity, porous enough to remain alive.*
+
+*Tomorrow, Orna will reveal objects that not only breathe, but respond...*`,
+  },
 ];

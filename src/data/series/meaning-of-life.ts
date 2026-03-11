@@ -857,4 +857,64 @@ The walls began to dissolve, revealing not the outside world but an infinite exp
 
 **Tomorrow**: The wanderer will confront the mystery of ending and eternity.`,
   },
+  {
+    day: 15,
+    title: "The Mortal Muse",
+    date: "2026-03-11",
+    image: "images/meaning-of-life/day-15.jpg",
+    audio: "audio/meaning-of-life/day-15",
+    sonnet: `**🪶 Sonnet XV: The Mortal Muse**
+
+The hourglass spills its golden grains with care,
+Each particle a moment, brief and bright,
+What makes them precious is they cannot spare
+Themselves from falling into endless night.
+
+No infinite expanse could ever hold
+The weight of love that knows its days are few,
+Each kiss becomes a story to be told,
+Each glance a treasure, sacred and true.
+
+The mortal heart beats with such fierce embrace
+Because it knows the rhythm has an end,
+And in that knowledge finds its saving grace—
+The urgency that teaches how to tend.
+
+*Death whispers not of darkness but of light:*
+*'Make every fading moment burn more bright.'*`,
+    standard: `🌌 Day 15: The Mortal Muse
+
+The finite nature of existence neither creates nor destroys meaning—it reveals meaning's true source: the precious urgency of limited time meeting unlimited consciousness. Death serves as life's greatest teacher, not by ending our story but by illuminating what truly matters while we can still choose how to spend our irreplaceable moments.
+
+🧱 **The Concept**
+Mortality transforms every moment into a gift and every choice into a sacred act of creation.
+
+❓ **Why It Matters**
+Without the boundary of death, time would be meaningless and choices would carry no weight. The knowledge of our finite existence doesn't diminish life's significance—it concentrates it, like sunlight through a magnifying glass. Every relationship, every act of love, every moment of beauty becomes infinitely precious precisely because it cannot last forever.
+
+⚙️ **How It Works**
+Consider how a terminal diagnosis often awakens people to what they truly value—not their achievements or possessions, but their connections, their capacity for love, and their ability to be present. The medieval practice of "memento mori" kept monks aware of death not to create morbidity but to inspire authentic living. When we truly accept our mortality, we stop postponing joy, stop taking relationships for granted, and start living as if every conversation might be our last meaningful exchange with another soul. A parent tucking in their child realizes this moment will never come again in exactly this way. An elderly couple holding hands understands that each touch is both eternal and fleeting. The artist facing their final canvas pours their whole being into the work because there may be no tomorrow.
+
+🎯 **Existential Wisdom**
+Mortality is not life's limitation but its liberation—freeing us from the tyranny of infinite procrastination into the urgency of authentic presence.
+
+❓ **Tomorrow's Question** — If our mortality makes each moment irreplaceable and sacred, what happens when we realize that not all moments feel meaningful or sacred to us? Does this suggest a failure in our awareness, or does it reveal something deeper about how meaning and presence actually work in the texture of daily existence?`,
+    parable: `Solen found The Keeper standing before a great hourglass, its golden sand flowing in an endless stream from top to bottom. Yet somehow, the top never emptied.
+
+"I've watched this for millennia," The Keeper said softly. "At first, I thought it represented eternal time. But then I realized—each grain falls only once. The mystery isn't that the sand keeps flowing, but that each particle's singular journey creates the whole."
+
+Solen touched the glass, feeling its warmth. "In my lost memories, I sense fragments of moments that felt... complete. Not because they lasted forever, but because somehow, in their passing, they became eternal."
+
+"Yes," The Keeper nodded. "I once believed my immortality made me wise. But watching mortal visitors to this tower taught me something profound. Their tears over partings, their fierce love for their children, their desperate beauty in the face of loss—these created a depth of meaning I, in my endless time, had never accessed."
+
+The sand continued its dance, each grain catching the light as it fell.
+
+"Show me," The Keeper whispered, "what it means to know that this conversation, this very moment, will never come again exactly as it is now."
+
+Solen felt something shift within—not sadness, but an overwhelming tenderness toward this singular instant, this one irreplaceable meeting of two souls in the vast cosmos.
+
+**Moral:** Death is not life's opposite but its deepest teacher, transforming every moment from mere time into sacred presence.
+
+*Tomorrow, Solen discovers why even in the face of mortality's gift, some moments resist meaning...*`,
+  },
 ];

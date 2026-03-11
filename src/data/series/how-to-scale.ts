@@ -892,4 +892,67 @@ Ironmere drew a circle encompassing both path types. "But here's what most build
 
 *Tomorrow, Vex will discover why rapid growth often destroys the very informal networks that companies need most during their fastest expansion phases...*`,
   },
+  {
+    day: 15,
+    title: "The Network Preservation Principle",
+    date: "2026-03-11",
+    image: "images/how-to-scale/day-15.jpg",
+    audio: "audio/how-to-scale/day-15",
+    sonnet: `**🪶 Sonnet XV: The Network Preservation Principle**
+
+Beneath the chart of titles, ranks, and roles,
+Lies golden thread that binds the working heart—
+Where trust and knowledge flow through hidden shoals,
+Connecting distant minds, each vital part.
+
+The mapper sees but squares and dotted lines,
+Yet misses how young Marcus bridges all,
+How Elena's morning tea with craftsmen shines
+As bright as any formal meeting hall.
+
+When growth demands we shift and rearrange,
+We cut these silver threads without a thought,
+Promote for skill but break what strange exchange
+Made swift decisions and new wisdom brought.
+
+*The org chart shows the company we planned to be,*
+*The network shows what makes it work so free.*`,
+    standard: `🚀 Day 15: The Network Preservation Principle
+
+Companies destroy their informal trust networks during rapid growth because they focus on documenting processes instead of mapping relationships, promote based on individual performance rather than network influence, and restructure teams without considering the invisible connections that actually drive collaboration. They mistake the org chart for the real organization.
+
+🧱 **The Concept**
+The most valuable networks in scaling companies are often invisible—built on shared experiences, mutual respect, and informal influence rather than reporting lines.
+
+❓ **Why It Matters**
+When companies restructure without understanding their informal networks, they accidentally sever the relationships that enable fast decision-making and knowledge transfer. A single well-connected individual often represents more organizational value than their job title suggests.
+
+⚙️ **How It Works**
+Successful companies actively map their informal networks before major changes—identifying who people actually go to for advice, which cross-functional relationships drive innovation, and whose departure would create knowledge gaps. They promote "network nodes"—people who connect different parts of the organization—even if they're not the highest individual performers. During restructuring, they deliberately preserve key informal relationships by keeping connected individuals in roles where they can maintain their bridging function. They create "network architects"—leaders whose job is to spot and nurture emerging informal connections.
+
+🎯 **Scaling Wisdom**
+The org chart shows you the company you built; the informal network shows you the company that actually works.
+
+❓ **Tomorrow's Question**
+If preserving informal networks is so critical, why do the most successful companies periodically and intentionally disrupt even their most valuable informal relationships?`,
+    parable: `Vex stood before a tapestry of silver threads stretched across his workshop—a map Ironmere had helped him weave showing not the official hierarchy of his growing enterprise, but the true paths of trust and collaboration.
+
+"See how young Marcus connects the forge workers to the design team?" Ironmere traced a shimmering thread. "His official role is junior blacksmith, but he's fluent in both craft and vision. When you promoted Elena to head the design workshop, you moved her to the eastern quarter. Now this thread grows thin."
+
+Vex studied the pattern. "But Elena deserved the promotion. Her designs are exceptional."
+
+"Her individual work, yes. But look—" Ironmere's weathered finger followed a cluster of fading threads. "She was the bridge between three different groups. Her morning conversations over tea weren't idle chatter; they were the nervous system of innovation. Now those groups work in isolation."
+
+"So what do I do? Hold back talented people?"
+
+"No, young builder. You promote them strategically. Elena could have led from the central workshop, staying physically connected to her networks while growing in authority. Or you could have moved her gradually, ensuring someone else learned to bridge those same groups."
+
+Vex traced another thread—this one glowing bright. "What about this one? Samuel in accounting?"
+
+"Ah," Ironmere smiled. "Samuel organizes the monthly gatherings where craftsmen share techniques. He's not your most skilled accountant, but he's your most valuable connector. Some threads are worth their weight in gold."
+
+**Moral**: The invisible architecture of relationships often matters more than the visible structure of roles.
+
+**Tomorrow**: Ironmere will reveal why even the strongest networks must sometimes be deliberately severed.`,
+  },
 ];

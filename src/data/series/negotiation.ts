@@ -988,4 +988,72 @@ Later, Ren marveled, "You learned nothing new about dyes, yet he felt honored to
 
 *Tomorrow, Vasska will show Ren why the most powerful negotiators make others become their own advocates...*`,
   },
+  {
+    day: 16,
+    title: "The Teaching Trap",
+    date: "2026-03-11",
+    image: "images/negotiation/day-16.jpg",
+    audio: "audio/negotiation/day-16",
+    sonnet: `**🪶 Sonnet XVI: The Teaching Trap**
+
+When wisdom's seeker plays the student's part,
+And asks the merchant why their need runs deep,
+The seller's tongue unlocks their very heart,
+Revealing treasures they had meant to keep.
+
+For in explaining what they truly seek,
+They weave the web that binds them to their want,
+Each word they speak makes their position weak,
+As logic builds the case they cannot daunt.
+
+The teacher thinks they hold the knowledge high,
+Yet finds themselves convinced by their own voice,
+Their explanations craft the reason why
+They must embrace what seemed mere passing choice.
+
+*Thus he who asks to learn holds greater sway,*
+*Than he who speaks but gives the game away.*`,
+    standard: `🤝 Day 16: The Teaching Trap
+
+When you make someone teach you about their own needs, they don't just become invested—they become architects of their own persuasion. The act of explaining forces them to organize their thoughts, prioritize their desires, and inevitably talk themselves into why they need what you're offering. They transform from skeptical buyer to enthusiastic advocate for their own purchase.
+
+🧱 **The Concept**
+People convince themselves more effectively than you ever could by teaching you why they need something.
+
+❓ **Why It Matters**
+When someone explains their needs to you, they're not just sharing information—they're rehearsing their own justification for saying yes. The psychological act of teaching requires them to become clearer about their priorities and more committed to their stated position. This self-persuasion is far more powerful than any pitch you could deliver.
+
+⚙️ **How It Works**
+Instead of selling features, ask questions that make them educate you about their situation: "Help me understand what makes this decision so important to your team" or "Walk me through how you typically evaluate these kinds of investments." As they explain their criteria, timeline, and constraints, they're actually building the case for why they should work with you. The more detailed their explanation, the more invested they become in the logic they've constructed. They end up convincing themselves through their own words.
+
+🎯 **Negotiation Wisdom**
+The best salespeople aren't great talkers—they're great listeners who know how to make others talk themselves into yes.
+
+❓ **Tomorrow's Question** — If making someone teach you their needs turns them into their own best salesperson, what happens when you make them defend a position they don't actually hold, forcing them to discover what they truly believe in the process of argumentation?`,
+    parable: `The marketplace buzzed with the usual afternoon energy as Ren watched Vasska approach a wealthy spice merchant who had been rejecting every trader's advances for weeks. The merchant's arms were crossed, his expression stern.
+
+"Master Hadeer," Vasska said with a respectful bow, "I confess my ignorance. Everyone speaks of your legendary standards, but I fear I don't truly understand what makes a spice worthy of your shop. Would you teach me?"
+
+The merchant's posture softened slightly. "Well," he began, "most traders bring me cardamom that's already lost its oils. True quality requires pods that crack with a sharp snap, releasing that intense, almost citrusy aroma..."
+
+As Hadeer continued his impromptu lecture, something remarkable happened. His voice grew more animated, his hands moved expressively as he described the perfect cinnamon bark, the ideal saffron threads. He spoke of his customers' refined palates, of the reputation he'd built over decades.
+
+"You see," Hadeer concluded, "I cannot compromise on quality. My clientele expects nothing less than perfection."
+
+Vasska nodded thoughtfully. "I understand now why you've rejected so many offers. With standards like yours, you must need suppliers who truly understand excellence."
+
+"Exactly!" Hadeer exclaimed. "So few do."
+
+"Perhaps," Vasska said quietly, "you'd examine these." He produced a small pouch of cardamom pods.
+
+Hadeer's eyes lit up as he tested them. Within minutes, he was calculating his order.
+
+Later, as they walked away with a substantial sale, Ren marveled at what he'd witnessed. "You barely said anything about your spices."
+
+"I didn't need to," Vasska replied, his scarred face creasing into a smile. "He convinced himself. By teaching me his standards, he reminded himself why he needed exactly what I offered. The most powerful persuasion comes from within."
+
+**Moral:** When you make others teach you their needs, they become the architects of their own desire.
+
+*Tomorrow, Ren will learn what happens when Vasska makes someone argue for something they don't believe—and discovers the strange alchemy of forced advocacy.*`,
+  },
 ];

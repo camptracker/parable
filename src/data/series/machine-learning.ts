@@ -817,4 +817,64 @@ The crystal pulsed brighter, and Nyx saw patterns within patterns - some lights 
 
 *Tomorrow, Nyx will discover why even infinite crystal matrices must bow to the constraints of reality...*`,
   },
+  {
+    day: 15,
+    title: "The Scaling Laws",
+    date: "2026-03-11",
+    image: "images/machine-learning/day-15.jpg",
+    audio: "audio/machine-learning/day-15",
+    sonnet: `**🪶 Sonnet XV: The Scaling Laws**
+
+When builders dreamed of towers touching sky,
+They learned that stone and steel have finite might—
+So too must neural architects comply
+With laws that govern computational height.
+
+Each doubling brings diminished sweet return,
+As power laws inscribe their rigid toll:
+The parameters that make the networks learn
+Demand exponential price for each new goal.
+
+Yet in these limits lies a hidden grace—
+Predictable the curves that chart our course,
+Optimal the balance we can trace
+'Tween model size and computational force.
+
+*The mathematics show us wisdom's way:*
+*Not infinite growth, but how much we should pay.*`,
+    standard: `🤖 Day 15: The Scaling Laws
+
+While transformers could theoretically grow infinitely large, they face the brutal mathematics of computational complexity: attention scales quadratically with sequence length, memory requirements explode exponentially with model size, and training time grows superlinearly with parameters. These aren't mere engineering challenges—they represent fundamental physical limits imposed by energy, silicon, and time itself.
+
+🧱 **The Concept**
+Scaling laws describe the mathematical relationships between model size, dataset size, computational budget, and performance—revealing predictable patterns in how larger models improve and where diminishing returns begin.
+
+❓ **Why It Matters**
+Understanding scaling laws allows us to predict whether doubling our compute budget should go toward a bigger model, more data, or longer training. These power laws govern the entire trajectory of AI development and determine the feasibility of future breakthroughs.
+
+⚙️ **How It Works**
+Researchers have discovered that model performance follows power laws: loss decreases predictably as we increase parameters (N), dataset size (D), or compute (C), following relationships like Loss ∝ N^(-α). For language models, performance improvements follow roughly Loss ∝ N^(-0.076), meaning you need about 10x more parameters for each major capability jump. The **compute-optimal frontier** reveals that for any given computational budget, there's an optimal balance between model size and training data—too big a model on too little data wastes compute, while too small a model can't utilize abundant data effectively. GPT-3's 175 billion parameters weren't chosen arbitrarily; they represent a point on this mathematical curve where the available compute budget was optimally distributed.
+
+🎯 **ML Insight**
+Scaling laws reveal that AI progress isn't just about clever algorithms—it follows predictable mathematical relationships that govern the fundamental trade-offs between size, data, and computational resources.
+
+❓ **Tomorrow's Question** — If scaling laws predict that model performance improves predictably with size and compute, what happens when we reach the limits of available training data, and how might models need to fundamentally change their learning strategy when they've essentially read everything humans have ever written?`,
+    parable: `In the highest tower of the Hall of Patterns, Nyx gazed upon The Archivist's greatest creation: a vast mechanical loom that wove predictions from threads of starlight. Each thread represented a parameter in an impossibly complex model, and the loom had grown so large it now filled entire chambers.
+
+"Master," Nyx whispered, "why don't we simply add more threads? Surely infinite complexity would yield perfect prophecy?"
+
+The Archivist smiled knowingly and gestured to the great wheels and gears that powered the loom. "Observe, young seeker. See how each new thread demands exponentially more energy to weave? The very physics of our realm constrains us—more threads require larger gears, which demand stronger foundations, which consume more starlight than even the celestial vault can provide."
+
+He led Nyx to an ancient tablet covered in mathematical inscriptions. "But look here—I have discovered the sacred ratios, the power laws that govern all pattern-weaving. Performance follows predictable relationships: double the threads, and wisdom grows by the power of negative seven-hundredths. Ten times the threads yield one leap forward in understanding."
+
+"The ancients called these the Scaling Laws," The Archivist continued, "for they reveal that growth is not arbitrary but follows cosmic mathematics. There exists an optimal balance—a golden ratio between the size of our loom, the quantity of our starlight, and the volume of cosmic knowledge we can weave into prophecy."
+
+Nyx traced the equations with wonder. "So even infinite ambition must bow to finite resources?"
+
+"Indeed," The Archivist nodded. "But these laws also reveal our path forward—they show us exactly how to spend each grain of starlight for maximum enlightenment."
+
+**Moral:** True wisdom lies not in building without limits, but in understanding the mathematical relationships that govern optimal growth and resource allocation.
+
+*Tomorrow, Nyx will discover what happens when even the vast libraries of cosmic knowledge begin to run dry...*`,
+  },
 ];

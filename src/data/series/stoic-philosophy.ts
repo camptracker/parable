@@ -1104,4 +1104,66 @@ As they returned to the barracks, Maxima placed a weathered hand on Caius's shou
 
 **Tomorrow**: Caius will discover how his responses to others shape not only his character but his lasting impact on the world.`,
   },
+  {
+    day: 17,
+    title: "The Practice of Philosophical Death",
+    date: "2026-03-11",
+    image: "images/stoic-philosophy/day-17.jpg",
+    audio: "audio/stoic-philosophy/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Practice of Philosophical Death**
+
+Each evening I rehearse my final bow,
+As if this day were all I'd ever know,
+Releasing what remains unfinished now,
+And letting yesterday's achievements go.
+
+For clinging to the past or future's weight
+Transforms today's sweet freedom into chains,
+While he who dies each night discovers fate
+Has no dominion over present gains.
+
+The grave I dig tonight shall birth tomorrow,
+As phoenix rises from its ashes bright—
+No longer bound by yesterday's sorrow,
+Nor dimmed by future's yet uncertain light.
+
+*To practice death is learning how to live,*
+*Complete each day, with nothing left to give.*`,
+    standard: `🏛️ Day 17: The Practice of Philosophical Death
+
+This reveals that your reputation and legacy are not carved by fortune's chisel, but sculpted by your own hands through countless moments of choice. True legacy lives not in monuments that crumble, but in the character you forge through how you meet each challenge—a testament written in virtue rather than stone.
+
+🧱 **The Concept**
+Philosophical death is the practice of viewing each day as complete unto itself, releasing attachment to outcomes beyond our control while fully embracing our present duties.
+
+❓ **Why It Matters**
+When we live as though each day might be our last, we naturally prioritize what truly matters over what merely seems urgent. This practice liberates us from the anxiety of unfinished business and the weight of endless tomorrows.
+
+⚙️ **How It Works**
+Each evening, the Stoic performs a kind of philosophical death—reviewing the day as if it were complete, forgiving unfinished tasks, and releasing regrets. Marcus Aurelius would end each day grateful for what was accomplished rather than tormented by what remained undone. Like an actor leaving the stage, we bow to the day's performance without clinging to the applause or mourning the final curtain. This practice transforms how we approach morning duties: not as burdens inherited from yesterday's failures, but as fresh opportunities for virtue. When we truly accept each day's mortality, we discover the freedom to live it fully.
+
+🎯 **Stoic Wisdom**
+To practice dying daily is to practice living completely—each sunset becomes not an ending, but a teacher of presence.
+
+❓ **Tomorrow's Question** — If every attachment you cling to is actually preventing you from experiencing the very thing you're trying to preserve, what does this suggest about the relationship between love and letting go?`,
+    parable: `The autumn sun cast long shadows across the training grounds as Caius discovered Maxima sitting beside a freshly dug grave, not mournful but serene.
+
+"Whose grave, General?" Caius asked, noting the absence of mourners.
+
+"Mine," Maxima replied simply. "I dig it fresh each evening and fill it each dawn."
+
+Caius's confusion must have shown, for Maxima continued: "Watch how a soldier clings to yesterday's victories or tomorrow's battles, young Caius. He carries the weight of every unfinished campaign, every regret, every fear of what might come. But what if each day were complete unto itself?"
+
+Maxima stood and began filling the grave with earth. "Marcus Aurelius taught that we practice dying so that we might practice living. When I lie down each night, I release the day completely—its triumphs and failures alike. When I rise, I am reborn to fresh duties, unburdened by yesterday's ghosts."
+
+"But General, what of our ongoing campaigns? Our unfinished work?"
+
+"The work continues, but the worker is renewed. See how differently you approach your duties when you're not carrying the accumulated weight of every incomplete task, every imperfect performance. The day's death teaches the day's life."
+
+As they walked back toward the barracks, Maxima added, "True legacy is not built by clinging to outcomes, but by releasing them. Each day we die to what was and are born to what is—this is how character is forged in the present moment."
+
+**Moral**: To practice dying daily is to discover how to live completely, freed from the ghosts of yesterday and the phantoms of tomorrow.
+
+**Tomorrow**: Maxima will teach Caius about the delicate balance between caring deeply and holding lightly...`,
+  },
 ];

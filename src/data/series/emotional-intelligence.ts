@@ -907,4 +907,76 @@ Idris studied the painted face, seeing not deception but skill—the ability to 
 
 *Tomorrow, The Veil will challenge Idris to distinguish between adaptive flexibility and manipulative deception...*`,
   },
+  {
+    day: 14,
+    title: "The Integrity of Intent",
+    date: "2026-03-11",
+    image: "images/emotional-intelligence/day-14.jpg",
+    audio: "audio/emotional-intelligence/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Integrity of Intent**
+
+When masks we wear seem false to watching eyes,
+And gentleness is deemed a cunning art,
+The question burns: where does our truth comprise—
+In face we show, or in our faithful heart?
+
+The water takes each vessel's given form,
+Yet keeps its essence pure through every shape;
+So we may bend to meet each human storm
+While holding fast to values that won't break.
+
+But when we shift our tone to serve desire,
+When kindness masks the hunger to extract,
+When flexibility feeds our selfish fire—
+Then adaptability becomes an act.
+
+*The test lies not in how our voices change,*
+*But whether love or greed our choices arrange.*`,
+    standard: `🧭 Day 14: The Integrity of Intent
+
+When someone views our emotional adaptability as manipulation, we distinguish authenticity from deception by examining our internal compass: healthy flexibility serves connection and understanding, while manipulation serves only the self at others' expense. The difference lies not in the behavior but in the intention—are we adapting to build bridges or to extract something?
+
+🧱 **The Concept**
+True emotional integrity means aligning our outer expressions with our inner values, even when those expressions vary by context.
+
+❓ **Why It Matters**
+Without this alignment, we risk either becoming emotionally rigid (same response regardless of situation) or genuinely manipulative (responses designed to exploit rather than connect). The accusation of manipulation often reveals more about the accuser's past wounds than our present actions.
+
+⚙️ **How It Works**
+Authentic emotional flexibility stems from a clear moral center—we might speak gently to a grieving friend and firmly to a boundary-crosser, but both responses serve love and respect. Manipulation, by contrast, changes expression to serve only our agenda: the same gentle tone that comforts might be used to extract favors, or firmness deployed not for boundaries but for control. The litmus test is simple: after the interaction, do we feel aligned with our values, or do we feel like we played a role? When others call our adaptability "fake," we can ask ourselves honestly whether we're responding to their needs and the situation's requirements, or whether we're crafting responses to get something we want while appearing to care about something else.
+
+🎯 **EQ Wisdom**
+Integrity isn't about emotional consistency—it's about consistent values expressed through contextually appropriate emotions.
+
+❓ **Tomorrow's Question** — If we can maintain our moral center while adapting our emotional expression, what happens when we realize that our deepest values themselves might need to evolve—and how do we navigate the disorienting space between who we were and who we're becoming?`,
+    parable: `The morning mist clung to the embassy courtyard as Idris practiced his diplomatic presentations, his voice shifting from stern authority to warm persuasion with each imagined scenario. The Veil emerged from the shadows, observing silently.
+
+"Master, I've learned to read the room, to speak differently to different people," Idris said proudly. "But yesterday, Ambassador Chen accused me of being two-faced. How can adaptability be both skill and sin?"
+
+The Veil's mask caught the dawn light as they gestured toward the garden's fountain. "Does water lack integrity because it takes the shape of every vessel?"
+
+Idris frowned. "Water serves the vessel's purpose. But what if... what if I'm not serving their needs but using different faces to serve my own?"
+
+"Tell me, young diplomat," The Veil whispered, "when you spoke gently to the grieving widow last week, what lived in your heart?"
+
+"Compassion. I wanted to ease her pain."
+
+"And when you spoke firmly to the merchants who cheated their workers?"
+
+"Justice. I wanted to protect the vulnerable."
+
+The Veil nodded slowly. "Different waters, same spring. But what if your gentleness had sought to extract information from the widow? What if your firmness had served only your own reputation?"
+
+Idris felt a chill of recognition. "The same actions, but... poisoned at the source."
+
+"The mask changes, but what does not change?" The Veil asked.
+
+Idris looked at his reflection in the fountain's surface, seeing not the diplomat's practiced expressions but something deeper. "My values. My commitment to serve something greater than myself."
+
+The Veil's voice grew gentle. "When others call you false, ask not whether your expression varied, but whether your heart remained true."
+
+**Moral:** Authentic flexibility flows from consistent values; manipulation flows from inconsistent character.
+
+*Tomorrow, Idris will discover that even his deepest convictions are not as fixed as he believed, and must learn to navigate the space between transformation and betrayal of self.*`,
+  },
 ];

@@ -619,4 +619,70 @@ Dove watched the dance floor fill organically, no DJ announcement needed. "It's 
 
 *Tomorrow, Dove will face the ultimate question about who her wedding is truly for...*`,
   },
+  {
+    day: 11,
+    title: "The Sacred Timeline",
+    date: "2026-03-11",
+    image: "images/wedding-planning/day-11.jpg",
+    audio: "audio/wedding-planning/day-11",
+    sonnet: `**🪶 Sonnet XI: The Sacred Timeline**
+
+While others chase the clock with frantic haste,
+And pack each hour with orchestrated scenes,
+The wisest couples know that love won't waste
+A moment lived authentically serene.
+
+No schedule born of industry's demand
+Can capture how two hearts beat in their time,
+For sacred rhythms come from soul, not hand
+That writes the day in perfect pantomime.
+
+Let morning light or evening's gentle glow
+Dictate when vows should dance upon the air,
+Let natural grace be all you need to know
+Of timing that's both tender and sincere.
+
+*For when a day flows true to lovers' hearts,*
+*Each moment holds what no timeline imparts.*`,
+    standard: `💍 Day 11: The Sacred Timeline
+
+When forced to choose between impressing guests and delighting yourselves, authentic couples consistently choose their own delight—because a marriage celebration that genuinely moves the couple will naturally move their guests, while a performance designed to impress often leaves everyone feeling hollow. This choice reveals whether you're celebrating the beginning of your life together or staging a show about what others expect that beginning to look like.
+
+🧱 **The Concept**
+Your wedding timeline should serve your love story, not the wedding industry's predetermined schedule.
+
+❓ **Why It Matters**
+Most couples inherit a cookie-cutter timeline that prioritizes vendor convenience and photo opportunities over the emotional rhythm of their actual day. This creates a frantic performance rather than a sacred experience, leaving couples feeling like guests at their own wedding.
+
+⚙️ **How It Works**
+Instead of accepting the standard "getting ready at 10am, ceremony at 4pm, reception at 6pm" template, design your timeline around your natural energy and meaningful moments. If you're morning people, consider a sunrise ceremony followed by a celebratory brunch. If you want extended time with family, build in a longer cocktail hour instead of a lengthy photo session. Some couples choose "first look" moments not for photos but for genuine connection. Others skip the traditional receiving line for intimate table visits during dinner. The key is asking: when do we feel most ourselves, and how can our timeline honor those rhythms?
+
+🎯 **Wedding Wisdom**
+A timeline that flows from your authentic selves creates natural moments that no amount of orchestration can manufacture.
+
+❓ **Tomorrow's Question** — If you could only choose one—having your wedding look exactly like your Pinterest board or having it feel exactly like yourselves—which would you choose, and what does that reveal about whether you're curating an aesthetic or cultivating an experience?`,
+    parable: `Dove sat surrounded by wedding magazines, each timeline more elaborate than the last. "Look," she said to Elm, pointing at a schedule that began at 7am and ended past midnight. "This couple did hair and makeup for four hours, then photos for three hours, then—"
+
+"When did they actually get married?" Elm asked, squinting at the tiny ceremony block wedged between "cocktail hour" and "grand entrance."
+
+Nana Rose entered carrying two cups of tea, moving with the unhurried grace that had become her signature. "I once planned a wedding where the couple was so exhausted from their timeline that they fell asleep during their own first dance," she said, settling into her chair. "Beautiful photos, though."
+
+Dove looked up from her magazines. "But don't we need all these elements? The getting ready shots, the first look, the cocktail hour, the—"
+
+"Tell me," Nana Rose interrupted gently, "when during a normal day do you two feel most like yourselves?"
+
+Elm smiled. "Sunday mornings. We make coffee, read the paper, talk about everything and nothing. No rush, no agenda."
+
+"And when do you feel most connected?"
+
+"Those long walks after dinner," Dove admitted. "When we're not performing or producing anything, just... being together."
+
+Nana Rose nodded knowingly. "Then why would you design your wedding day to be the opposite of that? Why would you schedule yourselves into a frenzy when what you're celebrating is the peace you've found in each other?"
+
+She pulled out a simple timeline—ceremony at golden hour, dinner as the sun set, dancing under stars. "This couple chose their timeline like they chose each other: not because it looked impressive, but because it felt true."
+
+**Moral:** The most beautiful weddings flow like the most beautiful relationships—at their own natural pace, in their own authentic rhythm.
+
+**Tomorrow, we discover how the difference between curating an aesthetic and cultivating an experience shapes everything about how your wedding feels to live through.**`,
+  },
 ];

@@ -808,4 +808,62 @@ He gestured to the worn stones. "These builders understood something your genera
 
 **Tomorrow:** Dusk reveals why knowing your true age might be the most dangerous knowledge of all...`,
   },
+  {
+    day: 14,
+    title: "The Time Horizon",
+    date: "2026-03-11",
+    image: "images/health-and-longevity/day-14.jpg",
+    audio: "audio/health-and-longevity/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Time Horizon**
+
+The salmon knows no calculus of pain,
+Yet fights the torrent toward its destined shore,
+While humans, blessed with reason's vast domain,
+Choose comfort now and suffer evermore.
+
+What makes the future real within our minds?
+When does tomorrow's ghost gain flesh and bone?
+The wise see ripples where the foolish find
+Only the stone that breaks the water's tone.
+
+Each choice we make casts echoes through the years,
+Each step today determines tomorrow's ground,
+Yet present pleasure drowns out future fears—
+The distant self remains without a sound.
+
+*But those who hear their elder calling back*
+*Find strength to swim against time's rushing track.*`,
+    standard: `⏳ **Day 14: The Time Horizon**
+
+🧱 **The Concept**
+The single greatest predictor of health behaviors isn't knowledge, motivation, or even genetics—it's how far into the future someone can meaningfully visualize the consequences of their current choices.
+
+❓ **Why It Matters**
+Most longevity interventions require sacrificing immediate pleasure for distant benefits that feel abstract and hypothetical. Our brains are wired to heavily discount future rewards, making a donut today feel more valuable than twenty extra years of life decades from now. This temporal myopia explains why intelligent people make choices they know will hurt them.
+
+⚙️ **How It Works**
+People who successfully implement longevity practices have developed what researchers call "future self-continuity"—they experience their future self as a real person worthy of care rather than a stranger. When shown age-progressed photos of themselves, people make better financial and health decisions. Those who write letters to their 80-year-old self exercise more consistently. The most effective interventions don't provide more information about health risks—they make future consequences feel immediate and personal. Elite athletes naturally think in decades, not days, which is why they can endure brutal training regimens that would break recreational exercisers.
+
+🎯 **Longevity Wisdom**
+The secret to longevity isn't changing what you know—it's expanding when you feel the consequences of what you do.
+
+❓ **Tomorrow's Question** — If our capacity to care about our future self determines our health behaviors more than our knowledge or willpower, what happens when we consider that every choice we make is actually a vote for the type of person we want to become, and why might the stories we tell ourselves about aging be the most powerful longevity intervention of all?`,
+    parable: `Senna found Dusk sitting by the riverside, watching salmon struggle upstream against the current. "Why do they exhaust themselves fighting the water?" she asked, frustrated after another patient had ignored her warnings about their deteriorating health.
+
+"They see something you cannot," Dusk replied, his ancient eyes following the fish. "Death awaits them either way—in the ocean or at the spawning grounds. But only one path creates the future they were born to build."
+
+"But humans are different," Senna protested. "They know exercise will help them live longer, yet they choose the couch. They know vegetables matter, yet they reach for sugar. Knowledge isn't enough."
+
+Dusk picked up a smooth stone and skipped it across the water. "Watch the ripples," he said. "The stone sees only the first splash. But the water remembers every circle, carrying the motion to distant shores." He turned to her with a knowing smile. "Your patients see only today's discomfort. They cannot feel their eighty-year-old bones crying out for the strength they're squandering now."
+
+"So how do I make them see?"
+
+"The salmon doesn't think about swimming upstream," Dusk mused. "It feels the pull of generations yet unborn. Your healing gift isn't in your herbs, child—it's in helping people feel the hands of their future self, reaching back through time, begging them to choose differently."
+
+Senna watched the ripples fade into the distance, finally understanding why her most successful patients were those who spoke of their grandchildren's weddings they wanted to dance at, not the diseases they feared.
+
+**Moral:** The greatest medicine is helping people fall in love with who they might become.
+
+*Tomorrow, Dusk will reveal why the stories we tell ourselves about aging might be more powerful than any supplement or surgery—and why some people seem to get younger while others wither, regardless of their genetics.*`,
+  },
 ];

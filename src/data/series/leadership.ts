@@ -836,4 +836,64 @@ He gestured toward two ships in the distance. "See those vessels? One captain sh
 
 **Tomorrow:** Greymane will teach Tova about the delicate art of making others feel valued, and why recognition is the currency that buys true loyalty.`,
   },
+  {
+    day: 14,
+    title: "The Dignity of Recognition",
+    date: "2026-03-11",
+    image: "images/leadership/day-14.jpg",
+    audio: "audio/leadership/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Dignity of Recognition**
+
+In every heart there burns a sacred flame,
+That waits for eyes to see its hidden light,
+Not just the work, the title, or the name,
+But souls that yearn to know their worth is bright.
+
+The leader who looks past the surface role,
+And sees the courage in a quiet voice,
+The strength that mends another's weary soul,
+Makes recognition more than mere choice.
+
+For praise alone may fade with setting sun,
+But seeing worth transforms the very core,
+When someone knows their value has begun
+To shine through eyes that see them as much more.
+
+*True leadership's not making people feel blessed,
+But helping them discover they're their best.*`,
+    standard: `👥 Day 14: The Dignity of Recognition
+
+When leaders truly understand that their teams crave being heard and valued above all else, every interaction transforms from transactional to transformational. This means beginning meetings by asking what challenges people are facing rather than diving into agendas, having conversations where you listen twice as much as you speak, and making decisions by first understanding how they affect the humans who must implement them.
+
+**🧱 The Concept**
+True leadership recognition goes beyond rewards and praise—it's about seeing people's worth, contributions, and potential even when they can't see it themselves.
+
+**❓ Why It Matters**
+People will work for money, but they will sacrifice for someone who truly sees their value. When leaders recognize not just what people do, but who they are and who they're becoming, it creates a loyalty that transcends any organizational chart. Recognition is the oxygen of human motivation—without it, even the most talented teams suffocate.
+
+**⚙️ How It Works**
+Recognition begins with noticing the invisible contributions: the team member who stays late to help a colleague, the quiet person whose ideas spark breakthrough thinking, or the individual who maintains team morale during difficult times. It means calling out growth, not just achievements—acknowledging when someone handles conflict better than before, asks more thoughtful questions, or demonstrates courage in small moments. Effective leaders create recognition rituals: starting team meetings by highlighting someone's recent contribution, sending personal notes about specific impacts, or publicly crediting ideas to their originators. They recognize effort alongside results, understanding that someone's best attempt today might surpass another's casual success.
+
+**🎯 Leadership Wisdom**
+The leader who sees gold in people helps them discover their own worth. Recognition isn't about making people feel good—it's about helping them see the truth of their value.
+
+**❓ Tomorrow's Question** — If you could only motivate your team by helping them discover their own inner drive rather than providing external incentives, what would you need to learn about each person's deepest aspirations, and how would this change your entire approach to leadership?`,
+    parable: `Tova found Greymane tending his small garden at dawn, carefully examining each plant as the morning light revealed their growth. "Admiral," she began, "yesterday you spoke of listening, but my crew still seems distant. They follow orders, but their hearts aren't truly with me."
+
+Greymane knelt beside a struggling seedling, gently loosening the soil around its roots. "Tell me, Captain, when did you last notice something remarkable about each crew member—not their mistakes, but their hidden strengths?"
+
+"I... I focus on what needs fixing," Tova admitted.
+
+"Watch," Greymane said, moving to another plant. "This one appears ordinary, yet yesterday I saw it bend in the storm without breaking while stronger plants snapped. This small flower blooms in shade where others wither." He looked up at her. "Every person carries such hidden worth, waiting for someone to notice."
+
+Over the following days, Tova began seeing differently. She noticed Kenji's quiet way of encouraging struggling shipmates, Mira's innovative solutions during repairs, and old Henrik's steady presence during rough weather. Instead of pointing out errors, she began acknowledging these contributions publicly.
+
+The transformation was remarkable. Crew members stood taller, spoke up more often, and began exceeding expectations. "How did you know this would work?" Tova asked Greymane.
+
+"Because every soul yearns to be seen truly," he replied. "When you recognize someone's worth, you don't just motivate them—you help them discover who they really are."
+
+**Moral:** *The leader who sees gold in others helps them discover their own worth, transforming not just performance but identity.*
+
+**Tomorrow:** *Greymane reveals how the greatest leaders don't create motivation—they uncover it...*`,
+  },
 ];
