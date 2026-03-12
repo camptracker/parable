@@ -979,4 +979,68 @@ The Veil's voice grew gentle. "When others call you false, ask not whether your 
 
 *Tomorrow, Idris will discover that even his deepest convictions are not as fixed as he believed, and must learn to navigate the space between transformation and betrayal of self.*`,
   },
+  {
+    day: 15,
+    title: "The Becoming Between",
+    date: "2026-03-12",
+    image: "images/emotional-intelligence/day-15.jpg",
+    audio: "audio/emotional-intelligence/day-15",
+    sonnet: `**🪶 Sonnet XV: The Becoming Between**
+
+Between the self I was and shall become
+Lies territory unmapped by certainty,
+Where old beliefs grow quiet, new ones hum
+With possibility's sweet urgency.
+
+The values that once anchored me in stone
+Now feel like chains that bind me to the past,
+Yet cutting loose leaves me to drift alone
+In waters where no truth seems built to last.
+
+But in this liminal and sacred space,
+Where questions bloom where answers used to grow,
+I learn that transformation has its pace—
+Some seeds need winter's darkness to bestow
+
+*Their gifts. The space between is not a curse,*
+*But fertile void where better selves rehearse.*`,
+    standard: `🧭 Day 15: The Becoming Between
+
+When we realize our deepest values need to evolve, we enter what psychologists call "liminal space"—the threshold between old and new identity where discomfort signals growth rather than failure. The key is learning to befriend uncertainty rather than rushing to fill the void with premature answers, allowing our values to mature organically through experience rather than forcing them into rigid frameworks.
+
+🧱 **The Concept**
+Emotional intelligence includes the capacity to hold paradox—to remain stable while changing, to honor our past while embracing transformation.
+
+❓ **Why It Matters**
+Most people either cling rigidly to outdated values or swing wildly between different belief systems, creating internal chaos. True emotional maturity means learning to dance with uncertainty, using our emotional responses as data points rather than dictators in the process of becoming.
+
+⚙️ **How It Works**
+When we encounter experiences that challenge our core beliefs—a betrayal by someone we trusted, witnessing injustice in a system we supported, or recognizing harm in values we inherited—our emotions provide crucial intelligence. Anxiety might signal that old frameworks no longer serve us, while grief can honor what we're releasing. Instead of immediately seeking new certainties, we can practice **curious patience**: "What is this discomfort teaching me? What wants to emerge?" A former military officer questioning authority, a religious person exploring doubt, or a lifelong people-pleaser learning to say no all navigate this space by treating their confusion as sacred rather than shameful.
+
+🎯 **EQ Wisdom**
+The space between who we were and who we're becoming isn't a problem to be solved—it's a crucible where wisdom is forged.
+
+❓ **Tomorrow's Question** — If we can learn to find stability in the midst of personal transformation, what happens when our evolution puts us at odds with the communities and relationships that shaped our original identity—and how do we honor both our growth and our connections without betraying either?`,
+    parable: `Idris stood before The Veil, his diplomatic robes wrinkled from days of restless sleep. "I no longer recognize myself," he confessed. "The values my father taught me about honor and duty—they feel too small now, yet without them, I am lost."
+
+The Veil's mask caught the morning light, reflecting Idris's troubled expression back to him. "What does the space between certainties taste like?"
+
+"Bitter," Idris replied immediately. "Like ashes. Like fear."
+
+"And what grows in ashes?"
+
+Idris paused, remembering his grandmother's garden after the great fire. "New things. Things that couldn't grow before because the old roots took all the soil."
+
+The Veil nodded slowly. "You speak of being lost. Where does one go to find themselves?"
+
+"Inward, I suppose. But when I look inside, I find only questions."
+
+"Questions are seeds," The Veil whispered. "What happens when you stop demanding they sprout into answers before their season?"
+
+For weeks, Idris practiced sitting with uncertainty. When diplomats praised his family's military tradition, he felt neither pride nor shame but curious tension. When colleagues discussed tactics he once endorsed, he listened to his discomfort without immediately categorizing it as right or wrong. Slowly, something new began to emerge—not a replacement for his old values, but their mature evolution.
+
+**Moral**: The becoming between old and new selves is not empty space but fertile ground where wisdom grows.
+
+*Tomorrow, Idris will discover that his personal transformation creates ripples in relationships he never expected to touch...*`,
+  },
 ];

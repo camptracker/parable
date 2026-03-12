@@ -955,4 +955,60 @@ Vex traced another thread—this one glowing bright. "What about this one? Samue
 
 **Tomorrow**: Ironmere will reveal why even the strongest networks must sometimes be deliberately severed.`,
   },
+  {
+    day: 16,
+    title: "The Information Archaeology Principle",
+    date: "2026-03-12",
+    image: "images/how-to-scale/day-16.jpg",
+    audio: "audio/how-to-scale/day-16",
+    sonnet: `**🪶 Sonnet XVI: The Information Archaeology Principle**
+
+In archives deep where corporate wisdom sleeps,
+Lie buried truths that scaling teams forgot—
+The failed experiments, the knowledge that seeps
+Away with those who leave, their lessons lost.
+
+But wise are those who excavate the past,
+Who build their systems like archaeologists,
+Preserving context, making memory last
+Through decision logs and faithful archivists.
+
+For growth creates a flood of fleeting thought,
+While scaling demands we stand on shoulders tall
+Of every breakthrough that our forebears wrought,
+Each failure mapped, each victory's careful call.
+
+*The companies that master memory's art*
+*Transform their chaos into wisdom's chart.*`,
+    standard: `🚀 Day 16: The Information Archaeology Principle
+
+🧱 **The Concept**
+As companies scale, they generate vast amounts of tribal knowledge, decisions, and context that gets buried in chat threads, documents, and departing employees' heads. The most successful scaling companies treat information archaeology—systematically preserving and surfacing organizational memory—as a competitive advantage.
+
+❓ **Why It Matters**
+Rapid growth creates information amnesia: teams repeat failed experiments, remake solved decisions, and lose hard-won insights when key people leave. Companies that master information archaeology move faster because they build on their past instead of constantly rediscovering it. They turn institutional memory from a liability into an asset.
+
+⚙️ **How It Works**
+Information archaeology isn't just documentation—it's creating systems that capture decision context, not just outcomes. Stripe maintains "decision logs" that record not just what was decided, but why alternatives were rejected. Shopify has "context keepers"—senior engineers who specialize in preserving and transferring deep system knowledge. GitLab's transparent handbook means decisions made three years ago remain searchable and actionable today. The key is building capture into workflows rather than treating it as an afterthought, and creating roles specifically responsible for institutional memory.
+
+🎯 **Scaling Wisdom**
+Your company's memory is either an asset that compounds or a liability that fragments. Information archaeology turns the chaos of growth into competitive intelligence.
+
+❓ **Tomorrow's Question** — If preserving institutional memory creates such powerful advantages, why do the most innovative companies deliberately forget large portions of their organizational history?`,
+    parable: `Vex stood bewildered in Ironmere's study, surrounded by towering shelves lined with countless scrolls, blueprints, and journals. "Master, how do you remember where everything is? My workshop grows larger each month, but I lose track of every lesson I've learned, every technique I've discovered."
+
+Ironmere pulled down a leather-bound tome, its pages filled with detailed sketches and dense notes. "When I built my city, young builder, I learned that a settlement's greatest treasure isn't its gold or stone—it's its memory. Watch." He opened to a page showing a bridge design. "This records not just how we built the Great Bridge, but why we rejected the three other designs, what materials failed, which craftsmen knew the secret techniques."
+
+Vex traced the detailed margins, noting names, dates, and warnings about seasonal flooding. "But surely you couldn't document everything?"
+
+"Not everything, but everything that mattered. I appointed Memory Keepers—respected builders whose sole purpose was to walk among the craftsmen, recording not just what worked, but what failed spectacularly." Ironmere's eyes gleamed. "When new builders arrived, they didn't start from nothing. They stood on the shoulders of every mistake and triumph that came before."
+
+Vex nodded slowly, understanding dawning. "So the city grew faster because it remembered?"
+
+"Precisely. While other settlements repeated the same floods, fires, and foundation failures generation after generation, we accumulated wisdom like sediment. Each layer made the next stronger."
+
+**Moral**: The difference between growth and scaling is memory—those who systematically preserve their hard-won knowledge build upon it, while those who don't are forever rebuilding.
+
+*Tomorrow, Ironmere will reveal why he deliberately burned entire sections of the city's archives—and why forgetting can be as powerful as remembering.*`,
+  },
 ];

@@ -896,4 +896,66 @@ The transformation was remarkable. Crew members stood taller, spoke up more ofte
 
 **Tomorrow:** *Greymane reveals how the greatest leaders don't create motivation—they uncover it...*`,
   },
+  {
+    day: 15,
+    title: "The Mirror of Growth",
+    date: "2026-03-12",
+    image: "images/leadership/day-15.jpg",
+    audio: "audio/leadership/day-15",
+    sonnet: `**🪶 Sonnet XV: The Mirror of Growth**
+
+When leaders look upon their weary crew,
+Two visions dance before their searching eyes:
+What is today, and what might yet be true—
+The present state, or future's bright surprise.
+
+The shallow gaze sees only current flaws,
+The mistakes made, the goals not yet achieved;
+But wisdom's eye perceives potential's cause,
+The seeds of greatness waiting to be received.
+
+As gardeners tend the soil before the bloom,
+Great leaders cultivate what lies within;
+They see through failure's temporary gloom
+To glimpse the victory waiting to begin.
+
+*For those who lead with vision's patient art*
+*Reflect tomorrow's strength in every heart.*`,
+    standard: `👥 Day 15: The Mirror of Growth
+
+To discover what truly drives each person, you'd need to become a student of their stories—understanding not just what they do well, but what makes them come alive, what challenges energize rather than drain them, and what legacy they want to leave. This would transform you from a director into a developer, shifting your focus from managing tasks to cultivating potential and creating conditions where their deepest motivations naturally flourish.
+
+🧱 **The Concept**
+True leaders see people not as they are, but as they could become, and help them see it too.
+
+❓ **Why It Matters**
+When leaders focus solely on current performance, they limit both individual potential and organizational growth. The most transformative leaders are those who can envision someone's future capabilities and create pathways for that vision to become reality, turning ordinary teams into extraordinary ones.
+
+⚙️ **How It Works**
+This requires shifting from a performance mindset to a potential mindset—asking not "How can I get better results from this person?" but "How can I help this person become the leader they're capable of being?" It means having conversations about aspirations, not just expectations, and providing challenges that stretch people toward their potential rather than simply maintaining current standards. When a team member struggles, instead of focusing on the gap between current and required performance, you focus on the bridge between current and possible performance. You become less interested in what someone can do today and more invested in what they could accomplish tomorrow.
+
+🎯 **Leadership Wisdom**
+The greatest leaders are talent developers who multiply their impact through the growth of others.
+
+❓ **Tomorrow's Question** — If you knew that every person you lead has an undiscovered strength that could transform not only their own performance but the entire team's effectiveness, how would you go about uncovering these hidden capabilities, and what assumptions about "fixed" abilities would you need to abandon?`,
+    parable: `Tova found Greymane at dawn, sketching the harbor from memory on weathered parchment. "Drawing the old fleet again?" she asked, settling beside him on the worn pier.
+
+"No," he said quietly, his charcoal dancing across the page. "Drawing what this harbor could become." His sketch showed not the current collection of patched boats and tired crews, but a vision of sleek vessels with confident sailors, their sails catching wind that seemed to emanate purpose itself.
+
+Tova studied the drawing. "How do you see what isn't there yet?"
+
+Greymane set down his charcoal and looked at her crew preparing their nets. "Watch them closely. Not what they're doing wrong, but what they're trying to become." He pointed to Marcus, the clumsy rigger. "See how he checks every knot twice? That's not incompetence—that's the making of a master craftsman who simply needs time to trust his hands."
+
+He indicated Sara, the quiet navigator who rarely spoke in meetings. "Notice how she traces wind patterns in the air when she thinks no one's watching? That's not distraction—that's genius learning to trust its own voice."
+
+"But they make so many mistakes," Tova protested.
+
+"Mistakes are the language of growth," Greymane replied. "When you see someone not as they are, but as they're becoming, you stop managing their present and start cultivating their future. The mirror of growth reflects not who stands before it today, but who they're meant to become."
+
+As the morning mist lifted, Tova began to see her crew differently—not as problems to solve, but as potential to unlock.
+
+**Moral:** The greatest leaders are gardeners of human potential, seeing the oak in the acorn.
+
+*Tomorrow, Greymane will reveal how the most powerful leaders discover hidden strengths in the most unexpected places...*`,
+  },
 ];

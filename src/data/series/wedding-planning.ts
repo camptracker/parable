@@ -685,4 +685,60 @@ She pulled out a simple timeline—ceremony at golden hour, dinner as the sun se
 
 **Tomorrow, we discover how the difference between curating an aesthetic and cultivating an experience shapes everything about how your wedding feels to live through.**`,
   },
+  {
+    day: 12,
+    title: "The Sacred Imperfection",
+    date: "2026-03-12",
+    image: "images/wedding-planning/day-12.jpg",
+    audio: "audio/wedding-planning/day-12",
+    sonnet: `**🪶 Sonnet XII: The Sacred Imperfection**
+
+When Pinterest dreams and reality collide,
+And centerpieces bloom in shades unplanned,
+The rigid heart sees failure in the tide
+Of life that flows beyond controlling hand.
+
+But sacred love embraces what appears—
+The crooked smile, the vow that stumbles through,
+The flower girl who sits and disappears,
+The rain that makes the sacred moment true.
+
+For perfection is a gilded cage that holds
+The spirit back from dancing with the day,
+While imperfection's story slowly unfolds
+In laughter, tears, and love's authentic way.
+
+*The flawless wedding fades from memory's page,*
+*But perfect moments live beyond all age.*`,
+    standard: `💍 Day 12: The Sacred Imperfection
+
+Choosing how your wedding feels over how it looks reveals you understand that perfection is the enemy of presence—that the Pinterest-perfect moment photographed is often the authentic moment missed. A wedding that feels like you embraces the beautiful imperfections that make your love story unique, while one that merely looks perfect risks becoming a performance where you're spectators to your own celebration.
+
+🧱 **The Concept**: Sacred imperfection is the recognition that your wedding's most treasured moments will likely be unplanned, unscripted, and unphotographed—and that chasing flawlessness can rob you of the very authenticity that makes love beautiful.
+
+❓ **Why It Matters**: When we demand perfection from our wedding day, we create a brittle experience where any deviation feels like failure rather than life unfolding naturally. The pursuit of the perfect wedding often prevents us from experiencing the perfect moment—that unrehearsed laugh, the tear that falls during vows, the dance that happens when no one's watching.
+
+⚙️ **How It Works**: Sacred imperfection means building flexibility into your plans while protecting what truly matters. If it rains on your outdoor ceremony, you embrace the intimacy of Plan B rather than mourning Plan A. If your centerpieces arrive in the wrong color, you notice how beautiful they look in the actual light of your actual day. If your flower girl decides to sit down mid-aisle, you treasure the sweetness of the moment rather than worry about the timeline. If your partner stumbles over their vows, you see the nervousness born of deep love rather than a mistake to be corrected. Sacred imperfection chooses presence over perfection every single time.
+
+🎯 **Wedding Wisdom**: The moments that go "wrong" often become the stories you treasure most, because they're uniquely, authentically yours.
+
+❓ **Tomorrow's Question**: If you had to choose between a wedding where everything went according to plan but felt somehow hollow, or one where three major things went "wrong" but you felt deeply connected to each other and your guests throughout, which would you choose, and what does that reveal about what you're really trying to create on your wedding day?`,
+    parable: `The morning mist clung to the garden as Dove frantically checked her wedding notebook for the twentieth time. "The peonies are the wrong shade of blush," she announced, her voice tight with panic. "They're supposed to be 'barely there pink,' but these are clearly 'whisper rose.' The photos will be ruined."
+
+Elm, adjusting his tie in the mirror, caught her eye in the reflection. "Love, do you remember what you said when you first saw peonies at the farmers market? You said they looked like happiness had learned to bloom."
+
+"But that was before I had a color palette," Dove protested, holding up her phone to show him the Pinterest board that had consumed her dreams for months.
+
+Nana Rose appeared in the doorway, carrying a steaming cup of tea and wearing the gentle smile of someone who had witnessed a thousand such moments. "Child," she said softly, "I've been planning weddings for forty years, and I've learned something curious. The couples who remember every detail of their perfect day often forget how it felt. But the couples who remember how their day felt—they tell me stories thirty years later about the rain that made everyone huddle closer, the cake that leaned sideways but tasted like heaven, the flower girl who picked dandelions instead of scattering petals."
+
+She set down the tea and picked up one of the "wrong" peonies, inhaling its fragrance. "This flower doesn't know it's the wrong shade. It only knows how to be beautiful. Just like love doesn't know how to be perfect—it only knows how to be real."
+
+Elm walked over and took Dove's hands, notebook and all. "What if," he said gently, "instead of trying to create the perfect wedding, we just tried to be perfectly us?"
+
+As if summoned by his words, a gentle breeze stirred the "wrong" peonies, and their sweet fragrance filled the room. Dove looked at her reflection—not in the phone screen showing her Pinterest board, but in Elm's eyes—and for the first time that morning, she smiled without checking if it matched her vision board.
+
+**Moral**: The most beautiful weddings aren't the ones where nothing goes wrong, but the ones where love is present enough to transform any imperfection into part of the story.
+
+*Tomorrow, we'll explore what it means to plan for connection rather than perfection—and discover why the most memorable weddings often include the most unexpected moments.*`,
+  },
 ];

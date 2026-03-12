@@ -1056,4 +1056,62 @@ Later, as they walked away with a substantial sale, Ren marveled at what he'd wi
 
 *Tomorrow, Ren will learn what happens when Vasska makes someone argue for something they don't believe—and discovers the strange alchemy of forced advocacy.*`,
   },
+  {
+    day: 17,
+    title: "The Devil's Advocate Discovery",
+    date: "2026-03-12",
+    image: "images/negotiation/day-17.jpg",
+    audio: "audio/negotiation/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Devil's Advocate Discovery**
+
+When asked to champion what they despise,
+The heart rebels against the mind's deceit,
+And in that struggle, truth begins to rise
+From depths where genuine convictions meet.
+
+The tongue may speak the words you wish to hear,
+But souls resist what contradicts their core,
+And through this tension, what they truly fear
+And value most comes knocking at the door.
+
+No interrogation could extract with force
+What arguing against themselves reveals,
+For cognitive dissonance becomes the source
+That strips away pretense and false appeals.
+
+*To find what someone prizes most of all,*
+*Ask them to argue for its downfall.*`,
+    standard: `🤝 **Day 17: The Devil's Advocate Discovery**
+
+When you make someone defend a position they don't actually hold, they're forced to articulate counterarguments to their own beliefs—and in doing so, they inevitably reveal the gaps, contradictions, and true priorities in their thinking. This argumentative dissonance creates cognitive clarity: they discover what they genuinely value by experiencing the discomfort of arguing against it.
+
+🧱 **The Concept**
+The Devil's Advocate Discovery leverages cognitive dissonance by having your counterpart argue for positions opposite to their interests, forcing them to confront and clarify their true beliefs.
+
+❓ **Why It Matters**
+When people defend positions they don't believe in, they experience internal resistance that illuminates their authentic values and priorities. This technique bypasses their conscious defenses and reveals genuine motivations they might not have articulated even to themselves. It's particularly powerful because the insights come from within—they convince themselves.
+
+⚙️ **How It Works**
+You might say "Help me understand why someone would argue that lowering your price is actually bad for your business" or "What would be the strongest case for why rushing this decision serves both our interests?" As they construct arguments against their position, they'll naturally push back with their real concerns: "Well, actually, the main issue isn't price, it's timing..." or "The real problem with rushing is that we haven't addressed the integration challenges." You've just extracted their core issues without direct confrontation. The discomfort of arguing against their interests forces clarity about what those interests actually are.
+
+🎯 **Negotiation Wisdom**
+Sometimes the fastest way to discover what someone truly wants is to ask them to argue for what they don't want.
+
+❓ **Tomorrow's Question** — If forcing someone to argue against their position reveals their true beliefs, what happens when you make them argue against your position while secretly agreeing with their critique, turning their attack into your strongest selling point?`,
+    parable: `The silk merchant's booth gleamed with treasures from distant lands, but Vasska studied the man's eyes rather than his wares. "Tell me, friend," the one-eyed trader began, his silver tongue weaving careful words, "why might a wise merchant like yourself argue that selling me your finest silk at half-price would actually benefit your business?"
+
+The merchant's face twisted in confusion. "Half-price? That's... that's absurd. I'd be ruining myself, destroying the value of—" He stopped mid-sentence, realization dawning. "Ah, I see what you're doing."
+
+But Vasska merely smiled. "Please, humor an old fool. Make the case."
+
+Reluctantly, the merchant began: "Well, I suppose one could argue that moving inventory quickly frees up capital for new purchases, and perhaps the volume discount might..." As the words left his lips, his discomfort grew. "No, no—the real issue isn't price at all. It's that these silks represent six months of careful curation. Their value lies in exclusivity, in the story of their origin. Even at full price, I worry about selling to someone who doesn't understand their true worth."
+
+Ren watched as Vasska's expression shifted to one of deep respect. "Now we understand each other perfectly," the master said. "I'm not looking for cheap silk. I'm looking for a craftsman who values his art as much as his profit."
+
+The negotiation that followed bore little resemblance to the merchant's initial fears.
+
+**Moral:** *When you force someone to defend what they don't believe, they discover what they do—and reveal the true path to agreement.*
+
+*Tomorrow, Ren would learn how even attacks can become advantages when wielded by a master...*`,
+  },
 ];
