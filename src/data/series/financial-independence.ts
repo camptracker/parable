@@ -1487,4 +1487,66 @@ Kael watched as Marcus continued his frantic work while Tobren calmly repaired a
 
 **Tomorrow:** Sable will help Kael understand why our education teaches us to value the wrong kind of effort, and what this means for achieving lasting success.`,
   },
+  {
+    day: 22,
+    title: "The Leverage of Systems",
+    date: "2026-03-13",
+    image: "images/financial-independence/day-22.jpg",
+    audio: "audio/financial-independence/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Leverage of Systems**
+
+While toiling hands grow weary with each day,
+And sweating brows earn coins through endless strain,
+The wise construct what works without delay—
+Systems that harvest sun and capture rain.
+
+The teacher grades each paper, hour by hour,
+Yet textbook written once pays years ahead.
+Hard labor shows impressive, fleeting power,
+But channels carved let rivers earn their bread.
+
+Schools praise the student burning midnight oil,
+Reward the one whose desk stays cluttered late,
+Yet wealth flows not to those who merely toil,
+But builders of the systems that create.
+
+*For gravity works while the wise ones rest,*
+*And compound growth rewards the methodical best.*`,
+    standard: `💰 Day 22: The Leverage of Systems
+
+Our educational system rewards visible effort—homework completed, hours studied, tasks finished—but real wealth often comes from building systems that work without constant intervention. Schools teach us to trade time for grades, preparing us for jobs that trade time for money, yet the wealthiest people create assets and systems that generate returns while they sleep. This reveals a fundamental mismatch between how we're taught to think about success and how financial independence actually works.
+
+🧱 **The Concept**
+True financial leverage comes not from working harder, but from building systems that multiply your efforts over time.
+
+❓ **Why It Matters**
+Most people remain trapped in linear thinking—more hours equals more money—while wealthy individuals focus on exponential systems. Understanding this difference explains why some people work their entire lives without building wealth, while others achieve financial independence by their thirties or forties.
+
+⚙️ **How It Works**
+A teacher works harder by teaching more classes or grading more papers, earning linear returns. But that same teacher who writes a textbook, creates an online course, or invests in dividend-paying stocks creates systems that generate income without additional time investment. Warren Buffett doesn't work harder than other investors—he built a system of buying great businesses at fair prices and letting compound growth do the work. The key is identifying activities that have lasting impact versus those that require constant repetition. Systems thinking asks: "How can I create something once that benefits me repeatedly?" rather than "How can I work more hours?"
+
+🎯 **Buffett Wisdom**
+"I try to buy stock in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will."
+
+❓ **Tomorrow's Question** — If building wealth requires creating systems rather than just working harder, why do most people instinctively resist passive income strategies and feel guilty about money that isn't directly tied to their active labor?`,
+    parable: `The morning mist clung to the village as Kael found Sable tending to an intricate network of irrigation channels that wound through the hillside gardens. Water flowed effortlessly from the mountain spring, nourishing dozens of plots without human intervention.
+
+"Elder," Kael began, "yesterday you spoke of how the wisest farmers succeed by doing less. But doesn't that contradict everything we're taught? In school, Master Jorik rewards those who work longest on their scrolls."
+
+Sable smiled, adjusting a small wooden gate that redirected water flow. "Tell me, young one, who produces more grain—Tobren, who spends his days pulling weeds by hand, or the farmer who once built these channels and now lets gravity do the work?"
+
+Kael watched the water carve its patient path. "The channels do the work now, but surely building them required great effort initially?"
+
+"Indeed," Sable nodded. "But consider the difference. Tobren's effort ends when he stops pulling weeds. These channels work while their builder sleeps, travels, or tends other matters. Your schoolmaster teaches you to trade effort for immediate reward—complete the scroll, receive the mark. But wealth flows to those who build the channels."
+
+A merchant passed by, leading a cart laden with goods from distant markets. Sable gestured toward him. "See how he prospers? Not by carrying more weight on his back, but by creating trade routes others can follow. His wealth multiplies through systems, not sinew."
+
+Kael traced the water's path with his eyes, understanding dawning. "So true success comes not from working harder, but from building something that works without you?"
+
+"The river teaches us," Sable replied, "that the most powerful forces in nature appear effortless, yet shape mountains over time."
+
+**Moral:** True wealth flows from systems that multiply effort, not from efforts that require constant multiplication.
+
+But tomorrow, Kael would discover why most people resist the very systems that could set them free, and what ancient fear keeps them chained to the comfort of constant labor.`,
+  },
 ];

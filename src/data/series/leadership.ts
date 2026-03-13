@@ -958,4 +958,64 @@ As the morning mist lifted, Tova began to see her crew differently—not as prob
 
 *Tomorrow, Greymane will reveal how the most powerful leaders discover hidden strengths in the most unexpected places...*`,
   },
+  {
+    day: 16,
+    title: "The Alchemy of Potential",
+    date: "2026-03-13",
+    image: "images/leadership/day-16.jpg",
+    audio: "audio/leadership/day-16",
+    sonnet: `**🪶 Sonnet XVI: The Alchemy of Potential**
+
+Beneath the surface of each quiet soul
+Lie talents waiting for the light of day,
+Unchosen gifts that could transform the whole
+If leaders learned to see beyond display.
+
+The awkward youth who stumbles with routine
+May harbor wisdom none have thought to seek,
+While she who seems too gentle and serene
+Could guide with strength that makes the mighty meek.
+
+We judge by what our narrow vision sees,
+By current roles and yesterday's mistakes,
+Not knowing how potential disagrees
+With present form that limitation makes.
+
+*Great leaders mine the gold of hidden worth,*
+*And bring what sleeps in darkness into birth.*`,
+    standard: `👥 Day 16: The Alchemy of Potential
+
+Uncovering hidden strengths requires abandoning the myth that people are static—instead of looking for what someone cannot do, we must become archeologists of ability, asking what conditions, challenges, or collaborations might reveal capabilities that current roles never demand. This means abandoning assumptions about "natural talent" and recognizing that most strengths emerge only when the right environment, trust, and opportunity converge.
+
+🧱 **The Concept**
+Great leaders don't just manage existing capabilities—they become alchemists who transform hidden potential into visible performance.
+
+❓ **Why It Matters**
+Most organizations operate at a fraction of their true capacity because leaders manage people based on current performance rather than latent possibility. When we unlock one person's hidden strength, it often catalyzes discoveries in others, creating an exponential effect that transforms entire teams.
+
+⚙️ **How It Works**
+The alchemy of potential requires three elements: **exposure** (putting people in unfamiliar situations where new abilities might surface), **inquiry** (asking "What energizes you that you rarely get to do?" rather than "What are you good at?"), and **experimentation** (creating low-risk opportunities to test emerging capabilities). For example, the quiet analyst might reveal strategic thinking when asked to solve a complex problem, or the detail-oriented coordinator might show leadership potential when given a small team to guide. Leaders who practice this alchemy watch for moments when someone's eyes light up during discussions, pay attention to the problems people solve in their spare time, and notice what colleagues naturally turn to certain individuals for help with.
+
+🎯 **Leadership Wisdom**
+The greatest leaders don't just utilize talent—they midwife it into existence by creating conditions where hidden strengths can safely emerge.
+
+❓ **Tomorrow's Question** — If you discovered that the biggest obstacle to your team's potential wasn't external competition or resource constraints, but the invisible barriers created by people's fear of disappointing you, how would this change the way you respond to both their successes and their failures?`,
+    parable: `Captain Tova found Greymane studying the crew roster in the moonlight, his weathered fingers tracing names like a cartographer mapping uncharted territories.
+
+"You're looking at them wrong," he said without glancing up. "You see Hendricks as clumsy because he stumbled with the rigging yesterday. But did you notice how he instinctively steadied young Marcus when the ship lurched? That's not clumsiness—that's protective awareness."
+
+Tova frowned. "But his rope work—"
+
+"Is terrible, yes. But have you seen him during storms? He moves through chaos like he was born to it, anticipating problems before they manifest." Greymane set down the roster. "I once had a sailor everyone called 'Whisper Tom' because he barely spoke above a murmur. Seemed useless in our loud, chaotic world. Then we faced a diplomatic crisis in foreign waters, and I discovered his quiet manner made others lean in to listen. His whispers carried more weight than all our shouting combined."
+
+The old admiral stood, his eyes reflecting starlight. "Every person carries capabilities they've never had reason to reveal. Your job isn't to manage what you can see—it's to create conditions for discovering what lies hidden. Give Hendricks responsibility for crew safety during storms. Ask quiet Sarah to negotiate with the next port authority instead of assuming she lacks the presence for it."
+
+"But what if they fail?" Tova asked.
+
+"Then you'll learn something valuable about them—and yourself." Greymane smiled. "The greatest treasures are buried deepest, Captain. Start digging."
+
+**Moral**: True leadership transforms potential into performance by creating safe spaces for hidden strengths to emerge.
+
+*Tomorrow: Greymane reveals why the crew's greatest fear might be the very thing preventing their greatness...*`,
+  },
 ];

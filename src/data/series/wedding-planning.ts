@@ -741,4 +741,62 @@ As if summoned by his words, a gentle breeze stirred the "wrong" peonies, and th
 
 *Tomorrow, we'll explore what it means to plan for connection rather than perfection—and discover why the most memorable weddings often include the most unexpected moments.*`,
   },
+  {
+    day: 13,
+    title: "The Sacred Vows",
+    date: "2026-03-13",
+    image: "images/wedding-planning/day-13.jpg",
+    audio: "audio/wedding-planning/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Sacred Vows**
+
+Not pretty words that float on wedding air,
+Nor promises that sound like borrowed song,
+But vows that speak to who you really are,
+And hold you steady when the path grows long.
+
+To love the actual human by your side,
+With all their morning grouchiness and doubt,
+To choose them when the honeymoon has died,
+And boring Tuesdays test what love's about.
+
+These sacred words become your married creed,
+Not poetry to make the guests all sigh,
+But concrete promises for times of need,
+The covenant that won't let love just die.
+
+*For vows are doorways only you walk through,*
+*Where "I" transforms forever into "we" and "you."*`,
+    standard: `💍 Day 13: The Sacred Vows
+
+🧱 **The Concept**
+Your wedding vows are the only words that will legally and spiritually transform you from individuals into married partners.
+
+❓ **Why It Matters**
+Everything else at your wedding is decoration, but your vows are the actual doorway you walk through together. They're not a performance for your guests—they're promises you'll return to in your hardest and most joyful moments. The question isn't whether your vows sound beautiful to others, but whether they create a true covenant between you two.
+
+⚙️ **How It Works**
+Consider writing vows that speak to your specific relationship rather than generic promises. Instead of "I promise to love you forever," try "I promise to choose curiosity over judgment when we disagree." Rather than "in sickness and in health," maybe "I promise to hold space for your grief and amplify your joy." Your vows should address the actual human you're marrying, not the theoretical spouse from wedding magazines. Some couples write them together, some separately, some choose one meaningful reading—but all authentic vows acknowledge both the beauty and the challenge of the commitment you're making.
+
+🎯 **Wedding Wisdom**
+Your vows are the only part of your wedding that will still matter on your fiftieth anniversary.
+
+❓ **Tomorrow's Question** — If you could only make three specific, concrete promises to your partner that you're confident you can keep even during your most difficult seasons together, what would they be, and what do those promises reveal about the difference between romantic idealism and mature commitment?`,
+    parable: `Dove sat at her kitchen table, surrounded by crumpled papers and her laptop screen filled with "Perfect Wedding Vow Examples." Each attempt felt hollow, like wearing someone else's dress.
+
+"I keep writing things that sound like greeting cards," she confessed to Elm, who was quietly reading beside her. "'I promise to love you through all seasons'—what does that even mean?"
+
+Elm looked up from his own notebook, where he'd been scribbling and crossing out lines for hours. "I know what you mean. I wrote 'I promise to support your dreams,' but honestly? What if your dreams change? What if they conflict with mine?"
+
+Nana Rose arrived for their appointment carrying a worn leather journal. "Fifty years of weddings," she said, settling into their couch, "and I can tell you that the vows people remember aren't the prettiest ones. They're the ones that proved true."
+
+She opened her journal to a page marked with a dried flower. "Listen to these: 'Sarah, I promise to learn your new language of grief when we lose people we love, because I know you'll grieve differently than I do.' 'Marcus, I promise to interrupt you when you're being too hard on yourself, even when it annoys you.' 'Jennifer, I promise to keep choosing this conversation we're having, especially when it gets difficult.'"
+
+Dove felt something shift. "Those are so... specific."
+
+"Because love is specific," Nana Rose smiled. "Generic promises are easy to make and easy to break. But when you promise to do something concrete for the actual person you're marrying—not the perfect spouse you imagine—that's when vows become sacred."
+
+**Moral:** True vows are not declarations of perfect love, but promises made by imperfect people to love with intention and specificity.
+
+*Tomorrow, we'll explore what happens when the promises you make must be strong enough to survive the seasons when you don't feel like keeping them...*`,
+  },
 ];

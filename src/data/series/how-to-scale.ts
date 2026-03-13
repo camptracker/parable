@@ -1011,4 +1011,68 @@ Vex nodded slowly, understanding dawning. "So the city grew faster because it re
 
 *Tomorrow, Ironmere will reveal why he deliberately burned entire sections of the city's archives—and why forgetting can be as powerful as remembering.*`,
   },
+  {
+    day: 17,
+    title: "The Strategic Amnesia Principle",
+    date: "2026-03-13",
+    image: "images/how-to-scale/day-17.jpg",
+    audio: "audio/how-to-scale/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Strategic Amnesia Principle**
+
+To build tomorrow's towers, we must burn
+The blueprints that once served us in the past,
+For yesterday's solutions make us learn
+That breakthrough requires forgetting fast.
+
+The architect who clings to proven ways
+Will never glimpse what lies beyond the known,
+While those who torch their hard-won expertise blaze
+New paths where innovation can be grown.
+
+Strategic amnesia clears the cluttered mind
+Of methods that once sparked but now constrain,
+Creating space where fresh solutions find
+The room to revolutionize the game.
+
+*When memory becomes our mental cage,
+*Forgetting writes the next transforming page.`,
+    standard: `🚀 Day 17: The Strategic Amnesia Principle
+
+Innovative companies deliberately forget portions of their history because past solutions can become cognitive prisons that prevent breakthrough thinking. Strategic amnesia creates space for radical reimagining, while selective memory preservation maintains only the core principles that truly matter. This conscious forgetting is actually a form of institutional rebirth.
+
+🧱 **The Concept**
+Strategic amnesia is the deliberate practice of organizational forgetting—systematically letting go of outdated processes, obsolete assumptions, and legacy constraints that no longer serve the company's evolution.
+
+❓ **Why It Matters**
+As companies scale, they accumulate institutional baggage that can prevent necessary pivots and innovations. The most successful organizations learn to forget strategically while remembering selectively. This creates cognitive space for breakthrough solutions that wouldn't emerge if teams remained anchored to historical approaches.
+
+⚙️ **How It Works**
+Amazon regularly "forgets" how they used to do logistics to reimagine distribution from scratch—leading to innovations like drone delivery and one-day shipping. Netflix deliberately forgot their DVD expertise to reinvent entertainment streaming, then forgot streaming assumptions to pioneer original content. Tesla forgot automotive industry "best practices" to reimagine manufacturing and sales. These companies preserve their core mission while strategically amnesia-ing the methods that got them there. The key is creating systematic processes for organizational forgetting: regular strategy resets, assumption audits, and "clean slate" thinking exercises.
+
+🎯 **Scaling Wisdom**
+**Strategic amnesia** isn't about losing valuable knowledge—it's about creating cognitive space for quantum leaps that incremental improvement can never achieve.
+
+❓ **Tomorrow's Question** — If strategic amnesia creates such powerful breakthroughs, why do the most successful companies simultaneously invest heavily in capturing and institutionalizing the very knowledge they plan to forget?`,
+    parable: `Vex stood in Ironmere's study, surrounded by towering shelves filled with architectural blueprints, engineering treatises, and detailed chronicles of every structure the old master had ever designed. Yet as he watched, Ironmere methodically fed stack after stack of documents into a crackling fire.
+
+"Master!" Vex cried out. "Those plans represent decades of wisdom—the secrets of how you built the great aqueducts, the innovative bridge designs, the revolutionary foundations that still stand strong!"
+
+Ironmere paused, a thick bundle of blueprints in his weathered hands. "Tell me, young builder—if I gave you these exact plans for a bridge I designed thirty years ago, what would you build?"
+
+"The same bridge, of course. Following your proven methods."
+
+"Precisely." The old architect smiled sadly as he consigned another set of plans to the flames. "And what would you never build?"
+
+Vex watched the papers curl and blacken. "Something... new?"
+
+"When I designed that aqueduct," Ironmere continued, "I solved the problems of that time with the materials and knowledge available then. But holding onto those solutions too tightly would have prevented me from discovering that underground channels could carry three times the water with half the stone. My greatest innovations came not from remembering my past successes, but from having the courage to forget them when they limited my vision."
+
+He gestured to a small chest in the corner. "I keep only the principles here—the fundamental truths about load and stress, about how water flows and stone endures. Everything else..." Another stack hit the fire. "Everything else must be forgotten so that something greater can emerge."
+
+Vex understood now why his own small workshop felt so constrained. He'd been trying to perfect yesterday's methods instead of inventing tomorrow's solutions.
+
+**Moral:** Strategic forgetting is not about losing wisdom, but about creating space for wisdom to evolve beyond its previous forms.
+
+**Tomorrow:** But if forgetting creates breakthroughs, why do the wisest architects also become the most meticulous chroniclers?`,
+  },
 ];
