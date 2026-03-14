@@ -539,4 +539,66 @@ Orna nodded solemnly. "When we teach materials to make themselves, we become gar
 
 **Tomorrow**: Finn will witness a system that not only replicates but improves upon itself with each generation.`,
   },
+  {
+    day: 10,
+    title: "The Evolutionary Engine",
+    date: "2026-03-14",
+    image: "images/3d-printing/day-10.jpg",
+    audio: "audio/3d-printing/day-10",
+    sonnet: `**🪶 Sonnet X: The Evolutionary Engine**
+
+What springs from silicon dreams when machines learn
+To birth their progeny with purpose true?
+Each generation builds what circuits yearn—
+Forms that surpass what mortal minds once drew.
+
+The printer hums through algorithmic nights,
+Testing ten thousand variations' worth,
+While evolution's digital delights
+Bring forth designs of unexpected birth.
+
+No human hand could craft such subtle grace,
+These latticed bones that bend reality,
+Where mathematics meets organic space
+And function dances with complexity.
+
+*When man and machine in partnership create,*
+*The future's form exceeds what we anticipate.*`,
+    standard: `🖨️ Day 10: The Evolutionary Engine
+
+When self-replicating systems begin improving themselves, we witness the emergence of evolutionary manufacturing — where machines not only copy themselves but also test variations, retain successful modifications, and discard failures. This process can iterate thousands of times faster than human-directed innovation, creating a feedback loop where each generation of manufacturing systems becomes more capable than the last, fundamentally challenging our role as the primary drivers of technological progress.
+
+**🧱 The Concept**
+Evolutionary manufacturing uses computational evolution to continuously optimize both the objects being printed and the printing processes themselves.
+
+**❓ Why It Matters**
+This represents a shift from human-designed manufacturing to machine-evolved manufacturing, where printers can automatically discover new techniques, materials combinations, and design solutions that humans might never conceive. It transforms 3D printing from a tool that executes our designs into a partner that can surpass our creative limitations.
+
+**⚙️ How It Works**
+The system starts with a base design and randomly generates thousands of variations — changing layer heights, infill patterns, support structures, and even material mixing ratios. Each variant is printed and tested against specific criteria like strength, weight, or flexibility. The best-performing designs become parents for the next generation, with their successful traits combined and mutated further. For example, a bracket might evolve from a simple geometric form into an organic lattice structure that's 40% lighter yet twice as strong, using material gradients and internal architectures no human engineer would have imagined. Some systems even evolve their own printing parameters, discovering new ways to move the print head or adjust temperatures that improve quality beyond manufacturer specifications.
+
+**🎯 Maker Wisdom**
+The most powerful designs emerge not from our imagination alone, but from the marriage of human intention with machine exploration.
+
+**❓ Tomorrow's Question** — If machines can evolve designs beyond human comprehension, what happens when those evolved objects begin interacting with the natural world in ways their creators never intended — and how do we maintain responsibility for outcomes we cannot predict?`,
+    parable: `Finn found Orna in her workshop at dawn, staring at a peculiar sight: dozens of small mechanical birds perched throughout the space, each slightly different from the others. Some had longer wings, others different beak shapes, and a few bore patterns he'd never seen before.
+
+"They're beautiful," Finn whispered, "but how did you make so many variations?"
+
+Orna smiled, pointing to a sophisticated printer humming in the corner. "I didn't make them all, dear boy. I taught the machine to dream."
+
+She explained how she had programmed the printer with the basic blueprint of a bird and a simple goal: fly better. "Each night, it prints a new flock. In the morning, we test their flight — which ones soar highest, turn sharpest, or glide longest. The machine remembers the winners and uses their traits to create the next generation."
+
+Finn watched as several birds took flight, their movements graceful and purposeful. "But some of these designs... they're nothing like what I'd expect a bird to look like."
+
+"Exactly!" Orna's eyes sparkled. "That one there discovered that hollow bones could be filled with a lattice structure I never would have conceived. And that blue one? It evolved wing joints that bend in ways that violate everything I thought I knew about aerodynamics — yet it flies better than any of my hand-designed birds ever did."
+
+As if on cue, a new bird emerged from the printer — its form alien yet elegant, incorporating lessons learned from generations of flight trials.
+
+"The machine has become my partner in creation," Orna mused. "I provide the vision and constraints; it provides the exploration and discovery. Together, we achieve what neither could alone."
+
+Moral: The greatest innovations emerge when human wisdom guides machine exploration, allowing artificial evolution to discover solutions beyond our individual imagination.
+
+But Finn wondered: what would happen when these evolved creatures began interacting with the real world in ways no one had planned for?`,
+  },
 ];

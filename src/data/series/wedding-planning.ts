@@ -799,4 +799,62 @@ Dove felt something shift. "Those are so... specific."
 
 *Tomorrow, we'll explore what happens when the promises you make must be strong enough to survive the seasons when you don't feel like keeping them...*`,
   },
+  {
+    day: 14,
+    title: "The Sacred Music",
+    date: "2026-03-14",
+    image: "images/wedding-planning/day-14.jpg",
+    audio: "audio/wedding-planning/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Sacred Music**
+
+What melodies shall guide your sacred hour,
+When hearts unite beneath love's gentle reign?
+Not borrowed notes that lack authentic power,
+But songs that make your very spirits' strain.
+
+Let violins sing truths you cannot speak,
+Let piano keys unlock your deepest dream,
+Choose harmonies that make the strong hearts weak,
+And weave your love into each sacred theme.
+
+For music holds what words alone cannot—
+The essence of your journey, joy, and tears,
+Each note a thread within your wedding's plot,
+A soundtrack for your love throughout the years.
+
+*When silence falls and guests have gone away,*
+*These melodies will echo from this day.*`,
+    standard: `💍 Day 14: The Sacred Music
+
+Those three concrete promises likely center on presence, kindness, and growth—being there consistently, speaking with respect even in conflict, and choosing to work through difficulties together rather than walking away. These promises reveal that mature commitment isn't about never struggling, but about how you'll handle the struggles when they inevitably come.
+
+🧱 **The Concept**
+Your wedding music isn't background decoration—it's the emotional architecture that guides your guests through the sacred journey of your ceremony and celebration.
+
+❓ **Why It Matters**
+Music has the power to transform a room full of individuals into a unified community experiencing the same emotional moment. The wrong musical choices can make your ceremony feel generic or disconnected, while thoughtful selections create an atmosphere where your love story becomes tangible for everyone present.
+
+⚙️ **How It Works**
+Start by identifying the emotional journey you want to create: perhaps quiet anticipation as guests arrive, building excitement during the processional, sacred intimacy during vows, joyful celebration during the recessional. Choose pieces that genuinely move you rather than what's expected—maybe your grandmother's favorite hymn instead of "Here Comes the Bride," or the song that was playing during your first dance in your kitchen. Consider the acoustics of your venue, the skill level of your musicians, and whether lyrics support or distract from your ceremony's flow. Your reception music should reflect your personalities and invite the specific kind of celebration you want—whether that's elegant dancing, relaxed mingling, or energetic party atmosphere.
+
+🎯 **Wedding Wisdom**
+The right music doesn't just accompany your wedding—it becomes part of your love story, creating a soundtrack that will instantly transport you back to these sacred moments for the rest of your lives.
+
+❓ **Tomorrow's Question** — If you could only communicate your relationship's story through the progression of songs at your wedding (from ceremony to last dance), what musical journey would tell that story most truthfully, and what does that reveal about the narrative arc you want your entire celebration to follow?`,
+    parable: `Dove stood before Nana Rose's old piano, overwhelmed by the mountain of sheet music spread across its mahogany surface. "There are so many traditions," she whispered, fingering the pages of "Canon in D" and "Wedding March." "Everyone expects certain songs, but some of them make me feel nothing at all."
+
+Elm picked up a worn piece of music from the corner—a simple folk song his grandmother used to hum while gardening. "This reminds me of you," he said softly. "When you're happy and think no one's watching."
+
+Nana Rose smiled, her weathered hands finding a gentle melody on the keys. "Music is memory made audible, dear ones. I've watched couples choose songs because magazines told them to, only to realize years later they can't bear to hear their 'special' music because it never felt special to begin with." Her fingers shifted to a different tune—something familiar yet unnamed. "But I've also seen a bride walk down the aisle to her grandfather's jazz composition, bringing half the congregation to tears because love was literally in the air."
+
+Dove closed her eyes as the melody filled the room. "It's not about impressing people, is it?"
+
+"No, little dove. It's about creating a sacred space where your love becomes music, and music becomes memory. Choose songs that make your hearts sing, not your critics applaud."
+
+Elm took Dove's hand as the last notes faded. "Our wedding should sound like us."
+
+**Moral:** The most beautiful wedding music isn't necessarily the most traditional or technically perfect—it's the music that transforms your celebration into a living song of your unique love story.
+
+*Tomorrow, Nana Rose will reveal the art of creating celebration that flows like a perfect composition...*`,
+  },
 ];

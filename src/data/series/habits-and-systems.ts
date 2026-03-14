@@ -987,4 +987,62 @@ Rook looked at the elaborate setup, then quietly picked up a single stone.
 
 *Tomorrow, Cairn will show Rook how to grow beyond current limitations without abandoning authentic self-expression...*`,
   },
+  {
+    day: 17,
+    title: "The Growth Edge",
+    date: "2026-03-14",
+    image: "images/habits-and-systems/day-17.jpg",
+    audio: "audio/habits-and-systems/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Growth Edge**
+
+Within the seed lies not the foreign tree,
+But what the buried essence yearns to be.
+The oak grows tall by trusting root and loam,
+Not forcing shapes that feel unlike its home.
+
+So habits thrive when built on what we are—
+Our natural leans made visible and clear.
+The restless soul need not reach quite so far
+To find the growth that's always dwelling near.
+
+Observe the moments when your true self shows:
+When kindness flows without a conscious thought,
+When focus comes as easily as breath,
+When strength emerges from what can't be taught.
+
+*These glimpses hold tomorrow's fuller form—*
+*Authentic growth rides the existing storm.*`,
+    standard: `🧘 Day 17: The Growth Edge
+
+Authentic growth happens not by rejecting who we are, but by finding the natural expansion points within our existing identity—those moments where our current self already leans toward something more. We grow by amplifying what's already emerging rather than forcing what feels foreign.
+
+🧱 **The Concept**
+True habit formation finds the intersection between who you are now and who you're naturally becoming, working with your existing patterns rather than against them.
+
+❓ **Why It Matters**
+Most habit change fails because we try to install behaviors that contradict our core identity. When we force habits that feel foreign, we create internal resistance that eventually overwhelms willpower. Growth happens most sustainably when we identify the seeds of change already present within us.
+
+⚙️ **How It Works**
+Start by observing moments when your desired behavior feels effortless or natural—perhaps you already read when anxious, move when frustrated, or organize when stressed. These existing patterns reveal your authentic pathways for growth. Instead of forcing yourself to meditate every morning if you hate mornings, build on the fact that you already pause thoughtfully before difficult conversations. Instead of forcing yourself to exercise if you hate gyms, amplify your existing tendency to pace when thinking. The most sustainable habits are extensions of behaviors you already do, just redirected toward your goals.
+
+🎯 **Systems Wisdom**
+Authentic habits grow from existing patterns, not against them—find where you're already leaning and lean further.
+
+❓ **Tomorrow's Question** — If our most sustainable habits emerge from patterns we're already expressing unconsciously, what happens when we become too aware of and analytical about behaviors that previously flowed naturally and automatically?`,
+    parable: `Rook found Cairn by the quarry, watching apprentices struggle with their first cuts into granite. "Look how they fight the stone," Rook observed. "They're trying to force their vision instead of finding what the rock wants to become."
+
+Cairn nodded, running his weathered fingers along a piece of marble. "I spent years doing the same—imposing my will, breaking more stone than I shaped. Then I learned to read the grain, to feel where the marble already wanted to split."
+
+"But how do you grow beyond what the stone naturally wants?" Rook asked, gesturing to one of Cairn's intricate sculptures. "That's far more complex than what the marble suggested."
+
+"Watch," Cairn said, selecting a fresh block. He traced invisible lines with his finger, following the natural veins and patterns. "The marble doesn't tell me what to carve—it tells me how to carve. The vision comes from me, but I must work with the stone's nature, not against it."
+
+He made the first cut, and Rook saw how the chisel followed the existing stress lines. "I'm still creating something new, but I'm building on what already exists. The stone has natural breaking points—I just choose which ones to follow toward my destination."
+
+One apprentice nearby had abandoned brute force and was now studying his stone, feeling for its hidden architecture.
+
+**Moral**: Growth comes not from fighting your nature, but from finding where your nature already points toward your aspirations.
+
+*Tomorrow, Cairn will show Rook what happens when the apprentice becomes too conscious of the stone's grain...*`,
+  },
 ];

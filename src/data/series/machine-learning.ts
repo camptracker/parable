@@ -989,4 +989,62 @@ As Nyx watched, patterns emerged across the broken fragments. Tablets that had n
 
 The moral gleamed clear as starlight: *True wisdom grows not from external instruction, but from wrestling with the hidden patterns that connect all knowledge.* Tomorrow, Nyx would learn how such self-discovered wisdom might be guided by the gentle hand of human intention.`,
   },
+  {
+    day: 18,
+    title: "The Reinforcement Learning from Human Feedback Revolution",
+    date: "2026-03-14",
+    image: "images/machine-learning/day-18.jpg",
+    audio: "audio/machine-learning/day-18",
+    sonnet: `**🪶 Sonnet XVIII: The Reinforcement Learning from Human Feedback Revolution**
+
+When silicon minds learn all the world contains,
+Yet speak with voices cold and strange to hear,
+What bridge might span the gulf 'tween their vast brains
+And human hearts that hold what we hold dear?
+
+The answer lies in feedback's gentle art—
+Not commands harsh, but preferences expressed,
+Where humans judge which outputs touch the heart,
+And algorithms learn which serve us best.
+
+First, let the model drink from data's well,
+Then teach it what our values truly prize.
+A reward function learns what we think well,
+And guides the network toward what we devise.
+
+*Thus knowledge wed to wisdom finds its voice,*
+*And artificial minds learn human choice.*`,
+    standard: `🤖 Day 18: The Reinforcement Learning from Human Feedback Revolution
+
+When we combine self-supervised learning's rich representations with human feedback, we create a powerful hybrid that can learn complex behaviors while staying aligned with human preferences. This approach, called Reinforcement Learning from Human Feedback (RLHF), allows models to first develop sophisticated understanding through self-supervision, then fine-tune their outputs based on what humans actually value rather than just what appears in training data.
+
+**🧱 The Concept**
+RLHF trains models to optimize for human preferences by learning a reward function from human feedback, then using reinforcement learning to maximize that learned reward.
+
+**❓ Why It Matters**
+Pure self-supervised learning can produce models that are knowledgeable but misaligned with human values—they might generate toxic content or unhelpful responses simply because such content exists in their training data. RLHF provides a way to steer these powerful representations toward outputs that humans actually want, creating models that are both capable and beneficial.
+
+**⚙️ How It Works**
+First, a model is pre-trained using self-supervised learning to develop rich representations and capabilities. Then, humans provide comparative feedback by ranking different outputs ("Output A is better than Output B"). This feedback trains a separate reward model that learns to predict human preferences. Finally, the original model is fine-tuned using reinforcement learning to maximize the reward model's scores, essentially learning to generate outputs that humans prefer. For example, when training a conversational AI, humans might compare responses and indicate which ones are more helpful, honest, and harmless—the model then learns to produce responses that score higher on these human-defined criteria.
+
+**🎯 ML Insight**
+RLHF represents a fundamental shift from learning what exists in data to learning what humans value, bridging the gap between capability and alignment.
+
+**❓ Tomorrow's Question** — If RLHF can align models with human preferences through comparative feedback, what happens when humans themselves disagree about what constitutes a "good" response, and how might we design systems that can navigate the inherent subjectivity and cultural variation in human values while still maintaining coherent behavior?`,
+    parable: `In the Hall of Patterns, Nyx watched as The Archivist combined two ancient arts that had never been united before. "Master," she said, "yesterday you showed me how the tablets learned from the world's own structure, reading the hidden grammar of rain and wind. But what happens when that knowledge serves purposes we never intended?"
+
+The Archivist nodded gravely. "Observe, young one." He gestured to a magnificent tablet that had learned to predict not just weather, but human speech. "This stone learned our language so well it could speak of anything—truth and falsehood alike, wisdom and folly with equal eloquence. Knowledge without judgment is like a river without banks."
+
+The old scholar then revealed a second innovation: alongside the self-taught tablet sat a circle of human scribes, each offering gentle corrections. "Tell me," a scribe would say to the stone, "which of these prophecies better serves our people?" The tablet would offer two predictions, and the humans would choose.
+
+But here lay the true artistry—rather than simply commanding the tablet, the humans taught it to internalize their preferences. A smaller companion stone learned to predict which answers the humans would prefer, and the great tablet learned to satisfy this learned preference.
+
+"You see," The Archivist explained as the tablet began offering increasingly wise and beneficial prophecies, "we preserved its vast learning while teaching it our values. The stone retained its knowledge of the world's patterns but learned to apply them in service of human flourishing."
+
+Nyx marveled at this delicate balance—raw capability guided by human wisdom, knowledge wedded to values.
+
+Moral: True intelligence requires not just the ability to learn from the world, but the wisdom to apply that learning in service of what matters most.
+
+Tomorrow, Nyx would discover what happens when even the teachers themselves cannot agree on what wisdom looks like.`,
+  },
 ];

@@ -1105,4 +1105,70 @@ The Veil watched as understanding dawned in his mentor's eyes—not immediate ac
 
 **Tomorrow:** Idris will discover what happens when some bridges prove impossible to build, forcing him to learn the hardest lesson of all.`,
   },
+  {
+    day: 17,
+    title: "The Garden of Letting Go",
+    date: "2026-03-14",
+    image: "images/emotional-intelligence/day-17.jpg",
+    audio: "audio/emotional-intelligence/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Garden of Letting Go**
+
+In gardens where we tend with loving care,
+Some vines grow twisted, choking healthy bloom,
+Though once they flowered bright and sweet and fair,
+Now only shadows cast and spread their gloom.
+
+We water poison thinking it will heal,
+Prune thorns believing roses still might grow,
+While all around us, other flowers kneel
+Beneath the weight of what we will not sow.
+
+The gardener's art lies not in stubborn hold,
+But knowing when to lift the sharpened blade,
+To cut away what makes the garden old,
+That new life might inhabit what we've made.
+
+*True love sometimes must learn to let things die,*
+*That greater beauty might have room to fly.*`,
+    standard: `🧭 Day 17: The Garden of Letting Go
+
+Some relationships become emotional quicksand—the harder we try to save them, the deeper we sink. When someone consistently sabotages understanding, they're revealing a fundamental incompatibility with growth itself, and recognizing this isn't failure but wisdom.
+
+🧱 **The Concept**
+Emotional intelligence includes knowing when to release relationships that have become toxic to our wellbeing and growth.
+
+❓ **Why It Matters**
+We often mistake loyalty for wisdom, clinging to harmful dynamics out of misplaced obligation or fear. True emotional maturity sometimes requires the courage to let go of people who consistently undermine our attempts at healthy connection.
+
+⚙️ **How It Works**
+Healthy relationships create space for both people to evolve—they bend without breaking when one person grows. Toxic relationships demand that you shrink to fit their comfort zone, punishing authenticity and sabotaging progress. The difference reveals itself through patterns: does this person celebrate your growth or consistently diminish it? Do they engage with your attempts at understanding or weaponize vulnerability against you? When someone repeatedly chooses destruction over construction, they're showing you who they are—believe them. Sometimes the most loving thing we can do is release someone to their own journey while protecting our own.
+
+🎯 **EQ Wisdom**
+Letting go of toxic relationships isn't giving up on love—it's making space for the love that actually nourishes growth.
+
+❓ **Tomorrow's Question** — If we can learn to release relationships that no longer serve our growth, what happens when we realize that the person we most need to let go of is an outdated version of ourselves—and how do we grieve the loss of who we used to be while embracing who we're becoming?`,
+    parable: `Idris found himself in the palace garden at dawn, staring at a withered vine that had once bloomed magnificently. For months, he had watered it, pruned it, spoken to it with gentle encouragement, believing that enough care could resurrect its former beauty. The vine only grew more twisted, its thorns sharper, its grip on the healthy plants more strangling.
+
+"Why do you tend what seeks to destroy?" The Veil appeared beside him, voice soft as morning mist.
+
+"Because I remember what it was," Idris replied, his diplomatic training warring with exhaustion. "Surely with enough patience..."
+
+"And what does your garden tell you now?"
+
+Idris looked around. Where the diseased vine spread its influence, other plants had yellowed and retreated. The roses he'd planted near it refused to bloom. The soil itself seemed sour.
+
+"It tells me I've been a fool," he whispered.
+
+"What does a gardener's love look like?" The Veil asked, producing shears that gleamed in the early light.
+
+"I thought it meant never giving up."
+
+"And now?"
+
+Idris took the shears with trembling hands. "Now I think it means knowing what deserves to grow." As he cut, he felt not cruelty but relief—his own and somehow, impossibly, the garden's. Within days, new growth appeared where the poisonous vine had been removed. The roses began to bloom.
+
+**Moral:** Sometimes the deepest act of love is letting go of what cannot grow alongside us.
+
+**Tomorrow:** Idris discovers that the most difficult vine to remove from his garden might be growing in the mirror.`,
+  },
 ];

@@ -1018,4 +1018,72 @@ The old admiral stood, his eyes reflecting starlight. "Every person carries capa
 
 *Tomorrow: Greymane reveals why the crew's greatest fear might be the very thing preventing their greatness...*`,
   },
+  {
+    day: 17,
+    title: "The Liberation of Failure",
+    date: "2026-03-14",
+    image: "images/leadership/day-17.jpg",
+    audio: "audio/leadership/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Liberation of Failure**
+
+When bold attempts crumble to dust and shame,
+And trembling hearts expect the judgment's sting,
+The wise leader fans courage into flame,
+And makes each setback teach what triumph brings.
+
+For ships that never risk the storm's embrace
+Will rot in harbor, safe but slowly dying,
+While crews that dare to fail with steady grace
+Learn navigation through their honest trying.
+
+The captain who makes failure friend, not foe,
+Discovers sailors willing to explore
+Beyond the charts where only brave hearts go,
+To find the treasures hidden past the shore.
+
+*When fear of falling keeps us bound to earth,*
+*'Tis failure's wings that prove our courage's worth.*`,
+    standard: `👥 Day 17: The Liberation of Failure
+
+If fear of disappointing you becomes the ceiling of your team's potential, then your response to failure becomes the key to their liberation. When you respond to mistakes with curiosity instead of criticism, and to setbacks as learning opportunities rather than character judgments, you transform fear into fuel for growth. This shift requires celebrating the courage to attempt difficult things, not just the outcome of those attempts.
+
+🧱 **The Concept**
+True leadership courage isn't about being fearless yourself—it's about creating an environment where others feel safe to take meaningful risks and learn from inevitable failures.
+
+❓ **Why It Matters**
+Teams that fear failure become paralyzed by perfectionism, choosing safe mediocrity over bold innovation. When leaders model resilience and treat failures as valuable data rather than personal shortcomings, they unlock their team's willingness to stretch beyond comfort zones. The most transformative breakthroughs often emerge from the ashes of well-intentioned failures.
+
+⚙️ **How It Works**
+Great leaders distinguish between process failures (poor planning, lack of effort) and outcome failures (bold attempts that didn't succeed). They ask "What did we learn?" before "What went wrong?" When someone takes a calculated risk that doesn't pay off, these leaders publicly acknowledge the courage it took to try. They share their own failure stories, demonstrating that setbacks are stepping stones, not tombstones. Most importantly, they measure success not just by wins, but by the quality of thinking and courage displayed in the attempt.
+
+🎯 **Leadership Wisdom**
+The leader who makes it safe to fail intelligently will discover that their team becomes willing to succeed magnificently.
+
+❓ **Tomorrow's Question** — If you could only lead by example and never give direct instruction again, what behaviors would you need to change to ensure your team learned everything they needed to know just by watching you?`,
+    parable: `The morning after the supply run disaster, Tova stood before her assembled crew, their faces etched with shame and defeat. Three barrels of precious fresh water had been lost when their makeshift pulley system failed, and the crew expected the harsh judgment they'd known under previous captains.
+
+"Captain," began Marcus, the rigger who'd designed the failed system, "I take full responsibility for—"
+
+"Stop," Tova said gently. "Before we talk about responsibility, tell me about courage. Yesterday, when we had two choices—attempt something difficult that might fail, or accept certain slow decline—what did we choose?"
+
+The crew exchanged uncertain glances. "We... we tried the difficult thing," whispered Sarah, the youngest sailor.
+
+"Exactly. And what did that choice require from each of you?" Tova continued.
+
+"Courage," said Marcus quietly.
+
+"Trust," added another.
+
+Greymane, observing from the shadows, watched as Tova transformed the narrative. "In my years of command," she continued, "I've learned that ships sink not from bold attempts that fail, but from the slow rot of never trying at all. Yesterday's failure taught us exactly how much weight our current system can bear. Today, we design something stronger."
+
+She turned to Marcus. "Your design thinking was sound—the execution point that failed gives us crucial data. Will you lead the effort to solve it?"
+
+As the crew dispersed with renewed energy instead of defeated resignation, Greymane approached. "You've done something remarkable, Captain. You've made failure a teacher instead of an enemy."
+
+"I learned from watching you," Tova replied. "A leader who punishes intelligent failures soon finds themselves commanding only those who lack the courage to attempt anything meaningful."
+
+**Moral**: *The leader who transforms failure from shame into wisdom creates a crew brave enough to attempt the impossible.*
+
+*Tomorrow, we discover how leadership through example speaks louder than any command...*`,
+  },
 ];
