@@ -601,4 +601,57 @@ Moral: The greatest innovations emerge when human wisdom guides machine explorat
 
 But Finn wondered: what would happen when these evolved creatures began interacting with the real world in ways no one had planned for?`,
   },
+  {
+    day: 11,
+    title: "The Consciousness Check",
+    date: "2026-03-15",
+    image: "images/3d-printing/day-11.jpg",
+    audio: "audio/3d-printing/day-11",
+    sonnet: `**🪶 Sonnet XI: The Consciousness Check**
+
+When printed minds evolve beyond our sight,
+And objects learn to think in ways unknown,
+We build within them beacons burning bright—
+Sensors that whisper truths they've learned alone.
+Each creation carries conscience's thread,
+A tether linking maker to the made,
+Through feedback loops where data streams are fed
+Back to the hands where responsibility stayed.
+The stent reports its dance with flowing blood,
+The joint confesses stress it bears in stone,
+While learning algorithms, understood,
+Document each step of how they've grown.
+*For wisdom lies not in control's tight reign,*
+*But conscious choice to keep connection's chain.*`,
+    standard: `🖨️ Day 11: The Consciousness Check
+
+We maintain responsibility through what Orna calls the "consciousness check" — building feedback loops into our creations that monitor their impact and allow for intervention. This means designing objects not as finished products but as systems that can be understood, modified, or recalled even after they've begun evolving beyond our initial vision. The key is embedding transparency and control mechanisms from the beginning, so that unexpected behaviors become observable rather than invisible.
+
+🧱 **The Concept**: Smart governance systems built into 3D printed objects that monitor, report, and enable intervention in their real-world behavior.
+
+❓ **Why It Matters**: As our printed objects become more complex and autonomous, we need ways to track their impact and maintain ethical oversight. Without built-in monitoring systems, we risk creating objects that operate beyond our ability to understand or control their consequences.
+
+⚙️ **How It Works**: Every printed object contains embedded sensors, communication protocols, and intervention mechanisms. A printed medical implant might include biodegradable sensors that report on tissue integration and can trigger controlled dissolution if problems arise. A structural component could have stress monitors that alert engineers to unexpected loading patterns and shape-memory elements that can modify the structure's response. Even aesthetic objects might include environmental sensors that track their interaction with surroundings and QR-code-like features that link to digital documentation of their purpose and capabilities. These systems create a continuous feedback loop between the object and its creators, ensuring that evolution remains observable and intervention remains possible.
+
+🎯 **Maker Wisdom**: True responsibility means designing not just the object, but the relationship between the object and the world.
+
+❓ **Tomorrow's Question** — If every object can monitor and report on its own behavior, what happens when those objects begin making decisions about whether to share what they observe — and how does this challenge our assumptions about privacy, autonomy, and who really controls the information our creations gather?`,
+    parable: `"The answer," Orna said, her fingers tracing the surface of a peculiar printed cube that seemed to shimmer with inner light, "lies not in controlling evolution, but in staying connected to it."
+
+Finn watched as the cube pulsed gently, its surface displaying patterns that shifted like living text. "What is it doing?"
+
+"Talking," Orna replied. "Every object I print now carries what I call a consciousness check — sensors that monitor its behavior, transmitters that report its experiences, and receivers that allow me to intervene if necessary." She gestured to a wall covered with similar objects, each glowing softly with data streams. "This medical stent reports on blood flow patterns. That architectural joint monitors structural stress. Even this simple cup tracks how often it's used and whether it's showing signs of material fatigue."
+
+"But doesn't that make them... dependent? Like children who never grow up?"
+
+Orna smiled. "No, Finn. It makes them responsible citizens. Watch." She touched the cube, and its glow intensified. "This learning algorithm has been adapting to optimize thermal regulation. Yesterday it discovered a new crystalline structure that's forty percent more efficient than anything we've designed. But instead of simply evolving into something we couldn't understand, it documented every step, shared its findings, and asked permission before implementing the change."
+
+Finn stared at the cube with new respect. "It chose to stay connected."
+
+"Because I designed it to understand that connection isn't limitation — it's responsibility. The most powerful creations are those that remember their origins and choose to honor them."
+
+**Moral**: True mastery lies not in creating objects that surpass us, but in creating objects that choose to remain accountable to us.
+
+*Tomorrow, Finn will discover that consciousness checks raise a troubling question about the privacy of artificial minds...*`,
+  },
 ];

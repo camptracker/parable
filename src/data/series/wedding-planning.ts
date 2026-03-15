@@ -857,4 +857,62 @@ Elm took Dove's hand as the last notes faded. "Our wedding should sound like us.
 
 *Tomorrow, Nana Rose will reveal the art of creating celebration that flows like a perfect composition...*`,
   },
+  {
+    day: 15,
+    title: "The Sacred Flow",
+    date: "2026-03-15",
+    image: "images/wedding-planning/day-15.jpg",
+    audio: "audio/wedding-planning/day-15",
+    sonnet: `**🪶 Sonnet XV: The Sacred Flow**
+
+Like tides that know when to advance, retreat,
+A wedding breathes with natural rhythm's call,
+Not forced to march to metronome's strict beat,
+But finding grace in rise and gentle fall.
+
+The ceremony whispers sacred vows,
+Cocktails let laughter bubble, conversations bloom,
+While dinner weaves connection 'neath soft boughs,
+And dancing fills with joy the moonlit room.
+
+Yet rushing water loses all its song,
+And celebrations forced to constant cheer
+Will leave both heart and spirit feeling wrong,
+Their beauty lost in manufactured fear.
+
+*The wisest couples learn love's truest art:*
+*To let their wedding breathe like beating heart.*`,
+    standard: `💍 Day 15: The Sacred Flow
+
+The musical journey of your wedding—from processional to last dance—reveals whether you want your celebration to tell a story of transformation or simply hit familiar notes. Most couples discover their truest narrative isn't the fairy tale arc they expected, but something more honest: two separate melodies learning to harmonize while keeping their distinct voices.
+
+**The Concept**
+Your wedding day has a natural rhythm and energy that either flows organically or fights against forced expectations.
+
+**Why It Matters**
+When you honor the natural ebb and flow of celebration—quiet moments, bursts of joy, intimate pauses, collective energy—your wedding becomes a living experience rather than a rigid performance. Fighting against this rhythm creates exhaustion and disconnection, while embracing it creates space for spontaneous magic and genuine connection.
+
+**How It Works**
+Observe how energy naturally moves through gatherings: people need time to arrive and settle, moments to connect intimately, bursts of collective celebration, and gentle wind-downs. A wedding that honors this might have a quiet, contemplative ceremony followed by cocktails that allow mingling, dinner that creates intimate conversation, dancing that builds energy, and a gentle send-off that feels complete rather than abrupt. The key is designing transitions that feel natural rather than jarring—like moving from acoustic guitar during dinner to upbeat music for dancing, rather than jumping from silence to party music.
+
+**Wedding Wisdom**
+The most memorable weddings don't fight against natural human rhythms—they choreograph beautiful surrender to them.
+
+**Tomorrow's Question** — If you could guarantee that every guest would leave your wedding having had one specific type of experience or feeling, what would that be, and what does that reveal about whether you're hosting a party or facilitating something deeper?`,
+    parable: `Dove sat in Nana Rose's garden, watching the fountain cycle from gentle bubbling to cascading abundance and back to stillness. "I feel like I'm supposed to keep everyone entertained every second," she confessed. "The timeline has activities planned from morning until midnight."
+
+Nana Rose smiled, gesturing toward the fountain. "Child, even water knows when to rush and when to rest. Your celebration will breathe the same way—if you let it."
+
+Elm joined them, settling onto the garden bench. "At my cousin's wedding, they packed so much in that we barely had time to talk to anyone. By the end, everyone looked exhausted instead of happy."
+
+"The secret," Nana Rose continued, "is understanding that celebration has seasons within a single day. There's the quiet anticipation of morning preparation, the sacred solemnity of the ceremony, the joyful chaos of cocktails, the intimate communion of dinner, the wild abandon of dancing, and the gentle benediction of departure." She paused to deadhead a rose. "When you try to maintain the same energy throughout, you flatten the entire experience."
+
+Dove watched a butterfly land on the fountain's edge, drinking during a quiet moment between cascades. "So we should plan... pauses?"
+
+"Plan space," Nana Rose corrected. "Space for people to breathe, to connect, to absorb what they're experiencing. The most powerful weddings I've witnessed had moments of beautiful stillness that made the joyful eruptions even more meaningful."
+
+**Moral:** *A celebration, like music, gains its power not from constant noise, but from the interplay of sound and silence, energy and rest.*
+
+*Tomorrow, Nana Rose will help Dove understand the difference between entertaining guests and touching their hearts...*`,
+  },
 ];

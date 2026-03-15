@@ -1180,4 +1180,64 @@ Ember smiled. "The deepest cooking wisdom cannot be spoken—only awakened. A te
 
 *Tomorrow, Sage will discover that even the most skillful guidance cannot rush certain awakenings, for some culinary maturity must be earned through prerequisite struggles that no teacher can shortcut.*`,
   },
+  {
+    day: 20,
+    title: "The Recognition of Readiness - When Student Becomes Teacher",
+    date: "2026-03-15",
+    image: "images/cooking/day-20.jpg",
+    audio: "audio/cooking/day-20",
+    sonnet: `**🪶 Sonnet XX: The Recognition of Readiness - When Student Becomes Teacher**
+
+When eager hands stop grasping for the prize,
+And questions shift from "how" to deeper "why,"
+When failure teaches more than swift success,
+The student's heart grows humble, low, not high.
+
+No longer seeking praise from watching eyes,
+But truth that lies beneath each technique's art,
+The knife moves slowly, cuts with patient care,
+As ego yields its throne to open heart.
+
+The master watches, waiting for the sign—
+That moment when the seeker seeks no more
+To prove their worth through flash or clever skill,
+But serves the craft with reverence before
+
+*Such readiness blooms not from time alone,*
+*But from the soil where pride and fear have flown.*`,
+    standard: `🍳 Day 20: The Recognition of Readiness - When Student Becomes Teacher
+
+The principle that determines readiness for transmission is humility born from struggle—a student becomes truly ready to receive wisdom only when they have failed enough to understand the limits of their knowledge, yet remained curious enough to keep questioning. This readiness cannot be manufactured or rushed; it emerges naturally when technical competence meets emotional maturity and genuine respect for the craft.
+
+**The Concept**
+Culinary readiness is the precise moment when a student possesses both the technical foundation and emotional maturity to receive advanced wisdom without ego interfering with learning.
+
+**Why It Matters**
+Recognizing this readiness—in ourselves and others—determines whether advanced techniques will be properly absorbed or misapplied. A student who receives complex knowledge before developing proper humility often becomes technically proficient but culinarily hollow, while one who waits too long may never progress beyond safe, predictable cooking.
+
+**How It Works**
+Readiness reveals itself through specific markers: the student begins asking "why" rather than "how," admits mistakes before being caught, and shows more interest in understanding principles than collecting techniques. They demonstrate patience with failure, respect for ingredients, and curiosity about traditions they don't yet understand. Most importantly, they begin teaching others naturally—not from ego, but from genuine desire to share what little they've learned. For example, a ready student will spend time perfecting basic knife cuts rather than attempting complex dishes, understanding that mastery of fundamentals unlocks everything that follows.
+
+**Culinary Wisdom**
+The moment a student stops trying to impress and starts trying to understand is the moment they become worthy of real teaching.
+
+**Tomorrow's Question** — If readiness to receive wisdom requires this delicate balance of humility and competence, what fundamental principle determines whether that transmitted knowledge will actually take root and grow, or whether it will remain superficial information that never transforms into genuine culinary understanding?`,
+    parable: `Ember stood in the pre-dawn darkness of her kitchen, her weathered hands moving through the familiar ritual of mise en place. She had been watching Sage for months now, observing the subtle shifts that marked a young cook's evolution from eager novice to something approaching readiness.
+
+"Chef," Sage whispered, entering quietly, "I've been thinking about yesterday's service. When the salmon overcooked on table six—I didn't ask for help because I thought I should know better. But watching you fix it, I realized I was more concerned with not looking foolish than with serving good food."
+
+Ember paused, a ghost of a smile crossing her lips. Here was the admission she had been waiting for—not of technical failure, but of misplaced priorities. "And what does that tell you about readiness, young one?"
+
+"That I've been trying to prove I was ready instead of actually becoming ready," Sage replied, hands beginning the meditative work of brunoise, each cut deliberate and unhurried. "Real readiness isn't about knowing everything—it's about being humble enough to receive what I don't know."
+
+Ember nodded, her fingers testing the weight of her knife. She had seen countless young cooks reach this moment—some embraced it, others fought it, and still others let it pass unrecognized. "The kitchen reveals truth, Sage. When you stopped cooking for applause and started cooking for understanding, that was when you became worthy of the deeper lessons."
+
+As the morning light filtered through the windows, Sage continued working, no longer glancing at Ember for approval but focusing entirely on the task. The transformation was subtle but unmistakable—the desperate eagerness had been replaced by quiet dedication.
+
+"Tomorrow," Ember said, "we begin the real work."
+
+**Moral:** Readiness cannot be performed or pretended; it emerges naturally when the desire to understand surpasses the need to impress.
+
+**Tomorrow:** Even with perfect readiness, the question remains whether wisdom, once shared, will truly take root or merely create an illusion of understanding.`,
+  },
 ];
