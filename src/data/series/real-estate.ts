@@ -1292,4 +1292,66 @@ Dara nodded slowly. "You've become a gardener rather than a harvester."
 
 Tomorrow, Dara will discover what happens when stewardship requires choices that defy all conventional wisdom...`,
   },
+  {
+    day: 22,
+    title: "The Sacred Trust — When Property Becomes Purpose",
+    date: "2026-03-16",
+    image: "images/real-estate/day-22.jpg",
+    audio: "audio/real-estate/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Sacred Trust**
+
+When property transcends mere ownership's claim,
+And buildings become vessels for life's flow,
+The investor sheds extraction's hollow game
+For stewardship where deeper profits grow.
+
+No longer counting coins with grasping hands,
+But asking how each space can serve and heal,
+They tend their assets like devoted lands
+Where human flourishing becomes most real.
+
+The sacred trust transforms both heart and mind,
+From taking much to giving what is needed,
+In service to the life they're charged to find,
+Their wealth multiplies as trust is seeded.
+
+*For those who hold their property as prayer,*
+*Find riches beyond measure waiting there.*`,
+    standard: `🏠 Day 22: The Sacred Trust — When Property Becomes Purpose
+
+**The answer reveals itself in moments of profound choice: you follow your deepest knowing by choosing what nurtures life over what merely extracts from it. This inner compass transcends all financial metrics because it operates from a wisdom that recognizes property as sacred trust rather than mere commodity.**
+
+🧱 **The Concept**
+At the highest level of real estate mastery, properties transform from investment vehicles into sacred trusts—assets held not for personal gain but as stewardship opportunities that serve the flourishing of all life they touch.
+
+❓ **Why It Matters**
+This shift from ownership to stewardship fundamentally changes your relationship with wealth and property. When you hold real estate as sacred trust, you make decisions based on what serves the highest good of tenants, communities, and future generations. This perspective paradoxically generates the deepest and most sustainable wealth because it aligns with life's natural abundance principles.
+
+⚙️ **How It Works**
+Sacred trust investing means asking different questions: instead of "How much can I extract?" you ask "How can this property serve life?" You might choose a family-owned business as a tenant over a higher-paying chain store because it strengthens community fabric. You invest in energy-efficient upgrades not just for cost savings but for environmental stewardship. You price rents to be profitable yet accessible, recognizing that stable communities create long-term value. You view your properties as living ecosystems where human flourishing is the ultimate return on investment. This approach attracts higher-quality tenants, generates community goodwill, and creates properties that appreciate beyond market rates because they become irreplaceable community anchors.
+
+🎯 **Real Estate Wisdom**
+Property held as sacred trust generates wealth that compounds across generations because it serves life itself. **The highest returns come not from extracting maximum profit, but from maximizing the life-serving potential of every asset you steward.**
+
+❓ **Tomorrow's Question** — If sacred trust investing aligns you with life's abundance principles and generates the deepest wealth, why does this approach feel so foreign to most investors? What fundamental misunderstanding about the nature of wealth keeps us trapped in extraction-based thinking, and what would happen to the entire real estate industry if this misunderstanding were suddenly corrected?`,
+    parable: `Dara stood before the ruins of the old monastery, its weathered stones holding centuries of prayer and purpose. Hallam had brought her here on the anniversary of her first investment, when she'd transformed a crumbling tenement into thriving homes for working families.
+
+"See how the ivy grows here?" Hallam pointed to the ancient walls where green tendrils had found purchase in every crack. "The brothers who built this place understood something we've forgotten. They didn't build for themselves—they built for God, for community, for generations unborn."
+
+Dara ran her fingers along the worn stone. "And it's still standing after eight hundred years."
+
+"Precisely." Hallam's eyes gleamed with ancient wisdom. "When I first started buying properties, I thought like most landlords—extract maximum rent, minimize costs, squeeze every coin from every transaction. But then I met Brother Thomas, the last monk who lived here before they closed the monastery."
+
+He gestured toward the old bell tower. "Thomas told me something that changed everything: 'Property is not possession—it's sacred trust.' He said every building, every acre, every space where humans dwell carries the responsibility of stewardship. We're not owners, Dara. We're trustees."
+
+Dara felt a shift in her understanding. "So when I chose to keep rents affordable for the teacher and the baker instead of raising them to market rate..."
+
+"You were acting as a trustee rather than an owner," Hallam nodded. "And notice what happened—your properties became community anchors. People fought to live there, to stay there, to care for those spaces as if they were sacred too."
+
+The wind whispered through the monastery ruins, carrying echoes of ancient purpose. Dara realized that her most profitable properties were indeed the ones where she'd served something greater than profit—where she'd held space for life to flourish.
+
+**Moral:** *Property becomes sacred trust when held in service of life's flourishing, generating wealth that compounds across generations.*
+
+But as they walked away from the monastery, Dara wondered: if this sacred approach created such abundance, why did it feel so revolutionary? What had disconnected most investors from this ancient wisdom about wealth and stewardship?`,
+  },
 ];

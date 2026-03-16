@@ -1144,4 +1144,66 @@ Tova nodded, feeling the weight and honor of this silent curriculum. "I never re
 
 Tomorrow, Tova will discover something unsettling about the lessons she never meant to teach...`,
   },
+  {
+    day: 19,
+    title: "The Ripple of Integrity",
+    date: "2026-03-16",
+    image: "images/leadership/day-19.jpg",
+    audio: "audio/leadership/day-19",
+    sonnet: `**🪶 Sonnet XIX: The Ripple of Integrity**
+
+In quiet moments when no eyes observe,
+The truest test of leadership appears—
+Do private choices match the words we serve?
+Or do we wear a mask that perseveres?
+
+The crew that watches learns from what we do,
+Not from the speeches crafted for the stage;
+They mirror actions, copying each cue,
+And write our legacy on history's page.
+
+When promises align with daily deed,
+And character stays constant, storm or calm,
+We plant the most enduring, vital seed:
+Trust blooms like shelter underneath our palm.
+
+*For leadership that stands through every test*
+*Lives when our private self becomes our best.*`,
+    standard: `👥 Day 19: The Ripple of Integrity
+
+The patterns we'd be most concerned about our teams replicating often reveal our deepest gaps between intention and action—perhaps our tendency to make promises we don't keep, to blame external circumstances when things go wrong, or to say we value people while consistently prioritizing tasks over relationships. This uncomfortable mirror shows us that authentic leadership isn't about perfecting our image, but about aligning our daily behaviors with our stated values, knowing that integrity ripples outward in ways we may never fully see.
+
+🧱 **The Concept**
+True leadership integrity means your private character matches your public persona, creating a seamless authenticity that people can trust even when you're not watching.
+
+❓ **Why It Matters**
+People follow leaders they can predict—not because they're perfect, but because they're consistently themselves. When there's a gap between who you say you are and who you actually are, that uncertainty creates anxiety and erodes the foundation of trust that makes real influence possible.
+
+⚙️ **How It Works**
+Integrity in leadership manifests in the small moments: keeping the same standards for yourself that you set for others, admitting when you don't know something instead of bluffing, following through on commitments even when no one is checking, and making decisions based on principles rather than convenience. When a leader says "we value work-life balance" but sends emails at midnight, or preaches "psychological safety" but gets defensive when challenged, the team learns to trust actions over words. Conversely, when leaders consistently demonstrate that their values aren't just talking points but actual decision-making frameworks, they create an environment where others feel safe to be equally authentic.
+
+🎯 **Leadership Wisdom**
+Your integrity isn't measured by your intentions but by the consistency between your values and your daily choices, especially when no one is watching.
+
+❓ **Tomorrow's Question** — If you knew that every decision you made as a leader was secretly being recorded and would someday be played back to reveal your true priorities and values, which of your recent choices would you be most proud of, and which would require you to have an honest conversation with yourself about who you're actually becoming?`,
+    parable: `The morning mist clung to the harbor as Tova found herself alone with her ledger, reviewing the crew assignments she'd made the previous week. Each notation seemed to mock her—promises of fair rotation she'd already broken, commitments to open communication she'd bypassed when expedience called.
+
+Greymane appeared beside her like a ghost from the fog. "Heavy thoughts for such an early hour," he observed, his weathered hands tracing the dock's worn planks.
+
+"I've been telling them one thing and doing another," Tova confessed, her voice barely audible above the lapping waves. "Yesterday I spoke passionately about loyalty and trust, then immediately chose my favorites for the best assignments. They're watching everything, aren't they?"
+
+The old admiral nodded slowly. "A captain I once knew believed he could compartmentalize his leadership—be one person in the wheelhouse, another on deck, a third in port. His crew never knew which version they'd encounter." Greymane paused, watching a seabird dive cleanly into the dark water. "Do you know what happened?"
+
+"They stopped trusting all three versions," Tova whispered.
+
+"Indeed. But there was another captain—quiet, unremarkable to most. She made the same decision whether addressing the admiral or scrubbing the deck. Her word was her word, whether spoken to one person or a hundred. Her crew would follow her into a hurricane because they knew exactly who she was."
+
+Tova closed the ledger slowly. "Integrity isn't about being perfect. It's about being consistent."
+
+"Now you begin to understand," Greymane smiled. "The ripples of authentic leadership spread far beyond what you can see, touching shores you may never visit."
+
+**Moral:** *True leadership power flows not from the perfection of your character, but from the consistency of it—when your private choices align with your public values, you create a foundation of trust that no storm can shake.*
+
+Tomorrow, we'll explore how leaders can transform their teams by understanding the hidden weight of every choice they make...`,
+  },
 ];

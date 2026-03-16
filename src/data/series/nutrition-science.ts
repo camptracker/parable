@@ -1293,4 +1293,58 @@ Lila picked up the tempered metal, marveling at its transformed strength. "So th
 
 **Tomorrow:** Lila discovers why combining too many forge processes at once can shatter even the strongest metal, teaching her about the delicate balance between challenge and overwhelm.`,
   },
+  {
+    day: 22,
+    title: "The Adaptive Load Limit",
+    date: "2026-03-16",
+    image: "images/nutrition-science/day-22.jpg",
+    audio: "audio/nutrition-science/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Adaptive Load Limit**
+
+The body keeps accounts with careful measure,
+Each stress a coin drawn from one common purse;
+To spend them all at once brings little pleasure,
+As scattered efforts only make things worse.
+
+The blacksmith knows this truth in forge and flame:
+One iron heated while another cools,
+For furnace breath cannot sustain each claim
+When greedy fires break the ancient rules.
+
+So fasting, cold, and training each demand
+The same repair crews, same resources spent;
+Like trying to write with one overtaxed hand
+Three letters while the ink grows ever scant.
+
+*The wise adapt through strategic, measured stress,*
+*Not chaos crowned as metabolic success.*`,
+    standard: `🍎 Day 22: The Adaptive Load Limit
+
+Stacking multiple hormetic stressors simultaneously creates an adaptive overload that exceeds your body's recovery capacity, forcing it to choose which systems to repair first while neglecting others. Like trying to lift weights while running a marathon in freezing weather, each stress competes for the same finite pool of cellular resources and recovery mechanisms, ultimately weakening your stress response rather than strengthening it.
+
+**🧱 The Concept**
+Your body has a finite adaptive capacity — a biological budget for handling stress and implementing improvements.
+
+**❓ Why It Matters**
+Understanding your adaptive load limit prevents the common mistake of overwhelming your system with simultaneous challenges. When you exceed this threshold, beneficial stress becomes destructive stress, and your metabolism becomes more fragile rather than more resilient.
+
+**⚙️ How It Works**
+Your cells use the same molecular pathways to respond to different stressors — heat shock proteins for temperature stress, autophagy for fasting, and mitochondrial adaptations for exercise. When multiple demands hit simultaneously, these pathways become bottlenecked, like a single repair crew trying to fix three different emergencies at once. Your adrenal system, liver detoxification, and cellular repair mechanisms all draw from overlapping resource pools. For example, combining prolonged fasting with high-intensity training and cold exposure can elevate cortisol chronically, impair protein synthesis, and exhaust your glycogen stores simultaneously, leaving you metabolically compromised rather than strengthened.
+
+**🎯 Science Wisdom**
+True metabolic strength comes from strategic stress application, not stress accumulation — your body adapts best when challenged sequentially rather than simultaneously.
+
+**❓ Tomorrow's Question** — *If your adaptive capacity has clear limits that require strategic management, what does this reveal about the relationship between metabolic improvement and the concept of periodization — and why might the people who cycle between different types of metabolic challenges achieve better long-term results than those who maintain consistent daily protocols?*`,
+    parable: `Lila found Maren tending to her three hearths with unusual restraint, feeding only one fire at a time while the others burned low. "Master, why not stoke all three fires to their fullest? Wouldn't more heat serve the village better?"
+
+Maren gestured to her dwindling woodpile. "Watch what happens when I try," she said, throwing armfuls of kindling onto all three hearths simultaneously. The flames roared impressively for a moment, but soon began to sputter and smoke as they competed for the limited oxygen in the chamber. "Each fire needs the same breath to burn bright," she explained, opening the windows wider, "but there is only so much air to share."
+
+As the fires struggled against each other, Maren returned to her methodical approach. "The village blacksmith understands this wisdom," she continued, carefully rebuilding one hearth while allowing the others to rest. "He does not forge a sword while tempering steel while smelting iron all at once. Each process demands his full attention and all his resources."
+
+Lila watched as the single, well-tended fire blazed brilliantly, its heat more effective than the three competing flames had been. "Your body's healing fires follow the same law," Maren said. "Challenge the cold-response while fasting deeply while training intensely, and you will find each adaptation weak and incomplete. But challenge them one at a time, with full resources devoted to each, and you forge metabolic strength like the finest blade."
+
+**Moral:** *The wise healer tends one fire at a time, knowing that divided attention creates only smoke and weakness.*
+
+*Tomorrow, Maren will teach Lila about the seasons of challenge — and why the ancient rhythms of effort and rest create more powerful adaptations than any constant flame.*`,
+  },
 ];

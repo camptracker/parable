@@ -1672,4 +1672,62 @@ The elder returned to his ledger, adding carefully, "The truly powerful choice i
 
 *Tomorrow, Sable will reveal why our minds create false choices where none exist...*`,
   },
+  {
+    day: 25,
+    title: "The Alignment Problem",
+    date: "2026-03-16",
+    image: "images/financial-independence/day-25.jpg",
+    audio: "audio/financial-independence/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Alignment Problem**
+
+When barbers speak of haircuts needed most,
+And brokers whisper trades that cannot fail,
+Remember who profits from each vaunted boast—
+The one who cuts, or sells, will tip the scale.
+
+The merchant's scales gleam bright with polished brass,
+Yet weight depends on where his profit lies:
+Does gold flow when transactions come to pass,
+Or only when the buyer's wealth does rise?
+
+The wise seek counsel from the aligned heart,
+Where mutual success breeds honest word,
+Not from the tongue that plays a scripted part
+For fees that flow regardless of what's heard.
+
+*In money's realm, let this truth be your guide:*
+*Trust those whose fortune swells when yours does ride.*`,
+    standard: `💰 Day 25: The Alignment Problem
+
+🧱 **The Concept**
+True wealth building requires aligning your personal incentives with long-term value creation, while most financial advice comes from sources whose incentives are misaligned with your success.
+
+❓ **Why It Matters**
+When advisors, institutions, or systems profit from your activity rather than your results, they will inevitably steer you toward actions that serve their interests, not yours. Understanding incentive structures is crucial for navigating a financial world designed to extract fees rather than build your wealth.
+
+⚙️ **How It Works**
+Consider how different parties are compensated: brokers earn commissions on trades (encouraging frequent buying and selling), mutual fund companies charge annual fees regardless of performance (preferring complex, high-fee products), and financial media profits from advertising and engagement (promoting excitement over boring success). Meanwhile, **index fund companies** like Vanguard are owned by their investors, creating natural alignment—they succeed only when you do. **Fee-only financial advisors** who charge flat fees rather than commissions have incentives aligned with growing your wealth, not generating transactions. Even Buffett's Berkshire Hathaway demonstrates this principle: he gets rich only by making shareholders rich over decades, not by collecting management fees on short-term performance.
+
+🎯 **Buffett Wisdom**
+"Never ask a barber if you need a haircut"—always consider who benefits from the advice you're receiving.
+
+❓ **Tomorrow's Question** — If misaligned incentives create systematic problems throughout the financial industry, what does this reveal about the nature of expertise itself, and why might the most valuable knowledge often come from sources that have no financial stake in your decisions?`,
+    parable: `The morning sun cast long shadows across the village square as Kael found Sable examining two sets of scales at the merchant's stall. One gleamed with polished brass, ornate and impressive, while the other appeared plain and weathered.
+
+"Elder Sable," Kael approached, "why do you study these scales so intently?"
+
+"Tell me, young one, which merchant would you trust to weigh your grain fairly?" Sable gestured toward the elaborate scales. "The one with these beautiful scales who earns a copper piece for every transaction, regardless of accuracy? Or the one with plain scales who earns his living only when both buyer and seller return satisfied?"
+
+Kael pondered this. "The second, I suppose, but the first scales look so much more impressive."
+
+"Precisely the trap," Sable nodded. "The merchant with ornate scales profits from volume—he wants many transactions. The humble merchant profits from trust—he wants repeat customers. Their incentives shape their behavior."
+
+Tobren joined them, overhearing. "Like the seed merchant who sold me expensive, exotic varieties that failed, versus old Henrik who only sells what grows well in our soil. Henrik makes less per sale, but his reputation feeds his family."
+
+"Now you understand," Sable smiled. "In matters of wealth, always ask: how does this person prosper? Do they succeed when you succeed, or do they profit from your activity regardless of outcome? The answer will reveal more than any promise they make."
+
+**Moral:** True wisdom lies in understanding whose interests align with your own success.
+
+*Tomorrow, Kael will discover why the most valuable guidance often comes from unexpected sources...*`,
+  },
 ];
