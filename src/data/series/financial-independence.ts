@@ -1730,4 +1730,64 @@ Tobren joined them, overhearing. "Like the seed merchant who sold me expensive, 
 
 *Tomorrow, Kael will discover why the most valuable guidance often comes from unexpected sources...*`,
   },
+  {
+    day: 26,
+    title: "The Disinterested Teacher",
+    date: "2026-03-17",
+    image: "images/financial-independence/day-26.jpg",
+    audio: "audio/financial-independence/day-26",
+    sonnet: `**🪶 Sonnet XXVI: The Disinterested Teacher**
+
+When counsel flows from lips that seek no gain,
+The wisdom runs as clear as mountain streams,
+Unmuddied by the prospect of their claim,
+Untainted by the seller's golden dreams.
+
+The broker speaks with honeyed tongue so sweet,
+Yet poison lurks beneath his promises,
+For every trade puts coin beneath his feet,
+While your account bears all the deficits.
+
+But seek the elder who has filled his barn,
+Whose knowledge comes without a price to pay,
+His words like light that greets the early dawn—
+Pure truth that asks for nothing in the way.
+
+*The teacher who expects no fee or praise*
+*Gives wisdom worth more than a fortune's blaze.*`,
+    standard: `💰 Day 26: The Disinterested Teacher
+
+Misaligned incentives reveal that true expertise often requires **disinterested judgment**—the ability to give advice without personal gain clouding the analysis. The most valuable financial wisdom frequently comes from sources with no stake in your decisions because they have no reason to distort the truth for profit.
+
+🧱 **The Concept**
+The best financial advice often comes from those who profit least from giving it.
+
+❓ **Why It Matters**
+When someone's compensation depends on you taking a specific action, their expertise becomes contaminated by self-interest. This creates a systematic bias toward complexity, activity, and products that benefit the advisor rather than the client.
+
+⚙️ **How It Works**
+Consider three sources of investment advice: a commission-based broker who earns money when you trade, a fee-only advisor who charges a flat rate regardless of what you do, and a retired investor with no financial relationship to you. The broker has incentive to encourage frequent trading and expensive products. The fee-only advisor has less bias but still benefits from appearing sophisticated and necessary. The disinterested retiree has no reason to complicate your situation or recommend anything other than what actually works. This is why Warren Buffett's annual letters, written to shareholders he'll likely never meet personally, contain more practical wisdom than most paid financial advice. Similarly, academic research often provides clearer insights than industry publications because professors aren't selling investment products.
+
+🎯 **Buffett Wisdom**
+"Wall Street is the only place that people ride to in a Rolls Royce to get advice from those who take the subway."
+
+❓ **Tomorrow's Question** — If the most trustworthy financial guidance comes from disinterested sources, why do we still feel compelled to seek validation from paid experts, and what does this suggest about the difference between wanting good advice versus wanting to feel important enough to deserve expensive advice?`,
+    parable: `The morning mist clung to the village square as Kael approached Sable, finding the elder tending to his small garden behind the meetinghouse. "Grandfather," Kael began, "yesterday you spoke of those whose bread depends on our choices. But if their wisdom is tainted by their hunger, where do we find pure counsel?"
+
+Sable's weathered hands paused over a sprouting bean plant. "Watch," he said simply. "See how this plant grows toward the sun? The sun asks nothing in return—no payment, no praise, no promise of future loyalty. It simply gives light because that is its nature."
+
+"But surely," Kael pressed, "some who profit from advice still speak truth?"
+
+"Perhaps," Sable nodded, "but even honey mixed with oil loses its sweetness. Consider old Tobren—he has shared with you the secrets of his fields, expecting nothing. His knowledge flows pure because his belly is already full, his barn already stocked. He has no need to convince you that farming is more complex than it appears, or that you need special seeds from distant merchants."
+
+As if summoned by their words, Tobren appeared, carrying a sack of grain. "Kael, lad," he called, "I've been thinking about our last conversation. The simplest truth I've learned in forty harvests is this: rich soil, good seed, patient tending. No magic, no secrets to sell. Just... time and consistency."
+
+Sable smiled. "You see? Tobren's wisdom comes clean because he seeks nothing from you. His knowledge is like clear water from a mountain spring—undiluted by the need to appear profound or profitable."
+
+"But grandfather," Kael wondered aloud, "if pure counsel comes from those who need nothing from us, why do people pay gold to merchants who profit from their choices?"
+
+The elder's eyes twinkled with understanding. "Ah, young seeker, perhaps tomorrow we shall explore why the human heart so often prefers expensive lies to free truths, and what this reveals about our deepest fears."
+
+**Moral:** The purest wisdom flows from sources unclouded by self-interest, like light from the sun that asks nothing in return.`,
+  },
 ];

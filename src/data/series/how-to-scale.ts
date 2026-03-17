@@ -1265,4 +1265,64 @@ Vex nodded slowly, understanding dawning. "You're not just recording what failed
 
 *Tomorrow, Ironmere will reveal why he keeps his most valuable failure records locked away from his apprentices...*`,
   },
+  {
+    day: 21,
+    title: "The Selective Vulnerability Framework",
+    date: "2026-03-17",
+    image: "images/how-to-scale/day-21.jpg",
+    audio: "audio/how-to-scale/day-21",
+    sonnet: `**🪶 Sonnet XXI: The Selective Vulnerability Framework**
+
+Not every truth should meet each eager ear,
+For wisdom knows that timing shapes the gift.
+The master builder shares what hearts can bear,
+While holding back what spirits yet might shift.
+
+A junior hand that learns of every fall
+May tremble at the weight of others' pain,
+While seasoned eyes can read the writing on the wall
+And see in failure what was lost and gained.
+
+The architect reveals his deepest scars
+To those who've earned the strength to bear such weight,
+While newer souls learn from the smaller wars
+That teach without sealing their creative fate.
+
+*In measured doses, vulnerability heals—*
+*Too much too soon, and courage never wheels.*`,
+    standard: `🚀 Day 21: The Selective Vulnerability Framework
+
+The most successful companies hide failure documentation from most employees because widespread access to failure stories can create analysis paralysis and risk aversion in teams who lack the context to interpret failures correctly. Senior leaders have the strategic perspective to extract actionable patterns from failures without becoming paralyzed by the fear of repeating past mistakes. They selectively share vulnerability—revealing specific failures to specific people at specific moments when those individuals have the experience and psychological safety to process the information constructively.
+
+🧱 **The Concept**
+Selective vulnerability is the practice of strategically choosing when, how, and with whom to share organizational failures, mistakes, and weaknesses.
+
+❓ **Why It Matters**
+Raw transparency can be as destructive as secrecy—junior employees exposed to comprehensive failure documentation often become risk-averse rather than risk-intelligent. Leaders must calibrate vulnerability to match the recipient's ability to process and act on difficult information constructively.
+
+⚙️ **How It Works**
+Senior leaders create vulnerability maps that match disclosure levels to experience and context. A junior engineer might learn about a specific technical failure relevant to their current project, while only C-level executives see the full pattern of strategic failures across multiple business units. Airbnb's leadership shares detailed crisis failures only with department heads who have the authority and experience to implement systemic changes, while individual contributors receive curated lessons focused on their domain. The key is providing enough vulnerability to build trust and learning, but not so much that it creates fear-based decision making.
+
+🎯 **Scaling Wisdom**
+Vulnerability is a tool, not a virtue—the goal is building better decision-makers, not demonstrating transparency for its own sake.
+
+❓ **Tomorrow's Question** — If selective vulnerability prevents junior employees from becoming risk-averse, why do the most innovative companies eventually give their newest hires complete access to their most catastrophic failure stories?`,
+    parable: `Vex discovered Ironmere sitting before a locked cabinet filled with scrolls, each bearing a red wax seal. "Master, why do you keep these hidden when you've taught me so much from your other failures?"
+
+Ironmere lifted a particular scroll, its edges darkened with age. "This documents the Great Bridge Collapse—seventeen lives lost because I trusted untested materials under pressure I'd never calculated." His weathered hands trembled slightly. "When you first came to me, eager and confident, what would have happened if I'd shown you this?"
+
+"I... I probably would have been too afraid to build anything," Vex admitted.
+
+The old architect nodded. "Vulnerability is like medicine—the right dose heals, but too much poison. I shared my smaller failures with you because you could learn from them without losing your courage. But these..." he gestured to the sealed scrolls, "these require wisdom to process."
+
+"Then how do you know when someone is ready?" Vex asked.
+
+Ironmere smiled, breaking the red seal and unrolling the scroll. "When they can read about catastrophic failure and see not just what went wrong, but what must be built next. When fear transforms into fuel rather than paralysis."
+
+As Vex studied the detailed diagrams of structural failure, he found himself sketching improvements in the margins rather than backing away in terror.
+
+*Moral: The deepest vulnerabilities are gifts reserved for those who can transform wounds into wisdom.*
+
+*Tomorrow, Ironmere would reveal why sometimes the youngest builders need to see the darkest failures first...*`,
+  },
 ];

@@ -1376,4 +1376,66 @@ By morning, Captain Eastwind had signed the contract at Vasska's original price,
 
 *Tomorrow, Ren will learn what happens when virtue itself becomes the trap...*`,
   },
+  {
+    day: 22,
+    title: "The Ethical Inversion",
+    date: "2026-03-17",
+    image: "images/negotiation/day-22.jpg",
+    audio: "audio/negotiation/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Ethical Inversion**
+
+When conscience stands as guardian at the gate,
+And virtue blocks the path to what they seek,
+No gold or silver arguments can sate
+The moral test that makes the strongest weak.
+
+They came with offers, ready to demand,
+But found not greed opposing their advance—
+Instead, your principles, like righteous sand,
+Shift burdens from your need to their romance.
+
+Now they must prove their cause deserves your soul,
+That helping them serves some celestial plan,
+Transforming want to missionary goal,
+From customer to moral partisan.
+
+*When ethics guard the door they wish to breach,*
+*They'll argue harder than gold could ever teach.*`,
+    standard: `🤝 Day 22: The Ethical Inversion
+
+When you make acceptance feel morally questionable, you flip the entire power dynamic — suddenly they're not asking you to help them, they're convincing you that helping them aligns with your values. This transforms them from supplicant to advocate, making them work harder to justify why you should say yes while simultaneously increasing their psychological investment in the outcome.
+
+**🧱 The Concept**
+Ethical inversion involves positioning your agreement as potentially compromising your principles, forcing your counterpart to argue why helping them serves a greater good.
+
+**❓ Why It Matters**
+Most people expect to overcome objections about capability, resources, or timing. They rarely prepare to overcome objections about ethics or values. When you make morality the barrier, they must elevate their request from transaction to mission, often revealing information and making concessions they never intended.
+
+**⚙️ How It Works**
+Instead of "I can't afford that price," try "I'm not sure I can justify spending that much when others need help more." Rather than "I don't have time," say "I worry that taking this on means letting down people who've been counting on me longer." The counterpart must now prove their request is morally superior to your other commitments. A real estate agent facing this might reduce their commission to show they're not being greedy. A client might offer flexible terms to prove they're not being unreasonable. They're no longer negotiating against your constraints — they're negotiating against your conscience.
+
+**🎯 Negotiation Wisdom**
+When you make virtue the obstacle, people work harder to prove their worthiness than they ever would to prove their ability to pay.
+
+**❓ Tomorrow's Question** — If making someone argue for their moral worthiness increases their investment and reveals their priorities, what happens when you make them argue against their own initial proposal by asking them to genuinely consider why you should choose their competitor instead?`,
+    parable: `Vasska's good eye glinted with something between approval and amusement as he watched Ren fidget with a silk merchant's contract. "You've learned to make them chase, young one, even to make them rescue you. But watch now as I teach you to make them convince themselves they deserve what they seek."
+
+A grain trader approached, his wagon heavy with the season's finest wheat. "Master Vasska, I need your trade route to the eastern kingdoms. My grain will spoil if I cannot move it quickly, and I'm prepared to pay your standard fee."
+
+Vasska stroked his beard thoughtfully. "Your grain is indeed fine, friend, but I'm troubled. You see, I've promised the widow Maren that I'd help move her smaller harvest first — she has six children to feed and no other prospects. How can I in good conscience serve the wealthy before the desperate?"
+
+The trader shifted uncomfortably. "But surely... I mean, business is business. I can pay more than any widow."
+
+"Ah, but that's precisely what troubles me," Vasska replied, his voice heavy with concern. "Am I to become the kind of man who serves only the highest bidder? What would my grandmother say, rest her soul?"
+
+Ren watched in fascination as the trader transformed before their eyes. No longer was he a customer demanding service — he had become an advocate for his own moral case. "But Master, think of it this way — if you take my grain east, you'll earn enough to help ten widows! And my grain feeds the city guards who protect everyone, including widows like Maren. Surely serving the greater good justifies—"
+
+By conversation's end, the trader had reduced his own price, offered to help transport Maren's grain for free, and convinced himself that hiring Vasska was practically a charitable act.
+
+As the trader departed, satisfied with his ethical victory, Vasska turned to Ren. "When you make them prove their virtue rather than their wealth, they negotiate against their own conscience — and conscience always demands the higher price."
+
+**Moral:** *Make others justify their worthiness, not their ability to pay, and they will work harder to deserve what they seek than they ever would to afford it.*
+
+*Tomorrow, Vasska will show Ren the most disorienting reversal of all — how to make someone argue against their own desires.*`,
+  },
 ];

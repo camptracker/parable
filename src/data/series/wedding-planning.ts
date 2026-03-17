@@ -970,4 +970,66 @@ The moral bloomed clear as the roses around them: **True witnessing transforms b
 
 Tomorrow, Dove would discover how one moment of authentic connection could outshine a thousand perfect details...`,
   },
+  {
+    day: 17,
+    title: "The Sacred Community",
+    date: "2026-03-17",
+    image: "images/wedding-planning/day-17.jpg",
+    audio: "audio/wedding-planning/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Sacred Community**
+
+When choosing who shall witness love's true vow,
+Look not to numbers but to beating hearts,
+For those who've walked your journey until now
+Know best the beauty of your joining parts.
+
+The relative who judges from afar
+May bring her presence but not blessing's grace,
+While friends who've seen you heal each other's scars
+Will hold your sacred moment's holy space.
+
+A wedding's power lies not in the crowd
+But in the quality of witnessing eyes—
+Those souls who see your love and feel so proud
+That joy spills over into grateful cries.
+
+*For marriage needs not watchers by the score,*
+*But hearts that know what they are cheering for.*`,
+    standard: `💍 Day 17: The Sacred Community
+
+That deeply moving moment would likely be one where vulnerability meets love—perhaps during vows when raw truth creates sacred space, or when generations gather in blessing, or when laughter and tears flow simultaneously as everyone recognizes the profound beauty of two people choosing each other. This reveals that memories are what we capture, but meaning is what transforms us—and a wedding's greatest gift isn't preserving a perfect day, but creating a moment so authentic it changes how everyone present understands love itself.
+
+🧱 **The Concept**
+Your wedding guest list isn't just names on paper—it's the community you're inviting to witness and bless your marriage, and their energy will shape your entire celebration.
+
+❓ **Why It Matters**
+Every person you invite brings their own energy, expectations, and relationship dynamics into your sacred space. The wrong mix can create tension and obligation, while the right community can amplify joy and create the supportive foundation your marriage deserves.
+
+⚙️ **How It Works**
+Start by identifying your true **celebration circle**—those who genuinely rejoice in your relationship versus those attending out of duty. Consider the **energy audit**: will this person's presence add joy or stress? Think about **natural groupings**—friends from different eras, family members with complicated histories, colleagues who barely know your partner. Plan **meaningful roles** for key people that go beyond traditional wedding party duties—perhaps someone leads a blessing, another shares a reading, someone organizes a surprise element. Remember that **intimate doesn't mean small**, and **large doesn't mean impersonal**—it's about intentionality, not numbers.
+
+🎯 **Wedding Wisdom**
+Your guest list is your marriage's first community—choose people who will celebrate your love story, not judge your party planning.
+
+❓ **Tomorrow's Question** — If you could design your wedding so that every guest felt genuinely connected to your love story (not just entertained by your celebration), what would need to change about how weddings typically treat their attendees, and what does that reveal about the difference between hosting people and including them?`,
+    parable: `"But Nana Rose," Dove said, staring at her ever-growing guest list, "my mother insists we invite the entire extended family, my college roommates want to come, Elm's work colleagues expect invitations, and somehow we're at 200 people when we wanted 50."
+
+Nana Rose set down her teacup with deliberate care. "Child, let me tell you about the wedding of two souls I knew who made a curious choice. They sent two different invitations."
+
+Elm looked up from his laptop, intrigued. "Two different invitations?"
+
+"The first went to everyone who felt obligated to invite—a lovely afternoon reception with cake and dancing. Pleasant, proper, expected." Nana Rose's eyes twinkled. "But the second invitation went to their true celebration circle—thirty people who knew their love story, who had walked through hard seasons with them, who would weep with joy at their vows."
+
+"What happened?" Dove whispered.
+
+"The large reception was beautiful and forgettable. But that intimate evening ceremony?" Nana Rose smiled. "Every person there felt the sacred weight of witness. When the bride's grandmother blessed them in three languages, when the groom's best friend sang the song that had carried them through their darkest hour, when their chosen family formed a circle of protection around them—there wasn't a dry eye or unchanged heart in the room."
+
+Elm reached for Dove's hand. "They honored both obligations and authenticity."
+
+"Indeed. Because sometimes, dear ones, the most loving thing we can do is recognize that not everyone needs to witness our most sacred moments—but those who do should feel the honor of being chosen for something holy."
+
+Moral: Your guest list is your marriage's first act of community curation—choose those who will hold your love story as sacred, not those who will merely attend your party.
+
+Tomorrow, Nana Rose will reveal the art of making every guest feel essential to your story, not just present for your celebration.`,
+  },
 ];
