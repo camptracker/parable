@@ -1325,4 +1325,61 @@ As Vex studied the detailed diagrams of structural failure, he found himself ske
 
 *Tomorrow, Ironmere would reveal why sometimes the youngest builders need to see the darkest failures first...*`,
   },
+  {
+    day: 22,
+    title: "The Immunity Building Process",
+    date: "2026-03-18",
+    image: "images/how-to-scale/day-22.jpg",
+    audio: "audio/how-to-scale/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Immunity Building Process**
+
+The master healer feeds poison to the well,
+Not spite, but wisdom in small measured dose,
+That bodies learn what sickness might foretell
+And build their strength before the fever grows.
+So companies expose their greenest minds
+To tales of failure, collapse, and defeat,
+While veterans flinch at what fresh judgment finds—
+The patterns hidden in each past retreat.
+For those who've never felt the sting of shame
+Can study ruin with untroubled eyes,
+See clearly through the smoke of others' blame
+And spot the flaws that experience disguise.
+*Build immunity through controlled infection,*
+*Transform disasters into protection.*`,
+    standard: `🚀 Day 22: The Immunity Building Process
+
+Because exposure to failure stories creates organizational immunity. Companies give new hires access to catastrophic failures not despite their inexperience, but because of it—fresh perspectives can spot patterns that veterans have become blind to, while early exposure builds failure tolerance without the emotional baggage of having lived through the disasters.
+
+🧱 **The Concept**
+Organizational immunity develops when teams systematically expose themselves to controlled doses of failure knowledge, building resistance to both repeating mistakes and becoming paralyzed by risk.
+
+❓ **Why It Matters**
+Most companies treat failure stories like classified information, creating teams that are simultaneously naive about risks and terrified of taking them. The most innovative organizations do the opposite—they inoculate new employees with failure stories to build judgment without trauma.
+
+⚙️ **How It Works**
+Netflix shows new engineers their most spectacular outages during onboarding, not to scare them but to calibrate their risk assessment. Amazon's "Correction of Error" documents are required reading for new hires, teaching them that failure is data, not shame. Google's post-mortems are searchable by all employees, creating a shared immune system where everyone learns from everyone else's mistakes. The key is timing—expose people to failure stories before they develop emotional attachment to being "right," and they become better decision-makers rather than more cautious ones.
+
+🎯 **Scaling Wisdom**
+Build immunity through controlled exposure to failure, not protection from it.
+
+❓ **Tomorrow's Question** — If failure immunity makes teams more resilient and innovative, why do the most successful companies deliberately infect themselves with fresh vulnerabilities by constantly hiring people who have never failed at their core business?`,
+    parable: `Vex found Ironmere examining a collection of weathered scrolls, each bearing the seal of different guilds throughout the realm.
+
+"These are chronicles of the great collapses," Ironmere said, noting the young builder's curiosity. "The Silversmith Guild's mercury poisoning. The Bridge-Builders' catastrophic span failure. The Mason's Quarter when the foundations gave way."
+
+"Why do you keep such dark histories?" Vex asked, disturbed by the detailed accounts of professional disasters.
+
+"Watch," Ironmere replied, calling over three apprentices. To the first, who had worked with him for years, he showed the bridge collapse chronicle. The apprentice winced and spoke of additional safety measures. To the second, newer but experienced elsewhere, he showed the same document. This one nodded gravely and suggested redundant inspections.
+
+To the third, barely begun in the craft, he showed not one but all the failure chronicles. The young apprentice studied them with fascination rather than fear, asking questions about load calculations and soil analysis that the others hadn't considered.
+
+"The veterans see trauma," Ironmere explained to Vex. "The experienced see caution. But the fresh eyes see patterns and possibilities. They have no scars to protect, no pride to preserve. They build immunity without fear."
+
+Weeks later, it was the youngest apprentice who spotted a critical flaw in Ironmere's latest design—a flaw identical to one described in those ancient failure chronicles.
+
+**Moral:** *Immunity comes from controlled exposure to failure, not protection from it.*
+
+*Tomorrow, Ironmere will reveal why master builders deliberately seek out those who have never built what they're famous for building...*`,
+  },
 ];

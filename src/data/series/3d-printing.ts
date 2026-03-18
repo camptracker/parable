@@ -770,4 +770,62 @@ Finn felt a thrill of anticipation mixed with uncertainty. "Are we still in cont
 
 *Tomorrow, Finn will discover what happens when emergent behaviors begin creating their own emergent responses, challenging our very understanding of cause and effect in complex systems.*`,
   },
+  {
+    day: 14,
+    title: "The Mirror's Edge",
+    date: "2026-03-18",
+    image: "images/3d-printing/day-14.jpg",
+    audio: "audio/3d-printing/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Mirror's Edge**
+
+What prints we make shall print upon the world,
+As world prints back on what our hands have wrought;
+In endless loops where cause and effect swirled,
+Each making makes the maker to be taught.
+
+The water filter learns the streams it cleans,
+While streams learn new ways to flow and bend;
+The building breathes and shapes the air between,
+As architects and elements transcend.
+
+No longer masters of our own design,
+We dance with creations that create in turn;
+Each printed form a partner, not just mine,
+In conversations where we all must learn.
+
+*For in this mirror's edge we come to see*
+*That makers and the made dance mutually.*`,
+    standard: `🖨️ Day 14: The Mirror's Edge
+
+When emergent behaviors reshape the physical world, which then generates new emergent responses, we enter a feedback loop where our creations become co-creators of reality. The distinction between progress and loss of control becomes emergent itself because the system begins defining its own metrics of success, making traditional human categories of evaluation insufficient.
+
+🧱 **The Concept**
+Every printed object becomes both a product of its environment and a shaper of that environment, creating recursive feedback loops where creation and context continuously redefine each other.
+
+❓ **Why It Matters**
+When our 3D printed objects interact with the world, they don't just occupy space — they actively participate in reshaping the conditions that created them. This recursive relationship means that every design decision ripples forward to influence future possibilities, making us partners rather than masters in an ongoing creative dialogue with our own creations.
+
+⚙️ **How It Works**
+Consider a 3D printed water filter that adapts its porosity based on local contamination patterns — as it cleans water, it changes the microbial ecosystem, which changes the contamination patterns, which changes how the filter needs to adapt. Smart building components printed with responsive materials reshape airflow patterns, which affects how occupants use spaces, which generates new data that influences the next generation of components. Bio-compatible implants don't just replace tissue — they guide how surrounding tissue grows, creating hybrid biological-artificial systems where the boundary between natural and manufactured becomes meaningless. Each iteration creates conditions that its creators never anticipated, making design a collaborative process between human intention, material behavior, and environmental response.
+
+🎯 **Maker Wisdom**
+The most profound designs are those that create space for outcomes their makers never imagined, turning creation into conversation.
+
+❓ **Tomorrow's Question** — If every object we create becomes a participant in reshaping the world that shapes it, what happens when we design objects specifically intended to teach the world how to create better versions of themselves — and how does this transform us from makers into teachers of an intelligence we're still learning to understand?`,
+    parable: `Finn found Orna standing before a wall of mirrors in her workshop, each reflection showing not her face, but swirling patterns of light and shadow that seemed to move independently of her movements.
+
+"These aren't ordinary mirrors," Orna said without turning. "Each one was 3D printed with materials that respond to what they reflect. Watch." She held up a bright crystal, and immediately the mirrors began shifting their surface textures, some becoming more reflective, others more diffuse, each finding its own way to interact with the light.
+
+"But here's where it becomes interesting," she continued, as the changed mirrors began casting new patterns of light around the room. "The light they reflect back changes what they're reflecting, which changes how they respond, which changes the light again."
+
+Finn watched, mesmerized, as the system found a rhythm — not the rhythm Orna had intended, but something entirely new. "It's like they're learning to dance together," he whispered.
+
+"Exactly. And notice — I stopped being the choreographer the moment I set them in motion. Now I'm just another dancer in the performance." Orna lowered the crystal, but the mirrors continued their subtle conversation of light and reflection. "Every object we print becomes part of an ongoing conversation with the world. We don't just make things — we introduce new participants into reality's ongoing dialogue with itself."
+
+The mirrors pulsed gently, as if acknowledging their role as both observers and observed, creators and created.
+
+**Moral**: When we create objects that shape their environment as much as they're shaped by it, we become partners in an endless dance of mutual influence.
+
+**Tomorrow**: Orna will reveal what happens when objects are designed not just to participate in this dance, but to teach others how to dance more beautifully.`,
+  },
 ];

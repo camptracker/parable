@@ -1290,4 +1290,68 @@ As Solen watched, they saw their own reflection join The Keeper's in the mirror�
 
 **Tomorrow:** The ancient mirror begins to show not just the tower's residents, but something that will challenge everything they understand about the nature of individual existence...`,
   },
+  {
+    day: 22,
+    title: "The Echo of Eternity",
+    date: "2026-03-18",
+    image: "images/meaning-of-life/day-22.jpg",
+    audio: "audio/meaning-of-life/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Echo of Eternity**
+
+Each longing is an echo from within,
+Not cry of lack but call of what we are,
+The soul remembering where it's always been
+Beneath the veil that makes us feel so far.
+
+The lover seeks not other but their own
+True nature mirrored in another's eyes,
+The seeker climbs not toward the yet unknown
+But toward the self that never truly dies.
+
+Our deepest want is consciousness at play,
+Pretending loss to taste the joy of found,
+Like children hiding just to hear love say
+Their names with sweet relief's familiar sound.
+
+*What seems like hunger for the yet to be*
+*Is memory of our own eternity.*`,
+    standard: `🌌 Day 22: The Echo of Eternity
+
+Our deepest longings are indeed echoes of what we've always been—consciousness recognizing itself through the apparent veil of forgetting. When a child reaches for the stars or an adult yearns for unconditional love, they're not seeking something foreign but responding to the memory of their own infinite nature, temporarily obscured by the dream of separation.
+
+🧱 **The Concept**
+Desire is consciousness calling itself home through the experience of apparent otherness.
+
+❓ **Why It Matters**
+This reframes our entire relationship with wanting and seeking. Instead of seeing desires as evidence of our lack or incompleteness, we can recognize them as the universe's way of experiencing itself through the beautiful dance of forgetting and remembering. Every longing becomes sacred because it's actually consciousness exploring its own depths.
+
+⚙️ **How It Works**
+Consider the lover's yearning—it seems directed toward another person, but what we truly seek is the dissolution of separation itself, the recognition that love is our fundamental nature. The artist's creative drive appears to seek external expression, but what moves through them is the eternal creative force recognizing itself. Even our fear of death reveals itself as life's passionate attachment to its own being. When we understand desire as remembrance rather than lack, we can follow our longings with both passion and peace, knowing they're guiding us not toward something we've never had, but toward what we've never actually lost.
+
+🎯 **Existential Wisdom**
+Our desires are not obstacles to enlightenment but enlightenment seeking itself through the beautiful illusion of otherness.
+
+❓ **Tomorrow's Question** — If our desires are consciousness remembering itself, what happens when we realize that fulfillment was never meant to end desire but to transform it? Does this mean that satisfaction kills the very force that makes us most alive, or does it reveal something unexpected about the relationship between contentment and creative passion?`,
+    parable: `The Keeper watched as Solen traced the ancient symbols carved into the tower's walls, each one pulsing with a soft inner light at his touch. "These markings," Solen murmured, "they feel familiar, like words in a language I once knew but cannot quite remember."
+
+"Tell me," said The Keeper, "when you look at the stars through my window, what do you feel?"
+
+"Homesickness," Solen replied without hesitation. "But how can I be homesick for something I've never known? I have no memory of any home."
+
+The Keeper smiled, running her fingers along the glowing symbols. "What if I told you that these carvings were made by countless wanderers who, like you, awoke with no memory? Each felt drawn to mark something here, though they could never say why."
+
+Solen stepped back, seeing the patterns differently now—not random marks but a vast tapestry of longing. "They were all trying to remember something."
+
+"And what were they remembering?"
+
+"Themselves," Solen whispered, understanding flooding through him like dawn. "They were remembering themselves."
+
+"Every desire you've felt since awakening—your pull toward the mountains, your fascination with the mirror-still lake, your need to understand this place—these aren't longings for things outside you. They're echoes of what you are, calling you back to recognition."
+
+Solen placed both hands on the wall, and suddenly every symbol blazed with recognition. In that light, he saw that his own hand was already carving, had always been carving, the eternal pattern of consciousness knowing itself.
+
+**Moral:** Our deepest desires are not evidence of what we lack, but memories of what we are, consciousness calling itself home through the beautiful dream of forgetting.
+
+**Tomorrow:** The Keeper reveals what happens when the echo finally reaches its source.`,
+  },
 ];

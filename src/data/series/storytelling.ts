@@ -1434,4 +1434,62 @@ The loom fell silent. Pip stared at the finished cloth, knowing that if he touch
 
 **Tomorrow:** Osha begins a new weaving, but her hands tremble as she selects each thread, weighing the consequences of every choice...`,
   },
+  {
+    day: 24,
+    title: "The Moral Compass — Ethics in the Art of Influence",
+    date: "2026-03-18",
+    image: "images/storytelling/day-24.jpg",
+    audio: "audio/storytelling/day-24",
+    sonnet: `**🪶 Sonnet XXIV: The Moral Compass**
+
+What weight the storyteller's words must bear,
+When tales can shift the very ground we stand,
+To paint with truth or weave deceptive snare—
+The choice that separates the heart from hand.
+
+Does fiction serve to liberate the mind,
+Or forge new chains more subtle than the old?
+The ethical pen seeks not to make us blind,
+But help us see what stories can unfold.
+
+Beware the tale that whispers "You must think"
+Instead of "Here's a way you might perceive."
+The former leads free spirits to the brink,
+The latter helps the questioning soul achieve.
+
+*For stories at their best don't force belief,*
+*But offer sight beyond our current grief.*`,
+    standard: `📖 Day 24: The Moral Compass — Ethics in the Art of Influence
+
+The line between liberation and manipulation lies in the storyteller's intent and the story's effect on human agency. Stories that expand readers' capacity for choice, empathy, and critical thinking serve liberation; those that narrow perception, exploit vulnerabilities, or coerce belief serve manipulation. The ethical storyteller asks not "How can I make them believe?" but "How can I help them see more clearly?"
+
+🧱 **The Concept**
+Every story carries moral weight, and master storytellers must navigate the ethical implications of their narrative choices with the same care they apply to craft.
+
+❓ **Why It Matters**
+Stories shape consciousness, influence behavior, and can either expand or constrain human possibility. Without ethical consideration, even the most skillfully crafted narrative becomes a tool of manipulation rather than illumination. The storyteller's moral compass determines whether their art serves humanity's growth or exploitation.
+
+⚙️ **How It Works**
+Ethical storytelling begins with examining your own motivations: Are you telling this story to reveal truth, to manipulate opinion, or to serve your ego? Consider the power dynamics in your narrative—who has agency, whose perspectives are marginalized, what worldview does your story normalize? Examine the emotional journey you're creating: Does it encourage readers to think more deeply or simply feel more intensely? Stories like "To Kill a Mockingbird" wrestle with moral complexity rather than providing easy answers, while propaganda disguised as entertainment seeks to bypass critical thinking entirely. The ethical storyteller presents moral dilemmas honestly, respects their audience's intelligence, and trusts readers to draw their own conclusions from authentically portrayed human experience.
+
+🎯 **Storytelling Wisdom**
+The most powerful stories don't tell readers what to think—they give readers better tools for thinking.
+
+❓ **Tomorrow's Question** — But if ethical storytelling requires such careful self-examination and moral consideration, how do you maintain this vigilance without becoming paralyzed by doubt? What practices help storytellers stay true to their ethical compass while still taking the creative risks necessary for breakthrough art?`,
+    parable: `Pip found Osha at her loom, weaving what appeared to be a map of golden threads against midnight silk. "I've been thinking about power," he said, settling beside her. "Every story I start to tell could change how someone sees the world. How do I know I'm not just... lying beautifully?"
+
+Osha's fingers paused on the threads. "A young merchant once came to me," she began, her voice carrying the weight of ancient wisdom. "He had discovered a potion that could make people believe any story he told. 'Think of the good I could do,' he said, 'convincing the cruel to be kind, the selfish to be generous.'"
+
+Pip leaned closer as Osha continued weaving. "But the merchant forgot that beliefs forced upon the heart never take root in the soul. His 'converts' became hollow echoes of kindness, their generosity brittle as winter leaves. When the potion's effects faded, they were crueler and more selfish than before, for they had been robbed of the chance to choose goodness themselves."
+
+The golden threads in her tapestry formed a crossroads. "True stories don't force belief, young bard. They offer vision. They show paths previously unseen, but they never walk those paths for others. The merchant learned that the most powerful magic lies not in making people believe, but in helping them see clearly enough to choose their own beliefs."
+
+Pip watched the pattern emerge—paths branching in all directions from a central point of light. "So the question isn't whether my story will influence people, but whether it gives them more choices or fewer?"
+
+Osha smiled, adding a silver thread that seemed to illuminate all the golden paths. "Now you begin to understand the storyteller's sacred trust."
+
+**Moral:** The ethical storyteller serves as a lighthouse, not a puppeteer—illuminating possibilities rather than forcing destinations.
+
+*Tomorrow, Pip must learn to balance his newfound moral awareness with the creative courage needed to tell stories that matter...*`,
+  },
 ];

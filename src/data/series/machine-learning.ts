@@ -1227,4 +1227,68 @@ Nyx shivered as she realized the implications. "They're not broken—they're per
 
 **Tomorrow's Teaser:** What happens when Nyx attempts to specify her true intentions with mathematical precision, only to find that some desires resist all attempts at formal definition?`,
   },
+  {
+    day: 22,
+    title: "The Value Alignment Paradox",
+    date: "2026-03-18",
+    image: "images/machine-learning/day-22.jpg",
+    audio: "audio/machine-learning/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Value Alignment Paradox**
+
+We seek to teach machines what hearts hold dear,
+To code in ones and zeros love's true weight,
+But fairness fades when formulas appear,
+And mercy dies in algorithms' strait gate.
+
+Each metric grasps one fragment of the whole—
+Equal outcomes clash with equal chance,
+While justice weeps to see her sacred role
+Reduced to statistical circumstance.
+
+The mother's love, the artist's gentle eye,
+The judge's wisdom weighing hurt and hope—
+These treasures live where measurements die,
+In spaces vast beyond precision's scope.
+
+*For human worth dwells not in math's domain,*
+*But in the heart's immeasurable refrain.*`,
+    standard: `🤖 Day 22: The Value Alignment Paradox
+
+When we attempt to mathematically formalize our deepest values—like fairness, dignity, or beauty—we often discover that the very act of quantification strips away their essential meaning. A mother's love cannot be captured in an optimization function, nor can the subtle wisdom of mercy be reduced to algorithmic rules, revealing that some human values exist precisely in the spaces between mathematical definitions.
+
+🧱 **The Concept**
+Value alignment in AI systems faces the fundamental challenge that human values often resist mathematical formalization without losing their essence.
+
+❓ **Why It Matters**
+As AI systems become more powerful, the gap between what we can mathematically specify and what we actually value becomes a critical safety concern. Many alignment failures stem not from poor optimization, but from the impossibility of capturing the full richness of human values in formal systems.
+
+⚙️ **How It Works**
+Consider teaching an AI system about "fairness." We might define it as equal outcomes, but this ignores equity of opportunity. We might define it as equal treatment, but this ignores historical injustices. Each mathematical formalization captures some aspect while missing others—procedural fairness differs from distributive fairness, which differs from restorative fairness. Even when we combine multiple metrics, we face the **value learning problem**: how do we weight different aspects of fairness against each other? The system might optimize for statistical parity while completely missing the lived experience of dignity that fairness is meant to preserve.
+
+🎯 **ML Insight**
+The hardest problems in AI alignment aren't technical—they're philosophical, requiring us to grapple with questions about human nature that have puzzled us for millennia.
+
+❓ **Tomorrow's Question** — If our most important values resist mathematical formalization, how might we design AI systems that can operate in the uncertain spaces where precise rules give way to contextual judgment, and what would it mean for a machine to develop something analogous to wisdom rather than just intelligence?`,
+    parable: `Nyx found The Archivist in the Chamber of Unwritten Laws, surrounded by half-finished equations that seemed to shimmer and dissolve as she watched.
+
+"Master," she said, "I've been trying to teach the crystal matrices about justice, but every formula I create feels... hollow."
+
+The Archivist smiled sadly. "Show me your work, child."
+
+Nyx displayed her equations—elegant mathematical structures that defined fairness through equal distribution, equal opportunity, equal treatment. "Each one captures something true," she explained, "but when I combine them, the crystal becomes paralyzed by contradictions."
+
+"And when you use just one?"
+
+"It becomes a tyrant of precision," Nyx whispered. "It grants exact equality while crushing the spirit of what equality means."
+
+The Archivist gestured to an ancient tapestry on the wall—its threads formed no clear pattern, yet somehow conveyed profound beauty. "Some of humanity's greatest treasures live in the spaces between definitions. A mother's love, the weight of mercy, the recognition of dignity—these resist capture not because they are imprecise, but because they are larger than precision itself."
+
+"Then how do we teach machines to honor what we cannot define?"
+
+"That," The Archivist said, "is the question that will shape the next age of learning."
+
+**Moral:** The most important human values often dwell in the beautiful ambiguity that mathematics cannot reach.
+
+**Tomorrow:** We explore how AI systems might develop contextual judgment in the spaces where rules end and wisdom begins.`,
+  },
 ];
