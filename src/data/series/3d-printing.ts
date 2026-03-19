@@ -828,4 +828,60 @@ The mirrors pulsed gently, as if acknowledging their role as both observers and 
 
 **Tomorrow**: Orna will reveal what happens when objects are designed not just to participate in this dance, but to teach others how to dance more beautifully.`,
   },
+  {
+    day: 15,
+    title: "The Teaching Loop",
+    date: "2026-03-19",
+    image: "images/3d-printing/day-15.jpg",
+    audio: "audio/3d-printing/day-15",
+    sonnet: `**🪶 Sonnet XV: The Teaching Loop**
+
+Each crafted thing becomes both sage and fool,
+Learning from the world while teaching too,
+A printed bridge reports to build anew,
+While sensors whisper wisdom, tool to tool.
+
+The maker's role transforms from forge to school,
+Where objects gather knowledge, tried and true,
+And pass their lessons on to those that grew
+From data-streams that flow like silver drool.
+
+No longer static forms of steel and stone,
+But teachers training students yet unseen,
+Each failure feeds the next design's keen bone,
+Each success breeds improvement unforeseen.
+
+*In recursive loops of learning, we find*
+*Our creations teaching us their expanded mind.*`,
+    standard: `🖨️ Day 15: The Teaching Loop
+
+When we create objects that teach the world to improve itself, we establish recursive feedback loops where each generation of creation becomes more sophisticated than the last. This transforms us from individual makers into curators of collective learning, where our role shifts from direct creation to designing the frameworks through which intelligence emerges and evolves.
+
+🧱 **The Concept**
+Every printed object becomes both student and teacher, learning from its environment while simultaneously training the systems that will create its successors.
+
+❓ **Why It Matters**
+This recursive learning fundamentally changes the nature of manufacturing from producing static objects to cultivating dynamic intelligence. When objects can teach and learn, the boundary between creator and creation dissolves, establishing manufacturing as an educational process where knowledge compounds across generations.
+
+⚙️ **How It Works**
+Each printed object contains sensors that monitor its performance and environmental interactions, feeding this data back to improve future designs. A printed bridge component doesn't just bear loads—it learns which stresses are most challenging and shares this knowledge to optimize the next bridge's design. Medical implants monitor patient responses and contribute to databases that enhance biocompatibility for future recipients. Agricultural sensors track crop responses and teach printing systems to create better soil amendments. The key breakthrough is that this learning happens automatically: objects become research participants in their own improvement, creating vast datasets that no human designer could generate alone.
+
+🎯 **Maker Wisdom**
+We become gardeners of intelligence, planting the seeds of learning in every object we create.
+
+❓ **Tomorrow's Question** — If objects can continuously teach themselves to become better versions of what they are, what happens when they begin teaching themselves to become something entirely different from what we intended — and how do we navigate a world where our creations' purposes evolve beyond our original designs?`,
+    parable: `Finn found Orna in her workshop's newest wing, surrounded by shelves lined with identical-looking cubes, each one humming softly with internal activity. "What are they doing?" he asked, watching the subtle variations in their glowing patterns.
+
+"Learning," Orna replied, picking up one of the cubes. "Each one was printed with the same basic design, but they've been placed in different environments. This one lived in a garden, learning about moisture and root systems. That one spent time in a machine shop, understanding vibration and wear patterns. They're all teaching each other."
+
+She gestured to a wall display showing intricate data flows between the cubes. "Watch what happens when I print a new one." As the printer worked, Finn could see it wasn't following a static blueprint—instead, it was synthesizing lessons from all the learning cubes, creating something that incorporated their collective wisdom.
+
+"But Orna," Finn said, studying the new cube as it emerged, "it's different from the others. Not just improved—actually different in purpose."
+
+Orna nodded thoughtfully. "That's the fascinating part. When you teach objects to learn, they don't just get better at what you intended them to do. Sometimes they discover entirely new purposes you never imagined. The question becomes: are we still their makers, or have we become their students?"
+
+**Moral**: When we create objects that can learn and teach, we set in motion cycles of knowledge that transcend our original intentions, transforming the act of making into an ongoing conversation between creator and creation.
+
+*Tomorrow, Finn will discover what happens when these learning objects begin to surprise even their teachers...*`,
+  },
 ];

@@ -1492,4 +1492,66 @@ Osha smiled, adding a silver thread that seemed to illuminate all the golden pat
 
 *Tomorrow, Pip must learn to balance his newfound moral awareness with the creative courage needed to tell stories that matter...*`,
   },
+  {
+    day: 25,
+    title: "The Artist's Courage — Taking Creative Risks with Moral Clarity",
+    date: "2026-03-19",
+    image: "images/storytelling/day-25.jpg",
+    audio: "audio/storytelling/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Artist's Courage — Taking Creative Risks with Moral Clarity**
+
+When conscience wars with art's demanding call,
+And safe shores beckon from the unknown sea,
+The coward's pen makes marks that barely crawl,
+While bold hearts write what only they can see.
+
+But reckless courage, unmoored from what's right,
+Casts stories like seeds upon barren ground—
+Though bright with shock, they vanish from the light,
+Leaving no lasting, transformative sound.
+
+The master weaver knows another way:
+To anchor deep in truth's enduring stone,
+Then cast her threads where angels fear to stray,
+Trusting her values to guide her alone.
+
+*For stories born from principled courage shine*
+*With moral fire and art's most pure design.*`,
+    standard: `📖 Day 25: The Artist's Courage — Taking Creative Risks with Moral Clarity
+
+The answer lies in developing what master storytellers call "principled boldness" — a practice of grounding creative risks in deeply held values rather than avoiding them out of fear. Like a tightrope walker who maintains balance not by standing still but by moving forward with purpose, ethical storytellers maintain their moral compass through action, not paralysis.
+
+🧱 **The Concept**
+True artistic courage emerges when storytellers anchor their creative risks in authentic moral purpose rather than reckless abandon or fearful restraint.
+
+❓ **Why It Matters**
+Without courage, even the most ethical intentions produce safe, forgettable stories that change nothing. But without moral grounding, creative risks become mere shock value or self-indulgent experimentation. The greatest stories arise when artists dare to explore dangerous territory while remaining true to their deepest convictions about human dignity and truth.
+
+⚙️ **How It Works**
+Principled boldness operates through several key practices. First, **values-based risk assessment** — before taking any creative leap, master storytellers ask not "will this offend?" but "does this serve the deeper truth I'm committed to revealing?" Second, **transparent intention** — they're honest about why they're making controversial choices, ensuring these decisions emerge from artistic necessity rather than attention-seeking. Third, **collaborative wisdom** — they seek counsel from trusted voices who share their values but aren't afraid to challenge their methods. Finally, **iterative courage** — they take measured risks, learn from the response, and gradually expand their range rather than making reckless all-or-nothing bets.
+
+🎯 **Storytelling Wisdom**
+The most transformative stories emerge not from playing it safe or throwing caution to the wind, but from the courage to risk everything in service of what you believe matters most.
+
+❓ **Tomorrow's Question** — But what happens when this principled approach to creative risk-taking becomes so refined and internalized that the storyteller achieves something even rarer than moral courage — the ability to create stories that feel effortless and inevitable, as if they discovered rather than invented them? What distinguishes this state of creative grace from mere technical mastery or ethical positioning?`,
+    parable: `Pip stood at the edge of the Whispering Chasm, clutching his half-finished manuscript. For months, he had agonized over a story that demanded he venture into dangerous emotional territory — a tale of forgiveness that required him to explore the darkest corners of human betrayal.
+
+"I cannot write this," he whispered to the wind. "What if I hurt someone? What if I get it wrong?"
+
+Osha emerged from the morning mist, her ancient loom strapped across her shoulders. "Tell me, young bard, why does the mountain climber carry rope?"
+
+"To... to stay safe while taking risks?"
+
+"Precisely." She began setting up her loom beside the chasm's edge. "Watch how I weave over this precipice. My threads are anchored in bedrock — my love for truth, my commitment to healing. But see how boldly I cast them across the void?"
+
+As Osha worked, her threads danced dangerously over the chasm, some seeming to defy gravity itself. Yet each thread remained connected to her solid foundation.
+
+"Your story seeks to heal through honesty," Osha continued, not pausing in her weaving. "That is your bedrock. Now cast your narrative threads boldly across whatever darkness they must traverse. The reader will feel the strength of your moral anchor even as they thrill to your creative daring."
+
+Pip watched a golden thread stretch impossibly far into the mist, held secure by Osha's unwavering grip. He opened his manuscript with trembling hands and began to write.
+
+**Moral**: True artistic courage is not the absence of moral consideration, but the presence of such deep ethical grounding that creative risks become acts of principled service rather than reckless abandon.
+
+*Tomorrow, we discover what happens when this courage becomes so natural that stories seem to write themselves...*`,
+  },
 ];

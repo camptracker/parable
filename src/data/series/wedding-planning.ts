@@ -1096,4 +1096,70 @@ Dove felt something shift in her heart—from accumulating to honoring, from exp
 
 **Tomorrow:** Dove and Elm discover that the feeling they create matters more than the perfection they achieve.`,
   },
+  {
+    day: 19,
+    title: "The Sacred Gratitude",
+    date: "2026-03-19",
+    image: "images/wedding-planning/day-19.jpg",
+    audio: "audio/wedding-planning/day-19",
+    sonnet: `**🪶 Sonnet XIX: The Sacred Gratitude**
+
+When weddings bloom from thankfulness sincere,
+Each guest becomes a valued part of story,
+Not audience to watch, but souls held dear
+Whose presence adds to love's unfolding glory.
+
+The centerpiece of roses cannot say
+What handwritten notes to tables can convey—
+How friendships forged through years of joy and pain
+Helped weave the love we celebrate today.
+
+No grand spectacle can match the power
+Of naming how each heart shaped this romance,
+Of honoring in gratitude's bright hour
+The community that gave our love its chance.
+
+*For weddings rooted deep in thankful ground*
+*Create the sacred space where love is found.*`,
+    standard: `💍 Day 19: The Sacred Gratitude
+
+Most couples discover that the feeling they most want to cultivate is deep gratitude—not just their own thankfulness for love found, but helping every guest feel genuinely appreciated for their role in the love story. This requires sacrificing the performance aspects of weddings (the need to impress or entertain) in favor of authentic acknowledgment and heartfelt recognition of each person's significance.
+
+🧱 **The Concept**
+True wedding magic happens when gratitude becomes the celebration's organizing principle rather than an afterthought.
+
+❓ **Why It Matters**
+When couples focus on expressing genuine appreciation—for their journey, their community, and the moment itself—they create an atmosphere that transforms spectators into participants. Guests feel the difference between being entertained and being truly valued, and that feeling becomes the lasting memory they carry forward.
+
+⚙️ **How It Works**
+Gratitude-centered weddings prioritize moments of acknowledgment over moments of spectacle. Instead of elaborate centerpieces, couples might write personal notes to each table explaining why those specific people matter to their story. Rather than a generic thank-you speech, they share specific memories or ways each family contributed to their love. The ceremony includes recognition of those who couldn't be present, and the reception features storytelling that honors the community rather than showcasing the couple. Every element asks "How can this help our guests feel appreciated?" instead of "How will this look in photos?"
+
+🎯 **Wedding Wisdom**
+A wedding rooted in gratitude creates abundance that multiplies—the more appreciation you express, the more love you receive in return.
+
+❓ **Tomorrow's Question** — If you had to choose between a wedding that made everyone say "How beautiful" or one that made everyone say "How loved I feel," which would create the legacy you actually want, and what does that choice reveal about the difference between admiration and connection?`,
+    parable: `Dove sat surrounded by vendor contracts and thank-you card samples, overwhelmed by the mechanics of gratitude. "How do we thank two hundred people without it feeling fake?" she asked Elm, who was reading through their gift registry with growing unease.
+
+"Maybe we're thinking about this backward," Elm said quietly. "We keep asking how to thank people for coming, but what if we asked how to help them feel our actual gratitude?"
+
+Nana Rose arrived to find them puzzling over seating charts. "You look like you're trying to solve a math problem," she observed, settling into her chair with tea.
+
+"We want everyone to feel appreciated," Dove explained, "but it feels impossible to make it personal for so many people."
+
+"Tell me," Nana Rose said, "when someone has made you feel truly valued, what did they do?"
+
+Dove considered. "They... they saw something specific about me. They noticed what I contributed, not just that I existed."
+
+"Exactly. Gratitude isn't about thanking people for showing up—it's about acknowledging who they are to you." Nana Rose gestured to their guest list. "Your college roommate isn't just 'a guest.' She's the person who talked you through heartbreak junior year. Your cousin isn't just 'family.' He's the one who always believed you'd find love when you'd given up hope."
+
+Elm's eyes widened. "So instead of generic appreciation..."
+
+"You celebrate the specific ways each person shaped your love story," Nana Rose finished. "A wedding becomes sacred when it transforms from 'Look at us' to 'Look what we built together.'"
+
+As they redesigned their celebration around recognition rather than spectacle, Dove felt the weight of performance lifting. Tomorrow, they would discover the difference between earning admiration and creating connection.
+
+**Moral**: True gratitude sees the individual within the crowd, transforming celebration from performance into recognition.
+
+**Tomorrow**: The couple learns that the choice between beauty and belonging reveals everything about a wedding's true purpose.`,
+  },
 ];

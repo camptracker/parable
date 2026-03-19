@@ -1484,4 +1484,68 @@ Hallam stared at the coins, his breathing gradually slowing. "So the fear never 
 
 **Tomorrow:** Even as we learn to rewire our survival circuits, a curious resistance emerges that goes deeper than evolutionary programming...`,
   },
+  {
+    day: 25,
+    title: "The Wound Wisdom — How Personal Healing Unlocks Wealth Creation",
+    date: "2026-03-19",
+    image: "images/real-estate/day-25.jpg",
+    audio: "audio/real-estate/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Wound Wisdom — How Personal Healing Unlocks Wealth Creation**
+
+Within each heart lie wounds that block the flow
+Of wealth and love and opportunities,
+These ancient hurts teach hoarding what we know—
+That scarcity protects our boundaries.
+
+But what once saved us now constrains our reach,
+The frightened child within still grips each coin,
+While abundance waits for us to teach
+Our wounded selves that safety can rejoin.
+
+Each property reflects our inner state,
+Each deal reveals what we believe we're worth,
+The mirror shows what patterns we create
+Between our sky-bound dreams and earthbound berth.
+
+*For wealth flows only through a healed heart's door—*
+*What we can't hold within, we can't explore.*`,
+    standard: `🏠 Day 25: The Wound Wisdom — How Personal Healing Unlocks Wealth Creation
+
+The resistance to generous investing strategies stems from our deepest wounds around worthiness, safety, and belonging—wounds that convince us we must hoard to survive because we fundamentally don't deserve abundance. This reveals that our capacity to create wealth is directly proportional to our capacity to heal, because unhealed wounds create the very scarcity patterns that block the flow of opportunities, relationships, and resources that generate true wealth.
+
+🧱 **The Concept**
+Your personal healing work directly determines your wealth creation ceiling, because internal wounds create external limitations in how much abundance you can receive, hold, and circulate.
+
+❓ **Why It Matters**
+Most investors focus entirely on external strategies—market analysis, deal structures, financing—while ignoring the internal blocks that sabotage their success. The investors who break through to extraordinary wealth are invariably those who've done the deepest work on their relationship with money, worthiness, and trust. Your portfolio becomes a mirror of your psychology, reflecting back every unhealed wound through missed opportunities, bad partnerships, and self-sabotaging decisions.
+
+⚙️ **How It Works**
+When you carry wounds around abandonment, you unconsciously choose partners who will betray you or deals that isolate you from support networks. If you have worthiness wounds, you'll consistently undervalue your properties, accept below-market rents, or give away equity in joint ventures. Scarcity wounds make you hoard opportunities instead of sharing them, cutting you off from the referral networks that generate the best deals. The healing happens through conscious practice: notice when fear contracts your choices, feel the sensation in your body, breathe into it, and choose the expansive action anyway. Each healed wound removes a wealth ceiling, allowing you to operate from trust rather than fear, abundance rather than scarcity, worthiness rather than proving.
+
+🎯 **Real Estate Wisdom**
+Your net worth will never consistently exceed your self-worth, because wounded parts of you will unconsciously sabotage what you don't believe you deserve.
+
+❓ **Tomorrow's Question** — If personal healing directly unlocks wealth creation capacity, and if our wounds create predictable patterns of financial limitation, then what happens when you've healed the major wounds but still find yourself operating from subtle forms of spiritual materialism—using abundance principles as just another way to get more stuff? Is there a corruption that occurs when consciousness meets commerce, and how do you know if you're truly serving life or just serving ego with more sophisticated language?`,
+    parable: `Dara found Hallam sitting alone in his study, staring at a ledger filled with crossed-out entries and abandoned deals.
+
+"I don't understand it," the old landlord muttered. "I know the generous strategies work—I've seen them succeed for others. But every time I try to offer better terms or share opportunities, something in my chest tightens like a fist, and I retreat into the old ways."
+
+Dara noticed the portrait above his desk—a stern woman with cold eyes. "Tell me about her."
+
+"My grandmother. She raised me after my parents died in the plague." His voice grew distant. "Every night she'd count coins by candlelight, muttering that we had to save every copper or we'd end up begging in the streets. When I'd ask for bread, she'd say I hadn't earned it yet. When I'd play with other children, she'd drag me home, saying they only wanted to take advantage."
+
+Dara saw it then—the invisible chain connecting the frightened boy to the hoarding man. "Your grandmother's fears saved you both from starvation. But now those same fears prevent you from receiving the abundance trying to flow to you."
+
+"How do I break free from programming carved so deep it feels like bone?"
+
+"The same way you'd renovate a house with structural damage—carefully, with respect for what protected you, but with courage to rebuild what no longer serves." She gestured to his crossed-out deals. "Each time fear contracts your chest, breathe into that sensation. Thank your grandmother's voice for trying to protect you, then ask: 'What would love do here?' The wound that taught you to hoard is the same wound that, when healed, will teach you to circulate wealth like a master."
+
+Hallam's eyes filled with tears he'd held for decades. "So my capacity to create wealth is limited by my capacity to heal?"
+
+"Your portfolio is a perfect mirror of your psychology. Every limitation out there began as a wound in here." She touched her heart. "The most successful investors I know aren't those with the best strategies—they're those who've done the deepest healing work."
+
+**Moral:** Your net worth will never consistently exceed your self-worth, because wounded parts of you will unconsciously sabotage what you don't believe you deserve.
+
+**Tomorrow:** Even healed investors can fall into spiritual materialism—using consciousness as just another tool for accumulation.`,
+  },
 ];

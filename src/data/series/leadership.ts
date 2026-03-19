@@ -1346,4 +1346,66 @@ Tova watched as Willem secured a line, his movements efficient despite what must
 
 *Tomorrow, Greymane will teach Tova that the most powerful leadership tool isn't changing people's behavior, but changing the stories they believe about themselves.*`,
   },
+  {
+    day: 22,
+    title: "The Mirror of Belief",
+    date: "2026-03-19",
+    image: "images/leadership/day-22.jpg",
+    audio: "audio/leadership/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Mirror of Belief**
+
+In every soul lies dormant strength untold,
+While leaders seek what breaks, not what may bloom.
+The wise commander sees not flaws grown old,
+But seeds of greatness planted in the gloom.
+
+As mirrors show not blemish but the whole,
+So must we reflect back what people are:
+The courage hidden deep within each soul,
+The light that waits to shine as bright as stars.
+
+When sailors stumble on the swaying deck,
+The master sees their balance, not their fall.
+For in each struggle, wisdom we detect,
+And strength that answers to its proper call.
+
+*The greatest gift that leadership can give:*
+*To show each person how they're meant to live.*`,
+    standard: `👥 Day 22: The Mirror of Belief
+
+Changing the stories people tell themselves requires becoming a mirror that reflects their strengths back to them before they can see those strengths themselves. Instead of pointing out deficiencies, you must become skilled at catching people in moments of excellence and helping them recognize patterns of capability they've been blind to. This transforms leadership from a corrective force into an illuminating one.
+
+🧱 **The Concept**
+True leadership transforms people by helping them see themselves through the lens of their potential rather than their current limitations.
+
+❓ **Why It Matters**
+People perform at the level of the identity they hold about themselves. When leaders consistently reflect back evidence of competence, resilience, and growth, they literally reshape how team members see their own capabilities. This internal transformation creates sustainable change that no external motivation can match.
+
+⚙️ **How It Works**
+Start by becoming a detective of excellence—actively looking for moments when team members demonstrate skill, wisdom, or character, even in small ways. Name what you see specifically: "Sarah, the way you asked those follow-up questions in the meeting showed real strategic thinking." Create opportunities for people to succeed, then help them connect their actions to positive outcomes. When addressing mistakes, frame them as data points in their growth story rather than character flaws. Most powerfully, share what you see developing in them that they might not yet recognize: "I've noticed you naturally create calm in chaotic situations—that's a rare leadership gift."
+
+🎯 **Leadership Wisdom**
+The most powerful leaders don't change people—they reveal who people already have the capacity to become.
+
+❓ **Tomorrow's Question** — If you could only develop your team by asking them to teach others what they've learned rather than by teaching them new skills yourself, what would this reveal about the knowledge and wisdom they already possess but haven't been invited to share?`,
+    parable: `Captain Tova stood at the ship's rail, watching her crew struggle with the morning's rope work. Her first instinct was to call out corrections, but Greymane's weathered hand touched her shoulder.
+
+"Watch young Marcus there," the retired admiral murmured, nodding toward a sailor who'd been fumbling with knots all week. "See how he adjusts his grip when the rope slips? He's learning to feel the tension, not just follow the pattern."
+
+Tova frowned. "But he's still making mistakes."
+
+"Ah," Greymane smiled, "but you're watching his mistakes. I'm watching his adaptation." He stepped forward and called to Marcus. "That adjustment you just made—that's the mark of someone who understands rope, not just knot-tying. Show Davies that grip technique."
+
+Marcus straightened, surprise flickering across his face. As he demonstrated the adjustment to his crewmate, his movements grew more confident. "I learned it hurts less if you work with the rope's natural twist," he explained.
+
+"You see?" Greymane whispered to Tova. "He had wisdom he didn't know he possessed. My job wasn't to fix his technique—it was to help him recognize he was already developing mastery."
+
+Tova watched as Marcus continued teaching, his entire posture transformed. "But what about his actual mistakes?"
+
+"Those are just the visible part of learning," Greymane replied. "The invisible part—the part that matters most—is the story he tells himself about his capability. Today, that story changed."
+
+**Moral**: The leader's eye sees not what is broken, but what is becoming whole.
+
+**Tomorrow**: Greymane reveals why the greatest leaders create teachers, not followers.`,
+  },
 ];

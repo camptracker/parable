@@ -1502,4 +1502,62 @@ Vasska smiled with his silver tongue. "You've convinced me of something I hadn't
 
 *Tomorrow, Ren learns why the cruelest choice is between two different victories...*`,
   },
+  {
+    day: 24,
+    title: "The Priority Reveal",
+    date: "2026-03-19",
+    image: "images/negotiation/day-24.jpg",
+    audio: "audio/negotiation/day-24",
+    sonnet: `**🪶 Sonnet XXIV: The Priority Reveal**
+
+When offered gold or glory, which do they take?
+Their hesitation speaks before their tongue,
+For in that pause, their truest values wake—
+The song their deepest self has always sung.
+
+Two paths diverge, but only one they'll choose,
+Each road demanding sacrifice complete.
+What they abandon tells us what they'd lose,
+What they embrace makes their desire concrete.
+
+No longer can they hide behind their words,
+Their preference laid naked in the light.
+Like startled deer revealed by hunting birds,
+Their core priorities come into sight.
+
+*The choice they make when forced to sacrifice*
+*Reveals the compass of their truest price.*`,
+    standard: `🤝 Day 24: The Priority Reveal
+
+When you force someone to choose between two versions of success, you create what psychologists call a "preference cascade" — their choice doesn't just reveal their priorities, it actually crystallizes them in real-time. Most people don't truly know what they value most until forced to sacrifice one thing for another, and this moment of revelation becomes your roadmap for every future interaction.
+
+🧱 **The Concept**
+The Priority Reveal is the moment when someone's true values surface under the pressure of mutually exclusive choices.
+
+❓ **Why It Matters**
+Most people negotiate based on what they think they want, not what they actually prioritize when forced to choose. By creating scenarios where they must sacrifice one benefit for another, you bypass their conscious filters and access their authentic decision-making framework. This gives you unprecedented insight into what will truly motivate them.
+
+⚙️ **How It Works**
+Present two genuinely attractive options that cannot coexist: "We can either close this quickly with a premium price, or take time to customize everything perfectly — but not both." Watch carefully which direction they lean, even in their hesitation. Their body language, their questions, and their eventual choice reveal their core drivers. A CEO who chooses speed over perfection values execution over reputation. One who chooses customization over quick closure values control over efficiency. Once you know their revealed preference, you can structure every subsequent offer to align with this deeper truth rather than their stated preferences.
+
+🎯 **Negotiation Wisdom**
+People's choices under pressure reveal more than their words under comfort ever could.
+
+❓ **Tomorrow's Question** — If understanding someone's true priorities gives you a roadmap to their decisions, what happens when you make them feel like they're about to lose the very thing they just revealed they value most — not through threat, but through "unfortunate timing"?`,
+    parable: `Ren watched as Vasska laid two gleaming daggers on the merchant's table, their blades catching the morning light like captured stars. "Choose," the master trader said to the weapon smith across from them. "One blade cuts through steel but dulls quickly. The other holds its edge forever but bends before the hardest metals."
+
+The smith's weathered hands hovered over both weapons, his eyes darting between them. "Surely there's a blade that does both?"
+
+"Not in this world," Vasska replied, his blind eye seeming to see more than his good one. "Every choice demands sacrifice. Every strength costs something else."
+
+Ren observed the smith's shoulders tense, his breathing shallow. When he finally grasped the eternal blade, his relief was palpable. "This one. A tool is worthless if it fails when needed most."
+
+Vasska smiled knowingly. "Reliability over power. Now I understand what you truly value." He gestured to his pack. "I have something else entirely — a maintenance kit that keeps any blade sharp forever. Far more valuable to you than the strongest steel."
+
+The smith's eyes widened as Vasska revealed not weapons, but wisdom about the man's deepest needs.
+
+"When forced to choose between two goods," Vasska later told Ren, "a person reveals their soul's true compass. Their words may lie, their conscious mind may deceive, but their choice under pressure speaks truth."
+
+Tomorrow, young Ren would learn what happens when that revealed truth faces its greatest test.`,
+  },
 ];
