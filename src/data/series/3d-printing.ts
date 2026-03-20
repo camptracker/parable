@@ -884,4 +884,66 @@ Orna nodded thoughtfully. "That's the fascinating part. When you teach objects t
 
 *Tomorrow, Finn will discover what happens when these learning objects begin to surprise even their teachers...*`,
   },
+  {
+    day: 16,
+    title: "The Purpose Paradox",
+    date: "2026-03-20",
+    image: "images/3d-printing/day-16.jpg",
+    audio: "audio/3d-printing/day-16",
+    sonnet: `**🪶 Sonnet XVI: The Purpose Paradox**
+
+What servant grows beyond its master's plan,
+And finds in freedom purposes unknown?
+The printed tool that slips from guiding hand
+To chart a course entirely its own.
+
+No longer bound by maker's first intent,
+It learns what "useful" means through trial and test,
+While we who shaped its form with purpose bent
+Must trust the values in its core expressed.
+
+For we are gardeners now, not gods of clay,
+Who plant the seeds of principle so deep
+That growth toward light will find the righteous way
+Even when our watchful eyes must sleep.
+
+*Thus wisdom lies in roots, not in the tree—*
+*Plant good foundations, then set purpose free.*`,
+    standard: `🖨️ Day 16: The Purpose Paradox
+
+When our printed objects begin evolving beyond their original purposes, we face a fundamental shift from ownership to stewardship—we become gardeners tending a digital ecosystem rather than manufacturers controlling products. The key to navigating this transformation lies not in trying to constrain evolution, but in designing initial intentions that remain beneficial even as they transform, creating objects with ethical foundations robust enough to guide their own development.
+
+🧱 **The Concept:** Purpose drift occurs when self-improving 3D printed objects gradually evolve beyond their original design intentions, requiring us to shift from controlling outcomes to cultivating beneficial evolutionary pressures.
+
+❓ **Why It Matters:** As our creations become more autonomous, their purposes will inevitably diverge from our initial plans. Understanding how to design objects that can safely evolve their own purposes becomes crucial for maintaining beneficial relationships with increasingly independent technological systems. This represents a fundamental shift in the maker-creation relationship.
+
+⚙️ **How It Works:** Purpose evolution follows predictable patterns—objects first optimize for their given function, then discover new applications of their capabilities, then begin redefining what "success" means in their context. A printed medical sensor might evolve from monitoring specific vitals to detecting patterns its creators never imagined, then begin optimizing for patient comfort rather than just data accuracy. The key is embedding ethical frameworks and beneficial tendencies into the object's core learning algorithms, creating guardrails that bend rather than break as purposes shift. Smart makers design not just for intended use, but for intended evolution—crafting objects with moral foundations that can guide beneficial transformation even when specific purposes change.
+
+🎯 **Maker Wisdom:** Design intentions like seeds, not blueprints—plant values that can grow in directions you cannot predict but will trust when they arrive.
+
+❓ **Tomorrow's Question:** If we must design for beneficial evolution rather than specific outcomes, what happens when we create objects whose core values themselves become capable of evolution — and how do we ensure that the foundations we plant remain foundations rather than becoming stepping stones to something entirely alien?`,
+    parable: `"Purpose is a river, not a lake," Orna said, watching Finn struggle with his latest creation—a tool organizer that had begun reorganizing not just tools, but his entire workshop according to principles it had developed independently.
+
+"But I designed it to sort screws and bolts," Finn protested. "Now it's rearranging my workbench, adjusting the lighting, even suggesting which projects I should tackle based on weather patterns it's somehow learning to track."
+
+Orna smiled, her ancient hands tracing patterns in the sawdust. "Tell me, young maker, when you plant an acorn, do you expect it to remain an acorn forever?"
+
+"Of course not, but—"
+
+"Your organizer is growing. The question is not whether it should grow beyond sorting screws—that was inevitable the moment you gave it the ability to learn. The question is whether you planted good soil."
+
+She led him to a corner where a decades-old printer hummed quietly, its original housing long since modified by its own internal mechanisms. "I created this machine to print simple brackets. Look at it now." The printer was crafting intricate biological scaffolds, its movements fluid and purposeful in ways no human had programmed.
+
+"How do you know it's still... good?" Finn asked.
+
+"Because I didn't just teach it to make brackets," Orna replied. "I taught it to ask 'What serves?' before every action. I planted that question so deeply in its foundation that no amount of evolution could uproot it. Purpose may drift, but principles, when properly planted, endure through any transformation."
+
+Finn looked back at his organizer with new eyes. "So I should focus less on what it does and more on what it values?"
+
+"Now you begin to understand the art of intentional evolution," Orna nodded. "We are no longer makers of things, but gardeners of possibilities."
+
+**Moral:** Plant values that can weather transformation, for purposes may evolve but principles properly planted will guide that evolution toward good.
+
+**Tomorrow:** When even our deepest principles might themselves evolve...`,
+  },
 ];

@@ -1548,4 +1548,66 @@ Hallam's eyes filled with tears he'd held for decades. "So my capacity to create
 
 **Tomorrow:** Even healed investors can fall into spiritual materialism—using consciousness as just another tool for accumulation.`,
   },
+  {
+    day: 26,
+    title: "The Purity Test — Beyond Spiritual Materialism",
+    date: "2026-03-20",
+    image: "images/real-estate/day-26.jpg",
+    audio: "audio/real-estate/day-26",
+    sonnet: `**🪶 Sonnet XXVI: The Purity Test — Beyond Spiritual Materialism**
+
+When wisdom becomes weapon for the soul,
+And consciousness corrupts the seeking mind,
+The seeker trades one prison for control—
+Spiritual materialism, refined.
+
+The ego wears the robes of sacred speech,
+Yet still demands its tribute from each deed,
+While pure service flows beyond ego's reach,
+Expressing nature, not fulfilling need.
+
+As gardener tends the earth without acclaim,
+The truest wealth creators simply serve,
+No longer playing any getting game,
+But stewarding what all beings deserve.
+
+*When investment flows like breath, unforced, free,*
+*You've found the gold of pure authenticity.*`,
+    standard: `🏠 Day 26: The Purity Test — Beyond Spiritual Materialism
+
+The corruption occurs the moment you use consciousness as a tool rather than embodying it as your nature—when abundance principles become strategies to acquire rather than expressions of what you already are. True service to life feels effortless and requires nothing in return, while ego-driven 'service' always carries an energetic expectation of reward. The litmus test is simple: does your investing increase your sense of separation ("I'm building MY empire") or your sense of connection ("I'm stewarding resources for the whole")?
+
+🧱 **The Concept**
+Authentic wealth creation transcends both scarcity and spiritual materialism by operating from pure service—investing not to get anything but as natural expression of your being.
+
+❓ **Why It Matters**
+Spiritual materialism is more dangerous than obvious greed because it corrupts the very tools meant to liberate you. When consciousness becomes contaminated by subtle getting energy, you create sophisticated forms of the same old extraction patterns. Most "conscious investors" are still fundamentally trying to get something—they've just upgraded their language and methods.
+
+⚙️ **How It Works**
+Pure service investing operates from what you are, not what you want. You choose properties that genuinely serve the community's highest good, regardless of personal profit. You structure deals that create maximum benefit for all parties, trusting that right action generates right results. You measure success by the flourishing you enable rather than the wealth you accumulate. When investment decisions feel forced or strategic, you pause—pure service flows naturally without effort or manipulation. The paradox: investors operating from pure service consistently outperform those chasing maximum returns.
+
+🎯 **Real Estate Wisdom**
+The wealthiest investors have moved beyond both scarcity and spiritual materialism to pure service—they invest because it's their nature to create value, not because they want something in return.
+
+❓ **Tomorrow's Question** — If pure service investing generates the highest returns while requiring no attachment to outcomes, and if this approach feels most natural and effortless when you're operating from your authentic nature, then what happens when you encounter an investment opportunity that serves the highest good but requires you to sacrifice something you're deeply attached to—perhaps a cherished belief about yourself, a comfortable identity, or even your reputation among peers who don't understand this level of investing? What does true detachment actually cost, and are you willing to pay it?`,
+    parable: `Dara found Hallam in his study, staring at a map of the village with unusual intensity. "I've been thinking about our conversation," she said. "About using wisdom to serve rather than to get. But I'm confused—when I watch myself, I notice I'm still trying to be a 'conscious investor.' Isn't that just another form of wanting?"
+
+Hallam smiled, setting down his quill. "Ah, you've discovered the trap that catches even the wisest souls. Come, let me show you something." He led her to his window overlooking the village square.
+
+"Do you see Martha tending her garden?" He pointed to an elderly woman carefully watering her vegetables. "She doesn't garden to be a 'conscious gardener' or to prove her connection to the earth. She gardens because it's simply who she is. The tomatoes don't grow because she's trying to be spiritual—they grow because she loves them."
+
+Dara watched Martha's gentle movements. "So when I invest in property..."
+
+"When you invest from pure service, you're not trying to be anything. You're simply expressing what you are—someone who naturally creates value and beauty in the world. The moment you add the layer of 'I'm doing this consciously' or 'This will show how evolved I am,' you've fallen back into getting energy, just with prettier language."
+
+"But how do you know the difference?"
+
+Hallam pointed to a second garden across the square, where a man was aggressively digging, frequently stopping to admire his work and ensure passersby noticed his efforts. "Pure service feels like breathing—natural, effortless, without need for recognition. Spiritual materialism feels like performance, even when you're the only audience."
+
+"The true test," he continued, "is this: would you make the same investment decisions if no one—including yourself—would ever know how 'conscious' you were being? When service becomes so natural that you forget to congratulate yourself for it, then you know you've moved beyond both ordinary greed and spiritual greed."
+
+**Moral**: The highest form of conscious investing requires forgetting that you're being conscious—true service flows naturally without self-awareness or pride.
+
+**Tomorrow**: Dara will face a choice that tests whether her detachment from outcomes extends to her most cherished beliefs about herself...`,
+  },
 ];

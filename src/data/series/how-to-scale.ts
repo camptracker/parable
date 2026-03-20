@@ -1443,4 +1443,60 @@ Vex realized his hard-earned expertise had become a fortress—protecting him fr
 
 *Tomorrow, Vex will discover why even the most breakthrough innovations eventually need to be quarantined from the very organizations that created them...*`,
   },
+  {
+    day: 24,
+    title: "The Fresh Eyes Advantage",
+    date: "2026-03-20",
+    image: "images/how-to-scale/day-24.jpg",
+    audio: "audio/how-to-scale/day-24",
+    sonnet: `**🪶 Sonnet XXIV: The Fresh Eyes Advantage**
+
+When masters gather round their ancient lore,
+Their wisdom blinds them to tomorrow's way,
+For knowing well what failed in days before
+Makes innovation's light too dim to stay.
+
+But fresh eyes come with questions bold and new,
+Unshackled by the chains of "tried before,"
+They see the paths that veterans never knew,
+And break the rules that bind the learned core.
+
+The naive ask what experts dare not dream,
+Their ignorance becomes their greatest strength,
+For in their untrained minds, impossible seems
+Just another bridge they'll build at length.
+
+*Experience teaches what we cannot do,*
+*But fresh eyes show us worlds we never knew.*`,
+    standard: `🚀 Day 24: The Fresh Eyes Advantage
+
+🧱 **The Concept**
+Successful companies deliberately hire people who have never failed at their core business because fresh perspectives see solutions that experience-hardened veterans have become blind to.
+
+❓ **Why It Matters**
+Experienced teams develop cognitive blind spots around their industry's "impossible" problems. They know too well what doesn't work, which prevents them from seeing what might work. Fresh eyes don't know the rules, so they break them in ways that create breakthrough innovations.
+
+⚙️ **How It Works**
+Netflix hired gaming executives who didn't "know" that content companies couldn't become technology platforms. Tesla hired software engineers who didn't "know" that car companies couldn't become energy companies. Amazon hired retail outsiders who didn't "know" that bookstores couldn't become cloud computing giants. These fresh hires ask naive questions that expose industry assumptions everyone else takes for granted. They propose solutions that veterans immediately dismiss as "already tried" or "impossible," but their outsider perspective reveals new contexts or technologies that make the "impossible" suddenly viable. The key is pairing fresh eyes with experienced mentors who can help them navigate execution while preserving their assumption-breaking insights.
+
+🎯 **Scaling Wisdom**
+The most dangerous phrase in scaling organizations is "we tried that before." Fresh eyes are your insurance policy against institutional blindness.
+
+❓ **Tomorrow's Question** — If fresh eyes provide such powerful advantages, why do the most successful companies eventually limit how many outsiders they hire and deliberately maintain barriers that prevent too much external perspective from entering their organizations?`,
+    parable: `Vex stood before a wall of rejected blueprints in Ironmere's study, each marked with red ink and bitter annotations. "Master," she said, tracing a finger along a design for suspended bridges, "why do you keep these failures?"
+
+Ironmere's weathered hands sorted through newer sketches. "Because I'm cursed with knowledge, child. I know precisely why each won't work—the soil composition, the wind patterns, the material limitations. But yesterday, a young mason visited my workshop. She'd never built anything larger than a garden wall."
+
+He pulled out a crude sketch covered in enthusiastic notes. "She looked at my 'impossible' suspension bridge and asked why I didn't simply anchor it to the mountain's bedrock instead of the surface soil. A question so naive, so obvious, that I'd stopped seeing it decades ago."
+
+Vex studied the sketch with wonder. "And it would work?"
+
+"It would revolutionize everything," Ironmere smiled sadly. "But I would never have seen it. My experience had become my prison. I knew too well what couldn't be done to see what could be."
+
+He gestured to his vast library of architectural knowledge. "Every master builder faces this curse—we become so wise about our failures that we forget how to imagine our successes. The young mason saw solutions because she didn't know they were impossible."
+
+**Moral**: Fresh eyes see what experienced ones cannot—not because they know more, but because they haven't yet learned what's impossible.
+
+*Tomorrow, Ironmere will reveal why even the most innovative builders eventually must limit how many fresh eyes they welcome into their workshops.*`,
+  },
 ];

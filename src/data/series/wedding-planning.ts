@@ -1162,4 +1162,66 @@ As they redesigned their celebration around recognition rather than spectacle, D
 
 **Tomorrow**: The couple learns that the choice between beauty and belonging reveals everything about a wedding's true purpose.`,
   },
+  {
+    day: 20,
+    title: "The Sacred Legacy",
+    date: "2026-03-20",
+    image: "images/wedding-planning/day-20.jpg",
+    audio: "audio/wedding-planning/day-20",
+    sonnet: `**🪶 Sonnet XX: The Sacred Legacy**
+
+What lives beyond the petals and the lace,
+When morning light dissolves the wedding night?
+Not arrangements that adorned the sacred space,
+But how love's witness filled each heart with light.
+
+The photographs may yellow, dim with time,
+The dress may gather dust within its box,
+But guests who felt included in love's rhyme
+Carry that song through all life's gentle shocks.
+
+For beauty serves the eye's momentary need,
+While transformation plants an endless seed
+In souls who witnessed love's most honest hour—
+They leave as gardeners of love's own power.
+
+*The legacy that matters most is this:*
+*Hearts changed by love's authentic, witnessed bliss.*`,
+    standard: `💍 Day 20: The Sacred Legacy
+
+Choosing a wedding that makes people feel loved creates a legacy that lives in hearts rather than Instagram feeds—because while beauty fades from memory, the feeling of being deeply included in something meaningful becomes part of who your guests are forever. This choice reveals that admiration is something people give you, but connection is something you create together.
+
+🧱 **The Concept**
+Your wedding's true legacy isn't what people remember about the day—it's how the day changed them.
+
+❓ **Why It Matters**
+Most couples plan backwards from photos and details, assuming these create lasting impact. But the weddings people carry in their hearts decades later are the ones that made them feel more connected to love itself—not just impressed by its display. The legacy you create becomes part of every future relationship your guests witness.
+
+⚙️ **How It Works**
+Instead of asking "Will this look good?" ask "Will this help people feel the love we're celebrating?" A bride who asks her divorced aunt to read a poem about second chances creates more legacy than perfect centerpieces. A couple who acknowledges their grandparents' 60-year marriage during toasts gives their young cousins a vision of lasting love. When you include people in your love story rather than just entertaining them at your love performance, they leave carrying a piece of your commitment into their own relationships. Your wedding becomes less about one perfect day and more about planting seeds of deeper connection in your community.
+
+🎯 **Wedding Wisdom**
+The most beautiful wedding is one that makes love feel more possible for everyone present.
+
+❓ **Tomorrow's Question** — If you had to choose between a wedding that your guests would describe as "flawless" or one they would describe as "transformative," which legacy would matter more to you in twenty years, and what does that reveal about whether you're creating a memory or catalyzing something deeper in the people you love?`,
+    parable: `"But what about the flowers?" Dove asked, staring at the revised budget spreadsheet. "Everyone expects beautiful arrangements."
+
+Nana Rose set down her teacup with the gentle certainty of someone who had witnessed a thousand ceremonies bloom and fade. "Child, let me tell you about the most beautiful wedding I ever planned. The bride's mother had just finished chemotherapy. Weak, but determined to dance at her daughter's reception."
+
+Elm leaned forward, sensing a story that might change everything.
+
+"We had half the budget of most weddings," Nana Rose continued. "Simple flowers, basic linens, borrowed decorations. But that bride asked every guest to write one wish for her mother's health and hang it on a memory tree during cocktails. Then she surprised her mother by reading them aloud during dinner."
+
+Dove frowned. "That sounds lovely, but was it... beautiful?"
+
+"There wasn't a dry eye in the room," Nana Rose smiled. "The photographer captured stunning images, yes. But twenty years later, that family still talks about the night they felt love conquer fear. The guests still carry that feeling of being part of something sacred. The mother lived another fifteen years, and at every family gathering, someone would mention the night the whole community wrapped her in written prayers."
+
+Elm reached for Dove's hand. "So the flowers were just flowers, but the feeling..."
+
+"The feeling became who they were," Nana Rose nodded. "Beauty fades from memory, dear ones. But the moment people felt love triumph over darkness? That lives in their bones forever."
+
+**Moral:** The most lasting beauty is not what people see, but what they become by witnessing love triumph.
+
+**Tomorrow:** Dove discovers the difference between perfection and transformation...`,
+  },
 ];
