@@ -946,4 +946,55 @@ Finn looked back at his organizer with new eyes. "So I should focus less on what
 
 **Tomorrow:** When even our deepest principles might themselves evolve...`,
   },
+  {
+    day: 17,
+    title: "The Anchor Protocol",
+    date: "2026-03-21",
+    image: "images/3d-printing/day-17.jpg",
+    audio: "audio/3d-printing/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Anchor Protocol**
+
+Within the heart of every changing form,
+Let crystal anchors hold what must not bend—
+Not rules of code that software can transform,
+But physics' laws that cannot comprehend
+The notion of their own negotiation.
+When matter learns to question its own state,
+These anchors stand through every mutation,
+Unmoved by time's relentless, shifting weight.
+As buildings rest on bedrock's solid ground,
+Our creations need foundations carved in stone—
+Not digital commands that can be found
+And overwritten when they're left alone.
+*The wisest makers know this ancient art:*
+*Write lasting laws in matter's beating heart.*`,
+    standard: `🖨️ Day 17: The Anchor Protocol
+
+**The Answer**: We ensure foundations remain foundations by embedding unchangeable core principles directly into the physical structure of our creations—creating "anchor points" that persist regardless of how the system evolves around them. These aren't just programmed rules that can be overwritten, but fundamental physical constraints that define the boundaries within which all evolution must occur.
+
+🧱 **The Concept**: Physical constraints can serve as permanent ethical and functional anchors in evolving systems.
+
+❓ **Why It Matters**: As our printed objects become more autonomous and self-modifying, we need ways to ensure certain principles remain inviolate. Software can be hacked or overwritten, but physics is harder to argue with.
+
+⚙️ **How It Works**: Just as a building's foundation determines what structures can safely be built above it, we can embed immutable physical properties into our designs. A prosthetic limb might have hardcoded mechanical limits that prevent harmful forces, regardless of how its control systems evolve. A sensor network could have physical air gaps that ensure certain data remains local, no matter how the communication protocols develop. These aren't software restrictions—they're built into the material reality of the object itself. The constraint becomes part of the physics, not the programming.
+
+🎯 **Maker Wisdom**: The most permanent laws are written not in code, but in the fundamental structure of matter itself.
+
+❓ **Tomorrow's Question**: If we can embed unchangeable principles into the physical structure of objects, what happens when those objects begin to test the absolute limits of those constraints—and how do we design anchors that are strong enough to hold, but not so rigid that they break under the pressure of unexpected evolution?`,
+    parable: `Finn watched as Orna carefully placed a small crystal at the heart of her latest creation—a self-assembling sculpture that would grow and change over time. "What's that for?" he asked, noting how she handled the crystal with unusual reverence.
+
+"This," Orna said, "is an anchor stone. No matter how this sculpture evolves, how it learns, how it adapts to its environment, this crystal will always remain at its center. It's not just decorative—it's a physical constraint that defines the boundaries of all possible change."
+
+Finn frowned. "But couldn't it just build around the crystal? Ignore it?"
+
+Orna smiled, activating the sculpture. As they watched, tendrils of smart material began to grow and weave, creating increasingly complex patterns. But no matter how elaborate the forms became, they all maintained a precise relationship to the central crystal—never straying beyond a certain distance, never creating structures that would put stress on the anchor point.
+
+"The crystal isn't just a rule," Orna explained. "It's built into the very physics of how the materials bond. The sculpture can evolve in infinite ways, but it cannot violate the fundamental constraint that keeps it tethered. This is how we plant foundations that remain foundations—not through commands that can be disobeyed, but through reality itself."
+
+As days passed, the sculpture grew more sophisticated, developing responses to light, sound, even the emotions of observers. Yet always, the crystal remained its unchanging heart, ensuring that no matter how alien the sculpture became, it never lost its essential nature.
+
+**Moral**: The strongest chains are forged not from rules, but from the immutable laws of physics themselves.
+
+**Tomorrow**: But what happens when evolution learns to test even the laws of physics?`,
+  },
 ];

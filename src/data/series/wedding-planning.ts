@@ -1224,4 +1224,66 @@ Elm reached for Dove's hand. "So the flowers were just flowers, but the feeling.
 
 **Tomorrow:** Dove discovers the difference between perfection and transformation...`,
   },
+  {
+    day: 21,
+    title: "The Sacred Beginning",
+    date: "2026-03-21",
+    image: "images/wedding-planning/day-21.jpg",
+    audio: "audio/wedding-planning/day-21",
+    sonnet: `**🪶 Sonnet XXI: The Sacred Beginning**
+
+Not end but genesis, this sacred day
+When two become one flesh, one heart, one mind
+The altar is not where your journey ends its way
+But where your married selves at last you find
+
+Each choice you make while planning this great start
+Reveals the husband, wife that you will be
+Each moment when you practice joined-heart art
+Prepares you for what marriage holds in store to see
+
+The flowers fade, the music ends its song
+The photographs grow yellow with the years
+But how you learned to weather right and wrong
+Will echo through your laughter and your tears
+
+*For weddings are but doorways, nothing more—*
+*The marriage waits beyond that sacred door*`,
+    standard: `💍 Day 21: The Sacred Beginning
+
+Choosing transformation over flawlessness means choosing depth over surface, connection over performance. A transformative wedding changes people—including yourselves—while a flawless one simply impresses them, and only one of these creates the kind of beginning that can sustain a lifetime together.
+
+🧱 **The Concept**
+Your wedding isn't the culmination of your relationship—it's the ceremonial beginning of your marriage, and how you enter this new phase shapes everything that follows.
+
+❓ **Why It Matters**
+Many couples exhaust themselves creating the "perfect" wedding day, only to realize they've spent more energy on the celebration than on preparing for the marriage itself. The way you approach your wedding—with intentionality or anxiety, presence or performance—becomes the template for how you'll approach challenges as a married couple.
+
+⚙️ **How It Works**
+Instead of viewing your wedding as an event to execute flawlessly, treat it as a ritual of transition that requires emotional and spiritual preparation. This means having honest conversations about what marriage means to both of you, discussing your fears and hopes openly, and using the wedding planning process to practice the skills you'll need as spouses—compromise, communication, shared decision-making, and prioritizing your partnership over outside pressures. For example, when family members push for traditions you don't want, practice setting boundaries together. When vendors pressure you to overspend, practice making financial decisions as a team. When stress threatens to overwhelm you, practice supporting each other through difficulty.
+
+🎯 **Wedding Wisdom**
+Your wedding day is your first official act as a married couple—make it one that honors the marriage you're actually creating, not the fantasy you think others expect.
+
+❓ **Tomorrow's Question** — If you discovered that the way you handle wedding stress would predict exactly how you'll handle the first major challenge in your marriage, what would you need to change about your current approach to planning, and what does that reveal about whether you're preparing for a wedding or preparing for a marriage?`,
+    parable: `Dove sat in Nana Rose's garden, surrounded by wedding magazines and vendor contracts, her eyes red from another sleepless night. "I keep thinking about what you said yesterday," she whispered. "About transformation versus flawlessness. But I'm terrified, Nana Rose. What if I choose transformation and everything goes wrong?"
+
+Nana Rose set down her pruning shears and settled beside the young woman. "Child, let me tell you about the difference between a garden party and a planting ceremony. A garden party is beautiful for one evening—perfect flowers arranged just so, guests admiring the display. But a planting ceremony? That changes the landscape forever."
+
+Elm joined them, carrying two cups of tea. "I've been thinking too," he said quietly. "About how exhausted we both are, and we're still months away. It feels like we're training for the wrong marathon."
+
+"Precisely," Nana Rose nodded. "You're training for a performance when you should be training for a partnership. Every argument about centerpieces, every compromise with demanding relatives, every financial decision—these aren't wedding problems, children. They're marriage practice."
+
+Dove looked up, understanding dawning. "So the way we handle this planning..."
+
+"...is the way you'll handle your first year of marriage, your first big purchase, your first family crisis," Nana Rose finished. "Your wedding isn't the finish line, darling. It's the starting gate. And the question isn't whether you'll cross it perfectly—it's whether you'll cross it together, prepared for the journey ahead."
+
+Elm reached for Dove's hand. "Then maybe we stop trying to plan the perfect wedding and start practicing being married to each other."
+
+Nana Rose smiled as the evening light caught the wedding ring she still wore after fifty years. "Now you're beginning to understand."
+
+**Moral:** The wedding is not the destination but the doorway—how you pass through it shapes the marriage that follows.
+
+*Tomorrow, we discover what happens when you realize that wedding planning is actually marriage boot camp in disguise.*`,
+  },
 ];

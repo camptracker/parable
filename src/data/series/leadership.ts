@@ -1470,4 +1470,64 @@ Greymane nodded approvingly when she reported back. "You stopped trying to fill 
 
 *Tomorrow: Tova discovers that her most challenging crew member holds the key to their greatest breakthrough...*`,
   },
+  {
+    day: 24,
+    title: "The Alchemy of Invitation",
+    date: "2026-03-21",
+    image: "images/leadership/day-24.jpg",
+    audio: "audio/leadership/day-24",
+    sonnet: `**🪶 Sonnet XXIV: The Alchemy of Invitation**
+
+What treasures lie within the silent mind
+That waits for invitation to unfold?
+What wisdom seeks a leader who would find
+The silver thoughts that shine like veins of gold?
+
+The master draws not from their own deep well,
+But learns to tap the springs in others' souls,
+Asking the questions that will gently tell
+The hidden truths that make the broken whole.
+
+For every voice contains a missing piece,
+Each perspective holds a key to unlock
+The puzzles that would otherwise increase
+Like storms that batter ships against the rock.
+
+*The leader's art: not knowing all the way,*
+*But drawing forth what others long to say.*`,
+    standard: `👥 Day 24: The Alchemy of Invitation
+
+If the person frustrating us most actually holds our missing piece, we'd need to transform from evaluating their input to actively inviting it. This requires creating explicit moments where their perspective isn't just welcomed but specifically sought, acknowledging that our frustration may have inadvertently silenced exactly the voice we most need to hear.
+
+🧱 **The Concept**
+True leadership mastery lies not in having all the answers, but in becoming masterful at drawing out the wisdom that already exists within our team.
+
+❓ **Why It Matters**
+Most teams operate at a fraction of their collective intelligence because leaders focus on contributing rather than conducting. When we shift from being the primary source of insight to becoming the primary catalyst for others' insights, we unlock exponential capability that no single brilliant leader could match.
+
+⚙️ **How It Works**
+Masterful leaders ask questions that people didn't know they had answers to: "What pattern have you noticed that others might have missed?" or "If you were advising someone facing our exact situation, what would you tell them?" They create structured opportunities for quiet voices to emerge—rotating who presents solutions, asking for written input before verbal discussions, or deliberately seeking out the person who hasn't spoken. They resist the urge to immediately build on or redirect contributions, instead asking follow-up questions that help the contributor develop their thinking further. Most importantly, they explicitly acknowledge when someone's input changes their own perspective, showing the team that influencing the leader is not only possible but valued.
+
+🎯 **Leadership Wisdom**
+The leader's job isn't to be the smartest person in the room, but to make the room collectively smarter than any individual could be alone.
+
+❓ **Tomorrow's Question** — If you discovered that your team's breakthrough moments consistently happened not during your carefully planned meetings, but during the informal conversations you weren't part of, what would this reveal about the relationship between control and creativity in your leadership approach?`,
+    parable: `Tova stood before the great navigation charts in Greymane's study, her finger tracing the failed routes her crew had attempted. "They resist every course I set," she said, frustration evident in her voice. "Especially Kael—he questions everything, offers alternatives I didn't ask for."
+
+Greymane moved to an ancient compass on his desk, its needle spinning wildly. "Watch this," he said, placing a lodestone nearby. The needle immediately found true north. "The compass doesn't fight the lodestone—it responds to it. But what if I told you Kael has sailed these waters longer than anyone on your crew?"
+
+Tova's eyes widened. "He worked merchant vessels for fifteen years before joining us."
+
+"And yet you've been charting courses without asking him what he's learned from those years," Greymane observed gently. "The finest captains I knew weren't those who knew every reef and current themselves, but those who could draw such knowledge from their crews."
+
+The old admiral moved to his window, gazing at the harbor. "I once served under a captain who began every planning session with the same question: 'What do you see that I cannot?' Not 'Do you agree with my plan?' but 'What wisdom do you carry that could improve our success?'"
+
+Tova felt the shift in her understanding. "You're saying I should be asking Kael about his experience, not defending my authority against his input."
+
+"I'm saying," Greymane replied, "that a true captain's skill lies not in knowing all the waters, but in knowing how to draw upon the collective knowledge of those who have sailed them. Your crew's resistance may be their way of trying to share wisdom you haven't yet learned to receive."
+
+As Tova prepared to leave, Greymane added with a knowing smile, "Tomorrow, we'll explore how the most powerful leadership conversations happen not when you're speaking, but when you're creating space for others to discover what they didn't know they knew."
+
+**Moral:** *The leader who draws out the wisdom of others creates a vessel stronger than one built from their knowledge alone.*`,
+  },
 ];
