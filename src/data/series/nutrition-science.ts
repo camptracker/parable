@@ -1655,4 +1655,59 @@ Lila understood then why Maren's teachings emphasized not just what to do, but h
 
 *Tomorrow, Maren will reveal why those who deliberately seek controlled challenges often develop the strongest adaptive reserves.*`,
   },
+  {
+    day: 28,
+    title: "The Anti-Fragile Body",
+    date: "2026-03-22",
+    image: "images/nutrition-science/day-28.jpg",
+    audio: "audio/nutrition-science/day-28",
+    sonnet: `**🪶 Sonnet XXVIII: The Anti-Fragile Body**
+
+Like oak trees struck by lightning, growing strong,
+Our bodies thrive when challenged, not when spared,
+Each metabolic stress, though felt as wrong,
+Builds pathways more robust than those prepared
+By constant ease and optimization's reign.
+The fasted muscle learns to burn with might,
+The cooled skin crafts new vessels to maintain
+Its warmth, while stressed mitochondria ignite
+With greater power than their pampered kin.
+Anti-fragility transforms each blow
+Into the very strength that lies within—
+Not just survival, but the power to grow
+*Beyond the baseline where we once began,*
+*Each scar becomes the blueprint of our plan.*`,
+    standard: `🍎 Day 28: The Anti-Fragile Body
+
+Metabolic health and anti-fragility are intimately connected because your body literally becomes stronger through controlled stress rather than despite it. Those who deliberately seek variability develop metabolic systems that don't just recover from disruption—they improve from it, building redundant pathways and enhanced capacity that make them more resilient to future challenges than those who maintain rigid consistency.
+
+🧱 **The Concept**
+Anti-fragile metabolism goes beyond resilience—it's the ability to gain strength, efficiency, and capacity from stressors rather than simply surviving them.
+
+❓ **Why It Matters**
+While robust systems bounce back from stress, anti-fragile systems use that same stress as raw material for improvement. This means your metabolism can actually become more flexible, efficient, and powerful through strategic challenges rather than optimal protection.
+
+⚙️ **How It Works**
+When you fast intermittently, your body doesn't just maintain glucose regulation—it builds better insulin sensitivity and enhanced fat oxidation pathways. When you exercise intensely, you don't just preserve muscle—you develop greater mitochondrial density and improved stress response systems. When you expose yourself to temperature variations, you don't just adapt to cold—you build more efficient thermoregulation and enhanced circulation. The key is that these stressors must be acute, recoverable, and varied—chronic stress or excessive intensity breaks the system instead of building it.
+
+🎯 **Science Wisdom**
+Your metabolism thrives on the principle of hormetic growth—controlled damage followed by super-compensation creates systems stronger than their original state.
+
+❓ **Tomorrow's Question** — *If your metabolism can become anti-fragile through strategic stress, what happens when modern life removes most natural stressors while simultaneously introducing chronic, unrecoverable stresses that your ancient systems weren't designed to handle—and why might this mismatch between stress type and biological programming be creating a generation of metabolically fragile humans despite unprecedented access to health information and technology?*`,
+    parable: `"But Master Maren," Lila protested as she watched the healer deliberately bank two of her three hearths until only embers remained, "why make your work harder? Surely keeping all fires burning bright would be more efficient?"
+
+Maren smiled, stirring a medicinal brew over the remaining active flame. "Watch what happens when I need to cook for the harvest feast tomorrow," she said, blowing gently on the dormant embers. The coals flared to life instantly, blazing hotter and cleaner than before. "These fires that have rested are now stronger than if I had kept them burning steadily."
+
+She guided Lila to the village's old oak tree, its trunk scarred from lightning strikes and winter storms. "See how this ancient giant grows? Each wound becomes a place of greater strength. The lightning-struck branches grow back thicker. The storm-bent trunk develops deeper roots."
+
+"Your body is like this tree, child. Feed it only gentle sunshine and it grows weak. Challenge it with controlled storms—fasting when food is plentiful, working when rest is easy, seeking cold when warmth is available—and it doesn't just survive these stresses. It grows stronger from them."
+
+Lila traced the oak's lightning scars with wonder. "So the people who never face any hardship..."
+
+"Become like greenhouse flowers," Maren nodded. "Beautiful in perfect conditions, but fragile when life inevitably brings its storms. The anti-fragile body, like this tree, uses every challenge as building material for greater strength."
+
+**Moral:** *True strength comes not from avoiding all stress, but from learning to grow stronger through strategic challenges.*
+
+*Tomorrow, we discover why modern life's mismatched stresses may be creating unprecedented fragility despite our advanced knowledge...*`,
+  },
 ];

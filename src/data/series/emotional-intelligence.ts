@@ -1655,4 +1655,68 @@ Idris shuddered at the image. "It would tear itself apart."
 
 **Tomorrow**: The Veil will guide Idris through the unsettling discovery that his own values are still forming, forcing him to question how one can commit to relationships while remaining fundamentally uncertain about who they're becoming.`,
   },
+  {
+    day: 25,
+    title: "The Wisdom of Provisional Commitment",
+    date: "2026-03-22",
+    image: "images/emotional-intelligence/day-25.jpg",
+    audio: "audio/emotional-intelligence/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Wisdom of Provisional Commitment**
+
+When future selves lie shrouded in the mist,
+And present truths feel tentative at best,
+We fear each bond, each promise, each sweet tryst
+Might bind tomorrow's heart to wrong request.
+
+Yet rivers flow though banks may shift and bend,
+And treaties hold while nations grow and change;
+The wise commit not to some fixed end
+But to conscious travel through life's range.
+
+Provisional vows honor what we are
+While leaving room for who we might become;
+They plant love's seeds beneath uncertainty's star
+And trust that growth and bond need not succumb.
+
+*For commitment's truest form lies not in stone,*
+*But choosing growth together, yet unknown.*`,
+    standard: `🧭 Day 25: The Wisdom of Provisional Commitment
+
+When our values are still forming and our future self remains uncertain, we can practice **provisional commitment**—making conscious, time-bound agreements that honor both our current truth and our ongoing evolution. This means choosing relationships and commitments based on present alignment while explicitly acknowledging that both parties are works in progress, creating space for renegotiation as growth occurs.
+
+🧱 **The Concept**
+Provisional commitment is the practice of making conscious, flexible agreements that honor both present truth and future growth potential.
+
+❓ **Why It Matters**
+Most relationship decisions are made with the illusion of permanence, assuming that who we are today is who we'll always be. This creates unnecessary pressure and often leads to either paralysis (fear of commitment) or rigidity (refusing to acknowledge change). Provisional commitment offers a third path—conscious engagement with uncertainty.
+
+⚙️ **How It Works**
+Provisional commitment involves three key elements: **explicit acknowledgment** of uncertainty ("I don't know exactly who I'm becoming, and neither do you"), **time-bound agreements** ("Let's commit to exploring this for six months and then reassess"), and **built-in evolution clauses** ("We agree that growth might change our compatibility, and that's okay"). For example, instead of asking "Should I marry this person?" you might ask "Should we commit to deepening this relationship for the next year while staying open to how we both evolve?" This approach reduces the pressure of making "forever" decisions while still allowing meaningful commitment. It transforms relationships from fixed contracts into **conscious collaborations** in mutual becoming.
+
+🎯 **EQ Wisdom**
+True commitment isn't about eliminating uncertainty—it's about choosing to engage consciously with uncertainty together.
+
+❓ **Tomorrow's Question** — If we can learn to make commitments that honor both present truth and future evolution, what happens when we realize that our capacity for love itself is evolving—and how do we distinguish between growing into deeper love and growing out of a particular relationship?`,
+    parable: `Idris stood at the crossroads where three paths diverged into morning mist, each leading to a different diplomatic posting that would shape the next chapter of his life. For weeks, he had tortured himself with the weight of choosing correctly, as if there existed some perfect decision that would align with who he would become—a person he could not yet see clearly.
+
+"How does one choose a path when the destination remains hidden?" he called to The Veil, who sat motionless beneath an ancient oak whose branches seemed to shift with each gust of wind.
+
+"Does the river ask permission from its future banks before it begins to flow?" The Veil's words rippled through the air like stones dropped in still water.
+
+Idris felt his familiar frustration rising. "But I might choose wrongly! What if I commit to something that doesn't serve who I'm meant to become?"
+
+"And what if you refuse to choose, fearing who you might become?" The Veil's mask caught the filtered sunlight. "Tell me, young diplomat, when you signed your first treaty, did you know every word you would ever speak thereafter?"
+
+The question stopped Idris short. He remembered that first negotiation—how terrified he'd been of saying something that would bind his future self to positions he might later regret. Yet somehow, he had signed.
+
+"I... I committed to learning as I went," he said slowly. "To honoring the spirit of the agreement while allowing room for interpretation and growth."
+
+"Ah." The Veil's voice carried the warmth of recognition. "And did this provisional commitment paralyze your growth or enable it?"
+
+Idris closed his eyes, understanding dawning like sunrise. When he opened them, he walked toward the middle path—not because it was perfect, but because he could commit to it provisionally, with full awareness that both he and the path might change. His commitment was not to a fixed destination but to conscious engagement with the journey itself.
+
+**Moral**: True commitment lies not in eliminating uncertainty but in choosing to engage consciously with uncertainty, making agreements that honor both present truth and future evolution.
+
+*Tomorrow, The Veil will guide Idris to explore how love itself transforms as we grow, and whether deeper love and growing apart can somehow coexist.*`,
+  },
 ];

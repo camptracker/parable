@@ -1530,4 +1530,66 @@ As Tova prepared to leave, Greymane added with a knowing smile, "Tomorrow, we'll
 
 **Moral:** *The leader who draws out the wisdom of others creates a vessel stronger than one built from their knowledge alone.*`,
   },
+  {
+    day: 25,
+    title: "The Choreography of Space",
+    date: "2026-03-22",
+    image: "images/leadership/day-25.jpg",
+    audio: "audio/leadership/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Choreography of Space**
+
+When captains crowd the bridge with watchful eyes,
+The crew may speak but dare not truly share
+The wisdom gleaned from storm-torn seas and skies,
+Their deepest insights floating in the air.
+
+But when the leader steps beyond the light,
+Creates a space where hierarchy dissolves,
+The sailors gather round in candid night
+And offer up the truths that courage solves.
+
+For presence bears the weight of judgment's sword,
+Though unintended, sharp and swift to fall,
+While absence lets the authentic voice be heard
+And breakthrough thoughts emerge beyond the call.
+
+*The wisest leaders know when to retreat,*
+*That others' wisdom makes their own complete.*`,
+    standard: `👥 Day 25: The Choreography of Space
+
+This reveals that creativity often requires psychological space to breathe—a freedom from the weight of formal evaluation and structured outcomes. When leaders hold too tightly to control, they may inadvertently squeeze out the very conditions that allow innovation and breakthrough thinking to emerge naturally.
+
+🧱 **The Concept**
+Great leaders understand that their presence changes the dynamic of every room, and sometimes their greatest contribution is knowing when to step back and create space for others to step forward.
+
+❓ **Why It Matters**
+Teams often perform differently when the leader is present versus absent—not because they're being dishonest, but because formal authority can unconsciously suppress risk-taking, experimentation, and authentic expression. The most innovative solutions frequently emerge when people feel free from the pressure of immediate judgment or the need to perform for leadership.
+
+⚙️ **How It Works**
+Effective leaders create intentional spaces for unstructured interaction—informal coffee breaks, walking meetings, or collaborative work sessions where they participate as contributors rather than evaluators. They establish psychological safety zones where hierarchy temporarily dissolves, allowing ideas to surface organically. For example, a tech leader might join their team's casual Friday afternoon brainstorming sessions not as 'the boss' but as another creative mind in the room. They resist the urge to immediately direct or optimize these moments, understanding that the value lies precisely in their uncontrolled, emergent nature. They also create formal structures that protect informal creativity—like dedicated 'exploration time' or cross-functional project spaces where people can collaborate outside their usual reporting relationships.
+
+🎯 **Leadership Wisdom**
+Sometimes the most powerful leadership move is the one that makes room for others to lead, recognizing that your influence can be multiplied by knowing when to step back rather than always stepping forward.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most innovative ideas consistently came from the people you spend the least time with, what would this reveal about whose voices you're unconsciously amplifying versus whose perspectives you might be missing?`,
+    parable: `Tova had been meticulously planning their route through the treacherous Whirlwind Straits for weeks, consulting charts, calculating tides, and preparing detailed briefings for her crew. But when the morning of their departure arrived, she found her sailors gathered around the ship's cook, Benna, who was sketching something in the galley flour with her finger.
+
+"Captain," called First Mate Jorik, "you should see this. Benna's been through these waters on merchant vessels. She's showing us a passage the charts don't mark—one her grandmother taught her."
+
+Tova approached, her planned briefing forgotten. Benna's weathered hands traced invisible currents in the white dust. "The official route hugs the northern rocks, see? But there's a deeper channel here, where the water runs quiet. Most captains don't trust it because it's not on the maps."
+
+As the crew gathered closer, other voices joined in. "I've heard tell of that passage," offered Young Willem. "The fishing boats use it when the storms drive them from the main shipping lanes." Old Henrik nodded. "Aye, and there's a sheltered cove midway where we could weather any squalls."
+
+Tova felt a familiar tension—the urge to assert her authority, to redirect the conversation back to her carefully prepared plans. But she remembered Greymane's words about the space between control and wisdom. Instead, she found herself asking, "Benna, how certain are you of the depth markers?"
+
+What followed was the most detailed navigation discussion Tova had ever witnessed among her crew. Maps were spread across barrels, personal experiences shared, risks honestly assessed. Ideas flowed like water finding its level, each sailor contributing knowledge they'd gathered from different voyages, different teachers, different storms survived.
+
+When they finally set sail, they followed Benna's route. But more importantly, Tova realized, they sailed with a collective confidence born not from following orders, but from participating in the creation of their own course.
+
+That evening, as they anchored safely in Henrik's sheltered cove, Greymane appeared at her shoulder. "A wise captain knows that the best navigation happens when the whole crew is looking at the stars," he said softly. "Sometimes leadership means stepping back far enough for everyone else to step forward."
+
+**Moral:** True leadership creates space for collective wisdom to emerge, understanding that the leader's greatest power often lies not in directing every conversation, but in knowing when to let others navigate.
+
+*Tomorrow, Tova will discover that the voices she's been listening to most may not be the ones with the most important things to say...*`,
+  },
 ];

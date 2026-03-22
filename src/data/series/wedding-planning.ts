@@ -1286,4 +1286,64 @@ Nana Rose smiled as the evening light caught the wedding ring she still wore aft
 
 *Tomorrow, we discover what happens when you realize that wedding planning is actually marriage boot camp in disguise.*`,
   },
+  {
+    day: 22,
+    title: "The Sacred Partnership",
+    date: "2026-03-22",
+    image: "images/wedding-planning/day-22.jpg",
+    audio: "audio/wedding-planning/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Sacred Partnership**
+
+When stress reveals the patterns we will keep,
+And planning shows what marriage holds in store,
+Two souls must learn to dance instead of sleep
+In separate beds of worry, hurt, and more.
+
+The flowers and the music matter not
+If choosing them becomes a battleground,
+For every decision's practice for the knot
+That binds two lives in marriage's sacred sound.
+
+Let vendor calls become our gentle school
+For listening with hearts instead of pride,
+Each compromise a matrimonial tool
+To build the bridge where love and truth collide.
+
+*Your wedding planning is your first dance—*
+*Practice now the steps of true romance.*`,
+    standard: `💍 Day 22: The Sacred Partnership
+
+If wedding stress reveals how we'll handle marriage challenges, then we must shift from independent problem-solving to true partnership—communicating openly about overwhelm, making decisions together rather than dividing tasks, and treating planning conflicts as practice for the deeper negotiations marriage requires. This transforms wedding planning from a project to complete into a relationship skill to develop.
+
+🧱 **The Concept**
+Your wedding planning process is actually your first major collaborative project as future spouses, revealing patterns that will echo throughout your marriage.
+
+❓ **Why It Matters**
+How you navigate decisions, handle stress, resolve conflicts, and support each other during wedding planning creates the template for your marital partnership. Many couples plan their wedding like roommates dividing chores rather than partners building something together.
+
+⚙️ **How It Works**
+Instead of "you handle flowers, I'll handle music," try making every significant decision together, even if one person executes it. When disagreements arise, practice the conflict resolution skills you'll need in marriage—listening to understand rather than to win, finding compromises that honor both perspectives, and checking in regularly about stress levels. If one partner consistently takes control or the other consistently withdraws, these patterns will likely repeat when facing mortgage decisions, parenting choices, or career changes. The goal isn't perfect agreement but learning to disagree productively and support each other through pressure.
+
+🎯 **Wedding Wisdom**
+Your wedding planning partnership is the foundation for your marriage partnership—practice now the collaboration you want later.
+
+❓ **Tomorrow's Question** — If you had to choose between a wedding where everything went exactly as planned but you felt disconnected from your partner throughout the process, or one where half the details went wrong but you felt more united and in love than ever, which would you choose, and what does that reveal about whether perfect execution or perfect partnership matters more for your future happiness?`,
+    parable: `Dove sat surrounded by vendor contracts, her laptop displaying seventeen open tabs of wedding inspiration, while stress radiated from her like heat from a forge. Across the room, Elm quietly sorted through RSVPs, occasionally glancing at his overwhelmed partner with concern.
+
+"We're supposed to be planning this together," Elm said gently, "but it feels like we're running parallel marathons instead of dancing."
+
+Dove looked up, her eyes bright with unshed tears. "I know. I keep thinking if I can just handle everything perfectly, you won't have to worry. But I'm drowning, and somehow that feels like failing at being a good future wife."
+
+Nana Rose, arriving for their consultation, paused in the doorway, observing the scene with the wisdom of someone who had witnessed this exact moment countless times. "My dears," she said softly, "may I share what I see? I see two people who love each other deeply, but who are preparing for a wedding instead of practicing for a marriage."
+
+She gestured to their separate piles of wedding tasks. "This planning season is not a test you pass or fail—it's a rehearsal for every major decision you'll face together. How you choose your venue is practice for choosing where to live. How you navigate family opinions about your ceremony is practice for handling in-laws during your marriage. How you support each other under pressure now teaches you how to weather real storms later."
+
+Elm moved to sit beside Dove, taking her hand. "What if we started over? Not with the planning, but with how we plan?"
+
+Nana Rose smiled as she watched them turn toward each other instead of their separate task lists. "Every wedding teaches me something new, but this lesson remains constant: couples who plan together, stay together—not because their wedding was perfect, but because they learned to be perfect partners in imperfection."
+
+The moral echoes through every choice ahead: Your wedding planning is not preparation for one perfect day, but practice for a lifetime of imperfect days made beautiful by partnership.
+
+Tomorrow, we'll discover why the success of your celebration might depend less on flawless execution and more on the strength of connection it creates.`,
+  },
 ];
