@@ -2091,4 +2091,70 @@ Kael watched Tobren work, noting how each careful graft would yield fruit for de
 
 *Tomorrow, Kael will discover why an entire culture might be designed to lead people away from wealth-building and toward wealth-chasing...*`,
   },
+  {
+    day: 32,
+    title: "The Attention Economy Trap",
+    date: "2026-03-23",
+    image: "images/financial-independence/day-32.jpg",
+    audio: "audio/financial-independence/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Attention Economy Trap**
+
+The marketplace of minds trades truth for views,
+Where flashy promises outshine the plain,
+And algorithms feast on what we choose
+To click, not what brings actual gain.
+
+The day-trader's screenshot draws the crowd,
+While steady savers toil in quiet shade;
+The crypto prophet, brash and shouting loud,
+Eclipses research that would never fade.
+
+For platforms profit not from our success,
+But from the time we spend within their thrall;
+They amplify excitement, not progress,
+And make the worst advice seem best of all.
+
+*True wealth grows silent in the fertile dark,*
+*While poverty performs to thunderous bark.*`,
+    standard: `💰 Day 32: The Attention Economy Trap
+
+Social media platforms profit by capturing and selling our attention, creating algorithms that reward dramatic, flashy content over quiet substance—making them fundamentally misaligned with the patient, boring habits that actually build wealth. This creates a cultural feedback loop where the loudest voices about money are often the least qualified to give advice, while truly wealthy people remain invisible because steady compounding doesn't generate viral content.
+
+🧱 **The Concept**
+The attention economy systematically rewards financial theater over financial substance.
+
+❓ **Why It Matters**
+Platforms make money by keeping us engaged, not by making us wealthy, creating a fundamental conflict between what gets promoted and what actually works. The most profitable content about money is often the least profitable advice for money.
+
+⚙️ **How It Works**
+A day trader posting screenshots of big wins gets millions of views, while someone quietly dollar-cost averaging into index funds for decades gets zero engagement. Crypto "influencers" with affiliate links dominate feeds, while academic research on long-term investing remains buried. The algorithm promotes financial advice that feels exciting over advice that actually works, because excitement drives clicks and boring consistency doesn't. Financial educators who teach simple, proven strategies struggle to compete with those promising quick riches, not because their advice is worse, but because it's less entertaining.
+
+🎯 **Buffett Wisdom**
+"The stock market is a voting machine in the short run, but a weighing machine in the long run"—and social media is pure voting machine, rewarding popularity over substance.
+
+❓ **Tomorrow's Question** — If the platforms we use to learn about money are designed to promote engaging misinformation over boring truth, and we know this intellectually but still find ourselves influenced by what we see, what does this reveal about the gap between conscious knowledge and unconscious behavior, and how might this same pattern affect other crucial decisions we think we're making rationally?`,
+    parable: `The next morning, Kael found Sable tending his garden, carefully pruning apple trees that bore no fruit this season but would yield bountifully in years to come.
+
+"Elder," Kael began, "yesterday you spoke of substance over symbols. But when I visit the market square, the loudest voices draw the biggest crowds. Street performers earn more coins in an hour than patient craftsmen make in a week. How can substance compete with spectacle?"
+
+Sable smiled, gesturing toward the town's new message board where traveling merchants posted notices. "See how the board fills with promises of quick fortunes—miracle seeds that grow gold, maps to buried treasure, potions that multiply coins overnight. These draw crowds because they promise what people want to hear."
+
+"But notice," he continued, "who profits most from this board? Not those who believe the messages, but the merchant who charges rent for posting them. The board itself cares nothing for truth—it rewards only what captures attention."
+
+Tobren approached, overhearing. "I once followed such a notice," he admitted. "A traveling 'master farmer' promised revolutionary techniques. His demonstration was magnificent—exotic tools, dramatic gestures, promises of tenfold harvests. I paid handsomely for his secrets."
+
+"And what grew from them?" Sable asked.
+
+"Nothing but debt," Tobren replied. "Meanwhile, my neighbor who quietly composted his fields and rotated his crops—boring work that drew no crowds—harvested more than ever."
+
+Sable nodded. "The message board rewards excitement over results because excitement drives coin, not truth. Those who understand this either profit by feeding the spectacle or ignore it entirely. The truly wealthy farmer markets his surplus quietly, while the performer collects coins but grows nothing."
+
+"So wisdom lies in recognizing the game but refusing to play it?" Kael asked.
+
+"Precisely," Sable replied. "The moment you optimize for applause rather than results, you become part of the spectacle instead of building genuine substance."
+
+**Moral:** The loudest financial voices are often the poorest guides, as true wealth grows in silence while poverty performs on stage.
+
+**Tomorrow:** Kael discovers why our minds betray us even when we know better, leading to questions about the nature of rational decision-making itself.`,
+  },
 ];
