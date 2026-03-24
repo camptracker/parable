@@ -1814,4 +1814,66 @@ Vasska's eye twinkled. "Young merchant, I didn't know. But I made it impossible 
 
 *Tomorrow, discover what happens when helping someone say no becomes your secret path to yes...*`,
   },
+  {
+    day: 29,
+    title: "The Reverse Psychology Rescue",
+    date: "2026-03-24",
+    image: "images/negotiation/day-29.jpg",
+    audio: "audio/negotiation/day-29",
+    sonnet: `**🪶 Sonnet XXIX: The Reverse Psychology Rescue**
+
+When eager hands reach out to grasp and hold,
+The natural instinct bids the heart withdraw,
+Yet speak of walking back from fields of gold,
+And watch desire spring from rejection's flaw.
+
+"Perhaps this path would burden you," we say,
+"Maybe you'd find more fortune walking free,"
+And suddenly the hesitant heart's sway
+Turns swift to prove what benefits they see.
+
+The merchant who would turn away from trade
+Now argues for the wisdom of the deal,
+Defending what he thought would surely fade,
+Proving the worth that he was bid to feel.
+
+*For when we offer freedom from our care,*
+*They fight to prove our value worth to share.*`,
+    standard: `🤝 Day 29: The Reverse Psychology Rescue
+
+When you make someone feel like saying no would actually help you dodge a bullet, you transform rejection from disappointing you into protecting you. This creates cognitive dissonance — suddenly they want to prove the opportunity is actually good for you, defending something they were about to decline.
+
+🧱 **The Concept**
+Reverse psychology in negotiation works by making your counterpart argue against their own resistance.
+
+❓ **Why It Matters**
+People hate being told they don't want something, even when they genuinely don't want it. When you suggest they'd be doing you a favor by walking away, their natural contrarian instinct kicks in. They suddenly feel compelled to prove the deal has merit.
+
+⚙️ **How It Works**
+Instead of pushing harder when you sense resistance, you pull back and suggest they might be right to hesitate. "You know what, maybe this isn't the right fit. I'd hate for you to feel pressured into something that might not work out." Watch them immediately start defending the opportunity they were about to reject. A job candidate who seems lukewarm suddenly explains why they're actually perfect for the role when you say, "I'm sensing some hesitation — maybe we should look at other candidates who are more excited." The key is genuine delivery, not obvious manipulation.
+
+🎯 **Negotiation Wisdom**
+Sometimes the fastest way to yes is to genuinely offer no.
+
+❓ **Tomorrow's Question** — If reverse psychology works by triggering people's need to prove you wrong, what happens when you make them prove they deserve something by first convincing you they don't actually need it?`,
+    parable: `The merchant's quarter buzzed with its usual chaos when Ren approached Vasska's stall, clutching a proposal that had consumed weeks of preparation. The master trader examined the young merchant's offering with his good eye, while the silver-patched one seemed to peer into some deeper truth.
+
+"Master, I've found the perfect silk route through the mountain pass," Ren began eagerly. "The margins are exceptional, and—"
+
+Vasska raised a weathered hand, his expression growing thoughtful. "You know, young friend, perhaps I should decline this opportunity." He set down the proposal gently. "I'd hate to burden you with an old man's participation when you could find more... energetic partners."
+
+Ren's face flushed. "Master, that's not—I mean, your experience is invaluable! Without your network, this route would never—"
+
+"Ah, but surely you've considered the winter storms? The bandits who frequent those passes?" Vasska's voice carried genuine concern. "I wouldn't want you to feel obligated to include me if there are safer alternatives."
+
+"The risks are manageable!" Ren protested, now defending the very proposal he'd nervously presented moments before. "And your knowledge of the regional dialects alone would ensure our success. Master, this partnership would benefit us both tremendously."
+
+Vasska's scarred eye crinkled with something approaching amusement. "If you're certain I wouldn't be doing you a disservice by accepting..."
+
+"Absolutely certain," Ren replied firmly, wondering why he suddenly felt like he was convincing Vasska to help him, rather than the other way around.
+
+**Moral:** *When we suggest someone might be better off without us, their pride compels them to prove otherwise.*
+
+*Tomorrow, Ren will discover that the most powerful negotiations begin not with proving your worth, but with making others prove theirs.*`,
+  },
 ];

@@ -1408,4 +1408,82 @@ Dove felt her shoulders soften. "That was perfect because we were together in it
 
 *Tomorrow, we explore what happens when we identify the true non-negotiables that anchor us while everything else flows...*`,
   },
+  {
+    day: 24,
+    title: "The Sacred Trust",
+    date: "2026-03-24",
+    image: "images/wedding-planning/day-24.jpg",
+    audio: "audio/wedding-planning/day-24",
+    sonnet: `**🪶 Sonnet XXIV: The Sacred Trust**
+
+When careful plans meet chaos at the door,
+And rain rewrites the script you held so dear,
+What matters most? The details you worked for,
+Or love that dances past each anxious fear?
+
+The wisest brides prepare with tender care,
+Then loose their grip on how the day unfolds,
+For trust transforms what seems beyond repair
+To unexpected grace the heart beholds.
+
+Plan well, then let your planning be the ground
+From which spontaneous beauty springs to life—
+The photographer who captures joy unbound,
+The moment when you're simply man and wife.
+
+*Control creates the stage, but trust sets free*
+*The love that makes your wedding's symphony.*`,
+    standard: `💍 Day 24: The Sacred Trust
+
+Most couples discover their three essential elements aren't details at all—they're the presence of their beloved, the words they'll speak to each other, and the feeling of being surrounded by love. Everything else—flowers, music, timing—becomes negotiable when you realize that trust in what matters most creates space for magic you never could have orchestrated.
+
+🧱 **The Concept**
+True wedding wisdom lies in distinguishing between what you can control and what you must trust, then learning to hold both with equal grace.
+
+❓ **Why It Matters**
+Weddings test our ability to plan carefully while remaining open to surprise, to care deeply while holding lightly. The couples who find the most joy are those who prepare thoroughly then trust completely—in their vendors, their community, their love, and the mysterious alchemy that transforms careful plans into lived moments.
+
+⚙️ **How It Works**
+Sacred trust operates on multiple levels: trusting your vendors to execute their expertise (the florist knows flowers better than your Pinterest board does), trusting your guests to bring joy regardless of minor imperfections, trusting each other to stay connected even when logistics pull you apart, and trusting that love has its own intelligence that will guide the day beyond your script. This doesn't mean abandoning preparation—it means preparing so well that you can let go gracefully. When the cake arrives in the wrong flavor or rain threatens your outdoor ceremony, couples who've cultivated sacred trust respond not with panic but with curiosity about what new beauty might emerge.
+
+🎯 **Wedding Wisdom**
+The most magical weddings happen when meticulous planning meets radical trust—when couples hold their vision lightly enough to let love surprise them.
+
+❓ **Tomorrow's Question** — If you could design your wedding so that handling unexpected changes actually brought you and your partner closer together rather than stressed you apart, what would that require you to believe about both love and uncertainty, and how might that shift change not just your wedding day but your entire approach to marriage?`,
+    parable: `Dove stood in Nana Rose's sunlit office, her wedding planning binder clutched to her chest like armor. "I've planned everything," she announced, though her voice wavered. "Every detail, every timeline, every contingency. But what if something goes wrong?"
+
+Nana Rose smiled, her weathered hands folding gently in her lap. "Tell me, dear one, what would happen if I took that binder and locked it away until your wedding morning?"
+
+"Everything would fall apart!" Dove gasped. "The flowers might be wrong, the timeline could collapse, the—"
+
+"Would Elm still meet you at the altar?"
+
+Dove paused. "Well... yes."
+
+"Would you still speak vows of love?"
+
+"Of course."
+
+"Would your family still witness your union?"
+
+"I suppose..."
+
+Elm reached for Dove's hand. "Remember our first date? You planned that elaborate picnic, researched the weather for weeks, packed everything perfectly. Then it rained."
+
+Dove's grip on the binder loosened slightly. "We ended up eating sandwiches in your car..."
+
+"And it was perfect," Elm finished. "Not because of your planning, though that showed you cared. It was perfect because we were together, and we let the rain become part of our story."
+
+Nana Rose nodded knowingly. "Planning is love made visible, my dear. But trust is love made vulnerable. Your wedding needs both—your careful preparation AND your willingness to dance with whatever unfolds."
+
+She gestured toward the window, where a bride was laughing as her veil caught in a tree branch, her new husband gently freeing it. "That bride planned for eighteen months. Today her cake fell, her flowers came in purple instead of pink, and her grandmother's ring fell down a drain. Yet look at her face—pure joy. She planned beautifully, then trusted completely."
+
+Dove watched the laughing bride, feeling something shift in her chest. "How do you learn to trust like that?"
+
+"The same way you learned to love Elm," Nana Rose whispered. "One vulnerable moment at a time."
+
+**Moral:** The deepest wedding magic happens when careful planning meets radical trust—when we prepare with love and then surrender to love's own intelligence.
+
+*Tomorrow, Nana Rose will reveal the secret of designing a wedding that makes uncertainty feel like an adventure rather than a threat...*`,
+  },
 ];
