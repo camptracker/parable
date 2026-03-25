@@ -1651,4 +1651,64 @@ Rook stared in wonder. His magnificent tools remained untouched, while Cairn's h
 
 *Tomorrow: What happens when our humble victories create pressure to abandon the very simplicity that made them possible?*`,
   },
+  {
+    day: 28,
+    title: "The Success Trap",
+    date: "2026-03-25",
+    image: "images/habits-and-systems/day-28.jpg",
+    audio: "audio/habits-and-systems/day-28",
+    sonnet: `**🪶 Sonnet XXVIII: The Success Trap**
+
+When humble marks upon the stone take hold,
+And simple strokes reveal their quiet power,
+The ego whispers: "Make your method bold—
+Upgrade the tool that brought this golden hour."
+
+The writer trades her faithful hundred words
+For thousand-word demands that break her flow,
+The runner swaps his gentle pace for hurds
+Of complex training plans that steal his glow.
+
+Success breeds pressure to sophisticate
+The very simpleness that made it so,
+As if our triumph must elaborate
+The humble habits that helped us to grow.
+
+*But wisdom knows the marks need not transform—*
+*The working practice is its own art form.*`,
+    standard: `🧘 Day 28: The Success Trap
+
+When humble habits start working, our ego wants to take credit and make them "worthy" of our success—but this upgrade impulse destroys the very simplicity that made them effective. The pressure to evolve a working system often breaks it, because we mistake the vehicle for the destination.
+
+🧱 **The Concept**
+Success from simple habits creates an identity conflict where we feel our methods should match our elevated status.
+
+❓ **Why It Matters**
+This upgrade pressure explains why successful people often abandon the basic practices that got them there. We unconsciously believe that simple habits are "beneath" us once we achieve results, not realizing they ARE the results.
+
+⚙️ **How It Works**
+A writer who built success from writing 100 words daily suddenly feels pressure to write 1000 words because "real writers write more." An entrepreneur who succeeded with a simple morning routine adds complexity because "successful people have sophisticated systems." The meditation teacher who found peace in 5-minute sits feels obligated to recommend hour-long sessions. Each upgrade breaks the original system's elegance and sustainability.
+
+🎯 **Systems Wisdom**
+The habit that got you here is sophisticated enough to take you further.
+
+❓ **Tomorrow's Question** — If we must resist the urge to complicate successful simple habits, what happens when genuinely outgrowing a habit—when our capacity has fundamentally expanded beyond what the original practice can serve?`,
+    parable: `Cairn found Rook standing before the ancient stone, running his fingers along forty years of careful marks. Each day's single stroke had accumulated into something magnificent—a spiral that seemed to breathe with the mountain itself.
+
+"Master," Rook said, his voice tight with excitement, "your success proves you should be carving statues, not making simple marks. Why waste such skill on something so... basic?"
+
+Cairn continued his daily stroke, the chisel finding its familiar rhythm. "You see marks where I see meaning. You see basic where I see foundation."
+
+"But surely now—with your reputation spreading through the valleys—you could command great commissions, create masterpieces that match your status?"
+
+The old stone-carver paused, his weathered hand resting on the spiral. "This wanderer thinks the marks are means to an end. But what if the marks ARE the end? What if this simple practice doesn't need upgrading because it was never about impressing anyone—including myself?"
+
+Rook shifted uncomfortably. "Success should mean... more."
+
+"Success means the freedom to keep doing what works, not the obligation to complicate it." Cairn resumed his stroke. "The spiral doesn't need to become a statue to justify its existence."
+
+**Moral**: The practices that elevate us don't need elevation themselves.
+
+**Tomorrow**: When does genuine growth require abandoning the old vessel entirely?`,
+  },
 ];

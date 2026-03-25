@@ -1853,4 +1853,71 @@ The question struck Idris like lightning. He realized he'd been negotiating not 
 
 **Tomorrow:** The Veil will challenge Idris to examine whether his desire to 'help' others sometimes masks a subtle need to feel superior to their struggles.`,
   },
+  {
+    day: 28,
+    title: "The Humility of Empty Hands",
+    date: "2026-03-25",
+    image: "images/emotional-intelligence/day-28.jpg",
+    audio: "audio/emotional-intelligence/day-28",
+    sonnet: `**🪶 Sonnet XXVIII: The Humility of Empty Hands**
+
+When eager hearts rush forth to heal and mend,
+With solutions clutched in well-intentioned fists,
+They often find their offerings to offend
+The very souls whose freedom they've dismissed.
+True service comes with palms turned up and bare,
+No hidden strings attached to gifts we bring,
+But presence offered freely without care
+For how our offerings land or what they'll ring.
+The mother bird who watches her young fall
+Yet calls encouragement from branch nearby
+Understands that strength must heed its own call,
+That wisdom grows when we trust others to try.
+*In empty hands lies service most complete—
+To honor others' paths beneath their feet.*`,
+    standard: `🧭 Day 28: The Humility of Empty Hands
+
+True service begins when we release the need to fix, rescue, or improve others according to our vision of what their lives should look like. The difference between genuine service and sophisticated control lies in our attachment to outcomes—when we can offer our presence, skills, or resources while remaining genuinely indifferent to whether they're accepted or used as we intended, we've moved from helping to serving.
+
+🧱 **The Concept**
+Authentic service requires empty hands—showing up fully present and available while releasing all attachment to how our offering is received or used.
+
+❓ **Why It Matters**
+Our desire to help often carries hidden expectations that transform generosity into a subtle form of manipulation. When we're invested in specific outcomes, we unconsciously communicate that the other person's choices are somehow insufficient, creating resistance rather than openness. True service honors the other person's autonomy completely, even when they choose paths we wouldn't recommend.
+
+⚙️ **How It Works**
+Empty-handed service looks like offering information without insisting it be acted upon, providing emotional support without trying to change someone's feelings, or sharing resources without monitoring how they're used. A parent might offer guidance to an adult child while genuinely accepting their right to ignore it entirely. A friend might listen to someone's problems without pushing solutions. A mentor might share wisdom while celebrating the student's choice to forge their own path. The key is monitoring our internal reaction when our offering is declined or used differently than expected—disappointment or frustration reveals hidden agendas, while equanimity confirms authentic service.
+
+🎯 **EQ Wisdom**
+The greatest gift we can offer another person is the freedom to be themselves without our improvement agenda. Service becomes sacred when we trust others' capacity to navigate their own lives.
+
+❓ **Tomorrow's Question** — If we can learn to serve with completely empty hands, trusting others' capacity for their own journey, what happens when we realize that this same principle applies to our relationship with our own future self—and how do we practice the same non-attachment to our own personal outcomes while still maintaining direction and purpose in life?`,
+    parable: `The morning brought news that troubled the diplomatic quarter: a neighboring kingdom faced internal strife, its people suffering under poor leadership. Idris burst into The Veil's chamber, scrolls of intervention plans scattered in his wake.
+
+"We must act," Idris declared, spreading maps across the floor. "I've drafted three strategies to stabilize their government, economic proposals to ease their suffering, even marriage alliances to strengthen their position. We cannot stand idle while they struggle."
+
+The Veil's head tilted slightly. "What makes you believe they have asked for your solutions?"
+
+"They don't need to ask—their need is obvious!" Idris's voice cracked with frustration. "Sometimes helping requires taking initiative, doesn't it?"
+
+"Tell me," The Veil's voice carried a strange resonance, "when you were a child stumbling while learning to walk, would you have preferred someone to carry you, or to dust yourself off?"
+
+Idris paused, his fervor dimming. "To dust myself off, I suppose. But this is different—these are matters of statecraft, of people's lives."
+
+"Indeed." The Veil moved to the window, watching sparrows teach their young to fly. "Watch the mother bird. Does she catch her fledgling when it falters, or does she call encouragement from nearby?"
+
+For an hour they observed. The mother bird remained close but never intervened, even when her young one fell twice, struggled thrice, and seemed to tire. Yet with each attempt, the fledgling grew stronger.
+
+"But what if it had truly needed help?" Idris whispered.
+
+The Veil turned. "What if your certainty about what others need is the very thing that prevents them from discovering their own strength?"
+
+That afternoon, emissaries from the troubled kingdom arrived seeking audience. They came not for solutions, but requesting simply to be heard—to share their struggles with neutral ears while they worked through their own path forward.
+
+Idris listened with empty hands, offering presence without agenda. In the space of his non-attachment to outcomes, the visitors found clarity they couldn't access when pressed with ready-made solutions.
+
+**Moral**: The deepest service we can offer is presence without agenda, trusting others' capacity for their own journey.
+
+**Tomorrow**: Idris will discover that the same principles of non-attachment apply not only to serving others, but to his relationship with his own future...`,
+  },
 ];

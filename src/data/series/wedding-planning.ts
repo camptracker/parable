@@ -1486,4 +1486,70 @@ Dove watched the laughing bride, feeling something shift in her chest. "How do y
 
 *Tomorrow, Nana Rose will reveal the secret of designing a wedding that makes uncertainty feel like an adventure rather than a threat...*`,
   },
+  {
+    day: 25,
+    title: "The Sacred Evolution",
+    date: "2026-03-25",
+    image: "images/wedding-planning/day-25.jpg",
+    audio: "audio/wedding-planning/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Sacred Evolution**
+
+Like roses that adapt to wind and rain,
+Love grows not in controlled and perfect ground,
+But where two hearts learn to weather joy and pain,
+And in each challenge, deeper bond is found.
+
+The wedding day unfolds as seasons do—
+Some moments planned, some born of sweet surprise.
+What matters not is executing through
+Each detail perfectly before loved eyes,
+
+But how we meet each change with joined hands,
+Transforming obstacles to opportunities.
+For marriage is not where perfection stands,
+But where two souls dance with life's mysteries.
+
+*The sacred evolution starts today:*
+*Not reaching love, but growing love's own way.*`,
+    standard: `💍 Day 25: The Sacred Evolution
+
+Handling unexpected changes as opportunities for deeper connection would require believing that love grows strongest not in perfect conditions, but in moments of graceful adaptation together. It would mean trusting that uncertainty isn't the enemy of love—it's the forge where partnership is refined and resilience is built. This shift transforms both wedding planning and marriage from exercises in control into adventures in creative collaboration.
+
+🧱 **The Concept**
+Your wedding is not a destination to reach perfectly, but a transformation to embrace together—the beginning of a lifelong practice of evolving as individuals while growing closer as partners.
+
+❓ **Why It Matters**
+Most couples approach their wedding as a final exam they must pass flawlessly, creating pressure that obscures the deeper truth: your wedding day is actually your first official practice session for a lifetime of navigating change together. The habits you develop during planning—how you communicate under stress, make decisions collaboratively, and adapt to the unexpected—become the foundation patterns for your marriage.
+
+⚙️ **How It Works**
+Instead of trying to lock down every detail, approach planning as an opportunity to practice partnership skills you'll need forever. When the florist calls with bad news about your dream peonies, use it as a chance to problem-solve creatively together rather than assign blame. When family dynamics create tension about the guest list, practice having difficult conversations with kindness and boundaries. When your budget forces tough choices, learn to prioritize together based on your shared values rather than external expectations. Each challenge becomes less about achieving wedding perfection and more about strengthening the relationship that will outlast every flower arrangement and photograph.
+
+🎯 **Wedding Wisdom**
+A successful wedding isn't one where nothing goes wrong—it's one where everything that goes differently than planned reveals how beautifully you navigate life's uncertainties together.
+
+❓ **Tomorrow's Question** — If you could guarantee that your wedding would teach every guest one crucial truth about love that they could carry into their own relationships, what truth would you want to demonstrate through how you treat each other throughout your entire celebration, and what would that require you to embody even when you're stressed, tired, or overwhelmed?`,
+    parable: `The morning mist clung to Nana Rose's garden as Dove arrived, her phone buzzing with yet another vendor crisis. "The cake decorator is sick, the photographer wants to change our timeline, and now Elm's groomsmen can't coordinate their schedules," she announced breathlessly.
+
+Nana Rose continued pruning her climbing roses, unhurried. "Tell me, child, what happens to a rosebush that fights against the changing seasons?"
+
+"It... it dies?" Dove ventured.
+
+"Indeed. But what happens to one that bends with the wind, adapts to each season's gifts and challenges?" The old woman's hands moved with practiced grace among the thorns.
+
+Elm appeared around the corner, looking equally frazzled. "Did you tell her about the venue wanting to move our ceremony time?"
+
+Dove's shoulders tensed. "We can't change everything! This isn't how it's supposed to—"
+
+"Supposed to what?" Nana Rose's voice carried gentle authority. "Be perfect? Or be yours?" She gestured to her garden. "I've tended this space for forty years. Every spring brings different weather, different pests, different surprises. Yet each year, it blooms more beautifully because I've learned to work with what each season offers rather than demanding what last season gave."
+
+She led them to a particularly stunning rosebush. "This was planted the week before my own wedding. A storm destroyed half my original garden design. I was heartbroken—until I realized that disaster created space for something I never would have imagined."
+
+Elm took Dove's hand. "Maybe... maybe this isn't about our wedding falling apart. Maybe it's about us learning to build something together."
+
+Nana Rose smiled. "Every couple I've worked with faces unexpected changes. The ones who try to fight reality create stress and distance. But the ones who say 'How do we make this beautiful together?' discover something precious: they're not just planning a wedding. They're practicing marriage."
+
+**Moral:** True partnership isn't tested by perfect conditions, but revealed by graceful adaptation to imperfect ones.
+
+**Tomorrow:** Dove and Elm will discover how their wedding can become a living demonstration of love's deepest truths...`,
+  },
 ];

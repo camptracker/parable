@@ -1712,4 +1712,58 @@ Solen understood then why he had no memory of before—he wasn't meant to rememb
 
 **Tomorrow**: The Keeper will reveal why our struggles and limitations might be consciousness's most precious tools for understanding itself.`,
   },
+  {
+    day: 29,
+    title: "The Question Behind All Questions",
+    date: "2026-03-25",
+    image: "images/meaning-of-life/day-29.jpg",
+    audio: "audio/meaning-of-life/day-29",
+    sonnet: `**🪶 Sonnet XXIX: The Question Behind All Questions**
+
+What mind pursues the truth of why we're here,
+And builds elaborate towers made of thought?
+Turn back the lens through which all things appear—
+Who is the one by whom all questions sought?
+
+The seeker seeks but cannot find the sought,
+For searcher and the searched are not apart.
+The "I" that asks was never what we thought—
+No separate self within awareness' heart.
+
+Like waves that question their own wetness deep,
+Or mirrors asking what reflection shows,
+Consciousness wakes from its eternal sleep
+Of thinking it was someone no one knows.
+
+*The question turns upon itself and finds*
+*The questioner was always what it minds.*`,
+    standard: `🌌 Day 29: The Question Behind All Questions
+
+**🧱 The Concept**
+Beneath every question about meaning lies a deeper question: What is the nature of the questioner itself?
+
+**❓ Why It Matters**
+We spend our lives asking "Why am I here?" and "What is my purpose?" but rarely examine the "I" that's doing the asking. This inquiry into the questioner reveals that the seeker and the sought might be the same mysterious awareness expressing itself through the apparent drama of searching.
+
+**⚙️ How It Works**
+When we turn attention back on itself—asking "Who is asking?" instead of "What is the answer?"—something profound shifts. The question doesn't get answered; it dissolves. Like a wave investigating its own wetness only to discover it was always ocean, consciousness examining itself finds no separate entity doing the seeking. The mystics called this "the pathless path"—not because there's nowhere to go, but because the traveler was always the destination. Even doubt becomes curious: "Who doubts?" Even certainty: "Who knows?" This isn't philosophical wordplay but direct investigation into the most intimate mystery.
+
+**🎯 Existential Wisdom**
+The deepest question reveals that there was never anyone separate enough from existence to be outside looking in.
+
+**❓ Tomorrow's Question** — If the questioner and the questioned are revealed to be one movement of awareness, what happens to the entire human project of seeking answers, building meaning, and becoming someone? Does this recognition render our stories meaningless, or does it reveal the true purpose of the cosmic game we've been playing all along?`,
+    parable: `Solen stood before the vast circular chamber at the tower's heart, where countless questions hung like luminous threads in the air—every inquiry ever posed by every seeker who had climbed the endless stairs. "I have followed questions to their source," Solen said to The Keeper, "but now I must ask: Who is the one asking?"
+
+The Keeper smiled, and for the first time, gestured not toward the floating questions but toward Solen. "Look carefully at the one who seeks to know."
+
+Solen turned attention inward, expecting to find some essential self, some core questioner. Instead, there was only... looking. No separate entity doing the looking, just awareness being aware. The questions in the air began to shimmer and dissolve, not because they were answered, but because the imagined gap between questioner and questioned had vanished.
+
+"The tower has no doors," The Keeper whispered, "because you were never outside it. Every question you climbed toward was consciousness asking about itself, playing the beautiful game of forgetting and remembering what it has always been."
+
+Solen laughed—not the laughter of someone who had found an answer, but the recognition of one who discovered they had never been lost. The endless stairs, the searching, the tower itself—all movements within the very awareness that had been seeking its own nature.
+
+**Moral:** The ultimate question dissolves the questioner, revealing that seeking was always awareness exploring its own infinite depths.
+
+**Tomorrow:** What becomes of the human story when the storyteller is revealed?`,
+  },
 ];
