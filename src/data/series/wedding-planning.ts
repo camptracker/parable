@@ -1552,4 +1552,71 @@ Nana Rose smiled. "Every couple I've worked with faces unexpected changes. The o
 
 **Tomorrow:** Dove and Elm will discover how their wedding can become a living demonstration of love's deepest truths...`,
   },
+  {
+    day: 26,
+    title: "The Sacred Presence",
+    date: "2026-03-26",
+    image: "images/wedding-planning/day-26.jpg",
+    audio: "audio/wedding-planning/day-26",
+    sonnet: `**🪶 Sonnet XXVI: The Sacred Presence**
+
+When chaos swirls around your wedding day,
+And flowers wilt and timelines fall apart,
+The truest gift is choosing still to stay
+Present to your beloved's beating heart.
+
+Not perfect smiles for cameras that will click,
+But gentle touch when stress begins to rise,
+The steady gaze that makes time's rushing tick
+Grow quiet in the temple of your eyes.
+
+For guests will long forget each small detail,
+The centerpiece, the music, dress, and ring,
+But they'll recall how love can never fail
+To find itself in any troubled thing.
+
+*When presence becomes your sacred art,*
+*You teach the world love's most essential part.*`,
+    standard: `💍 Day 26: The Sacred Presence
+
+The most powerful truth to demonstrate would be that love means choosing to see and cherish your partner exactly as they are in each moment, especially the imperfect ones. This requires embodying radical presence—truly listening when they speak, offering gentle touch when they're overwhelmed, and responding to their needs rather than just reacting to circumstances. Even when the flowers are wrong or the timeline is behind, you can show every guest that your partner matters more than any external pressure.
+
+**🧱 The Concept**
+True wedding presence isn't about performing happiness—it's about genuine attunement to your partner throughout your celebration.
+
+**❓ Why It Matters**
+Guests will forget your centerpieces, but they'll remember how you looked at each other when things went sideways. Your quality of presence with each other becomes the most powerful demonstration of what marriage actually looks like.
+
+**⚙️ How It Works**
+Presence shows up in micro-moments: making eye contact during the chaos instead of scanning the room, placing a calming hand on their back when family drama emerges, laughing together when the cake topples rather than spiraling into stress. It means creating small pockets of connection—a private smile during the ceremony, a whispered "I love you" between photos, choosing to dance together even when the music isn't perfect. Your presence becomes a sanctuary that you both can return to throughout the day, regardless of what external pressures arise.
+
+**🎯 Wedding Wisdom**
+A wedding where you're truly present with each other teaches guests more about love than any perfectly executed detail ever could.
+
+**❓ Tomorrow's Question**
+If you could go back to the very beginning of your wedding planning process knowing everything you know now, what would you tell your earlier selves about what actually matters for creating the celebration your hearts truly want?`,
+    parable: `Dove found herself standing in the bridal suite, hands trembling as she held her grandmother's pearl necklace. The morning had already brought three small disasters: the florist had mixed up the bouquets, the cake delivery was an hour late, and her cousin had just announced she couldn't make it after all.
+
+"I'm failing at this," she whispered to Elm, who had quietly slipped into the room. "Everyone's watching, and nothing is going right. What kind of bride can't even handle her own wedding morning?"
+
+Elm gently took the necklace from her shaking hands and fastened it around her neck, his fingers steady and sure. "Look at me," he said softly, turning her away from the mirror and toward his face. "What do you see?"
+
+"Someone who should be getting ready for photos," she said, still scanning his face with worry.
+
+"Try again."
+
+This time, Dove really looked. She saw his kind eyes, the slight smile that always appeared when he was trying to ground her, the way he was breathing slowly and deeply, inviting her to match his rhythm.
+
+"I see you," she said, her voice softening. "I see you seeing me."
+
+Nana Rose appeared in the doorway, having witnessed this small moment. "Now that," she said with quiet satisfaction, "is what your guests came to see. Not perfect flowers or punctual cakes, but two people who know how to find each other even in the storm."
+
+Elm kept his hands on Dove's shoulders. "Every time today gets overwhelming, we find each other again. That's our only job."
+
+Dove felt her breathing slow, her perspective shift. The disasters were still there, but they had become background noise to something much more important happening in the foreground.
+
+**Moral:** The most profound gift you can give your guests is the demonstration that love means showing up fully for each other, especially when everything else is falling apart.
+
+**Tomorrow:** We discover what wisdom emerges when you imagine counseling your past selves about the wedding journey.`,
+  },
 ];

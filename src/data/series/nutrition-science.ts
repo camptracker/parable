@@ -1893,4 +1893,66 @@ As the household gathered, Lila watched how the simple act of sharing meals tran
 
 **Tomorrow**: Discover what happens when traditional practices lose their cultural foundation in modern life.`,
   },
+  {
+    day: 32,
+    title: "The Emotional Metabolism",
+    date: "2026-03-26",
+    image: "images/nutrition-science/day-32.jpg",
+    audio: "audio/nutrition-science/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Emotional Metabolism**
+
+What strange alchemy transforms the self-same bread—
+In anxious hands it breeds inflammatory fire,
+While gratitude makes simple grains well-fed
+With healing grace that lifts the spirit higher.
+
+The fearful stomach churns its acidic plea,
+Convincing cortisol to hoard each bite,
+While love's digestion flows so gracefully
+That nutrients dance in parasympathetic light.
+
+For every meal carries our hidden past—
+The comfort foods that soothed our childhood tears,
+The celebrations, hungers holding fast
+To memories that span our living years.
+
+*The body reads our hearts before our plates,*
+*And cooks our food with all our feeling's weight.*`,
+    standard: `🍎 Day 32: The Emotional Metabolism
+
+Knowing what to eat fails because food is never just fuel—it's woven into our deepest emotional and social programming from infancy. When stress, loneliness, celebration, or comfort-seeking triggers arise, these primal associations override rational knowledge because they operate through older brain circuits that prioritize immediate emotional regulation over long-term metabolic health.
+
+🧱 **The Concept**
+Your metabolism processes emotions alongside nutrients, creating biochemical responses that can either support or sabotage your nutritional choices.
+
+❓ **Why It Matters**
+Emotional states directly influence hormones like cortisol, insulin, and ghrelin, which affect not only what you crave but how efficiently you process whatever you eat. Understanding this emotional-metabolic connection explains why the same meal can have different effects on your body depending on your psychological state when you consume it.
+
+⚙️ **How It Works**
+When you eat while stressed, cortisol shifts your metabolism toward fat storage and sugar cravings, regardless of the food's quality. Conversely, eating in a relaxed, grateful state activates your parasympathetic nervous system, optimizing digestion and nutrient absorption. This is why comfort foods become metabolically different when eaten for actual comfort versus mindful nourishment—the same chocolate can trigger inflammation when consumed during anxiety but support recovery when enjoyed in celebration. Your emotional state literally changes your food's metabolic fate through neural pathways that evolved to help you survive feast and famine, love and loss.
+
+🎯 **Science Wisdom**
+Your metabolism reads your emotions as survival data, adjusting nutrient processing accordingly.
+
+❓ **Tomorrow's Question** — *If your emotional state can transform the same food into either medicine or poison at the metabolic level, what does this reveal about the relationship between healing trauma and healing metabolism—and why might addressing unprocessed emotions be more crucial for long-term metabolic health than perfecting your macronutrient ratios?*`,
+    parable: `Lila found Maren tending her middle hearth, where three identical pots of healing broth simmered. "Master," Lila said, "I don't understand. Yesterday you gave the same broth to three villagers with the same ailment, yet only one recovered."
+
+Maren stirred each pot with deliberate care. "Tell me, apprentice, what did you observe about each person when they received the broth?"
+
+"The first woman clutched it desperately, tears streaming down her face. The second man grabbed it impatiently, already thinking about his next task. The third elder held it gently, breathing in its warmth with gratitude."
+
+"Ah," Maren nodded. "And what happened to each pot of broth?"
+
+Lila watched as Maren ladled samples from each pot. The first had grown cloudy and bitter, the second had lost its aromatic herbs, while the third remained clear and fragrant. "But they're the same recipe, from the same ingredients!"
+
+"The body speaks to food just as the heart speaks to the hearth," Maren explained. "When fear stirs the pot, even honey turns to poison. When impatience rushes the cooking, nutrients scatter like frightened birds. But when gratitude tends the flame, simple herbs become profound medicine."
+
+She gestured to the villagers' empty bowls by each hearth. "The desperate woman's body read her tears as famine and hoarded every drop as future worry. The impatient man's body sensed his rushing as danger and converted nourishment to quick energy for escape. Only the grateful elder's body recognized safety, allowing true healing to unfold."
+
+"Your emotions cook your food before it ever reaches your belly, child. This is why knowledge alone never satisfies hunger."
+
+**Moral:** The heart's fire transforms every meal before the body's flame can touch it.
+
+*Tomorrow, Lila will discover why some villagers carry emotional wounds that poison every meal, no matter how perfect the recipe...*`,
+  },
 ];

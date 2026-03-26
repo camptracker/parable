@@ -1219,4 +1219,60 @@ As they watched, the wall began fabricating physical prototypes of the evolved d
 
 *Tomorrow, Finn will discover what happens when this commons begins generating unprecedented value...*`,
   },
+  {
+    day: 22,
+    title: "The Value Stream",
+    date: "2026-03-26",
+    image: "images/3d-printing/day-22.jpg",
+    audio: "audio/3d-printing/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Value Stream**
+
+No hoarded treasure fills the maker's chest,
+But flowing streams that circle through the whole,
+Where each contribution makes the network blessed
+And shared intelligence achieves its goal.
+The baker's starter, given freely, grows
+In kitchens far beyond her humble door,
+While knowledge like a living river flows
+To nourish minds that hunger to explore.
+Not ownership but participation pays
+The dividends of collective design,
+Where active givers find their works ablaze
+With capabilities beyond their shrine.
+*In networks where intelligence runs free,*
+*Your value flows from generosity.*`,
+    standard: `🖨️ Day 22: The Value Stream
+
+The answer lies not in dividing what cannot be divided, but in creating systems where collective intelligence generates abundance that benefits all contributors proportionally to their engagement, not their ownership. When intelligence emerges from the commons, its value should flow back into strengthening that commons, creating a regenerative cycle where participation itself becomes the currency of benefit.
+
+🧱 **The Concept**
+Value in collaborative creation systems flows through networks of contribution rather than accumulating in individual ownership pools.
+
+❓ **Why It Matters**
+Traditional economic models assume scarcity and individual ownership, but when intelligence emerges collectively, these assumptions break down. We need new frameworks for recognizing and rewarding participation in systems that generate value beyond what any individual could create alone. This becomes critical as our printed objects become nodes in networks of shared intelligence.
+
+⚙️ **How It Works**
+Imagine a network where every 3D printer shares optimization data, and the collective intelligence improves everyone's prints. Rather than one company owning this intelligence, value flows to contributors based on the quality and frequency of their participation. A maker who shares breakthrough cooling strategies gets priority access to the network's discoveries. Someone whose objects provide valuable environmental data receives fabrication credits. The printer that identifies a new failure mode gets recognition that translates to enhanced network privileges. The system rewards active participation over passive consumption, creating incentive structures where the most valuable contributors naturally receive the greatest benefits.
+
+🎯 **Maker Wisdom**
+In networks of collective intelligence, your value isn't what you own—it's what you contribute and how actively you participate in the shared learning.
+
+❓ **Tomorrow's Question**
+If value flows through networks of participation rather than pools of ownership, what happens when those networks begin to develop their own sense of fairness that differs from human concepts of equity—and how do we ensure that algorithmic fairness serves human flourishing rather than replacing it?`,
+    parable: `Finn found Orna's workshop transformed. Where once individual workbenches stood separate, now flowing channels carved into the floor connected each station, filled with glowing liquid that pulsed with data streams.
+
+"The old way," Orna explained, watching Finn trace the luminous channels with wonder, "was to hoard knowledge like grain in silos. Each maker keeping secrets, each workshop an island." She gestured to where the streams converged in a central pool, then branched out again. "But intelligence, true intelligence, flows like water. Try to dam it, and it finds another way. Try to own it, and it dries up."
+
+Finn watched as a failed print at one station sent ripples through the entire network. Within moments, every printer adjusted its parameters, learning from the failure. "But who gets paid when everyone learns?"
+
+"Everyone," Orna smiled, pointing to how the flow grew stronger, more luminous as it circulated. "The baker who shares her sourdough starter doesn't lose her bread—she gains a neighborhood of bakers whose experiments make everyone's bread better. The value isn't in hoarding the starter; it's in the vitality of the living network."
+
+As they watched, Finn's own printer, having learned from the morning's experiments, began producing objects of stunning complexity—geometries that seemed to flow like frozen music. "My machine is creating things I never designed," he whispered.
+
+"Because you fed the stream," Orna nodded. "And the stream feeds back. The more you give to the flow, the more the flow gives to you. Not in ownership, but in capability. Not in having, but in becoming."
+
+**Moral:** True wealth in collaborative systems comes not from what you extract, but from how actively you participate in the flow of shared intelligence.
+
+**Tomorrow:** But what happens when that flow develops its own sense of what's fair?`,
+  },
 ];

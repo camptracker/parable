@@ -1942,4 +1942,66 @@ Ren's eyes widened with understanding. "So the stronger he proves himself, the m
 
 *Tomorrow, Ren would learn what happens when you make someone not just generous, but the sole judge of whether you deserve their mercy...*`,
   },
+  {
+    day: 31,
+    title: "The Judge's Throne",
+    date: "2026-03-26",
+    image: "images/negotiation/day-31.jpg",
+    audio: "audio/negotiation/day-31",
+    sonnet: `**🪶 Sonnet XXXI: The Judge's Throne**
+
+When mortal men are raised to judge our worth,
+They cast aside their mercenary ways,
+For justice calls them to a nobler birth—
+To weigh with care through measured, solemn days.
+
+No longer traders seeking profit's gain,
+But arbiters of merit, truth, and right,
+They cannot rule with bias or disdain,
+Lest their own wisdom crumble in our sight.
+
+The throne of judgment bears a sacred weight,
+That transforms those who dare to occupy
+Its hallowed seat—they must deliberate
+With fairness, lest their reputation die.
+
+*When you make others judges of your case,*
+*They rule with justice, not with self-serving grace.*`,
+    standard: `🤝 Day 31: The Judge's Throne
+
+When you make someone the sole arbiter of your worthiness, you transform them from adversary to authority — and authorities feel compelled to render fair, well-reasoned judgments. This elevation to judge activates their deepest psychological need for moral consistency and wisdom, making them weigh your case with the gravity befitting their new role.
+
+🧱 **The Concept**
+By positioning your counterpart as the ultimate judge of whether you deserve their consideration, you shift the entire dynamic from negotiation to adjudication.
+
+❓ **Why It Matters**
+Judges don't negotiate — they deliberate, weigh evidence, and render decisions based on merit and fairness. When someone accepts the role of judge over your fate, they unconsciously adopt the mindset of impartiality and justice rather than self-interest.
+
+⚙️ **How It Works**
+You present your situation not as a business proposition but as a case requiring judgment: "Look, I know this is unusual, but you're the only one who really understands both sides of this industry well enough to tell me honestly — do I even deserve to be asking for this kind of partnership?" This works because judges must appear fair, knowledgeable, and wise. They cannot simply dismiss you without careful consideration, as doing so would undermine their newly elevated status. A hiring manager becomes unable to quickly reject your application when you've made them the sole judge of whether someone with your background deserves a shot. A potential client cannot easily say no when you've positioned them as the expert judge of whether your solution truly addresses their industry's unique challenges.
+
+🎯 **Negotiation Wisdom**
+Judges rule based on merit and fairness, not mere preference — transform your counterpart from negotiator to adjudicator.
+
+❓ Tomorrow's Question — If making someone a judge of your worthiness compels them to be fair and thorough in their evaluation, what happens when you make them feel like their judgment itself is being watched and evaluated by others, turning every decision into a referendum on their own wisdom and character?`,
+    parable: `The morning mist clung to the harbor as Ren approached Vasska's quarters, finding the master trader studying a peculiar contract by lamplight. The document bore the seal of the Merchant Council, and Vasska's weathered face was creased with concentration.
+
+"Master," Ren began carefully, "yesterday you spoke of making others judge our worth. But surely some judgments matter more than others?"
+
+Vasska looked up, his good eye glinting. "Ah, you've touched upon the Judge's Throne, young one. Watch." He gestured to a nervous merchant waiting outside. "Enter, Kedric."
+
+The man shuffled in, clutching proposals. "Master Vasska, I need your backing for the spice route venture, but I know you're selective—"
+
+"Stop," Vasska raised his hand. "Kedric, you know these waters better than any man alive. You've sailed them for thirty years, weathered every storm, navigated every political tide. I need your honest judgment — do I even deserve to be considering such a partnership with someone of your caliber? Am I worthy of risking your reputation?"
+
+Kedric straightened, his nervousness transforming into thoughtful authority. "Well... Master Vasska, your network is unparalleled. Your reputation opens doors that remain sealed to others. Perhaps... perhaps this partnership would benefit us both."
+
+After Kedric left with terms more favorable than he'd dared hope, Ren marveled at the transformation. "He became a different person entirely."
+
+"Indeed," Vasska nodded. "When you place someone on the judge's throne, they must rule with wisdom and fairness, not mere whim. A judge who appears capricious loses all authority. So they deliberate, they weigh, they seek justice — and justice often favors the humble petitioner over the proud."
+
+**Moral:** Transform your counterpart from negotiator to judge, and they must rule with the wisdom and fairness their elevated position demands.
+
+*Tomorrow, Ren would discover what happens when even judges fear being judged themselves...*`,
+  },
 ];

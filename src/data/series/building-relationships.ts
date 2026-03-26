@@ -1979,4 +1979,66 @@ As they prepared to leave, Ash and Lume realized they weren't the same travelers
 
 *Tomorrow, we discover how every relationship serves as a sacred curriculum, perfectly designed to teach us what our souls most need to learn.*`,
   },
+  {
+    day: 32,
+    title: "The Sacred Contract — When Love Becomes Your Greatest Teacher",
+    date: "2026-03-26",
+    image: "images/building-relationships/day-32.jpg",
+    audio: "audio/building-relationships/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Sacred Contract**
+
+Before our hearts first met in time and space,
+Our souls convened to write a sacred pact—
+To teach through love what neither could embrace
+Alone, and heal what in ourselves was cracked.
+
+The very traits that draw us to their side
+Become the teachers we resist the most:
+Their stubborn ways show where we've lived with pride,
+Their distant heart reveals our needy ghost.
+
+No accident brought us to this dance,
+No random fate made our two paths converge—
+We chose each other's wounds to heal in trance,
+Agreed to be the mirrors that would purge.
+
+*When love becomes our greatest teacher's voice,*
+*Each trial proves we made the perfect choice.*`,
+    standard: `💕 Day 32: The Sacred Contract — When Love Becomes Your Greatest Teacher
+
+If partnership truly serves as our soul's curriculum, then its purpose transcends happiness to become transformation—each difficulty not an obstacle to overcome but a lesson to embody. This reframes every challenging moment as sacred instruction, shifting us from victims of circumstance to willing students of love's deepest teachings.
+
+🧱 **The Concept**
+Every relationship operates on two levels: the conscious partnership we think we're creating and the unconscious sacred contract our souls made to help each other grow.
+
+❓ **Why It Matters**
+When we recognize this deeper agreement, we stop taking our partner's triggers, resistances, and growth edges personally. Instead, we begin to see them as the very experiences our own soul chose to catalyze our evolution. This perspective transforms every conflict from a threat to the relationship into an opportunity for mutual awakening.
+
+⚙️ **How It Works**
+Your partner's most challenging behaviors often mirror your deepest unhealed wounds—not by accident, but by design. If they're controlling, they're teaching you about your relationship to freedom. If they're emotionally distant, they're showing you where you abandon yourself. If they're critical, they're revealing where you seek validation externally. The sacred contract means you didn't randomly find each other; you found exactly the person whose growth edges would activate your own. This is why the things that attract us often become the very things that challenge us most—the same vulnerability that drew us in becomes the teacher we didn't know we needed.
+
+🎯 **Relationship Wisdom**
+When you can see your partner as your soul's chosen teacher rather than your happiness's obstacle, every difficult moment becomes curriculum rather than crisis.
+
+❓ **Tomorrow's Question** — If you could see the "learning objectives" your soul wrote before entering this relationship—the specific qualities you came here to develop, the fears you came to heal, the ways you intended to grow—what would you discover about why this particular person showed up in your life, and how would it change your approach to the very behaviors in them that trigger you most?`,
+    parable: `The road had grown steep, and for days Ash and Lume had struggled with each other's pace. Ash, ever eager, pushed forward impatiently, while Lume lingered to examine every stone and flower. Their frustration mounted until they reached the Bridge of Vows, where Elder Rynn waited with knowing eyes.
+
+"You see only the surface of your journey," Rynn observed, watching them arrive with tight jaws and weary hearts. "But I see the sacred contract you made before you ever set foot on this road."
+
+"What contract?" Ash demanded. "We chose this path freely."
+
+Elder Rynn smiled and gestured to an ancient scroll beside the bridge. "Before travelers begin this journey, their souls write invisible agreements about what they will teach each other. Ash, your soul chose Lume not despite their slowness, but because of it. You came here to learn patience, to discover that rushing can cause you to miss life's deeper treasures."
+
+Lume shifted uncomfortably. "And what did my soul supposedly choose?"
+
+"You chose Ash's urgency to teach you about momentum, about not getting so lost in detail that you forget your destination. Each of you carries the medicine the other needs, disguised as the very trait that irritates you most."
+
+As understanding dawned, Ash saw how Lume's pauses had shown hidden wonders along the way, while Lume recognized how Ash's drive had kept them moving through difficult terrain. Their conflict wasn't random—it was curriculum.
+
+"Every partnership is a sacred agreement between souls," Rynn concluded. "When you remember this, your greatest challenges become your greatest teachers."
+
+As they crossed the bridge together, both travelers understood they had found not just a companion, but their soul's chosen teacher disguised as their perfect match.
+
+Tomorrow, they would discover what specific lessons their souls had enrolled to learn.`,
+  },
 ];

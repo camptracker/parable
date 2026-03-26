@@ -2301,4 +2301,64 @@ Tobren approached, carrying an ornate ceremonial bowl he'd clearly just purchase
 
 Tomorrow, Sable will reveal why recognizing our limited choice might be the key to unlimited prosperity...`,
   },
+  {
+    day: 35,
+    title: "The Design Revolution",
+    date: "2026-03-26",
+    image: "images/financial-independence/day-35.jpg",
+    audio: "audio/financial-independence/day-35",
+    sonnet: `**🪶 Sonnet XXXV: The Design Revolution**
+
+Not willpower strong, but channels carved with care
+Guide fortune's flow to where it serves us best,
+As farmers shape the land with patient prayer
+And let the rain complete what hands suggest.
+
+The wisest wealth-builders design their days
+With systems that make virtue effortless,
+While others fight their nature's stubborn ways
+And wonder why their progress shows distress.
+
+Automatic transfers, barriers built
+Between desire and the coin we've earned,
+These simple tools prevent financial guilt
+And teach us what the ancients always learned:
+
+*That human nature flows like water down,*
+*But channeled well, it waters wisdom's ground.*`,
+    standard: `💰 Day 35: The Design Revolution
+
+While individual responsibility remains important, society should indeed restructure around psychological realities rather than pretend everyone has equal rational capacity. The most effective approach combines personal accountability with systemic design that makes good choices easier and bad choices harder—like automatic enrollment in retirement plans or default savings transfers.
+
+🧱 **The Concept**
+Optimal financial systems work with human psychology rather than against it, using environmental design to guide behavior toward beneficial outcomes.
+
+❓ **Why It Matters**
+Traditional financial advice assumes people will consistently make rational choices despite overwhelming evidence that they won't. Systems designed around actual human behavior—with appropriate defaults, friction, and automation—produce dramatically better outcomes than systems that rely purely on willpower and education.
+
+⚙️ **How It Works**
+Effective design makes good financial behavior the path of least resistance. Automatic transfers move money to savings before you can spend it. High-yield accounts require effort to access, creating beneficial friction for emergency funds. Apps that round up purchases to the nearest dollar automatically invest the difference. Even something as simple as using separate accounts for different goals leverages our mental accounting biases productively. The key is recognizing that our brains evolved for immediate survival, not long-term wealth building, so we need external systems to bridge this gap.
+
+🎯 **Buffett Wisdom**
+Buffett structures his life and investments around systems that remove emotional decision-making from the equation, letting mathematical principles work automatically.
+
+❓ **Tomorrow's Question** — If environmental design is so powerful that it can override our conscious financial intentions, what does this reveal about the nature of willpower itself, and why might the people who achieve the most financial success be those who rely on willpower the least?`,
+    parable: `As autumn deepened in their village, Kael noticed something peculiar about Tobren's latest harvest. Despite facing the same drought as other farmers, Tobren's yields were consistently higher. When Kael asked about his secret, Tobren smiled and led him through his fields.
+
+"Look closely," Tobren said, pointing to subtle channels carved into the earth. "I don't fight the water—I guide it. These channels direct rainwater exactly where my crops need it most, even when I'm not here to tend them."
+
+Sable, who had been walking with them, nodded approvingly. "This is the wisdom of working with nature rather than against it. Tobren knows that water will flow downhill whether he wills it or not, so he shapes the land to make that natural tendency serve his purpose."
+
+"But what does this have to do with coin?" Kael asked.
+
+"Everything," Sable replied. "Most people try to force themselves to save through sheer willpower, fighting their natural tendency to spend what they see. They inevitably fail. But the wise create channels for their money—automatic paths that guide it toward savings before they can spend it, just as Tobren guides water to his crops."
+
+Tobren gestured toward his irrigation system. "I could stand in my fields every day, trying to carry water bucket by bucket to each plant. That would be noble effort, but my crops would still die. Instead, I built a system that works even when I sleep."
+
+"The most successful people don't have stronger willpower," Sable concluded. "They have better systems."
+
+**Moral**: True wealth comes not from fighting human nature but from designing systems that harness it.
+
+*Tomorrow, we'll explore why those who achieve the most might be those who try the least...*`,
+  },
 ];

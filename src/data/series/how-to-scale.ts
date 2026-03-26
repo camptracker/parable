@@ -1797,4 +1797,64 @@ The most adaptable organizations aren't frictionless—they're strategically fri
 
 **Tomorrow:** Ironmere will reveal why he periodically removes all friction from his systems, embracing temporary chaos as a tool for breakthrough innovation.`,
   },
+  {
+    day: 30,
+    title: "The Chaos Reset Protocol",
+    date: "2026-03-26",
+    image: "images/how-to-scale/day-30.jpg",
+    audio: "audio/how-to-scale/day-30",
+    sonnet: `**🪶 Sonnet XXX: The Chaos Reset Protocol**
+
+When clockwork gears grow deep with rutted grooves,
+And perfect systems trap their own design,
+The wisest builders make destructive moves
+To free the future from the past's confine.
+
+They tear apart what took long years to build,
+Not from despair, but from prophetic sight—
+For structures that have perfectly fulfilled
+Their purpose now obstruct tomorrow's light.
+
+In controlled chaos, new connections form,
+As scattered pieces find their truer place,
+The temporary dissolution of the norm
+Reveals what permanence had kept from grace.
+
+*For those who master cycles of renewal,*
+*Find in destruction their most vital fuel.*`,
+    standard: `🚀 Day 30: The Chaos Reset Protocol
+
+The most stable organizations periodically embrace temporary chaos because stabilizing friction, while protective, can crystallize into organizational arthritis that prevents necessary adaptation. By temporarily removing all friction, they create a controlled reset that allows new patterns to emerge organically before selectively reintroducing the friction that truly serves them.
+
+🧱 **The Concept**
+True organizational stability comes not from maintaining static structures, but from mastering the rhythm of controlled destruction and reconstruction.
+
+❓ **Why It Matters**
+Companies that never reset their systems become prisoners of their own success patterns. What once enabled growth becomes the very thing that prevents the next phase of evolution. The most resilient organizations treat stability as a dynamic process, not a fixed state.
+
+⚙️ **How It Works**
+Successful companies implement **chaos reset protocols** at predictable intervals. Netflix famously eliminates entire product lines and organizational structures every few years, not because they're failing, but because they're succeeding too well in outdated contexts. Amazon's "Day 1" principle institutionalizes this by treating every day as if the company is still a startup, deliberately dismantling bureaucratic accumulation before it calcifies. Google's 20% time and regular "spring cleaning" of products serve the same function—controlled chaos that prevents uncontrolled obsolescence. The key is making the reset intentional and bounded rather than reactive and desperate.
+
+🎯 **Scaling Wisdom**
+The companies that survive longest are those that regularly destroy and rebuild themselves before external forces require it.
+
+❓ **Tomorrow's Question** — If mastering controlled chaos gives organizations such powerful adaptive advantages, why do the most successfully chaotic companies eventually create "chaos-free zones" that are completely protected from any reset protocols?`,
+    parable: `Vex found Ironmere standing before a magnificent clockwork mechanism, its gears turning in perfect harmony. But as she watched, the old architect began systematically removing components, creating deliberate chaos in the precise system.
+
+"Master, why destroy something that works so beautifully?" Vex asked, alarmed.
+
+Ironmere smiled, holding up a gear green with corrosion. "This clockwork has run perfectly for years, but see how the gears have worn grooves so deep they can no longer turn in any direction but the one they've always known? The mechanism has become its own prison."
+
+As he dismantled more pieces, the remaining gears began spinning wildly, finding new connections, new patterns of movement. "The city I built faced this same trap," Ironmere continued. "Our roads became so perfectly efficient that no one could imagine new paths. Our systems so refined that innovation became impossible."
+
+He began reassembling the mechanism, but not as it was before. New configurations emerged, more elegant than the original. "So we instituted the Great Renewal—every seven years, we would tear down one district completely and rebuild it fresh. The chaos was temporary, but it kept the entire city alive and growing."
+
+Vex watched the reformed clockwork tick with new vitality. "You taught the city to forget itself?"
+
+"I taught it to remember that permanence is the enemy of permanence," Ironmere replied. "True stability comes not from never changing, but from never stopping your ability to change."
+
+**Moral:** The structures that preserve you will eventually imprison you unless you periodically set them free.
+
+**Tomorrow:** Even chaos itself can become a cage...`,
+  },
 ];
