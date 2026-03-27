@@ -2361,4 +2361,64 @@ Tobren gestured toward his irrigation system. "I could stand in my fields every 
 
 *Tomorrow, we'll explore why those who achieve the most might be those who try the least...*`,
   },
+  {
+    day: 36,
+    title: "The Architecture of Effortless Wealth",
+    date: "2026-03-27",
+    image: "images/financial-independence/day-36.jpg",
+    audio: "audio/financial-independence/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Architecture of Effortless Wealth**
+
+The mill wheel turns without a conscious thought,
+No daily choice compels its steady motion;
+The river's force through clever channels brought
+Creates a wealth of grain through automation.
+
+So too the wise investor builds a stream
+That flows from paycheck straight to compound gains,
+No willpower needed to fulfill the dream—
+The system works while consciousness abstains.
+
+For discipline depletes like morning dew,
+But structures last beyond our fickle will;
+The wealthy know what poverty never knew:
+That effortless abundance crowns true skill.
+
+*The strongest force in wealth's eternal game*
+*Is not the will, but systems built the same.*`,
+    standard: `💰 Day 36: The Architecture of Effortless Wealth
+
+Willpower is fundamentally a finite resource that depletes with use, which explains why the most successful investors build systems that make good financial decisions automatic rather than effortful. They understand that relying on daily discipline to resist financial temptation is like trying to hold your breath indefinitely—eventually, biology wins over intention.
+
+🧱 **The Concept**
+True wealth-building operates through automated systems that remove the need for constant willpower and decision-making.
+
+❓ **Why It matters**
+Every financial decision you have to consciously make depletes your mental energy and creates opportunities for poor choices. The wealthy understand that the goal isn't to become more disciplined—it's to need less discipline by designing systems that make wealth-building inevitable.
+
+⚙️ **How It Works**
+Automated investing removes the daily choice of whether to invest, just as automatic bill pay removes the choice of whether to pay bills on time. When your paycheck automatically splits into designated accounts—emergency fund, retirement, investments—before you ever see the money, you eliminate the psychological friction that destroys most people's financial plans. The key is designing your financial life so that building wealth becomes the path of least resistance rather than the path of most discipline. This might mean automatically increasing your 401(k) contribution by 1% every year, setting up automatic transfers to investment accounts, or even having investment contributions come directly from your paycheck before it reaches your checking account.
+
+🎯 **Buffett Wisdom**
+Buffett automated his own wealth-building by creating Berkshire Hathaway as a machine that automatically reinvests profits rather than distributing them to shareholders. "Someone's sitting in the shade today because someone planted a tree a long time ago," he says—and that tree grows automatically once the system is established.
+
+❓ **Tomorrow's Question** — If automation can make wealth-building effortless by removing human psychology from the equation, what does this suggest about the nature of human rationality itself, and why might our entire economic system be built around the false premise that people make consistently rational financial choices?`,
+    parable: `The village had always struggled with maintaining its grain reserves. Each harvest, families would promise to store grain for winter, yet come spring, the granaries stood nearly empty. Year after year, good intentions withered before human weakness.
+
+Kael watched the elders debate solutions. Some proposed stricter penalties, others demanded greater willpower training. But Sable, observing from her corner, finally spoke: "You fight the river instead of channeling it."
+
+She led them to the old mill, where an ancient waterwheel turned endlessly. "This wheel moves not through discipline, but through design. The river flows naturally downward, and we simply redirect that flow to our purpose."
+
+Tobren frowned. "But grain storage requires human choice, not water flow."
+
+"Does it?" Sable smiled mysteriously. She proposed a radical change: instead of asking families to store grain after harvest, they would modify the threshing process itself. A portion of every family's grain would automatically flow into sealed storage containers before reaching their personal stores. The system would be built into the harvest ritual itself, requiring no daily decisions or willpower.
+
+The first season proved revelatory. Families barely noticed the automatic grain diversion, yet the village reserves swelled beyond anything achieved through conscious discipline. Children played near the granaries, unaware they stood beside abundance created not through sacrifice, but through wisdom.
+
+"The strongest will," Sable explained to Kael as they watched the sunset paint the full granaries gold, "is the will that builds systems requiring no will at all."
+
+Moral: True wealth flows not from daily discipline, but from systems that make abundance inevitable.
+
+Tomorrow: The village discovers that their automated abundance reveals something profound about human nature itself...`,
+  },
 ];

@@ -2004,4 +2004,66 @@ After Kedric left with terms more favorable than he'd dared hope, Ren marveled a
 
 *Tomorrow, Ren would discover what happens when even judges fear being judged themselves...*`,
   },
+  {
+    day: 32,
+    title: "The Reputation Mirror",
+    date: "2026-03-27",
+    image: "images/negotiation/day-32.jpg",
+    audio: "audio/negotiation/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Reputation Mirror**
+
+When private judgment moves to public stage,
+The evaluator becomes the one on trial,
+Each word and gesture written on the page
+Of reputation's ledger, rank and file.
+
+No longer does he weigh your worth alone,
+But how his wisdom appears to watching eyes,
+His harshness would reflect upon his own
+Capacity for mercy, fool or wise.
+
+The mirror turns, the judge becomes the judged,
+His choices echo in the halls of fame,
+From selfishness toward fairness he is nudged
+By fear of how history will speak his name.
+
+*When watchers watch the watcher's every move,*
+*He proves his wisdom by what he'll approve.*`,
+    standard: `🤝 Day 32: The Reputation Mirror
+
+When someone feels their judgment is being watched and evaluated by others, they shift from evaluating you to protecting their own reputation as a wise decision-maker. This creates the **Reputation Mirror** — they become intensely focused on making choices that reflect well on their judgment rather than choices that serve their immediate interests.
+
+🧱 **The Concept**
+People make different decisions when they believe others are watching and will judge their wisdom based on the outcome.
+
+❓ **Why It Matters**
+Once someone realizes their decision will be scrutinized by peers, superiors, or the public, they unconsciously optimize for appearing wise rather than maximizing personal gain. This transforms private negotiations into public performances where reputation becomes the highest stake.
+
+⚙️ **How It Works**
+The key is making the evaluation feel inevitable and consequential. A CEO might normally reject a partnership proposal, but if they know the board will review their decision-making process, they become more collaborative and thorough. A hiring manager might rush through candidates privately, but if they know HR will audit their reasoning, they suddenly become more careful and inclusive. You can trigger this by mentioning that decisions "set precedents," that others are "watching how this plays out," or that the outcome will be "studied" or "reviewed." Even phrases like "I'm curious what your team would think of this approach" instantly shift someone from private decision-maker to public representative of their own wisdom.
+
+🎯 **Negotiation Wisdom**
+When people feel watched, they optimize for appearing wise rather than being selfish — turn every negotiation into a reputation game.
+
+❓ **Tomorrow's Question** — If making someone perform their wisdom for an invisible audience changes their entire decision-making calculus, what happens when you make them feel like they're not just being watched, but that they're actively teaching others how to handle similar situations through their example?*`,
+    parable: `Vasska watched from the shadows as Ren stood before the Council of Merchants, his proposal trembling in sweaty palms. The young trader had asked for a private meeting to discuss his new trade route, but Vasska had whispered in the right ears — now half the merchant guild observed from the gallery.
+
+"Master Chen," Ren addressed the lead councilman, "I seek only your wisdom on this venture." His voice carried differently now, formal and measured. Gone was the desperate urgency of their private conversations.
+
+Chen, who had been ready to dismiss the boy with harsh words an hour earlier, now stroked his beard thoughtfully. The gallery murmured with interest. Every word would be repeated in the teahouses, every gesture analyzed for signs of wisdom or foolishness.
+
+"This route through the mountain passes..." Chen began, his tone far more generous than before. "Tell us, young Ren, how would you handle the seasonal storms?"
+
+The questions flowed more thoughtfully, the criticism more constructive. Chen was no longer just evaluating a proposal — he was demonstrating his own sagacity before his peers. When he finally endorsed a modified version of Ren's plan, the gallery nodded with approval.
+
+Later, in the dim candlelight of their usual corner, Vasska's single eye gleamed with satisfaction. "Did you see how his whole demeanor changed? In private, he judges you. In public, he judges himself — and finds he must be generous to appear wise."
+
+Ren shook his head in wonder. "But I said nothing different."
+
+"Ah, but everything was different," Vasska smiled. "The mirror had turned around."
+
+**Moral**: When others watch our judgment, we judge ourselves first — and mercy becomes the mark of wisdom.
+
+*Tomorrow: Ren discovers what happens when the teacher becomes the student...*`,
+  },
 ];
