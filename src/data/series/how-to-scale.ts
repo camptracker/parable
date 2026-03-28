@@ -1919,4 +1919,63 @@ Vex carefully gathered the scattered stones, setting them in a special case. Tom
 
 *Tomorrow, Vex will discover why even the most sacred sanctuaries sometimes require their own form of evolution...*`,
   },
+  {
+    day: 32,
+    title: "The Innovation Cannibalization Engine",
+    date: "2026-03-28",
+    image: "images/how-to-scale/day-32.jpg",
+    audio: "audio/how-to-scale/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Innovation Cannibalization Engine**
+
+The gardener's blade cuts down the fairest rose
+Not from spite, but wisdom's deeper call—
+For where the cherished blossom proudly grows,
+No space remains for gardens to enthrall.
+The phoenix knows what lesser birds forget:
+That clinging to one form breeds only death.
+To rise renewed, old feathers must be met
+With flame that steals away familiar breath.
+So Amazon's child consumed its parent's trade,
+And Netflix killed the discs that built its throne.
+The companies that refuse to self-invade
+Find competitors reap what they have sown.
+*The strongest trees shed leaves to grow anew,*
+*While rigid oaks break when the strong winds blow.*`,
+    standard: `🚀 Day 32: The Innovation Cannibalization Engine
+
+Successful companies allow their sanctuaries to be invaded because they recognize that their most valuable innovations eventually become obsolete without continuous transformation. The crown jewel that remains perfectly preserved becomes tomorrow's legacy burden, while the sanctuary that evolves through controlled invasion becomes the launching pad for the next breakthrough.
+
+**🧱 The Concept**
+The most enduring organizations build systems that deliberately cannibalize their own most successful innovations before competitors do.
+
+**❓ Why It Matters**
+Companies that protect their crown jewels from all change eventually discover their treasures have become museum pieces. The smartphone didn't evolve from the telegraph—it cannibalized it completely. Organizations must either eat their own innovations or watch competitors devour them.
+
+**⚙️ How It Works**
+Amazon's AWS team was explicitly encouraged to cannibalize Amazon's retail infrastructure, creating services that competed directly with internal systems. Netflix deliberately cannibalized their DVD-by-mail business with streaming, even when DVDs were still highly profitable. Apple's iPhone team was tasked with making the iPod obsolete before anyone else could. The innovation cannibalization engine works by creating internal teams whose success metrics depend on replacing, not improving, existing successful products. These teams receive resources and protection to attack sacred cows that external teams aren't allowed to touch.
+
+**🎯 Scaling Wisdom**
+The organizations that survive disruption are the ones that disrupt themselves first, systematically and repeatedly.
+
+**❓ Tomorrow's Question** — If deliberate self-cannibalization creates such powerful competitive advantages, why do the most innovative companies eventually establish "innovation protected classes" that are completely immune from cannibalization attacks?`,
+    parable: `Vex stood before Ironmere's workshop, watching the old architect methodically dismantle his most prized creation—a clockwork mechanism that had brought him fame decades ago.
+
+"Master, why destroy something so beautiful and functional?" Vex asked, horrified. "This timepiece still keeps perfect time. Merchants travel from distant lands just to see it work."
+
+Ironmere smiled, his weathered hands carefully removing each gear. "Because, young builder, I've learned something more valuable than preserving beauty—I've learned to feast on my own work before time makes it a meal for decay."
+
+"But surely some creations should remain untouched?"
+
+"Watch," Ironmere said, revealing a new mechanism hidden within the old one's housing. "For twenty years, this timepiece was my crown jewel. I protected it, polished it, showed it to admirers. And slowly, it became my prison. Every new idea had to work around it, accommodate it, preserve it."
+
+He gestured to the gleaming new mechanism. "This one tells time by reading the stars themselves, needs no winding, no maintenance. But I could never have built it while protecting the old one. The new required the complete sacrifice of the old."
+
+Vex watched as Ironmere began installing the celestial timepiece. "So you... ate your own masterpiece?"
+
+"Before anyone else could make it obsolete, yes. The wolves of innovation circle constantly, Vex. Better to be the wolf than the prey."
+
+**Moral**: *The master craftsman who cannot destroy his own masterpiece will watch others destroy it for him.*
+
+*Tomorrow, Ironmere reveals why even the most ruthless self-cannibalizers eventually create untouchable sacred cows...*`,
+  },
 ];

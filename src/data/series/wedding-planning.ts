@@ -1685,4 +1685,72 @@ She gestured to her garden, where each rose had space to breathe, each bloom dis
 
 *Tomorrow, Dove will discover that the most powerful celebrations focus their energy like a laser rather than scattering it like confetti...*`,
   },
+  {
+    day: 28,
+    title: "The Sacred Courage",
+    date: "2026-03-28",
+    image: "images/wedding-planning/day-28.jpg",
+    audio: "audio/wedding-planning/day-28",
+    sonnet: `**🪶 Sonnet XXVIII: The Sacred Courage**
+
+When expectation's weight grows hard to bear,
+And wedding plans become a heavy chain,
+The brave heart chooses truth over the snare
+Of others' dreams that bring the soul no gain.
+
+To serve your love, not crowds who come to see,
+Requires the strength to disappoint some eyes,
+To trust that fewer, truer souls will be
+More moved by honesty than sweet disguise.
+
+The courage lies not in the grand display,
+But choosing depth where others chase the wide,
+In saying no to paths that lead astray
+From who you are when standing side by side.
+
+*For those who dare to wed with hearts laid bare*
+*Create the love that others long to share.*`,
+    standard: `💍 Day 28: The Sacred Courage
+
+To create transformative focus, you'd likely remove the elements that serve appearances over connection—the elaborate centerpieces guests barely notice, the complex timeline that rushes meaningful moments, the extra courses that distract from conversation. What remains reveals that transformative focus requires the courage to disappoint some expectations in service of what actually moves hearts.
+
+🧱 **The Concept**
+True wedding courage isn't about grand gestures or expensive risks—it's about choosing authenticity over approval, even when that choice feels vulnerable.
+
+❓ **Why It Matters**
+Most wedding stress comes from trying to please everyone while staying true to yourselves, but these goals often conflict directly. The couples who create the most meaningful celebrations are those who find the courage to prioritize their authentic vision over universal approval, understanding that disappointing some people is the price of deeply connecting with others.
+
+⚙️ **How It Works**
+Wedding courage shows up in small but significant choices: serving the comfort food you both love instead of the sophisticated menu your venue suggests, having your ceremony in your backyard rather than the impressive venue that doesn't feel like you, or writing vows that reveal your real struggles and growth instead of Pinterest-perfect promises. It's choosing a 20-minute ceremony that moves everyone to tears over a 45-minute traditional service that checks all the boxes. It's inviting only the people who truly know and celebrate your relationship, even if that means some relatives feel excluded. Each act of courage creates space for something more authentic to emerge.
+
+🎯 **Wedding Wisdom**
+The weddings that change people are planned by couples brave enough to choose meaning over approval.
+
+❓ **Tomorrow's Question** — If you could guarantee that your wedding would require you and your partner to be the most authentic versions of yourselves you've ever been in public, what would that demand of you that feels simultaneously terrifying and thrilling, and what does that reveal about the difference between performing love and embodying it?`,
+    parable: `Dove sat in Nana Rose's garden studio, surrounded by inspiration boards she'd crafted over weeks of careful planning. Each one gleamed with perfection—cascading florals, golden light, tables that looked like art installations.
+
+"They're beautiful, dear," Nana Rose said gently, studying the boards. "But tell me—when you imagine your wedding day, do you see yourself in these pictures?"
+
+Dove's smile faltered. "What do you mean?"
+
+"I mean, can you picture yourself—the real you, not some bridal magazine version—laughing genuinely at these elaborate tables? Can you imagine Elm feeling completely comfortable in this setting?"
+
+Elm shifted in his chair. "Actually, I keep wondering if anyone will be able to have real conversations with all these... decorative elements."
+
+"But everyone expects—" Dove began.
+
+"Everyone expects a lot of things," Nana Rose interrupted. "The question is: are you planning a wedding for everyone, or are you planning a wedding for the two of you and the people who matter most?"
+
+She pulled out a simple photo—a couple dancing alone in their living room while their families sat around them in mismatched chairs, laughing. "This couple had the courage to disappoint the venue coordinator, the florist, and half their relatives. They had their reception in their own home. Do you see the faces?"
+
+Dove looked closely. Every face radiated pure joy.
+
+"Courage isn't about being fearless," Nana Rose continued. "It's about choosing what matters most, even when that choice feels scary. The couples I remember most weren't the ones who impressed everyone—they were the ones who had the courage to be completely themselves."
+
+Elm reached for Dove's hand. "What if we planned a wedding that required us to be brave?"
+
+**Moral:** The most transformative celebrations are created by couples courageous enough to choose authenticity over approval.
+
+*Tomorrow, we discover what happens when love demands our most authentic selves...*`,
+  },
 ];

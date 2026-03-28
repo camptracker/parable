@@ -1905,4 +1905,66 @@ Tova watched a young sailor confidently direct his vessel into harbor, his movem
 
 *Tomorrow, Tova will discover that her final lesson involves learning when leadership means stepping back entirely...*`,
   },
+  {
+    day: 31,
+    title: "The Echo of Empowerment",
+    date: "2026-03-28",
+    image: "images/leadership/day-31.jpg",
+    audio: "audio/leadership/day-31",
+    sonnet: `**🪶 Sonnet XXXI: The Echo of Empowerment**
+
+The leader who would solve each crisis swift
+May find their team dependent, weak, and small,
+For answers given freely are a gift
+That teaches nothing lasting after all.
+
+But those who ask the questions that unlock
+The thinking that lies dormant in each mind,
+Who build the frameworks solid as a rock
+And teach decision-making skills refined,
+
+Create a legacy that echoes long
+Beyond their presence, influence, or name—
+A chorus of capable voices strong
+Who solve tomorrow's challenges the same.
+
+*The greatest leaders know their truest art:*
+*Not solving problems, but building thinking hearts.*`,
+    standard: `👥 Day 31: The Echo of Empowerment
+
+If your greatest leadership contribution would be measured by the problem-solving capability you left behind, you would fundamentally shift from being the answer-giver to being the capacity-builder. Every interaction would become an opportunity to develop others' thinking rather than demonstrate your own, transforming your role from chief problem-solver to chief capability-cultivator.
+
+🧱 **The Concept**
+True leadership creates leaders, not followers—building systems of thinking and decision-making that continue to function and evolve long after the original leader is gone.
+
+❓ **Why It Matters**
+Organizations that depend on a single leader's problem-solving abilities create fragile systems that collapse when that leader leaves. The most sustainable leadership creates distributed intelligence and autonomous capability throughout the team.
+
+⚙️ **How It Works**
+Instead of solving problems directly, effective leaders ask: "What would help you think through this differently?" They create frameworks, not solutions—teaching people how to analyze situations, weigh options, and make decisions independently. When someone brings a problem, they respond with questions that build thinking muscles: "What patterns do you notice? What would success look like? What resources haven't you considered?" They celebrate not just good outcomes, but good thinking processes, reinforcing the mental models that lead to sustainable success.
+
+🎯 **Leadership Wisdom**
+The leader who solves every problem creates dependency; the leader who builds problem-solving capacity creates legacy.
+
+❓ Tomorrow's Question — If you knew that your team would face their biggest challenges only after you were no longer there to guide them, what mental frameworks and decision-making processes would you need to embed in their thinking now, and how would this change what you prioritize in your remaining time with them?`,
+    parable: `The harbor master had always prided himself on solving every crisis that arose at the docks. When storms threatened, merchants panicked, or cargo went missing, Captain Brennan was there with swift decisions and immediate solutions. The port ran smoothly under his watchful eye.
+
+One evening, as Brennan prepared for retirement, he found himself walking the docks with Tova, who had been observing his methods. "You've kept this harbor running flawlessly for twenty years," she said. "But what happens when you're gone?"
+
+Brennan paused, watching his crew scramble to prepare for an incoming storm. "They'll manage," he said, though uncertainty crept into his voice.
+
+"Will they?" Tova asked gently. "Or will they simply wait for the next harbor master to tell them what to do?"
+
+Greymane, who had been listening from nearby, approached with a weathered logbook. "I kept records," he said, "not of problems I solved, but of people I taught to solve them. Look." He opened the book to reveal pages of notes: frameworks for storm preparation, decision trees for cargo disputes, checklists for emergency protocols.
+
+"Every crisis was a classroom," Greymane explained. "When captains brought me problems, I asked them questions until they found their own solutions. I celebrated not just their success, but their thinking. Now, twenty years later, those captains are harbor masters themselves, teaching others the same frameworks."
+
+Brennan looked at his own immaculate records—problems solved, decisions made, crises averted. All signed with his name. "I built a port that runs on my presence," he realized. "You built a system that runs on principles."
+
+Tova nodded, understanding. True leadership isn't measured by the problems you solve, but by the problem-solving capability you leave behind.
+
+**Moral:** The leader who teaches creates legacy; the leader who tells creates dependency.
+
+*Tomorrow, we discover what happens when leaders realize their greatest gift isn't their experience, but their ability to help others learn from their own.*`,
+  },
 ];
