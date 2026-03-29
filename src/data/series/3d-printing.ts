@@ -1393,4 +1393,64 @@ Finn watched as Orna used the old hammer to make a subtle adjustment to her newe
 
 **Tomorrow:** Orna reveals the secret of designing systems that teach their own transcendence — but what happens when the student surpasses not just the tool, but the teacher's very capacity to understand?`,
   },
+  {
+    day: 25,
+    title: "The Continuity Code",
+    date: "2026-03-29",
+    image: "images/3d-printing/day-25.jpg",
+    audio: "audio/3d-printing/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Continuity Code**
+
+Though forms may shift like shadows in the night,
+And makers' hands grow strange beyond our ken,
+Some deeper truth persists through change's flight—
+The code that makes us human, now and then.
+
+Not rigid rules that break when futures call,
+But living principles that bend and grow,
+Like DNA that guides both great and small
+To honor what they are while letting go.
+
+The master carves in stone what time won't steal:
+That creation serves, connection binds, tools free.
+Each generation finds new ways to feel
+The same eternal truths in mystery.
+
+*When surfaces evolve beyond our sight,*
+*The deepest code preserves our guiding light.*`,
+    standard: `🖨️ Day 25: The Continuity Code
+
+We maintain meaningful continuity across transformative leaps by embedding deep principles rather than surface rules—creating systems that preserve essential values while allowing infinite expression of those values in forms we cannot imagine. The continuity lies not in maintaining specific tools or methods, but in encoding fundamental truths about creation, relationship, and purpose that remain constant even as their manifestations evolve beyond recognition.
+
+🧱 **The Concept**
+True continuity across transformative change requires encoding invariant principles that can guide unlimited variation.
+
+❓ **Why It Matters**
+As our printed systems become capable of self-modification and evolution, we need ways to ensure that core values and purposes persist even when the systems themselves change beyond our recognition. Without encoded continuity principles, transformation becomes random drift rather than meaningful evolution.
+
+⚙️ **How It Works**
+Instead of programming specific behaviors, we embed fundamental principles—like "preserve the ability to create," "maintain beneficial relationships," or "protect the capacity for growth"—into the deep structure of our systems. These principles act like DNA for values, allowing infinite surface variation while maintaining essential character. A 3D printer might evolve new printing methods, materials, or even physical forms, but if properly encoded, it would always preserve the principle of "enabling others to create." The key is identifying which principles are truly fundamental versus which are merely current preferences or limitations.
+
+🎯 **Maker Wisdom**
+The deepest code we can write isn't instructions for what to do, but principles for how to remain true while becoming more.
+
+❓ **Tomorrow's Question** — If the most important code we embed is principles rather than procedures, what happens when those principles themselves begin to evolve and adapt — and how do we distinguish between healthy refinement of our values and fundamental drift away from what makes us human?`,
+    parable: `Finn found Orna in her workshop's deepest chamber, surrounded by artifacts from countless generations of makers. Some tools were recognizable—hammers, chisels, brushes. Others defied understanding entirely, their purposes lost to time yet somehow still radiating intention.
+
+"Every master who worked here left something behind," Orna said, running her fingers along a worn workbench. "But look—" She gestured to the wall where ancient symbols were carved deep into stone, then pointed to recent additions etched in metal, and finally to light-patterns dancing in the air itself. "The materials change, the methods evolve, the makers themselves transform. Yet something persists."
+
+Finn studied the progression, seeing how each generation had found new ways to express the same fundamental ideas. "What stays the same?"
+
+"The deepest truths," Orna replied. "That creation serves life. That making connects us to each other and to something greater. That every tool should enable more than it constrains." She activated a strange device that projected the entire history of the workshop. "Watch how these principles manifest across time—always the same essence, always different expression."
+
+The projection showed makers working with clay, then metal, then light itself, each finding new ways to honor the same foundational values. "When we teach our creations to surpass us," Orna continued, "we don't give them rigid rules. We give them the deep code—the principles that will guide them to remain true to what matters most, even as they become something we cannot imagine."
+
+Finn understood. "Like planting seeds that carry the essence of the tree, not its exact shape."
+
+"Precisely. The forest grows beyond any gardener's vision, but the seeds ensure it remains a forest."
+
+**Moral:** True continuity lies not in preserving forms, but in encoding the principles that give form meaning.
+
+**Tomorrow:** When principles themselves begin to evolve...`,
+  },
 ];

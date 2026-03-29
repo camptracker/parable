@@ -1753,4 +1753,65 @@ Elm reached for Dove's hand. "What if we planned a wedding that required us to b
 
 *Tomorrow, we discover what happens when love demands our most authentic selves...*`,
   },
+  {
+    day: 29,
+    title: "The Sacred Vulnerability",
+    date: "2026-03-29",
+    image: "images/wedding-planning/day-29.jpg",
+    audio: "audio/wedding-planning/day-29",
+    sonnet: `**🪶 Sonnet XXIX: The Sacred Vulnerability**
+
+When masks fall down and hearts stand bare to view,
+The wedding day reveals its truest grace—
+Not polished words or steps rehearsed on cue,
+But trembling voice and tears upon the face.
+
+The guests lean forward when the real appears,
+When laughter breaks through carefully laid plans,
+When vows speak truth instead of hiding fears,
+And love shows forth with unprotected hands.
+
+What seems like weakness proves the strongest thing:
+To let your flaws exist within the light,
+To let your genuine emotions sing
+Their imperfect but wholly honest sight.
+
+*For in that sacred space where truth is told,*
+*The heart's real treasure gleams more bright than gold.*`,
+    standard: `💍 Day 29: The Sacred Vulnerability
+
+Authentic public love demands dropping the protective masks we wear even with those closest to us—speaking our actual vows instead of pretty words, showing our nervous laughter instead of composed smiles, letting our genuine emotions surface instead of maintaining perfect composure. This terrifying authenticity reveals that performing love is about managing others' perceptions, while embodying love is about trusting that our real selves are worthy of witness and celebration.
+
+**🧱 The Concept**
+True wedding authenticity requires embracing vulnerability as a sacred act, not a weakness to hide.
+
+**❓ Why It Matters**
+Most couples spend their wedding day performing a version of themselves they think others expect to see, missing the profound opportunity to let their community witness and bless their actual love story. When you choose vulnerability over perfection, you invite your guests into genuine intimacy rather than polished theater.
+
+**⚙️ How It Works**
+Vulnerability in weddings manifests through moments of honest emotion—letting tears flow during vows instead of fighting them, sharing a genuine laugh when something goes slightly wrong instead of apologizing, speaking personally meaningful words even if they're not eloquent, and allowing the raw beauty of real love to show through imperfect moments. This might mean writing vows that reveal actual fears about marriage alongside hopes, choosing readings that speak to your real journey rather than generic romance, or structuring your ceremony to include honest acknowledgment of the challenges you've already overcome together. Authentic vulnerability transforms your wedding from a performance your guests observe into an experience they participate in emotionally.
+
+**🎯 Wedding Wisdom**
+Your guests don't need to see perfect love—they need to see real love, because that's what will inspire and heal their own hearts.
+
+**❓ Tomorrow's Question**
+If you knew that the single most powerful moment of your wedding would be one where you felt completely seen and accepted for exactly who you are (including your flaws), what would need to happen during your celebration to create that moment, and what does that reveal about the difference between seeking approval and experiencing belonging?`,
+    parable: `The morning before the final venue walkthrough, Dove sat in Nana Rose's garden studio, her hands trembling slightly as she held her draft vows. "They sound so... ordinary," she whispered. "What if people think we're not romantic enough? What if they seem too personal?"
+
+Nana Rose set down her tea and studied Dove's face. "Child, let me tell you about the most beautiful wedding I ever witnessed. The bride had written elaborate, poetic vows—stunning words that could have been published. But when the moment came, she looked into her beloved's eyes and forgot every word. Instead, she said, 'I'm terrified and I'm so happy I can't breathe, and I choose you anyway.' There wasn't a dry eye in that garden."
+
+Elm reached for Dove's hand. "I love your vows because they sound like you. When you wrote about being afraid of becoming boring together, I felt seen. When you promised to keep choosing adventure even when we're tired, I felt known."
+
+"But what if—" Dove began.
+
+"What if you spent your wedding day being exactly who you are?" Nana Rose interrupted gently. "What if, instead of performing love, you simply lived it in front of the people who matter most? The mask you think protects you actually prevents your guests from witnessing the miracle of your real love story."
+
+Dove looked at her vows again, seeing not their simplicity but their truth. "I guess I've been so worried about looking like the right kind of bride that I forgot to be myself."
+
+"Authenticity is the greatest gift you can give your guests," Nana Rose smiled. "They don't need to see perfection—they need to see possibility. Your real love story gives them permission to believe in their own."
+
+**Moral:** True wedding beauty lies not in flawless performance but in the courage to let love show its honest face.
+
+**Tomorrow:** Dove and Elm discover what happens when vulnerability meets belonging, and how the deepest wedding moments emerge from being completely seen.`,
+  },
 ];
