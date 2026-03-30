@@ -2038,4 +2038,60 @@ Vex looked around his workshop with new eyes, seeing how each innovation had gro
 
 Tomorrow, Ironmere would reveal why even the most protected foundations must occasionally prove their worth...`,
   },
+  {
+    day: 34,
+    title: "The Earned Immunity Protocol",
+    date: "2026-03-30",
+    image: "images/how-to-scale/day-34.jpg",
+    audio: "audio/how-to-scale/day-34",
+    sonnet: `**🪶 Sonnet XXXIV: The Earned Immunity Protocol**
+
+What once stood strong may weaken with the years,
+Though crowned with laurels from a glorious past.
+The bridge that spanned both banks through joy and tears
+May find its foundations crumbling at last.
+
+No sacred tool deserves eternal place
+If newer methods serve with greater skill.
+The measuring rod that once set perfect pace
+Must prove its worth or yield to stronger will.
+
+For immunity that rests on ancient deed
+Becomes a burden, not a cherished prize.
+Each season brings fresh challenges to heed,
+And yesterday's solutions may disguise
+
+*Tomorrow's weakness hiding in plain sight—*
+*True strength is earned each day, not claimed by right.*`,
+    standard: `🚀 Day 34: The Earned Immunity Protocol
+
+Companies force their protected legacy systems to prove their worth because immunity without accountability breeds complacency and hidden decay. Even the most valuable systems can become performance drains or innovation blockers if they're never challenged to demonstrate their continued value. The most successful organizations treat immunity as something that must be continuously earned, not permanently granted.
+
+🧱 **The Concept**
+Earned immunity systems require even protected legacy components to periodically justify their special status through measurable value creation.
+
+❓ **Why It Matters**
+Without regular validation, protected systems become organizational dead weight that consumes resources while blocking innovation. Legacy immunity that isn't earned becomes a form of institutional welfare that weakens the entire organization. The most dangerous protected systems are those that once provided enormous value but now exist purely through historical momentum.
+
+⚙️ **How It Works**
+Amazon's "two-pizza teams" must regularly defend their existence by demonstrating customer impact metrics, even if they've been successful for years. Netflix periodically requires its most established content categories to compete directly with experimental formats for budget allocation. Google forces even its most successful products to undergo "spring cleaning" reviews where they must prove they still align with current strategic priorities. The key is creating evaluation criteria that measure current contribution, not past achievements, while giving systems realistic timelines to demonstrate their ongoing value.
+
+🎯 **Scaling Wisdom**
+True organizational strength comes from systems that earn their protection through continuous value creation, not historical achievement.
+
+❓ **Tomorrow's Question** — If earned immunity protocols create such powerful accountability, why do the most disciplined companies eventually exempt their immunity evaluation systems themselves from any accountability or review processes?`,
+    parable: `Vex discovered Ironmere in the old archives, methodically reviewing blueprints of structures that had stood untouched for decades. "Master, why examine what's already proven perfect?" the young builder asked, watching the architect mark certain designs with red ink.
+
+Ironmere held up a blueprint of a beautiful bridge. "This span has carried traffic for thirty years without repair. Everyone calls it our greatest achievement." He pointed to his calculations in the margin. "But the river has shifted. The soil has changed. What once bore weight beautifully now strains against forces it was never designed to handle."
+
+"But surely our most successful structures deserve protection from change?" Vex protested.
+
+"Observe." Ironmere led him to the workshop's most treasured tool—a ancient measuring device that had guided countless perfect cuts. "This instrument earned immunity from replacement through decades of flawless service." He demonstrated its use, then checked the result with a newer tool. The ancient measure was off by a hair's breadth. "Small errors compound. What earned immunity yesterday may steal precision tomorrow."
+
+Vex watched as Ironmere marked even their most celebrated designs for review. "Every season, I require our most protected creations to justify their immunity. Not through past glory, but through present value. The bridge that cannot adapt to the changed river loses its right to permanence. The tool that no longer measures true forfeits its honored place."
+
+"Even immunity must be earned anew with each dawn."
+
+Tomorrow: Why the very systems that evaluate immunity might themselves need evaluation.`,
+  },
 ];
