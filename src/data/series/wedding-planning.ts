@@ -1872,4 +1872,68 @@ As Dove looked at her reflection one last time, she no longer saw a bride at the
 
 *Tomorrow, we explore what it means when the foundation you've built through planning becomes the bedrock of the marriage itself...*`,
   },
+  {
+    day: 31,
+    title: "The Sacred Threshold",
+    date: "2026-03-31",
+    image: "images/wedding-planning/day-31.jpg",
+    audio: "audio/wedding-planning/day-31",
+    sonnet: `**🪶 Sonnet XXXI: The Sacred Threshold**
+
+Between what was and what shall come to be,
+Lies sacred ground where lovers pause and turn
+From single paths to shared destiny—
+A threshold where two hearts together learn
+To cross from independence into one
+United purpose, blessed and sanctified.
+Not celebration of what love has done,
+But consecration of love's longer ride.
+Here bride and groom don't reach journey's end,
+But launch into their deepest mystery:
+How separate souls can truly learn to blend
+While honoring each sacred history.
+*The wedding threshold marks not love's completion,*
+*But marriage as love's holiest inception.*`,
+    standard: `💍 Day 31: The Sacred Threshold
+
+A wedding that feels like the perfect beginning to your marriage story serves your actual life far better because it transforms the ceremony from a performance about what you've accomplished into a portal toward who you're becoming together. When you consecrate a commitment rather than celebrate an achievement, every element of your wedding becomes less about showcasing your love and more about strengthening it for the journey ahead.
+
+**The Concept**
+Your wedding day exists as a sacred threshold—the liminal space between your individual lives and your shared future, requiring you to honor both what you're leaving behind and what you're stepping into.
+
+**Why It Matters**
+Most couples plan their weddings as if they're throwing a party to celebrate reaching the finish line, when actually they're creating a ritual to help them cross the starting line of marriage. This fundamental misunderstanding leads to weddings that feel anticlimactic afterward because all the energy went into the event rather than into preparing for what comes next.
+
+**How It Works**
+A threshold wedding acknowledges transition rather than achievement. Instead of focusing solely on how beautiful you look together, you create moments that help you practice being married—like writing vows that establish ongoing agreements rather than romantic declarations, choosing music that tells the story of where you're going rather than where you've been, and designing a ceremony that asks your community to support your marriage rather than just witness your wedding. Your reception becomes less about entertaining guests and more about gathering your chosen family around your new beginning. Even your honeymoon shifts from being a reward for getting through the wedding to being your first practice session in navigating life as married partners.
+
+**Wedding Wisdom**
+The most powerful weddings don't celebrate love—they consecrate it for the work ahead.
+
+**Tomorrow's Question**
+If you discovered that your wedding would be forgotten by everyone (including yourselves) within five years, but the marriage habits you establish during the planning process would determine your relationship's trajectory for decades, what would you need to change about how you're approaching this entire experience right now?`,
+    parable: `Dove stood at the edge of Nana Rose's garden, watching the morning light creep across the threshold stones that marked the boundary between the wild meadow and the cultivated sanctuary beyond. "I keep thinking about yesterday," she said softly. "About whether we're ending something or beginning something."
+
+Elm joined her at the threshold, his hand finding hers naturally. "Both, maybe?"
+
+Nana Rose emerged from the herb garden, her arms full of rosemary and sage—herbs of remembrance and wisdom. "Ah, you've found the sacred stones," she said, settling beside them on the weathered bench. "Every proper garden needs a threshold. Not a wall, mind you—a threshold."
+
+"What's the difference?" Dove asked, though something in her heart already knew.
+
+"A wall protects what's behind it," Nana Rose explained, setting down her fragrant bundles. "But a threshold transforms what crosses it. These stones have watched a thousand seasons change. They've seen seeds become flowers, flowers become seeds. They know that every crossing is both an ending and a beginning."
+
+Elm squeezed Dove's hand. "Like our wedding day."
+
+"Exactly like your wedding day," Nana Rose nodded. "Most couples treat their wedding as if they're arriving somewhere—the destination of love. But really, you're departing together on the longest journey you'll ever take. The ceremony isn't about celebrating where love has brought you. It's about blessing where love will take you."
+
+Dove felt something shift inside her chest, like a door opening onto a vista she'd never seen before. "So we're not planning a party to show off our love. We're planning a... a launching?"
+
+"A consecration," Nana Rose said gently. "You're asking everyone who loves you to witness not just your joy, but your commitment to tend that joy through every season ahead. To help you practice being married even before you say 'I do.'"
+
+As if summoned by their conversation, a pair of cardinals landed on the threshold stones—one on each side of the boundary, calling to each other across the space between.
+
+**Moral**: The most sacred weddings don't celebrate love's arrival but consecrate love's journey, transforming couples not into performers but into pilgrims crossing together into their shared tomorrow.
+
+**Tomorrow**: Dove and Elm will discover what it means to plan not just for a perfect day, but for a practice that shapes their marriage from the very beginning.`,
+  },
 ];

@@ -2268,4 +2268,66 @@ Ren watched as Captain Aldric strode past, shoulders squared with renewed purpos
 
 **Tomorrow**: When success becomes a prison of its own making, even the most competent must learn that yesterday's wisdom may be today's trap.`,
   },
+  {
+    day: 36,
+    title: "The Competence Prison",
+    date: "2026-03-31",
+    image: "images/negotiation/day-36.jpg",
+    audio: "audio/negotiation/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Competence Prison**
+
+The master's skill becomes his greatest chain,
+Each hard-won lesson now a binding cord.
+His expertise reveals what others feign —
+That wisdom oft makes fools of wisdom's lord.
+
+The novice leaps where veterans fear to tread,
+Unburdened by the weight of knowing well.
+While experts count the paths that lead to dread,
+The simple-hearted break free from their spell.
+
+So when you face one trapped by their own art,
+Show them their knowledge is their cruelest guard.
+Their competence has played the villain's part,
+And freedom lies in choices light and hard.
+
+*When expertise becomes a prison door,*
+*The key is less — not knowing any more.*`,
+    standard: `🤝 Day 36: The Competence Prison
+
+When you make someone feel like a victim of their own success, you create what negotiators call **the Competence Prison** — a psychological state where their expertise becomes their weakness. They realize that their very skills have led them into a situation where following standard protocols would be foolish, making them desperately grateful for any unconventional solution you might offer.
+
+🧱 **The Concept**
+The Competence Prison traps skilled people by making them feel that their expertise has led them astray, creating an urgent need for liberation from their own knowledge.
+
+❓ **Why It Matters**
+Expert negotiators often rely on established patterns and proven strategies, but when you make them feel like their competence is the problem, they become vulnerable to new approaches. This technique is particularly powerful with successful people who pride themselves on their judgment — once they doubt that judgment, they'll grasp at any reasonable alternative.
+
+⚙️ **How It Works**
+You begin by acknowledging their clear competence: "Obviously, you didn't get to this level without knowing exactly what you're doing." Then you introduce the trap: "Which is probably why you're in this impossible position — anyone less skilled would have taken the easy path, but your expertise showed you all the complications." Finally, you offer the key: "Maybe the solution isn't using your expertise differently, but stepping outside it entirely." This works because competent people hate feeling helpless, and you've just offered them a way to transform their weakness back into strength. When a seasoned executive realizes their deep market knowledge is why they see too many risks in a simple deal, they'll often embrace a "naive" approach just to escape the paralysis of overthinking.
+
+🎯 **Negotiation Wisdom**
+The most competent people are often the most trapped by their competence — offer them liberation from their own expertise, and they'll follow you anywhere.
+
+❓ **Tomorrow's Question** — If the Competence Prison works by making expertise feel like a burden, what happens when you make someone feel like they're too important to be bothered with the details of implementation, forcing them to trust your execution while maintaining the illusion of control?`,
+    parable: `Ren found Vasska staring at a complex trade contract, his weathered fingers drumming against the parchment with unusual agitation. "Master, what troubles you?"
+
+"This merchant from the Eastern Empire," Vasska muttered, his blind eye catching the lamplight. "He's more experienced than most — knows every trick, every counter-trick. That's precisely his problem."
+
+The next morning, they met the Eastern merchant, a silver-haired man whose eyes held the weight of a thousand negotiations. "Honored trader," Vasska began, "your reputation precedes you. Such wisdom, such careful consideration of every angle."
+
+The merchant preened slightly. "Experience teaches caution."
+
+"Indeed," Vasska nodded gravely. "Which is why you're trapped in this impossible position. A lesser trader would have simply taken our first offer — but your expertise revealed every potential complication, didn't it? You see the market shifts others miss, the regulatory changes coming down the mountain paths."
+
+The merchant's confidence flickered. "Well, yes, but—"
+
+"Your very competence has become your cage," Vasska continued softly. "You know too much to act simply, yet the simple path might be the only one that leads forward. Perhaps... perhaps the solution isn't to negotiate smarter, but to step outside negotiation entirely."
+
+By afternoon, the bewildered merchant had agreed to Vasska's unconventional profit-sharing arrangement, grateful to escape the paralysis of his own overthinking.
+
+"When expertise becomes a prison," Vasska told Ren later, "offer the key of ignorance disguised as wisdom."
+
+Tomorrow, young merchant, we shall discover what happens when importance itself becomes a trap.`,
+  },
 ];

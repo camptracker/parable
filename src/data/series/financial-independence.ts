@@ -2610,4 +2610,66 @@ As they worked together, Kael began to understand. The scarcity he feared was an
 
 Tomorrow, we discover why the very institutions meant to educate us often keep the most valuable lessons hidden in shadows.`,
   },
+  {
+    day: 40,
+    title: "The Institutional Capture",
+    date: "2026-03-31",
+    image: "images/financial-independence/day-40.jpg",
+    audio: "audio/financial-independence/day-40",
+    sonnet: `**🪶 Sonnet XL: The Institutional Capture**
+
+When wolves design the shepherds' training ground,
+And foxes draft the lessons for the hens,
+Then wisdom's voice grows soft, no longer found
+In hallowed halls where ignorance begins.
+
+The merchant's gold builds schools with hidden clause:
+Teach numbers, yes, but not their compound weight,
+Instruct in work, but never question laws
+That keep the learned poor and rich elate.
+
+For those who feast on confusion's bitter bread
+Will never fund the clarity they fear,
+Lest customers grow wise and, wisely fed,
+Refuse the poison sold as knowledge dear.
+
+*Yet truth, like water, finds each hidden seam,*
+*And flows where profit cannot stem the stream.*`,
+    standard: `💰 Day 40: The Institutional Capture
+
+Our educational system fails to teach financial literacy because those who profit from financial ignorance have systematically captured the institutions that shape curricula. Banks earn more from overdraft fees when customers can't budget, investment firms profit more from active trading than passive investing, and credit companies thrive when people don't understand compound interest working against them.
+
+🧱 **The Concept**
+Institutional capture occurs when industries gain control over the very institutions meant to regulate or educate about their practices.
+
+❓ **Why It Matters**
+This capture explains why schools teach advanced calculus but not compound interest, why students graduate knowing Shakespeare but not budgeting. The gap isn't accidental—it's profitable for those who benefit from financially naive consumers.
+
+⚙️ **How It Works**
+Financial institutions fund educational research, sponsor curriculum development, and employ former education officials. They don't explicitly ban financial literacy—they simply ensure it remains optional, superficial, or taught in ways that serve their interests. For example, when personal finance is taught, it often focuses on complex investment products rather than simple index funds, or emphasizes credit building rather than debt avoidance. Meanwhile, marketing budgets dwarf financial education spending by hundreds to one, ensuring confused consumers receive far more sophisticated sales messages than educational content.
+
+🎯 **Buffett Wisdom**
+"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return"—and confused customers provide exactly those high returns.
+
+❓ **Tomorrow's Question** — If financial institutions have successfully captured educational institutions to maintain profitable customer ignorance, what does this reveal about the nature of expertise itself, and why might the most important knowledge always come from sources that have no profit motive in keeping you ignorant?`,
+    parable: `The morning sun cast long shadows as Kael found Sable examining the village school's lesson plans. "Elder," Kael asked, "yesterday you spoke of sharing knowledge creating better markets. Yet our children learn to read ancient texts but cannot calculate the true cost of borrowing grain. Why?"
+
+Sable's weathered fingers traced the parchment. "Tell me, young Kael, who built this school?"
+
+"The Merchant's Guild provided the gold," Kael replied. "And Master Goldweaver sits on the education council."
+
+"And what does Master Goldweaver profit from most?"
+
+Kael's eyes widened. "From villagers who borrow more than they can repay, who trade frantically instead of holding steady, who deposit their coin without understanding the terms."
+
+"Precisely." Sable rolled up the parchment. "The wolf does not teach the sheep to recognize its howl. Those who profit from confusion will never fund clarity. The guild ensures our children learn enough to work, but not enough to understand why they remain poor despite their labor."
+
+Tobren approached, overhearing. "But surely some knowledge escapes this web?"
+
+"Indeed," Sable nodded. "Truth flows through cracks they cannot seal—through those who teach without profit motive, who share wisdom simply because it should be shared. The most valuable knowledge often comes from the most unexpected sources."
+
+**Moral**: *Those who profit from ignorance will never fund enlightenment.*
+
+Tomorrow, Sable will reveal why the most trustworthy teachers often have the least impressive credentials.`,
+  },
 ];

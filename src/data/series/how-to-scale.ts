@@ -2094,4 +2094,64 @@ Vex watched as Ironmere marked even their most celebrated designs for review. "E
 
 Tomorrow: Why the very systems that evaluate immunity might themselves need evaluation.`,
   },
+  {
+    day: 35,
+    title: "The Meta-Accountability Trap",
+    date: "2026-03-31",
+    image: "images/how-to-scale/day-35.jpg",
+    audio: "audio/how-to-scale/day-35",
+    sonnet: `**🪶 Sonnet XXXV: The Meta-Accountability Trap**
+
+When watchers need no watching of their own,
+The guardians become what they once fought.
+Their sacred systems, carved in moral stone,
+Turn rigid doctrine from what once was thought.
+
+The checklist that once caught a thousand flaws
+Becomes the flaw that can't be questioned now.
+Its holy procedures, elevated laws,
+Demand obeisance, not the questioning how.
+
+Yet builders wise know even oversight
+Must face the mirror of its own reflection.
+No system stays forever sharp and bright
+Without subjecting self to self-inspection.
+
+*For accountability's highest art*
+*Is turning its own lens upon its heart.*`,
+    standard: `🚀 Day 35: The Meta-Accountability Trap
+
+Companies exempt their immunity evaluation systems from review because these systems become the final arbiters of organizational truth—and questioning the arbiter threatens the entire framework of accountability. It's like asking "who watches the watchers?"—the answer reveals that even the most rigorous accountability structures need accountability structures above them, creating an infinite regress that most organizations solve by declaring one level "beyond question."
+
+🧱 **The Concept**: The Meta-Accountability Trap occurs when organizations create oversight systems so foundational to their operations that questioning those systems feels like questioning reality itself.
+
+❓ **Why It Matters**: When your accountability mechanisms become sacred and unexaminable, they calcify into rigid orthodoxies that can't adapt to new realities. The very systems designed to prevent organizational blindness become the source of your biggest blind spots.
+
+⚙️ **How It Works**: Netflix's culture of "keeper test" accountability became so central to their identity that questioning whether the keeper test itself was working became taboo. Google's OKR system was treated as untouchable doctrine until they realized their goal-setting process was preventing breakthrough innovation. Amazon's leadership principles were considered immutable until Bezos himself had to model questioning them during the pandemic pivot. The pattern repeats: create accountability → make it foundational → make it unquestionable → get trapped by its limitations. The most successful companies break this cycle by building **meta-accountability protocols**—systems specifically designed to question their own questioning systems.
+
+🎯 **Scaling Wisdom**: True accountability requires accountability for your accountability systems—the courage to question the very frameworks you've built your organizational integrity upon.
+
+❓ Tomorrow's Question: If meta-accountability protocols prevent your oversight systems from becoming blind spots, why do the most transparent organizations eventually create "transparency-free zones" where certain activities are deliberately kept opaque even from their own accountability mechanisms?`,
+    parable: `"Your inspection system has grown beyond inspection," Ironmere observed, watching Vex meticulously check his quality control checklist against another checklist. "It has become doctrine."
+
+Vex looked up, confused. "But you taught me that accountability systems prevent mistakes. This checklist has caught dozens of flaws."
+
+"Indeed. But who checks the checklist? Who ensures your inspection system still serves its purpose?" Ironmere gestured to the elaborate quality protocols covering Vex's workshop walls. "These procedures have become so sacred that you've stopped asking whether they're still the right procedures."
+
+Vex frowned. "If I question my own quality system, won't that undermine the entire foundation of my work?"
+
+"Watch," Ironmere said, taking down one of the quality checklists. "This step—'verify wood grain direction'—when did you last see grain affect your work's function?"
+
+Vex considered. "Not in months. Modern joining techniques have made grain direction mostly aesthetic."
+
+"Yet you still check it religiously, because the checklist demands it. Your accountability system has become a ritual, not a tool." Ironmere smiled gently. "The greatest architects I knew built their cities with accountability systems so robust they could even question their own foundation protocols. They understood that the moment you declare any system beyond examination, it begins to rot from within."
+
+Vex stared at his quality protocols with new eyes. "So I need... accountability for my accountability?"
+
+"Meta-accountability," Ironmere nodded. "The courage to regularly dismantle and rebuild even your most sacred oversight mechanisms. For the alternative is to be ruled by the ghosts of decisions past, wearing the costumes of eternal wisdom."
+
+**Moral**: When your accountability systems become unaccountable, they transform from tools of clarity into obstacles to truth.
+
+*Tomorrow, Ironmere will reveal why even the most transparent builders occasionally work in shadows...*`,
+  },
 ];
