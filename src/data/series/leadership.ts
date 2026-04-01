@@ -2150,4 +2150,64 @@ Tova watched a young sailor below expertly managing the dock lines alone, rememb
 
 **Tomorrow:** Greymane will reveal why the most innovative solutions often come from the paths leaders would have forbidden.`,
   },
+  {
+    day: 35,
+    title: "The Garden of Mistakes",
+    date: "2026-04-01",
+    image: "images/leadership/day-35.jpg",
+    audio: "audio/leadership/day-35",
+    sonnet: `**🪶 Sonnet XXXV: The Garden of Mistakes**
+
+In gardens where the wisest gardeners tend,
+The fallen leaves become the richest soil,
+And every withered bloom helps new growth mend
+Through seasons of both triumph and turmoil.
+
+So too the leader learns to cultivate
+The failures that would make the timid flee,
+For in each stumble lies the delicate
+Seed of tomorrow's capability.
+
+The team that never tastes defeat's sharp sting
+Never learns to rise with stronger will,
+While those who fall discover they can spring
+From setbacks with newfound creative skill.
+
+*The garden that forbids all weeds to grow*
+*Produces flowers too weak for winds that blow.*`,
+    standard: `👥 Day 35: The Garden of Mistakes
+
+This reveals that our protective instincts as leaders can become the very barriers that prevent breakthrough thinking. When we shield our teams from potential failure, we inadvertently shield them from the discovery process that builds true capability and confidence.
+
+🧱 **The Concept**
+Great leaders understand that mistakes are not obstacles to success—they are the raw materials from which mastery is built.
+
+❓ **Why It Matters**
+When teams are afraid to make mistakes, they default to safe, predictable solutions that rarely lead to innovation or growth. The most transformative leaders create environments where intelligent failure is not just tolerated but celebrated as evidence of bold thinking and learning.
+
+⚙️ **How It Works**
+This approach requires reframing failure from something to be avoided to something to be harvested for insights. When a team member's experiment doesn't work, the leader's first question becomes "What did we learn?" rather than "What went wrong?" Leaders actively encourage small, reversible experiments and create post-failure rituals that extract maximum learning from each setback. They share their own failures openly and model how to transform disappointment into discovery. Most importantly, they measure progress not just by successes achieved, but by intelligent risks taken and lessons learned.
+
+🎯 **Leadership Wisdom**
+The leader who creates the safest space for failure creates the most fertile ground for breakthrough success.
+
+❓ **Tomorrow's Question** — If you discovered that your team's greatest breakthroughs consistently happened not when you gave them clear direction, but when you gave them challenging problems without prescribing the solution, what would this reveal about the relationship between your need to provide answers and their need to develop problem-solving muscles?`,
+    parable: `Captain Tova stood at the harbor's edge, watching her crew attempt to repair the damaged mast using an unconventional technique suggested by young Finn, the newest sailor. The method defied everything she'd learned in naval academy, and her instinct screamed to intervene before they made things worse.
+
+"Let them fail," came Greymane's quiet voice beside her. "Better to learn from a broken mast in harbor than a broken spirit at sea."
+
+"But what if—" Tova began.
+
+"What if they succeed in a way you never imagined?" Greymane interrupted gently. "I once served under a captain who never let us make mistakes. We became perfect at following orders and terrible at thinking for ourselves. When the real storms came, we had no idea how to adapt."
+
+Tova watched as Finn's technique initially failed, the rope slipping and the mast groaning ominously. But instead of panic, she saw something remarkable—the crew gathered around, examining what went wrong, adjusting their approach, trying again with newfound understanding.
+
+"The garden of mistakes," Greymane murmured, "is where wisdom grows. Every failure teaches them something your instructions never could—that they can face the unknown, adapt, and persist. You're not just fixing a ship, Captain. You're building sailors who can think in the storm."
+
+By evening, the mast stood straight and strong, repaired with an innovation that would serve them well in future voyages.
+
+**Moral:** The leader who protects their people from all failure protects them from all growth.
+
+*Tomorrow, Tova will discover the difference between giving directions and giving destinations...*`,
+  },
 ];

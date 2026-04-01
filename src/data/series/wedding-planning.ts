@@ -1936,4 +1936,67 @@ As if summoned by their conversation, a pair of cardinals landed on the threshol
 
 **Tomorrow**: Dove and Elm will discover what it means to plan not just for a perfect day, but for a practice that shapes their marriage from the very beginning.`,
   },
+  {
+    day: 32,
+    title: "The Sacred Intention",
+    date: "2026-04-01",
+    image: "images/wedding-planning/day-32.jpg",
+    audio: "audio/wedding-planning/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Sacred Intention**
+
+When choices spring from purpose, not from trends,
+Each wedding element becomes a prayer,
+A conscious act where meaning never bends
+To hollow beauty's superficial glare.
+The flowers speak of love's eternal bloom,
+The music echoes hearts in harmony,
+The vows transform an ordinary room
+Into a sacred space of destiny.
+No catalog can hold what matters most—
+The why behind each carefully made choice,
+The intention that becomes the gentle host
+Of every guest's heart, every lifted voice.
+*For weddings planned with purpose from the start*
+*Write love's true story on each watching heart.*`,
+    standard: `💍 Day 32: The Sacred Intention
+
+🧱 **The Concept**
+Your wedding's deepest power lies not in its perfection but in the clarity of intention behind every choice you make.
+
+❓ **Why It Matters**
+Without clear intention, even the most beautiful wedding elements become hollow performances that leave everyone—including you—feeling strangely empty despite the celebration. When every decision flows from a genuine purpose that honors your relationship and your guests, even simple choices carry profound meaning that transforms the entire experience.
+
+⚙️ **How It Works**
+Intention transforms ordinary moments into sacred ones: choosing handwritten programs because you want guests to hold something you personally touched, selecting a single flower type because it represents growth through seasons, or serving your grandmother's recipe because you want to weave family love into your celebration. The key is asking "why" before "how"—why this song, why this reading, why this tradition or the absence of it. When your choices spring from genuine intention rather than obligation or aesthetics alone, guests feel the difference even if they can't articulate it. The ceremony becomes less about following a script and more about witnessing authentic expression. Even budget constraints become creative opportunities when filtered through clear intention rather than sources of compromise and disappointment.
+
+🎯 **Wedding Wisdom**
+A wedding planned with intention becomes a love letter written in decisions, where every element speaks the same language of your hearts.
+
+❓ **Tomorrow's Question** — If you discovered that your wedding's true success would be measured by how intentionally you made each choice rather than how perfectly each choice turned out, what single question would you need to ask yourself before every decision to ensure your celebration becomes a genuine expression of your love rather than a beautiful but hollow performance?`,
+    parable: `Dove sat surrounded by vendor catalogs, her head spinning with endless options. "How do brides choose between seventeen different centerpiece styles?" she asked Elm, who was quietly reading beside her.
+
+"Maybe the question isn't which centerpiece," he said gently, "but why we want centerpieces at all."
+
+Nana Rose, overhearing from the kitchen, brought them tea and settled into her favorite chair. "Ah, you've stumbled onto the secret that separates memorable weddings from forgettable ones, dear ones."
+
+"What secret?" Dove asked, grateful for any guidance through the chaos of choices.
+
+"Intention," Nana Rose said simply. "I've planned weddings with ice sculptures and live orchestras that left everyone feeling cold, and I've planned weddings in backyards with mason jar flowers that moved people to tears. The difference was never the budget or the beauty—it was the clarity of purpose behind each choice."
+
+Elm leaned forward. "What do you mean?"
+
+"Take flowers," Nana Rose continued. "One bride chose peonies because they were trendy and photogenic. Another chose wildflowers because they reminded her of the field where her partner first said 'I love you.' Same function, completely different energy. Guests can feel the difference, even if they can't name it."
+
+Dove looked at her overwhelming pile of decisions with new eyes. "So instead of asking 'What's prettiest?' I should ask 'What's truest?'"
+
+"Exactly. When every choice flows from genuine intention—honoring your story, expressing gratitude, creating connection—even simple elements carry profound meaning. Your wedding becomes less about performing love and more about revealing it."
+
+Elm took Dove's hand. "What if we started over with just one question: Why does this matter to us?"
+
+Nana Rose smiled. "Now you're planning with your hearts instead of your Pinterest boards. That's when the magic happens."
+
+**Moral:** *A wedding's power lies not in its perfection but in the authentic intention behind every choice, transforming even simple elements into profound expressions of love.*
+
+*Tomorrow, we discover how the most important wedding decision isn't about flowers or food, but about the fundamental question that must guide every other choice...*`,
+  },
 ];

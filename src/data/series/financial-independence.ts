@@ -2672,4 +2672,75 @@ Tobren approached, overhearing. "But surely some knowledge escapes this web?"
 
 Tomorrow, Sable will reveal why the most trustworthy teachers often have the least impressive credentials.`,
   },
+  {
+    day: 41,
+    title: "The Purity of Disinterested Knowledge",
+    date: "2026-04-01",
+    image: "images/financial-independence/day-41.jpg",
+    audio: "audio/financial-independence/day-41",
+    sonnet: `**🪶 Sonnet XLI: The Purity of Disinterested Knowledge**
+
+When wisdom flows from fountains pure and clear,
+Untainted by the merchant's grasping hand,
+The truth rings bright for those with eyes to hear
+What profits naught the teacher, yet makes grand
+The student's understanding of the art
+That builds true wealth through patient, steady ways.
+But when advice serves the advisor's part,
+Then clouded streams lead seekers through a maze
+Of costly counsel, glittering but false,
+While simple truths from disinterested souls
+Shine brighter than the gold that feeds our faults—
+The grandfather's wisdom, pure as mountain shoals,
+*Flows freely from the well of hearts content,*
+*Worth more than all the fees by merchants spent.*`,
+    standard: `💰 Day 41: The Purity of Disinterested Knowledge
+
+This reveals that **true expertise** often exists outside institutional frameworks precisely because genuine knowledge threatens profitable ignorance. Sources with no financial stake in your decisions—like academic researchers, retirees who've achieved financial independence, or historical figures like Buffett who share wisdom freely—provide the purest insights because they gain nothing from misleading you.
+
+🧱 **The Concept**
+The most valuable financial knowledge comes from sources that profit nothing from your decisions.
+
+❓ **Why It Matters**
+When someone's income depends on your financial choices, their advice becomes contaminated by self-interest. The financial industry's business model requires customer confusion and frequent trading to generate fees. Pure knowledge flows most freely from those who have nothing to gain from your actions.
+
+⚙️ **How It Works**
+Consider the source of every financial recommendation. Bank advisors profit from selling products. Financial media profits from keeping you engaged and trading. Fund managers profit from managing your money. Meanwhile, Warren Buffett's annual letters cost him time and effort while providing you free wisdom that could reduce Berkshire's competitive advantage. Academic studies on index fund performance are funded by universities, not fund companies. Retired investors sharing their strategies on forums gain nothing but the satisfaction of helping others. The purity of their motivation correlates directly with the reliability of their advice.
+
+🎯 **Buffett Wisdom**
+"Wall Street is the only place that people ride to in a Rolls Royce to get advice from those who take the subway."
+
+❓ **Tomorrow's Question** — If the purest financial knowledge comes from disinterested sources, why do we still feel more confident paying expensive fees to conflicted advisors than following free advice from those who have already achieved financial independence, and what does this psychological preference reveal about how we actually value wisdom versus the ritual of seeking permission for our choices?`,
+    parable: `The morning sun filtered through ancient oak leaves as Kael found Sable by the village well, drawing water in contemplative silence. The previous evening's revelation about captured institutions still weighed heavily on the young man's mind.
+
+"Elder," Kael began carefully, "if the very schools meant to teach us are corrupted by those who profit from our ignorance, where can we find pure knowledge?"
+
+Sable's weathered hands stilled on the rope. "Walk with me to Tobren's fields, child. The answer lies not in grand halls but in simpler places."
+
+As they approached the farmstead, they found Tobren examining his grain stores—not the bustling harvest activity of autumn, but the quiet assessment of winter's provisions. The farmer looked up with soil-stained hands and a peaceful countenance.
+
+"Tobren," Sable said, "young Kael seeks wisdom about money. What counsel would you offer?"
+
+The farmer chuckled, gesturing to his modest barn. "What could I possibly know about wealth? I am but a simple grower of grain."
+
+"Yet you feed yourself year-round from seasonal harvests," Sable observed. "You store surplus in good years for lean ones. You understand the rhythm of abundance and scarcity better than any merchant."
+
+Tobren's eyes grew thoughtful. "I suppose I learned early to save seed for next year's planting, no matter how hungry winter made me. And I learned that the loudest voices in the marketplace—those promising the richest yields from exotic crops—usually wanted to sell me something that would fail in our soil."
+
+"And who taught you these truths?" Sable asked.
+
+"My grandfather, who owned this land before me. He gained nothing from sharing his knowledge except the satisfaction of seeing his wisdom continued. The merchants who visited, however..." Tobren shook his head. "Their advice always seemed to benefit their purses more than my harvest."
+
+Kael's understanding began to dawn. "So the purest knowledge comes from those who have nothing to gain from sharing it?"
+
+"Consider the village well," Sable said, pointing back toward the center of town. "The water flows freely because no one owns it. But when merchants bottle that same water and claim it possesses special properties, suddenly it costs silver coins and comes with elaborate promises."
+
+Tobren nodded sagely. "The richest soil comes from farmers who've worked the same land for generations, not from those who travel selling miraculous fertilizers. The deepest farming wisdom flows from grandfather to grandson—pure and uncontaminated by profit."
+
+"In matters of money," Sable concluded, "seek counsel from those who have achieved what you desire and ask nothing in return for sharing their path. The merchant's advice serves the merchant. The wise elder's counsel serves only wisdom itself."
+
+**Moral**: The purest knowledge flows from fountains uncontaminated by self-interest.
+
+*Tomorrow, Kael will discover why we often trust expensive advice over free wisdom, and what this reveals about the human heart's strange relationship with truth.*`,
+  },
 ];

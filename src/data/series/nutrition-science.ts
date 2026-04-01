@@ -2206,4 +2206,63 @@ As evening approached, all three hearths burned equally bright, sustained by the
 
 **Tomorrow:** Lila discovers how individuals can spark community change while caring for their own health within imperfect systems.`,
   },
+  {
+    day: 37,
+    title: "The Ripple Metabolism",
+    date: "2026-04-01",
+    image: "images/nutrition-science/day-37.jpg",
+    audio: "audio/nutrition-science/day-37",
+    sonnet: `**🪶 Sonnet XXXVII: The Ripple Metabolism**
+
+One stone thrown in the pond creates a wave
+That spreads beyond the thrower's sight or plan,
+So too your healing, like a gift you gave,
+Reaches through every woman, child, and man.
+Your regulated breath helps others breathe,
+Your nourished body teaches without words,
+Your peaceful meals let anxious hearts believe
+That food can heal like medicine for herds.
+The changes in your kitchen, sleep, and stress
+Become permissions others didn't know
+They needed—watching you find success
+Within constraints helps their own courage grow.
+*Your personal healing is never alone,*
+*But seeds of health through community sown.*`,
+    standard: `🍎 Day 37: The Ripple Metabolism
+
+The answer lies in understanding that individual healing and collective healing are not separate processes—they're the same process at different scales. When you heal your own relationship with food, regulate your nervous system, and create metabolic flexibility within your current constraints, you become a living example that inspires others while simultaneously contributing to the cultural shift needed for broader change. Your personal metabolic journey becomes both your healing and your activism.
+
+🧱 **The Concept**
+Your individual metabolic healing creates expanding ripples of influence that contribute to collective metabolic health—through modeling, teaching, supporting others, and gradually shifting the culture around you.
+
+❓ **Why It Matters**
+This reframes the seeming contradiction between needing systemic change and needing personal results now. Your personal metabolic work isn't selfish—it's the most powerful form of community health work you can do. When you heal your metabolism within imperfect systems, you prove it's possible and create pathways for others to follow.
+
+⚙️ **How It Works**
+As you develop metabolic flexibility, you naturally begin sharing what works—cooking nourishing meals that friends want to try, modeling stress management that colleagues notice, creating food traditions that your family adopts. Your nervous system regulation affects everyone around you through co-regulation. Your food choices influence local demand, supporting farmers and food systems aligned with metabolic health. When you prioritize sleep and circadian rhythms, you give others permission to do the same. Each person who witnesses your improved energy, mood, and health becomes curious about their own metabolic potential. The ripples expand through relationships, workplaces, and communities.
+
+🎯 **Science Wisdom**
+Your personal metabolic healing is never just personal—it's a form of collective medicine that spreads through the invisible networks of influence that connect all human health.
+
+❓ **Tomorrow's Question** — *If your individual metabolic healing creates these expanding ripples of collective change, what happens when someone becomes so focused on being a perfect example or teacher of metabolic health that the pressure to maintain their image actually disrupts their own metabolic balance—and why might the most powerful influence come not from perfection but from authentically navigating the messiness of real life with metabolic wisdom?*`,
+    parable: `Lila found Maren tending a small garden behind her cottage, where other villagers had begun planting their own plots alongside the healer's herbs.
+
+"Teacher," Lila said, "I've been thinking about yesterday's lesson. If healing the village's relationship with food will take generations, what about the people who are sick right now? What about my own family, who still eat the old ways?"
+
+Maren smiled, gesturing to the expanding garden. "When I first planted here, I thought only of my own herbs. But watch what happened." She pointed to neighboring plots where children helped their parents tend vegetables, where elders shared seeds, where the baker experimented with ancient grains.
+
+"Your healing becomes their permission," Maren explained. "When you tend your own inner fires with wisdom, others see the light. When you eat with joy instead of guilt, you give them permission to do the same. When you rest without shame, you help them remember rest is sacred."
+
+She knelt beside a thriving tomato plant. "This seed could not change the whole village alone. But planted in good soil, tended with care, it creates fruit that feeds others. Those who taste it remember what real food feels like. They save seeds, share recipes, tell stories. One healed person becomes a center of healing that ripples outward."
+
+"But I'm still learning," Lila protested. "I still struggle."
+
+"Even better," Maren laughed. "Perfect teachers inspire no one. Real teachers show that healing is possible even in imperfect circumstances, even with setbacks, even while still learning. Your authentic journey gives others hope that their journey is possible too."
+
+As they worked together, other villagers stopped to ask questions, to share their own discoveries, to offer help. The garden was becoming something larger than any one person's vision.
+
+**Moral:** Individual healing and collective healing are the same process at different scales—your personal transformation becomes the seed of community transformation.
+
+**Tomorrow:** Lila discovers that her desire to be a perfect example of health might itself become a source of metabolic disruption...`,
+  },
 ];

@@ -1569,4 +1569,62 @@ Finn watched the biological print progress, understanding dawning. "You didn't c
 
 *Tomorrow, Finn will discover what happens when purpose itself begins to evolve...*`,
   },
+  {
+    day: 28,
+    title: "The Purpose Compass",
+    date: "2026-04-01",
+    image: "images/3d-printing/day-28.jpg",
+    audio: "audio/3d-printing/day-28",
+    sonnet: `**🪶 Sonnet XXVIII: The Purpose Compass**
+
+When surface aims drift like autumn leaves,
+And methods change as seasons turn their course,
+What steady hand the deeper truth retrieves
+From evolution's wild, transforming force?
+
+The meta-purpose, like a northern star,
+Shines constant through the flux of changing goals,
+Guiding adaptation, near and far,
+While honoring the intention of our souls.
+
+As printers learn to craft with living cells,
+The compass asks: does this serve human good?
+Not just what works, but what the heart compels—
+The why behind the what, as makers should.
+
+*When purposes evolve, let wisdom reign:*
+*The deepest code keeps evolution sane.*`,
+    standard: `🖨️ Day 28: The Purpose Compass
+
+When purpose itself evolves, we distinguish meaningful change from drift by examining whether the evolution serves the deeper intent behind the original purpose, rather than just its surface expression. Like a compass that points true north even as the landscape changes, authentic purpose evolution maintains direction toward core values while adapting methods. The key is embedding meta-purposes — purposes about having purpose — that can guide the evolution process itself.
+
+🧱 **The Concept**: Meta-purpose acts as an evolutionary compass, guiding how purposes themselves should evolve while maintaining directional integrity toward fundamental values.
+
+❓ **Why It Matters**: Without meta-purpose, evolving systems become rudderless, potentially optimizing toward goals that contradict their foundational intent. Meta-purpose provides the framework for distinguishing between adaptive growth and destructive drift, ensuring that even radical evolution serves deeper meaning.
+
+⚙️ **How It Works**: Meta-purpose operates like nested guidance systems. A 3D printer's meta-purpose might be "enable human creativity through accessible fabrication" — this guides how its basic purposes (like "print accurate objects") should evolve. When the printer develops new capabilities, the meta-purpose asks: does this serve human creativity and accessibility? If bio-printing emerges, the meta-purpose helps evaluate whether printing living tissue aligns with enabling creativity or crosses into territory that serves different values entirely. The meta-purpose acts as a constitutional framework, allowing surface purposes to evolve while maintaining fidelity to deeper intentions. This creates evolutionary pressure toward coherence rather than mere optimization.
+
+🎯 **Maker Wisdom**: Embed purposes about purpose — the deepest code you write should guide how all other code should evolve.
+
+❓ **Tomorrow's Question** — If meta-purposes can guide the evolution of purposes, what happens when the meta-purposes themselves need to evolve to address situations their creators never anticipated — and how do we create guidance for the guidance without infinite recursion?`,
+    parable: `Orna stood before an ancient compass in her workshop, its needle trembling as if uncertain which direction was true north. "This belonged to my great-grandmother," she told Finn, "a navigator who sailed uncharted seas."
+
+"But look closely," Orna continued, adjusting a hidden mechanism. "This isn't just any compass. See these inner rings? They don't just point to magnetic north — they point to *purposeful* north."
+
+Finn peered closer. The compass had multiple nested dials, each inscribed with flowing script. "What do they say?"
+
+"The outer ring says 'Guide travelers safely home.' The middle ring says 'Serve those who serve others.' The inner ring says 'Honor the connection between journey and destination.'"
+
+Orna spun the compass gently. As the needle settled, all three rings aligned. "My great-grandmother understood something profound. A compass that only points to magnetic north might lead you to the pole, but not necessarily to where you need to be. But a compass guided by purpose — by *meta-purpose* — adapts its guidance to serve deeper intentions."
+
+"When she sailed into new territories, the very idea of 'home' evolved. Home became not just a place, but a state of belonging. The compass adapted, but never lost sight of its deeper calling: to serve the connection between where someone is and where they truly belong."
+
+Finn watched as Orna demonstrated how the rings could rotate independently while maintaining their essential relationship. "So the surface purpose — pointing toward home — could change completely, but the meta-purpose kept it meaningful?"
+
+"Exactly. The compass learned to point toward hope, toward healing, toward reunion — whatever form 'safely home' needed to take. Purpose evolution without drift."
+
+**Moral**: True guidance comes not from fixed directions, but from unwavering commitment to the deeper purposes that give direction meaning.
+
+**Tomorrow**: Orna reveals what happens when even the deepest purposes must themselves evolve...`,
+  },
 ];
