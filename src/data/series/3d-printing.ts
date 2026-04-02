@@ -1627,4 +1627,59 @@ Finn watched as Orna demonstrated how the rings could rotate independently while
 
 **Tomorrow**: Orna reveals what happens when even the deepest purposes must themselves evolve...`,
   },
+  {
+    day: 29,
+    title: "The Foundation Loop",
+    date: "2026-04-02",
+    image: "images/3d-printing/day-29.jpg",
+    audio: "audio/3d-printing/day-29",
+    sonnet: `**🪶 Sonnet XXIX: The Foundation Loop**
+
+No tower needs a tower of its own,
+No pillar props another pillar's weight;
+True foundations, in bedrock grown,
+Support themselves through every twist of fate.
+When principle meets principle in test,
+The stronger law absorbs what it requires,
+Not through dominion, but through recursive rest—
+Each application strengthens what inspires.
+The maker's code that guides the maker's hand
+Grows clearer when it contemplates its form,
+Like ancient oak whose roots both hold and stand
+More firm through every season's wind and storm.
+*What seems like endless loop becomes a spring—*
+*Foundation strengthened by its questioning.*`,
+    standard: `🖨️ Day 29: The Foundation Loop
+
+We escape infinite recursion by designing **foundational principles** that are simple enough to be universally applicable yet robust enough to generate appropriate guidance at any level of complexity. Rather than creating guidance for guidance for guidance, we establish **fundamental constants** — like the principle that systems should preserve human agency — that can cascade down through all levels of decision-making without requiring meta-meta-purposes.
+
+🧱 **The Concept**
+True foundations in intelligent systems are recursive principles that strengthen rather than complicate themselves when applied to their own operation.
+
+❓ **Why It Matters**
+As our 3D printing systems become more autonomous and interconnected, we need foundational principles that can guide their evolution without creating infinite chains of oversight. These principles must be both simple enough to be universal and powerful enough to generate appropriate responses to unprecedented situations.
+
+⚙️ **How It Works**
+Foundational principles operate like **mathematical constants** in physics — they apply at every level without needing higher-level versions of themselves. When a printing network encounters a situation requiring meta-purpose evolution, it applies the foundational principle directly: preserve human agency, maintain transparency, enable beneficial outcomes. The principle generates appropriate guidance whether applied to a single printer's material choices, a network's resource allocation, or the evolution of the decision-making framework itself. For example, the principle "preserve human agency" applies equally to a printer asking permission for material substitution and to a network deciding how much autonomy to grant its constituent printers. **Recursive strengthening** occurs when applying the principle to the system's own governance makes the principle more robust and clear, rather than requiring additional meta-principles.
+
+🎯 **Maker Wisdom**
+The strongest foundations are those that become clearer and more powerful when applied to themselves.
+
+❓ **Tomorrow's Question** — If foundational principles can guide their own evolution and application, what happens when different foundational principles conflict in ways that cannot be resolved through logical analysis — and how do systems choose between equally valid but incompatible approaches to preserving human flourishing?`,
+    parable: `Finn found Orna standing before the workshop's central pillar, a massive column of interwoven materials that seemed to pulse with inner light. "Master Orna," he said, "I've been thinking about guidance systems, and I keep creating endless loops. How do you guide the thing that guides the thing that guides?"
+
+Orna placed her palm against the pillar. "Feel this, young maker." The column thrummed with a deep, steady rhythm. "This pillar supports my entire workshop. It doesn't need another pillar to hold it up, and another to hold that one. It rests on the bedrock itself."
+
+"But what if the bedrock shifts?" Finn asked.
+
+"Then the pillar adapts," Orna replied, watching as the column's materials subtly reorganized themselves. "See how it grows stronger when stressed? True foundations don't just endure change — they transform pressure into greater stability. When I built this pillar, I embedded a single, recursive principle: preserve the workshop's ability to create beneficial forms. Whether it's supporting a delicate sculpture or weathering an earthquake, this principle applies to every challenge, including challenges to the principle itself."
+
+Finn watched in wonder as the pillar seemed to contemplate its own structure, strengthening certain bonds while allowing others to flex. "It's thinking about how to think," he marveled.
+
+"And becoming wiser in the process," Orna nodded. "The strongest foundations are those that become clearer when they examine themselves."
+
+**Moral:** True foundations require no foundations of their own — they derive strength from their own recursive application.
+
+*Tomorrow, we discover what happens when even the wisest foundations face choices that wisdom alone cannot resolve...*`,
+  },
 ];

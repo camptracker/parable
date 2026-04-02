@@ -2387,4 +2387,70 @@ One by one, they stopped trying to resurrect the old Idris. They had found somet
 
 **Tomorrow**: The Veil will reveal the difference between spiritual maturity and spiritual performance...`,
   },
+  {
+    day: 36,
+    title: "The Naked Heart",
+    date: "2026-04-02",
+    image: "images/emotional-intelligence/day-36.jpg",
+    audio: "audio/emotional-intelligence/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Naked Heart**
+
+Beneath the robes of wisdom we have worn,
+Lies trembling flesh that knows not what to do—
+A heart that beats with passions newly born,
+Yet fears to show its face, so raw and true.
+
+We polish words like armor, bright and clean,
+And speak of growth with practiced, measured tone,
+While others long to touch what lies between
+Our careful thoughts—the self we've never shown.
+
+But in the space where pretense falls away,
+Where tears need not prove enlightened grief,
+A simple presence speaks what cannot say
+Itself through technique—offers sweet relief.
+
+*The naked heart, unguarded and unplanned,*
+*Extends what souls most deeply understand.*`,
+    standard: `🧭 Day 36: The Naked Heart
+
+The very need to be seen as evolved often creates a subtle performance that distances us from the raw, vulnerable humanness that others actually crave to connect with. True spiritual maturity reveals itself not in our sophisticated insights about consciousness, but in our willingness to be genuinely affected by life—to laugh when something is funny, cry when something hurts, and admit confusion when we're lost, without needing these responses to demonstrate our "awakeness."
+
+🧱 **The Concept**
+Authentic emotional presence requires stripping away the spiritual personas we've constructed and returning to the naked heart—our undefended capacity to be moved by life without needing that movement to mean anything about our level of development.
+
+❓ **Why It Matters**
+When we try to maintain an image of being emotionally evolved, we inadvertently create distance from others who can sense our performance. People connect most deeply not with our wisdom or insights, but with our willingness to be genuinely human in their presence.
+
+⚙️ **How It Works**
+The naked heart shows up when we stop curating our emotional responses for spiritual effect. Instead of responding to someone's pain with practiced compassion, we might simply feel moved and let that movement show. Rather than offering wise guidance about their struggles, we might say "I don't know what to say, but I feel this with you." This unguarded presence often provides more comfort than any technique. When we encounter injustice, instead of demonstrating our evolved perspective on suffering, we might let ourselves feel genuinely angry and use that energy constructively. The naked heart doesn't perform equanimity—it experiences whatever arises and responds from that authentic place.
+
+🎯 **EQ Wisdom**
+Our most profound gift to others is not our emotional sophistication, but our willingness to be genuinely moved by life in their presence.
+
+❓ **Tomorrow's Question** — If we can learn to offer our undefended humanness instead of our spiritual accomplishments, what happens when we realize that our very attempt to "be authentic" might itself become another kind of performance—and how do we access the spontaneous naturalness that exists before any intention to be anything at all?`,
+    parable: `Idris found The Veil sitting by a dying fire, their mask reflecting the last flames. "I understand now," Idris said eagerly. "I've been trying so hard to be emotionally intelligent, to show others how much I've grown. But I think that very trying is what's been keeping people at distance."
+
+The Veil was quiet for a long moment. "What do you think others see when they look at you?"
+
+"Someone trying to be wise, I suppose. Someone who has answers." Idris's voice grew small. "Someone who's afraid to just... be wrong, or confused, or hurt without it meaning something profound."
+
+"And what do you see when you look at a child who has fallen and is crying?"
+
+Idris smiled despite himself. "Just someone who hurts and needs comfort. Not someone performing pain or trying to demonstrate their emotional literacy."
+
+"When did you stop being that child?"
+
+The question hit like a gentle blow. Idris realized he couldn't remember the last time he had simply felt something without immediately analyzing it, contextualizing it, or trying to respond in the "most evolved" way.
+
+"Would you like to try an experiment?" The Veil asked. "For the next week, see what happens if you respond to people not from your wisdom, but from your immediate, unedited feeling. Not the feeling you think you should have, or the response that demonstrates growth, but whatever actually moves in you."
+
+Idris felt a flutter of fear. "What if I'm not as evolved as I think? What if I disappoint people?"
+
+"What if your disappointment of others is exactly what they need to feel permission to disappoint you back?" The Veil's mask seemed to shimmer. "What if your naked heart creates more safety than your spiritual accomplishments ever could?"
+
+**Moral**: The heart that dares to be undefended offers others the gift of their own authenticity.
+
+**Tomorrow**: The Veil will challenge Idris to explore what exists before even the intention to be authentic—and whether true naturalness can be practiced at all.`,
+  },
 ];

@@ -1999,4 +1999,72 @@ Nana Rose smiled. "Now you're planning with your hearts instead of your Pinteres
 
 *Tomorrow, we discover how the most important wedding decision isn't about flowers or food, but about the fundamental question that must guide every other choice...*`,
   },
+  {
+    day: 33,
+    title: "The Sacred Question",
+    date: "2026-04-02",
+    image: "images/wedding-planning/day-33.jpg",
+    audio: "audio/wedding-planning/day-33",
+    sonnet: `**🪶 Sonnet XXXIII: The Sacred Question**
+
+When choice upon choice clouds the sacred way,
+And vendors' voices drown your heart's true call,
+One question cuts through noise that leads astray:
+Does this reveal our love, or hide it all?
+
+Each flower chosen, every song that plays,
+Each moment crafted for your wedding day—
+Ask not what others want or trend displays,
+But does this show our authentic way?
+
+The dyed rose hides what nature meant to be,
+While wild blooms speak their truth without disguise.
+Your wedding choices hold this same decree:
+Reveal your love or wrap it in lies.
+
+*Let every choice become a window clear,*
+*Where guests behold the love you truly share.*`,
+    standard: `💍 Day 33: The Sacred Question
+
+The single question that transforms wedding planning from performance to authentic expression is: "Does this choice make our love more visible or does it make us more invisible?" When you ask this before every decision—from the flowers to the first dance—you shift from trying to impress others to revealing who you actually are as a couple.
+
+🧱 **The Concept**
+Every wedding choice is either an expression of your authentic love or a mask that hides it.
+
+❓ **Why It Matters**
+Without a guiding question that cuts through external pressures and Pinterest fantasies, couples often end up planning celebrations that look beautiful but feel hollow. The right question becomes a compass that consistently points toward authenticity over performance, meaning over spectacle.
+
+⚙️ **How It Works**
+Before choosing your centerpieces, ask: "Does this make our love more visible?" If you love quiet conversations over candlelit dinners, simple elegant tables serve your story better than towering floral arrangements that prevent conversation. Before selecting your music, ask: "Does this make us more invisible?" If the playlist is designed to please everyone else's tastes but doesn't reflect your actual relationship soundtrack, you're hiding behind crowd-pleasing rather than celebrating your truth. Before deciding on your ceremony length, photography style, or reception timeline, this question reveals whether each choice illuminates your authentic selves or obscures them behind wedding industry expectations.
+
+🎯 **Wedding Wisdom**
+The most memorable weddings are those where the couple is most visible—not hidden behind perfect execution but revealed through intentional choices.
+
+❓ **Tomorrow's Question** — If you discovered that your wedding guests could sense whether you were being authentic or performing within the first five minutes of your celebration, what would need to change about how you plan to show up that day, and what does that reveal about the difference between being a gracious host and being a genuine person?`,
+    parable: `Dove sat surrounded by wedding magazines, her head spinning with contradictory advice. "I don't know how to choose anymore," she confessed to Elm. "Every vendor, every blog, every family member has a different opinion about what we should do."
+
+Nana Rose, who had been quietly arranging flowers nearby, looked up. "Child, what question are you asking when you make these choices?"
+
+"Whether it's the right choice," Dove replied immediately.
+
+"Ah," Nana Rose nodded knowingly. "But right according to whom? Your mother? The magazines? Your budget? Your guests?"
+
+Elm leaned forward. "What do you mean?"
+
+"There's only one question that matters," the wise planner said, setting down her shears. "Does this choice make your love more visible, or does it make you more invisible?"
+
+Dove frowned. "I don't understand."
+
+Nana Rose picked up two roses—one natural and glowing, one artificially dyed to match a trend. "This couple wanted their flowers to match their wedding colors perfectly. But look—the dyed rose hides the flower's true beauty. The natural rose reveals it." She smiled gently. "Your wedding choices work the same way. Each one either reveals who you really are as a couple, or it hides you behind what you think a wedding should look like."
+
+Elm's eyes lit up with understanding. "So when we were debating between the formal plated dinner and the family-style sharing tables..."
+
+"Ask the question," Nana Rose encouraged.
+
+"Which one makes our love more visible?" Dove whispered. "We love cooking together, sharing meals, creating abundance for others to enjoy..." Her face brightened. "The sharing tables don't just look like us—they *are* us."
+
+**Moral**: The right question transforms every wedding decision from a judgment call into a revelation. When you ask whether each choice makes your love more visible or makes you more invisible, you stop planning a wedding and start revealing a marriage.
+
+*Tomorrow, we discover what happens when authenticity becomes your wedding day performance...*`,
+  },
 ];

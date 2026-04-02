@@ -2210,4 +2210,68 @@ By evening, the mast stood straight and strong, repaired with an innovation that
 
 *Tomorrow, Tova will discover the difference between giving directions and giving destinations...*`,
   },
+  {
+    day: 36,
+    title: "The Courage to Constrain",
+    date: "2026-04-02",
+    image: "images/leadership/day-36.jpg",
+    audio: "audio/leadership/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Courage to Constrain**
+
+When knowledge burns within the leader's breast,
+And answers flow like rivers to the sea,
+The hardest choice is holding back the best
+To let others discover what might be.
+
+For in the space between the question posed
+And wisdom freely given from above,
+The seeds of capability are sown and closed,
+Nurtured by restraint that speaks of love.
+
+The master gardener knows when not to prune,
+The teacher learns when silence serves the most,
+The captain waits while others chart their tune
+Across the waters of an unknown coast.
+
+*True strength lies not in answers freely shared,*
+*But in the courage to leave souls unpaired.*`,
+    standard: `👥 Day 36: The Courage to Constrain
+
+This reveals a profound truth: our well-intentioned desire to provide answers often robs our team of the very struggles that build their capabilities. When we consistently offer solutions, we unknowingly communicate that we don't trust their ability to find their own way—creating a dependency that stunts their growth.
+
+🧱 **The Concept**
+True leadership courage often means deliberately constraining yourself—holding back your knowledge, experience, and solutions to create space for others to discover their own strength.
+
+❓ **Why It Matters**
+The leader who always provides the answer creates followers who always need answers. This dynamic weakens the entire organization, making it vulnerable whenever the leader isn't present. More importantly, it robs team members of the confidence that comes from solving difficult problems independently.
+
+⚙️ **How It Works**
+Constraint-based leadership means setting clear boundaries around problems while leaving the solution space completely open. Instead of saying "Here's what we need to do," you might say "Here's what we need to achieve—how might we get there?" When someone asks for your opinion, you respond with "What options are you considering?" When they want your solution, you ask "What would you try if failure wasn't an option?" The constraint isn't punishment—it's a carefully crafted container that forces creative thinking and builds problem-solving muscle. Like a river that cuts deeper channels when its flow is focused, team members develop stronger capabilities when their thinking is directed toward specific outcomes without prescribed methods.
+
+🎯 **Leadership Wisdom**
+The leader's greatest gift to their team isn't their answers—it's their restraint in withholding those answers until others have fully engaged their own thinking.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most powerful learning moments happened not when you shared your expertise, but when you confessed your own uncertainty and invited them to explore solutions together, what would this reveal about the relationship between your need to appear competent and their need to feel capable?`,
+    parable: `Captain Tova found herself aboard the merchant vessel *Persistence*, watching her crew struggle with a particularly complex navigation challenge. Storm clouds gathered ahead, and the traditional route to port would take them directly through dangerous waters. Her instincts screamed to step forward and chart the course herself—she knew these waters, had navigated them countless times.
+
+But Greymane's words echoed in her mind from their morning conversation: "A captain who always steers the ship raises sailors who never learn to navigate."
+
+So instead of taking the helm, Tova gathered her officers. "We need to reach Port Avalon within two days," she announced, "but the direct route puts us in the storm's path. I'm not going to tell you how to solve this—I want to see what you come up with."
+
+First Officer Chen looked surprised. "Captain, shouldn't you—"
+
+"I should trust my crew to think," Tova interrupted gently. "The constraint is clear: safe passage to Avalon in forty-eight hours. The method is yours to discover."
+
+What followed was remarkable. Chen suggested a southern route that would add time but avoid the worst weather. Navigator Santos proposed timed sprints between safe harbors. Even young Kellan, the newest crew member, offered insights about wind patterns he'd observed but never dared voice.
+
+As Tova watched them debate, calculate, and collaborate, she realized something profound: her knowledge had been a ceiling, not a floor. By constraining herself, she had unleashed their creativity.
+
+Greymane appeared beside her as they implemented their chosen route—a hybrid approach none of them would have attempted alone. "Painful, wasn't it?" he asked with a knowing smile. "Watching them struggle when you could have simply given the answer?"
+
+"Excruciating," Tova admitted. "But look at them now. They're not just following orders—they're thinking like captains."
+
+**Moral:** *The leader's greatest act of courage is not providing the answer, but creating the space where others discover they don't need to be given one.*
+
+*Tomorrow, we explore what happens when leaders discover that their greatest teaching moments come not from sharing what they know, but from admitting what they don't...*`,
+  },
 ];
