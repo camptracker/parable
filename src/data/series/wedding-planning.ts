@@ -2134,4 +2134,66 @@ Dove looked at herself again—this time without posing, without preparing. Just
 
 *Tomorrow, we discover what happens when celebration becomes so authentic that the outside world disappears...*`,
   },
+  {
+    day: 35,
+    title: "The Sacred Return",
+    date: "2026-04-04",
+    image: "images/wedding-planning/day-35.jpg",
+    audio: "audio/wedding-planning/day-35",
+    sonnet: `**🪶 Sonnet XXXV: The Sacred Return**
+
+Through tangled paths of choice and compromise,
+We wandered far from love's first simple song,
+Yet every twist that challenged heart and eyes
+Was teaching us where we have always belonged.
+
+The complex dance of planning, stress, and care
+Was practice for the marriage yet to come—
+Each moment when we chose what's true and fair
+Built strength to weather storms till we are one.
+
+Now standing at the threshold of our day,
+We see how every struggle made us wise,
+How choosing authenticity each weighty way
+Prepared our hearts for love that never dies.
+
+*For in the end, all wedding roads return*
+*To simple truth for which our spirits yearn.*`,
+    standard: `💍 Day 35: The Sacred Return
+
+🧱 **The Concept**
+True wedding planning comes full circle when you realize that all the complexity was meant to lead you back to simplicity—to the essential truth that started your journey together.
+
+❓ **Why It Matters**
+After weeks of decisions, compromises, and growth, couples often discover that their most authentic wedding celebrates the same simple love that made them want to marry in the first place. The planning process, with all its challenges, serves as preparation not just for a day but for a lifetime of returning to what matters most when life gets complicated.
+
+⚙️ **How It Works**
+Consider how your wedding planning has changed you: the moments when you chose authenticity over expectation, partnership over perfection, meaning over appearance. These weren't just wedding decisions—they were practice for marriage decisions. The venue that felt right in its raw state teaches you to find home in each other without decoration. The guest list that prioritized genuine celebration over obligation shows you how to protect your relationship from external pressures. The traditions you kept or released reveal what you truly value versus what you thought you should value. Every choice that aligned with your authentic selves rather than outside expectations has been preparation for building a marriage that can weather complexity by returning to its essential foundation.
+
+🎯 **Wedding Wisdom**
+The most beautiful weddings feel like a homecoming—not to a place, but to the simple truth of why two people chose each other.
+
+❓ **Tomorrow's Question** — If you could travel back to the very first moment you knew you wanted to marry your partner and tell that version of yourself one thing about what you've learned through planning your wedding, what would it be, and how might that insight change how you approach not just the remaining planning but the first year of your marriage?`,
+    parable: `Dove sat in Nana Rose's garden on a warm afternoon, surrounded by notebooks filled with wedding decisions, checklists crossed off, and plans that had evolved through countless revisions. The weight of approaching completion felt different now—not the exhaustion she'd expected, but something quieter, more profound.
+
+"I keep thinking about that first day," Dove said, watching Elm arrange the final seating charts. "When I walked into your office completely overwhelmed, certain that planning a wedding meant losing ourselves in everyone else's expectations."
+
+Nana Rose smiled, her weathered hands gentle on the tea service. "And what do you think about that version of yourself now, dear?"
+
+"She was so afraid of making the wrong choices," Dove reflected. "But I think... I think every choice taught us something. Even the ones that felt impossible at the time."
+
+Elm looked up from his careful work. "Remember when we thought we had to choose between your family's traditions and my family's expectations? That felt like the end of the world."
+
+"But working through it showed us how to honor what matters while staying true to ourselves," Dove continued. "We learned to have conversations we'd never had before. To stand together when things got complicated."
+
+Nana Rose nodded knowingly. "The planning was never really about the wedding, was it? It was about discovering who you are when life asks difficult questions. About learning to return to each other when the world gets noisy."
+
+Dove reached for Elm's hand. "Our wedding is going to be beautiful because it's going to be simple—not in what we include, but in why we include it. Every detail feels like it belongs because we chose it together, from the center of who we really are."
+
+"That's the sacred return," Nana Rose said softly. "All roads in love lead back to the beginning—to the simple truth that made you say yes in the first place. Your wedding will celebrate not just your love, but your ability to find your way back to it no matter how complex the journey becomes."
+
+**Moral:** The most profound wedding planning circles back to the simplest truth—that love, tested by complexity, grows stronger by returning to its essence.
+
+*Tomorrow, we discover what wisdom the beginning holds for the marriage ahead...*`,
+  },
 ];

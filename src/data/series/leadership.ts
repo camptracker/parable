@@ -2332,4 +2332,61 @@ Tova nodded, understanding flooding through her. "I thought leadership meant hav
 
 *Tomorrow, Tova would discover that the most powerful conversations on her ship happened not in her captain's quarters, but in the spaces where pretense dissolved and authentic human connection could flourish.*`,
   },
+  {
+    day: 38,
+    title: "The Courage of Ordinary Wisdom",
+    date: "2026-04-04",
+    image: "images/leadership/day-38.jpg",
+    audio: "audio/leadership/day-38",
+    sonnet: `**🪶 Sonnet XXXVIII: The Courage of Ordinary Wisdom**
+
+In boardrooms where the learned voices ring,
+With titles bright and credentials on display,
+The quieter truths that humble workers bring
+Often lie unheard throughout the day.
+The newest hire with eyes unclouded yet
+May see the flaw that expertise can't find,
+While veterans, by assumption's weight beset,
+March forward with solutions poorly timed.
+Great leaders know that insight knows no rank,
+That wisdom wears no badge of high degree,
+The freshest view may come from those we thank
+But rarely ask what they can truly see.
+*For truth cares not for corner office walls—*
+*It speaks through any voice that courage calls.*`,
+    standard: `👥 Day 38: The Courage of Ordinary Wisdom
+
+This reveals that our attachment to formal processes often stems from our own insecurity—we create structured environments where we feel competent and in control, but authentic breakthrough requires the vulnerability of genuine human connection where everyone's ideas matter equally. True leadership means recognizing that the informal spaces where people speak freely are often where the most valuable insights emerge.
+
+🧱 **The Concept**
+The most profound leadership insights often come from the people you least expect to have answers—those without titles, experience, or formal training.
+
+❓ **Why It Matters**
+When we only listen to voices that sound like expertise, we miss the fresh perspectives that can see solutions we've become blind to. The newest team member, the quietest person in meetings, or someone from an entirely different background might possess exactly the insight needed to solve your most complex challenge.
+
+⚙️ **How It Works**
+This happens because outsiders aren't limited by industry assumptions or "the way we've always done things." A junior developer might suggest a simple solution that senior architects overlooked because of their deep technical knowledge. A customer service representative might identify a product improvement that engineers never considered because they're too close to the technical details. The key is creating environments where these unexpected voices feel safe to speak up, and more importantly, where leaders have the humility to recognize wisdom regardless of its source.
+
+🎯 **Leadership Wisdom**
+Great leaders understand that insight doesn't respect hierarchy, and the person with the least formal authority might have the most valuable perspective.
+
+❓ **Tomorrow's Question** — If you discovered that the insights you most needed to hear were consistently coming from the people in your organization who felt least qualified to share their opinions, how would this change your approach to whose voices you actively seek out versus whose contributions you accidentally overlook?`,
+    parable: `Captain Tova stood before her crew, frustrated after another failed strategy meeting. Despite hours of careful planning with her senior officers, their solutions felt stale, predictable. The ship remained sluggish, morale low.
+
+Greymane found her later, watching young Kira mend nets with unusual efficiency. "That girl has an interesting technique," he observed. "Learned it from her grandmother, she says. Makes the nets stronger than our traditional method."
+
+"She's just a deckhand," Tova replied dismissively. "What could she know about navigation or ship management?"
+
+The old admiral smiled. "I once ignored a cabin boy who suggested we adjust our sail configuration. I thought his idea foolish—he'd never commanded a vessel. Three storms later, when my experienced crew was baffled by our poor speed, I remembered his words. We tried his method. Cut our journey time in half."
+
+Tova watched Kira work, noticing how other sailors had gathered to learn her technique. "But how do you know which ideas to take seriously?"
+
+"You don't," Greymane said simply. "That's why you listen to all of them. Wisdom doesn't announce itself with rank or years. Sometimes it speaks through the voice that trembles because it's never been asked before."
+
+That evening, Tova called an informal gathering on deck. No agenda, no hierarchy—just questions and curiosity. By dawn, they had solutions no strategy meeting had ever produced.
+
+The moral: True wisdom often wears work clothes and speaks with uncertainty, but carries insights that experience has forgotten how to see.
+
+Tomorrow, we'll discover why the voices that hesitate to speak might hold exactly what you need to hear.`,
+  },
 ];

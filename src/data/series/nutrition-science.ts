@@ -2391,4 +2391,70 @@ The fire crackled as if in agreement, and Maren added a small log with the caref
 
 **Tomorrow:** When accumulated knowledge becomes a veil rather than a lens...`,
   },
+  {
+    day: 40,
+    title: "The Expert's Blind Spot",
+    date: "2026-04-04",
+    image: "images/nutrition-science/day-40.jpg",
+    audio: "audio/nutrition-science/day-40",
+    sonnet: `**🪶 Sonnet XL: The Expert's Blind Spot**
+
+With scrolls of wisdom stacked upon the shelf,
+The learned mind constructs its rigid frame,
+Each theory meant to heal and know thyself,
+Yet knowledge builds a wall around the flame.
+
+The body speaks in whispers soft and true,
+But expertise translates through filters thick,
+What hunger means, what fatigue's trying to do—
+All forced through lens of memorized old tricks.
+
+A child eats when hungry, stops when fed,
+No rules or ratios cloud their simple sight,
+While scholars feast on theories in their head
+And miss the signals burning clear and bright.
+
+*The wisest healers know they must unlearn,*
+*To hear the truths for which their bodies yearn.*`,
+    standard: `🍎 Day 40: The Expert's Blind Spot
+
+When someone accumulates years of metabolic expertise, their extensive knowledge can create a filter that interprets every bodily signal through the lens of what they already "know" to be true, causing them to miss subtle changes or dismiss symptoms that don't fit their established framework. This expert's blind spot becomes particularly dangerous because their confidence in their knowledge makes them less likely to question their assumptions or consider that their body might be communicating something outside their current understanding.
+
+🧱 **The Concept**
+Expertise can paradoxically decrease metabolic awareness when accumulated knowledge creates rigid interpretive frameworks that filter out information contradicting established beliefs.
+
+❓ **Why It Matters**
+The more you "know" about metabolism, the more likely you are to force your current experience into past categories rather than staying present to what's actually happening. This expert's blind spot can prevent adaptation to changing life circumstances, aging, stress levels, or evolving metabolic needs that require fresh approaches.
+
+⚙️ **How It Works**
+A nutrition expert experiencing unexplained fatigue might immediately blame their macronutrient ratios instead of considering that their sleep patterns have changed, their stress levels have increased, or their microbiome has shifted. Someone well-versed in intermittent fasting might push through hunger signals that are actually indicating their body needs different timing, because they "know" that hunger during fasting windows should be ignored. A fitness professional might dismiss joint pain as normal aging when their body is actually signaling that their current exercise protocol no longer serves their changing hormonal landscape. The expert's mind says "I know what this means" before the beginner's mind can ask "What is this really telling me?"
+
+🎯 **Science Wisdom**
+True metabolic mastery requires the humility to remain a student of your own body, allowing expertise to inform but not override direct experience.
+
+❓ **Tomorrow's Question** — *If the expert's blind spot can make knowledge itself a barrier to metabolic awareness, what does this reveal about the relationship between metabolic wisdom and the concept of unlearning—and why might the most advanced practitioners need to periodically empty their cup completely to rediscover what their body has been trying to teach them all along?*`,
+    parable: `Lila found Maren in her study, surrounded by scrolls and texts, her face creased with frustration. "Master, I've been watching you these past days. You seem... troubled."
+
+Maren sighed, gesturing at the accumulated wisdom of decades. "I know too much, child. Yesterday, when my body felt heavy and sluggish, I immediately diagnosed it as improper food combining from my evening meal. I adjusted my herbs, changed my timing, applied every principle I've learned."
+
+"And did it help?" Lila asked gently.
+
+"No. Because I was so busy applying my knowledge that I failed to notice what my body was actually saying. It wasn't about food at all—I'd been grinding herbs late into the night for three straight days, disrupting my sleep rhythm. But my expertise told me it must be nutritional, so I never considered rest."
+
+Maren walked to her window, looking out at the village. "Watch a child eat, Lila. They stop when full, eat when hungry, crave what they need. They have no knowledge of metabolism, yet they listen perfectly. Now watch a scholar of nutrition. They eat by the clock, measure their portions, override their hunger because they 'know better.'"
+
+"But surely knowledge helps?" Lila protested.
+
+"Knowledge should serve awareness, not replace it," Maren replied. "But the more we accumulate, the thicker the veil becomes between our theories and our truth. I've treated healers who could recite every property of every plant yet had forgotten how to feel their own pulse. Their expertise had become a cage."
+
+She picked up a simple piece of bread. "When I was your age, this bread would tell me stories—how my body received it, what it needed, how it felt afterward. Now, when I look at it, I see macronutrient ratios, glycemic indices, inflammatory potentials. I see everything except what it actually does to me, today, in this moment."
+
+"The beginner's mind sees clearly because it has no preconceptions to defend. The expert's mind sees through layers of accumulated belief. Both are necessary, but wisdom lies in knowing when to use which."
+
+Maren smiled ruefully. "Tomorrow, child, I will teach you about the art of unlearning—how the wisest healers periodically empty their cups so they can taste fresh water again."
+
+**Moral:** *True expertise requires the courage to question your own knowledge and remain open to what your body teaches moment by moment.*
+
+**Tomorrow:** *Discover why the most advanced practitioners regularly return to beginner's mind and how unlearning can be the highest form of metabolic education.*`,
+  },
 ];
