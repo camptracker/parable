@@ -2196,4 +2196,66 @@ Dove reached for Elm's hand. "Our wedding is going to be beautiful because it's 
 
 *Tomorrow, we discover what wisdom the beginning holds for the marriage ahead...*`,
   },
+  {
+    day: 36,
+    title: "The Sacred Circle",
+    date: "2026-04-06",
+    image: "images/wedding-planning/day-36.jpg",
+    audio: "audio/wedding-planning/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Sacred Circle**
+
+What blooms in spring returns when seasons turn,
+The garden knows no ending, only rest,
+Each petal falls that future flowers earn
+Their place within the earth's eternal nest.
+
+So weddings are not finales but doors
+That open wide on marriage's long road,
+The love that planned through stress and tears and wars
+Will be the same that bears each future load.
+
+Your ceremony is your rehearsal ground
+For every choice that married life will bring,
+The partnership through planning that you found
+Becomes the song that you'll forever sing.
+
+*Let wedding day reflect the love you'll live,*
+*Not perfect performance, but the gift you give.*`,
+    standard: `💍 Day 36: The Sacred Circle
+
+If you could travel back to that first moment of knowing, you'd whisper: "The planning will teach you how to love each other through stress, compromise, and impossible choices—these skills matter infinitely more than any detail you'll agonize over." That insight would transform your remaining planning into marriage preparation, and your first year into a continuation of the partnership you've been building, not a shocking adjustment to it.
+
+🧱 **The Concept**
+Your wedding is not an event that ends—it's the completion of a circle that begins your marriage with the same intentionality, partnership, and love that created it.
+
+❓ **Why It Matters**
+Most couples experience a jarring disconnect between their wedding day and their honeymoon period, as if they're suddenly different people living a different life. The most fulfilling marriages begin when couples recognize that their wedding celebration should seamlessly flow into their married life, carrying forward the same values, communication patterns, and shared vision that made their engagement meaningful.
+
+⚙️ **How It Works**
+Examine how you and your partner have handled wedding decisions—are you collaborative or controlling, flexible or rigid, focused on each other or external validation? These patterns will immediately transfer to marriage decisions about money, family, career moves, and daily life. Consider what you want the day after your wedding to feel like: do you want to collapse from exhaustion and stress, or wake up energized by having lived authentically? Plan your wedding timeline and complexity accordingly. Most importantly, design your ceremony and reception to reinforce the qualities you want to define your marriage—if you value intimacy over spectacle, quiet connection over loud celebration, or meaningful tradition over empty obligation, let these preferences shape every choice.
+
+🎯 **Wedding Wisdom**
+The most successful weddings don't end with "we did it"—they begin with "this is who we are."
+
+❓ **Tomorrow's Question** — If you could design your wedding so that the way you treat each other, handle stress, and make decisions on that day becomes the template for how you want to navigate your entire marriage, what would need to change about your current approach to make your wedding day not just a celebration but a masterclass in being married to each other?`,
+    parable: `Dove stood in the garden behind Nana Rose's cottage, watching her elderly mentor tend to a bed of perennials that had bloomed and faded and bloomed again for decades. "I keep thinking about next week," Dove confessed. "The ceremony, the reception, all these moving parts. But what about the week after? The month after?"
+
+Nana Rose's weathered hands stilled among the roses. "Child, what did you learn about Elm while planning this wedding?"
+
+"That he stays calm when I panic. That he cares more about our happiness than anyone else's opinion. That he'll research seventeen different caterers if it matters to me, but he'll also tell me when I'm overthinking." Dove paused. "Actually, I learned he's exactly who I thought he was, just... more so."
+
+"And what did he learn about you?"
+
+"That I get overwhelmed but I don't give up. That I care deeply about everyone feeling included. That I can make hard decisions when they align with our values." Dove smiled softly. "He said planning this wedding made him even more excited to marry me."
+
+Nana Rose nodded toward her garden. "These roses don't bloom once and die. They cycle—bud, bloom, rest, bloom again. Each season builds on the last." She stood, brushing soil from her knees. "Your wedding isn't an ending, dear one. It's the completion of one circle and the beginning of the next. Everything you've learned about loving each other through stress and joy and impossible choices—that's your marriage curriculum."
+
+Elm appeared around the corner, carrying two cups of tea. Without asking, he handed one to Dove and kept the other for Nana Rose. Such a small gesture, but Dove recognized it now—the same attention, the same care he'd shown through months of planning.
+
+"The secret," Nana Rose whispered, accepting her tea, "is designing a wedding that teaches you how to be married."
+
+**Moral:** The greatest gift your wedding can give you isn't a perfect day—it's a perfect understanding of how to love each other through everything that comes next.
+
+*Tomorrow, we discover how your wedding day can become a sacred rehearsal for your entire marriage...*`,
+  },
 ];

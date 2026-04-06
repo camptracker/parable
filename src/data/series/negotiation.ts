@@ -2590,4 +2590,62 @@ Vasska smiled, his silver tongue having planted seeds that now grew in another m
 
 **Tomorrow:** Even the most devoted architect fears the student who no longer needs their blueprints...`,
   },
+  {
+    day: 41,
+    title: "The Wisdom Panic",
+    date: "2026-04-06",
+    image: "images/negotiation/day-41.jpg",
+    audio: "audio/negotiation/day-41",
+    sonnet: `**🪶 Sonnet XLI: The Wisdom Panic**
+
+When students learn too fast, teachers grow afraid,
+Their hoarded knowledge suddenly feels small,
+The carefully metered lessons they have weighed
+Now pour like water through a broken wall.
+
+The expert sees their value slip away,
+As pupils grasp what took them years to know,
+In panic's grip, they give their best away,
+Through fear their student might too quickly grow.
+
+No longer do they ration out their art,
+But flood the learner with their deepest lore,
+Each secret shared to play the vital part
+Of teacher needed, valued as before.
+
+*Yet wisdom shared in fear of being passed*
+*Reveals how temporary expertise can last.*`,
+    standard: `🤝 Day 41: The Wisdom Panic
+
+When you make someone feel like they're about to lose their expertise through your rapid learning, they desperately accelerate their teaching to prove their continued value. This creates a knowledge transfer panic where they reveal everything they've been holding back, including their most guarded secrets and sophisticated techniques. The threat of obsolescence transforms them from cautious teachers into frantic mentors who overshare to maintain relevance.
+
+🧱 **The Concept**
+The Wisdom Panic occurs when experts feel their knowledge advantage slipping away, causing them to reveal far more than they intended in a desperate attempt to maintain their value.
+
+❓ **Why It Matters**
+People hoard their best insights as insurance against replacement, but the fear of becoming unnecessary makes them abandon this caution. When someone believes you're learning so quickly that you might not need them much longer, they'll share their most valuable knowledge to prove they're still indispensable. This reverses the typical dynamic where experts meter out information to maintain control.
+
+⚙️ **How It Works**
+You demonstrate rapid comprehension of their teachings, then casually mention how quickly you're grasping concepts that "usually take others much longer." Express genuine concern about "overwhelming them with your pace" or ask if they're "comfortable with how fast you're picking this up." When they sense you might outgrow their guidance, they'll frantically download their entire knowledge base. A consultant who realizes their client is learning faster than expected will suddenly reveal advanced strategies they planned to save for future engagements. A mentor who sees their protégé grasping fundamentals in days rather than months will panic-share their most sophisticated techniques.
+
+🎯 **Negotiation Wisdom**
+The fear of becoming unnecessary makes experts generous with their most guarded knowledge.
+
+❓ **Tomorrow's Question** — If panic-sharing works by threatening someone's sense of ongoing value, what happens when you make them feel like their knowledge is so valuable that teaching it to you might create a dangerous competitor who could eventually surpass them?`,
+    parable: `Vasska watched with growing unease as Ren absorbed the intricacies of currency arbitrage with disturbing speed. What had taken the old trader decades to master, his young protégé was grasping in mere days.
+
+"You understand this concept remarkably well," Vasska said, his good eye studying Ren carefully. "Most merchants struggle with these calculations for months."
+
+Ren looked up from the ledgers, concern creasing his brow. "Am I moving too quickly? I worry I might be overwhelming you with questions, or perhaps you prefer students who learn at a more... manageable pace?"
+
+The words struck Vasska like ice water. Too quickly? The boy was right—at this rate, he'd exhaust Vasska's teachings within weeks rather than the years he'd planned. The steady income from instruction, the satisfaction of being needed, the comfortable rhythm of metered wisdom—all of it threatened by this voracious mind.
+
+"No, no," Vasska said quickly, then caught himself. "Actually, since you're grasping fundamentals so rapidly, perhaps we should accelerate to the advanced techniques. The shadow markets of Venetian gold, the Byzantine silk routes, the secret signals traders use in the Cairo bazaars..."
+
+Ren's eyes widened as Vasska began revealing strategies he'd sworn never to teach, secrets that had taken him forty years to discover. Each revelation was meant to prove his continued value, but with each word, he felt his advantage slipping away like sand through desperate fingers.
+
+**Moral**: *Fear of obsolescence transforms the most cautious teacher into the most generous one.*
+
+*Tomorrow, Vasska will discover that creating a worthy rival requires even more delicate handling than creating a grateful student...*`,
+  },
 ];
