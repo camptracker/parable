@@ -2258,4 +2258,72 @@ Elm appeared around the corner, carrying two cups of tea. Without asking, he han
 
 *Tomorrow, we discover how your wedding day can become a sacred rehearsal for your entire marriage...*`,
   },
+  {
+    day: 37,
+    title: "The Sacred Practice",
+    date: "2026-04-07",
+    image: "images/wedding-planning/day-37.jpg",
+    audio: "audio/wedding-planning/day-37",
+    sonnet: `**🪶 Sonnet XXXVII: The Sacred Practice**
+
+When chaos comes to test your sacred day,
+And vendors fail and weather turns unkind,
+Your marriage learns the patterns you display—
+The habits of the heart, the peace of mind.
+
+For every choice to blame or understand,
+Each moment when you stand apart or near,
+Become the choreography you've planned
+For all the future seasons, joy and tear.
+
+Your guests bear witness not to perfect scenes,
+But to the way you weather storm together,
+The grace you show when nothing goes as dreamed,
+Your partnership through any kind of weather.
+
+*Your wedding day rehearses married life—*
+*Practice love, and not just man and wife.*`,
+    standard: `💍 Day 37: The Sacred Practice
+
+To make your wedding day a masterclass in marriage, you'd need to prioritize kindness over perfection in every interaction, choosing patience when vendors are late rather than snapping at each other. You'd need to practice genuine consultation on decisions instead of one partner always deferring or dominating, and respond to inevitable surprises as a united team rather than as individuals protecting separate visions.
+
+🧱 **The Concept**
+Your wedding day becomes a sacred rehearsal for marriage itself—every choice about how to respond to stress, conflict, or unexpected changes is practice for how you'll navigate decades together.
+
+❓ **Why It Matters**
+The patterns you establish on your wedding day—how you communicate under pressure, support each other through disappointment, and make joint decisions when stakes feel high—become the muscle memory of your marriage. Your guests will witness not just your vows but your actual capacity to live them.
+
+⚙️ **How It Works**
+When the caterer arrives late, do you blame each other or problem-solve together? When Aunt Martha criticizes your choices, do you defend each other or throw your partner under the bus? When the weather threatens outdoor photos, do you adapt gracefully as a team or let stress fracture your unity? These micro-moments become macro-patterns. The couple who practices patience, humor, and mutual support on their wedding day builds those reflexes for every future crisis. The couple who snipes, blames, and operates as individuals under stress teaches their marriage to do the same.
+
+🎯 **Wedding Wisdom**
+Your wedding day is not just about celebrating your love—it's about practicing your marriage in front of everyone who matters most to you.
+
+❓ **Tomorrow's Question** — If you could guarantee that your wedding would reveal your relationship's greatest strength to everyone present, what strength would you want to showcase, and what does that tell you about what you need to intentionally practice and protect throughout your entire celebration?`,
+    parable: `Nana Rose found Dove frantically checking her timeline for the third time that morning. "The florist is running twenty minutes late," Dove announced, her voice tight with panic. "This is going to throw off the entire photography schedule!"
+
+Elm appeared with two cups of coffee. "The late flowers, or your response to them?" he asked gently, offering Dove a cup.
+
+"This is serious," Dove snapped. "We paid good money for everything to run smoothly."
+
+Nana Rose watched as Elm's jaw tightened slightly—the first crack in his usual calm. "I see," she murmured. "Tell me, dears, what are you rehearsing right now?"
+
+"Rehearsing?" Dove looked confused.
+
+"Every marriage encounters late deliveries," Nana Rose explained, settling into her chair. "Literal and metaphorical ones. Children who don't arrive on schedule. Career opportunities that come twenty minutes too late. Dreams that don't unfold according to timeline." She gestured toward them both. "Right now, you're practicing how you'll handle those together. Dove, are you practicing trust in your partner's support, or are you practicing handling crisis alone? Elm, are you practicing patience with Dove's stress, or are you practicing quiet resentment when she doesn't match your calm?"
+
+Elm set down his coffee. "I didn't realize I was... practicing."
+
+"Your wedding day is a dress rehearsal," Nana Rose continued. "Every guest will witness not just your vows, but your actual ability to live them. When the inevitable imperfections arise—and they will—your response becomes your marriage's muscle memory."
+
+Dove took Elm's hand. "So what should we practice?"
+
+"What kind of marriage do you want?" Nana Rose asked. "One where you face surprises as opponents or as allies? Where stress reveals your worst selves or your commitment to bringing out each other's best?"
+
+As the florist's van finally pulled up, Dove and Elm looked at each other differently. "Twenty minutes late means twenty extra minutes to practice being the partners we want to be for the next fifty years," Elm said softly.
+
+**Moral:** Your wedding day teaches your marriage how to be married.
+
+**Tomorrow:** Discover what strength your celebration could reveal about your love.`,
+  },
 ];

@@ -2457,4 +2457,68 @@ Moral: Sustainable transparency requires invisible infrastructure—the hidden s
 
 Tomorrow, Ironmere will reveal why the most trusted builders eventually destroy their own infrastructure of trust.`,
   },
+  {
+    day: 41,
+    title: "The Infrastructure Evolution Engine",
+    date: "2026-04-07",
+    image: "images/how-to-scale/day-41.jpg",
+    audio: "audio/how-to-scale/day-41",
+    sonnet: `**🪶 Sonnet XLI: The Infrastructure Evolution Engine**
+
+When hidden pipes that fed the crystal stream
+Were brought to light for all the world to see,
+The workers changed their craft from substance's dream
+To performance art for transparency.
+
+What once was built for function, pure and true,
+Became a theater where the actors played
+Their roles for watchers, not for me or you—
+The trust itself in spectacle displayed.
+
+Yet wise architects rebuild their hidden ways,
+Create new channels deeper than before,
+Evolving trust through ever-changing days,
+While keeping faith with function at the core.
+
+*For transparency that doesn't grow and change*
+*Becomes mere show upon a public stage.*`,
+    standard: `🚀 Day 41: The Infrastructure Evolution Engine
+
+Organizations expose their own hidden infrastructure because transparency itself must evolve—what enabled trust at one scale becomes a constraint at the next. The most trusted companies break their transparency systems not to reduce transparency, but to rebuild more sophisticated transparency infrastructure that can handle greater complexity and deeper organizational maturity.
+
+🧱 **The Concept**
+Once transparency infrastructure becomes visible, it transforms from infrastructure into theater—requiring organizations to continuously evolve their trust mechanisms to maintain authentic transparency.
+
+❓ **Why It Matters**
+When employees can see exactly how transparency is manufactured, they begin optimizing for the visible metrics rather than the underlying trust relationships. This forces organizations to constantly rebuild their transparency infrastructure at deeper levels, creating a continuous evolution cycle that maintains authentic organizational trust while accommodating increased sophistication.
+
+⚙️ **How It Works**
+Netflix famously published their culture deck, making their transparency infrastructure visible—then had to evolve beyond it as employees began performing "Netflix culture" rather than embodying it. Buffer built radical salary transparency, then discovered they needed new hidden infrastructure to handle the complexity of equity discussions that their salary transparency couldn't address. Stripe evolved from informal communication norms to documented communication principles, then had to develop new invisible coordination mechanisms as their documented principles became too rigid for their scaling complexity. The most successful organizations treat transparency infrastructure like technical infrastructure—constantly refactoring, rebuilding, and evolving to handle increased load and sophistication.
+
+🎯 **Scaling Wisdom**
+Transparency that doesn't evolve becomes performance art—the most trusted organizations continuously rebuild their trust infrastructure before their current systems become theater.
+
+❓ **Tomorrow's Question** — If continuously evolving transparency infrastructure creates such powerful trust advantages, why do the most sophisticated organizations eventually reach a point where they stop evolving their transparency systems and accept that some level of organizational theater is inevitable and necessary?`,
+    parable: `Vex studied the crystal-clear streams that fed Ironmere's ancient fountains, marveling at their pristine flow. "How did you keep the water so pure for centuries?" she asked.
+
+Ironmere smiled, pointing to a series of hidden channels beneath the marble plaza. "See those maintenance tunnels? For fifty years, they were our secret—cleaners and engineers could work invisibly, maintaining the illusion of naturally pure water. The citizens trusted what they couldn't see."
+
+"But then?" Vex noticed worn stones where the tunnel entrances had been sealed and reopened multiple times.
+
+"We had to reveal them," Ironmere said. "People began questioning how water stayed so clean. So we made the maintenance visible—glass-walled tunnels, public schedules, transparent processes. Citizens could see exactly how we maintained their trust."
+
+Vex watched workers in the visible tunnels, their movements efficient but somehow performative. "It looks different now."
+
+"Once they could see the show, it became a show," Ironmere nodded. "Workers began cleaning for the audience, not the water. So we built new hidden systems—deeper pipes, invisible sensors, automated purification that happened beyond public view. Then those became visible too, requiring new invisible infrastructure."
+
+"An endless cycle?"
+
+"Not endless—evolving. Each generation of transparency infrastructure handles greater complexity, deeper trust, more sophisticated relationships. The fountains flow cleaner now than ever, though the trust systems look nothing like they did when we started."
+
+As evening fell, Vex noticed new construction around the fountains—workers installing what looked like the beginning of yet another transparency evolution.
+
+**Moral**: True transparency requires infrastructure that evolves faster than people can learn to perform for it.
+
+*Tomorrow, Ironmere would show Vex why even the most sophisticated transparency eventually accepts its own necessary theater...*`,
+  },
 ];
