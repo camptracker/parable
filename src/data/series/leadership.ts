@@ -2519,4 +2519,70 @@ By evening, the ship felt different. Conversations emerged where silence had liv
 
 *Tomorrow, Tova will discover that the greatest gift a leader can give is often the one no one knows to ask for...*`,
   },
+  {
+    day: 41,
+    title: "The Art of Anticipatory Leadership",
+    date: "2026-04-08",
+    image: "images/leadership/day-41.jpg",
+    audio: "audio/leadership/day-41",
+    sonnet: `**🪶 Sonnet XLI: The Art of Anticipatory Leadership**
+
+Beneath each plea lies hunger unexpressed,
+A deeper need that words cannot convey;
+The wise must read what hearts have not confessed,
+And offer gifts beyond what lips might say.
+
+When sailors ask for charts, they seek their worth;
+When workers plead for clearer, safer ground,
+They hunger for the courage to step forth,
+To know their voices matter, safe and sound.
+
+The leader's art is not to simply give
+What surface wants might desperately demand,
+But glimpse the dreams by which souls truly live,
+And nurture growth with understanding's hand.
+
+*For greatest gifts are those we never knew*
+*We needed, till wise leaders see us through.*`,
+    standard: `👥 Day 41: The Art of Anticipatory Leadership
+
+The revelation that people's greatest needs often lie beneath their stated requests transforms leadership from reactive problem-solving to intuitive anticipation. This means shifting from simply responding to what people say they want to developing the wisdom to recognize what they actually need for growth, fulfillment, and success. True leaders become students of human nature, reading between the lines of requests to identify the deeper hungers for purpose, recognition, challenge, or support.
+
+🧱 **The Concept**
+Anticipatory leadership is the ability to perceive and address people's unspoken needs before they become conscious requests or visible problems.
+
+❓ **Why It Matters**
+Most people can articulate their surface-level wants but struggle to identify their deeper developmental needs. When leaders only respond to explicit requests, they miss opportunities to provide transformative experiences that people didn't know they needed. This reactive approach keeps teams operating at current capacity rather than unlocking hidden potential.
+
+⚙️ **How It Works**
+Anticipatory leaders observe patterns: the high performer who asks for more responsibility might actually need permission to be vulnerable about their fears; the quiet team member requesting clearer instructions might need confidence-building opportunities rather than more detailed directions. They notice when someone's requests for resources mask a deeper need for autonomy, or when complaints about workload actually signal a hunger for meaningful challenge. For example, when a team member asks for additional training, an anticipatory leader might recognize this as a request for growth opportunities and create stretch assignments that build confidence alongside skills. They read the emotions behind the words, the energy behind the requests, and the potential behind the problems.
+
+🎯 **Leadership Wisdom**
+The most transformative gifts leaders give are the ones people didn't know they needed to receive.
+
+❓ **Tomorrow's Question** — If you discovered that the requests your team members make most frequently are actually symptoms of deeper, unspoken needs they're trying to meet, what pattern of underlying hungers might you be overlooking, and how would recognizing these hidden needs change your response to every conversation and request they bring to you?`,
+    parable: `Captain Tova studied the morning roster with growing frustration. For weeks, her crew had been bringing her the same complaints: requests for different shifts, complaints about equipment, demands for clearer procedures. She had addressed each issue methodically, yet the problems persisted like waves against stone.
+
+Greymane found her staring at the harbor, her jaw set with determination. "Still fighting the same battles, Captain?"
+
+"I've given them everything they've asked for," she said, gesturing toward the ship. "New schedules, better tools, detailed protocols. Yet they keep coming with more requests, more complaints."
+
+The old admiral nodded slowly. "Tell me, when a child asks for sweets before dinner, what do they really need?"
+
+Tova frowned. "Food, but the right kind—"
+
+"Precisely. And when your crew asks for different shifts?"
+
+"They want... they want to avoid certain people, or certain tasks..." Her voice trailed off as understanding dawned. "They're not asking for schedule changes. They're asking for respect, for feeling valued, for work that matters."
+
+Greymane smiled. "A master sailor reads not just the surface of the water, but the currents beneath. Your crew's requests are the surface waves. What currents are creating them?"
+
+Over the following days, Tova began listening differently. When her navigator requested new charts, she heard his hunger for intellectual challenge and assigned him to train the younger sailors. When her quartermaster complained about inventory systems, she recognized his need for creative problem-solving and asked him to design improvements. When her first mate requested clearer orders, she understood his fear of making mistakes and began sharing her own uncertainties, creating space for collaborative thinking.
+
+The transformation was immediate. The requests stopped coming because the deeper needs were being met. Her crew began bringing her ideas instead of complaints, solutions instead of problems.
+
+**Moral**: True leadership lies not in giving people what they ask for, but in understanding what they truly need to flourish.
+
+**Tomorrow**: Greymane will help Tova discover that the most powerful leadership conversations often begin not with answers, but with the courage to explore questions that neither leader nor follower has yet dared to ask.`,
+  },
 ];

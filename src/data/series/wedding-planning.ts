@@ -2326,4 +2326,69 @@ As the florist's van finally pulled up, Dove and Elm looked at each other differ
 
 **Tomorrow:** Discover what strength your celebration could reveal about your love.`,
   },
+  {
+    day: 38,
+    title: "The Sacred Strength",
+    date: "2026-04-08",
+    image: "images/wedding-planning/day-38.jpg",
+    audio: "audio/wedding-planning/day-38",
+    sonnet: `**🪶 Sonnet XXXVIII: The Sacred Strength**
+
+When storms of wedding chaos start to rise,
+And pressure tests each promise that you've made,
+The strength that dwells between your hearts and eyes
+Will either shine or slowly start to fade.
+
+For guests will watch not just your scripted vows,
+But how you hold each other through the day—
+Whether panic breaks what gentle love allows,
+Or partnership finds wisdom in dismay.
+
+The garden of your bond proves beautiful
+Not in the sunshine of your perfect dreams,
+But when the wind grows wild and dutiful
+Love stands as shelter, stronger than it seems.
+
+*Your wedding day becomes love's truest test—
+Where practiced strength reveals what serves you best.*`,
+    standard: `💍 Day 38: The Sacred Strength
+
+Most couples would want to showcase their unwavering support for each other—the way they lift each other up and face challenges as a unified team. This reveals that what needs practicing and protecting isn't perfect harmony, but rather the conscious choice to be each other's champion even when stress peaks, emotions run high, and wedding chaos threatens to divide your attention and energy.
+
+🧱 **The Concept**
+Your wedding becomes a public demonstration of your relationship's core strength, but only if you consciously embody that strength under pressure.
+
+❓ **Why It Matters**
+Wedding planning reveals relationship dynamics more clearly than almost any other shared challenge—how you handle disagreements, stress, and competing priorities becomes visible to everyone around you. Your guests will remember not just what you said in your vows, but how you actually treated each other throughout the entire celebration. The strength you showcase on your wedding day often becomes the foundation guests expect to see in your marriage.
+
+⚙️ **How It Works**
+Identify your relationship's core strength—perhaps it's how you make each other laugh during difficult moments, your ability to find compromise without either person sacrificing their values, or the way you protect each other's peace when the world gets overwhelming. Then design specific practices to honor that strength throughout your wedding day: if you're great at finding humor together, build in private moments to laugh and decompress; if you excel at unified decision-making, establish signals for when you need to step aside and align; if you're protective of each other's energy, assign trusted friends to help you maintain boundaries with demanding relatives. Your wedding day stress will test every relationship strength you possess—the ones you consciously practice will shine through, while the ones you take for granted may falter under pressure.
+
+🎯 **Wedding Wisdom**
+Your wedding day will either strengthen your partnership or reveal its weak points—choose to make it a masterclass in your greatest collaborative skill.
+
+❓ **Tomorrow's Question**
+If you discovered that your wedding would teach every single guest one crucial lesson about how to love well (not just romantic love, but all love), what lesson would you want your celebration to demonstrate, and what would that require you to embody even when you're exhausted, overwhelmed, or caught off-guard?`,
+    parable: `Dove found herself pacing Nana Rose's garden, wringing her hands as she spoke. "Everyone keeps asking what makes Elm and me special, what our 'secret' is. I don't know how to answer that."
+
+Nana Rose continued deadheading roses with methodical precision. "What did you first notice about how you two handle trouble together?"
+
+"Well..." Dove paused, remembering. "Last year, when I lost my job the same week Elm's father got sick, we just... we didn't fall apart. We made a plan. We took turns being strong. Neither of us had to carry everything alone."
+
+"And tomorrow, when your ceremony runs late and your mother starts panicking about the reception schedule while your cousin complains about the heat?"
+
+Dove's eyes widened. "Oh. That's when everyone will see who we really are."
+
+Elm appeared from the kitchen, carrying three glasses of lemonade. "See who we really are when?"
+
+"When everything goes sideways tomorrow," Dove said, accepting her glass. "Nana Rose is right—our wedding will show everyone whether we actually support each other or just talk about it."
+
+Elm nodded thoughtfully. "So maybe we need a signal. When things get crazy, we check in with each other first before reacting to anyone else."
+
+Nana Rose smiled as she watched them instinctively move closer together, already unconsciously demonstrating their strength. "A garden's beauty isn't proven in perfect weather, children. It's proven in storms."
+
+**Moral**: Your relationship's true strength emerges not in perfect moments, but in how you handle imperfect ones together.
+
+*Tomorrow, we discover how love becomes a teacher for all who witness it...*`,
+  },
 ];

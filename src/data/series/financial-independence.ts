@@ -3072,4 +3072,72 @@ Kael watched as Tobren calmly tended his diverse plantings, while in the distanc
 
 *Tomorrow, we explore why institutions continue teaching prediction when wisdom teaches preparation...*`,
   },
+  {
+    day: 47,
+    title: "The Credential Factory",
+    date: "2026-04-08",
+    image: "images/financial-independence/day-47.jpg",
+    audio: "audio/financial-independence/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Credential Factory**
+
+In halls of learning where the scrolls pile high,
+Complexity adorns each sacred wall,
+While simple truths are deemed too plain to buy
+The grand tuition that sustains them all.
+
+They weave equations round what farmers know—
+That patient planting yields the richest field,
+Yet cannot charge for wisdom's gentle flow,
+So dress plain sense in academic yield.
+
+The factory churns out impressive names,
+With Latin phrases, Greek symbols bright,
+While true wealth builders, free from learned games,
+Plant index funds beneath time's growing light.
+
+*For institutions profit from the maze,*
+*Not from the simple path that wisdom pays.*`,
+    standard: `💰 Day 47: The Credential Factory
+
+Educational institutions emphasize complex models over emotional discipline because they're not primarily designed to produce successful investors—they're designed to produce impressive credentials that justify high fees and maintain institutional prestige. Teaching character and patience doesn't require expensive equipment, prestigious professors, or years of study, which means it can't support the massive infrastructure of modern academia.
+
+🧱 **The Concept**
+Modern education has evolved into a credential factory that profits from complexity rather than effectiveness.
+
+❓ **Why It Matters**
+Understanding this reveals why formal financial education often produces analytical sophistication but practical failure. The system rewards those who can demonstrate knowledge of complex concepts rather than those who can actually build wealth through simple discipline.
+
+⚙️ **How It Works**
+Business schools teach elaborate portfolio theory and derivatives pricing because these subjects require expensive resources and justify high tuition. A professor can spend a semester on modern portfolio theory, but "buy index funds and wait" can be taught in an afternoon. Universities need students to believe that wealth-building requires their specialized knowledge, even though the most successful investors often lack formal financial education. The credential system creates artificial scarcity around common sense, making simple wisdom appear insufficient while complex theories seem valuable.
+
+🎯 **Buffett Wisdom**
+"What we learn from history is that people don't learn from history."
+
+❓ **Tomorrow's Question** — If our educational system profits from making simple concepts appear complex, what does this suggest about expertise in general, and why might the most valuable knowledge in any field often be the simplest insights that institutions have the least incentive to teach?`,
+    parable: `Kael found Sable reviewing a thick scroll covered in intricate diagrams and mathematical formulas.
+
+"What is this, Elder?" Kael asked, struggling to decipher the complex symbols.
+
+Sable smiled wryly. "This arrived from the Great Academy in the capital. They claim it contains the 'advanced secrets' of wealth-building—seventeen different formulas for calculating optimal investment ratios."
+
+Tobren approached, dusty from the fields. "Fancy learning, that. What does it say about growing wealth?"
+
+"According to this," Sable said, "one must first master the 'Modified Sharpe Ratio with Beta Adjustment,' then apply the 'Multi-Factor Asset Pricing Model,' followed by 'Dynamic Portfolio Rebalancing Theory.'" He set the scroll aside. "It would take three years to study."
+
+Kael frowned. "But didn't you teach me that wealth grows simply—like seeds planted regularly in good soil?"
+
+"Indeed," Sable nodded. "But imagine if I were running a school. Could I charge high fees to teach 'plant seeds and wait'? Could I justify grand buildings and learned professors for such simple wisdom?"
+
+Tobren chuckled. "Ah, I see. If the truth is simple, how do you build a business around teaching it?"
+
+"Precisely," Sable said. "The Academy must convince students that simple truths are insufficient—that real wealth requires their specialized knowledge. They create artificial complexity to justify their existence."
+
+Kael examined the scroll again. "So this isn't meant to make better investors—it's meant to make impressive graduates?"
+
+"A credential factory," Sable confirmed. "They profit from complexity, not effectiveness. The most successful farmers never attended agricultural academies, just as the wisest investors often lack formal financial education."
+
+**Moral**: Institutions that profit from teaching wisdom have incentives to make simple truths appear complex.
+
+**Tomorrow**: The nature of expertise itself comes under scrutiny.`,
+  },
 ];
