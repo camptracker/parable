@@ -2802,4 +2802,74 @@ The older man's eyes widened with surprise, then relief. "Yes," he breathed. "Ex
 
 **Tomorrow**: The Veil's questions will challenge Idris to explore what happens when this recognition of shared consciousness encounters those whose actions seem to emerge from a very different moral center.`,
   },
+  {
+    day: 42,
+    title: "The Sacred Boundary",
+    date: "2026-04-09",
+    image: "images/emotional-intelligence/day-42.jpg",
+    audio: "audio/emotional-intelligence/day-42",
+    sonnet: `**🪶 Sonnet XLII: The Sacred Boundary**
+
+Not walls of stone built high from bitter fear,
+But loving limits drawn with gentle hand,
+These boundaries we hold both firm and clear
+Protect the sacred space where hearts can stand.
+
+The gardener's fence shields tender shoots from harm
+Yet hates not wind that howls beyond the gate,
+So too our boundaries, held with loving calm,
+Guard connection's potential from cruel fate.
+
+To say 'no' with compassion takes great art—
+Refusing poison while embracing soul,
+Distinguishing behavior from the heart
+That beats beneath each broken, seeking role.
+
+*For love itself demands we sometimes stand*
+*Between what is and what grace has planned.*`,
+    standard: `🧭 Day 42: The Sacred Boundary
+
+Recognizing shared consciousness doesn't eliminate our responsibility to discern harmful behavior—it actually deepens it by revealing that boundaries protect not just ourselves but the shared field of awareness itself. True compassion sometimes requires us to say 'no' with fierce clarity, understanding that allowing destructive patterns to continue actually dishonors the consciousness expressing through all parties involved.
+
+🧱 **The Concept**
+Compassionate boundaries are not walls built from fear or judgment, but sacred containers that protect the space where authentic relationship can flourish.
+
+❓ **Why It Matters**
+Many people struggle with either rigid boundaries that shut out connection or porous boundaries that allow harmful dynamics to continue unchecked. Understanding boundaries as expressions of love rather than separation transforms how we navigate complex relationships while maintaining our integrity.
+
+⚙️ **How It Works**
+Sacred boundaries operate from clarity rather than reactivity—we establish limits not because we hate someone's behavior, but because we love the potential for genuine connection too much to allow it to be corrupted. When someone repeatedly violates trust, a sacred boundary might mean ending the relationship while still holding compassion for their struggle. When a colleague consistently undermines team dynamics, it might mean refusing to participate in gossip while remaining open to direct, honest communication. When a family member tries to manipulate through guilt, it might mean calmly stating our position and changing the subject rather than engaging in circular arguments. These boundaries are maintained through consistent, non-reactive responses that protect the integrity of relationship itself.
+
+🎯 **EQ Wisdom**
+The most loving thing we can do is sometimes to refuse to enable someone's destructive patterns, even when they interpret our boundary as rejection.
+
+❓ **Tomorrow's Question** — If we can learn to maintain sacred boundaries that protect rather than punish, what happens when we realize that our own internal boundaries—between acceptable and unacceptable thoughts, emotions, and impulses—might also need this same compassionate firmness, and how do we establish loving limits with the parts of ourselves we'd rather deny or suppress?`,
+    parable: `The Veil stood beside a great stone wall that ran through the center of the courtyard, its surface worn smooth by countless hands seeking passage. Idris approached, frustrated by a recent encounter with a colleague who had publicly humiliated him during negotiations.
+
+"This diplomat spreads lies about my work," Idris declared, his voice tight with anger. "Yet you speak of shared consciousness. How can I feel compassion for someone who actively tries to destroy my reputation?"
+
+The Veil touched the ancient wall. "Does this boundary hate the wind?"
+
+"Of course not. It's just stone."
+
+"And yet it stands firm against the storm. Does its firmness diminish the sky?"
+
+Idris studied the wall, noticing how it created two distinct gardens—one where delicate flowers bloomed in protected stillness, another where hardy plants swayed freely in the open air. "The wall... it doesn't fight the wind. It just maintains its integrity."
+
+"What would happen to the tender blooms if this boundary dissolved?"
+
+"They would be destroyed," Idris realized. "But the wall doesn't hate the wind for being wind."
+
+The Veil nodded slowly. "And what would happen to the wind if it never encountered resistance?"
+
+Idris pondered this. "It would... spread everywhere and nowhere, losing its power to create and move."
+
+"Can you love your colleague's essential nature while refusing to allow their destructive patterns to poison the space where real diplomacy might flourish?"
+
+As Idris considered this, he felt something shift—his anger transforming into a clear, unwavering resolve that felt both fierce and peaceful.
+
+**Moral:** True boundaries are not built from hatred but from love for what deserves protection. Like the stone wall that serves both garden and wind, sacred boundaries honor all parties by maintaining the integrity of genuine relationship.
+
+**Tomorrow:** Idris discovers that the same boundary principles apply to the warring voices within his own mind...`,
+  },
 ];

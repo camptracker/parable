@@ -2391,4 +2391,64 @@ Nana Rose smiled as she watched them instinctively move closer together, already
 
 *Tomorrow, we discover how love becomes a teacher for all who witness it...*`,
   },
+  {
+    day: 39,
+    title: "The Sacred Mirror",
+    date: "2026-04-09",
+    image: "images/wedding-planning/day-39.jpg",
+    audio: "audio/wedding-planning/day-39",
+    sonnet: `**🪶 Sonnet XXXIX: The Sacred Mirror**
+
+Within each choice while planning love's sweet day,
+A mirror shows the couple you shall be—
+How stress reveals what patterns come to stay,
+What grace emerges in adversity.
+
+When vendor calls bring tension to your door,
+Do harsh words fly or gentle questions rise?
+When families press for traditions you abhor,
+Do boundaries bloom or does your union cry?
+
+The way you handle each small wedding test
+Becomes the rhythm of your married years—
+If patience triumphs over being stressed,
+That strength will carry through both joy and tears.
+
+*Your wedding planning mirrors marriage true:*
+*The couple forming now is future you.*`,
+    standard: `💍 Day 39: **The Sacred Mirror**
+
+🧱 **The Concept**
+Your wedding serves as a mirror, reflecting not just who you are now, but who you're choosing to become together.
+
+❓ **Why It Matters**
+Every choice you make—from how you handle vendor conflicts to how you support each other under pressure—reveals the patterns that will shape your marriage. Your wedding isn't just celebrating your love; it's actively forming it through each decision and interaction.
+
+⚙️ **How It Works**
+When you choose patience over perfection during a menu tasting, you're practicing the grace you'll need during future disagreements. When you prioritize your partner's comfort over impressing others, you're establishing the protective loyalty your marriage will require. When you handle family pressure with united boundaries, you're rehearsing the teamwork that will carry you through decades. When you choose gratitude over complaints about small disappointments, you're cultivating the resilience that transforms ordinary moments into extraordinary ones. Your wedding planning becomes a laboratory for discovering and strengthening the relationship dynamics that will either sustain or strain your marriage.
+
+🎯 **Wedding Wisdom**
+The couple you're becoming while planning your wedding is the couple you'll be while living your marriage.
+
+❓ **Tomorrow's Question** — If you could observe your wedding planning process as a neutral third party and use it to predict exactly what your marriage will look like in five years, what patterns would you see that excite you, and what patterns would concern you enough to change them before it's too late?`,
+    parable: `Dove stood before the antique mirror in Nana Rose's attic office, adjusting her sample veil for the hundredth time. "I keep seeing different versions of myself," she murmured. "Sometimes I look like the bride I dreamed of being, sometimes like a stranger wearing a costume."
+
+Nana Rose approached, her weathered hands gentle on Dove's shoulders. "Child, that mirror shows truth, but not the kind you think. Look closer—not at the dress or the veil, but at what's happening behind your eyes."
+
+Elm appeared in the doorway, having just finished a tense phone call with the caterer. "They're threatening to cancel unless we pay the full balance today, but we agreed on payment at delivery," he said, his voice tight with frustration.
+
+Dove spun around, wedding stress flaring. "How can they just—" But she caught sight of herself in the mirror mid-sentence, saw the harsh lines forming around her mouth, the way her shoulders had risen like armor. She paused, breathing deeply. "What do you need from me right now?" she asked Elm instead.
+
+Elm's entire posture softened. "Just... to know we're handling this together."
+
+Nana Rose smiled at their reflection—two people choosing partnership over panic. "There," she said quietly. "Now you see the real magic of this mirror. Every challenge you face while planning becomes a rehearsal for your marriage. The way you just chose curiosity over criticism, support over stress—that's the couple you're becoming. Your wedding isn't just reflecting who you are; it's forging who you'll be."
+
+Dove reached for Elm's hand, watching their intertwined fingers in the glass. "So every argument with vendors, every family drama, every budget crisis—"
+
+"Is practice," Elm finished. "Practice for loving each other through real life."
+
+**Moral:** The patterns you establish while planning your wedding become the blueprint for your marriage—choose them wisely.
+
+*Tomorrow, we explore what it means to consciously design the relationship dynamics that will carry you forward...*`,
+  },
 ];

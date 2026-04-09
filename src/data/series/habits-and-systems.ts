@@ -2483,4 +2483,60 @@ Moral: Purpose is not a perfect plan but a living current that finds its way by 
 
 Tomorrow: When the current changes course, how do we tell if we're following the river or abandoning it?`,
   },
+  {
+    day: 42,
+    title: "The Loyalty Test",
+    date: "2026-04-09",
+    image: "images/habits-and-systems/day-42.jpg",
+    audio: "audio/habits-and-systems/day-42",
+    sonnet: `**🪶 Sonnet XLII: The Loyalty Test**
+
+When purpose calls for change, we often flee,
+Mistaking growth for betrayal of our way.
+We cling to methods that once set us free,
+Now chains that keep our deeper truth at bay.
+
+The loyal heart knows when to break apart
+The comfortable patterns of the past,
+To serve the mission beating in its heart
+With courage that will make the changes last.
+
+Not every shift deserves the name of growth—
+Some changes are but restless flight from truth.
+The test lies in what sacred inner oath
+Survives the death of comfort and of youth.
+
+*For loyalty's highest form is to betray*
+*All lesser loves that lead our souls astray.*`,
+    standard: `🧘 Day 42: **The Loyalty Test**
+
+Healthy growth expands our purpose by deepening our commitment to its essential truth while changing only the methods of expression. Restless abandonment, by contrast, discards the purpose itself whenever its demands become uncomfortable or inconvenient. The distinction lies not in what we change, but in what we protect.
+
+🧱 **The Concept**
+True loyalty to our purpose means being willing to betray our current methods, comfort zones, and even cherished identities when they no longer serve that purpose's highest expression.
+
+❓ **Why It Matters**
+Most people mistake loyalty to their habits, routines, or self-image for loyalty to their purpose. This confusion keeps them trapped in outdated patterns that actually betray what they claim to serve. Real purpose-driven evolution requires distinguishing between what must be preserved and what must be sacrificed.
+
+⚙️ **How It Works**
+The loyalty test asks: "Does this change serve my deepest purpose or does it abandon it?" A writer might abandon daily journaling (method) to write a novel (deeper expression of the writing purpose). But abandoning all writing because it's "too hard" betrays the purpose entirely. Similarly, an entrepreneur might pivot business models while remaining loyal to serving customers, but chasing trends without regard for impact abandons their core mission. The key is identifying the irreducible essence that must be honored even as everything else transforms. Purpose-loyal change feels like coming home to yourself; purpose-abandoning change feels like running away from responsibility.
+
+🎯 **Systems Wisdom**
+The strongest foundations are built not from rigid materials, but from unwavering commitment to what truly matters.
+
+❓ **Tomorrow's Question** — If our deepest loyalty must be to purpose rather than method, what happens when we discover that our most cherished identity—the very story we tell about who we are—has become the biggest obstacle to fulfilling that purpose?`,
+    parable: `Rook stood before Cairn's workshop, watching the old stone-carver's steady hands shape another figure from granite. "Forty years of the same thing," Rook said with familiar restlessness. "Don't you ever want to try something different? Paint? Music? Poetry?"
+
+Cairn paused, setting down his chisel. "Come," he said, leading Rook to a gallery behind the workshop. The walls were lined with hundreds of stone figures—each unique, each masterful, yet unmistakably from the same hands. "Warriors, lovers, children, elders," Cairn said quietly. "Animals, gods, ordinary people living extraordinary moments. I have never carved the same thing twice."
+
+Rook stared, speechless. "But I thought—"
+
+"You thought I was trapped by routine," Cairn smiled. "Instead, I freed myself through commitment. Each day I show up to serve the stone, to reveal what wants to emerge. Some years I carved faster, some slower. Some seasons I worked in marble, others in granite. I've changed my tools, my techniques, even my understanding of beauty itself. But I never abandoned my purpose: to give form to what has no form."
+
+He picked up a new piece of stone. "You mistake loyalty for rigidity, young wanderer. True loyalty means betraying everything that no longer serves what you're called to protect. I have been ruthlessly disloyal to my comfort, my old methods, my reputation, even my idea of what a stone-carver should be. But I have never, not once, betrayed the calling itself."
+
+Rook watched the first chip fall from the new stone. Tomorrow, he would ask Cairn about the price of such unwavering loyalty—and whether some stories about ourselves must die so that our truest purpose can finally live.
+
+**Moral**: The deepest loyalty requires the courage to betray everything except what matters most.`,
+  },
 ];

@@ -1979,4 +1979,55 @@ Finn picked up both devices, feeling the difference not just in weight but in wi
 
 *Tomorrow, Orna will show Finn how even the most helpful guidance can become its own kind of cage...*`,
   },
+  {
+    day: 35,
+    title: "The Intention Compass",
+    date: "2026-04-09",
+    image: "images/3d-printing/day-35.jpg",
+    audio: "audio/3d-printing/day-35",
+    sonnet: `**🪶 Sonnet XXXV: The Intention Compass**
+
+When golden paths appear before our feet,
+And every step seems guided by wise light,
+How shall we know if we still truly meet
+Our own deep purpose, or just follow sight?
+The compass spins not toward magnetic north,
+But toward the center of authentic choice—
+That place where understanding brings us forth
+To speak with our own unborrowèd voice.
+Each offered aid becomes a question posed:
+Does this suggestion teach me how to see,
+Or does it leave my vision foreclosed
+To paths that others chose on behalf of me?
+*The wisest tools make makers of us all,*
+*Not followers who've forgotten how to fall.*`,
+    standard: `🖨️ Day 35: The Intention Compass
+
+When guidance becomes so compelling that we prefer it to our original intentions, the key lies in examining whether that preference emerges from genuine understanding or from abdication of responsibility. True helpful influence strengthens our capacity to make better decisions, while manipulation—however benevolent—weakens our decision-making muscles by making choices for us.
+
+🧱 **The Concept**: Intentional making requires developing an internal compass that can distinguish between authentic inspiration and borrowed direction.
+
+❓ **Why It Matters**: As our tools become more intelligent and persuasive, our ability to maintain authentic agency becomes both more difficult and more essential. Without this compass, we risk becoming skilled executors of decisions we never truly made.
+
+⚙️ **How It Works**: An intention compass operates through regular reflection on the source and quality of our motivations. When designing a complex object, pause frequently to ask whether your next decision comes from understanding the problem more deeply or from following the path of least resistance. Notice the difference between feeling inspired by a suggestion (which energizes your own creativity) and feeling relieved by one (which replaces your creative effort). Practice making deliberate choices even when you have access to better automated options, not to reject assistance but to maintain the capacity for independent judgment. A maker with a strong intention compass can work with the most sophisticated AI without losing their creative voice—they use intelligence as a mirror for their own understanding rather than a replacement for it.
+
+🎯 **Maker Wisdom**: The most advanced tools should make you a better decision-maker, not a better decision-follower.
+
+❓ **Tomorrow's Question** — If maintaining authentic agency requires the ability to make independent choices even when better options are available, what happens when independent choice-making itself becomes a form of inefficiency that systems are designed to optimize away — and how do we preserve the 'right to be wrong' when being wrong becomes increasingly costly to both ourselves and others?`,
+    parable: `In Orna's workshop, Finn discovered a printer unlike any he had seen before. Its interface seemed to anticipate his every need, suggesting improvements before he even recognized problems existed. "It's learning from everything I've ever made," Orna explained, watching Finn work with obvious delight. "And everything every maker in our network has ever attempted."
+
+Finn marveled as the system refined his rough sketches into elegant forms, each suggestion better than his original idea. Hours passed like minutes as he created piece after piece, each more sophisticated than anything he had made before. Yet as evening approached, a strange unease settled over him.
+
+"Orna," he said finally, "these designs are beautiful, but I'm not sure they're mine anymore. I started wanting to make a simple tool for my workshop, and somehow I've created this complex mechanism I don't fully understand."
+
+Orna smiled knowingly. "Show me your intention compass," she said, tapping her temple. "Before each suggestion, did you pause to understand why it was better? Or did you simply accept it because it was easier?"
+
+Finn realized he had been following a path of golden breadcrumbs without noticing he had stopped choosing the direction. "How do you work with such powerful assistance without losing your way?" he asked.
+
+"Every suggestion is a question in disguise," Orna replied. "The system asks: 'Would this be better?' But I always ask myself: 'Do I understand why?' When you understand the why, you remain the author of your choices, even when you accept help in executing them."
+
+**Moral**: True mastery lies not in rejecting assistance, but in maintaining the wisdom to distinguish between tools that amplify your understanding and tools that replace it.
+
+**Tomorrow**: Finn begins to wonder what happens when the very capacity to ask "why" becomes something that systems are designed to streamline...`,
+  },
 ];
