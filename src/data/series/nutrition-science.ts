@@ -2780,4 +2780,73 @@ The fires settled into their unique rhythms as morning gave way to day.
 
 **Tomorrow:** Lila discovers what happens when even her intuitive signals become clouded, and Maren reveals the delicate art of distinguishing between body wisdom and metabolic confusion.`,
   },
+  {
+    day: 46,
+    title: "The Signal Calibration",
+    date: "2026-04-11",
+    image: "images/nutrition-science/day-46.jpg",
+    audio: "audio/nutrition-science/day-46",
+    sonnet: `**🪶 Sonnet XLVI: The Signal Calibration**
+
+Three voices speak within the body's hall:
+One whispers truth with steady, gentle tone,
+Another wavers, rises, seems to fall
+With every wind that through the heart has blown.
+The third voice shouts with urgent, desperate cry,
+Demands attention, brooks no pause or thought,
+Yet following its call will oft belie
+The very wellness that we think we've sought.
+Time teaches us to hear the quiet one
+That speaks of balance, rest, and nourishment,
+While static voices fade like setting sun
+When patience grants us true discernment.
+*The wise learn not to trust the loudest call,*
+*But listen for the voice that serves us all.*`,
+    standard: `🍎 Day 46: The Signal Calibration
+
+When intuitive signals become unreliable, the key is recognizing that **true body wisdom** feels calm, consistent, and sustainable over time, while **metabolic static** tends to be urgent, fluctuating, and driven by stress or inflammation. The distinction lies not in the intensity of the signal but in its quality—authentic body wisdom whispers consistently, while dysregulated signals often shout with desperation.
+
+🧱 The Concept
+**Signal calibration** is your body's ability to distinguish between authentic metabolic communication and interference from inflammation, stress hormones, or dysregulated systems.
+
+❓ Why It Matters
+When your metabolic signals become scrambled by chronic stress, inflammation, or hormonal disruption, following your "intuition" can actually lead you away from health rather than toward it. Learning to calibrate these signals—to recognize when your body's communication system has static on the line—becomes essential for making decisions that truly serve your metabolic health.
+
+⚙️ How It Works
+Authentic metabolic signals have specific characteristics: they're **consistent over time**, feel **sustainable rather than extreme**, and create a sense of **calm energy** rather than urgency. For example, true hunger builds gradually and feels satisfied by real food, while dysregulated hunger signals might demand specific processed foods, fluctuate wildly, or feel urgent and panicky. **Inflammatory static** often masquerades as cravings that feel compelling but leave you feeling worse after giving in. **Stress-driven signals** typically demand immediate action and feel anxious or desperate. The calibration process involves **observing patterns** over weeks rather than responding to moment-to-moment impulses, and **testing signals** by following them and noting whether the outcome aligns with long-term wellbeing.
+
+🎯 Science Wisdom
+A well-calibrated metabolic communication system becomes your most reliable guide, but first you must clear the static that makes dysregulated signals sound like wisdom.
+
+❓ Tomorrow's Question — *If clearing metabolic static requires time and patience to rebuild trust in your body's signals, what happens when modern life demands immediate decisions about food and lifestyle choices before your calibration process is complete—and why might learning to make good decisions despite poor signals be a crucial transitional skill that most wellness approaches completely overlook?*`,
+    parable: `Lila found Maren standing before her three hearths, each flame dancing differently—one steady and blue, one flickering orange, and one sputtering with dark smoke.
+
+"Master," Lila said, "yesterday you taught me that wisdom emerges when knowledge serves intuition. But today I feel confused. My body tells me different things each hour. How do I know which signals to trust?"
+
+Maren gestured to the hearths. "Tell me, which fire speaks truth?"
+
+Lila studied them carefully. "The steady blue flame burns clean and consistent. The orange one wavers with each wind. The smoking one... it seems to cry out for attention, but the smoke makes my eyes water."
+
+"Just so," Maren nodded. "Your body has three types of voices, like these flames. The first is your **true metabolic wisdom**—steady, calm, consistent over days and weeks. It whispers the same truths whether you're stressed or peaceful. This voice says 'I'm gently hungry for nourishment' or 'I need rest now.'"
+
+She pointed to the flickering flame. "The second voice wavers with circumstances—your mood, your environment, what you saw others eating. This voice might say 'I want that' or 'I should do this' but changes with the wind of emotion."
+
+Her finger moved to the smoking hearth. "The third voice shouts loudest but serves you least. It's the static of inflammation, stress hormones, and dysregulated systems. This voice creates **urgent cravings**, panic about food, or desperate urges that feel compelling but leave you feeling worse."
+
+Lila frowned. "But how do I tell them apart when they're all happening at once?"
+
+Maren smiled and handed her a small bellows. "**Time and observation**. True wisdom signals feel the same whether you follow them immediately or wait an hour. Stress signals demand instant action. Emotional signals shift when your mood changes."
+
+She demonstrated, gently fanning the steady flame, which barely changed, then the flickering one, which danced wildly, then the smoking one, which erupted in chaos.
+
+"Watch your signals over days, not moments," Maren continued. "Notice which ones feel **sustainable**, which create **calm energy**, and which leave you feeling more balanced afterward. The body's true voice doesn't shout—it doesn't need to."
+
+Lila practiced with the bellows, learning to recognize how each flame responded to disturbance. "So calibration means learning to hear the quiet voice beneath the noise?"
+
+"Precisely. And sometimes," Maren said, banking the smoking fire until it settled, "you must first quiet the static before you can hear the wisdom."
+
+**Moral**: True body wisdom speaks with consistency and calm, while metabolic static shouts with urgency and leaves confusion in its wake.
+
+**Tomorrow**: Lila will learn what to do when life demands decisions before the static clears...`,
+  },
 ];

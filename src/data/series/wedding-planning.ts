@@ -2525,4 +2525,66 @@ Dove squeezed Elm's hand. "And when I get overwhelmed by all the details?"
 
 **Tomorrow:** Dove and Elm discover that their greatest wedding planning challenge might also be their greatest opportunity to transform their love into something sacred.`,
   },
+  {
+    day: 41,
+    title: "The Sacred Witness",
+    date: "2026-04-11",
+    image: "images/wedding-planning/day-41.jpg",
+    audio: "audio/wedding-planning/day-41",
+    sonnet: `**🪶 Sonnet XLI: The Sacred Witness**
+
+No longer shall we bend to comfort's call,
+Nor shape our love to fit each guest's desire,
+But stand as witness, true and natural,
+Let authenticity be our sacred fire.
+
+For when we cease to manage others' ease
+And dare to show our hearts in rawness real,
+We offer more than shallow courtesies—
+We give the gift of truth that souls can feel.
+
+The tears that fall, the laughter unrestrained,
+The moments when our humanness shows through,
+These imperfections, beautifully unstained,
+Teach more of love than perfection ever knew.
+
+*When comfort yields to truth's transforming light,*
+*Our wedding becomes witness, not just sight.*`,
+    standard: `💍 Day 41: The Sacred Witness
+
+To crystallize your relationship's most loving, truthful, and courageous version, you'd need to release the exhausting burden of managing everyone's emotional comfort and the need to make choices based on what others expect rather than what feels sacred to you. This reveals that making everyone happy creates a performance of love, while making your love holy creates an invitation for others to witness something transformative—which serves everyone at a much deeper level.
+
+🧱 **The Concept**
+Your wedding is not a customer service experience for your guests—it's a sacred witnessing where you invite others to behold the truth of your love.
+
+❓ **Why It Matters**
+When you focus on managing comfort rather than modeling authenticity, you rob your guests of the profound gift of witnessing real love in action. True generosity lies not in making everyone comfortable, but in being so genuine that you give others permission to be genuine too.
+
+⚙️ **How It Works**
+Instead of asking "What will make Aunt Susan comfortable?" ask "What will allow Aunt Susan to witness our love most clearly?" Rather than wondering "Will this tradition offend anyone?" wonder "Does this tradition honor who we truly are?" When planning your ceremony, choose readings, music, and rituals that reflect your authentic spiritual journey, even if some guests don't understand them. Create space for real emotion—tears, laughter, silence—rather than rushing through moments to avoid awkwardness. Design your reception to facilitate genuine connection rather than just entertainment.
+
+🎯 **Wedding Wisdom**
+When you stop performing love for others' comfort and start embodying love for others' transformation, your wedding becomes a gift that keeps giving.
+
+❓ **Tomorrow's Question** — If you discovered that your wedding guests would learn more about marriage from watching how you recover from mistakes than from witnessing your perfect moments, what kind of grace would you want to demonstrate when things don't go as planned, and what does that reveal about the difference between projecting perfection and modeling resilience?`,
+    parable: `Dove stood in Nana Rose's garden, wringing her hands as she watched Elm quietly tend to the roses. "I've been thinking about what you said yesterday," she began, her voice trembling. "About crystallizing the best version of our love. But Nana Rose, what if being authentic disappoints people? What if our real love isn't... enough for them?"
+
+Nana Rose set down her pruning shears and turned to face the young woman. "Child, let me tell you about the Hartwell wedding, thirty years ago. Margaret Hartwell spent months orchestrating every detail to ensure no one would be uncomfortable. She served only foods that pleased every palate, chose only music that offended no ear, included only traditions that satisfied every family member. Do you know what I remember most about that day?"
+
+Dove shook her head.
+
+"Nothing," Nana Rose said softly. "It was a perfectly pleasant event that left no impression whatsoever. But three weeks later, I attended the Moreau wedding. They served their grandmother's spicy jambalaya, played their favorite jazz standards, and included a Creole blessing that made half the guests uncomfortable. When the bride began crying during her vows—real, messy tears—the entire congregation began weeping with her. That wedding changed people."
+
+Elm looked up from the roses. "So you're saying we should make people uncomfortable?"
+
+"No," Nana Rose smiled, "I'm saying you should make people holy. When you stop managing their comfort and start sharing your truth, you give them the gift of witnessing something sacred. That's what transforms a gathering into a congregation, an event into an encounter."
+
+Dove felt something shift in her chest, like a knot loosening. "So our wedding isn't supposed to be customer service?"
+
+"Your wedding," Nana Rose said, gathering the young couple's hands in her weathered ones, "is supposed to be testimony. And testimony, my dears, has never been comfortable—but it's always been holy."
+
+**Moral:** *True generosity lies not in making others comfortable, but in being so authentic that you give them permission to be transformed.*
+
+*Tomorrow, we discover what happens when imperfection becomes the greatest gift you can offer your guests...*`,
+  },
 ];

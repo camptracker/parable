@@ -2905,4 +2905,66 @@ Ren paused in his accounting. "He's protecting me from becoming greedy by... mak
 
 **Tomorrow:** What happens when guardians must choose between protecting you and teaching you?`,
   },
+  {
+    day: 46,
+    title: "The Virtue Teacher",
+    date: "2026-04-11",
+    image: "images/negotiation/day-46.jpg",
+    audio: "audio/negotiation/day-46",
+    sonnet: `**🪶 Sonnet XLVI: The Virtue Teacher**
+
+When wisdom's guardians hold their secrets close,
+And success seems to war with what is right,
+The clever seeker makes their teacher boast
+Of paths that lead to both fortune and light.
+
+"Show me," they say, "how you've managed to grow
+Yet kept your conscience clean through every deal.
+For I have watched the others lose and throw
+Away their souls for gains that weren't quite real."
+
+The teacher swells with pride at being named
+The one who solved what others think can't be,
+And soon their student's triumph is proclaimed
+As proof their moral system holds the key.
+
+*For when you make them architect of right,*
+*They'll build your success to prove their insight.*`,
+    standard: `🤝 Day 46: The Virtue Teacher
+
+When you position someone as your virtue teacher — the only one who can show you how to succeed while staying good — you've given them the ultimate consultative power. They can no longer simply approve or disapprove your methods; they must actively design your path to ethical success. This transforms them from gatekeeper into architect, making them deeply invested in proving their own moral framework works in practice.
+
+🧱 **The Concept**
+The Virtue Teacher dynamic transforms moral guardians into active collaborators by making them responsible for designing your ethical success strategy.
+
+❓ **Why It Matters**
+Most people see ethics and success as opposing forces, creating internal conflict when asked to help with both. By positioning someone as the teacher who can resolve this paradox, you make them intellectually and emotionally invested in proving it's possible. They can't simply warn you away from success or away from virtue — they must show you the path that achieves both.
+
+⚙️ **How It Works**
+The key is framing the request as seeking their unique wisdom about navigating moral complexity, not asking for permission. "I know you've managed to build something significant while keeping your integrity intact — how did you do it?" makes them the expert on ethical success. They begin designing your strategy to prove their own philosophy works. When they give you specific guidance, they become invested in seeing you succeed using their methods. If you fail, their wisdom failed. If you succeed, they were right all along.
+
+🎯 **Negotiation Wisdom**
+People will go to extraordinary lengths to prove their own moral framework actually works in the real world.
+
+❓ Tomorrow's Question — If making someone your virtue teacher works by challenging them to prove that ethical success is possible, what happens when you make them feel like their reputation for wisdom depends not just on your success, but on their ability to predict and prevent the specific moral compromises you'll be tempted to make along the way?`,
+    parable: `Ren found Vasska by the harbor, watching ships load cargo in the pre-dawn darkness. "Master," the young merchant said, "I've been thinking about what you said yesterday — about staying good while getting ahead."
+
+Vasska's single eye glinted in the lamplight. "Have you now?"
+
+"The thing is," Ren continued carefully, "I keep hearing about traders who started honest and ended up... well, like most of them. But you're different. You've built something real without losing yourself. How?"
+
+The old trader was quiet for a long moment, watching a particularly heavy crate being loaded. "You think I haven't been tempted?"
+
+"I think you've figured out something the others haven't. A way to win that doesn't require becoming someone you'd despise." Ren stepped closer. "I need to learn that. Not just how to avoid the obvious traps, but how to recognize the subtle ones before I'm already caught."
+
+Vasska turned, studying the young man's face. "Most people think virtue and success are enemies. They're not. But the path between them is narrow, and changes with each step."
+
+"Then teach me to walk it," Ren said simply. "Show me how someone builds an empire without selling their soul."
+
+For the first time in their conversations, Vasska smiled — not his usual knowing smirk, but something warmer. "Alright," he said. "But you'll need to understand that staying good while getting ahead isn't about following rules. It's about seeing further than your competition. Tomorrow, I'll show you what I mean."
+
+**Moral**: When you ask someone to teach you their secret of ethical success, you make them the architect of your integrity — and they cannot bear to see their philosophy fail.
+
+**Tomorrow**: The master trader reveals why some forms of success require you to see consequences others are blind to.`,
+  },
 ];

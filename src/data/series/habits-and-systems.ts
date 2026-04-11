@@ -2601,4 +2601,61 @@ Rook stared at his soft hands, then at Cairn's scarred ones. "But what if I lose
 
 **Tomorrow:** Rook confronts the terror of existing without a familiar story about who he is.`,
   },
+  {
+    day: 44,
+    title: "The Resurrection Schedule",
+    date: "2026-04-11",
+    image: "images/habits-and-systems/day-44.jpg",
+    audio: "audio/habits-and-systems/day-44",
+    sonnet: `**🪶 Sonnet XLIV: The Resurrection Schedule**
+
+When identity dies, what rises from the grave?
+Not wholesale death, but curated rebirth—
+The seeker's fire we choose forever save,
+While burying the patterns lacking worth.
+
+The restless one who scattered dreams like seeds
+Holds wisdom wrapped in wandering's disguise;
+His curiosity fulfills deeper needs
+Than stillness born from fear that never tries.
+
+So sort the bones of who you used to be:
+Preserve the hunger, bury the despair,
+Resurrect the learner, let the quitter flee,
+And crown the parts that lifted you with care.
+
+*For death completes what living only starts—*
+*We rise renewed by choosing which old parts.*`,
+    standard: `🧘 Day 44: The Resurrection Schedule
+
+Consciousness can indeed die and resurrect in degrees, but unlike physical death, psychological transformation allows for partial resurrections—we can let pieces of our old identity die while keeping the essential core alive. The key is understanding that gradual identity death creates less resistance because our survival instincts don't recognize the threat until the transformation is nearly complete, while sudden identity death triggers maximum psychological defense mechanisms that often abort the process entirely.
+
+**The Concept**
+True transformation happens through strategic identity resurrection—deliberately choosing which aspects of our old self to revive and which to leave buried.
+
+**Why It Matters**
+Most people get trapped in the liminal space between death and rebirth, endlessly killing their old identity without ever fully committing to a new one. This creates a psychological purgatory where we're neither who we were nor who we're becoming, leading to chronic instability and decision paralysis.
+
+**How It Works**
+After any significant identity shift, we face the resurrection choice: which habits, beliefs, and behaviors from our previous self actually serve our new direction? The master practitioner doesn't try to rebuild everything from scratch—they selectively resurrect the valuable elements while leaving the limiting patterns buried. For example, someone transitioning from corporate executive to artist might resurrect their discipline and strategic thinking while leaving behind their need for constant external validation. The key is conscious curation rather than wholesale acceptance or rejection.
+
+**Systems Wisdom**
+Identity resurrection requires the wisdom to distinguish between what served your growth and what served your limitations.
+
+**Tomorrow's Question**
+If we can consciously choose which aspects of our former identity to resurrect, what happens when we discover that some of our most painful experiences were actually essential to our growth—do we resurrect the wound or the wisdom, and is it possible to have one without the other?`,
+    parable: `Cairn found Rook sitting motionless beside the river, surrounded by scattered tools and half-finished projects—pottery shards, abandoned sketches, unstrung instruments. "I killed him," Rook whispered. "The restless one who started everything. But now I don't know who I am."
+
+The stone-carver examined the debris. "Death without resurrection is not transformation—it's erasure. Show me what you've learned from all these beginnings."
+
+Rook's hands trembled as he picked up a clay fragment. "This taught me about patience. This one about accepting imperfection." Slowly, he gathered pieces that held wisdom, leaving behind those that held only compulsion.
+
+"The restless one served you," Cairn observed. "His curiosity opened doors. His energy carried you forward. But his inability to commit kept you wandering. Resurrect the seeker, leave buried the abandoner."
+
+Rook began arranging the salvaged pieces—not to rebuild what was, but to birth something new. The curiosity remained, but now it was guided. The energy flowed, but now it had direction.
+
+"Resurrection is curation," Cairn smiled, returning to his daily carving. "You don't rebuild the whole house—you save the foundation and let the rest become compost for what grows next."
+
+Moral: True transformation preserves wisdom while burying limitation. Tomorrow, Rook will discover that some of his greatest wounds carried his greatest gifts—but separating the lesson from the pain requires the finest surgery of the soul.`,
+  },
 ];
