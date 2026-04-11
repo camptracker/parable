@@ -2451,4 +2451,78 @@ Dove reached for Elm's hand, watching their intertwined fingers in the glass. "S
 
 *Tomorrow, we explore what it means to consciously design the relationship dynamics that will carry you forward...*`,
   },
+  {
+    day: 40,
+    title: "The Sacred Integration",
+    date: "2026-04-11",
+    image: "images/wedding-planning/day-40.jpg",
+    audio: "audio/wedding-planning/day-40",
+    sonnet: `**🪶 Sonnet XL: The Sacred Integration**
+
+Each choice we make while planning this one day
+Reveals the marriage patterns taking root—
+How we decide, how we resolve, how we weigh
+Our partnership against external suit.
+
+The way we handle pressure from our kin,
+The way we navigate financial strain,
+The way we let each other's voices in
+Or silence them to spare ourselves the pain.
+
+These wedding talks are marriage lessons dressed
+In flowers, music, venues, and champagne—
+Each conversation puts our love to test
+And teaches us to grow through joy and strain.
+
+*For wedding planning is not preparation,*
+*But marriage's first sacred conversation.*`,
+    standard: `💍 Day 40: The Sacred Integration
+
+The patterns that would excite me most would be our growing ability to handle disagreements with curiosity rather than defensiveness, and our increasing skill at making decisions from our shared values rather than external pressures. The patterns that would concern me enough to change immediately would be any tendency to prioritize others' comfort over honest communication between us, or any habit of avoiding difficult conversations by getting lost in details and logistics.
+
+🧱 **The Concept**
+Your wedding planning process is a complete preview of your marriage dynamics — every pattern of communication, decision-making, and conflict resolution you're establishing now is exactly what you're training yourselves to do for the next fifty years.
+
+❓ **Why It Matters**
+Most couples treat wedding planning as temporary stress they just need to survive, missing the profound opportunity to intentionally establish the relational patterns that will define their entire marriage. The way you handle disagreements about centerpieces is the same way you'll handle disagreements about finances, parenting, and career decisions. The habits you're forming now — whether they're healthy or destructive — are becoming the invisible foundation of your partnership.
+
+⚙️ **How It Works**
+Every wedding planning interaction is marriage practice in disguise. When you disagree about the guest list, you're practicing how you'll navigate differences in social boundaries. When you handle budget stress, you're establishing your financial communication style. When you deal with family pressure, you're setting precedents for how you'll protect your partnership from outside interference. If you consistently defer to your partner's preferences to avoid conflict, you're training yourself to disappear in your marriage. If you fight about details instead of discussing underlying values, you're practicing surface-level problem-solving that will leave deeper issues unresolved for decades.
+
+🎯 **Wedding Wisdom**
+Your wedding planning process isn't preparation for your marriage — it IS your marriage beginning. Use this time to consciously establish the patterns you want to live with forever.
+
+❓ **Tomorrow's Question** — If you could guarantee that your wedding day would crystallize and consecrate the absolute best version of your relationship (the version that emerges when you're both most loving, most truthful, and most courageous), what would you need to release about trying to please others or manage their comfort, and what does that reveal about the difference between having a wedding that makes everyone happy versus having one that makes your love holy?`,
+    parable: `Dove sat in Nana Rose's office, surrounded by fabric samples and half-finished seating charts, tears threatening to spill. "I don't understand why this is so hard," she whispered. "Elm and I fight about everything now — the flowers, the music, who to invite. We never used to fight like this."
+
+Nana Rose set down her reading glasses and regarded Dove with eyes that had witnessed countless couples in this exact moment. "Child, you think you're fighting about flowers, but you're actually fighting about how you make decisions together. You think you're stressed about the guest list, but you're actually learning whether you can disappoint others to protect each other."
+
+Elm appeared in the doorway, looking equally frazzled. "Sorry I'm late. Got caught on a call with my mother about the rehearsal dinner. Again." He slumped into the chair beside Dove, and Nana Rose noticed how they instinctively moved apart rather than together.
+
+"Tell me," Nana Rose said gently, "how did you two handle the conversation about the rehearsal dinner?"
+
+Elm and Dove exchanged glances. "We... well, I told Mom we'd think about it," Elm said.
+
+"Even though we already decided we wanted something small," Dove added, her voice tight.
+
+"And then?"
+
+"Then we came here instead of talking about it," Dove admitted.
+
+Nana Rose nodded slowly. "Do you know what I see when I watch couples plan their weddings? I see exactly how they'll handle every major decision for the next fifty years. The couple who can't agree on flowers without consulting six different people? They'll struggle with every parenting decision. The couple who fights about money for centerpieces? They'll fight about money for everything. The couple who can't say no to family pressure about the guest list? They'll never establish healthy boundaries."
+
+She leaned forward. "But here's the beautiful truth — you still have time to change the patterns. Every conversation you have about this wedding is practice for your marriage. Every disagreement is a chance to learn how to disagree well. Every decision is an opportunity to choose your partnership over everyone else's comfort."
+
+Elm reached for Dove's hand. "So when my mother calls about the rehearsal dinner..."
+
+"You practice saying, 'Dove and I will discuss it and let you know our decision,'" Nana Rose said. "And then you actually discuss it. Not what everyone else wants, but what feels true to you both."
+
+Dove squeezed Elm's hand. "And when I get overwhelmed by all the details?"
+
+"You practice asking for what you need instead of pretending you're fine," Nana Rose replied. "Your wedding planning is not something to survive — it's your first chance to be married to each other."
+
+**Moral:** The patterns you establish while planning your wedding become the foundation of your marriage — use this time consciously to build the partnership you want to live in forever.
+
+**Tomorrow:** Dove and Elm discover that their greatest wedding planning challenge might also be their greatest opportunity to transform their love into something sacred.`,
+  },
 ];
