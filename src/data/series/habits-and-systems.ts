@@ -2658,4 +2658,64 @@ Rook began arranging the salvaged pieces—not to rebuild what was, but to birth
 
 Moral: True transformation preserves wisdom while burying limitation. Tomorrow, Rook will discover that some of his greatest wounds carried his greatest gifts—but separating the lesson from the pain requires the finest surgery of the soul.`,
   },
+  {
+    day: 45,
+    title: "The Selective Resurrection",
+    date: "2026-04-12",
+    image: "images/habits-and-systems/day-45.jpg",
+    audio: "audio/habits-and-systems/day-45",
+    sonnet: `**🪶 Sonnet XLV: The Selective Resurrection**
+
+From ashes of the self that used to be,
+We choose what phoenix-parts deserve to rise—
+Not every ember needs eternity,
+Nor every lesson wears the same disguise.
+
+The wound that taught us how to recognize
+Deception's subtle art need not remain
+A bleeding aperture behind our eyes;
+We keep the sight but lose the sourcing pain.
+
+Like archaeologists of inner space,
+We excavate the treasures from the wreck,
+Leaving behind what time should not retrace—
+The broken patterns, pride's defensive deck.
+
+*For wisdom's gold lies buried in the grave,*
+*But only fools resurrect what wounds once gave.*`,
+    standard: `🧘 Day 45: The Selective Resurrection
+
+We resurrect both wound and wisdom simultaneously, but wisdom emerges only when we stop trying to resurrect the wound and instead let it compost into understanding. The transformation happens not by choosing one over the other, but by changing our relationship to the original pain—honoring its teaching without perpetuating its patterns.
+
+🧱 **The Concept**
+Selective resurrection means consciously choosing which parts of our former selves to bring forward and which to leave buried.
+
+❓ **Why It Matters**
+Most people resurrect their entire old identity wholesale—wounds, limiting beliefs, and outdated patterns included—then wonder why transformation feels like moving backward. True growth requires the discipline to salvage wisdom while abandoning the psychological infrastructure that created our original problems.
+
+⚙️ **How It Works**
+When rebuilding after identity death, we face a choice at every crossroads: do we rebuild the same neural pathways that led to our breakdown, or do we consciously construct new ones? A former perfectionist might resurrect their attention to detail while leaving behind their self-punishment patterns. Someone recovering from people-pleasing might keep their empathy while abandoning their inability to say no. The key is recognizing that wisdom and wounds often share the same origin story but don't require the same psychological machinery to operate. We can keep the insights about human nature that came from being manipulated without keeping the hypervigilance. We can maintain the resilience that came from hardship without maintaining the defensive walls.
+
+🎯 **Systems Wisdom**
+Resurrection without discernment just rebuilds the same prison with nicer furniture.
+
+❓ **Tomorrow's Question** — If we can selectively resurrect parts of our former selves while leaving other parts permanently buried, what happens when the wisdom we've gained requires us to betray the very values and beliefs that we've used to define ourselves as "good people"?`,
+    parable: `Rook stood before the ruins of his latest abandoned project—a half-built observatory meant to track celestial patterns. "I'll start over," he declared to Cairn, gathering salvageable materials. "This time I'll resurrect the whole vision, bigger and better."
+
+Cairn continued his daily carving, each chisel strike deliberate and clean. "What will you resurrect, Rook? The vision that inspired you, or the restlessness that destroyed it?"
+
+"Both were part of who I was," Rook protested, arms full of broken telescopes and scattered star charts.
+
+"Were they?" Cairn paused, examining his stone. "When I began carving forty years ago, I was angry—at the stone's resistance, at my clumsy hands, at every imperfect cut. That anger taught me patience, but I didn't need to keep the anger to keep the lesson."
+
+Rook set down the salvaged materials. "But how do you separate them? The anger and the patience came from the same place."
+
+"Watch." Cairn selected a single tool from Rook's pile—a small, precise chisel. "This blade learned sharpness from cutting through mistakes. The sharpness remains; the mistakes are gone. I resurrect the precision, not the fumbling that taught it."
+
+"So you choose what returns from the grave," Rook murmured, suddenly seeing his ruins differently. Perhaps he didn't need to rebuild the observatory's grand scope—only its essential wonder at the stars.
+
+**Moral**: True resurrection is curation, not restoration—we can inherit wisdom without inheriting wounds.
+
+**Tomorrow**: When hard-won wisdom demands we abandon cherished principles, who do we become?`,
+  },
 ];

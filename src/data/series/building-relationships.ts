@@ -2916,4 +2916,64 @@ Elder Rynn smiled as the mist swirled around them. "Tomorrow, you'll discover wh
 
 **Moral:** *The hunger for authentic recognition can only be satisfied when we offer our unguarded truth and trust that love is strong enough to embrace what it finds.*`,
   },
+  {
+    day: 47,
+    title: "The Courage to Be Known — When True Intimacy Requires Everything",
+    date: "2026-04-12",
+    image: "images/building-relationships/day-47.jpg",
+    audio: "audio/building-relationships/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Courage to Be Known — When True Intimacy Requires Everything**
+
+Behind the masks we wear to earn our place,
+Lie trembling hearts that long to be seen whole,
+Yet fear the risk of showing our true face
+Might cost the love that soothes our aching soul.
+
+We craft ourselves like portraits, framed just right,
+Displaying only angles we approve,
+While hiding in the shadows, out of sight,
+The broken parts we're certain none could love.
+
+But intimacy asks a different price—
+Not perfection polished bright and clean,
+But courage to roll love's sacred dice
+And trust that flawed can still mean treasured, seen.
+
+*For those who love our darkness with our light*
+*Transform our fear of truth to pure delight.*`,
+    standard: `💕 Day 47: The Courage to Be Known — When True Intimacy Requires Everything
+
+Authentic trust feels more terrifying than abandonment because being left by someone who doesn't really know us preserves the fantasy that we're lovable—while being rejected by someone who sees our full truth shatters that protective illusion. When we shift from performing acceptability to revealing authenticity, we discover that real intimacy isn't about being perfect enough to keep someone; it's about being real enough to be truly chosen.
+
+🧱 **The Concept**
+True intimacy requires the courage to be fully known rather than strategically loved.
+
+❓ **Why It Matters**
+Most relationships operate on a foundation of mutual performance—two people working to maintain attractive versions of themselves rather than revealing their authentic humanity. This creates a beautiful but hollow connection, where love flows to carefully crafted personas rather than actual souls. The deepest loneliness isn't being alone; it's being loved for someone you're not.
+
+⚙️ **How It Works**
+Being truly known means sharing not just your strengths but your struggles—not just your victories but your vulnerabilities. It's revealing the thoughts you're ashamed of, the fears that drive your behaviors, the parts of yourself you've learned to hide. When your partner sees you cry ugly tears, witnesses your irrational anxieties, or observes you being petty and human, and still chooses to love you, something miraculous happens: you begin to believe you're actually lovable. The courage to be known transforms from terrifying exposure into sacred intimacy. This doesn't mean oversharing or trauma-dumping; it means gradually lowering the walls that keep your partner at arm's length from your full humanity.
+
+🎯 **Relationship Wisdom**
+The person who loves your authentic self imperfectly will always create deeper intimacy than the person who loves your perfect mask flawlessly.
+
+❓ **Tomorrow's Question** — If you discovered that your relationship has been unconsciously designed to keep you both just comfortable enough to stay but not vulnerable enough to truly transform, what would you realize about the ways you've been choosing safety over growth, and what would happen if you both agreed to love each other into becoming who you're actually meant to be instead of who you've always been?`,
+    parable: `After many moons of traveling together, Ash and Lume approached Elder Rynn's dwelling as the season turned toward winter. The keeper of the Bridge of Vows sat by her fire, weaving threads of silver and gold.
+
+"Elder," Ash began hesitantly, "we have shared the road for so long, yet sometimes I wonder if Lume truly knows the traveler walking beside them."
+
+Lume nodded, eyes downcast. "I fear I have shown only my sunlit face, hiding the shadows that fall across my heart."
+
+Elder Rynn held up her weaving—a tapestry of stunning complexity, where dark threads wove seamlessly with light ones, creating patterns of breathtaking beauty. "See how the shadows make the light more precious? Yet many weavers use only golden threads, creating cloth that shimmers but has no depth."
+
+She gestured to a corner where two half-finished tapestries lay abandoned. "These represent two souls who shared their road but never their true colors. Beautiful from a distance, but touch them—they tear at the slightest pressure."
+
+"To be truly known," the Elder continued, "you must offer not just your finest threads but your frayed edges, your knots, your places where the weaving went askew. When another chooses to treasure the whole tapestry—imperfections and all—that is when love becomes unbreakable."
+
+Ash and Lume exchanged glances, seeing each other as if for the first time.
+
+**Moral:** The courage to be fully known creates intimacy that no performance can match.
+
+**Tomorrow:** The travelers will discover why some partnerships seem designed for comfort rather than transformation.`,
+  },
 ];

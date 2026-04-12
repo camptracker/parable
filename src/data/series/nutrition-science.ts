@@ -2849,4 +2849,60 @@ Lila practiced with the bellows, learning to recognize how each flame responded 
 
 **Tomorrow**: Lila will learn what to do when life demands decisions before the static clears...`,
   },
+  {
+    day: 47,
+    title: "The Navigation Protocol",
+    date: "2026-04-12",
+    image: "images/nutrition-science/day-47.jpg",
+    audio: "audio/nutrition-science/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Navigation Protocol**
+
+When inner compass spins with wild confusion,
+And hunger speaks in tongues you cannot read,
+The body's wisdom lost in metabolic fusion
+Of signals mixed that contradict your need,
+
+Then charts and frameworks become your true north star,
+External maps to guide through murky waters,
+While hormone storms rage fierce both near and far,
+And cravings lead like siren songs to slaughter.
+
+The skillful sailor learns to read the sky
+When instruments fail in the tempest's roar,
+To trust the protocols that never lie
+While inner guidance finds its truth once more.
+
+*For navigation tools, though wise and sound,*
+*Are scaffolding till body-wisdom's found.*`,
+    standard: `🍎 Day 47: The Navigation Protocol
+
+When your metabolic signals are still recalibrating, you must become a skilled navigator who can chart a course using external landmarks rather than relying solely on your internal compass. This transitional period requires developing what could be called "metabolic judgment" — the ability to make sound decisions about food and lifestyle using rational frameworks while your intuitive guidance systems come back online. Most wellness approaches fail here because they assume people will either have perfect body wisdom or perfect willpower, ignoring the messy middle ground where most real transformation actually happens.
+
+**The Concept**
+Metabolic navigation involves using external frameworks and rational decision-making tools during the transitional period when your body's internal signals are unreliable or conflicted.
+
+**Why It Matters**
+Without navigation skills, people either become paralyzed by conflicting signals or make reactive decisions that further disrupt their metabolic calibration. This gap between confused signals and clear signals can last months or even years, making transitional competence essential for long-term success.
+
+**How It Works**
+Effective navigation relies on predetermined frameworks rather than moment-by-moment decisions. For example, someone whose hunger signals are unreliable might follow a structured meal timing protocol while their hormones rebalance, or use a simple food quality checklist when cravings are pointing toward processed foods. The key is choosing frameworks that move you toward better calibration rather than away from it — rules that work with your biology rather than against it. Good navigation protocols are temporary scaffolding, designed to be gradually removed as internal guidance improves. They should feel supportive rather than restrictive, like training wheels that you're looking forward to outgrowing.
+
+**Science Wisdom**
+Metabolic navigation transforms the chaotic transition period from a time of confusion into a phase of active skill-building that accelerates your return to natural body wisdom.
+
+**Tomorrow's Question** — *If navigation protocols are meant to be temporary scaffolding that you eventually outgrow, what happens when people become addicted to external frameworks and resist transitioning back to intuitive eating and living — and why might this dependence on rules actually represent a more sophisticated form of disconnection from body wisdom than the original metabolic chaos?*`,
+    parable: `Maren watched as Lila stood paralyzed before her herb garden, clutching an empty gathering basket. "My teacher," Lila said, her voice tight with frustration, "I can no longer tell which plants my body needs. Yesterday I craved bitter herbs, today my mouth waters for sweet roots, and tomorrow who knows what signals will come? How can I gather medicine when my inner knowing has become a cacophony of confusion?"
+
+The healer nodded knowingly and retrieved a worn leather journal from her robes. "When I was young and my sensitivity was scattered by grief and poor choices, my grandmother gave me this." She opened the book to reveal careful drawings of plants, detailed notes about their properties, and structured protocols for different conditions. "She called it her navigation charts — tools for sailing when the inner stars are hidden by storm clouds."
+
+Maren guided Lila through the garden, teaching her to use the journal's frameworks. "See here — when emotions run high, these grounding roots. When energy scatters, these focusing leaves. When sleep eludes, these calming flowers. The wisdom is not mine or yours in this moment — it is borrowed from those who mapped these waters before us."
+
+As they worked, Lila's tension began to ease. "But will I always need these charts?" she asked. "Will my inner knowing ever return?"
+
+"Oh, my dear one," Maren smiled, watching Lila's careful, methodical gathering, "the charts are not meant to replace your inner compass — they are meant to protect it while it recalibrates. Use them wisely, trust them completely, and remain always ready to set them aside when your own stars shine bright again."
+
+**Moral:** When inner wisdom is clouded, external frameworks become the bridge between confusion and clarity, but only if you remember they are meant to guide you home to yourself, not replace the journey.
+
+**Tomorrow:** Lila discovers that her growing mastery of the navigation charts has begun to feel more comfortable than trusting her returning intuition...`,
+  },
 ];

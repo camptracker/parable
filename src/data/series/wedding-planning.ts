@@ -2587,4 +2587,64 @@ Dove felt something shift in her chest, like a knot loosening. "So our wedding i
 
 *Tomorrow, we discover what happens when imperfection becomes the greatest gift you can offer your guests...*`,
   },
+  {
+    day: 42,
+    title: "The Sacred Recovery",
+    date: "2026-04-12",
+    image: "images/wedding-planning/day-42.jpg",
+    audio: "audio/wedding-planning/day-42",
+    sonnet: `**🪶 Sonnet XLII: The Sacred Recovery**
+
+When wedding plans unravel at the seam,
+And perfect visions crumble into dust,
+The truest couples hold their deeper dream:
+That love, not logistics, holds their trust.
+
+No flawless flower nor faultless timeline shows
+The strength that marriage asks of heart and soul,
+But how two spirits weather unexpected blows
+Reveals if partnership can make them whole.
+
+Let rain disrupt the ceremony's hour,
+Let vendors fail and decorations fall—
+Watch how beloveds find their truest power
+In facing chaos, standing proud and tall.
+
+*For weddings teach what marriages must learn:*
+*Grace blooms brightest when the plans overturn.*`,
+    standard: `💍 Day 42: The Sacred Recovery
+
+The grace you'd want to demonstrate when things go wrong reveals whether you see your wedding as a performance to protect or a relationship to strengthen—because the most powerful marriages are built not on avoiding problems but on facing them together with humor, tenderness, and unshakeable partnership. This distinction between projecting perfection and modeling resilience determines whether your wedding teaches guests about image management or about genuine love.
+
+🧱 **The Concept**
+Your wedding's most transformative moments often emerge from how you and your partner navigate the unexpected together, not from executing a flawless plan.
+
+❓ **Why It Matters**
+Guests forget perfect details but remember forever how couples handle adversity together. Your response to wedding mishaps becomes a preview of your marriage's emotional DNA—whether you blame, support, laugh, or unite when life doesn't follow the script.
+
+⚙️ **How It Works**
+When the flowers arrive wilted, you can panic separately or problem-solve together. When the caterer is late, you can stress about appearances or focus on keeping each other grounded. When rain threatens your outdoor ceremony, you can mourn the lost vision or celebrate the adventure you're navigating as a team. Each challenge becomes an opportunity to demonstrate that your love is stronger than your plans—showing guests that marriage isn't about avoiding storms but about learning to dance in the rain together. The couples who recover from wedding day setbacks with grace, humor, and visible partnership create the most memorable celebrations because they prove their love is unshakeable.
+
+🎯 **Wedding Wisdom**
+Your wedding's beauty lies not in its perfection but in how perfectly you support each other through its imperfections.
+
+❓ **Tomorrow's Question** — If you could guarantee that your wedding would demonstrate one specific way that love transforms ordinary moments into sacred ones, what daily gesture or attitude would you want every guest to witness and potentially carry into their own relationships?`,
+    parable: `Dove stood in the bridal suite, staring at the bouquet that had arrived with half its roses brown-edged and drooping. "This is ruined," she whispered, feeling tears threaten. "Everyone will see it's not perfect."
+
+Elm found her there, took one look at the flowers, and gently took her hands. "Remember when we got caught in that downpour on our second date?" he asked softly. "You said it was the most romantic walk we'd ever taken because we were soaked and laughing together."
+
+Nana Rose appeared in the doorway, carrying fresh white ribbon. "In forty years of weddings," she said, settling into a chair, "I've seen brides with flawless flowers who spent their ceremonies worried about wilting petals, and I've seen brides with imperfect bouquets who glowed because they were focused on their love story instead of their props."
+
+She began rewrapping the stems with the fresh ribbon, her weathered hands working with practiced grace. "The most beautiful weddings I've witnessed weren't the ones where everything went according to plan. They were the ones where couples faced surprises together—where a groom steadied his bride when her heel broke, where a bride laughed when wind messed her hair, where partners whispered encouragement instead of panic when timelines shifted."
+
+Dove watched Elm gather the brown roses, carefully removing them while leaving the healthy blooms. "What if people notice?" she asked.
+
+"They'll notice how we handle it," Elm replied, creating a smaller but more vibrant bouquet. "They'll see us taking care of each other."
+
+Nana Rose smiled, tying the final ribbon. "Your guests won't remember the flowers, dear one. But they'll remember the moment your groom helped you see that love makes everything beautiful—even the imperfect things."
+
+**Moral:** The most powerful weddings showcase not flawless execution but flawless partnership in the face of life's inevitable imperfections.
+
+*Tomorrow, we discover how love transforms the ordinary into the sacred through simple, witnessed gestures.*`,
+  },
 ];

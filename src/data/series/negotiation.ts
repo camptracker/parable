@@ -2967,4 +2967,63 @@ For the first time in their conversations, Vasska smiled — not his usual knowi
 
 **Tomorrow**: The master trader reveals why some forms of success require you to see consequences others are blind to.`,
   },
+  {
+    day: 47,
+    title: "The Oracle's Trap",
+    date: "2026-04-12",
+    image: "images/negotiation/day-47.jpg",
+    audio: "audio/negotiation/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Oracle's Trap**
+
+When prophets stake their names upon thy fate,
+They study every gesture, word, and choice,
+Their wisdom bound to what they calculate—
+Thy future failures giving them no voice
+But to predict, prevent, and guide thy way,
+As fortune-tellers trapped by their own art,
+Who must divine tomorrow from today
+And make thy destiny their counterpart.
+They map thy flaws before thou know'st they're there,
+And offer cures for ailments yet unborn,
+Their reputations hanging in the air
+On whether thou shalt rise or be forlorn.
+*When others bet their honor on thy course,*
+*They'll steer thy ship with more than thy own force.*`,
+    standard: `🤝 Day 47: The Oracle's Trap
+
+When someone's reputation depends on predicting your moral compromises, they become hyper-invested in understanding your character so deeply that they essentially become your behavioral strategist. They start offering unsolicited guidance on decisions you haven't even faced yet, effectively doing your thinking for you while believing they're protecting their own credibility.
+
+🧱 **The Concept**
+Making someone feel responsible for predicting your future choices transforms them from advisor into fortune-teller, compelling them to study you so intensely that they begin making your decisions before you do.
+
+❓ **Why It Matters**
+People who feel responsible for predicting behavior become obsessed with controlling it. When someone believes their reputation depends on accurately forecasting your choices, they'll invest enormous energy in understanding your motivations, triggers, and decision patterns. This creates asymmetric information flow where they reveal their strategic thinking while positioning themselves as indispensable.
+
+⚙️ **How It Works**
+You create oracle responsibility by asking someone to help you avoid specific mistakes they're uniquely qualified to predict. A consultant might say, "Given your experience with similar companies, what are the three biggest mistakes I'm most likely to make in the next six months?" This forces them to analyze your situation deeply, reveal their strategic framework, and feel accountable for your success. When they provide predictions, you respond with concern: "That's exactly what I was worried about. How do I make sure you're wrong?" Now they're not just predicting—they're preventing, which requires even deeper engagement. They begin offering solutions to problems that don't exist yet, essentially doing your strategic thinking while feeling virtuous about it.
+
+🎯 **Negotiation Wisdom**
+When someone feels responsible for your future, they'll work harder to shape it than you will.
+
+❓ **Tomorrow's Question** — If making someone an oracle of your future behavior gives them ownership over your decisions, what happens when you make them feel like they're the only person who can see that your current path leads to inevitable failure, but that pointing this out might destroy the very relationship that gives them influence over your course correction?`,
+    parable: `Ren watched as Master Vasska studied the weathered map spread across the tavern table, his single eye tracing trade routes with the intensity of a scholar deciphering ancient prophecy. The older merchant had been explaining the treacherous politics of the Northern Kingdoms when Ren posed his question.
+
+"Master, you've seen merchants like me rise and fall for decades. What are the three biggest mistakes I'm most likely to make in my first year trading beyond the mountains?"
+
+Vasska's eye sharpened. He set down his wine and leaned forward, as if Ren had just challenged him to peer into the very fabric of fate itself. For long moments, he said nothing, his fingers drumming against the wooden table.
+
+"Arrogance," he said finally. "You'll win your first few deals and believe you've mastered the game. You'll stop listening. Second, you'll trust the wrong local guide—someone with honey words who'll lead you into partnerships that serve their cousins, not your purse. Third..." He paused, studying Ren's face. "You'll mistake kindness for weakness in the Northern lords. Their courtesy masks steel, and when you overstep, they'll destroy you so gently you'll thank them for the privilege."
+
+Ren felt a chill of recognition. "Those are exactly the traps I was worried about. How do I make sure you're wrong?"
+
+Something shifted in Vasska's expression. The challenge had become personal. Over the following hours, he began sketching out not just warnings, but detailed strategies. Which merchants to approach first, which phrases would signal respect in each kingdom, even how to position his body during negotiations to avoid giving offense.
+
+"You see," Vasska murmured, his voice growing more intense, "in the Kingdom of Frost Pines, they'll test your patience by making you wait. Most young merchants fidget or press for urgency. But if you bring a book of poetry and read calmly in their antechamber, they'll know you understand power..." He was no longer just advising—he was orchestrating, mapping out Ren's entire campaign as if his own reputation depended on its success.
+
+By midnight, Vasska had filled three pages with detailed predictions and preventions, his investment in Ren's future now so complete that he spoke of "our" strategy and "our" approach to the Northern markets.
+
+**Moral:** *When you make someone the prophet of your future, they become the architect of your present.*
+
+*Tomorrow, we discover what happens when the very relationship that gives someone power to guide you becomes the thing that prevents them from speaking the truth you most need to hear...*`,
+  },
 ];
