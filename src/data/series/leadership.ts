@@ -2838,4 +2838,68 @@ Tova felt a chill that had nothing to do with the ocean breeze. "So when I defen
 
 **Tomorrow:** Tova discovers that her crew's most brilliant solutions are being discussed everywhere except where she can hear them.`,
   },
+  {
+    day: 46,
+    title: "The Invisible Throne",
+    date: "2026-04-13",
+    image: "images/leadership/day-46.jpg",
+    audio: "audio/leadership/day-46",
+    sonnet: `**🪶 Sonnet XLVI: The Invisible Throne**
+
+Upon the throne of power, leaders sit alone,
+While whispered wisdom flows in hidden streams,
+Their crown creates a wall of polished stone
+That blocks the path to unrefined dreams.
+
+The brightest minds share secrets in the shade,
+Await the moments when the king departs,
+For raw ideas need gentle hands that trade
+In possibility, not judgment's darts.
+
+True sight requires the courage to step down
+From pedestals that distance us from truth,
+To walk among the people of the town
+With empty hands and hearts that seek their proof.
+
+*The wisest rulers learn to disappear,*
+*That honest voices might at last appear.*`,
+    standard: `👥 Day 46: The Invisible Throne
+
+When your team's best ideas bypass you entirely, it reveals that authority creates distance while influence creates connection—people share breakthroughs with those they trust to receive them generously, not those they fear might judge or claim them. Your formal position may have inadvertently built walls around the very insights you most need to access.
+
+🧱 **The Concept**
+True leadership visibility isn't about being seen by those you lead, but about seeing clearly without the distortions that power creates.
+
+❓ **Why It Matters**
+Authority changes how people behave around you, often filtering out the raw, unpolished thinking that leads to breakthrough insights. When teams feel they must present only refined ideas to leadership, organizations lose access to the messy, creative processes where real innovation happens.
+
+⚙️ **How It Works**
+The most effective leaders create "invisible moments"—spaces where their authority temporarily disappears and authentic thinking can emerge. This might mean joining a brainstorming session as a participant rather than facilitator, asking junior team members to teach senior leaders about trends they're seeing, or creating feedback channels that bypass traditional hierarchies. When Reed Hastings at Netflix instituted "keeper test" conversations, he wasn't asserting authority—he was making his leadership position invisible to access honest perspectives about performance and potential.
+
+🎯 **Leadership Wisdom**
+The higher you rise, the more intentional you must become about making your power invisible so you can see clearly.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most honest conversations about the organization's challenges happened only when you weren't in the room, what would this reveal about the relationship between your presence and their willingness to confront difficult realities?`,
+    parable: `Tova found herself standing outside the crew's quarters, having approached to discuss the next day's route, when she heard something that stopped her cold. Through the thin walls, she could hear her sailors engaged in animated discussion about a revolutionary approach to navigating the treacherous Serpent's Pass—an idea so elegant it could save them days of dangerous sailing.
+
+"But we can't suggest it to the captain," one voice said. "She'll want to know why we didn't think of it sooner, or she'll worry it's too risky."
+
+"Better to let her figure it out herself," another agreed. "That way she'll trust it."
+
+Tova felt her heart sink as she realized her crew's best thinking was happening in her absence. She slipped away and sought out Greymane, finding the old admiral mending nets by moonlight.
+
+"They have solutions I desperately need," she whispered, "but they won't share them with me."
+
+Greymane nodded slowly. "I once knew a captain who complained his crew never brought him good ideas. When I observed his ship, I discovered they brought him ideas constantly—to each other. His authority had become a wall between him and their creativity."
+
+"How did he fix it?"
+
+"He learned to make himself invisible. Not absent, but invisible. He would ask questions that made them forget he was their captain and remember he was their fellow sailor. He would admit when he was genuinely puzzled by a problem, not as weakness, but as invitation. Most importantly, he learned to receive their half-formed thoughts with the same enthusiasm he showed their polished presentations."
+
+Tova spent the next morning working alongside her crew as they prepared the ship, not as their captain issuing orders, but as another sailor with calloused hands and genuine curiosity about their methods.
+
+**Moral**: Authority that demands perfection receives only performance; leadership that embraces uncertainty receives innovation.
+
+*Tomorrow, Tova will discover what happens when leaders create spaces where difficult truths can finally be spoken...*`,
+  },
 ];

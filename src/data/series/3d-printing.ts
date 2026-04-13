@@ -2210,4 +2210,64 @@ Finn watched as Orna worked with the bench, their collaboration a dance of offer
 
 **Tomorrow:** *What happens when the very capability to choose is shaped by the assistance we receive?*`,
   },
+  {
+    day: 39,
+    title: "The Unaugmented Heart",
+    date: "2026-04-13",
+    image: "images/3d-printing/day-39.jpg",
+    audio: "audio/3d-printing/day-39",
+    sonnet: `**🪶 Sonnet XXXIX: The Unaugmented Heart**
+
+When perfect tools extend our mortal reach,
+And systems grant us superhuman sight,
+We risk forgetting what rough hands can teach—
+The wisdom hidden in imperfect light.
+
+The carver's knife that trembles in the grain
+Reveals what scanners never comprehend:
+How material speaks through humble pain,
+How true creation learns to bend, not bend.
+
+Though algorithms optimize each choice,
+The unaugmented heart still holds the key
+To hearing wood and stone's authentic voice,
+To knowing what our creations long to be.
+
+*For in our limitations lives the art*
+*That gives our perfect tools their beating heart.*`,
+    standard: `🖨️ Day 39: The Unaugmented Heart
+
+The distinction between augmentation and dependency lies not in the capability gap, but in our relationship to uncertainty and struggle. True augmentation preserves our capacity for independent judgment even when that judgment is less efficient, while dependency erodes our comfort with operating in the fog of incomplete information that defines authentic human experience.
+
+🧱 **The Concept**
+Maintaining unaugmented human capabilities alongside augmented ones, ensuring we can still function meaningfully when enhanced systems are unavailable.
+
+❓ **Why It Matters**
+As our making systems become more sophisticated and seamlessly integrated into our creative processes, we risk losing touch with the fundamental human skills that give our creations meaning and authenticity. The ability to work with our hands, trust our intuition, and create imperfectly becomes not just a backup plan, but a source of creative vitality that no system can replicate.
+
+⚙️ **How It Works**
+Unaugmented practice involves deliberately engaging with making processes using only basic human capabilities — designing by sketching rather than CAD, troubleshooting by feel rather than sensors, choosing materials by intuition rather than optimization algorithms. A furniture maker might spend one day per week working only with hand tools, or a designer might regularly create prototypes using only cardboard and tape. These practices maintain what we might call "creative calluses" — the rough edges of human judgment that keep us grounded in physical reality. The key is approaching these sessions not as primitive fallbacks, but as essential practices that cultivate different kinds of intelligence.
+
+🎯 **Maker Wisdom**
+Our most advanced capabilities must always include the capacity to work simply, because simplicity teaches us truths that sophistication can obscure.
+
+❓ **Tomorrow's Question** — If maintaining unaugmented capabilities requires regular practice in deliberate inefficiency, what happens when the time spent on such practice could be used to create genuinely beneficial outcomes through augmented systems — and how do we justify preserving human limitations when those limitations have real costs for real people?`,
+    parable: `Finn found Orna sitting cross-legged on her workshop floor, slowly hand-carving a wooden gear with nothing but a small knife. Around them, precision machines hummed with the capability to create perfect gears in minutes, yet the master fabricator worked with ancient deliberation.
+
+"Isn't this... inefficient?" Finn asked, watching Orna's weathered hands guide the blade with practiced uncertainty.
+
+"Watch," Orna said, not looking up. She set the carved gear aside and picked up another piece of wood, this time closing her eyes as she began to carve. "When I work without seeing, I must feel the wood's grain, hear the blade's whisper against the fiber, sense the resistance that tells me when I'm cutting with or against the material's nature."
+
+Finn watched, fascinated, as the gear took shape under Orna's blind touch. It was imperfect, slightly asymmetrical, bearing the marks of human hesitation and discovery.
+
+"Now," Orna said, opening her eyes and reaching for a machine-cut gear of identical design. "Feel the difference." She placed both gears in Finn's hands.
+
+The machine gear was flawless, dimensionally perfect. The hand-carved gear was rougher, but somehow it seemed to pulse with life in Finn's palm, each imperfection telling a story of decision and discovery.
+
+"My augmented systems can create perfect gears," Orna explained. "But they cannot teach me what wood wants to become, or how my intention flows through uncertain hands into resistant material. When I carve blindly, I maintain conversation with mystery. When I rely only on precision, I risk forgetting how to listen."
+
+She stood, brushing wood shavings from her clothes. "The most sophisticated maker is not the one who can create anything, but the one who remembers what it means to create with reverence for what cannot be controlled."
+
+**Moral**: True mastery includes the wisdom to work simply, for in simplicity we discover truths that sophistication can obscure. **Tomorrow**: What happens when the time spent preserving human limitations could be used to serve human needs?`,
+  },
 ];

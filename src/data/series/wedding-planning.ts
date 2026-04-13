@@ -2647,4 +2647,68 @@ Nana Rose smiled, tying the final ribbon. "Your guests won't remember the flower
 
 *Tomorrow, we discover how love transforms the ordinary into the sacred through simple, witnessed gestures.*`,
   },
+  {
+    day: 43,
+    title: "The Sacred Attention",
+    date: "2026-04-13",
+    image: "images/wedding-planning/day-43.jpg",
+    audio: "audio/wedding-planning/day-43",
+    sonnet: `**🪶 Sonnet XLIII: The Sacred Attention**
+
+When lovers turn their faces toward each other,
+And let the bustling world fade into mist,
+They teach what few will ever truly discover—
+That presence is love's most essential gift.
+
+No decoration rivals eyes that listen,
+No music matches voices deeply heard,
+No flower blooms as bright as souls that glisten
+When given sanctuary in their beloved's word.
+
+The guests who witness such devoted seeing
+Will carry home a truth beyond all art:
+That sacred love lives not in perfect being,
+But in the quality of an offered heart.
+
+*When two souls meet with such complete attention,*
+*They show the world love's truest dimension.*`,
+    standard: `💍 Day 43: The Sacred Attention
+
+The gesture most worth witnessing would be how you truly listen to each other—not just waiting for your turn to speak, but receiving your partner's words with complete presence, as if their thoughts were the most important thing in the world at that moment. This quality of attention, where distractions fall away and your full being focuses on understanding rather than responding, transforms everyday conversation into an act of devotion.
+
+🧱 **The Concept**
+Your wedding day will reveal how you actually pay attention to each other when the stakes are highest and distractions are everywhere.
+
+❓ **Why It Matters**
+In a world of constant noise and competing demands, the quality of your attention to each other will determine whether your marriage becomes a sanctuary or just another source of stress. Your guests will notice whether you're truly present with each other or merely performing presence.
+
+⚙️ **How It Works**
+When your partner speaks during the ceremony, reception toasts, or quiet moments between events, your body language tells the whole story—are you checking the time, scanning the crowd, or genuinely focused on their words? When they're overwhelmed or excited, do you pause everything to really see them, or do you offer distracted comfort while mentally managing your to-do list? When they share a concern about the day's logistics, do you listen to understand their feelings or just to solve the problem quickly? The depth of your attention becomes the foundation for every other aspect of your relationship.
+
+🎯 **Wedding Wisdom**
+The most profound gift you can give each other on your wedding day isn't perfect execution—it's perfect attention.
+
+❓ **Tomorrow's Question** — If you discovered that your ability to stay emotionally connected to your partner during your wedding's most stressful moments would predict your marriage's resilience during every future crisis, what specific practices would you need to cultivate now to ensure that pressure draws you together rather than pulls you apart?`,
+    parable: `Dove sat in Nana Rose's garden, watching the morning light dance through the leaves of the ancient oak. "I keep imagining all the ways people might judge our choices," she confessed, her voice tight with worry. "What if the ceremony feels too simple? What if the reception is too casual?"
+
+Nana Rose poured tea with deliberate slowness, each movement a meditation. "Tell me, dear one," she said, settling into her chair, "when Elm proposed, what do you remember most clearly?"
+
+"His eyes," Dove answered immediately, her shoulders softening. "The way he looked at me like I was the only person who had ever existed. Like he was memorizing my face."
+
+"And in that moment," Nana Rose continued, "were you worried about the restaurant's lighting or whether other diners approved of his proposal style?"
+
+Dove shook her head, a small smile breaking through her anxiety. "I couldn't see anything else. It was like the whole world had gone quiet."
+
+"That quality of attention—that sacred focus—is what transforms an ordinary evening into an engagement story worth telling for fifty years." Nana Rose leaned forward, her voice gentle but firm. "Your guests won't remember your centerpieces, child. They'll remember watching two people who couldn't take their eyes off each other, who listened to each other's words as if they were hearing music for the first time."
+
+Just then, Elm appeared around the garden gate, and Dove's face lit up. But instead of immediately sharing her morning's revelations, she paused, really looking at him—noting the slight tiredness around his eyes, the way his smile reached for reassurance.
+
+"How are you feeling about everything?" she asked, setting down her teacup and giving him her complete attention.
+
+Nana Rose smiled, watching the young couple discover that the most revolutionary act in a distracted world is simply being fully present with the person you love.
+
+**Moral:** *The quality of attention you give each other transforms ordinary moments into sacred ones—and your wedding guests will learn more about love from witnessing your presence than from admiring your decorations.*
+
+*Tomorrow, we explore how emotional connection under pressure becomes the foundation for lifelong resilience...*`,
+  },
 ];
