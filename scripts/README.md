@@ -56,7 +56,7 @@ public/videos/
 
 1. **Parse Screenplay**: Reads `screenplay/THE_KEEPERS_EPIC.fountain` and extracts scenes
 2. **Generate Prompts**: Converts scene descriptions into cinematic prompts for Veo
-3. **Call Veo API**: Uses Google Veo (`veo-001`) to generate 8-second video clips
+3. **Call Veo API**: Uses Google Veo 2 (`veo-002`) to generate 8-second video clips
 4. **Save Videos**: Downloads and saves MP4 files with metadata
 
 ## API Parameters

@@ -107,7 +107,7 @@ cinematography, dramatic lighting, film grain, 24fps aesthetic.
 ### 3. Veo API Call
 ```javascript
 {
-  model: "veo-001",
+  model: "veo-002",  // Using Veo 2 for improved quality
   prompt: "Cinematic scene description...",
   parameters: {
     aspectRatio: "16:9",

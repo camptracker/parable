@@ -18,7 +18,7 @@ const credentialsPath = path.join(__dirname, '../credentials.json');
 const GOOGLE_CREDENTIALS = JSON.parse(fs.readFileSync(credentialsPath, 'utf-8'));
 const PROJECT_ID = GOOGLE_CREDENTIALS.project_id || "parable-489408";
 const LOCATION = "us-central1";
-const VEO_MODEL = "veo-001";
+const VEO_MODEL = "veo-002";
 
 /**
  * Get access token from refresh token
