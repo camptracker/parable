@@ -1,7 +1,22 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 export default function ScreenplayPage() {
   const [showInfo, setShowInfo] = useState(true);
+  const [videoAvailable, setVideoAvailable] = useState(false);
+  
+  useEffect(() => {
+    // Check if scene-1.mp4 exists
+    fetch('/parable/videos/scene-1.mp4', { method: 'HEAD' })
+      .then(response => {
+        if (response.ok) {
+          setVideoAvailable(true);
+        }
+      })
+      .catch(() => {
+        // Video not available yet
+        setVideoAvailable(false);
+      });
+  }, []);
 
   return (
     <div className="screenplay-page" style={{ maxWidth: '900px', margin: '0 auto', padding: '2rem' }}>
@@ -15,6 +30,39 @@ export default function ScreenplayPage() {
           Feature Film Screenplay • 150+ minutes
         </p>
       </header>
+
+      {videoAvailable && (
+        <div style={{
+          background: 'var(--card-bg)',
+          border: '2px solid var(--primary)',
+          borderRadius: '8px',
+          padding: '2rem',
+          marginBottom: '2rem'
+        }}>
+          <h2 style={{ marginBottom: '1rem' }}>🎬 Generated Video - Scene 1</h2>
+          <p style={{ marginBottom: '1rem' }}>
+            Opening scene from THE KEEPERS, generated using Google Veo 2.0
+          </p>
+          <video
+            controls
+            style={{
+              width: '100%',
+              maxWidth: '800px',
+              borderRadius: '8px',
+              marginBottom: '1rem'
+            }}
+            poster="/parable/images/history-of-israel/day-1.jpg"
+          >
+            <source src="/parable/videos/scene-1.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+          <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
+            <strong>Scene:</strong> INT. TEMPLE MOUNT ARCHIVES - ENTRANCE - NIGHT<br />
+            <strong>Generated with:</strong> Google Veo 2.0 (veo-2.0-generate-001)<br />
+            <strong>Duration:</strong> 8 seconds | <strong>Resolution:</strong> 1920x1080
+          </p>
+        </div>
+      )}
 
       {showInfo && (
         <div style={{
@@ -62,7 +110,7 @@ export default function ScreenplayPage() {
           </p>
 
           <div style={{ marginTop: '1.5rem', padding: '1rem', background: 'var(--bg)', borderRadius: '6px' }}>
-            <p style={{ fontSize: '0.9rem', margin: 0 }}>
+            <p style={{ fontSize: '0.9rem', margin: 0, marginBottom: '0.5rem' }}>
               <strong>📄 Download Full Screenplay:</strong>{' '}
               <a
                 href="https://github.com/camptracker/parable/blob/main/screenplay/THE_KEEPERS_EPIC.fountain"
@@ -74,6 +122,11 @@ export default function ScreenplayPage() {
               </a>
               {' '}(Fountain format - converts to PDF)
             </p>
+            {!videoAvailable && (
+              <p style={{ fontSize: '0.9rem', margin: 0, marginTop: '0.5rem', color: 'var(--text-secondary)' }}>
+                <strong>🎬 Video Generation:</strong> Scene 1 is currently being generated with Google Veo 2.0. Check back soon!
+              </p>
+            )}
           </div>
         </div>
       )}
