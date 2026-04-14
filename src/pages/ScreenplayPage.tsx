@@ -39,9 +39,9 @@ export default function ScreenplayPage() {
           padding: '2rem',
           marginBottom: '2rem'
         }}>
-          <h2 style={{ marginBottom: '1rem' }}>🎬 Generated Video - Scene 1</h2>
+          <h2 style={{ marginBottom: '1rem' }}>🎬 THE KEEPERS - Full Sequence</h2>
           <p style={{ marginBottom: '1rem' }}>
-            Opening scene from THE KEEPERS, generated using Google Veo 2.0
+            Complete opening sequence (10 scenes) generated with Google Veo 2.0
           </p>
           <video
             controls
@@ -53,14 +53,27 @@ export default function ScreenplayPage() {
             }}
             poster="/parable/images/history-of-israel/day-1.jpg"
           >
-            <source src="/parable/videos/scene-1.mp4" type="video/mp4" />
+            <source src="/parable/videos/full-sequence.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
-          <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
-            <strong>Scene:</strong> INT. TEMPLE MOUNT ARCHIVES - ENTRANCE - NIGHT<br />
+          <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', marginBottom: '1rem' }}>
+            <strong>Scenes:</strong> 10 sequential scenes with narrative continuity<br />
             <strong>Generated with:</strong> Google Veo 2.0 (veo-2.0-generate-001)<br />
-            <strong>Duration:</strong> 8 seconds | <strong>Resolution:</strong> 1920x1080
+            <strong>Duration:</strong> 80 seconds | <strong>Resolution:</strong> 1920x1080 | <strong>Audio:</strong> Ambient sound design
           </p>
+          <details style={{ marginTop: '1rem' }}>
+            <summary style={{ cursor: 'pointer', fontWeight: 'bold', marginBottom: '0.5rem' }}>
+              View Individual Scenes
+            </summary>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '1rem', marginTop: '1rem' }}>
+              {[1,2,3,4,5,6,7,8,9,10].map(n => (
+                <a key={n} href={`/parable/videos/scene-${n}.mp4`} target="_blank" rel="noopener noreferrer"
+                   style={{ padding: '0.75rem', background: 'var(--bg)', borderRadius: '6px', textAlign: 'center', textDecoration: 'none', color: 'var(--text)' }}>
+                  Scene {n}
+                </a>
+              ))}
+            </div>
+          </details>
         </div>
       )}
 
