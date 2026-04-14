@@ -4,6 +4,7 @@ import Sidebar from './components/Sidebar';
 import Home from './pages/Home';
 import SeriesPage from './pages/SeriesPage';
 import LessonPage from './pages/LessonPage';
+import ScreenplayPage from './pages/ScreenplayPage';
 
 function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -26,6 +27,7 @@ function App() {
           </button>
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/screenplay" element={<ScreenplayPage />} />
             <Route path="/:seriesId" element={<SeriesPage />} />
             <Route path="/:seriesId/lesson/:day" element={<LessonPage />} />
           </Routes>

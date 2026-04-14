@@ -18,6 +18,14 @@ export default function Sidebar({ open, onClose }: SidebarProps) {
           <Link to="/" className="sidebar-brand" onClick={onClose}>📜 Parable</Link>
         </div>
         <nav className="sidebar-nav">
+          <Link
+            to="/screenplay"
+            className={`sidebar-item ${location.pathname === '/screenplay' ? 'active' : ''}`}
+            onClick={onClose}
+            style={{ borderBottom: '1px solid var(--border)', marginBottom: '0.5rem', paddingBottom: '0.75rem' }}
+          >
+            <span className="sidebar-item-name">🎬 The Keepers Screenplay</span>
+          </Link>
           {series.map(s => (
             <Link
               key={s.id}
