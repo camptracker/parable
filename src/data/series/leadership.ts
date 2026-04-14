@@ -2902,4 +2902,70 @@ Tova spent the next morning working alongside her crew as they prepared the ship
 
 *Tomorrow, Tova will discover what happens when leaders create spaces where difficult truths can finally be spoken...*`,
   },
+  {
+    day: 47,
+    title: "The Weight of Witness",
+    date: "2026-04-14",
+    image: "images/leadership/day-47.jpg",
+    audio: "audio/leadership/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Weight of Witness**
+
+When leaders enter rooms where truth once lived,
+The honest words retreat to corners dark,
+And all the hard realities, unforgiven,
+Transform to careful speech that hits no mark.
+
+For presence can become a crushing weight
+That presses down on voices yearning free,
+When power makes authentic dialogue wait
+For safer moments when authority flees.
+
+The wisest captains learn to shape their being
+Into a space where difficult truths can grow,
+Where speaking hard realities brings freeing,
+Not punishment for what the brave bestow.
+
+*True leadership draws honesty from shade,*
+*Not drives it deep where trust and truth both fade.*`,
+    standard: `👥 Day 47: The Weight of Witness
+
+If your team's most honest conversations happen only in your absence, it reveals that your presence has inadvertently become a force field that repels truth rather than attracts it. This suggests that people have learned—through subtle cues, past reactions, or the dynamics of power—that certain realities are safer to acknowledge when the authority figure isn't watching. Your physical presence may be creating an invisible pressure that transforms authentic dialogue into performance.
+
+🧱 **The Concept**
+True leadership presence should invite truth-telling rather than inhibit it, creating an atmosphere where difficult realities can be explored openly rather than hidden.
+
+❓ **Why It Matters**
+When leaders become obstacles to honest conversation, they lose access to the very information they need most to lead effectively. Organizations suffer when the people closest to problems feel they must discuss solutions only when leadership isn't listening. This creates a dangerous gap between what leaders think is happening and what's actually occurring.
+
+⚙️ **How It Works**
+Leaders who invite truth create space for difficult conversations by demonstrating genuine curiosity rather than defensive reactions. When someone shares a challenging perspective, they ask follow-up questions instead of immediately offering solutions or justifications. They acknowledge the courage it takes to speak difficult truths and thank people for their honesty, even when the feedback is uncomfortable. For example, when a team member points out a strategic blind spot, an effective leader might say, "That's a perspective I hadn't considered—help me understand what you're seeing that I'm missing." They also actively seek out the quiet voices and create forums where honest dialogue is not just permitted but expected.
+
+🎯 **Leadership Wisdom**
+Your presence should be a magnet for truth, not a barrier to it. The measure of your leadership isn't whether people agree with you in your presence, but whether they trust you enough to disagree with you.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most innovative solutions were being dismissed not because they were impractical, but because they challenged assumptions you didn't realize you were protecting, what would this reveal about the relationship between your expertise and their creativity?`,
+    parable: `Captain Tova stood outside the mess hall, her hand frozen on the door handle as voices drifted through the wooden planks. Her crew was deep in discussion about the ship's deteriorating condition—the rotted rigging they'd been improvising around, the water barrels that leaked more than they held, the navigation instruments that gave readings nobody trusted anymore.
+
+"The captain keeps asking for our input," came Finn's voice, "but every time we mention the real problems, she gets that look—like we're questioning her competence instead of trying to help."
+
+"She's not a bad captain," another voice added, "but she wants solutions, not problems. So we give her the small stuff and handle the big stuff ourselves."
+
+Tova felt her stomach drop. She pushed through the door, and the conversation died instantly. "Don't stop on my account," she said, settling onto a bench. "I was just hearing about our navigation problems."
+
+The silence stretched until old Greymane spoke from the corner. "Permission to speak freely, Captain?"
+
+"Always."
+
+"Your crew just gave you a gift," he said. "They showed you that they care enough about this ship to solve problems even when they think you don't want to hear about them. The question isn't whether they respect you—it's whether they trust you to handle the truth without making them pay for delivering it."
+
+Tova looked around the room at faces that had suddenly become guarded. "What else haven't you told me?"
+
+The silence that followed wasn't empty—it was full of unspoken concerns, creative solutions, and hard truths that had been waiting for an invitation.
+
+"Tomorrow," Tova said, "I want to hear everything I haven't been hearing. Not because I'm a bad captain, but because I want to become a better one."
+
+**Moral**: Leadership presence should draw truth from hiding, not drive it into the shadows. When people feel safer speaking honestly in your absence than in your presence, the problem isn't their lack of courage—it's your lack of invitation.
+
+Tomorrow, we discover how expertise can become a wall that blocks innovation rather than a foundation that supports it.`,
+  },
 ];
