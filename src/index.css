@@ -322,3 +322,47 @@ body {
   color: var(--gold);
   font-weight: 600;
 }
+
+/* Bookmarks */
+.bookmark-btn {
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 6px;
+  transition: all 0.2s;
+  line-height: 1;
+}
+.bookmark-btn:hover {
+  background: var(--gold-bg);
+  transform: scale(1.1);
+}
+
+.scroll-to-bookmark-btn {
+  background: var(--gold-bg);
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  padding: 0.65rem 1.25rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  margin-top: 1rem;
+  font-family: var(--sans);
+}
+.scroll-to-bookmark-btn:hover {
+  background: var(--gold);
+  color: var(--bg);
+}
+
+.lesson-card.bookmarked {
+  border: 2px solid var(--gold);
+  box-shadow: 0 0 12px var(--gold-bg);
+}
+
+.bookmark-indicator {
+  margin-left: 0.5rem;
+  font-size: 1rem;
+}

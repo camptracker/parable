@@ -2,6 +2,7 @@ import { useParams, Link, Navigate } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { getSeriesById, series, getLatestDay } from '../data/lessons';
+import { setBookmark, isBookmarked, removeBookmark } from '../utils/bookmarks';
 
 export default function LessonPage() {
   const { seriesId, day } = useParams();
@@ -9,8 +10,25 @@ export default function LessonPage() {
   const dayNum = Number(day);
   const lesson = s?.lessons.find((l) => l.day === dayNum);
   const [mode, setMode] = useState<'parable' | 'standard'>('parable');
+  const [bookmarked, setBookmarked] = useState(false);
 
-  useEffect(() => { window.scrollTo(0, 0); }, [seriesId, day]);
+  useEffect(() => { 
+    window.scrollTo(0, 0); 
+    if (s) {
+      setBookmarked(isBookmarked(s.id, dayNum));
+    }
+  }, [seriesId, day, s, dayNum]);
+
+  const toggleBookmark = () => {
+    if (!s) return;
+    if (bookmarked) {
+      removeBookmark(s.id);
+      setBookmarked(false);
+    } else {
+      setBookmark(s.id, dayNum);
+      setBookmarked(true);
+    }
+  };
 
   if (!s) return <Navigate to="/" replace />;
   if (!lesson) {
@@ -43,7 +61,17 @@ export default function LessonPage() {
       )}
 
       <header className="lesson-header">
-        <span className="lesson-day-badge">Day {lesson.day}</span>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+          <span className="lesson-day-badge">Day {lesson.day}</span>
+          <button 
+            onClick={toggleBookmark}
+            className="bookmark-btn"
+            title={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
+            aria-label={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
+          >
+            {bookmarked ? '🔖' : '📑'}
+          </button>
+        </div>
         <h1>{lesson.title}</h1>
       </header>
 
