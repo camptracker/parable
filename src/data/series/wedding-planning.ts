@@ -2775,4 +2775,72 @@ Elm reached for her hand. "I'm sorry. I was scared about the money and took it o
 
 *Tomorrow, Nana Rose will reveal why trying to hide relationship tension during your celebration is like trying to hide the sun behind a tissue paper—and what that means for the energy you bring to your sacred day.*`,
   },
+  {
+    day: 45,
+    title: "The Sacred Unity",
+    date: "2026-04-15",
+    image: "images/wedding-planning/day-45.jpg",
+    audio: "audio/wedding-planning/day-45",
+    sonnet: `**🪶 Sonnet XLV: The Sacred Unity**
+
+No garland bright nor golden chandelier
+Can match the radiance of hearts aligned,
+When lovers stand as one, their joy sincere
+Transforms each guest, enlightens every mind.
+
+The flowers fade, the music fades away,
+But harmony between two souls endures,
+A living light that brightens wedding day
+And in each witness something pure procures.
+
+Though place cards scatter and the cake may fall,
+If bride and groom are genuinely one,
+Their unity becomes the grace of all,
+Their love the blessing when the day is done.
+
+*For weddings bloom not from what hands create,*
+*But from the truth that two hearts celebrate.*`,
+    standard: `💍 Day 45: The Sacred Unity
+
+If guests could sense our relationship's true state, it would instantly shift our focus from perfecting centerpieces to perfecting our connection. We'd realize that no beautiful detail could mask or compensate for underlying tension, and that our genuine harmony would make even simple elements feel magical.
+
+🧱 **The Concept**
+Your wedding's most powerful element isn't any detail you can plan—it's the living energy between you and your partner that guests will feel the moment they see you together.
+
+❓ **Why It Matters**
+Guests don't remember table settings or flower arrangements as much as they remember how love felt in the room. When couples are genuinely united, their joy becomes contagious and transforms every moment of the celebration. When they're disconnected, no amount of wedding perfection can create that magic.
+
+⚙️ **How It Works**
+Your energetic connection radiates outward and sets the tone for your entire celebration. If you're stressed but supporting each other, guests feel inspired; if you're smiling but tense with each other, they feel uneasy. This means your relationship harmony becomes your wedding's foundation—more important than any vendor choice. Consider scheduling regular check-ins during planning to protect your connection. Prioritize couple time over wedding tasks when you're feeling distant. Remember that your guests are gathering to witness love in action, not to judge your party-planning skills.
+
+🎯 **Wedding Wisdom**
+The most beautiful wedding decoration is two people who are genuinely delighted to be marrying each other.
+
+❓ **Tomorrow's Question** — If you discovered that your wedding's lasting impact on every guest would depend entirely on witnessing one moment of pure, unguarded love between you and your partner, what would need to be different about how you plan to be present with each other throughout the entire celebration?`,
+    parable: `Dove stood before her reflection, adjusting her veil for the tenth time while Elm waited patiently beside her. "The flowers still aren't perfect," she whispered, her voice tight with anxiety. "And the musicians changed the song tempo."
+
+Elm reached for her hands. "Dove, look at me."
+
+But she couldn't stop cataloging problems. "The cake topper is crooked, the programs have a typo—"
+
+"Dove." His voice was gentle but firm. "Our guests aren't coming to judge our event planning. They're coming to witness us become married."
+
+Nana Rose appeared in the doorway, her weathered hands carrying nothing but wisdom. "Child, may I tell you what I see when couples are truly ready?"
+
+Dove finally looked up, tears threatening her carefully applied makeup.
+
+"I see two people so delighted to be choosing each other that their joy fills every corner of the room," Nana Rose continued. "I've watched couples with million-dollar budgets whose tension made their guests uncomfortable, and I've seen couples with backyard ceremonies whose love made everyone believe in magic again."
+
+Elm squeezed Dove's hands. "We've spent months planning this day. But right now, in this moment, how do you feel about marrying me?"
+
+The question cut through all her anxiety. Dove felt her shoulders relax as she truly looked at her partner—this person who had held her through every wedding crisis, who had never once made her feel like her emotions were too much.
+
+"Like the luckiest person alive," she whispered.
+
+Nana Rose smiled. "That, my dear, is what your guests will remember."
+
+**Moral:** The energy between two people in love is the only decoration that truly transforms a wedding.
+
+*Tomorrow, we discover what happens when love becomes the lens through which every wedding moment is experienced...*`,
+  },
 ];

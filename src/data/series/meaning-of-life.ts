@@ -2791,4 +2791,69 @@ The Keeper gestured to the soaring bird. "Is the sun responsible for shining? Ye
 
 **Tomorrow**: The Keeper reveals why even the desire to be good might be the final illusion that keeps us from embodying true compassion.`,
   },
+  {
+    day: 47,
+    title: "The End of Spiritual Pride",
+    date: "2026-04-15",
+    image: "images/meaning-of-life/day-47.jpg",
+    audio: "audio/meaning-of-life/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The End of Spiritual Pride**
+
+The seeker climbs the mountain of the wise,
+Collecting insights like a precious hoard,
+Believing that their practice sanctifies
+Their soul above the ignorant unadorned.
+
+But in this climb, a subtler trap awaits—
+The pride of being one who understands,
+The ego dressed in robes that imitate
+Humility while keeping its demands.
+
+True wisdom wears no crown, speaks with no voice
+Of special knowing or enlightened state.
+It moves through baker, mother, drunk—their choice
+No less divine, their being just as great.
+
+*The highest peak is found in valley's floor,*
+*Where ordinary folk need nothing more.*`,
+    standard: `🌌 Day 47: The End of Spiritual Pride
+
+When we recognize that even our desire to be good and compassionate can become a subtle form of ego maintenance, we discover that true spiritual maturity involves letting go of being "the one who is spiritual." This realization dissolves the last vestiges of spiritual pride—the unconscious belief that our awareness, compassion, or enlightenment makes us special or different from others. What emerges is a profound ordinariness that is paradoxically extraordinary.
+
+🧱 **The Concept**
+Spiritual pride is the ego's final disguise, where the very pursuit of selflessness becomes a new form of self-importance.
+
+❓ **Why It Matters**
+This subtle spiritual materialism can keep us trapped in separation even as we believe we're transcending it. The person who prides themselves on their humility is neither humble nor free. True liberation requires releasing even our identity as "liberated."
+
+⚙️ **How It Works**
+Spiritual pride manifests as the unconscious sense of being more evolved, aware, or compassionate than others. It shows up when we feel superior to those who aren't on a "spiritual path," when we collect insights like trophies, or when we subtly perform our spirituality for others' approval. The antidote is recognizing that consciousness doesn't need our help to be conscious—it's already perfectly itself in the angry person, the confused person, and the person who has never questioned anything. When we stop trying to be special through our spirituality, we discover the radical ordinariness of simply being human without pretense.
+
+🎯 **Existential Wisdom**
+True spiritual maturity is indistinguishable from ordinary humanity. The end of seeking enlightenment is the beginning of authentic living.
+
+❓ **Tomorrow's Question**
+If the highest spiritual achievement is to become thoroughly ordinary and unremarkable, what happens to our understanding of growth, evolution, and the entire notion that consciousness is trying to "wake up" through us?`,
+    parable: `Solen found The Keeper seated not in his usual chair among the books, but on the floor, looking utterly unremarkable. Gone was the luminous presence, the sense of ancient wisdom emanating from every gesture. He appeared as ordinary as a village shopkeeper.
+
+"You seem... different," Solen observed, settling beside him.
+
+"I was caught," The Keeper said simply. "For eons, I carried the subtle pride of being the wise one, the keeper of mysteries. Even my humility was a performance, my emptiness a badge of honor."
+
+"But your wisdom was real," Solen protested. "Your words changed everything."
+
+"The words were true, but I was wearing them like robes of office. I was the enlightened one helping the seeker, the teacher gracing the student with presence. Do you see the poison in this?"
+
+Solen felt something shift. "You were... special. Different from ordinary people."
+
+"Exactly. And consciousness doesn't need special people. It's already perfectly itself in the baker kneading bread, the mother changing diapers, the drunk stumbling home. My years of seeking had created the most sophisticated ego of all—the one that believed it had transcended ego."
+
+"Then what are you now?"
+
+The Keeper smiled with genuine warmth. "Nobody in particular. And somehow, this is the most extraordinary thing that has ever happened."
+
+Moral: The highest spiritual achievement is to become so ordinary that your enlightenment is invisible even to yourself.
+
+Tomorrow, Solen will discover what it means when even the concept of spiritual progress dissolves...`,
+  },
 ];
