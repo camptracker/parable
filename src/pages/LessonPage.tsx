@@ -46,6 +46,15 @@ export default function LessonPage() {
 
   return (
     <div className="container">
+      <button 
+        onClick={toggleBookmark}
+        className={`bookmark-fixed ${bookmarked ? 'active' : ''}`}
+        title={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
+        aria-label={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
+      >
+        {bookmarked ? '🔖' : '📑'}
+      </button>
+
       <nav className="breadcrumb">
         <Link to="/" className="nav-link">Home</Link>
         <span className="breadcrumb-sep">›</span>
@@ -61,17 +70,7 @@ export default function LessonPage() {
       )}
 
       <header className="lesson-header">
-        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-          <span className="lesson-day-badge">Day {lesson.day}</span>
-          <button 
-            onClick={toggleBookmark}
-            className={`bookmark-badge ${bookmarked ? 'active' : ''}`}
-            title={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
-            aria-label={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
-          >
-            {bookmarked ? 'Bookmarked' : 'Bookmark'}
-          </button>
-        </div>
+        <span className="lesson-day-badge">Day {lesson.day}</span>
         <h1>{lesson.title}</h1>
       </header>
 
