@@ -338,10 +338,15 @@ body {
   cursor: pointer;
   transition: all 0.2s;
   line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
 }
 .bookmark-fixed:hover {
   background: var(--gold-bg);
   border-color: var(--gold);
+  color: var(--gold);
 }
 .bookmark-fixed.active {
   color: var(--gold);

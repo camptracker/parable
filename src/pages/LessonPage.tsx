@@ -52,7 +52,7 @@ export default function LessonPage() {
         title={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
         aria-label={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
       >
-        {bookmarked ? '🔖' : '📑'}
+        {bookmarked ? '★' : '☆'}
       </button>
 
       <nav className="breadcrumb">
