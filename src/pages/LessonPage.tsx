@@ -61,15 +61,15 @@ export default function LessonPage() {
       )}
 
       <header className="lesson-header">
-        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
           <span className="lesson-day-badge">Day {lesson.day}</span>
           <button 
             onClick={toggleBookmark}
-            className="bookmark-btn"
+            className={`bookmark-badge ${bookmarked ? 'active' : ''}`}
             title={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
             aria-label={bookmarked ? "Remove bookmark" : "Bookmark this lesson"}
           >
-            {bookmarked ? '🔖' : '📑'}
+            {bookmarked ? 'Bookmarked' : 'Bookmark'}
           </button>
         </div>
         <h1>{lesson.title}</h1>

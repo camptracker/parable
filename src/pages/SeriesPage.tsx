@@ -36,7 +36,7 @@ export default function SeriesPage() {
         <p className="subtitle">{s.theme}</p>
         {bookmarkedDay && (
           <button onClick={scrollToBookmark} className="scroll-to-bookmark-btn">
-            🔖 Jump to Bookmark (Day {bookmarkedDay})
+            Jump to Bookmark (Day {bookmarkedDay})
           </button>
         )}
       </header>
@@ -54,10 +54,7 @@ export default function SeriesPage() {
                 <img src={`${import.meta.env.BASE_URL}${lesson.image}`} alt={lesson.title} className="lesson-card-img" />
               )}
               <div className="lesson-card-text">
-                <span className="lesson-day">
-                  Day {lesson.day}
-                  {isBookmarked && <span className="bookmark-indicator"> 🔖</span>}
-                </span>
+                <span className="lesson-day">Day {lesson.day}</span>
                 <span className="lesson-title">{lesson.title}</span>
               </div>
             </Link>
