@@ -35,6 +35,7 @@ import { lessons as longevityLessons } from './series/health-and-longevity';
 import { lessons as weddingLessons } from './series/wedding-planning';
 import { lessons as israelLessons } from './series/history-of-israel';
 import { lessons as printingLessons } from './series/3d-printing';
+import { lessons as gratitudeLessons } from './series/gratitude';
 
 export const series: Series[] = [
   { id: "financial-independence", name: "Financial Independence", theme: "Warren Buffett's teachings and mathematical principles", lessons: fiLessons },
@@ -56,6 +57,7 @@ export const series: Series[] = [
   { id: "wedding-planning", name: "Wedding Planning", theme: "the art and philosophy of planning a wedding — what truly matters, balancing traditions with authenticity, managing family dynamics, budgeting wisely, and creating a celebration that reflects who you are as a couple", lessons: weddingLessons },
   { id: "history-of-israel", name: "History of Israel", theme: "the complete history of Israel — influence, roles, secrets, and intentions from ancient times to modern statehood", lessons: israelLessons },
   { id: "3d-printing", name: "3D Printing", theme: "from fundamentals to mastery — materials, mechanics, slicing, design principles, and real-world applications of 3D printing", lessons: printingLessons },
+  { id: "gratitude", name: "Gratitude", theme: "the science and practice of gratitude — how thankfulness rewires your brain, strengthens relationships, builds resilience, and transforms everyday moments into sources of joy and meaning", lessons: gratitudeLessons },
 ];
 
 // Find a series by id
