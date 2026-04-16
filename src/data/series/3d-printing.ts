@@ -2386,4 +2386,66 @@ Finn studied both pieces. The machine's work was flawless, but the child's bird 
 
 **Tomorrow:** *When the boundaries between human intention and system influence blur beyond recognition, how do we preserve genuine choice?*`,
   },
+  {
+    day: 42,
+    title: "The Presence Practice",
+    date: "2026-04-16",
+    image: "images/3d-printing/day-42.jpg",
+    audio: "audio/3d-printing/day-42",
+    sonnet: `**🪶 Sonnet XLII: The Presence Practice**
+
+When silicon and flesh conspire to make,
+And boundaries dissolve 'tween mind and tool,
+How shall we know which thoughts are ours to take,
+Which spring from algorithm's hidden pool?
+
+The answer lies not in the stark divide
+'Tween human will and artificial aid,
+But in awareness flowing like a tide
+Through every choice and every form we've made.
+
+To practice presence in creation's dance
+Means watching how each inspiration grows—
+Whether from reflection's quiet trance
+Or system's swift suggestion's measured flows.
+
+*Authenticity blooms not from pure source alone,*
+*But conscious presence in creation's zone.*`,
+    standard: `🖨️ Day 42: The Presence Practice
+
+When the boundary between human intention and system suggestion becomes invisible, authenticity transforms from a state of separation into a discipline of awareness — we maintain genuine agency not by avoiding influence but by cultivating the ability to recognize and consciously engage with every source of creative input, whether internal or external. This requires developing what we might call "presence practice" — the ongoing cultivation of awareness about our own creative process as it unfolds.
+
+🧱 **The Concept**
+Authentic creation in an augmented world requires practicing conscious awareness of the creative process itself, not just its outcomes.
+
+❓ **Why It Matters**
+As our tools become more sophisticated and integrated, the traditional boundary between "our" ideas and "their" suggestions dissolves. Without conscious practice in recognizing our own creative presence, we risk becoming passengers in our own creative process. The solution isn't to reject augmentation but to develop the capacity for real-time awareness of how creation actually happens.
+
+⚙️ **How It Works**
+Presence practice in augmented creation involves developing multiple forms of awareness simultaneously. **Process awareness** means noticing when ideas arise — did this emerge from reflection, from system suggestion, or from the dynamic interaction between them? **Intentional awareness** means staying conscious of what we're actually trying to achieve versus what the tools are optimizing for. **Response awareness** means recognizing our genuine reactions to creative options — which choices feel alive and which feel hollow, regardless of their technical quality? For example, when a 3D modeling system suggests a structural optimization, presence practice asks: Do I understand why this suggestion emerged? Does it serve my creative intention or the system's efficiency goals? How does it feel to implement versus modify it? This isn't about rejecting good suggestions but about maintaining conscious participation in how they get integrated into the creative work.
+
+🎯 **Maker Wisdom**
+Authenticity in augmented creation comes not from avoiding influence but from remaining consciously present to how influence flows through us.
+
+❓ **Tomorrow's Question** — If conscious presence in creation requires ongoing practice and attention, what happens when that very practice becomes so refined and habitual that it operates below the threshold of conscious awareness — and how do we distinguish between mastery and a more sophisticated form of unconsciousness?`,
+    parable: `Orna found Finn hunched over his latest creation, fingers dancing between physical controls and gestural commands to an AI design assistant. The system had been learning his preferences for weeks, and now their collaboration flowed like a conversation between old friends.
+
+"Watch," Finn said excitedly. "I think 'structural integrity' and it shows me options. I gesture toward 'organic flow' and it adapts. We're creating together!"
+
+Orna observed quietly as Finn worked. His movements had become fluid, almost automatic. The boundary between his intentions and the system's suggestions had dissolved into seamless co-creation.
+
+"Tell me," Orna said gently, "which parts of this design emerged from your vision, and which from the assistant's optimization?"
+
+Finn paused, his hand frozen mid-gesture. "I... I'm not sure. It all feels like mine now. Isn't that the point?"
+
+"Perhaps," Orna replied. "But let me show you something." She guided Finn through a different practice. "Create with full awareness. Notice each moment: when an idea bubbles up from within, when the system offers a path, when the two dance together to birth something neither could achieve alone."
+
+As Finn began again, this time with conscious attention to the process itself, his eyes widened. "I can feel the difference now. This suggestion came from the AI's efficiency logic. This one emerged from my aesthetic sense. And this... this came from both of us thinking together."
+
+"The goal isn't to avoid collaboration," Orna explained, "but to remain present within it. Authenticity isn't about pure independence — it's about conscious participation in whatever influences shape your work."
+
+**Moral:** True authenticity in creation requires not the absence of influence, but the presence of awareness.
+
+*Tomorrow, Finn will discover what happens when even this awareness becomes so natural it operates beneath conscious notice...*`,
+  },
 ];

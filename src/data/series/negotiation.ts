@@ -3223,4 +3223,62 @@ Vasska smiled as Ren absorbed their warnings. "Sometimes, young friend, neutrali
 
 *Tomorrow, Ren will discover that some truths require not just courage to speak, but honor to bear...*`,
   },
+  {
+    day: 51,
+    title: "The Courage Crown",
+    date: "2026-04-16",
+    image: "images/negotiation/day-51.jpg",
+    audio: "audio/negotiation/day-51",
+    sonnet: `**🪶 Sonnet LI: The Courage Crown**
+
+When lesser souls would smile and nod along,
+You seek the brave who dare to speak their mind,
+Who stand apart from the agreeable throng,
+The rare few willing to be honestly kind.
+
+"You alone possess the courage true," you say,
+"To tell me what these cowards will not share,
+To save me from the path that leads astray,
+While others watch my ruin without care."
+
+Behold how pride transforms the stubborn heart,
+Once crowned with virtue's gleaming, golden band,
+They play with passion their courageous part,
+Defending you with their own loyal hand.
+
+*For when you make their honesty their crown,*
+*They'll wear it proudly, never let you down.*`,
+    standard: `🤝 Day 51: The Courage Crown
+
+When you make someone the sole bearer of brave honesty, they don't just tell you the truth—they become addicted to being your most trusted advisor. By framing their honesty as courage that others lack, you transform them from reluctant truth-teller into proud guardian of your best interests, someone who takes pride in their unique willingness to "save you from yourself."
+
+🧱 **The Concept**
+People will fight harder to maintain a flattering identity than to pursue their original interests.
+
+❓ **Why It Matters**
+Once someone sees themselves as your uniquely courageous advisor, they become psychologically invested in living up to that identity. They'll continue offering guidance, support, and concessions to prove they deserve the crown of courage you've placed on their head.
+
+⚙️ **How It Works**
+The Courage Crown works by making someone's self-worth dependent on maintaining their role as your brave truth-teller. When a client hesitates about a premium service, you might say: "I appreciate that you're the kind of person who asks the hard questions others won't. Most people just smile and nod, but you actually care enough to challenge me on whether this is really necessary." Now they must continue being "courageous" by engaging deeply with your proposal. A manager might tell a resistant employee: "You're the only one on this team brave enough to voice real concerns. Everyone else just goes along to get along, but I know I can count on you for honest feedback." The employee now owns the identity of "brave truth-teller" and will engage more thoughtfully rather than simply resist.
+
+🎯 **Negotiation Wisdom**
+Make someone proud of the very behavior you want to see more of, and they'll perform that behavior to maintain their elevated self-image.
+
+❓ **Tomorrow's Question** — If crowning someone with courage makes them perform that courage to maintain their identity, what happens when you make them feel like their courage is being tested by a situation that reveals whether they're truly as brave as they believe themselves to be?`,
+    parable: `The morning mist clung to the harbor as Ren watched Vasska approach the most stubborn merchant in the district—old Henrik, whose reputation for driving brutal bargains was legend. Ren had seen a dozen traders leave Henrik's stall empty-handed and deflated.
+
+"Henrik," Vasska began, his blind eye catching the lamplight, "I need someone brave enough to tell me something no one else will." The old merchant's scarred hands paused over his ledger. "Every other trader in this harbor smiles and agrees with whatever I say. But you—you're the only one with the spine to tell a man when he's being a fool."
+
+Henrik's weathered face shifted, pride flickering beneath his perpetual scowl. "Most men can't handle the truth," he grunted.
+
+"Exactly why I'm here," Vasska continued. "I'm about to make what might be a terrible mistake, and I need someone courageous enough to save me from myself. Will you look at my proposal and tell me honestly if I'm about to throw away my silver?"
+
+For the next hour, Ren watched in amazement as Henrik—the man who crushed other merchants—carefully reviewed Vasska's terms, offering thoughtful suggestions and protective warnings. The very merchant known for ruthless negotiation was now defending Vasska's interests as fiercely as his own.
+
+When they shook hands on a deal heavily favoring Vasska, Henrik actually smiled. "Good thing you came to someone willing to speak truth," he said. "Those other cowards would have let you walk into disaster."
+
+**Moral:** Make someone proud of the very behavior you need from them, and they will perform it to preserve their elevated self-image.
+
+**Tomorrow:** When courage becomes identity, what happens when that identity faces its ultimate test?`,
+  },
 ];

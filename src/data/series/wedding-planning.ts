@@ -2843,4 +2843,66 @@ Nana Rose smiled. "That, my dear, is what your guests will remember."
 
 *Tomorrow, we discover what happens when love becomes the lens through which every wedding moment is experienced...*`,
   },
+  {
+    day: 46,
+    title: "The Sacred Magnetism",
+    date: "2026-04-16",
+    image: "images/wedding-planning/day-46.jpg",
+    audio: "audio/wedding-planning/day-46",
+    sonnet: `**🪶 Sonnet XLVI: The Sacred Magnetism**
+
+When lovers meet with eyes that truly see,
+Their joy becomes a beacon in the night,
+Drawing all hearts to love's sweet mystery,
+Transforming watchers by their sacred light.
+
+No decoration matches the pure glow
+Of partners lost in wonder at their choice,
+When authentic connection starts to flow,
+The room falls silent, listening to love's voice.
+
+Guests cease their chatter, phones forgotten quite,
+Enraptured by the truth they witness there—
+That love can still burn steady, burning bright,
+Beyond the cynicism and despair.
+
+*Your union's magnetism draws all near,*
+*When genuine devotion casts out fear.*`,
+    standard: `💍 Day 46: The Sacred Magnetism
+
+To create that moment of pure, unguarded love, you'd need to plan deliberate pockets of connection throughout your celebration—micro-retreats where you actually look into each other's eyes, touch each other's hands, and remember why you're there. This means scheduling brief intermissions from hosting duties to simply be present with each other, understanding that your guests will be more moved by witnessing authentic intimacy than by experiencing flawless execution.
+
+🧱 **The Concept**
+Your authentic connection as a couple becomes the gravitational center that draws every guest into a deeper experience of love itself.
+
+❓ **Why It Matters**
+When guests witness genuine intimacy between partners, it awakens something sacred in their own capacity for love. People don't just remember beautiful weddings—they remember weddings where they felt love's transformative power radiating from the couple outward.
+
+⚙️ **How It Works**
+This magnetism emerges when you prioritize connection over performance throughout your celebration. Instead of rushing between photos and obligations, you build in moments to actually see each other—during your first look, between ceremony and reception, or while sharing your first dance. When you're genuinely present with each other, guests stop focusing on decorations or dinner and start experiencing what mature, committed love actually feels like in real time. Your joy becomes contagious not because it's performed, but because it's authentic, and authenticity always draws people deeper into their own hearts.
+
+🎯 **Wedding Wisdom**
+Your wedding's power lies not in impressing guests but in inspiring them through the magnetic force of genuine love.
+
+❓ **Tomorrow's Question** — If you could guarantee that your wedding would plant one specific seed about love's possibilities in every guest's heart that would continue growing long after your celebration ends, what seed would you want to plant, and what would that require you to demonstrate rather than simply declare?`,
+    parable: `Dove found herself studying old photographs in Nana Rose's album, each image capturing couples from decades past. "I notice something," she murmured, pointing to a picture from 1987. "In this one, everyone's looking at the camera. But in this one from '92, everyone's looking at the couple."
+
+Nana Rose smiled knowingly. "Ah, you've discovered the secret. That second couple—they were so genuinely delighted with each other that their joy became magnetic. Guests forgot to pose and simply watched love unfold."
+
+Elm leaned closer, studying the photograph. "The couple isn't even doing anything special. They're just... connected."
+
+"Exactly," Nana Rose said. "They understood that their love wasn't the backdrop for their wedding—it was the main event. Every other element simply provided space for that love to be witnessed and felt."
+
+Dove traced her finger along the image. "How do we create that kind of magnetism?"
+
+"By refusing to treat each other as co-producers of an event," Nana Rose replied. "When you remember that you're celebrating a love story rather than staging one, your authentic connection becomes irresistible. Guests stop evaluating your choices and start feeling your joy. They leave carrying something they witnessed, not just something they attended."
+
+Elm nodded slowly. "So the question isn't how to entertain our guests, but how to let them experience what love actually looks like when it's real."
+
+"Now you understand," Nana Rose said, closing the album gently. "Your love story has the power to rewrite your guests' understanding of what's possible in their own relationships."
+
+**Moral**: Authentic connection between partners creates a gravitational pull that draws every guest into a deeper experience of love's transformative power.
+
+*Tomorrow, we explore what specific gifts your love story can offer to every heart present...*`,
+  },
 ];
