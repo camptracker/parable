@@ -2905,4 +2905,65 @@ Elm nodded slowly. "So the question isn't how to entertain our guests, but how t
 
 *Tomorrow, we explore what specific gifts your love story can offer to every heart present...*`,
   },
+  {
+    day: 47,
+    title: "The Sacred Ripple",
+    date: "2026-04-17",
+    image: "images/wedding-planning/day-47.jpg",
+    audio: "audio/wedding-planning/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Sacred Ripple**
+
+One stone cast in love's eternal pool
+Sends circles wide beyond the wedding day,
+Each guest becomes both witness and new tool
+To carry forth what they have seen at play.
+The tender glance when stress begins to mount,
+The gentle laugh when plans fall apart,
+The way you make each other's comfort count—
+These moments etch upon each watching heart.
+For weddings teach what speeches never could:
+That love is both the lightning and the ground,
+Both wild romance and daily brotherhood,
+Both soaring high and keeping safe and sound.
+*Your union becomes every guest's new guide,*
+*A ripple spreading love both deep and wide.*`,
+    standard: `💍 Day 47: The Sacred Ripple
+
+The seed most worth planting is that love can be both wildly romantic and deeply practical, both passionate and peaceful—that these aren't contradictions but the very wholeness that makes a relationship sustainable and inspiring. This requires demonstrating how you handle both the magical moments and the mundane logistics with equal grace, showing guests that real love isn't diminished by practical concerns but actually strengthened by partners who can navigate life's complexities together with both tenderness and competence.
+
+🧱 **The Concept**
+Your wedding creates ripples that extend far beyond your celebration, influencing how every guest thinks about love, commitment, and possibility in their own relationships.
+
+❓ **Why It Matters**
+Weddings are one of the few times adults witness another couple's love story up close, making your celebration a powerful teaching moment about what marriage can be. The way you treat each other, handle challenges, and embody partnership becomes a living example that guests carry into their own relationships. Your wedding doesn't just celebrate your love—it expands what others believe love can look like.
+
+⚙️ **How It Works**
+Every interaction between you and your partner teaches something: when you comfort each other during stressful moments, guests see that love provides refuge; when you laugh together at unexpected changes, they witness resilience; when you prioritize each other's needs even while hosting, they observe true partnership. The couple who helps each other with practical details while maintaining affection shows that romance and responsibility can coexist. When you handle family tensions with united grace, guests see how love creates a new primary allegiance. These moments matter more than any speech about love because they demonstrate love in action. Your wedding becomes a masterclass in partnership that guests will reference for years when facing their own relationship challenges.
+
+🎯 **Wedding Wisdom**
+Your wedding is not just your love story—it's a love story that teaches every witness something new about what's possible between two people committed to each other.
+
+❓ **Tomorrow's Question** — If you discovered that your wedding's true legacy would be determined by how you navigate one unexpected moment of genuine difficulty or tension in front of all your guests, what kind of partnership would you want that moment to reveal, and what would that require you to practice between now and your wedding day?`,
+    parable: `Dove sat in Nana Rose's garden, watching the evening light dance across the fountain. "I keep thinking about what our wedding will teach people," she confessed. "Like, what will they learn about love from watching us?"
+
+Nana Rose smiled, dipping her fingers in the water. "Watch this," she said, creating a single ripple that spread outward in perfect circles. "One touch, countless waves."
+
+Elm joined them, settling beside Dove. "I've been thinking about that too. Like when my cousin's husband helped her with her dress when it got caught at their reception. Such a small thing, but everyone saw it. My aunt still talks about that moment—how gentle he was, how natural it looked."
+
+"Exactly," Nana Rose nodded. "That moment taught everyone watching that husbands can be tender caretakers, not just providers or partners. It expanded what love looked like for every person there."
+
+Dove leaned against Elm's shoulder. "So when we laugh together when something goes wrong, or when you make sure I've eaten during the cocktail hour..."
+
+"People see that love is both passionate and practical," Elm finished. "That romance doesn't disappear when you take care of each other's real needs."
+
+Nana Rose created another ripple. "I've seen weddings change marriages. Guests who witness genuine partnership often go home and start treating their own spouses differently. They see possibilities they hadn't considered. Your love story doesn't just belong to you—it becomes part of everyone's understanding of what marriage can be."
+
+"The ripples keep spreading," Dove whispered, watching the water settle.
+
+"Long after the last dance," Nana Rose agreed.
+
+**Moral:** Your wedding creates expanding circles of influence, teaching every witness something new about love's possibilities through the partnership they observe.
+
+**Tomorrow:** What happens when unexpected challenges become your greatest teaching moments?`,
+  },
 ];
