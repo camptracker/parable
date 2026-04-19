@@ -4,7 +4,7 @@
       "seriesId": "financial-independence",
       "seriesName": "Financial Independence",
       "seriesTheme": "Warren Buffett's teachings and mathematical principles",
-      "seriesEmoji": "\ud83d\udcb0",
+      "seriesEmoji": "💰",
       "wisdomLabel": "Buffett Wisdom",
       "parableCharacters": "Kael (village boy), Sable (elder), Tobren (farmer)"
     },
@@ -12,147 +12,159 @@
       "seriesId": "nutrition-science",
       "seriesName": "Nutrition Science",
       "seriesTheme": "the science of how food fuels your body, from macronutrients to metabolism",
-      "seriesEmoji": "\ud83c\udf4e",
+      "seriesEmoji": "🍎",
       "wisdomLabel": "Science Wisdom",
       "parableCharacters": "Lila (apprentice), Maren (village healer with three hearths)"
     },
     {
       "seriesId": "negotiation",
       "seriesName": "Negotiation",
-      "seriesTheme": "FBI hostage negotiation tactics, persuasion psychology, and everyday deal-making \u2014 Chris Voss, Robert Cialdini, and real-world frameworks",
-      "seriesEmoji": "\ud83e\udd1d",
+      "seriesTheme": "FBI hostage negotiation tactics, persuasion psychology, and everyday deal-making — Chris Voss, Robert Cialdini, and real-world frameworks",
+      "seriesEmoji": "🤝",
       "wisdomLabel": "Negotiation Wisdom",
       "parableCharacters": "Ren (young merchant), Vasska (master trader with a silver tongue and one blind eye)"
     },
     {
       "seriesId": "stoic-philosophy",
       "seriesName": "Stoic Philosophy",
-      "seriesTheme": "ancient Stoic teachings from Marcus Aurelius, Epictetus, and Seneca \u2014 mental resilience, emotional control, and living with purpose",
-      "seriesEmoji": "\ud83c\udfdb\ufe0f",
+      "seriesTheme": "ancient Stoic teachings from Marcus Aurelius, Epictetus, and Seneca — mental resilience, emotional control, and living with purpose",
+      "seriesEmoji": "🏛️",
       "wisdomLabel": "Stoic Wisdom",
       "parableCharacters": "Caius (young Roman soldier), Maxima (battle-scarred general turned philosopher)"
     },
     {
       "seriesId": "music-theory",
       "seriesName": "Music Theory",
-      "seriesTheme": "the building blocks of music \u2014 notes, scales, chords, rhythm, harmony, and why certain sounds make you feel things",
-      "seriesEmoji": "\ud83c\udfb5",
+      "seriesTheme": "the building blocks of music — notes, scales, chords, rhythm, harmony, and why certain sounds make you feel things",
+      "seriesEmoji": "🎵",
       "wisdomLabel": "Musical Insight",
       "parableCharacters": "Wren (street musician with perfect pitch), Old Ferro (blind piano tuner who hears colors)"
     },
     {
       "seriesId": "real-estate",
       "seriesName": "Real Estate Investing",
-      "seriesTheme": "building wealth through property \u2014 from your first rental to cash flow analysis, leverage, market cycles, and passive income",
-      "seriesEmoji": "\ud83c\udfe0",
+      "seriesTheme": "building wealth through property — from your first rental to cash flow analysis, leverage, market cycles, and passive income",
+      "seriesEmoji": "🏠",
       "wisdomLabel": "Real Estate Wisdom",
       "parableCharacters": "Dara (carpenter's daughter), Hallam (old landlord who owns half the village)"
     },
     {
       "seriesId": "storytelling",
       "seriesName": "Storytelling",
-      "seriesTheme": "the craft of storytelling \u2014 narrative structure, character arcs, tension, pacing, dialogue, and what makes stories unforgettable. From campfire tales to screenwriting.",
-      "seriesEmoji": "\ud83d\udcd6",
+      "seriesTheme": "the craft of storytelling — narrative structure, character arcs, tension, pacing, dialogue, and what makes stories unforgettable. From campfire tales to screenwriting.",
+      "seriesEmoji": "📖",
       "wisdomLabel": "Storytelling Wisdom",
       "parableCharacters": "Pip (wandering bard who can't finish a story), Osha (ancient weaver who speaks only in tales)"
     },
     {
       "seriesId": "building-relationships",
       "seriesName": "Building Relationships",
-      "seriesTheme": "the science and art of building lasting romantic relationships \u2014 communication, love languages, conflict resolution, emotional intelligence, trust, and growing together",
-      "seriesEmoji": "\ud83d\udc95",
+      "seriesTheme": "the science and art of building lasting romantic relationships — communication, love languages, conflict resolution, emotional intelligence, trust, and growing together",
+      "seriesEmoji": "💕",
       "wisdomLabel": "Relationship Wisdom",
       "parableCharacters": "Ash and Lume (two travelers who chose the same road), Elder Rynn (keeper of the Bridge of Vows)"
     },
     {
       "seriesId": "cooking",
       "seriesName": "Cooking",
-      "seriesTheme": "the art and science of cooking \u2014 techniques, flavor profiles, knife skills, heat control, seasoning, cuisines of the world, and the chemistry behind why recipes work",
-      "seriesEmoji": "\ud83c\udf73",
+      "seriesTheme": "the art and science of cooking — techniques, flavor profiles, knife skills, heat control, seasoning, cuisines of the world, and the chemistry behind why recipes work",
+      "seriesEmoji": "🍳",
       "wisdomLabel": "Culinary Wisdom",
       "parableCharacters": "Sage (young apprentice cook with a curious palate), Ember (old chef who lost her sense of taste but cooks by memory and instinct)"
     },
     {
       "seriesId": "meaning-of-life",
       "seriesName": "Meaning of Life",
-      "seriesTheme": "the deepest philosophical question \u2014 existentialism, religion, absurdism, purpose, consciousness, and what thinkers from Aristotle to Camus to Viktor Frankl have said about why we're here",
-      "seriesEmoji": "\ud83c\udf0c",
+      "seriesTheme": "the deepest philosophical question — existentialism, religion, absurdism, purpose, consciousness, and what thinkers from Aristotle to Camus to Viktor Frankl have said about why we're here",
+      "seriesEmoji": "🌌",
       "wisdomLabel": "Existential Wisdom",
       "parableCharacters": "Solen (wanderer who woke with no memory), The Keeper (ancient librarian of a tower with no doors)"
     },
     {
       "seriesId": "how-to-scale",
       "seriesName": "How to Scale",
-      "seriesTheme": "scaling startups, teams, and systems \u2014 from 0\u21921 to 1\u2192100, hiring, delegation, technical architecture, organizational design, and lessons from founders who built billion-dollar companies",
-      "seriesEmoji": "\ud83d\ude80",
+      "seriesTheme": "scaling startups, teams, and systems — from 0→1 to 1→100, hiring, delegation, technical architecture, organizational design, and lessons from founders who built billion-dollar companies",
+      "seriesEmoji": "🚀",
       "wisdomLabel": "Scaling Wisdom",
       "parableCharacters": "Vex (young builder of a small workshop), Ironmere (retired architect who once built a city from nothing)"
     },
     {
       "seriesId": "machine-learning",
       "seriesName": "Machine Learning",
-      "seriesTheme": "the fundamentals of machine learning \u2014 from linear regression to neural networks, gradient descent, backpropagation, transformers, and the math and intuition behind how machines learn",
-      "seriesEmoji": "\ud83e\udd16",
+      "seriesTheme": "the fundamentals of machine learning — from linear regression to neural networks, gradient descent, backpropagation, transformers, and the math and intuition behind how machines learn",
+      "seriesEmoji": "🤖",
       "wisdomLabel": "ML Insight",
       "parableCharacters": "Nyx (curious apprentice in the Hall of Patterns), The Archivist (ancient scholar who taught stone tablets to predict the rain)"
     },
     {
       "seriesId": "emotional-intelligence",
       "seriesName": "Emotional Intelligence",
-      "seriesTheme": "understanding and managing emotions \u2014 self-awareness, empathy, social skills, emotional regulation, and reading people. Daniel Goleman, Paul Ekman, and the science of what makes humans connect",
-      "seriesEmoji": "\ud83e\udded",
+      "seriesTheme": "understanding and managing emotions — self-awareness, empathy, social skills, emotional regulation, and reading people. Daniel Goleman, Paul Ekman, and the science of what makes humans connect",
+      "seriesEmoji": "🧭",
       "wisdomLabel": "EQ Wisdom",
       "parableCharacters": "Idris (young diplomat prone to outbursts), The Veil (masked elder who speaks only in questions and mirrors back what others feel)"
     },
     {
       "seriesId": "habits-and-systems",
       "seriesName": "Habits & Systems",
-      "seriesTheme": "building identity-based habits, designing systems that compound, breaking bad loops, and becoming the person who does the things \u2014 James Clear, BJ Fogg, and the science of behavior change",
-      "seriesEmoji": "\ud83e\uddd8",
+      "seriesTheme": "building identity-based habits, designing systems that compound, breaking bad loops, and becoming the person who does the things — James Clear, BJ Fogg, and the science of behavior change",
+      "seriesEmoji": "🧘",
       "wisdomLabel": "Systems Wisdom",
       "parableCharacters": "Rook (restless wanderer who starts everything and finishes nothing), Cairn (stone-carver who has done one thing every day for forty years)"
     },
     {
       "seriesId": "leadership",
       "seriesName": "Leadership & Influence",
-      "seriesTheme": "inspiring people, building trust, servant leadership, giving feedback, mentoring, and the difference between authority and influence \u2014 from Lincoln to Mandela to modern tech leaders",
-      "seriesEmoji": "\ud83d\udc65",
+      "seriesTheme": "inspiring people, building trust, servant leadership, giving feedback, mentoring, and the difference between authority and influence — from Lincoln to Mandela to modern tech leaders",
+      "seriesEmoji": "👥",
       "wisdomLabel": "Leadership Wisdom",
       "parableCharacters": "Tova (newly appointed captain of a struggling crew), Greymane (retired admiral who led through listening, not orders)"
     },
     {
       "seriesId": "health-and-longevity",
       "seriesName": "Health & Longevity",
-      "seriesTheme": "the science of living longer and better \u2014 sleep, exercise physiology, stress management, aging, recovery, and the habits that add decades of healthy life. Peter Attia, Andrew Huberman, and evidence-based longevity",
-      "seriesEmoji": "\u23f3",
+      "seriesTheme": "the science of living longer and better — sleep, exercise physiology, stress management, aging, recovery, and the habits that add decades of healthy life. Peter Attia, Andrew Huberman, and evidence-based longevity",
+      "seriesEmoji": "⏳",
       "wisdomLabel": "Longevity Wisdom",
       "parableCharacters": "Senna (young healer obsessed with curing illness), Dusk (ancient wanderer who has outlived empires and claims the secret is boring)"
     },
     {
       "seriesId": "wedding-planning",
       "seriesName": "Wedding Planning",
-      "seriesTheme": "the art and philosophy of planning a wedding \u2014 what truly matters, balancing traditions with authenticity, managing family dynamics, budgeting wisely, creating meaningful ceremonies, and building a celebration that reflects who you are as a couple",
-      "seriesEmoji": "\ud83d\udc8d",
+      "seriesTheme": "the art and philosophy of planning a wedding — what truly matters, balancing traditions with authenticity, managing family dynamics, budgeting wisely, creating meaningful ceremonies, and building a celebration that reflects who you are as a couple",
+      "seriesEmoji": "💍",
       "wisdomLabel": "Wedding Wisdom",
       "parableCharacters": "Dove (bride-to-be overwhelmed by expectations), Elm (her grounded partner), Nana Rose (wise wedding planner who has seen a thousand ceremonies)"
     },
     {
       "seriesId": "history-of-israel",
       "seriesName": "History of Israel",
-      "seriesTheme": "the complete history of Israel \u2014 from ancient Canaan to modern statehood, the influence of Jewish thought on civilization, the roles Israel has played across empires and centuries, hidden power structures, intelligence operations, geopolitical secrets, and the intentions behind pivotal decisions that shaped the Middle East and the world",
-      "seriesEmoji": "\ud83d\udd4e",
+      "seriesTheme": "the complete history of Israel — from ancient Canaan to modern statehood, the influence of Jewish thought on civilization, the roles Israel has played across empires and centuries, hidden power structures, intelligence operations, geopolitical secrets, and the intentions behind pivotal decisions that shaped the Middle East and the world",
+      "seriesEmoji": "🕎",
       "wisdomLabel": "Historical Wisdom",
       "parableCharacters": "Ezra (young scribe seeking forbidden archives), Miriam the Keeper (ageless librarian who guards the true records beneath the Temple Mount)"
     },
     {
       "seriesId": "3d-printing",
       "seriesName": "3D Printing",
-      "seriesTheme": "From fundamentals to mastery \u2014 materials, mechanics, slicing, design principles, and real-world applications of 3D printing",
-      "seriesEmoji": "\ud83d\udda8\ufe0f",
+      "seriesTheme": "From fundamentals to mastery — materials, mechanics, slicing, design principles, and real-world applications of 3D printing",
+      "seriesEmoji": "🖨️",
       "wisdomLabel": "Maker Wisdom",
       "parableCharacters": "Finn (curious tinkerer), Orna (master fabricator with a workshop of wonders)",
       "recipients": [
         "jon"
+      ]
+    },
+    {
+      "seriesId": "gratitude",
+      "seriesName": "Gratitude",
+      "seriesTheme": "the science and practice of gratitude — how appreciation rewires your brain, builds resilience, strengthens relationships, and creates lasting happiness. From ancient wisdom to modern neuroscience",
+      "seriesEmoji": "🙏",
+      "wisdomLabel": "Gratitude Wisdom",
+      "parableCharacters": "Hana (young apprentice learning to see blessings), Elder Thorn (wise guardian who turned bitterness into gratitude)",
+      "recipients": [
+        "jon",
+        "zany"
       ]
     }
   ]
