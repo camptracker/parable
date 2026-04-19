@@ -3032,4 +3032,71 @@ Dove looked at Elm, seeing not her overwhelmed fiancé but her partner in transf
 
 **Tomorrow:** Dove discovers what her wedding's challenges will predict about her marriage.`,
   },
+  {
+    day: 49,
+    title: "The Sacred Blueprint",
+    date: "2026-04-19",
+    image: "images/wedding-planning/day-49.jpg",
+    audio: "audio/wedding-planning/day-49",
+    sonnet: `**🪶 Sonnet XLIX: The Sacred Blueprint**
+
+Each wedding challenge builds tomorrow's frame,
+The way you choose when pressure mounts high,
+Will teach your love to weather joy and blame,
+And show what marriage means when stakes run nigh.
+
+When flowers fail or vendors disappoint,
+Do you unite or fracture at the seams?
+These moments become each connection point
+That shapes the house where love will build its dreams.
+
+The patience practiced in planning's stress
+Becomes the grace that guards your sacred bond,
+Each gentle word and unified caress
+Creates the strength on which you'll both depend.
+
+*Your wedding day's not just love's celebration—*
+*It architects your marriage's foundation.*`,
+    standard: `💍 Day 49: The Sacred Blueprint
+
+If your wedding day would predict your marriage's character, you'd want every challenge to reveal your ability to choose each other over being right, to find humor in chaos rather than blame in imperfection, and to respond to pressure by drawing closer together rather than retreating into individual stress. These qualities—choosing unity over ego, grace over control, and connection over self-protection—would create a blueprint for a marriage that deepens rather than diminishes under pressure.
+
+🧱 **The Concept**
+Your wedding day serves as the foundational blueprint for your marriage, establishing the patterns of how you'll navigate every future challenge together.
+
+❓ **Why It Matters**
+The way you handle wedding stress, make decisions under pressure, and treat each other when everything feels chaotic will become the template your relationship defaults to during every major life transition. Your wedding day is essentially a dress rehearsal for your marriage's character.
+
+⚙️ **How It Works**
+Every wedding crisis becomes an opportunity to practice marriage skills: when the flowers arrive wrong, do you blame each other or problem-solve together? When family creates drama, do you present a united front or fracture under pressure? When vendors fail, do you spiral into anxiety or find ways to support each other? These micro-moments of choice during wedding planning and the wedding day itself establish the neural pathways your relationship will follow for years to come. Couples who consciously use wedding challenges as opportunities to practice patience, communication, and teamwork create a foundation of resilience, while those who let stress drive them into reactive patterns often carry those same patterns into marriage.
+
+🎯 **Wedding Wisdom**
+Your wedding day isn't just celebrating your love—it's architecting your marriage's DNA.
+
+❓ **Tomorrow's Question**
+If you discovered that your guests would remember your wedding not for any specific detail but for the overall feeling they experienced while witnessing your love, what single emotion would you want to cultivate so powerfully throughout your celebration that it would permanently shift how they think about what marriage can be?`,
+    parable: `Dove sat surrounded by wedding planning books, her eyes red from another sleepless night of worry. "Elm," she whispered as he found her at the kitchen table, "I keep reading about couples who fight during their engagement and then struggle in their marriage. What if we're creating patterns we can't undo?"
+
+Elm pulled up a chair beside her, studying the scattered notes and timeline sheets. "What patterns are you worried about?" he asked gently.
+
+"Yesterday, when the caterer called with bad news, I immediately started spiraling and you went quiet—like you always do when I get overwhelmed," Dove admitted. "And when your mother suggested changes to our ceremony, we spent two hours arguing instead of figuring out what we actually wanted together."
+
+Nana Rose arrived for their morning meeting to find them both looking contemplative. "You two seem to be wrestling with something deeper than flowers and favors today," she observed, settling into her chair with the wisdom of someone who had witnessed countless couples navigate this exact crossroads.
+
+"We're wondering if the way we're handling wedding stress is... prophetic," Elm said carefully. "Like we're accidentally creating the blueprint for our marriage."
+
+Nana Rose's eyes lit with understanding. "Oh, my dears, you've stumbled upon one of wedding planning's greatest gifts—the opportunity to consciously architect your marriage's foundation." She gestured to their planning materials. "Every challenge you face together between now and your wedding day is practice. Every moment you choose patience over frustration, collaboration over competition, humor over despair—you're literally building the emotional architecture your marriage will live in."
+
+Dove felt her chest tighten. "But we've already had so many stressful moments where we didn't choose well."
+
+"Which means you have dozens more opportunities to practice choosing differently," Nana Rose smiled. "The couples who have the strongest marriages aren't the ones who never faced challenges during their engagement—they're the ones who used every challenge as a chance to learn how to be married to each other."
+
+Elm reached for Dove's hand. "So when the next wedding crisis hits—because it will—we can ask ourselves: 'What kind of married couple do we want to be in this moment?'"
+
+"Exactly," Nana Rose nodded. "Your wedding day will be full of tiny tests—delayed vendors, wardrobe malfunctions, family tensions. Each one is a chance to demonstrate the partnership you want to live inside for the next fifty years."
+
+**Moral:** The patterns you establish while navigating wedding challenges become the blueprint your marriage will follow, making every planning crisis an opportunity to practice the love you want to live.
+
+*Tomorrow, Nana Rose would help them discover how the feeling they create during their celebration could ripple outward to transform every guest's understanding of love's possibilities.*`,
+  },
 ];

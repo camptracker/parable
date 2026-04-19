@@ -3798,4 +3798,62 @@ After the merchants departed, Kael understood something profound. "The wealthy d
 
 *Tomorrow: Kael discovers why true markets require eliminating the middlemen who claim to serve them...*`,
   },
+  {
+    day: 58,
+    title: "The Transition Point",
+    date: "2026-04-19",
+    image: "images/financial-independence/day-58.jpg",
+    audio: "audio/financial-independence/day-58",
+    sonnet: `**🪶 Sonnet LVIII: The Transition Point**
+
+When seedling savings first take root in soil,
+The gardener tends with daily sweat and care,
+Each coin planted through honest, patient toil,
+While dreams of harvest float upon the air.
+
+For years the growth seems slow, the branches thin,
+The laborer's wage exceeds the tree's small yield,
+But compound seasons let the magic begin—
+The orchard's fruit surpasses the worked field.
+
+That golden moment when the trees produce
+More wealth than hands could ever hope to earn,
+The worker finds their shackles coming loose,
+As money learns to work at every turn.
+
+*The transition point where freedom's light appears:*
+*When compound growth exceeds our working years.*`,
+    standard: `💰 Day 58: **The Transition Point**
+
+🧱 **The Concept**
+There comes a moment in wealth-building when compound returns exceed earned income, marking the transition from working for money to having money work for you.
+
+❓ **Why It Matters**
+This crossover point represents true financial independence—when your investments generate more annual income than your job. Most people never reach this transition because they increase spending with income rather than accelerating savings. Recognizing and preparing for this moment changes how you think about work, risk, and life design.
+
+⚙️ **How It Works**
+If you earn $50,000 annually and save 20% ($10,000), investing at 7% returns, your portfolio grows to roughly $500,000 after 20 years, generating $35,000 annually in returns. At this point, your money works harder than you do. The transition accelerates rapidly—within a few more years, investment returns can dwarf employment income entirely. This is why Buffett made 99% of his wealth after age 50, despite starting to invest as a teenager. Early savers reach this point faster, but anyone can reach it by maintaining consistent investment habits.
+
+🎯 **Buffett Wisdom**
+"My wealth has come from a combination of living in America, some lucky genes, and compound interest."
+
+❓ **Tomorrow's Question** — If reaching the transition point where investments outpace income is so mathematically predictable for consistent savers, why do most people instinctively fear this milestone rather than celebrate it, and what does this anxiety about financial independence reveal about our psychological relationship with work itself?`,
+    parable: `As autumn painted the village in copper and gold, Kael found Sable studying the ancient ledgers by candlelight. "Elder," he began, "I've been saving and investing as you taught, but I wonder—will there ever come a time when my money works harder than I do?"
+
+Sable smiled and gestured toward the window where Tobren could be seen in his fields. "Watch our friend carefully, young one. For twenty seasons, Tobren has planted grain with his own hands. Each harvest, he kept a portion of the best seeds rather than selling them all."
+
+Kael observed as Tobren directed several hired workers who were planting his expanded fields. "I see many hands at work, but Tobren seems to be overseeing rather than planting."
+
+"Precisely," Sable nodded. "Those workers represent the seeds he saved and replanted year after year. His accumulated seed-wealth now produces more grain through their labor than he could ever plant himself. This season, the work of his saved seeds will yield more bushels than the work of his own hands."
+
+Kael's eyes widened with understanding. "So there's a crossover point where the fruits of past savings become more productive than current labor?"
+
+"Indeed. Tobren reached his transition point this year—his saved seeds, now working through hired hands, generate more grain than his personal planting could produce. In the same way, your accumulated investments will eventually generate more wealth annually than your job provides."
+
+The elder traced figures in the ledger. "The beautiful paradox is this: the harder you work to reach this point, the less you need to work afterward. But most villagers fear this transition, believing that money they didn't directly earn isn't truly theirs."
+
+**Moral:** *The transition from working for money to having money work for you is not just financial freedom—it's the natural harvest of disciplined saving.*
+
+*Tomorrow, Sable would explore why this liberation often feels like loss...*`,
+  },
 ];
