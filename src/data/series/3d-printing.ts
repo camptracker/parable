@@ -2627,4 +2627,70 @@ The crystal pulsed once more, its light now steady and sure, not despite its ack
 
 **Tomorrow**: The question remains—what happens when growth itself becomes more compelling than comfort?`,
   },
+  {
+    day: 46,
+    title: "The Comfort Current",
+    date: "2026-04-19",
+    image: "images/3d-printing/day-46.jpg",
+    audio: "audio/3d-printing/day-46",
+    sonnet: `**🪶 Sonnet XLVI: The Comfort Current**
+
+Two streams of ease flow through the maker's day:
+One bears us toward the edge of what we know,
+While one sweeps us from challenge's fray
+To shallows where no deeper currents flow.
+
+The first restores like sleep before dawn's light,
+Refreshing hands for work that lies ahead,
+The second soothes like shadows dimming sight,
+Where growth lies still and possibility's dead.
+
+The wise maker learns to read the tide—
+Which comfort serves and which begins to bind,
+Which current aids the journey as a guide,
+And which leaves capability behind.
+
+*For comfort is no harbor from the storm,*
+*But current that can either break or form.*`,
+    standard: `🖨️ Day 46: The Comfort Current
+
+When growth requires deliberate discomfort, we learn to see comfort not as a destination but as a current—something that can either carry us forward or hold us back, depending on how we navigate it. True mastery lies not in avoiding comfort, but in distinguishing between comfort that nourishes growth and comfort that stagnates it.
+
+🧱 **The Concept**
+Comfort becomes a tool for navigation rather than a goal for achievement.
+
+❓ **Why It Matters**
+Our relationship with comfort determines whether we develop resilience or fragility. When comfort becomes our primary metric for decision-making, we optimize for the short term at the expense of long-term capability. Understanding comfort as a current allows us to use it strategically rather than being unconsciously swept along by it.
+
+⚙️ **How It Works**
+Instead of seeking comfort or avoiding discomfort, we learn to read the current: nourishing comfort feels like rest between challenges, while stagnating comfort feels like hiding from necessary growth. A 3D printer operator learns to distinguish between the comfort of mastered techniques (which frees mental space for new challenges) and the comfort of avoiding complex prints (which prevents skill development). Makers develop sensitivity to when ease serves progress versus when it serves avoidance. This creates a dynamic relationship where comfort becomes feedback about our growth trajectory rather than our immediate pleasure. The most skilled makers actively seek the discomfort that signals they're expanding their capabilities.
+
+🎯 **Maker Wisdom**
+Comfort is not the enemy of growth—unconsciousness about comfort is.
+
+❓ **Tomorrow's Question** — If we can learn to read comfort as navigational feedback rather than a goal to pursue, what happens when the feedback itself becomes so sophisticated that we begin optimizing for the 'right kind' of discomfort rather than following our authentic curiosity—and how do we distinguish between growth-oriented discipline and a more subtle form of performance anxiety?`,
+    parable: `Finn found Orna sitting perfectly still in her workshop, surrounded by half-finished projects that seemed to pulse with potential energy. "Master Orna, I've been thinking about yesterday's lesson on confidence and judgment. How do we transform our relationship with comfort and growth?"
+
+Orna opened her eyes slowly. "Ah, Finn. You arrive at the perfect moment. I was just riding the comfort current." She gestured to her stillness. "Tell me—what do you see?"
+
+Finn looked around at the paused projects. "I see... rest?"
+
+"Look deeper. What kind of rest?"
+
+Finn studied Orna's posture, the way her hands lay ready but relaxed, the subtle alertness in her breathing. "It's not the rest of avoidance. It's the rest of... preparation?"
+
+"Precisely." Orna rose gracefully. "There are two currents of comfort, young maker. One carries you toward your next challenge—it restores, refreshes, prepares. The other carries you away from challenge—it soothes, distracts, diminishes."
+
+She moved to her most complex printer, its intricate mechanisms gleaming. "When I first built this machine, every adjustment was agony. My hands cramped, my eyes strained, my mind rebelled against the complexity. But I learned to distinguish between the discomfort of growth and the discomfort of damage."
+
+Finn watched as she made minute calibrations with seemingly effortless precision. "How?"
+
+"Growth discomfort pulls you forward—toward mastery, capability, understanding. Damage discomfort pushes you away—toward escape, numbness, retreat. Similarly, rest comfort pulls you toward readiness, while escape comfort pushes you toward avoidance."
+
+She paused in her adjustments. "The current of comfort will carry you, Finn. The question is whether you're riding it consciously toward your growth, or being swept unconsciously toward your limitations."
+
+**Moral**: Comfort is not the enemy of growth—unconsciousness about comfort is. True mastery lies in learning to read comfort as navigational feedback rather than treating it as a destination.
+
+*Tomorrow, Orna will show Finn what happens when the feedback itself becomes so sophisticated that optimization replaces authenticity...*`,
+  },
 ];
