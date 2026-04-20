@@ -63,4 +63,65 @@ Hana paused, looking at her work with new eyes. Perhaps the revolution she sough
 
 *Tomorrow, Elder Thorn will reveal why our survival instincts might be the very thing preventing us from thriving...*`,
   },
+  {
+    day: 2,
+    title: "The Hedonic Treadmill",
+    date: "2026-04-20",
+    image: "images/gratitude/day-2.jpg",
+    audio: "audio/gratitude/day-2",
+    sonnet: `**🪶 Sonnet II: The Hedonic Treadmill**
+
+The wheel of wanting turns both night and day,
+Lifting our hopes like buckets to the sky,
+Each prize we grasp soon fades to common clay,
+As pleasure's peak descends to valley's sigh.
+
+The lottery winner's joy, the lover's thrill,
+The promotion's glow, the new home's sweet embrace—
+All rise like morning mist upon the hill,
+Then vanish, leaving not a single trace.
+
+Our ancient minds, once sharp for threat and need,
+Now chase tomorrow's phantom satisfaction,
+While present blessings, ripe as golden seed,
+Lie unnoticed in our blind distraction.
+
+*But gratitude can halt this endless race,*
+*And find abundance in time's simplest grace.*`,
+    standard: `🙏 Day 2: The Hedonic Treadmill
+
+Your brain's threat-detection system creates a negativity bias that filters out abundance, making you constantly scan for what's missing rather than appreciating what's present. This ancient survival wiring keeps you perpetually unsatisfied, always seeking the next achievement or acquisition to feel complete. While this mechanism once kept our ancestors alive, it now traps us in cycles of wanting that blind us to current blessings.
+
+🧱 **The Concept**
+The hedonic treadmill describes how we quickly return to baseline happiness levels despite positive or negative life changes.
+
+❓ **Why It Matters**
+This psychological phenomenon explains why external achievements, purchases, and circumstances provide only temporary satisfaction. Without conscious intervention through gratitude practice, we remain stuck chasing fleeting pleasures while overlooking lasting sources of contentment that already exist in our lives.
+
+⚙️ **How It Works**
+When something good happens—a promotion, new relationship, or major purchase—we experience a temporary spike in happiness before adapting back to our original emotional baseline. Our brains are wired to normalize positive experiences quickly, making yesterday's miracle today's expectation. For example, lottery winners return to previous happiness levels within months, while people who lose mobility often recover much of their well-being as they adapt. This adaptation mechanism helped our ancestors survive by preventing complacency, but it also means we take good things for granted almost immediately. Gratitude practice deliberately interrupts this cycle by training attention on present blessings before adaptation erases their emotional impact.
+
+🎯 **Gratitude Wisdom**
+True abundance isn't about having more—it's about recognizing what you already possess before your mind moves on to the next want.
+
+❓ **Tomorrow's Question**
+If gratitude can interrupt the hedonic treadmill and help you appreciate what you have, why do you think your mind resists this simple practice and keeps pulling you back toward focusing on what's missing?`,
+    parable: `Elder Thorn found Hana sitting beneath the ancient oak, her face creased with frustration. "Master," she began, "I received the apprentice robe I've wanted for months, yet within days it felt... ordinary. How can something I desired so deeply lose its magic so quickly?"
+
+The elder smiled knowingly. "Come, child. Let me show you the village mill wheel."
+
+As they walked, Thorn explained how the great wheel turned endlessly, lifting water to the same height before it cascaded down, only to be lifted again. "The villagers call this the wheel of wanting," he said. "No matter how high the water rises, it always returns to where it started."
+
+They stopped before the mill, watching the wooden buckets rise full of hope and descend empty of satisfaction. "Your mind works much like this wheel," Thorn continued. "Each desire lifts you briefly, but soon you find yourself back where you began, reaching for the next bucket to fill."
+
+Hana watched the hypnotic cycle. "But how do we escape it?"
+
+"We don't escape it," Thorn replied, placing a gentle hand on her shoulder. "We step off. When you practice gratitude for what fills your buckets right now—this moment, this breath, this conversation—you stop chasing the wheel's promise of future satisfaction."
+
+That evening, as Hana traced the embroidered symbols on her apprentice robe with newfound appreciation, she understood. The robe hadn't lost its magic; her attention had simply moved on to the next rung of the endless wheel.
+
+**Moral:** The wheel of wanting never stops turning, but gratitude teaches us to find abundance in standing still.
+
+**Tomorrow:** Hana will discover why her mind fights so hard against this simple practice of appreciation.`,
+  },
 ];

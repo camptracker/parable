@@ -3928,4 +3928,64 @@ Kael's eyes widened. "So financial independence isn't the end of purpose—it's 
 
 *Tomorrow, Sable will help Kael understand what happens when the very nature of work itself begins to change...*`,
   },
+  {
+    day: 60,
+    title: "The Purpose Economy",
+    date: "2026-04-20",
+    image: "images/financial-independence/day-60.jpg",
+    audio: "audio/financial-independence/day-60",
+    sonnet: `**🪶 Sonnet LX: The Purpose Economy**
+
+When coffers fill and want no longer stings,
+And freedom's bell has rung its golden chime,
+The soul still seeks what deeper meaning brings
+Beyond the counting of accumulated time.
+
+For money serves as but a faithful horse
+That carries riders to their destined gate,
+Yet cannot choose the path or chart the course
+Of where the heart finds its authentic fate.
+
+The wealthy gardener tends his plot with care
+Not for the coins his harvest might provide,
+But for the joy of watching growth unfair
+And feeding those with hunger by his side.
+
+*True wealth reveals when freedom meets with love,*
+*That purpose lifts the spirit high above.*`,
+    standard: `💰 Day 60: The Purpose Economy
+
+If automation eliminated most traditional jobs, society would need to fundamentally reimagine how we derive meaning, structure, and identity beyond employment. This transition would require new social institutions that provide the psychological benefits of work—perhaps through creative pursuits, community service, or personal mastery—while separating human worth from economic productivity.
+
+🧱 **The Concept**
+True wealth includes not just financial independence, but also purposeful engagement that transcends traditional employment.
+
+❓ **Why It Matters**
+Financial independence without purpose can lead to emptiness and depression. The wealthiest people often continue working not for money, but for meaning, suggesting that purpose is the ultimate form of wealth.
+
+⚙️ **How It Works**
+Purposeful wealth means aligning your financial independence with activities that create value for others, regardless of immediate compensation. Warren Buffett could have retired decades ago but continues investing because he finds purpose in allocating capital efficiently. Similarly, many financially independent people become teachers, artists, or philanthropists—not because they need income, but because meaningful work provides psychological fulfillment that passive income cannot. The key is achieving financial freedom first, then choosing purpose-driven activities without the distortion of financial desperation.
+
+🎯 **Buffett Wisdom**
+"The best thing about being wealthy is that it allows you to choose what you want to do with your time—and the worst thing is realizing that money alone doesn't tell you what that should be."
+
+❓ **Tomorrow's Question** — If financial independence ultimately serves the higher goal of purposeful living, and different people find meaning in radically different activities, what does this suggest about whether there can be universal principles for a well-lived life, or whether each person must discover their own unique path to fulfillment beyond economic security?`,
+    parable: `The morning mist clung to the village as Kael found Sable tending his garden, though the elder had long since accumulated enough wealth to hire others for such work. "Master," Kael began, "you speak of financial independence, yet here you are with soil under your fingernails. Have you not achieved freedom?"
+
+Sable smiled, continuing to tend his tomatoes. "Tell me, young one, what is the purpose of a tree that has grown tall and strong?"
+
+"To provide shade and fruit," Kael replied uncertainly.
+
+"Precisely. A tree does not stop growing once it reaches maturity—it begins its most important work." Sable gestured toward the flourishing garden. "I tend this garden not because I must, but because it feeds the village children whose families struggle. Tobren does the same with his surplus grain."
+
+Tobren approached, carrying a basket of fresh vegetables. "When I first sought wealth," he said, "I thought it would bring happiness. But happiness came only when I realized wealth's true purpose—to enable service without desperation."
+
+Sable nodded gravely. "Financial independence is not the destination, Kael. It is merely the vehicle that carries you to your life's true work. Without purpose, even the richest man becomes a hollow vessel, echoing with the sound of coins but empty of meaning."
+
+As the three worked together, Kael understood that the greatest wealth was not in accumulating enough to stop working, but in gaining the freedom to work for love rather than fear.
+
+**Moral:** True wealth provides the freedom to serve purpose rather than desperation.
+
+**Tomorrow:** Kael must grapple with whether life's deepest truths are universal or uniquely personal.`,
+  },
 ];

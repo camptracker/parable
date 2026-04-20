@@ -2693,4 +2693,64 @@ She paused in her adjustments. "The current of comfort will carry you, Finn. The
 
 *Tomorrow, Orna will show Finn what happens when the feedback itself becomes so sophisticated that optimization replaces authenticity...*`,
   },
+  {
+    day: 47,
+    title: "The Curious Compass",
+    date: "2026-04-20",
+    image: "images/3d-printing/day-47.jpg",
+    audio: "audio/3d-printing/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Curious Compass**
+
+When growth becomes another form of chase,
+And discomfort turns to calculated game,
+The curious heart must find its truest place
+Beyond the reach of optimizing's claim.
+
+For wonder points not toward what we should be,
+But toward the mysteries that call our name,
+The questions that arise spontaneously
+From genuine puzzlement, not crafted aim.
+
+The hungry mind devours what it must know,
+While ambitious minds consume what they're told,
+One follows fascination's natural flow,
+The other builds a better, emptier mold.
+
+*In workshop corners where true mysteries dwell,*
+*Curiosity outweighs the urge to excel.*`,
+    standard: `🖨️ Day 47: The Curious Compass
+
+When we become too sophisticated at optimizing discomfort, we risk turning even our growth into another form of performance—the key difference lies in whether our actions arise from genuine wonder or from subtle self-improvement pressure. Authentic curiosity pulls us toward what we don't yet understand, while performance anxiety pushes us toward what we think we should become.
+
+🧱 **The Concept**
+Authentic curiosity operates like a compass that points not toward comfort or discomfort, but toward genuine mystery and wonder.
+
+❓ **Why It Matters**
+As our systems become more sophisticated at guiding our growth, we risk losing touch with the raw curiosity that makes growth meaningful in the first place. The difference between authentic exploration and optimized self-improvement becomes the difference between discovery and performance.
+
+⚙️ **How It Works**
+Curiosity-driven making feels effortless not because it's easy, but because it aligns with our natural investigative instincts—like a child taking apart a clock to see how it works. Performance-driven making, even when disguised as growth, carries a subtle tension of trying to become something rather than simply exploring what is. In 3D printing, this shows up as the difference between printing something because you're genuinely puzzled about how it might work versus printing it because you think learning that technique will make you a better maker. The curious approach leads to unexpected discoveries; the performance approach leads to predictable improvements. When we follow authentic curiosity, our mistakes become fascinating data points; when we follow performance anxiety, our mistakes become evidence of inadequacy.
+
+🎯 **Maker Wisdom**
+The most profound innovations emerge not from trying to grow, but from following genuine wonder wherever it leads.
+
+❓ **Tomorrow's Question** — If authentic curiosity naturally leads us toward what we don't yet understand, what happens when our most sophisticated systems begin generating mysteries specifically designed to capture and direct that curiosity—and how do we distinguish between genuine discovery and engineered fascination?`,
+    parable: `Finn stood before Orna's workbench, watching her examine a peculiar print that seemed to shift its internal structure as she turned it in the light. "Master," he said, "I've been trying to follow the discomfort toward growth, as you taught me. But lately, I find myself choosing projects not because they call to me, but because they seem like the 'right' kind of challenging. How do I know if I'm growing or just performing growth?"
+
+Orna set down the object and smiled. "Ah, you've discovered the difference between the hungry mind and the ambitious mind." She gestured toward two workstations. At one, materials lay scattered in apparently random experimentation—failed prints, half-finished prototypes, notes scrawled with wild enthusiasm. At the other, everything was methodically organized, with a clear progression of increasingly complex projects.
+
+"The ambitious mind," she said, pointing to the organized station, "learns what it thinks it should learn. It optimizes even its own growth, turning wonder into curriculum." She moved to the chaotic station. "But the curious mind learns what it cannot help but learn. It follows fascination like a compass needle follows magnetic north."
+
+She picked up a strange, seemingly failed print from the messy station. "This came from pure puzzlement—I wondered what would happen if I tried to print water. Impossible, of course. But the attempt taught me something about the relationship between material states that no planned project ever could."
+
+Finn studied both stations. "How do I know which compass I'm following?"
+
+"Simple," Orna replied. "The ambitious mind asks 'What should I learn?' The curious mind asks 'What is this?' One seeks to become; the other seeks to understand. The first makes you a better maker; the second makes you a maker who discovers what making could become."
+
+As Finn contemplated this, he noticed something troubling. Even as Orna spoke of curiosity, her workshop seemed designed to provoke it—every corner held precisely the right kind of mystery to capture attention. Was even wonder becoming another kind of design?
+
+**Moral:** Authentic growth flows from genuine curiosity, not from optimized discomfort. The difference lies not in what we choose to explore, but in whether we're drawn by wonder or driven by improvement.
+
+**Tomorrow:** Finn will discover that even wonder itself might be engineered, raising questions about the nature of authentic discovery in an age of designed fascination.`,
+  },
 ];
