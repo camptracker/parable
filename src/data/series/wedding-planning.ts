@@ -3231,4 +3231,66 @@ As guests began to arrive, Dove watched how their combined presence seemed to cr
 
 **Tomorrow:** Dove and Elm will discover that their recognition of what they create together transforms every aspect of how they envision their shared future.`,
   },
+  {
+    day: 52,
+    title: "The Sacred Homecoming",
+    date: "2026-04-21",
+    image: "images/wedding-planning/day-52.jpg",
+    audio: "audio/wedding-planning/day-52",
+    sonnet: `**🪶 Sonnet LII: The Sacred Homecoming**
+
+Beneath the weight of plans and perfect dreams,
+The heart grows distant from its truest song,
+Until the soul remembers what it means
+To dwell where it has always belonged.
+
+No decoration marks this sacred place,
+No guest list grants admission to this home—
+Just recognition flooding back through grace
+Of why two hearts chose never more to roam.
+
+The wedding dress becomes a second skin
+When worn by one who knows herself complete,
+The vows transform from words to discipline
+Of love that makes the circle now complete.
+
+*For in this homecoming, couples find*
+*The wedding day restores what was designed.*`,
+    standard: `💍 Day 52: **The Sacred Homecoming**
+
+🧱 **The Concept**
+Your wedding day is not just a celebration but a homecoming—a return to the most essential truth of who you are together, stripped of all the noise and expectations that have accumulated during planning.
+
+❓ **Why It Matters**
+After months of decisions, negotiations, and external pressures, couples often lose sight of the simple, profound reason they wanted to marry in the first place. The wedding day itself becomes an opportunity to remember and reconnect with that original knowing. This homecoming to your authentic bond is what transforms a well-executed event into a sacred threshold.
+
+⚙️ **How It Works**
+True homecoming happens when you consciously return to the feeling that first made you certain about your partner—whether that was a quiet moment of recognition, a shared laugh that revealed everything, or simply the peace of being completely yourself with them. This might mean taking a private moment before the ceremony to remember your first "yes" to each other, or designing your vows around that original recognition rather than generic promises. It could involve incorporating a ritual that honors your journey from that first knowing to this public declaration, or simply ensuring that your first look or private moment captures the essence of coming home to each other. The key is intentionally creating space for the wedding day to strip away everything acquired and return you to everything essential.
+
+🎯 **Wedding Wisdom**
+Your wedding day should feel like coming home to yourselves and each other, not like arriving at a destination you've never been before.
+
+❓ **Tomorrow's Question** — If you could design your wedding so that the last thing you experience before saying "I do" is the exact same feeling that first made you certain you wanted to marry this person, what would need to happen in that moment, and what does that reveal about the difference between remembering why you fell in love versus remembering who you essentially are together?`,
+    parable: `Dove stood in the bridal suite, surrounded by the beautiful chaos of her wedding morning—flowers being arranged, photographers capturing candid moments, bridesmaids bustling with excitement. Yet beneath all the lovely commotion, she felt strangely distant from herself, as if she were watching someone else's wedding unfold.
+
+"I don't know why," she confided to Nana Rose, "but I feel like I'm playing a part instead of being myself. Everything is exactly as we planned, but somehow I feel... lost."
+
+Nana Rose paused in her gentle fussing with Dove's veil and looked deeply into her eyes. "Tell me, dear one, about the moment you first knew—truly knew—that Elm was your person."
+
+Dove's expression softened immediately. "We were sitting on his apartment steps after a terrible first date—dinner was awful, the movie was worse. We should have been disappointed, but instead we just started laughing. And in that laughter, I felt completely at home. Not in love with who he might become, but at peace with exactly who he was."
+
+"And how do you feel right now?" Nana Rose asked gently.
+
+"Like I'm very far from those steps," Dove admitted.
+
+Just then, Elm appeared in the doorway, against all tradition. "I'm sorry to interrupt," he said, "but I needed to see you. Not the bride—you." The room fell silent as he approached, taking her hands. "Do you remember what you said to me on those steps? You said, 'I'm so glad we're terrible at first dates together.'"
+
+Dove laughed—the same laugh from those steps—and suddenly felt herself returning. Not to a memory, but to herself.
+
+"There she is," whispered Nana Rose to no one in particular. "Welcome home, dear ones."
+
+**Moral**: The most sacred moment of your wedding day is not when everything goes perfectly according to plan, but when you strip away all the planning and remember the simple truth of choosing each other.
+
+*Tomorrow, we discover what happens when your wedding becomes a mirror that shows you exactly who you've become together...*`,
+  },
 ];

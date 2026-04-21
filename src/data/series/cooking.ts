@@ -3394,4 +3394,72 @@ Sage watched steam rise from her perfect brunoise, understanding finally that ma
 
 **Tomorrow:** Even as our skills weave together into greater mastery, what happens when this beautiful web becomes so complex it might entangle rather than liberate?`,
   },
+  {
+    day: 56,
+    title: "The Pruning Knife - How Subtraction Creates Space for Growth",
+    date: "2026-04-21",
+    image: "images/cooking/day-56.jpg",
+    audio: "audio/cooking/day-56",
+    sonnet: `**🪶 Sonnet LVI: The Pruning Knife**
+
+What laden branches must the master cut
+To let the strongest limbs reach toward light?
+Which cherished methods close the growing shut
+And bind the cook in comfortable night?
+
+The novice hoards each trick that once impressed,
+While wisdom learns the art of letting go—
+For cluttered minds, though thoroughly dressed
+In technique, cannot let true mastery grow.
+
+See how the sculptor's chisel finds the form
+By taking stone away, not adding more;
+So kitchen skill, refined beyond the norm,
+Sheds what it learned to reach the essential core.
+
+*The pruning knife that cuts the excess free*
+*Reveals the grace that dwells in simplicity.*`,
+    standard: `🍳 Day 56: The Pruning Knife - How Subtraction Creates Space for Growth
+
+The web of culinary skills expands sustainably only when we learn to consciously remove what no longer serves, making space for new connections to form. Complexity becomes chaotic when we accumulate techniques without discarding outdated approaches, but becomes elegant when we prune our methods as deliberately as we add them.
+
+🧱 **The Concept**
+True culinary mastery requires the wisdom of subtraction - knowing which skills, techniques, and even cherished methods to release in order to make space for more essential knowledge.
+
+❓ **Why It Matters**
+Many cooks plateau not because they stop learning new skills, but because they refuse to abandon familiar techniques that have become crutches. The kitchen becomes cluttered with half-remembered methods, conflicting approaches, and techniques that once served but now constrain growth. Without conscious pruning, our expanding skill web becomes tangled rather than integrated.
+
+⚙️ **How It Works**
+Just as a master gardener removes healthy branches to strengthen the whole tree, accomplished cooks regularly audit their methods and eliminate techniques that create dependency rather than capability. A chef might abandon their elaborate sauce-making rituals when they discover how to achieve the same depth through ingredient selection and timing. They might release knife techniques that once impressed but now slow their efficiency. The key lies in distinguishing between foundational skills that should never be abandoned (like understanding heat) and surface techniques that can be shed as deeper understanding emerges. This requires brutal honesty about which methods serve the food versus which serve the ego.
+
+🎯 **Culinary Wisdom**
+The most accomplished cooks become simpler, not more complex, as they master the art of essential subtraction. Every discarded technique creates space for deeper understanding to take root.
+
+❓ **Tomorrow's Question** — If releasing familiar techniques requires this kind of courage and discernment, what fundamental quality allows some cooks to distinguish between essential foundations that must never be abandoned and surface methods that should be regularly shed, especially when both types of knowledge once seemed equally important to their culinary development?`,
+    parable: `Ember watched as Sage frantically attempted to incorporate every technique they had learned over the past months into a single dish. The young cook's movements had become hesitant, their knife work choppy as they tried to remember seventeen different cutting styles, their seasoning tentative as they attempted to balance six different flavor profiles they'd studied.
+
+"You're drowning in your own knowledge," Ember observed, her weathered hands moving with fluid simplicity as she prepared the same ingredients. "Watch."
+
+The old chef's approach was startlingly spare. Three cuts. Two seasonings. One cooking method. Yet the aromas filling the kitchen spoke of complexity that Sage's elaborate efforts couldn't match.
+
+"But Master," Sage protested, "shouldn't I use everything I've learned? Isn't that what mastery means?"
+
+Ember smiled, remembering her own youth when she had collected techniques like trophies. "Tell me, young cook, what happens to a garden when the gardener refuses to prune?"
+
+"It becomes... overgrown?"
+
+"The strongest branches compete with the weakest. Energy spreads thin. Nothing grows properly." Ember's hands never paused as she spoke, each movement economical and purposeful. "I once knew forty-seven ways to brunoise a carrot. Now I use three. I've forgotten more techniques than most chefs will ever learn, and my food has never been better."
+
+Sage watched in confusion as Ember deliberately ignored several sophisticated approaches they had studied together, choosing instead methods so fundamental they seemed almost primitive.
+
+"But how do you know which techniques to keep?"
+
+"The same way a sculptor knows which marble to remove," Ember replied. "You chip away everything that doesn't serve the essential form. The techniques that make you think are tools. The techniques that make you feel are art. The techniques that disappear entirely... those are mastery."
+
+As the evening progressed, Sage began to understand. Each discarded method wasn't a loss but a liberation, each simplified approach not a retreat but an advancement toward something more essential than complexity could ever achieve.
+
+**Moral**: True mastery lies not in the accumulation of techniques, but in the wisdom to release what no longer serves the essential truth of cooking.
+
+**Tomorrow**: Ember will reveal what quality allows master cooks to distinguish between the foundations that must never be abandoned and the surface techniques that should be regularly shed.`,
+  },
 ];

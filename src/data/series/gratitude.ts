@@ -124,4 +124,58 @@ That evening, as Hana traced the embroidered symbols on her apprentice robe with
 
 **Tomorrow:** Hana will discover why her mind fights so hard against this simple practice of appreciation.`,
   },
+  {
+    day: 3,
+    title: "The Comparison Trap",
+    date: "2026-04-21",
+    image: "images/gratitude/day-3.jpg",
+    audio: "audio/gratitude/day-3",
+    sonnet: `**🪶 Sonnet III: The Comparison Trap**
+
+When envious eyes turn toward another's gold,
+The treasures in our hands grow dim and pale,
+As if abundance must be bought and sold,
+And joy depends on how we tip the scale.
+
+The neighbor's garden seems forever green,
+While our own roses lose their fragrant bloom,
+Their distant laughter cuts with edges keen,
+Transforming gratitude to bitter gloom.
+
+Yet happiness was never meant to race
+Against the phantom lives of passing strangers,
+Nor measure worth by keeping others' pace
+Through comparison's seductive dangers.
+
+*When grateful hearts stop chasing what they lack,*
+*The present moment's riches come flooding back.*`,
+    standard: `🙏 **Day 3: The Comparison Trap**
+
+🧱 **The Concept**
+Comparison is gratitude's greatest enemy, shifting our focus from what we have to what others possess.
+
+❓ **Why It Matters**
+Social comparison triggers our brain's scarcity circuits, making abundance feel like deprivation. When we measure our lives against others, we rob ourselves of joy in our own blessings. Research shows that people who frequently compare themselves to others report significantly lower life satisfaction, even when their objective circumstances are favorable.
+
+⚙️ **How It Works**
+Your brain constantly evaluates relative status for survival advantage, but this ancient mechanism becomes toxic in modern life. When you scroll social media seeing vacation photos, you don't compare to your actual peer group—you compare to everyone's highlight reels simultaneously. **Gratitude practice rewires this pattern** by training attention on your unique gifts rather than others' advantages. Instead of "Why don't I have what they have?" grateful minds ask "What do I have that I'm overlooking?" Studies show that people who practice gratitude comparison exercises (comparing their current life to worse possible scenarios) increase happiness more than those who compare upward to better situations.
+
+🎯 **Gratitude Wisdom**
+Comparison steals joy from the present moment. **True abundance** comes from appreciating your unique path rather than measuring it against others.
+
+❓ **Tomorrow's Question** — If gratitude can transform your relationship with what you already have, why do most people treat it as a nice-to-have practice rather than essential daily medicine for the mind?`,
+    parable: `Hana sat by the crystal pool, her reflection wavering with each tear that fell. "Elder Thorn," she whispered, "I visited the neighboring village today. Their apprentices wear robes of silk while mine are simple cotton. Their gardens bloom with exotic flowers I've never seen. How can I be grateful when others have so much more?"
+
+Elder Thorn settled beside her, his weathered hands calm on his knees. "Child, let me tell you of my darkest season. I once knew a merchant who possessed everything I desired—gold, land, respect. I spent years measuring my modest life against his abundance, and with each comparison, my own blessings became invisible. The warm bread on my table turned to ash. My loving family felt like consolation prizes. My healthy body seemed worthless beside his fine clothes."
+
+"What changed?" Hana asked.
+
+"One winter night, I found that same merchant weeping in the snow. Despite all his wealth, his children had grown distant, his wife had left, his health was failing. I realized then that I had been measuring my life against a mirage. Every moment spent in comparison was a moment stolen from gratitude for what was already mine."
+
+Elder Thorn pointed to their reflection in the pool. "See how the water shows us not others' faces, but our own? **True sight begins when we stop looking sideways and start looking inward.**"
+
+Hana wiped her eyes, suddenly aware of the gentle warmth of her cotton robe, the sweet scent of their simple herbs, the profound gift of Elder Thorn's presence.
+
+Tomorrow, she would learn why this practice required such intentional cultivation.`,
+  },
 ];
