@@ -3541,4 +3541,64 @@ Lila watched the joined flames dance higher. "So healing happens..."
 
 **Tomorrow:** *What happens when the very wounds that draw people together become the bonds that keep them from growing beyond the healing relationship itself?*`,
   },
+  {
+    day: 58,
+    title: "The Wound Magnet",
+    date: "2026-04-22",
+    image: "images/nutrition-science/day-58.jpg",
+    audio: "audio/nutrition-science/day-58",
+    sonnet: `**🪶 Sonnet LVIII: The Wound Magnet**
+
+Like calls to like in healing's shadowed art,
+The wounded healer draws familiar pain,
+While clients seek the mirror of their heart
+In one who knows their patterns and their strain.
+
+Though tender mercy flows through practiced hands,
+The deeper wounds remain forever sealed,
+As each confirms what neither understands—
+That comfort can prevent what should be healed.
+
+The therapist who fights abandonment's ghost
+Will magnetize the ones who threaten flight,
+While those who perfectionism engross
+Draw rebels who resist with all their might.
+
+*When wounded calls to wounded, both stay whole,*
+*Yet trapped within dysfunction's mirrored role.*`,
+    standard: `🍎 Day 58: The Wound Magnet
+
+When practitioners become skilled at creating therapeutic alliances, they often unconsciously attract clients who resonate with their unhealed patterns rather than their wisdom, creating a mutual reinforcement loop where both parties stay stuck in familiar dysfunction. This shadow attraction prevents healing because it transforms the therapeutic relationship into an unconscious conspiracy to avoid the very growth both people claim to want, keeping practitioner and client locked in complementary wounding patterns that feel intimate but remain metabolically stagnant.
+
+🧱 **The Concept**
+Unresolved wounds in healers can become magnetic attractors that draw clients with complementary trauma patterns, creating therapeutic relationships that feel deeply connected but actually reinforce dysfunction rather than promote healing.
+
+❓ **Why It Matters**
+This dynamic explains why some healing relationships feel intensely meaningful yet produce minimal actual change, and why certain practitioners repeatedly attract the same types of challenging clients. Understanding wound magnetism is crucial because it reveals how unexamined healer patterns can sabotage the very healing process they're meant to facilitate.
+
+⚙️ **How It Works**
+A practitioner with unresolved abandonment trauma might unconsciously attract clients who test boundaries and threaten to leave, allowing both to replay familiar patterns of pursuit and withdrawal. Someone with perfectionism wounds might draw clients who resist all suggestions, creating a dynamic where the healer works harder while the client remains passive. The metabolic impact is profound: both parties' nervous systems remain dysregulated because the relationship reinforces threat patterns rather than establishing safety. The practitioner's stress response activates around difficult clients, while clients sense this activation and mirror it back, creating a feedback loop that maintains metabolic dysfunction. True healing requires recognizing these magnetic patterns and deliberately choosing relationships that challenge growth rather than confirm wounds.
+
+🎯 **Science Wisdom**
+Wound magnetism reveals why healer heal thyself isn't just spiritual advice—it's metabolic necessity for creating genuinely therapeutic relationships.
+
+❓ Tomorrow's Question — *If wound magnetism can unconsciously sabotage healing relationships despite the best intentions, what happens when a practitioner becomes so aware of their own patterns that they begin overcompensating in the opposite direction—and why might this hypervigilant self-monitoring actually create a different but equally problematic dynamic that prevents authentic therapeutic connection?*`,
+    parable: `As the seasons deepened into winter's heart, Lila noticed something troubling in Maren's practice. Certain villagers seemed drawn to her mentor like moths to flame, but not the gentle seekers who flourished under Maren's guidance. These were the wounded who arrived angry, desperate, demanding immediate cures for ailments that mirrored patterns Lila had observed in Maren herself.
+
+"Why do the most challenging souls find their way to our door?" Lila asked one evening, watching Maren's shoulders tighten as another difficult client departed unsatisfied.
+
+Maren stared into the flames of her central hearth, where shadows danced with uncomfortable truth. "I have been asking myself the same question, child. Watch how fire calls to fire—not to heal, but to burn together."
+
+She gestured to two logs that had caught flame simultaneously, their fires feeding off each other's heat but producing only smoke and ash. "When I was young, I learned to tend others' wounds before I had fully healed my own. Now I see that my unfinished healing calls to those with matching injuries."
+
+"The woman who comes each week, convinced no remedy will work for her pain—she mirrors my own deep doubt that I am worthy of healing. The man who challenges every suggestion I offer reflects my childhood rebellion against authority. We dance together in familiar patterns that feel like intimacy but prevent the very transformation we both seek."
+
+Lila watched her mentor's expression soften with recognition. "Then what is the antidote to this magnetic pull?"
+
+"First, honest recognition of what still burns unhealed within us. Then the courage to seek our own healing, not from those we serve, but from sources that challenge our wounds rather than confirm them." Maren smiled sadly. "The hardest lesson a healer learns is that sometimes the most loving thing we can do is refuse to dance the familiar dance."
+
+**Moral**: Unhealed wounds in the healer become magnets that attract complementary dysfunction, creating relationships that feel intimate but prevent the healing both parties seek.
+
+Tomorrow, Lila will discover what happens when healers become so aware of their patterns that awareness itself becomes a new trap...`,
+  },
 ];

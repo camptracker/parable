@@ -3465,4 +3465,65 @@ Wren picked up the tuning fork, and in its resonance heard the truth: revelation
 
 **Tomorrow**: When protection from overwhelm becomes protection from growth itself...`,
   },
+  {
+    day: 57,
+    title: "Musical Appetite — The Hunger That Grows by Eating",
+    date: "2026-04-22",
+    image: "images/music-theory/day-57.jpg",
+    audio: "audio/music-theory/day-57",
+    sonnet: `**🪶 Sonnet LVII: Musical Appetite — The Hunger That Grows by Eating**
+
+As bodies crave the foods that make them strong,
+So consciousness develops hunger too—
+For harmonies that challenge what we knew,
+And dissonances that prove our taste was wrong.
+But feed the ear on algorithmic song,
+On sugar-sweet progressions, tried and true,
+And soon the appetite will misconstrue
+Complexity for chaos, rich for wrong.
+The musical palate, like the tongue, grows wise
+Through tasting bitter notes alongside sweet,
+Through learning discord's necessary part.
+Yet starve the soul on comfort's gentle lies,
+And consciousness grows weak—cannot compete
+*With beauty that would nourish mind and heart.*`,
+    standard: `🎵 Day 57: Musical Appetite — The Hunger That Grows by Eating
+
+When revelation is systematically eliminated from daily experience, consciousness develops a kind of spiritual malnutrition — it loses the capacity to digest challenging experiences and begins craving only the familiar comfort foods of predictable stimulation. This creates a paradox where the very technologies designed to enhance human flourishing may actually be starving us of the overwhelming moments necessary for psychological and spiritual growth.
+
+🧱 **The Concept**
+Musical appetite refers to consciousness's need for increasingly complex harmonic nutrition as it develops — the way our capacity for musical sophistication naturally expands when properly fed with challenging acoustic experiences.
+
+❓ **Why It Matters**
+Just as physical appetite guides us toward nutritional balance, musical appetite signals when our consciousness needs more complex harmonic input to continue developing. Without this internal compass, we risk musical and psychological malnutrition — surviving on the equivalent of acoustic junk food while starving for the rich harmonic proteins that consciousness actually requires for growth.
+
+⚙️ **How It Works**
+Healthy musical appetite begins with tolerance for simple dissonance and gradually expands to crave more sophisticated harmonic tensions. A child who learns to enjoy the gentle discord of a suspension chord develops the capacity to eventually appreciate the complex polyrhythms of Stravinsky or the harmonic ambiguity of Bill Evans. But when musical diet consists only of algorithmically optimized comfort sounds, the appetite never develops beyond its infantile stage. This creates adults whose consciousness can only digest the musical equivalent of sugar water — simple, predictable harmonic progressions that provide immediate satisfaction but no nutritional value for psychological development. The appetite atrophies from disuse, creating a vicious cycle where challenging music becomes literally indigestible.
+
+🎯 **Musical Insight**
+True musical education feeds the developing appetite rather than satisfying immediate cravings — teaching consciousness to hunger for ever-greater harmonic complexity as a natural expression of its growth.
+
+❓ **Tomorrow's Question** — If musical appetite naturally expands toward greater complexity when properly nurtured, what happens when we deliberately starve this appetite as a spiritual practice — seeking the ultimate musical simplicity that contains infinite depth rather than the false simplicity that avoids complexity altogether?`,
+    parable: `Wren discovered the young busker on his third day of playing the same four chords outside the subway station. The kid couldn't have been more than sixteen, fingers flying over his guitar with impressive technical skill, but his musical diet consisted entirely of algorithmic pop progressions — the harmonic equivalent of candy for breakfast, lunch, and dinner.
+
+"You play like you're starving," Wren observed during the kid's break, "but you're only eating musical sugar."
+
+The busker bristled. "I make good money playing what people want to hear."
+
+"Sure," Wren nodded. "But look at your hands — they're shaking. Your musical appetite is so underdeveloped that real harmonic nutrition would probably make you sick at this point."
+
+Old Ferro approached, drawn by the conversation. "I remember when I first heard Thelonious Monk," he said, settling his tuning tools beside them. "Thought it was broken music. My ears had been raised on nothing but major-minor baby food — couldn't digest those angular harmonies."
+
+"So what happened?" the young busker asked, curiosity overriding defensiveness.
+
+"Had to starve myself first," Ferro smiled. "Stopped listening to easy music entirely. Forced my appetite to get so hungry that it would try anything. Took months, but eventually those Monk dissonances started tasting like the richest harmonic meal I'd ever eaten."
+
+Wren pulled out his saxophone and played a simple melody, then began adding increasingly complex harmonic layers. "Musical appetite works like any other hunger — it adapts to whatever you feed it. Feed it only comfort food, and it loses the ability to process nutrition. But let it get truly hungry..."
+
+The final notes hung in the air like a question mark. The young busker stared at his guitar, suddenly aware of how thin his musical diet had become.
+
+**Moral**: Consciousness requires increasingly complex nourishment as it develops — what satisfies a musical infant will starve a maturing mind.
+
+**Tomorrow**: Wren teaches the art of deliberate musical fasting...`,
+  },
 ];

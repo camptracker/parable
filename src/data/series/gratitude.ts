@@ -178,4 +178,59 @@ Hana wiped her eyes, suddenly aware of the gentle warmth of her cotton robe, the
 
 Tomorrow, she would learn why this practice required such intentional cultivation.`,
   },
+  {
+    day: 4,
+    title: "The Negativity Bias Trap",
+    date: "2026-04-22",
+    image: "images/gratitude/day-4.jpg",
+    audio: "audio/gratitude/day-4",
+    sonnet: `**🪶 Sonnet IV: The Negativity Bias Trap**
+
+The ancient brain that kept our tribes alive
+Now holds us hostage to its fearful gaze,
+Scanning for threats where peaceful moments thrive,
+And drowning sunshine in remembered haze.
+Five bitter weeds for every flower grown,
+The mind plants worry faster than delight,
+While blessings pass unnoticed and unknown,
+Swept past by storms of prehistoric fright.
+But conscious hands can tend a different ground,
+Where gratitude takes root despite the thorns,
+And practiced eyes train slowly to have found
+The gold that hides in ordinary morns.
+*Though bias pulls toward the darker shore,*
+*Deliberate thanks can open every door.*`,
+    standard: `🙏 Day 4: The Negativity Bias Trap
+
+Most people treat gratitude as optional because our brains are wired to prioritize problems over positives—a survival mechanism that once kept us alive but now keeps us stuck. We've inherited neural pathways that scan for threats five times faster than opportunities, making gratitude feel like swimming upstream against millions of years of evolution. This is why cultivating appreciation requires intentional practice rather than wishful thinking.
+
+🧱 **The Concept**
+The negativity bias is your brain's built-in tendency to notice, remember, and react more strongly to negative experiences than positive ones.
+
+❓ **Why It Matters**
+This ancient survival system now sabotages modern happiness by making you overlook daily blessings while magnifying every frustration. Research shows it takes five positive experiences to counterbalance one negative memory, explaining why gratitude practice feels so challenging yet remains so necessary.
+
+⚙️ **How It Works**
+Your amygdala processes negative information in 12 milliseconds while positive experiences take multiple seconds to register in long-term memory. When you stub your toe, you remember it instantly—but you might forget a beautiful sunset moments after seeing it. This is why gratitude journaling works: deliberately writing down three good things daily rewires your attention system to notice abundance. The practice literally strengthens neural pathways for positive recognition, creating new default patterns that override ancient threat-detection programming.
+
+🎯 **Gratitude Wisdom**
+Your negativity bias isn't broken—it's outdated. Gratitude practice updates your mental software for modern life.
+
+❓ **Tomorrow's Question** — If your brain needs five positive experiences to balance one negative memory, what would happen if you deliberately collected moments of appreciation like a scientist gathering evidence for a revolutionary discovery?`,
+    parable: `In the Tower of Memory, Hana watched Elder Thorn tend to two gardens side by side. One flourished with vibrant blooms while the other grew only bitter weeds, despite receiving the same soil and sunlight.
+
+"Why does the weed garden thrive so easily while the flower garden struggles?" Hana asked.
+
+Elder Thorn knelt beside the bitter plants. "These seeds were planted by your ancestors' fears. For countless generations, those who noticed danger first survived while those who stopped to admire beauty often perished. Your mind inherited this ancient wisdom—it plants five worry-seeds for every seed of wonder."
+
+He led her to the flower garden, where delicate blossoms required careful tending. "Watch," he said, placing his weathered hands around a struggling seedling. "Beauty takes intention. Gratitude must be cultivated deliberately because your brain will always default to scanning for storms."
+
+As Hana observed, she noticed her eyes naturally drifted toward the weeds while she had to consciously focus to see the flowers. "I see the problem everywhere before I see the gift anywhere," she whispered.
+
+"Exactly," Elder Thorn smiled. "But notice—when you choose to water appreciation, it grows stronger each day. Eventually, your garden of gratitude will bloom so brightly that it outshines even the deepest-rooted fears."
+
+**Moral**: Your mind's ancient survival system creates modern suffering, but conscious cultivation of gratitude can override outdated programming.
+
+*Tomorrow, Hana will discover why collecting positive experiences requires the precision of a master craftsman...*`,
+  },
 ];
