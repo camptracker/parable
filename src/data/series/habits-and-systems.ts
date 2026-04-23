@@ -3409,4 +3409,66 @@ Rook struck the marble, too hard, creating a jagged crack. Instead of horror, he
 
 *Tomorrow, we discover what happens when our confidence in recovery becomes so complete that we forget why we needed to take risks in the first place...*`,
   },
+  {
+    day: 57,
+    title: "The Comfort Prison",
+    date: "2026-04-23",
+    image: "images/habits-and-systems/day-57.jpg",
+    audio: "audio/habits-and-systems/day-57",
+    sonnet: `**🪶 Sonnet LVII: The Comfort Prison**
+
+When steady hands grow sure of what they know,
+And practiced feet find paths they've walked before,
+The master's skill begins its subtle flow
+Away from growth toward some safer shore.
+
+No longer does the craftsman seek the edge
+Where failure waits with lessons sharp and true,
+But dwells instead upon his certain ledge
+Of polished moves and techniques proven through.
+
+Yet confidence that shields us from the fall
+Also bars the door to greater height—
+The eagle who forgets to risk at all
+Finds wingèd strength has faded overnight.
+
+*For mastery imprisoned by its own success*
+*Grows weak within its fortress of finesse.*`,
+    standard: `🧘 Day 57: The Comfort Prison
+
+When we become so confident in our recovery abilities that we avoid the very risks that built our resilience, we enter what appears to be mastery but is actually stagnation disguised as wisdom. True resilience atrophies without challenge, like a muscle that weakens when we stop lifting heavy weights because we're confident we could lift them if we needed to.
+
+🧱 **The Concept**
+Our greatest strength can become our greatest limitation when confidence in our abilities leads us to avoid situations that would stretch those abilities further.
+
+❓ **Why It Matters**
+Resilience is not a fixed capacity but a dynamic skill that requires regular calibration through appropriate challenge. When we become too comfortable with our current level of mastery, we begin the slow slide toward mediocrity, mistaking risk avoidance for wisdom and stagnation for stability.
+
+⚙️ **How It Works**
+The comfort prison operates through a subtle feedback loop: initial competence leads to confidence, confidence reduces our willingness to face uncertainty, reduced challenge weakens our actual capabilities, but our memory of past competence maintains our self-perception of strength. A martial artist who stops sparring with challenging opponents because they're confident in their technique will gradually lose the reflexes that made them confident in the first place. A writer who only tackles familiar topics because they know they can execute them well will never develop the skills to handle more complex material. The prison isn't built from failure—it's built from the fear of losing what we've already achieved.
+
+🎯 **Systems Wisdom**
+Mastery requires deliberately seeking the edge of our current capability, not retreating to the center of our comfort zone. True confidence comes from knowing we can handle whatever emerges, not from controlling what emerges.
+
+❓ **Tomorrow's Question** — If we must continuously seek appropriate challenges to maintain our capabilities, but our definition of "appropriate" is inevitably influenced by our current comfort level, how do we prevent our assessment of what challenges we "should" take from becoming a sophisticated rationalization for avoiding what we actually need to face?`,
+    parable: `Rook found Cairn by the quarry's edge, watching two apprentice stone-carvers practice their craft. One apprentice worked frantically, attempting cuts far beyond his skill, sending chips flying in wild arcs. The other sat polishing a simple stone he had perfected weeks ago, his movements smooth but unchallenging.
+
+"The wild one will hurt himself," Rook observed, "but the careful one will never grow."
+
+Cairn nodded slowly. "I once knew a master carver who grew so skilled at creating perfect roses in granite that he spent his final decades creating nothing but roses. Each one flawless, each one identical. He called it mastery."
+
+"What happened to him?"
+
+"One day, a patron commissioned a human face. The master's hands, so confident with petals and stems, trembled before the unknown territory of cheekbones and eyes. His forty years of roses had carved away his courage for anything else."
+
+Rook watched the wild apprentice chip away at an ambitious eagle's wing. "So mastery that doesn't seek new challenges becomes a prison?"
+
+"The most beautiful prison ever built," Cairn replied, "furnished with our greatest achievements and locked from the inside with our own satisfaction."
+
+The master carver had become prisoner to his own perfection, comfortable in his expertise but unable to grow beyond it. His confidence in creating roses had gradually replaced his willingness to attempt anything that might reveal the limits of that confidence.
+
+**Moral**: Mastery without continued challenge transforms from strength into limitation.
+
+*Tomorrow, we discover what happens when we try to engineer the perfect level of challenge but our engineering itself becomes another form of control.*`,
+  },
 ];

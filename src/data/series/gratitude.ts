@@ -233,4 +233,68 @@ As Hana observed, she noticed her eyes naturally drifted toward the weeds while 
 
 *Tomorrow, Hana will discover why collecting positive experiences requires the precision of a master craftsman...*`,
   },
+  {
+    day: 5,
+    title: "The Gratitude Collection",
+    date: "2026-04-23",
+    image: "images/gratitude/day-5.jpg",
+    audio: "audio/gratitude/day-5",
+    sonnet: `**🪶 Sonnet V: The Gratitude Collection**
+
+As scientists gather proof for theories bright,
+So must we harvest moments steeped in grace,
+Each dawn a lab where wonder meets our sight,
+And every blessing claims its rightful space.
+
+The mind, untrained, seeks shadows, flaws, and fear,
+A sentinel that guards 'gainst threat and pain,
+But we can teach it treasures to revere,
+To catalog the sunshine after rain.
+
+Collect the laugh that bubbles from a friend,
+The warmth of tea when morning air grows cold,
+The way kind words can broken spirits mend,
+These gems worth more than silver or than gold.
+
+*For what we seek with purposeful devotion*
+*Becomes the lens through which we view life's ocean.*`,
+    standard: `🙏 Day 5: The Gratitude Collection
+
+When you deliberately collect moments of appreciation like a scientist, something remarkable happens: you begin to rewire your brain's default search patterns, training your neural networks to notice abundance instead of scarcity, beauty instead of flaws, progress instead of problems. This intentional gathering creates a cognitive shift where your mind becomes an expert at finding evidence for life's goodness, building a mental database so rich that even difficult moments can't erase the accumulated proof of blessing.
+
+🧱 **The Concept**
+Gratitude collection is the practice of actively seeking, recording, and revisiting specific moments of appreciation to build neural pathways that favor positive pattern recognition.
+
+❓ **Why It Matters**
+Most people passively wait for good feelings to find them, but neuroscience shows that deliberate attention to positive experiences literally changes brain structure. Without conscious collection, our survival-focused minds default to cataloguing threats and problems, missing the appreciation data that could transform our entire worldview.
+
+⚙️ **How It Works**
+Your brain strengthens whatever neural pathways you use most frequently through a process called neuroplasticity. When you actively collect gratitude moments—writing down three specific things you appreciated today, photographing beauty you notice, or mentally bookmarking moments of connection—you're essentially training your reticular activating system to scan for more of the same. A person who collects gratitude for warm sunlight starts noticing light everywhere; someone who appreciates small kindnesses begins seeing generosity in unexpected places. The key is specificity: instead of "I'm grateful for my family," record "I'm grateful for how my daughter laughed so hard at dinner that she snorted, reminding me that joy is contagious." This precision helps your brain recognize and remember the exact patterns that create wellbeing.
+
+🎯 **Gratitude Wisdom**
+What you deliberately collect, your mind learns to naturally detect. Become a connoisseur of appreciation, and watch your world transform from the inside out.
+
+❓ **Tomorrow's Question** — If gratitude is so powerful for individual wellbeing, why does expressing appreciation to others often feel more awkward or vulnerable than keeping it private, and what does this reveal about the deeper purpose of gratitude beyond personal happiness?`,
+    parable: `Hana found Elder Thorn in the monastery garden at dawn, carefully placing small stones into a leather pouch. "What are you collecting, Elder?" she asked, curious about this unusual ritual.
+
+"Evidence," Thorn replied with a gentle smile. "Each stone represents a moment of grace I witnessed yesterday. This smooth river stone for the way morning light caught the dewdrops. This rough granite for the strength I felt when helping Brother Marcus with his heavy load. This polished quartz for the laughter that echoed from the kitchen during evening meal."
+
+Hana frowned. "But Elder, yesterday was difficult. The harvest was poor, two novices fell ill, and the roof leaked again during the rain."
+
+"Ah," Thorn nodded, his weathered hands continuing their gentle sorting. "And how many stones would you collect for those troubles?"
+
+"Many," Hana admitted.
+
+"I would too, if I let my mind follow its natural path," Thorn said. "Our minds are like vigilant guards, trained to spot every threat, every problem, every flaw. But child, what if we trained them to be equally vigilant for beauty, kindness, and wonder?"
+
+He opened his pouch, revealing dozens of stones accumulated over weeks. "When I was young and bitter after losing everything I loved, a wise teacher told me: 'Thorn, your mind will find evidence for whatever story you're telling. Choose your story wisely.' So I began collecting proof of goodness with the same intensity I once collected grievances."
+
+Hana picked up a particularly beautiful stone, its surface worn smooth by countless tides. "Does it really change how you see?"
+
+"Try it for seven days," Thorn challenged. "Collect five moments of appreciation each day—specific, detailed moments that touched your heart or opened your eyes. Watch how your inner vision transforms."
+
+**Moral**: *What we deliberately seek, we increasingly find. Train your mind to collect evidence of life's goodness, and discover that abundance was always surrounding you, waiting to be noticed.*
+
+*Tomorrow, Hana will learn why sharing her collected treasures of gratitude with others feels more frightening than keeping them safely hidden...*`,
+  },
 ];
