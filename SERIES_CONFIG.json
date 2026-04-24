@@ -188,6 +188,17 @@
       "recipients": [
         "jon"
       ]
+    },
+    {
+      "seriesId": "goldman-sachs-trust-funds",
+      "seriesName": "Goldman Sachs Trust Funds",
+      "seriesTheme": "ultra-high-net-worth wealth management — trust fund structures, private banking strategies, multi-generational wealth preservation, tax optimization, alternative investments, and the insider secrets Goldman Sachs uses to manage billions for the world's wealthiest families",
+      "seriesEmoji": "💎",
+      "wisdomLabel": "Private Wealth Wisdom",
+      "parableCharacters": "Sterling (young wealth advisor at a prestigious private bank), Aurelius (legendary Goldman Sachs private banker who has managed dynasties for four decades)",
+      "recipients": [
+        "jon"
+      ]
     }
   ]
 }

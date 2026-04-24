@@ -38,6 +38,7 @@ import { lessons as printingLessons } from './series/3d-printing';
 import { lessons as gratitudeLessons } from './series/gratitude';
 import { lessons as stockMarketLessons } from './series/stock-market-origins';
 import { lessons as usBondLessons } from './series/us-bond-market';
+import { lessons as goldmanTrustLessons } from './series/goldman-sachs-trust-funds';
 
 export const series: Series[] = [
   { id: "financial-independence", name: "Financial Independence", theme: "Warren Buffett's teachings and mathematical principles", lessons: fiLessons },
@@ -62,6 +63,7 @@ export const series: Series[] = [
   { id: "gratitude", name: "Gratitude", theme: "the science and practice of gratitude — how thankfulness rewires your brain, strengthens relationships, builds resilience, and transforms everyday moments into sources of joy and meaning", lessons: gratitudeLessons },
   { id: "stock-market-origins", name: "Origins of the Stock Market", theme: "the birth and evolution of stock markets — from 1600s Amsterdam coffeehouses to modern exchanges, the invention of shares, speculation, crashes, regulation, and how markets became the engine of capitalism", lessons: stockMarketLessons },
   { id: "us-bond-market", name: "US Bond Market Today", theme: "the current state of the US bond market — yields, Fed policy, inflation dynamics, treasury auctions, yield curve inversions, market predictions, and how the bond market signals what's coming in the economy", lessons: usBondLessons },
+  { id: "goldman-sachs-trust-funds", name: "Goldman Sachs Trust Funds", theme: "ultra-high-net-worth wealth management — trust fund structures, private banking strategies, multi-generational wealth preservation, tax optimization, alternative investments, and the insider secrets Goldman Sachs uses to manage billions for the world's wealthiest families", lessons: goldmanTrustLessons },
 ];
 
 // Find a series by id
