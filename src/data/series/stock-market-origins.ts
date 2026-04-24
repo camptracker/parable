@@ -56,4 +56,60 @@ Willem traced the ornate script with his finger. "But why would anyone buy such 
 
 **Tomorrow:** Willem discovers that not everyone buys shares to hold them—some trade them like playing cards, and the game grows dangerous.`,
   },
+  {
+    day: 2,
+    title: "The Tulip Bubble and Market Psychology",
+    date: "2026-04-24",
+    image: "images/stock-market-origins/day-2.jpg",
+    audio: "audio/stock-market-origins/day-2",
+    sonnet: `**🪶 Sonnet II: The Tulip Bubble and Market Psychology**
+
+In Amsterdam's lanes where merchants madly trade,
+Tulip bulbs command the price of castles grand,
+While reason sleeps and fortunes quickly fade
+As fevered minds bid high with trembling hand.
+
+What spell transforms a flower's simple worth
+Into a treasure coveted by all?
+The human heart, susceptible from birth
+To greed's sweet song and pride's destructive call.
+
+Each buyer thinks himself the wisest sage,
+That fortune's wheel spins only in his favor,
+Yet bubbles burst with unforgiving rage
+And leave behind bankruptcy's bitter savor.
+
+*For markets mirror souls both dark and bright—*
+*Where angels' hopes meet devils in the night.*`,
+    standard: `📈 Day 2: The Tulip Bubble and Market Psychology
+
+When investors trade on rumors rather than company performance, prices become untethered from reality, creating dangerous bubbles. Speculation transforms markets from rational valuation mechanisms into psychological battlegrounds where fear and greed drive wild price swings.
+
+🧱 **The Concept**
+Speculative bubbles occur when asset prices rise far beyond their fundamental value, driven by collective psychology rather than economic reality.
+
+❓ **Why It Matters**
+Bubbles reveal the dark side of market innovation — the same mechanisms that efficiently allocate capital can also create devastating crashes. Understanding bubble psychology is crucial because markets are ultimately human institutions subject to human weaknesses like herd mentality and irrational exuberance.
+
+⚙️ **How It Works**
+The Dutch tulip mania of 1634-1637 perfectly illustrates bubble dynamics. Tulip bulb prices soared to astronomical levels — a single rare bulb could cost more than a Amsterdam canal house. Speculators bought tulip futures contracts, betting on future deliveries of bulbs that didn't even exist yet. Taverns became trading floors where people mortgaged their homes to buy tulip contracts. When reality finally intruded and buyers disappeared, prices collapsed overnight, bankrupting thousands. The same pattern repeats throughout history: initial innovation creates legitimate value, early success attracts speculators, prices detach from fundamentals, euphoria spreads, then sudden panic triggers collapse.
+
+🎯 **Market Wisdom**
+Bubbles are the price markets pay for innovation — they're destructive but often fund genuine technological breakthroughs that outlast the crash.
+
+❓ **Tomorrow's Question** — If speculation can create both devastating bubbles and fund genuine innovation, how do we distinguish between healthy market optimism and dangerous delusion?`,
+    parable: `Willem clutched his apprentice ledger as Van der Meer led him through the Warmoesstraat market, where the air thrummed with fevered whispers about tulip bulbs. "Master," Willem asked, watching a merchant frantically bid on a contract for bulbs that wouldn't bloom for months, "why do men pay fortunes for flowers that don't exist?"
+
+Van der Meer's weathered face cracked into a knowing smile. "Watch and learn, young Willem. See how that man's eyes gleam? He doesn't see a tulip — he sees gold multiplying in his mind's eye." They paused beside a tavern where a baker was signing away his shop's deed for a single Semper Augustus bulb contract.
+
+"But Master, surely a flower cannot be worth more than a house?"
+
+"Ah, but you think like an accountant, not a dreamer," Van der Meer chuckled darkly. "When men stop buying things for what they are and start buying them for what they might become in another man's desperate hands, prices become pure fantasy. Today this baker believes he'll be rich tomorrow. Tomorrow he may be begging for bread."
+
+Weeks later, Willem watched the same baker weep in the streets as tulip prices crashed, his shop lost forever to a withered bulb that never bloomed.
+
+**Moral:** *When speculation replaces reason, markets become mirrors reflecting not value, but human folly.*
+
+*Tomorrow, we'll discover how governments first tried to tame these wild market forces...*`,
+  },
 ];

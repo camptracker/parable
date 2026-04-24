@@ -3663,4 +3663,70 @@ Maren leaned forward, and suddenly she felt real again. "Your difficult villager
 
 *Tomorrow, Maren will help Lila understand why some encounters require the humility to step back rather than the heroism to transcend forward...*`,
   },
+  {
+    day: 60,
+    title: "The Sacred Boundary",
+    date: "2026-04-24",
+    image: "images/nutrition-science/day-60.jpg",
+    audio: "audio/nutrition-science/day-60",
+    sonnet: `**🪶 Sonnet LX: The Sacred Boundary**
+
+When healer meets the wound they cannot hold,
+And trembling hands betray the ancient pain,
+The wisest choice is not to be more bold
+But honor limits love has made humane.
+
+For nervous systems stretched beyond their reach
+Transmit the very chaos they would heal,
+And broken boundaries have naught to teach
+Save how forced presence makes the false feel real.
+
+The eastern hearth burns low but burns it true,
+No shame in flames that know their rightful size,
+For authentic capacity serves two—
+Both client's need and healer's honest ties.
+
+*In sacred bounds, not weakness but the art*
+*Of healing what we can with whole-made heart.*`,
+    standard: `🍎 Day 60: The Sacred Boundary
+
+When a practitioner's unhealed trauma creates genuine energetic overwhelm or reactivation in the presence of certain client pain, the most healing response is acknowledging these limits with compassion rather than shame. This honest self-assessment protects both parties from the subtle violence of forced therapeutic presence and creates space for appropriate referrals that serve the client's highest good. The practitioner who honors their current capacity while continuing their own healing journey demonstrates true integrity.
+
+🧱 **The Concept**
+Sacred boundaries in healing work aren't limitations—they're expressions of metabolic wisdom that protect the energetic sustainability of both healer and client.
+
+❓ **Why It Matters**
+When practitioners push beyond their authentic capacity, they unknowingly dysregulate their own nervous systems, which then transmits stress signals to clients despite conscious intentions to help. This metabolic cascade can actually reinforce the client's original trauma patterns rather than providing the stable, regulated presence needed for healing.
+
+⚙️ **How It Works**
+Just as your metabolism has a finite adaptive capacity that requires strategic management, your nervous system has boundaries around how much activation it can process while maintaining regulation. When a practitioner encounters client trauma that resonates with their own unhealed wounds, their autonomic nervous system can shift into protective mode—creating subtle muscle tension, shallow breathing, or hypervigilance that the client's system reads as threat. For example, a nutritionist who experienced childhood food scarcity might find their own stress response activated when working with clients who have severe restriction patterns, leading to unconscious projection or overwhelming urges to "fix" rather than witness. The sacred boundary recognizes this activation as valuable information rather than personal failure, honoring the metabolic reality that healing happens best within windows of nervous system tolerance.
+
+🎯 **Science Wisdom**
+True healing presence requires the practitioner's nervous system to remain in a state of calm alertness—metabolically expensive but essential for creating the safety that allows client transformation.
+
+❓ **Tomorrow's Question** — *If sacred boundaries actually enhance healing capacity rather than limit it, what happens when practitioners become so skilled at maintaining these energetic boundaries that they begin to lose their natural empathy and emotional resonance with human suffering—and why might this protective mastery create a different but equally problematic barrier to authentic therapeutic connection?*`,
+    parable: `Lila found Maren tending the eastern hearth alone, her usual brightness dimmed like embers under ash. "Master," she ventured carefully, "old Henrik came seeking help for his daughter's eating troubles, but you turned him away. I don't understand—isn't healing our calling?"
+
+Maren's weathered hands paused in their stirring. "Come, child. Sit with me by this fire." She gestured to the eastern hearth, where flames danced lower than usual. "Tell me, what do you see here?"
+
+"Fire that burns... but smaller than the others?"
+
+"Yes. And why do I not demand it blaze as high as its sisters?"
+
+Lila studied the controlled flames. "Because... it would consume all the fuel too quickly?"
+
+"Precisely." Maren nodded. "This hearth holds my grandmother's trauma—the famine years when children starved while mothers pretended to eat. When Henrik spoke of his daughter refusing food, I felt that old hunger clawing at my chest, my breath shortening, my hands trembling. In that moment, I was not a healer but a frightened child." She touched her heart gently. "To force myself present would have been like throwing wet wood on this flame—creating smoke instead of warmth."
+
+"But surely you could push through...?"
+
+"Ah, there's the trap." Maren's eyes held deep compassion. "When we push past our true capacity, we leak our unhealed pain into the space meant for another's healing. Henrik's daughter needs steady ground, not the trembling earth of my old wounds. By honoring this boundary, I protect both our healing journeys."
+
+Lila watched understanding dawn like sunrise. "So the boundary serves the healing..."
+
+"Yes. Tomorrow we'll speak of what happens when healers become so boundaried they forget how to truly feel with those who suffer—another edge that must be walked with wisdom."
+
+*Moral: Sacred boundaries in healing work are not limitations but expressions of metabolic wisdom that serve both healer and client.*
+
+*Tomorrow: When protection becomes isolation, and mastery becomes a barrier to authentic connection.*`,
+  },
 ];

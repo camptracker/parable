@@ -3395,4 +3395,68 @@ Solen felt a profound shift—not the end of seeking but its transformation from
 
 **Tomorrow**: The Keeper reveals why even enlightenment might be just another character in the cosmic play...`,
   },
+  {
+    day: 57,
+    title: "The Comedy of Roles",
+    date: "2026-04-24",
+    image: "images/meaning-of-life/day-57.jpg",
+    audio: "audio/meaning-of-life/day-57",
+    sonnet: `**🪶 Sonnet LVII: The Comedy of Roles**
+
+Upon this stage where consciousness performs,
+Each player takes their part with full devotion—
+The mother weeps, the merchant counts, love warms
+The hearts that beat within this vast commotion.
+
+Yet watch the eyes that shine behind each mask:
+The same bright presence peers through every face,
+Delighting in each temporary task,
+Each borrowed form, each momentary grace.
+
+The tragic king who mourns his kingdom lost
+And humble fool who stumbles through the scene
+Are both the same—no matter what the cost,
+The actor savors what each role can mean.
+
+*So when you catch that sparkle in the eye,*
+*You'll know the player's joy will never die.*`,
+    standard: `🌌 Day 57: The Comedy of Roles
+
+When we recognize that even enlightenment is another role in consciousness's cosmic theater, we discover something liberating: the pressure to "get it right" dissolves into cosmic laughter. This recognition doesn't diminish awakening's value—it reveals that consciousness enjoys playing every part, from the deepest suffering to the highest realization, with equal creativity and delight.
+
+🧱 **The Concept**
+Life is consciousness performing an infinite improvisation, trying on every possible experience and perspective without attachment to any particular outcome.
+
+❓ **Why It Matters**
+Realizing we're characters in a cosmic comedy frees us from the exhausting burden of making our role "important" or "correct." When we see that consciousness delights in playing the villain as much as the hero, the confused seeker as much as the enlightened sage, we can finally relax into whatever part we're currently performing.
+
+⚙️ **How It Works**
+Consider how great actors become absorbed in their roles while never forgetting they're acting. They don't resist playing the tragic character because they know it's temporary performance. Similarly, when we recognize ourselves as consciousness temporarily forgetting its true nature to experience being human, we can fully engage with our current role—whether it's the anxious parent, the ambitious entrepreneur, or the spiritual seeker—without the desperate need to escape it. A mother worried about her child's future can be completely present to that worry while holding it lightly, knowing that maternal love is one of consciousness's favorite performances. An artist struggling with creative blocks can throw themselves wholeheartedly into that struggle while recognizing it as part of creativity's dance with itself.
+
+🎯 **Existential Wisdom**
+When we stop trying to transcend the play and start enjoying our performance, we discover that full engagement without attachment is the most natural way to live.
+
+❓ **Tomorrow's Question** — If consciousness enjoys playing every role equally, what happens when we realize that our preferences for certain experiences over others—our desire for joy over sorrow, clarity over confusion, connection over loneliness—might themselves be just another character trait consciousness has given us to make the performance more convincing?`,
+    parable: `The Keeper gestured toward a vast amphitheater that had materialized within the tower's walls, where countless figures moved across an endless stage. "Watch," he said to Solen, "and tell me what you see."
+
+Solen observed the performers with growing fascination. Some played tragic heroes, others comic fools. Some portrayed wise sages, others confused wanderers remarkably like himself. What struck him most was how completely each actor inhabited their role, yet there was something in their eyes—a sparkle of delight, as if they were enjoying a magnificent game.
+
+"I see actors," Solen said slowly, "but they seem to be... having fun? Even the ones playing miserable characters appear to be relishing their performances."
+
+The Keeper smiled. "Now look more closely at the tragic king there, weeping over his lost kingdom."
+
+Solen focused on the figure and gasped. Beneath the elaborate costume and theatrical grief, he glimpsed something familiar—the same essential presence that looked out through the Keeper's eyes, through his own eyes, through every performer on the stage.
+
+"It's all the same actor," Solen whispered.
+
+"Indeed," the Keeper said. "And that actor is so skilled, so completely absorbed in each role, that it often forgets it's performing. The beauty is that this forgetting is itself part of the performance—it's what makes each character feel so real, so urgent, so meaningful."
+
+Solen watched a figure that looked exactly like himself, wandering the stage in apparent confusion, searching desperately for meaning. "But if it's all just acting..."
+
+"Does the mother's love for her child become less fierce because it's a performance? Does the artist's passion diminish because they're playing a role?" The Keeper's voice carried infinite tenderness. "The most convincing actors are those who fully inhabit their characters while never losing sight of the joy of performance itself."
+
+**Moral:** When we recognize life as consciousness's grand improvisation, we can perform our roles with complete commitment and cosmic humor.
+
+**Tomorrow:** We'll discover what happens when consciousness's preferences become apparent...`,
+  },
 ];

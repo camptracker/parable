@@ -4176,4 +4176,63 @@ Kael understood now why people avoided such reflection. To see yourself clearly 
 
 *Tomorrow, Sable would reveal why most people flee from death's wisdom rather than embrace its clarifying power.*`,
   },
+  {
+    day: 64,
+    title: "The Legacy Lens",
+    date: "2026-04-24",
+    image: "images/financial-independence/day-64.jpg",
+    audio: "audio/financial-independence/day-64",
+    sonnet: `**🪶 Sonnet LXIV: The Legacy Lens**
+
+What fortune builds beyond the mortal frame?
+Not gold that glitters in a miser's chest,
+But wisdom planted, values without shame,
+And seeds of purpose that outlive our rest.
+The legacy lens transforms each choice we make,
+From "How much can I gather?" to "What flows
+Beyond my years for future souls' sake?"
+As ancient oaks from thoughtful planting grows.
+True wealth compounds across the generations,
+In children taught to save and neighbors fed,
+In businesses that strengthen communities' foundations,
+In values lived, not merely words we've said.
+*When death becomes our teacher, not our foe,
+We learn that lasting riches help others grow.*`,
+    standard: `💰 Day 64: The Legacy Lens
+
+People avoid death's teachings because confronting mortality forces uncomfortable questions about whether we're living authentically or merely performing for others. Death strips away pretense and reveals what truly matters, but this clarity threatens the comfortable illusions we've built around external achievement and social approval.
+
+🧱 **The Concept**
+Viewing financial decisions through the lens of legacy fundamentally transforms how we think about wealth, shifting focus from accumulation to impact.
+
+❓ **Why It Matters**
+When we ask "What legacy am I creating?" instead of "How much can I accumulate?", our relationship with money becomes purposeful rather than anxious. This perspective naturally aligns financial choices with deeper values and creates meaning beyond mere net worth.
+
+⚙️ **How It Works**
+The legacy lens asks three questions about every financial decision: "Will this matter in 20 years?", "What example am I setting?", and "How does this serve something larger than myself?" A expensive car fails all three tests, while investing in education, relationships, or causes that outlast us passes with distinction. This framework automatically filters out status purchases and emphasizes wealth that compounds across generations—whether through financial inheritance, taught wisdom, or positive impact. Even small choices gain significance: teaching a child to save, supporting local businesses that strengthen community, or choosing investments that align with your values.
+
+🎯 **Buffett Wisdom**
+"Someone's sitting in the shade today because someone planted a tree a long time ago."
+
+❓ **Tomorrow's Question** — If building a meaningful legacy requires thinking beyond our own lifetime, what does this suggest about the fundamental purpose of capitalism itself—is our economic system designed to create lasting value for society, or does it incentivize short-term extraction that undermines the very foundations future generations will need to thrive?`,
+    parable: `As winter's grip tightened around the village, Kael found Sable standing before an ancient oak, its bare branches reaching toward the gray sky like gnarled fingers of time.
+
+"This tree has stood here for three centuries," Sable murmured, his breath forming small clouds in the cold air. "The man who planted it never saw its full majesty. Yet here we stand in its shade, warmed by wood from its fallen branches, nourished by fruit from its descendants."
+
+Kael traced the deep furrows in the bark with his finger. "But why would someone plant what they'd never fully enjoy?"
+
+"Perhaps," Sable replied, "because he understood that true wealth isn't measured by what we accumulate, but by what we leave behind. Every choice we make either plants seeds for future generations or consumes what others planted for us."
+
+Tobren emerged from the forest, carrying an armload of carefully selected saplings. "I've been thinking about our conversation regarding purpose," he said, setting down his burden. "I realized I've been asking the wrong question. Not 'How much can I save?' but 'What am I saving for?'"
+
+Sable nodded approvingly. "And what answer did you find?"
+
+"To plant my own grove," Tobren replied, "that my children's children might know abundance not just of coin, but of wisdom, of beauty, of purpose. Every financial choice now passes through this filter: Does this serve the legacy I wish to leave?"
+
+The old teacher smiled, watching as snowflakes began to settle on the ancient oak's branches. "When we view our wealth through the legacy lens, accumulation transforms into cultivation. We become gardeners of the future."
+
+**Moral:** True financial wisdom lies not in maximizing personal wealth, but in creating value that endures beyond our lifetime.
+
+*Tomorrow, we discover how this legacy thinking reveals surprising truths about the nature of capitalism itself...*`,
+  },
 ];
