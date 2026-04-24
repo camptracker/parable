@@ -124,4 +124,60 @@ As afternoon light slanted through the trading floor windows, Garrison leaned ba
 
 Maya nodded, understanding dawning. Tomorrow, Garrison would show her an even deeper mystery—how the Fed's own attempts to control interest rates sometimes backfire spectacularly, revealing who truly holds power in the bond market's vast domain.`,
   },
+  {
+    day: 3,
+    title: "The Yield Curve's Crystal Ball",
+    date: "2026-04-24",
+    image: "images/us-bond-market/day-3.jpg",
+    audio: "",
+    sonnet: `**🪶 Sonnet III: The Yield Curve's Crystal Ball**
+
+Upon the screen a serpent's path unfolds,
+From short to long, each point a whispered fate,
+Where nervous money seeks what future holds,
+And time itself commands a higher rate.
+
+But when the curve inverts its natural way,
+Short yields climb high while long ones tumble down,
+The market speaks of some approaching fray,
+A recession's shadow darkening the town.
+
+Each trader's bet, each pension fund's retreat,
+Transforms to dots upon this sacred line,
+Where billions vote if growth will face defeat,
+Or inflation's fever break like vintage wine.
+
+*This crystal ball of rates both true and stark,*
+*Reveals what lurks within tomorrow's dark.*`,
+    standard: `📊 Day 3: The Yield Curve's Crystal Ball
+
+🧱 **The Concept**
+The yield curve — the line connecting interest rates from short-term to long-term bonds — acts as the bond market's most powerful fortune-telling device.
+
+❓ **Why It Matters**
+When this curve inverts (short-term rates higher than long-term), it has predicted every recession since 1969 with eerie accuracy. The curve reflects collective market wisdom about future economic growth, inflation expectations, and Fed policy moves.
+
+⚙️ **How It Works**
+Normally, longer-term bonds pay higher yields because investors demand compensation for time and uncertainty — creating an upward-sloping curve. But when investors expect economic trouble ahead, they flood into long-term treasuries for safety, driving long-term yields down below short-term rates. The 2-year/10-year spread inverted in July 2022, correctly signaling economic stress ahead. Today's curve shape tells us whether markets expect Fed cuts, inflation spikes, or growth slowdowns. Each twist and turn represents billions of dollars betting on America's economic future.
+
+🎯 **Bond Wisdom**
+The yield curve doesn't lie — it aggregates the collective intelligence of global capital markets into one simple line.
+
+❓ **Tomorrow's Question** — If the yield curve is such a reliable recession predictor, why don't investors simply short stocks every time it inverts and become millionaires?`,
+    parable: `Maya stared at her monitor, watching the yield curve flatten like a dying heartbeat. "Garrison, this 2-year/10-year spread is getting dangerously tight. Should I be worried?"
+
+Garrison approached her desk, his weathered hands clasping a steaming mug. "Child, that curve is speaking to you in the oldest language of finance. Listen closely." He traced the flattening line with his finger. "See how the short end rises while the long end falls? The market is whispering secrets about tomorrow."
+
+"But it's just math," Maya protested. "Supply and demand for different maturities."
+
+"Ah, but whose supply and demand?" Garrison's eyes twinkled. "Pension funds buying 30-year bonds because they fear growth will disappoint. Banks hoarding cash instead of lending because they sense trouble brewing. The Fed raising short rates to fight inflation while bond traders bet they'll have to cut them soon to save a weakening economy."
+
+Maya watched the curve invert before her eyes — a serpent swallowing its own tail. "It's like watching the future crystallize in real-time," she whispered.
+
+"Precisely. Every twist of that curve represents millions of investors voting with their capital on what America will look like in the years ahead. The curve doesn't predict the future, Maya — it reveals what the smartest money in the world believes the future holds."
+
+**Moral**: The yield curve transforms the chaos of individual expectations into a single, prophetic line that reveals the market's collective wisdom about tomorrow's economy.
+
+*Tomorrow, Maya would learn why even the most reliable crystal balls sometimes shatter in the hands of those who trust them too completely.*`,
+  },
 ];

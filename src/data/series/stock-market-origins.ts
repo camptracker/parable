@@ -112,4 +112,70 @@ Weeks later, Willem watched the same baker weep in the streets as tulip prices c
 
 *Tomorrow, we'll discover how governments first tried to tame these wild market forces...*`,
   },
+  {
+    day: 3,
+    title: "The Rise of Market Regulation",
+    date: "2026-04-24",
+    image: "images/stock-market-origins/day-3.jpg",
+    audio: "",
+    sonnet: `**🪶 Sonnet III: The Rise of Market Regulation**
+
+When chaos ruled the trading floors of old,
+And whispered lies could move a nation's gold,
+The wise men gathered 'round the council fire
+To tame the beast of greed and wild desire.
+
+"Let truth be told," they cried, "let books lay bare
+The hidden debts that lurk in shadows there."
+No more could merchants weave their silver lies
+To fleece the trusting lambs with false disguise.
+
+Yet some protested: "Rules will bind our wings,
+And slow the flow of commerce's bright springs!"
+But markets, like the sea, need sturdy dikes
+To channel force and weather fortune's strikes.
+
+*For regulation's hand, though firm and tight,*
+*Transforms the gambling den to beacon bright.*`,
+    standard: `📈 Day 3: The Rise of Market Regulation
+
+Healthy market optimism can be distinguished from dangerous delusion by examining the underlying fundamentals: genuine innovation creates measurable value through new products, expanded trade routes, or improved efficiency, while bubbles inflate prices far beyond any rational assessment of future earnings. The key lies in transparency, accountability, and the ability to separate hope from hype.
+
+🧱 **The Concept**
+As markets matured beyond the Wild West days of early speculation, governments and exchanges began implementing rules to protect investors and maintain public confidence in the financial system.
+
+❓ **Why It Matters**
+Without regulation, markets become playgrounds for manipulation where insider knowledge and outright fraud can destroy public trust. When small investors lose faith in market fairness, they withdraw their capital, starving growing companies of the funding they need to innovate and expand.
+
+⚙️ **How It Works**
+Early regulations focused on basic transparency: companies had to publish their accounts, disclose major shareholders, and report significant events that might affect share prices. **Market makers** were required to maintain fair bid-ask spreads, preventing them from exploiting uninformed traders. **Insider trading** rules emerged to stop company directors from profiting on private information before it became public. Modern exchanges added **circuit breakers** that halt trading during extreme volatility, giving investors time to assess whether dramatic price movements reflect real news or panic selling.
+
+🎯 **Market Wisdom**
+Regulation doesn't eliminate risk—it creates a level playing field where informed decisions can triumph over manipulation and luck.
+
+❓ **Tomorrow's Question** — If regulations make markets fairer but also slower and more expensive to operate, at what point does the cure become worse than the disease?`,
+    parable: `Willem hurried through the narrow streets of Amsterdam, clutching a leather satchel containing his master's latest acquisition—shares in a promising spice venture to the Moluccas. The previous week's tulip crash had left the entire Warmoesstraat exchange in chaos, with many traders ruined and public confidence shattered.
+
+"Master Van der Meer," Willem called as he entered the merchant's counting house, "the burgomasters are meeting today about new trading rules."
+
+Van der Meer looked up from his ledgers, his weathered face grave. "Good. The market has become a den of thieves and dreamers. Yesterday, I watched a man sell shares in a company that existed only in his imagination, and three fools bought them eagerly."
+
+"But surely some speculation drives innovation?" Willem ventured. "Without risk-takers, would we have discovered the route to the Indies?"
+
+"Ah, but there's the difference, young apprentice. When we invested in the VOC's first voyage, we examined their ships, their captains, their planned routes. We calculated costs against potential profits. True investment requires investigation." Van der Meer gestured toward the window, where crowds still gathered around the old church, trading frantically. "What we saw with tulips was pure madness—people buying flowers they'd never seen for prices that exceeded a craftsman's annual wages."
+
+Willem nodded thoughtfully. "So how do we tell the difference?"
+
+"By demanding truth, lad. The new rules will require companies to open their books, to prove their claims, to treat all shareholders fairly. No more secret deals for the well-connected while common investors buy blind."
+
+As if summoned by their conversation, a town crier appeared in the square below, announcing the city's new trading ordinances. Companies must register their true capital. False accounting would be punished. Market manipulation would face hefty fines.
+
+"Will this kill the spirit of enterprise?" Willem asked, watching some traders grumble and disperse.
+
+"No, my boy. It will separate the wheat from the chaff. True entrepreneurs welcome scrutiny—they have nothing to hide. Only charlatans fear the light of regulation."
+
+Moral: Just as a gardener's pruning doesn't destroy the tree but makes it stronger, wise regulation doesn't kill markets—it nurtures them toward sustainable growth.
+
+Tomorrow, Willem will discover how these new rules transform the very nature of trading, but also learn that every solution creates new problems...`,
+  },
 ];
