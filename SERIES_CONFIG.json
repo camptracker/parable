@@ -166,6 +166,28 @@
         "jon",
         "zany"
       ]
+    },
+    {
+      "seriesId": "stock-market-origins",
+      "seriesName": "Origins of the Stock Market",
+      "seriesTheme": "the birth and evolution of stock markets — from 1600s Amsterdam coffeehouses to modern exchanges, the invention of shares, speculation, crashes, regulation, and how markets became the engine of capitalism",
+      "seriesEmoji": "📈",
+      "wisdomLabel": "Market Wisdom",
+      "parableCharacters": "Willem (young apprentice trader in 1602 Amsterdam), Van der Meer (shrewd VOC merchant who trades in futures and whispers)",
+      "recipients": [
+        "jon"
+      ]
+    },
+    {
+      "seriesId": "us-bond-market",
+      "seriesName": "US Bond Market Today",
+      "seriesTheme": "the current state of the US bond market — yields, Fed policy, inflation dynamics, treasury auctions, yield curve inversions, market predictions, and how the bond market signals what's coming in the economy",
+      "seriesEmoji": "📊",
+      "wisdomLabel": "Bond Wisdom",
+      "parableCharacters": "Maya (young treasury analyst), Garrison (veteran bond trader who reads markets like tea leaves)",
+      "recipients": [
+        "jon"
+      ]
     }
   ]
 }
