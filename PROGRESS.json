@@ -245,7 +245,7 @@
     }
   },
   "goldman-sachs-trust-funds": {
-    "latestDay": 0,
+    "latestDay": 1,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
