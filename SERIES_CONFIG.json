@@ -199,6 +199,17 @@
       "recipients": [
         "jon"
       ]
+    },
+    {
+      "seriesId": "relationship-games",
+      "seriesName": "Relationship Games",
+      "seriesTheme": "the hidden psychology of romantic power dynamics — manipulation tactics, game theory in dating, recognizing toxic patterns, understanding push-pull dynamics, and why people play games instead of being direct. From Eric Berne's transactional analysis to Robert Greene's seduction strategies and attachment theory",
+      "seriesEmoji": "🎭",
+      "wisdomLabel": "Relationship Strategy Wisdom",
+      "parableCharacters": "Riven (young romantic who keeps getting played), The Mirror (mysterious figure who reveals hidden motives and patterns)",
+      "recipients": [
+        "jon"
+      ]
     }
   ]
 }
