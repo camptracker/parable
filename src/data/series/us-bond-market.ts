@@ -180,4 +180,64 @@ Maya watched the curve invert before her eyes — a serpent swallowing its own t
 
 *Tomorrow, Maya would learn why even the most reliable crystal balls sometimes shatter in the hands of those who trust them too completely.*`,
   },
+  {
+    day: 4,
+    title: "The Fed's Invisible Hand",
+    date: "2026-04-25",
+    image: "images/us-bond-market/day-4.jpg",
+    audio: "audio/us-bond-market/day-4",
+    sonnet: `**🪶 Sonnet IV: The Fed's Invisible Hand**
+
+When Powell speaks, the short-term yields obey,
+Like soldiers marching to their general's drum,
+Yet longer bonds consider and delay,
+For they know well what future years may come.
+
+The Fed may raise its rates with iron will,
+But markets vote on policy's true cost,
+Through yield curve movements, subtle and still,
+They signal when the battle may be lost.
+
+Each basis point flows outward like a wave,
+From fed funds rate to mortgages nationwide,
+The central bank believes that it can save
+The economy with monetary pride.
+
+*Yet bond traders hold the deeper, truer power—*
+*They write tomorrow's script in every hour.*`,
+    standard: `📊 Day 4: The Fed's Invisible Hand
+
+While the yield curve is a reliable recession predictor, timing is everything in markets — inversions can persist for months or even years before recession hits, and stocks often rally during this lag period, crushing short sellers who act too early. The curve signals direction, not timing, which is why even armed with this knowledge, traders still lose fortunes betting on market timing.
+
+🧱 **The Concept**
+The Federal Reserve's policy decisions ripple through bond markets before they reach the broader economy, creating a transmission mechanism that savvy traders learn to read.
+
+❓ **Why It Matters**
+Fed policy changes don't just affect interest rates — they reshape the entire yield landscape, influencing everything from mortgage rates to corporate borrowing costs. Understanding this transmission helps investors anticipate economic shifts before they become headlines.
+
+⚙️ **How It Works**
+When the Fed raises rates, short-term treasury yields immediately jump to reflect the new federal funds rate, but longer-term yields move based on inflation expectations and growth forecasts. For example, if the Fed hikes rates but signals they're nearly done fighting inflation, the 10-year yield might actually fall as markets price in future rate cuts. This creates the inverted yield curve we discussed yesterday. The bond market essentially acts as a real-time voting mechanism on Fed policy effectiveness — when traders believe the Fed is overtightening, they bid up long-term bonds, flattening or inverting the curve. Conversely, when markets doubt the Fed's inflation-fighting resolve, long-term yields spike higher than short-term rates, steepening the curve dramatically.
+
+🎯 **Bond Wisdom**
+The Fed may set short-term rates, but the bond market sets the Fed's credibility through long-term yield movements.
+
+❓ **Tomorrow's Question** — If the Fed's goal is price stability, why do bond traders sometimes seem to fight against Fed policy rather than support it, and what does this tension reveal about the true nature of monetary control?`,
+    parable: `Maya stared at her screen as the Fed's afternoon announcement sent ripples across the treasury market. "I don't understand," she said, watching the 2-year yield spike while the 10-year barely budged. "The Fed just raised rates by 75 basis points — shouldn't all yields move together?"
+
+Garrison chuckled, his weathered fingers tracing patterns in the air. "Ah, young Maya, you're watching the Fed's invisible hand at work. The central bank may control the federal funds rate, but the bond market controls the Fed's destiny."
+
+He pulled up a chart spanning decades. "See, when the Fed speaks, the short end listens immediately — that 2-year yield jumps like a trained dog. But the long end? Those bonds are more like wise old elephants, considering not just what the Fed says today, but what it means for tomorrow."
+
+"The market is pricing in recession," Maya realized, watching the yield curve flatten in real-time.
+
+"Precisely. The bond market is telling the Fed: 'Your medicine is too strong. Keep this up, and you'll kill the patient you're trying to heal.'" Garrison's eyes gleamed. "This is why I call it the invisible hand — the Fed thinks it's conducting the orchestra, but the bond market is actually writing the symphony."
+
+Maya watched as mortgage rates ticked higher on her Bloomberg terminal. "So the Fed's decision ripples out to every borrower in America?"
+
+"Every mortgage, every corporate loan, every credit card rate. The Fed pulls one lever, but the bond market has a thousand pressure valves." Garrison pointed to the screen. "That's the transmission mechanism at work — policy flows through bonds before it reaches Main Street."
+
+**Moral**: The Fed may set the tempo, but the bond market writes the economic score.
+
+*Tomorrow, Maya would discover why sometimes the bond market seems to rebel against its supposed conductor...*`,
+  },
 ];

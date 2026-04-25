@@ -3476,4 +3476,72 @@ Dove felt something shift, like a weight she didn't know she'd been carrying sud
 
 **Tomorrow:** Dove and Elm discover that their vows become most powerful when they shift from asking to giving.`,
   },
+  {
+    day: 56,
+    title: "The Sacred Overflow",
+    date: "2026-04-25",
+    image: "images/wedding-planning/day-56.jpg",
+    audio: "audio/wedding-planning/day-56",
+    sonnet: `**🪶 Sonnet LVI: The Sacred Overflow**
+
+Not from the hollow caverns of our need
+Should wedding promises be carved and spoken,
+But from the fountain where two hearts have freed
+The gifts that loving's alchemy has woken.
+
+For vows that beg "Please fill what I have lost"
+Build marriages on deficit and debt,
+While those that flow from love's abundance, crossed
+With gratitude, create what time won't fret.
+
+Say not "I need your strength to make me whole,"
+But "Loving you has taught me to be brave."
+Not "Fill the emptiness within my soul,"
+But "You've awakened all I want to give."
+
+*When vows pour forth from love's sweet overflow,*
+*They plant the seeds that make a marriage grow.*`,
+    standard: `💍 Day 56: The Sacred Overflow
+
+When we shift from promising what we need to promising what we're excited to give, we discover that the most powerful wedding vows emerge from abundance rather than lack—from the overflow of who we've become through loving this person, rather than from what we hope they'll provide to complete us. This reveals that dependent love asks "What can you do for me?" while generous love declares "Look what loving you has made me capable of giving."
+
+**🧱 The Concept**
+True wedding vows flow from the surplus of love rather than the deficit of need.
+
+**❓ Why It Matters**
+Vows written from neediness create marriages built on transaction and expectation, while vows written from abundance create marriages built on gift and gratitude. The person who promises from overflow has already been transformed by love and is simply announcing what that transformation has made possible.
+
+**⚙️ How It Works**
+Instead of promising "I need you to make me feel secure," you might promise "Loving you has taught me to offer fearless loyalty." Rather than "I need you to understand me," you could vow "You've shown me how to listen so deeply that I can offer the gift of truly seeing you." Instead of "I need you to make me happy," you might promise "The joy you've awakened in me has become a fountain I want to pour into every day of our life together." These vows reveal not what you lack, but what loving this person has already created in you that you're excited to keep giving. They transform wedding promises from contracts of mutual servitude into declarations of mutual abundance.
+
+**🎯 Wedding Wisdom**
+The most powerful vows don't ask for anything—they announce what love has already made you capable of giving.
+
+**❓ Tomorrow's Question** — If you discovered that your marriage's deepest intimacy would come not from sharing your similarities but from celebrating your differences as complementary gifts, what would you need to stop trying to change about your partner and start treasuring as essential to who they are?`,
+    parable: `Dove sat at her kitchen table, surrounded by crumpled drafts of her wedding vows, each one beginning with "I need you to..." Her frustration mounted with every false start.
+
+Elm found her there, hair disheveled, pencil worn to a nub. "What if we're approaching this backwards?" he asked gently, reading over her shoulder.
+
+"What do you mean?"
+
+"Every draft talks about what we need from each other. What if we wrote about what we're excited to give instead?"
+
+Nana Rose, arriving for their final planning session, paused at the doorway. "Ah," she said, settling into a chair. "You've discovered the secret spring."
+
+"The what?" Dove asked.
+
+"Forty years ago, I watched a couple write their vows from desperate need—promising to fill each other's empty spaces. They divorced within two years, both exhausted from trying to be someone else's missing piece." Nana Rose smiled. "But I've also witnessed vows that flowed like water from a spring—not because the couple was thirsty, but because love had filled them to overflowing."
+
+Elm nodded slowly. "Like how loving Dove taught me that I actually enjoy being patient, not because she needs it, but because she brought out this calm in me I never knew existed."
+
+"And how loving you showed me I'm capable of the kind of fierce loyalty I used to think only existed in movies," Dove added, her eyes brightening.
+
+Nana Rose clapped her hands. "There! Those aren't vows born from lack—they're announcements of what love has already created in you. The most beautiful ceremonies I've witnessed were between people who had become so much themselves through loving each other that their vows were simply declarations of what they were now abundant enough to give."
+
+Dove picked up her pencil again, this time with excitement rather than desperation.
+
+**Moral**: The most powerful wedding vows flow not from what we lack, but from the abundance love has already created within us.
+
+**Tomorrow**: Dove and Elm discover that their greatest intimacy comes not from their similarities, but from learning to treasure what makes them magnificently different.`,
+  },
 ];

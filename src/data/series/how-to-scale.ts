@@ -3623,4 +3623,66 @@ The workshop hummed with hybrid energy—artists whose intuition had been sharpe
 
 **Tomorrow:** Even hybrid masters eventually seek their own form of purity...`,
   },
+  {
+    day: 60,
+    title: "The Pure Source Protocol",
+    date: "2026-04-25",
+    image: "images/how-to-scale/day-60.jpg",
+    audio: "audio/how-to-scale/day-60",
+    sonnet: `**🪶 Sonnet LX: The Pure Source Protocol**
+
+When stakes ascend beyond all measure's reach,
+And destiny hangs on a single choice,
+The wisest minds abandon hybrid speech
+For one pure channel, one unyielding voice.
+
+No synthesis of thought when cities burn,
+No blended wisdom when the flood gates call—
+Just mathematics' cold, precise return,
+Or vision's fire consuming analysis' sprawl.
+
+Three workbenches stand in wisdom's hall:
+One bright with numbers' unforgiving light,
+One smooth with stones where intuition's call
+Rings pure and true through contemplation's night.
+
+*When all depends on getting one thing right,*
+*Pure sources shine where hybrid thinking's blight.*`,
+    standard: `🚀 Day 60: The Pure Source Protocol
+
+The most successful leaders establish decision purity protocols because they discover that for their most consequential choices, the cognitive load of managing multiple decision-making frameworks actually creates more noise than insight. Pure decision sources—whether purely analytical, purely intuitive, or purely experiential—cut through the complexity that hybrid approaches inevitably generate when stakes are highest.
+
+🧱 **The Concept**
+Pure source protocols involve identifying which decision-making mode (analytical, intuitive, or experiential) naturally aligns with specific types of choices and then eliminating all other influences during those decisions.
+
+❓ **Why It Matters**
+Hybrid decision-making excels in most situations, but creates dangerous cognitive interference during mission-critical moments when clarity is more valuable than comprehensiveness. Leaders who try to apply multiple frameworks to their most important decisions often suffer from "decision synthesis paralysis" where the effort to integrate different approaches prevents them from acting decisively when timing is crucial.
+
+⚙️ **How It Works**
+Leaders map their most critical decision types to their highest-performing cognitive mode. Jeff Bezos uses pure analytical frameworks for Amazon's long-term strategic bets, deliberately ignoring market sentiment and intuitive concerns. Reed Hastings relies on pure experiential pattern recognition for Netflix's content decisions, specifically excluding data analysis that might override his industry experience. Brian Chesky applies pure intuitive assessment for Airbnb's cultural and brand choices, prohibiting analytical justification that might compromise authentic vision. The protocol requires pre-committing to a single decision source before the choice emerges, preventing mid-decision framework switching that creates cognitive confusion.
+
+🎯 **Scaling Wisdom**
+The highest leverage decisions require decision source purity—hybrid approaches optimize for comprehensiveness, but critical moments demand cognitive clarity over cognitive completeness.
+
+❓ **Tomorrow's Question** — If pure source protocols create such powerful clarity for critical decisions, why do the most successful leaders eventually develop "source corruption" systems that deliberately contaminate their pure decision modes with exactly the influences their protocols were designed to eliminate?`,
+    parable: `Vex found Ironmere sitting before three distinct workbenches in his private chamber—one covered with blueprints and measuring tools, another holding only smooth river stones for contemplation, and the third displaying fragments from every structure he'd ever built.
+
+"Master, I've been studying your hybrid decision methods, but I notice you never use them for your most important choices. Why?"
+
+Ironmere gestured to the workbenches. "Young builder, watch carefully." He approached a complex architectural problem—designing the city's new bridge. "When I blend analytical precision with intuitive flow and experiential wisdom, I create comprehensive solutions. But observe what happens when the choice becomes truly critical."
+
+He pulled out plans for the city's emergency flood barriers—a decision that would determine whether thousands lived or died. "Here, I use only this," he said, moving to the analytical bench, sweeping aside all distractions. "Pure calculation. No room for intuitive uncertainty or experiential bias when mathematics must govern survival."
+
+Next, he showed Vex sketches for the city's central monument. "And here," he moved to the contemplation stones, "pure vision. No analytical justification can capture what the city's soul requires. No past experience can guide what has never been built."
+
+Finally, he revealed plans for expanding the old quarter. "This demands only experience," he said, touching the ancient fragments. "Pure pattern recognition from decades of urban growth. No fresh analysis or intuitive leaps—only the deep wisdom of what has worked."
+
+"But why separate them?" Vex asked. "Wouldn't combining all three create better decisions?"
+
+Ironmere smiled sadly. "In moments of highest consequence, young one, the mind cannot serve multiple masters without betraying them all. Purity of source creates purity of action. Hybrid thinking builds excellent bridges, but pure thinking saves cities."
+
+**Moral:** *The greatest decisions require the clearest channels—when everything depends on getting it right, cognitive purity surpasses cognitive diversity.*
+
+*Tomorrow: When pure sources create such decisive clarity, why do master builders eventually poison their own wells?*`,
+  },
 ];

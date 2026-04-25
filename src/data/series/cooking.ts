@@ -3654,4 +3654,62 @@ That evening, Sage watched their own movements with new eyes. The knife work tha
 
 *Tomorrow, Ember will reveal why the mirrors that reflect our growth may themselves be clouded...*`,
   },
+  {
+    day: 60,
+    title: "The Circle of Seasons - How Time Completes Understanding",
+    date: "2026-04-25",
+    image: "images/cooking/day-60.jpg",
+    audio: "audio/cooking/day-60",
+    sonnet: `**🪶 Sonnet LX: The Circle of Seasons**
+
+Through spring's first herbs to winter's stored grain,
+The kitchen turns its ancient wheel of time,
+Where simple skills, revisited again,
+Reveal new depths in their familiar rhyme.
+
+The stock that once was just extracted bone
+Becomes a meditation on patience deep,
+While salt transforms from seasoning alone
+To chemistry's key that proteins learn to keep.
+
+Each season brings the cook back home to start
+With fundamentals thought long understood,
+Yet finds within each basic, beating heart
+New mysteries that make the simple good.
+
+*For mastery spirals up through known terrain,*
+*Finding infinite in the plain refrain.*`,
+    standard: `🍳 Day 60: **The Circle of Seasons - How Time Completes Understanding**
+
+🧱 **The Concept**: True culinary understanding moves in cycles rather than straight lines, with each return to familiar territory revealing deeper layers of meaning we couldn't perceive at earlier stages of development.
+
+❓ **Why It Matters**: Linear thinking suggests that once we've learned something, we never need to revisit it. But cooking wisdom operates cyclically—we return to basic techniques, fundamental ingredients, and simple preparations throughout our careers, discovering new depths each time our experience has prepared us to see more.
+
+⚙️ **How It Works**: A beginning cook learns to make stock and focuses on extracting flavor. Years later, they return to stock-making and discover it's about building layers. Decades in, they realize stock-making is meditation—a practice of patience and attention. The technique hasn't changed, but their capacity to perceive its full meaning has expanded. Similarly, a young cook might see salt as seasoning, then later understand it as a flavor enhancer, then eventually recognize it as a tool for controlling texture, moisture, and chemical reactions. Each return to these fundamentals reveals teachings that were always present but required seasoned perception to recognize. **Seasonality** itself demonstrates this cycle—spring vegetables return each year, but an experienced cook tastes different possibilities in asparagus based on everything they've learned since last spring.
+
+🎯 **Culinary Wisdom**: **True mastery spirals upward through familiar territory, finding infinite depth in finite techniques.**
+
+❓ **Tomorrow's Question** — If this cyclical return to fundamentals creates deepening spirals of understanding rather than simple repetition, what determines whether a cook's final return—to the most basic act of feeding another person with care—will represent the completion of their learning journey, or reveal that mastery itself was always just the beginning of an even greater mystery they never suspected existed?`,
+    parable: `In the depths of winter, when the last preserves had been used and fresh ingredients grew scarce, Sage found herself staring at the pantry's meager offerings—flour, salt, oil, eggs. "Everything interesting has been used up," she sighed to Ember, who stood quietly beside her.
+
+"Interesting," Ember mused, running her fingers along the simple containers. "Tell me, child, what did you first learn to make with these?"
+
+"Pasta. Basic egg noodles." Sage's voice carried the dismissive tone of someone who had moved far beyond such elementary preparations.
+
+"Show me," Ember requested.
+
+Reluctantly, Sage began the familiar motions—creating a flour well, cracking eggs into its center, working the dough until it came together. But as her hands moved through the ancient rhythm, something unexpected happened. Where once she had focused only on getting the texture right, she now felt the gluten developing, understood how the eggs' proteins were transforming the flour's structure. Where she had once worried about rolling evenness, she now sensed the dough's desire for rest, its readiness to be shaped.
+
+"Different this time?" Ember asked, though she already knew the answer from the quality of Sage's movements.
+
+"Completely." Sage's hands paused in their kneading. "It's the same recipe, the same technique, but I'm... hearing things I couldn't hear before."
+
+Ember smiled. "When I was young, I thought learning meant always moving forward, always discovering new things. I exhausted myself chasing novelty. It took decades to understand that wisdom moves in spirals, not lines. We return again and again to the same fundamentals, but each time, we bring everything we've learned in the interim. The ingredients haven't changed, child. You have."
+
+As the pasta cooked and they sat down to the simple meal, Sage realized that this bowl of noodles—humble as it was—contained every lesson she'd ever learned about timing, texture, heat, and intention. The circle had completed itself, yet somehow felt like a beginning.
+
+Moral: True learning spirals through familiar territory, finding infinite depth in finite fundamentals.
+
+Tomorrow, we discover what lies beyond even the completion of these cycles.`,
+  },
 ];

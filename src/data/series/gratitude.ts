@@ -360,4 +360,63 @@ The elder stood, brushing dust from his robes. "Tomorrow, we explore what happen
 
 **Tomorrow:** Hana will witness the slow decay of a village that has forgotten how to say thank you—and learn how gratitude can heal even the deepest divisions.`,
   },
+  {
+    day: 7,
+    title: "The Ripple Effect",
+    date: "2026-04-25",
+    image: "images/gratitude/day-7.jpg",
+    audio: "audio/gratitude/day-7",
+    sonnet: `**🪶 Sonnet VII: The Ripple Effect**
+
+Like stones cast in a mirror-still pond,
+Each grateful word creates expanding rings
+That touch far shores beyond what we respond—
+The gift of appreciation always brings
+
+More than intended by the thankful heart.
+Mirror neurons dance in those who hear,
+Reflecting joy that will not stay apart
+But spreads like dawn to banish doubt and fear.
+
+One smile begets another down the line,
+One "thank you" sparks a chain of kindled light
+That reaches strangers drinking morning wine
+Or walking dogs beneath the starlit night.
+
+*So know your gratitude extends its reach—*
+*Each blessing shared gives others power to teach.*`,
+    standard: `🙏 Day 7: The Ripple Effect
+
+Gratitude as emotional leadership means recognizing that your appreciation doesn't just change you—it transforms everyone around you by modeling what it looks like to find abundance in ordinary moments. When you express genuine gratitude, you give others permission to shift from scarcity thinking to appreciation, creating a contagious positive influence that spreads far beyond the initial exchange.
+
+**🧱 The Concept**
+Gratitude creates ripple effects that extend far beyond the person expressing it, influencing entire communities through emotional contagion.
+
+**❓ Why It Matters**
+Research shows that gratitude spreads through social networks up to three degrees of separation—your appreciation can literally brighten the day of people you've never met. This ripple effect explains why cultures with strong gratitude practices tend to have higher levels of social cohesion and collective wellbeing.
+
+**⚙️ How It Works**
+When you express gratitude, mirror neurons in the recipient's brain fire as if they're experiencing appreciation themselves, creating an immediate emotional shift. This person then carries that positive energy into their next interaction, passing it forward unconsciously. A simple "thank you for holding the door" doesn't just acknowledge kindness—it reinforces the neural pathways for prosocial behavior in both people. Studies tracking gratitude interventions in workplaces show that when one person begins expressing more appreciation, productivity and job satisfaction increase throughout their entire department within weeks. The ripple spreads because gratitude activates the brain's reward centers, making people want to both receive and give more positive interactions.
+
+**🎯 Gratitude Wisdom**
+Your appreciation is never just about you—it's a gift you give to the collective consciousness of everyone you encounter.
+
+**❓ Tomorrow's Question**
+If expressing gratitude creates such powerful ripple effects, why do most people wait to feel grateful before expressing appreciation, rather than using the expression of gratitude as a tool to generate the feeling itself?`,
+    parable: `Hana watched Elder Thorn tend his garden, where a single flowering tree had begun to bloom despite the rocky soil. "Master," she asked, "why do you always thank the earth aloud when you water the plants? The soil cannot hear you."
+
+Elder Thorn smiled, his weathered hands gentle on the watering gourd. "Watch closely, young apprentice." As he spoke words of gratitude to each plant, Hana noticed something remarkable—the other gardeners working nearby began to move differently, their shoulders relaxed, their voices softer with each other.
+
+"But they're not even listening to your words," Hana protested.
+
+"Ah, but they feel the vibration of appreciation," Elder Thorn replied. "Watch what happens when someone tends their work with genuine gratitude." Throughout the day, Hana observed how the gardeners who had worked near Elder Thorn carried themselves with more lightness. They spoke more kindly to their families at evening meal, who in turn smiled more readily at their neighbors.
+
+"You see," Elder Thorn explained as the sun set, "gratitude is like this flowering tree. One bloom encourages another, until the whole orchard transforms. Your appreciation doesn't end with you—it becomes the seed of someone else's joy."
+
+That night, Hana found herself thanking the stars aloud, and noticed how the other young apprentices around the fire began sharing stories of their own small blessings.
+
+**Moral:** Gratitude creates ripple effects that transform communities one heart at a time.
+
+**Tomorrow:** Hana discovers why speaking appreciation feels so much more powerful than simply thinking it.`,
+  },
 ];
