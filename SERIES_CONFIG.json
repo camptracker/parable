@@ -210,6 +210,18 @@
       "recipients": [
         "jon"
       ]
+    },
+    {
+      "seriesId": "relationship-play",
+      "seriesName": "Relationship Play",
+      "seriesTheme": "fun games, activities, and playful exercises that build intimacy, deepen connection, spark joy, and strengthen healthy romantic relationships — from creative date night ideas to communication games, trust-building activities, shared adventures, and the science of play in maintaining long-term passion",
+      "seriesEmoji": "🎮",
+      "wisdomLabel": "Playful Connection Wisdom",
+      "parableCharacters": "Quinn and River (playful couple learning to keep their spark alive), Elder Joy (wise relationship counselor who believes laughter is the secret ingredient)",
+      "recipients": [
+        "jon",
+        "zany"
+      ]
     }
   ]
 }
