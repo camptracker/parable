@@ -292,4 +292,64 @@ Months later, as new ships returned laden with spices and the VOC rebuilt strong
 
 **Tomorrow:** Van der Meer reveals the hidden cost of every market salvation...`,
   },
+  {
+    day: 6,
+    title: "The Democratic Revolution of Stock Ownership",
+    date: "2026-04-26",
+    image: "images/stock-market-origins/day-6.jpg",
+    audio: "audio/stock-market-origins/day-6",
+    sonnet: `**🪶 Sonnet VI: The Democratic Revolution of Stock Ownership**
+
+Once only merchant princes could afford
+To claim their stake in ventures bound for sea,
+While common folk stood watching at the door
+Of wealth's exclusive aristocracy.
+
+But time transformed those gilded gates of trade—
+The baker's coin could buy a fractured share,
+The seamstress too might see her fortune made
+Through pieces of the profits merchants bear.
+
+No longer must the humble stand apart
+From commerce flowing to the farthest shore;
+Each citizen may claim their beating part
+In capitalism's ever-widening door.
+
+*When everyone owns pieces of the whole,*
+*The market serves not just the wealthy soul.*`,
+    standard: `📈 Day 6: The Democratic Revolution of Stock Ownership
+
+While crashes may strengthen markets structurally, they devastate lives in ways that pure efficiency cannot justify—a widow losing her savings matters more than market optimization. The true test of a financial system isn't its ability to bounce back from crashes, but its capacity to create genuine prosperity for ordinary people, not just speculators.
+
+🧱 **The Concept**
+Stock markets evolved from exclusive merchant clubs into democratic institutions where ordinary citizens could own pieces of the world's greatest companies.
+
+❓ **Why It Matters**
+This transformation turned workers into capitalists, allowing a schoolteacher to own Apple or a mechanic to profit from Amazon's growth. It fundamentally changed who could build wealth and how societies distribute prosperity.
+
+⚙️ **How It Works**
+Initially, only wealthy merchants could afford VOC shares costing years of wages. The **joint-stock company** structure eventually enabled smaller investments through **fractional ownership**. By the 1900s, **retail brokerages** emerged, letting ordinary people buy shares. The **mutual fund** (1924) and **401(k) retirement accounts** (1978) further democratized investing. Today, **commission-free trading apps** allow anyone to buy fractional shares of expensive stocks with pocket change.
+
+🎯 **Market Wisdom**
+The stock market's greatest innovation wasn't creating wealth—it was distributing the opportunity to create wealth.
+
+❓ **Tomorrow's Question** — If anyone can now own stocks through their phone, but most people still don't understand how markets work, are we democratizing opportunity or creating a new form of inequality between the financially literate and illiterate?`,
+    parable: `Willem found Van der Meer dividing a torn piece of parchment into smaller fragments, each bearing the VOC seal. "What madness is this, Master?" Willem asked, watching the merchant create dozens of tiny certificates.
+
+"Madness? Or genius?" Van der Meer smiled. "Yesterday, young Hendrik the baker's son wept outside the exchange. He'd saved twelve guilders—enough to feed his family for months, but not enough to buy a single VOC share worth three hundred."
+
+Willem frowned. "So he cannot participate in our prosperity?"
+
+"Not yet." Van der Meer held up the fragments. "But what if we divided each share? What if twenty families could own pieces of one share, pooling their modest coins to claim their portion of the Indies' riches?"
+
+The apprentice watched in wonder as Van der Meer sketched a vision: countless ordinary citizens—bakers, blacksmiths, seamstresses—each owning fragments of the great trading companies. "The profits of the world's commerce, flowing not just to a few wealthy merchants, but to every household willing to risk a few coins for a piece of the future."
+
+"But Master," Willem protested, "won't this chaos destroy the natural order? When everyone owns everything, who truly owns anything?"
+
+Van der Meer's eyes gleamed. "When everyone owns a piece of prosperity, my boy, everyone has reason to see it flourish. The baker who owns shipping companies wants safe seas. The seamstress with mining shares demands honest management. We transform subjects into stakeholders."
+
+**Moral**: True wealth is not hoarded but shared, creating not scarcity but abundance for all.
+
+*Tomorrow, Willem will discover what happens when everyone can trade, but not everyone understands the game they're playing...*`,
+  },
 ];

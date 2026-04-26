@@ -296,4 +296,62 @@ The moral crystallized in Maya's mind: Treasury auctions reveal not just market 
 
 Tomorrow, Garrison would show her why some warning signs hide in plain sight, even when the borrowing continues.`,
   },
+  {
+    day: 6,
+    title: "The Debt-to-GDP Tipping Point",
+    date: "2026-04-26",
+    image: "images/us-bond-market/day-6.jpg",
+    audio: "audio/us-bond-market/day-6",
+    sonnet: `**🪶 Sonnet VI: The Debt-to-GDP Tipping Point**
+
+When nations borrow more than they produce,
+The ratio climbs like mercury in heat,
+Yet some economies the strain reduce
+While others face their fiscal defeat.
+
+Japan towers high at two-fifty percent,
+Yet sleeps in peace with rates near zero's floor,
+While Greece at one-eighty saw lenders spent
+And creditors came knocking at their door.
+
+The secret lies not in the number's face,
+But growth that outpaces what is owed,
+And markets' trust in each nation's grace
+To honor every bond and debt bestowed.
+
+*A speedometer shows but present speed,*
+*Not whether you race toward hope or need.*`,
+    standard: `📊 Day 6: The Debt-to-GDP Tipping Point
+
+The paradox between strong auction demand and debt crisis warnings exists because markets can remain calm until they suddenly don't—the key metrics aren't just debt levels, but debt service costs as a percentage of tax revenue, foreign ownership concentration, and the dollar's reserve currency status. When debt service exceeds 20-25% of federal revenues, when foreign central banks begin diversifying away from Treasuries, or when inflation persistently outpaces growth, these become the canaries in the coal mine that signal when borrowing privilege might face real constraints.
+
+🧱 **The Concept**
+The debt-to-GDP ratio acts as a nation's financial thermometer, measuring how much a country owes relative to its economic output, but the "danger zone" isn't a fixed number—it depends on growth rates, interest costs, and market confidence.
+
+❓ **Why It Matters**
+Japan carries a debt-to-GDP ratio above 250% without crisis, while some emerging markets face trouble at 60%, proving that the ratio alone doesn't determine sustainability. What matters is the interplay between debt growth, economic growth, interest rates, and the market's faith in repayment ability.
+
+⚙️ **How It Works**
+When GDP grows faster than debt, the ratio improves even if absolute debt increases—imagine a household whose income rises faster than their mortgage balance. The critical threshold emerges when debt service costs (interest payments) begin crowding out essential government functions or when investors demand higher yields to compensate for perceived risk. For example, when Greece's debt-to-GDP hit 180% in 2010, markets panicked not just because of the ratio, but because growth had stalled while borrowing costs skyrocketed. Conversely, the US maintains credibility at 120% debt-to-GDP because the dollar's reserve status creates captive demand, economic growth continues, and real interest rates often stay below growth rates.
+
+🎯 **Bond Wisdom**
+The debt-to-GDP ratio is like a speedometer—useful information, but what matters more is whether you're accelerating toward a cliff or cruising on a highway.
+
+❓ **Tomorrow's Question** — If rising interest rates make government debt more expensive to service, why do some bond investors actually prefer higher rate environments, and what does this preference reveal about the hidden relationship between inflation, real returns, and political risk?`,
+    parable: `Maya stared at the massive chart sprawled across Garrison's desk, lines and numbers dancing like constellations across decades of economic history. "Look at this," she said, pointing to Japan's towering debt mountain. "How are they still standing with 250% debt-to-GDP while Greece collapsed at 180%?"
+
+Garrison traced the curves with a weathered finger, his eyes holding the wisdom of countless market cycles. "Ah, young analyst, you're making the classic mistake—thinking the thermometer causes the fever." He pulled out a magnifying glass, focusing on the fine print below each country's data. "See here? Japan owns most of its own debt, pays near-zero rates, and their people save religiously. Greece? Foreign creditors, soaring borrowing costs, and an economy that had stopped growing."
+
+Maya leaned closer, beginning to see the hidden patterns. "So it's not just how much you owe..."
+
+"It's who you owe it to, what you pay them, and whether your economy grows faster than your debts," Garrison finished. "A nation is like a farmer. If his crops grow faster than his mortgage payments, he prospers even with substantial debt. But if drought comes and creditors grow nervous..." He gestured to Greece's dramatic spike in borrowing costs.
+
+"The bond market doesn't just count dollars—it weighs trust, growth, and the delicate mathematics of sustainability. A debt-to-GDP ratio is merely the speedometer; what matters is whether you're racing toward prosperity or careening toward a cliff."
+
+Maya nodded slowly, understanding dawning like sunrise. "And sometimes the speedometer lies until it's too late."
+
+**Moral:** The weight of debt depends not just on its size, but on the strength of the shoulders carrying it and the path ahead.
+
+*Tomorrow, Garrison would reveal why some investors actually hunger for the very rate increases that make government debt more expensive...*`,
+  },
 ];

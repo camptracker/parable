@@ -3606,4 +3606,66 @@ As Elm looked up and waved, dirt on his hands and joy in his eyes, Dove felt som
 
 **Tomorrow:** Nana Rose will reveal why the most intimate marriages are built not on complete understanding, but on sacred mystery.`,
   },
+  {
+    day: 58,
+    title: "The Sacred Mystery",
+    date: "2026-04-26",
+    image: "images/wedding-planning/day-58.jpg",
+    audio: "audio/wedding-planning/day-58",
+    sonnet: `**🪶 Sonnet LVIII: The Sacred Mystery**
+
+Though lovers think that knowing all is best,
+And seek to map each corner of the heart,
+The deepest love leaves something unexpressed—
+A secret self that stands a world apart.
+
+For in the rush to understand and claim,
+We often crush the very thing we seek;
+The butterfly pinned down is not the same
+As one whose flight makes morning gardens speak.
+
+So let your beloved keep their private dawn,
+Their thoughts that wander paths you'll never know;
+For mystery makes the heart grow ever drawn
+To depths where only patient lovers go.
+
+*True intimacy blooms where trust allows*
+*The sacred space between two loving vows.*`,
+    standard: `💍 Day 58: The Sacred Mystery
+
+To release the desire to know and control everything about your partner, you'd need to let go of the illusion that love means possession of another person's inner world. This shift teaches you that intimate knowledge seeks to understand for the sake of connection, while intimate trust allows space for the unknown because it believes in your partner's fundamental goodness even in the places you cannot see.
+
+🧱 **The Concept**
+True marital intimacy flourishes not through complete transparency but through comfortable coexistence with mystery—loving someone fully while honoring the sacred unknowability at their core.
+
+❓ **Why It Matters**
+Many couples suffocate their love by demanding total access to each other's thoughts, feelings, and motivations, mistaking surveillance for intimacy. Wedding planning often amplifies this tendency as stress makes us want to predict and control our partner's every response. The healthiest marriages preserve space for individual mystery while building shared understanding.
+
+⚙️ **How It Works**
+Instead of asking "What are you thinking?" when your partner seems distant during wedding planning, you might say "I'm here when you're ready to share." Rather than needing to understand why they care so much about a particular wedding detail, you can simply honor that it matters to them. This means choosing curiosity over interrogation, patience over pressure, and trust over the need to know everything immediately. You can know your partner's patterns, values, and heart while still being surprised by their thoughts, delighted by their growth, and respectful of their inner sanctuary.
+
+🎯 **Wedding Wisdom**
+Your wedding vows should celebrate not just what you know about each other, but your willingness to keep discovering each other for the rest of your lives.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage's greatest adventures would come not from exploring the world together but from exploring the endless depths of each other's souls, what would that change about how you prioritize shared experiences versus intimate revelation, and what does that reveal about whether you're marrying a companion or a universe?`,
+    parable: `Dove sat in Nana Rose's garden office, her planning binder scattered with crossed-out timelines and question marks. "I don't understand him," she confessed, her voice tight with frustration. "Yesterday Elm said the music doesn't matter, but today he spent an hour researching string quartets. How am I supposed to plan anything when I can't predict what he'll care about?"
+
+Nana Rose tended her ancient rosebush, its blooms a mystery of pink and coral that defied simple categorization. "Tell me, dear one, do you know everything about this rose? Its exact genetic makeup, why it chooses pink over red on Tuesday mornings, what dreams visit its roots at night?"
+
+Dove blinked. "Of course not. It's a flower."
+
+"Yet you love it," Nana Rose observed, her weathered hands gentle on the petals. "You water it without knowing its thoughts. You admire its beauty without controlling its colors. You trust it to bloom in its own mysterious way."
+
+"But Elm isn't a flower," Dove protested. "He's my future husband. Shouldn't I understand him completely?"
+
+Just then, Elm appeared in the garden doorway, holding two cups of tea—one exactly how Dove liked it, one black as night for himself. He'd been listening, she realized, his eyes soft with understanding.
+
+"I don't always understand myself," he said quietly, settling beside her. "Sometimes I surprise myself. But I know you love me even when I'm a mystery to myself. That's what makes it safe to be myself around you—even the parts I don't understand yet."
+
+Nana Rose smiled, her hands now empty of roses but full of knowing. "The deepest intimacy isn't knowing everything, children. It's trusting everything, even the unknowns. Especially the unknowns."
+
+**Moral:** Love flourishes not in the bright light of complete understanding but in the gentle twilight where mystery and trust dance together.
+
+*Tomorrow, we discover whether marriage is about finding your perfect match or your perfect mystery...*`,
+  },
 ];

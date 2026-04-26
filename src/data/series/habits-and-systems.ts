@@ -3659,4 +3659,66 @@ Rook stared at the sculpture, beginning to understand. He had always seen rest a
 
 *Tomorrow, Cairn will reveal what happens when the seasons themselves must evolve...*`,
   },
+  {
+    day: 61,
+    title: "The Signal Override",
+    date: "2026-04-26",
+    image: "images/habits-and-systems/day-61.jpg",
+    audio: "audio/habits-and-systems/day-61",
+    sonnet: `**🪶 Sonnet LXI: The Signal Override**
+
+When structures meant to serve become our chains,
+And rhythms meant to free us hold us fast,
+The servant systems seize our sovereign reigns,
+And present tense is prisoner to past.
+
+The morning routine that once brought us light
+Now drags us from the dream that needs more time.
+The seasonal rest we planned feels wrong, uptight—
+Our bodies call for movement, not for rhyme.
+
+Yet still we follow maps instead of stars,
+Trust gauges more than what we feel within.
+Our perfect plans become our prison bars,
+While life knocks softly, waiting to begin.
+
+*True mastery knows when to break the frame,*
+*To serve the fire, not worship at the flame.*`,
+    standard: `🧘 Day 61: **The Signal Override**
+
+When we become too attached to our seasonal structures, we develop signal blindness—the inability to distinguish between the container (our planned rhythm) and the content (what our system actually needs). This attachment transforms helpful frameworks into rigid prisons that override our natural feedback loops. The very structures designed to support our growth begin constraining it.
+
+🧱 **The Concept**
+Signal override occurs when our commitment to a system becomes stronger than our sensitivity to the signals the system was designed to serve.
+
+❓ **Why It Matters**
+Our most sophisticated habits and systems can become our greatest obstacles when we mistake the map for the territory. The frameworks that initially liberated us from chaos can eventually insulate us from the subtle intelligence that knows when change is needed.
+
+⚙️ **How It Works**
+Signal override manifests when we continue morning routines that no longer energize us, maintain seasonal rhythms that feel forced, or stick to productivity systems that have stopped producing results. A runner might keep following a training schedule despite persistent fatigue signals, or someone might maintain a meditation practice that has become mechanical rather than nourishing. The system continues operating, but it's no longer serving its original purpose. We become like thermostat repairmen so focused on fixing the gauge that we ignore the actual temperature in the room. True mastery requires developing meta-sensitivity—the ability to sense when our sensing mechanisms themselves need adjustment.
+
+🎯 **Systems Wisdom**
+The highest form of systematic living is knowing when to systematically break your own systems.
+
+❓ **Tomorrow's Question** — If the ultimate purpose of any system is to eventually transcend the need for that system, what happens when we build systems so perfectly that they become ends in themselves rather than means to greater aliveness and responsiveness?`,
+    parable: `Rook had discovered the miracle of seasonal living. After years of chaotic starts and stops, he finally created a rhythm that worked: intense creative periods followed by deliberate rest, structured learning phases balanced with unstructured exploration. For the first time in his life, he felt the satisfaction of sustainable progress.
+
+But as months turned to seasons, something strange began happening. The creative periods felt forced when his body craved movement. The rest phases arrived when his mind buzzed with urgent inspiration. The learning schedule demanded attention when his heart called for solitude.
+
+"My system is perfect," Rook insisted to Cairn, showing him detailed charts of his seasonal framework. "I just need to stick to it more consistently."
+
+Cairn set down his chisel and looked at the stone he'd been carving. "This morning, the stone told me it wanted to be a bird instead of a bowl. But I had planned a bowl."
+
+"So what did you do?"
+
+"I listened to the stone." Cairn picked up a different tool. "Forty years of daily carving taught me that my schedule serves the stone, not the other way around. The deepest rhythm isn't the one you plan—it's the one you discover by staying sensitive to what wants to emerge."
+
+Rook stared at his charts, then slowly rolled them up. "So the system isn't the master?"
+
+"The system is a servant. And servants must know when their master's needs have changed."
+
+**Moral**: The highest form of systematic living is knowing when to systematically break your own systems.
+
+*Tomorrow, we explore what happens when systems become ends in themselves rather than means to aliveness...*`,
+  },
 ];

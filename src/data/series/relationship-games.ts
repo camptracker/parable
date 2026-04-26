@@ -128,4 +128,66 @@ Riven's eyes widened with recognition. "So when Marcus would ignore my texts for
 
 *Tomorrow, The Mirror will reveal why we mistake struggle for passion...*`,
   },
+  {
+    day: 3,
+    title: "The Scarcity Mirage",
+    date: "2026-04-26",
+    image: "images/relationship-games/day-3.jpg",
+    audio: "audio/relationship-games/day-3",
+    sonnet: `**🪶 Sonnet III: The Scarcity Mirage**
+
+Like desert travelers who chase false streams,
+We thirst for hearts that shimmer and withdraw,
+While springs of kindness, flowing near, it seems,
+We pass by thinking love should come with awe.
+
+The silent phone becomes a sacred shrine,
+Three days of nothing transformed to pure gold,
+Yet faithful answers, prompt and true, we find
+Too common for our hearts to want to hold.
+
+What spell makes absence seem like treasure rare,
+And presence feel like poverty of soul?
+We've learned to love the phantom in the air
+And flee from those who'd make our spirit whole.
+
+*The locked box gleams but holds no jewel inside,*
+*While open chests of love we cast aside.*`,
+    standard: `🎭 Day 3: The Scarcity Mirage
+
+We chase the uninterested because our unconscious minds have been programmed to associate struggle with value — if love comes too easily, our wounded psyches whisper it must be worthless. This reveals how early experiences taught us that affection must be earned through suffering, creating a perverse equation where difficulty equals desirability.
+
+🧱 **The Concept**
+Scarcity creates artificial value in romantic contexts, making unavailable partners seem more desirable than they actually are.
+
+❓ **Why It Matters**
+This cognitive bias drives us toward emotionally unavailable people while we dismiss those who show genuine interest. It's a psychological trap that keeps us perpetually unsatisfied, chasing phantoms instead of building real connections.
+
+⚙️ **How It Works**
+When someone is hard to reach, our brains interpret this as high value — like a limited edition item that must be special because it's rare. Someone who texts back immediately seems "too available," while someone who takes days to respond triggers our chase instinct. This creates a cruel irony: we pursue people who can't give us what we need while avoiding those who could. The scarcity principle exploits our evolutionary wiring that equates rarity with worth, but in modern dating, this often leads us away from healthy partnerships toward dramatic, unfulfilling dynamics.
+
+🎯 **Relationship Strategy Wisdom**
+True abundance means choosing people who choose you back — scarcity is often just unavailability disguised as desirability.
+
+❓ **Tomorrow's Question** — If we know that healthy relationships require mutual investment, why do we continue to romanticize the very behaviors that signal emotional unavailability?`,
+    parable: `Riven found himself walking the moonlit streets again, his phone clutched in his hand like a talisman. Three days since Maya had read his message — three days of silence that somehow made her seem more precious than gold.
+
+"Another phantom chase," came the Mirror's voice from a storefront window. The reflection showed not Riven's face, but a man running toward a mirage in the desert.
+
+"She's different," Riven protested. "She's mysterious, selective. Not like the others who were always available."
+
+"And what of Elena?" the Mirror asked. "The one who answered your calls, who made time for you, who genuinely cared? You called her 'clingy' and pulled away."
+
+Riven's chest tightened. Elena had been kind, present, real. But somehow her availability had made her seem... ordinary.
+
+"Your mind has been trained to confuse scarcity with value," the Mirror continued. "Like a collector who covets only what he cannot have, you've learned to desire the withheld rather than the given. Maya's silence isn't mystery — it's indifference. Elena's presence wasn't desperation — it was love."
+
+The reflection shifted, showing Riven a scale. On one side sat a beautiful locked box, empty but gleaming. On the other, an open treasure chest overflowing with jewels, ignored and gathering dust.
+
+"The heart that keeps you guessing isn't playing hard to get," the Mirror whispered. "It's just hard to reach. There's a difference between depth and distance."
+
+**Moral:** *We often mistake unavailability for value, chasing empty promises while overlooking genuine treasures that stand openly before us.*
+
+*Tomorrow, The Mirror will reveal why we continue to romanticize the very behaviors that signal a partner's inability to love...*`,
+  },
 ];
