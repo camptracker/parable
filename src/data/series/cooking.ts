@@ -3712,4 +3712,60 @@ Moral: True learning spirals through familiar territory, finding infinite depth 
 
 Tomorrow, we discover what lies beyond even the completion of these cycles.`,
   },
+  {
+    day: 61,
+    title: "The Mirror of Service - When Cooking Becomes Pure Gift",
+    date: "2026-04-26",
+    image: "images/cooking/day-61.jpg",
+    audio: "audio/cooking/day-61",
+    sonnet: `**🪶 Sonnet LXI: The Mirror of Service**
+
+When ego melts like butter in warm bread,
+And skill becomes invisible as air,
+The cook transcends all that their hands have fed
+To appetite, and offers something rare:
+Pure gift that flows through vessels emptied clean,
+Where love alone directs each gentle motion,
+No signature of self can intervene—
+Just service deep as ocean's devotion.
+The knife forgets its edge, the flame its heat,
+As cook becomes the space through which care flows,
+Each simple gesture now profoundly sweet,
+A sacrament that only mercy knows.
+*For in this dissolution we discover true*
+*That cooking's highest art is feeding you.*`,
+    standard: `🍳 Day 61: The Mirror of Service - When Cooking Becomes Pure Gift
+
+What determines the depth of this final return is the cook's willingness to dissolve completely into the act of service itself, where technique becomes invisible and only love remains. For some, this represents mastery's completion—a beautiful circle closed. For others, it reveals the ultimate paradox: that all their accumulated knowledge was merely preparation for the moment when cooking transcends cooking entirely, becoming something far more mysterious than any technique could contain.
+
+🧱 **The Concept**
+True service in cooking requires the complete dissolution of ego, where the cook becomes invisible and only the gift remains.
+
+❓ **Why It Matters**
+This represents the ultimate test of all culinary learning—can we cook so purely that our skill disappears into love? When feeding another becomes more important than demonstrating our abilities, we discover whether our knowledge serves vanity or genuine care.
+
+⚙️ **How It Works**
+In moments of pure service, the cook stops thinking about technique, presentation, or recognition. A grandmother making soup for her sick grandchild doesn't consider knife cuts or flavor balance—she simply pours love through her hands. The bread shared during crisis, the meal prepared for the grieving, the simple sandwich made with complete attention for a hungry child—these acts transform cooking from craft into sacrament. The cook becomes a conduit rather than a creator, allowing something larger than skill to flow through their actions.
+
+🎯 **Culinary Wisdom**
+The highest cooking happens when the cook disappears completely into the act of feeding another.
+
+❓ **Tomorrow's Question**
+If disappearing into service represents cooking's ultimate expression, what determines whether this self-dissolution actually enhances our individual culinary voice, or whether it might gradually erode the unique style and perspective we spent years developing—and why might this question reveal a fundamental misunderstanding about what authentic culinary identity really means?`,
+    parable: `Sage watched as Ember prepared the simplest meal they had ever shared—bread, butter, and tea. Yet something profound was different. Gone was any trace of the master chef's performance, any hint of technique on display. Ember's movements held a quality that made Sage's chest tighten with unexpected emotion.
+
+"Today I cook for you not as teacher to student," Ember said softly, her weathered hands steady as she sliced the warm loaf. "Today I simply feed you because you are hungry, because you are here, because this is what love does."
+
+Sage had seen Ember execute flawless knife work, orchestrate complex sauces, command respect through pure skill. But this—this stripping away of all pretense—revealed something far more powerful. The butter was spread with such gentle attention that each stroke became an act of devotion. The tea was poured with such presence that steam seemed to carry prayers.
+
+"I don't understand," Sage whispered. "Where did all your knowledge go?"
+
+"It didn't go anywhere," Ember smiled, her blind eyes somehow seeing everything. "It dissolved into what it was always meant to serve. Forty years of learning to use a knife, and only now do I understand—the knife was never the point. The feeding was always the point."
+
+Sage took a bite and tasted something beyond flavor—pure care made edible. In that moment, they glimpsed both the completion of one journey and the threshold of something immeasurably larger.
+
+**Moral**: *The highest achievement in cooking is learning to disappear completely into the act of nourishing another.*
+
+*Tomorrow, Sage wonders whether such self-dissolution enhances or erases individual expression...*`,
+  },
 ];

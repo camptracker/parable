@@ -3544,4 +3544,66 @@ Dove picked up her pencil again, this time with excitement rather than desperati
 
 **Tomorrow**: Dove and Elm discover that their greatest intimacy comes not from their similarities, but from learning to treasure what makes them magnificently different.`,
   },
+  {
+    day: 57,
+    title: "The Sacred Acceptance",
+    date: "2026-04-26",
+    image: "images/wedding-planning/day-57.jpg",
+    audio: "audio/wedding-planning/day-57",
+    sonnet: `**🪶 Sonnet LVII: The Sacred Acceptance**
+
+How foolish we who think that love means change,
+Who see our partner's quirks as flaws to mend,
+Who map their soul and find it wild, strange,
+Then spend our days trying to comprehend.
+
+The gardener who plants in rigid rows
+May harvest beauty, orderly and neat,
+But misses how the wildflower freely grows
+And makes the garden's symphony complete.
+
+True intimacy blooms when we release
+The need to sculpt our beloved like clay,
+When difference becomes our source of peace,
+And strangeness lights our ordinary day.
+
+*For love's not found in making someone new,*
+*But treasuring the gift of who they're true.*`,
+    standard: `💍 Day 57: The Sacred Acceptance
+
+To stop trying to change your partner means releasing the fantasy that love means making someone more like you, and instead embracing that their different approach to life—their spontaneity against your planning, their emotional expression against your logic, their dreaming against your pragmatism—creates a richer, more complete partnership than either of you could achieve alone. This shift requires seeing their differences not as obstacles to overcome but as essential ingredients in the unique alchemy that makes your relationship irreplaceable.
+
+🧱 **The Concept**
+True marital intimacy emerges when you stop trying to fix or improve your partner and start celebrating them as complete exactly as they are.
+
+❓ **Why It Matters**
+Most relationship conflict stems from the unconscious belief that love means making your partner more convenient for you. When you enter marriage trying to change someone, you're essentially saying "I'll love you fully once you become different," which creates a dynamic of conditional acceptance that slowly erodes intimacy and trust.
+
+⚙️ **How It Works**
+Instead of seeing your partner's traits through the lens of "this bothers me" or "this needs fixing," you begin asking "what gift does this quality bring to our partnership?" If they're more social while you're more introverted, rather than wishing they'd stay home more, you appreciate how they expand your world and bring new energy into your life. If they're more spontaneous while you're a planner, instead of trying to make them more organized, you treasure how they help you embrace adventure and flexibility. If they process emotions differently than you do, you stop trying to make them communicate like you and start learning their unique emotional language as a way to deepen your understanding of who they are.
+
+🎯 **Wedding Wisdom**
+Your wedding vows should celebrate who your partner actually is, not who you hope they'll become.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage would thrive not when you finally understood everything about your partner, but when you became comfortable with the beautiful mystery they'll always remain, what would you need to release about your desire to know and control everything, and what would that teach you about the difference between intimate knowledge and intimate trust?`,
+    parable: `Dove sat in Nana Rose's garden, watching Elm tend to the wildflower patch they'd planted together. "He's doing it all wrong," she murmured, noting how he scattered seeds randomly while she preferred neat, measured rows. "I keep wanting to show him the proper way."
+
+Nana Rose followed her gaze, observing Elm's carefree approach. "Tell me, dear one, what grows in your carefully planned sections?"
+
+"Beautiful, orderly flowers," Dove replied. "Each variety in its proper place, blooming predictably."
+
+"And in his wild section?"
+
+Dove paused, really looking. Elm's area burst with unexpected combinations—tall sunflowers sheltering delicate morning glories, bold marigolds dancing with shy violets, colors and textures she never would have paired creating a tapestry of surprising beauty. "It's... chaotic," she said weakly.
+
+"Is it?" Nana Rose smiled. "Or is it complete in a way neither of your individual approaches could achieve alone?"
+
+As Elm looked up and waved, dirt on his hands and joy in his eyes, Dove felt something shift. She'd been so focused on making him garden like her that she'd almost missed the magic he brought to their shared earth.
+
+"A garden needs both the gardener who plans and the gardener who dreams," Nana Rose said softly. "Your wedding vows should celebrate not the partner you're trying to create, but the partner who already creates wonder just by being themselves."
+
+**Moral:** Love deepens not when we change our partner, but when we stop trying to.
+
+**Tomorrow:** Nana Rose will reveal why the most intimate marriages are built not on complete understanding, but on sacred mystery.`,
+  },
 ];

@@ -64,4 +64,68 @@ Riven's eyes widened as the pattern became clear. "So they weren't genuinely int
 
 *Tomorrow, The Mirror will reveal why contradictions between words and actions create the most powerful psychological traps...*`,
   },
+  {
+    day: 2,
+    title: "The Push-Pull Paradox",
+    date: "2026-04-26",
+    image: "images/relationship-games/day-2.jpg",
+    audio: "audio/relationship-games/day-2",
+    sonnet: `**🪶 Sonnet II: The Push-Pull Paradox**
+
+When fountains flow in patterns strange and wild,
+We stand transfixed by their erratic dance,
+While steady streams, though pure and undefiled,
+Receive from us but fleeting, passing glance.
+
+The heart that beats in rhythm, strong and true,
+Seems dull beside the one that skips a beat,
+For chaos whispers promises anew
+That make the soul feel desperately complete.
+
+Yet intermittent rain destroys the crop,
+While gentle, constant moisture helps it grow;
+The gambler's fever makes the addicts stop
+At nothing for that sweet, elusive glow.
+
+*Mistake not chaos for love's sacred fire—*
+*Consistent warmth should be your heart's desire.*`,
+    standard: `🎭 Day 2: The Push-Pull Paradox
+
+Actions reveal true intentions while words often serve as smoke screens — believing words over consistent contradictory behavior exposes your desire to avoid uncomfortable truths about someone's character. This preference for comforting lies over harsh realities often stems from attachment anxiety or fear of abandonment.
+
+🧱 **The Concept**
+Push-pull dynamics create artificial scarcity and emotional addiction through intermittent reinforcement — the most powerful conditioning mechanism known to psychology.
+
+❓ **Why It Matters**
+This hot-cold pattern triggers the same neurochemical reward system as gambling, making ordinary relationships feel boring by comparison. People become addicted to the emotional rollercoaster rather than recognizing they're being psychologically manipulated.
+
+⚙️ **How It Works**
+The push-pull player alternates between intense connection (love-bombing, future promises, deep conversations) and sudden withdrawal (delayed responses, mixed signals, creating doubt). This creates what psychologists call "trauma bonding" — the victim associates relief from anxiety with their manipulator. For example, someone might shower you with attention for days, then go radio silent, only to return with an excuse that makes you grateful for scraps of their attention. The cycle repeats, each time training your brain to crave their validation more desperately.
+
+🎯 **Relationship Strategy Wisdom**
+Consistent warmth builds genuine intimacy; inconsistent attention builds desperate attachment to chaos.
+
+❓ **Tomorrow's Question** — Why do we often feel most attracted to people who seem least interested in us, and what does this reveal about how we've learned to equate love with struggle?`,
+    parable: `Riven wandered deeper into the garden maze, still reeling from The Mirror's revelation about believing actions over words. "But why," Riven asked the shimmering figure, "do I feel most alive when someone pulls away from me?"
+
+The Mirror gestured toward two fountains. One flowed steadily, its waters clear and constant. The other spurted unpredictably — sometimes a magnificent display reaching toward the heavens, other times reduced to a mere trickle.
+
+"Which captivates you more?" The Mirror asked.
+
+Riven stared, mesmerized by the erratic fountain. "That one... but I can't explain why."
+
+"This is the push-pull paradox," The Mirror explained. "The inconsistent fountain creates anticipation, hope, and desperate attention. You watch it because you never know what comes next. Meanwhile, the steady fountain — reliable, nourishing, predictable — fades into background noise."
+
+As Riven watched, other figures gathered around the unpredictable fountain, their faces anxious and yearning. They ignored the steady fountain entirely, even though its waters could actually sustain them.
+
+"People mistake this emotional chaos for passion," The Mirror continued. "They become addicted to the relief they feel when the cold person finally shows warmth again. It's the same mechanism that keeps gamblers pulling slot machine levers — intermittent, unpredictable rewards."
+
+Riven's eyes widened with recognition. "So when Marcus would ignore my texts for days, then suddenly show up with flowers..."
+
+"You felt grateful instead of questioning why the flowers were necessary in the first place."
+
+**Moral**: Intermittent reinforcement creates addiction, not love. The heart that beats consistently deserves more attention than the one that stops and starts for dramatic effect.
+
+*Tomorrow, The Mirror will reveal why we mistake struggle for passion...*`,
+  },
 ];

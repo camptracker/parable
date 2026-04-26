@@ -3733,4 +3733,62 @@ Tova watched her crew below, noting how they now approached her with ideas, conc
 
 *Tomorrow, Tova will discover that the true test of character-based leadership comes not in calm seas, but in the storms that reveal who you really are when everything is at stake...*`,
   },
+  {
+    day: 60,
+    title: "The Compass of Character",
+    date: "2026-04-26",
+    image: "images/leadership/day-60.jpg",
+    audio: "audio/leadership/day-60",
+    sonnet: `**🪶 Sonnet LX: The Compass of Character**
+
+When tempests rage and careful plans dissolve,
+And pressure strips away the polished face,
+The captain's true foundation will revolve
+Around the steady compass of their grace.
+
+Not in the glowing moments of success,
+When winds are fair and seas stretch calm and wide,
+But in the hour when chaos creates stress
+That reveals where authentic leaders hide.
+
+The crew remembers not the perfect day
+When all went smoothly as the charts foretold,
+But how their captain chose to stand and stay
+When storms exposed what hearts and hands could hold.
+
+*For character, not competence alone,*
+*Makes faithful hearts call rough seas their home.*`,
+    standard: `👥 Day 60: The Compass of Character
+
+If your team's loyalty stems more from who you are in crisis than in success, it reveals that authentic leadership is forged in the crucible of difficulty, not polished in the glow of achievement. The version of yourself that emerges under pressure—when facades fall away and true character is revealed—becomes the foundation others trust to guide them through their own storms.
+
+🧱 **The Concept**
+True leadership influence is built not on your competence in good times, but on your character when everything goes wrong.
+
+❓ **Why It Matters**
+Anyone can lead when the wind is at their back and resources are abundant. But followers remember—and base their deepest loyalty on—how you respond when plans collapse, when criticism mounts, and when the path forward is unclear. These moments of crisis strip away pretense and reveal the authentic leader beneath the polished exterior.
+
+⚙️ **How It Works**
+In crisis, your team watches how you distribute blame versus taking responsibility, whether you retreat into isolation or move closer to those affected, and if you maintain your values when maintaining them is costly. They notice if you become more controlling under pressure or more collaborative, whether you hoard information or share it transparently, and if you protect your own reputation or shield your team from consequences. A leader who admits uncertainty while maintaining resolve, who listens more carefully when voices become more urgent, and who makes difficult decisions based on principles rather than politics, creates a foundation of trust that transcends any temporary setback. Your response in crisis becomes your leadership signature—the unique way you handle adversity that people learn to count on.
+
+🎯 **Leadership Wisdom**
+Your character under pressure is your most authentic leadership credential. Crisis doesn't build character; it reveals it.
+
+❓ **Tomorrow's Question** — If you discovered that your team's definition of success was fundamentally different from your own definition, and that this misalignment was quietly undermining everything you thought you were building together, how would this revelation change your approach to clarifying not just what you're all working toward, but why it matters to each person individually?`,
+    parable: `The storm struck without warning, transforming Tova's first major voyage as captain into a trial by tempest. As waves crashed over the deck and the crew struggled to secure rigging in howling winds, she watched her carefully planned leadership strategies dissolve like salt in seawater.
+
+Greymane, weathering the storm with the calm of one who had faced many, observed as Tova moved through the chaos. Instead of barking orders from the safety of the wheelhouse, she worked alongside her crew, her hands as salt-stained and rope-burned as theirs. When a critical sail tore free, she didn't assign blame—she grabbed a line and helped secure it. When young Marcus slipped and injured his arm, she personally helped him to safety before resuming her duties.
+
+"Notice," Greymane said to her later as they emerged into calmer waters, "how your crew looks at you now compared to yesterday." Their eyes held something that hadn't been there before—not just respect for her position, but trust in her person.
+
+"They saw me fail," Tova replied, still shaken by the storm's intensity.
+
+"They saw you endure," Greymane corrected. "Success teaches them what you can do. Crisis teaches them who you are. And it's who you are that they'll follow into the next storm."
+
+In the days that followed, Tova noticed the change. Her crew's deference had transformed into devotion, built not on her perfect execution of captain's duties, but on her imperfect but authentic response to chaos.
+
+**Moral:** Leadership credentials are earned not in calm seas but in the storm, where character is revealed and trust is forged in the fire of shared adversity.
+
+**Tomorrow:** A revelation about conflicting definitions of success threatens to unravel everything the crew thought they were working toward together...`,
+  },
 ];

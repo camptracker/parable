@@ -3749,4 +3749,66 @@ Ash and Lume looked at each other with fresh eyes, recognizing not the people th
 
 **Moral**: The deepest wisdom returns us to the simplest truths. **Tomorrow**: What happens when the teacher becomes the student, and the journey becomes the destination?`,
   },
+  {
+    day: 61,
+    title: "The Practice of Presence — When Love Leaves the Classroom",
+    date: "2026-04-26",
+    image: "images/building-relationships/day-61.jpg",
+    audio: "audio/building-relationships/day-61",
+    sonnet: `**🪶 Sonnet LXI: The Practice of Presence**
+
+What libraries of love could ever teach
+The simple art of holding someone near?
+What theories bridge the space that hearts must reach
+When presence is the only text that's clear?
+
+We study maps while missing every turn,
+Analyze the dance but never move our feet,
+Read dissertations on the ways hearts burn
+Yet never feel love's ordinary heat.
+
+The beloved waits while we perfect our art,
+Grows distant as our knowledge multiplies,
+Needs not our scholarship but just our heart
+Attentive to the love within their eyes.
+
+*For love is not a lesson to rehearse—*
+*It's presence spoken without words or verse.*`,
+    standard: `💕 Day 61: The Practice of Presence — When Love Leaves the Classroom
+
+You would discover that understanding love through concepts is like studying swimming without ever entering water—intellectually satisfying but practically useless when the waves of real relationship wash over you. The mind loves complexity because it keeps you safely in the realm of theory, but actual love is devastatingly simple: it requires you to show up, be present, and engage with reality as it is rather than as you wish it were.
+
+🧱 **The Concept**
+Love is not an idea to be mastered but a practice to be lived, requiring you to step out of analysis and into embodied presence.
+
+❓ **Why It Matters**
+Every moment spent studying love instead of practicing it creates distance between you and the very connection you're seeking to understand. Your partner doesn't need you to become an expert on relationships—they need you to become present to this relationship.
+
+⚙️ **How It Works**
+Instead of reading about communication, you put down your phone and actually listen when they speak. Rather than analyzing attachment styles, you notice the way they light up when you remember their favorite tea. You stop researching conflict resolution and start apologizing when you're wrong. You replace studying love languages with paying attention to how their body relaxes when you touch their shoulder without being asked. The practice is always simpler and more immediate than the theory.
+
+🎯 **Relationship Wisdom**
+Love is learned through loving, not through learning about love.
+
+❓ **Tomorrow's Question** — If you discovered that your relationship has been running on "borrowed intimacy"—depth created through shared analysis of problems rather than shared experience of presence—what would happen if you stopped talking about your connection and started creating it through wordless moments of simply being together?`,
+    parable: `Ash and Lume had spent months at Elder Rynn's Bridge of Vows, studying every scroll in the archives, memorizing every principle of lasting love. They could recite the laws of partnership, debate the nuances of emotional attunement, and analyze the patterns of successful unions with scholarly precision.
+
+One morning, Elder Rynn found them hunched over yet another ancient text. "What are you seeking?" she asked.
+
+"Wisdom," Ash replied without looking up. "We want to understand love perfectly before we cross the bridge together."
+
+Lume nodded eagerly. "We've learned about communication styles, conflict patterns, attachment theories—"
+
+"And yet," Elder Rynn interrupted gently, "when did you last look into each other's eyes without an agenda? When did you last touch each other's hand simply to feel the warmth of connection?"
+
+The travelers glanced at each other, realizing they had spent so much time studying love that they had forgotten to practice it. Their hands, once naturally intertwined, now held only books.
+
+Elder Rynn smiled and swept all the scrolls into a basket. "Love is not a subject to master but a dance to enter. The bridge doesn't require perfect knowledge—it requires present hearts."
+
+That evening, Ash and Lume sat together in silence, no books between them, simply breathing in rhythm with each other. In that wordless moment, they understood more about love than all their studying had taught them.
+
+**Moral:** The mind seeks to understand love, but love is only known through the practice of loving.
+
+**Tomorrow:** The travelers discover that their most profound moments of connection happen not through deep conversation but through shared silence...`,
+  },
 ];

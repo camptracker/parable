@@ -419,4 +419,59 @@ That night, Hana found herself thanking the stars aloud, and noticed how the oth
 
 **Tomorrow:** Hana discovers why speaking appreciation feels so much more powerful than simply thinking it.`,
   },
+  {
+    day: 8,
+    title: "The Gratitude Paradox",
+    date: "2026-04-26",
+    image: "images/gratitude/day-8.jpg",
+    audio: "audio/gratitude/day-8",
+    sonnet: `**🪶 Sonnet VIII: The Gratitude Paradox**
+
+When golden days stretch endless, gratitude sleeps,
+A drowsy guest within abundance's hall,
+But when the storm of sorrow forward sweeps,
+And strips away what we had deemed our all,
+Then suddenly the simplest breath feels sweet,
+The touch of sunlight sacred on our skin,
+And ordinary moments, once fleet,
+Become the treasures that we find within.
+The heart that breaks learns how to truly see
+What whole hearts miss in their complacent haze—
+That every dawn's a gift, each friend a key
+To unlock wonder in our numbered days.
+*For gratitude grows strongest in the dark,*
+*Where loss has taught appreciation's spark.*`,
+    standard: `🙏 **Day 8: The Gratitude Paradox**
+
+🧱 **The Concept**
+True gratitude often emerges not from abundance but from scarcity, loss, and life's most challenging moments.
+
+❓ **Why It Matters**
+We instinctively believe gratitude should come easily when life is good, yet research shows that **post-traumatic growth** often produces the deepest appreciation. People who've faced serious illness, loss, or hardship frequently report greater life satisfaction than before their struggles. This paradox reveals that gratitude isn't about circumstance—it's about perspective.
+
+⚙️ **How It Works**
+When we lose something precious—health, a relationship, a sense of security—the **contrast effect** makes us acutely aware of what we previously took for granted. A cancer survivor notices sunlight differently. Someone who's lost a parent treasures phone calls with remaining family. Veterans often develop profound appreciation for simple freedoms. This isn't about being grateful for trauma, but recognizing how adversity can crack open our hearts to see ordinary moments as extraordinary gifts. The Japanese concept of **mono no aware**—the bittersweet awareness of life's impermanence—captures this beautifully.
+
+🎯 **Gratitude Wisdom**
+Your deepest appreciation often grows in the soil of your greatest struggles. The cracks in your heart become windows to wonder.
+
+❓ **Tomorrow's Question** — If gratitude can transform even suffering into wisdom, why do we spend so much energy trying to avoid discomfort rather than learning to find meaning within it?`,
+    parable: `Elder Thorn found Hana sitting beside the withered apple tree, tears streaming down her face. The blight had taken every fruit, leaving bare branches reaching toward an indifferent sky.
+
+"I practiced gratitude every day," Hana whispered. "I thanked the tree for its blossoms, celebrated each small apple. How can I be grateful now?"
+
+Thorn settled beside her, his weathered hands tracing the tree's bark. "Child, do you see this scar?" He pointed to a deep groove in the trunk. "Lightning struck here three summers ago. I thought the tree was lost."
+
+Hana looked closer. From the scar, new growth had emerged—stronger branches reaching in directions the tree had never grown before.
+
+"Before the lightning, I barely noticed this tree," Thorn continued. "It was simply there, reliable and unremarkable. But watching it fight to survive, seeing it discover new ways to reach toward light—that's when I truly began to see its magnificence."
+
+He placed a gentle hand on Hana's shoulder. "The deepest gratitude isn't born from abundance, child. It grows in the spaces where loss has taught us what truly matters. Your tears aren't the absence of gratitude—they're preparing the soil for a gratitude more profound than you've ever known."
+
+As evening fell, Hana noticed how beautifully the bare branches framed the stars.
+
+**Moral**: *Gratitude's greatest gifts often arrive wrapped in sorrow, teaching us to treasure what we never knew we had.*
+
+**Tomorrow**: *Hana wonders why humans resist the very discomfort that could deepen their wisdom...*`,
+  },
 ];

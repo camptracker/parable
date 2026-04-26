@@ -234,4 +234,62 @@ Willem watched a **arbitrageur** sprint between trading posts, buying shares at 
 
 **Tomorrow**: But if markets are so wise, why do they sometimes lose their minds entirely?`,
   },
+  {
+    day: 5,
+    title: "The Great Crash and Market Resilience",
+    date: "2026-04-26",
+    image: "images/stock-market-origins/day-5.jpg",
+    audio: "audio/stock-market-origins/day-5",
+    sonnet: `**🪶 Sonnet V: The Great Crash and Market Resilience**
+
+When fortune's wheel spins wild and prices fall,
+And panicked merchants flee the trading floor,
+The weakest hands release their golden thrall
+While stronger souls see opportunity's door.
+
+Like autumn storms that strip the dying leaves
+Yet leave the mighty oak with deeper root,
+Each crash destroys what speculation weaves
+But feeds the soil where wisdom bears its fruit.
+
+The tulip's fall, the South Sea's broken dream,
+Each bubble burst has taught the market's mind
+That prices built on hope's excessive gleam
+Must face the truth that greed has left behind.
+
+*Though crashes bring both ruin and despair,*
+*They clear the field for growth beyond compare.*`,
+    standard: `📈 Day 5: The Great Crash and Market Resilience
+
+🧱 **The Concept**
+Market crashes are inevitable features of capitalism that, paradoxically, often strengthen the financial system by forcing out weak players and creating opportunities for innovation.
+
+❓ **Why It Matters**
+Every major crash—from the 1720 South Sea Bubble to 1929's Black Tuesday to 2008's financial crisis—has taught markets painful but necessary lessons about risk, leverage, and human psychology. Understanding crashes reveals how markets self-correct and evolve.
+
+⚙️ **How It Works**
+Crashes typically follow a pattern: excessive optimism leads to overleveraging, a trigger event causes panic selling, and prices spiral downward as everyone rushes for the exits simultaneously. The 1637 tulip crash saw bulb prices fall 99% in weeks, wiping out fortunes but clearing the way for more rational Dutch commerce. The 1929 crash eliminated reckless speculation but birthed modern securities regulation. Each crash forces markets to develop new safeguards—circuit breakers, margin requirements, stress tests—that make the system more robust. Like forest fires that clear undergrowth, crashes burn away excess and create space for healthier growth.
+
+🎯 **Market Wisdom**
+Crashes are not market failures but market corrections—painful reminders that prices must eventually reflect reality.
+
+❓ **Tomorrow's Question** — If crashes ultimately make markets stronger and more efficient, should we embrace them as necessary medicine, or does this logic ignore the real human suffering they cause?`,
+    parable: `The morning mist hung thick over Amsterdam's harbor when Willem found Van der Meer standing motionless at the docks, watching ships that would never return. The news had arrived with the dawn—half the VOC fleet, lost to storms and pirates in the Indies.
+
+"Master," Willem whispered, "the share price has fallen by half. Men are throwing themselves into the canals. Is this the end?"
+
+Van der Meer's weathered hands gripped the wooden railing. "Watch the harbor, boy. See how the tide retreats, leaving the mudflats bare and ugly? Yet twice daily it returns, bringing fresh water and new life."
+
+Across the exchange, panic reigned. Merchants who had borrowed against their shares now faced ruin. The coffee houses emptied as fortunes evaporated like morning steam. Yet Van der Meer began quietly buying shares from desperate sellers at a fraction of their former price.
+
+"But master, why purchase shares in a company losing ships?"
+
+"Because, Willem, crashes burn away the weak and foolish, leaving only the strong foundation. Those who borrowed recklessly are swept away, but the Company itself—its remaining ships, its trading posts, its hard-won knowledge of Eastern routes—these remain. The panic sellers see only today's loss; I see tomorrow's opportunity."
+
+Months later, as new ships returned laden with spices and the VOC rebuilt stronger than before, Willem understood. The crash had not destroyed the market—it had cleansed it.
+
+**Moral:** Like winter storms that topple weak trees but strengthen deep roots, market crashes clear away excess to make room for sustainable growth.
+
+**Tomorrow:** Van der Meer reveals the hidden cost of every market salvation...`,
+  },
 ];
