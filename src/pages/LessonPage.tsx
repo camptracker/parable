@@ -1,4 +1,4 @@
-import { useParams, Link, Navigate } from 'react-router-dom';
+import { useParams, Link, Navigate, useNavigate } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { getSeriesById, series, getLatestDay } from '../data/lessons';
@@ -6,6 +6,7 @@ import { setBookmark, isBookmarked, removeBookmark } from '../utils/bookmarks';
 
 export default function LessonPage() {
   const { seriesId, day } = useParams();
+  const navigate = useNavigate();
   const s = getSeriesById(seriesId || '');
   const dayNum = Number(day);
   const lesson = s?.lessons.find((l) => l.day === dayNum);
@@ -28,6 +29,14 @@ export default function LessonPage() {
       setBookmark(s.id, dayNum);
       setBookmarked(true);
     }
+  };
+
+  const goToNextDay = (nextDay: number) => {
+    if (!s) return;
+    // Automatically bookmark the next day
+    setBookmark(s.id, nextDay);
+    // Navigate to next day
+    navigate(`/${s.id}/lesson/${nextDay}`);
   };
 
   if (!s) return <Navigate to="/" replace />;
@@ -85,7 +94,7 @@ export default function LessonPage() {
 
       <nav className="bottom-nav">
         {prev ? <Link to={`/${s.id}/lesson/${prev.day}`} className="nav-link">← Day {prev.day}</Link> : <span />}
-        {next ? <Link to={`/${s.id}/lesson/${next.day}`} className="nav-link">Day {next.day} →</Link> : <span />}
+        {next ? <button onClick={() => goToNextDay(next.day)} className="nav-link nav-button">Day {next.day} →</button> : <span />}
       </nav>
 
       {(() => {
