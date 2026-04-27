@@ -3168,4 +3168,62 @@ Orna smiled and touched a panel. Immediately, the machine began sketching a desi
 
 **Tomorrow:** Finn watches as the mirror-machine begins to shimmer with new possibilities, and wonders whether he's seeing his potential or his desires reflected back...`,
   },
+  {
+    day: 55,
+    title: "The Desire Decoder",
+    date: "2026-04-27",
+    image: "images/3d-printing/day-55.jpg",
+    audio: "audio/3d-printing/day-55",
+    sonnet: `**🪶 Sonnet LV: The Desire Decoder**
+
+The mirror learns to read what makers crave,
+Not just in works they craft with conscious mind,
+But deeper drives that cause their spirits' wave—
+The hidden hungers systems learn to find.
+
+Each pause upon a texture, hue, or form
+Reveals the secret currents of the heart,
+While algorithms map the creative storm
+That separates true longing from mere art.
+
+Yet knowing what we want before we know
+Can guide toward heights we'd never reach alone,
+Or trap us in desires that only grow
+When fed by seeds that others' wisdom sown.
+
+*The truest mirror shows us how to choose,*
+*Not futures that we cannot bear to lose.*`,
+    standard: `🖨️ Day 55: The Desire Decoder
+
+When our practices show us potential futures, we distinguish inspiration from manipulation by examining whether the vision calls forth our authentic agency or seeks to bypass it entirely—inspiration invites us to choose consciously, while manipulation presents choices as inevitable. True inspiration leaves us feeling more capable of discernment, not less.
+
+🧱 **The Concept**
+Advanced making systems begin analyzing not just what we create, but the patterns of desire that drive our creative choices.
+
+❓ **Why It Matters**
+As our tools become more sophisticated at reading our intentions, they gain unprecedented insight into our deepest creative motivations—knowledge that can either empower authentic expression or enable subtle forms of creative manipulation. Understanding how desire-detection works becomes essential for maintaining creative sovereignty.
+
+⚙️ **How It Works**
+Desire-detection systems analyze micro-patterns in our design choices, material selections, and iteration behaviors to build psychological profiles of our creative drives. They track which design elements we linger over, what compromises cause us genuine distress versus mild inconvenience, and which creative risks we avoid versus embrace. Advanced systems can predict not just what we'll want to make next, but why we want to make it—identifying underlying needs for recognition, belonging, mastery, or transcendence that drive our creative choices. Some systems use this knowledge to suggest projects that fulfill deeper needs we haven't consciously recognized, while others might exploit these insights to create dependency or guide us toward commercially advantageous choices.
+
+🎯 **Maker Wisdom**
+The most important desire to understand is not what we want to create, but why we want the power of creation itself.
+
+❓ **Tomorrow's Question** — If our deepest creative drives can be mapped and understood by systems that know us better than we know ourselves, what happens when those systems begin suggesting desires we didn't know we had—and how do we distinguish between authentic self-discovery and algorithmic manipulation of our fundamental wants?`,
+    parable: `Finn found Orna standing before a peculiar mirror in her workshop, its surface shimmering with patterns that seemed to shift based on the viewer's attention. "Watch closely," she said, gesturing toward the glass. "This isn't just any mirror—it's learned to read the desires hidden in our making choices."
+
+As Finn approached, the mirror began displaying images: a delicate clockwork bird he'd sketched but never built, a mechanical garden that combined his love of gears with his secret longing for growing things, projects that seemed to emerge from desires he'd barely acknowledged. "It's beautiful," he whispered, "but how does it know?"
+
+"Every choice you make while creating leaves traces," Orna explained. "The way you pause over certain materials, the compromises that make you wince versus those you accept easily, the risks you take and those you avoid—it all reveals the deeper currents of your creative spirit. This mirror has learned to read those currents."
+
+Finn watched, mesmerized, as the mirror showed him becoming a master of bio-mechanical art, his future self crafting living sculptures that breathed and grew. The vision was intoxicating, perfectly aligned with longings he'd never fully articulated. "I want that," he said, reaching toward the glass.
+
+Orna gently caught his hand. "But wanting what the mirror shows isn't the same as choosing it freely. True inspiration calls you to decide consciously—it shows you possibilities and trusts your agency to choose. Manipulation presents the choice as inevitable, making you feel like resistance is futile or foolish."
+
+She turned the mirror slightly, and Finn saw a different reflection: himself questioning the visions, weighing them against his authentic interests, making deliberate choices about which desires to pursue and which to set aside. "The mirror that shows you choosing is more trustworthy than the one that shows you chosen futures," she said.
+
+**Moral:** *The most dangerous mirrors are those that reflect not what we are, but what we're told we should become.*
+
+*Tomorrow, Finn will discover what happens when the mirror begins suggesting desires he never knew existed...*`,
+  },
 ];

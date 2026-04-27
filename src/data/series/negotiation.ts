@@ -4078,4 +4078,66 @@ Ren watched Tomoko sign the contract with shaking hands, understanding that Vass
 
 **Tomorrow:** *The watchers learn more than they know...*`,
   },
+  {
+    day: 64,
+    title: "The Living Classroom",
+    date: "2026-04-27",
+    image: "images/negotiation/day-64.jpg",
+    audio: "audio/negotiation/day-64",
+    sonnet: `**🪶 Sonnet LXIV: The Living Classroom**
+
+When watchful eyes observe each choice we make,
+And tender minds absorb our every deed,
+The stakes transcend what we alone might take—
+Our actions plant tomorrow's moral seed.
+
+A parent's word becomes the child's creed,
+A leader's choice the team's example true,
+What seems like simple want transforms to need
+When those we shape are learning what to do.
+
+The merchant knows his daughter's watching there,
+His worth defended teaches hers the same,
+Each compromise would poison future prayer
+For fair return on labor's honest claim.
+
+*In every deal, we're teachers unaware—*
+*Our choices write the scripts our loved ones share.*`,
+    standard: `🤝 Day 64: The Living Classroom
+
+When someone realizes their dependents are watching and learning from their decision-making process, it transforms every choice into a teaching moment about values under pressure. This awareness creates profound psychological weight because they understand that their actions in this moment will become the template their dependents use to navigate similar situations throughout their lives.
+
+🧱 **The Concept**
+The Living Classroom principle recognizes that when people become conscious of being observed by those who look up to them, their decision-making shifts from self-interest to legacy creation.
+
+❓ **Why It Matters**
+This awareness activates the most powerful form of accountability — not external judgment, but the knowledge that their choices are programming the moral operating system of the next generation. People will endure personal cost to avoid teaching the wrong lessons to those they're responsible for shaping.
+
+⚙️ **How It Works**
+When you make someone conscious that their dependents are learning from this moment, you transform a simple negotiation into a values demonstration. A parent negotiating salary realizes their children are learning whether hard work deserves fair compensation. A manager deciding on employee treatment knows their team is learning what leadership looks like under pressure. A business owner choosing between profit and principle understands they're teaching their successors what success really means. This consciousness makes saying "no" feel like teaching dependents to accept less than they deserve, while saying "yes" feels like modeling appropriate self-advocacy.
+
+🎯 **Negotiation Wisdom**
+The most powerful leverage isn't what someone wants for themselves, but what they want to teach those who are learning from their example.
+
+❓ **Tomorrow's Question** — If making someone conscious of being a teacher transforms them into a living example of the values they claim to hold, what happens when you make them realize that their dependents aren't just watching this decision, but that they'll someday face an identical situation and use this moment as their guide for how to respond?`,
+    parable: `The marketplace hummed with morning energy as Ren watched a heated negotiation between a cloth merchant and a buyer. Vasska stood beside him, his good eye tracking something beyond the immediate transaction.
+
+"Look closer," the old trader murmured. "See the merchant's daughter there, pretending to sort fabric while listening to every word?"
+
+Ren noticed the girl, perhaps twelve, her ears clearly tuned to her father's voice as he defended his prices against the buyer's aggressive lowballing.
+
+"The buyer thinks he's negotiating with one person," Vasska continued. "But that man isn't just protecting his profit — he's teaching his daughter what their family's work is worth. Watch what happens when someone realizes they're not just making a deal, but creating a lesson."
+
+As if summoned by Vasska's words, the merchant's voice grew stronger. "My daughter has watched me build this business thread by thread. What lesson would I teach her if I accepted less than fair value for honest work? When she inherits this stall, should she remember that her father taught customers they could bully us into poverty?"
+
+The buyer's aggression faltered. He glanced at the girl, then back at the merchant, something shifting in his expression.
+
+"Every negotiation is a classroom," Vasska whispered to Ren. "When people realize their choices become the curriculum for those they love, self-interest transforms into legacy protection."
+
+The buyer paid the asking price.
+
+**Moral:** The most powerful accountability comes not from external judgment, but from knowing that our choices become the moral inheritance of those who learn from our example.
+
+*Tomorrow, Ren will discover what happens when someone realizes their dependents won't just remember this decision, but will someday face the exact same test...*`,
+  },
 ];

@@ -538,4 +538,71 @@ As if summoned by his words, a small green shoot pushed through the seemingly li
 
 *Tomorrow, we discover why we save our gratitude for easy moments rather than wielding it as a light in darkness...*`,
   },
+  {
+    day: 10,
+    title: "The Gratitude Gateway",
+    date: "2026-04-27",
+    image: "images/gratitude/day-10.jpg",
+    audio: "audio/gratitude/day-10",
+    sonnet: `**🪶 Sonnet X: The Gratitude Gateway**
+
+Between the shadow and the morning light
+There stands a gate that few have learned to see,
+Not built of wood or stone, but inner sight—
+A bridge from pain to possibility.
+
+When sorrow weighs upon the weary soul,
+This portal offers passage to new ground,
+Not to escape but to perceive the whole,
+To hear what meaning in the hurt is found.
+
+The gateway asks no toll, demands no price,
+Save willingness to walk from what we know
+Into a garden viewed through different eyes
+Where even thorns with grateful beauty glow.
+
+*For gratitude transforms not circumstance,*
+*But grants the heart a deeper, truer glance.*`,
+    standard: `🙏 Day 10: The Gratitude Gateway
+
+We save gratitude for good times because we've been conditioned to see it as a response to favorable circumstances rather than a practice that creates favorable inner conditions. True gratitude isn't dependent on external events—it's a doorway we can walk through in any moment to transform our relationship with whatever we're experiencing.
+
+**🧱 The Concept**
+Gratitude serves as a gateway between states of consciousness—a bridge from suffering to meaning, from resistance to acceptance, from isolation to connection.
+
+**❓ Why It Matters**
+When we understand gratitude as a gateway rather than a destination, we discover it's always accessible regardless of circumstances. This shift transforms gratitude from a fair-weather practice into a reliable tool for navigating life's full spectrum of experiences.
+
+**⚙️ How It Works**
+The gateway effect works by redirecting attention from what's wrong to what's workable, from what's missing to what's present. In grief, we might feel grateful for the love that made loss so painful. In failure, we can appreciate the courage it took to try. In illness, we may discover gratitude for the body's incredible efforts to heal. Each act of appreciation opens a doorway to a different perspective on the same reality. The external circumstances remain unchanged, but our internal experience transforms completely.
+
+**🎯 Gratitude Wisdom**
+Gratitude is not about pretending everything is fine—it's about finding the doorway to meaning in whatever is actually happening.
+
+**❓ Tomorrow's Question**
+If gratitude can serve as a gateway to transform any experience, why do some people seem naturally able to find this doorway while others struggle to locate it even in obviously blessed circumstances?`,
+    parable: `Hana found Elder Thorn sitting before a garden gate that seemed to shimmer between states—sometimes appearing as weathered wood, sometimes as polished stone, sometimes as mere light.
+
+"Elder, I've practiced gratitude in joy and in sorrow as you taught me, but I'm confused," Hana said. "Why does it sometimes feel like I'm forcing appreciation, while other times it flows naturally?"
+
+Elder Thorn smiled, placing his weathered hand on the gate's surface. "Tell me, young one, what do you see before us?"
+
+"A garden gate, Elder."
+
+"And what is a gate's purpose?"
+
+Hana considered. "To provide passage from one place to another?"
+
+"Precisely. This gate has stood here for centuries, serving countless travelers. Some approach it in sunshine, some in storm, some carrying heavy burdens, others dancing with joy. But the gate itself never changes its fundamental nature—it remains a doorway."
+
+Elder Thorn pushed gently, and the gate swung open, revealing the same garden they had been sitting in all along, yet somehow transformed—more vivid, more alive.
+
+"Gratitude is like this gate," he continued. "It doesn't create new circumstances; it reveals the deeper truth of what already exists. When you force gratitude, you're trying to change the gate itself. When gratitude flows naturally, you're simply walking through the doorway that was always there."
+
+Hana stepped through the gateway and gasped. The garden was exactly the same, yet her experience of it had completely shifted. Even the withered roses seemed beautiful in their honest decay.
+
+**Moral:** Gratitude is not a feeling to manufacture but a doorway to discover—one that transforms not what we see, but how we see.
+
+**Tomorrow:** Hana will learn why some hearts find this doorway easily while others search for it in vain.`,
+  },
 ];

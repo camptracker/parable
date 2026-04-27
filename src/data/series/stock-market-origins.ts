@@ -352,4 +352,60 @@ Van der Meer's eyes gleamed. "When everyone owns a piece of prosperity, my boy, 
 
 *Tomorrow, Willem will discover what happens when everyone can trade, but not everyone understands the game they're playing...*`,
   },
+  {
+    day: 7,
+    title: "The Information Revolution and Market Transparency",
+    date: "2026-04-27",
+    image: "images/stock-market-origins/day-7.jpg",
+    audio: "audio/stock-market-origins/day-7",
+    sonnet: `**🪶 Sonnet VII: The Information Revolution and Market Transparency**
+
+When knowledge flowed through guilds and private halls,
+The wealthy few could hoard what others sought,
+But now each trader hears when fortune calls,
+And information cannot more be bought.
+
+The printing press spreads news to every street,
+While coffee houses buzz with ships' reports,
+No more do merchants whisper and retreat—
+All Amsterdam now knows of distant ports.
+
+Yet strange paradox: though all may know,
+Not all who hear can wisdom's meaning grasp,
+Some see the tide while others miss its flow,
+And lose their gold in speculation's clasp.
+
+*When data flows like water, free and clear,*
+*The wise still profit most from what they hear.*`,
+    standard: `📈 Day 7: The Information Revolution and Market Transparency
+
+We're creating both—democratizing access while amplifying the advantage of financial literacy. Mobile trading platforms give everyone the same tools that once belonged only to Wall Street professionals, but knowledge remains the great divider. Those who understand financial statements, market cycles, and valuation principles can leverage these tools for wealth building, while others may find themselves gambling rather than investing.
+
+🧱 **The Concept**
+The digital revolution transformed markets from exclusive clubs requiring brokers and minimum investments into transparent, accessible platforms where information flows instantly to everyone.
+
+❓ **Why It Matters**
+For centuries, market information was hoarded by insiders—prices, company news, and trading data flowed through private networks. Today's radical transparency means a teenager in Nebraska can access the same real-time data as Goldman Sachs traders. This shift fundamentally changed who can participate in wealth creation through markets.
+
+⚙️ **How It Works**
+Before the internet, getting a stock quote required calling a broker who might charge $50 per trade. Company earnings reports were mailed to shareholders weeks after release. Today, platforms like Robinhood offer commission-free trades, real-time quotes, and instant access to SEC filings. **Algorithmic trading** executes millions of trades per second based on news sentiment analysis. **Social media** now moves markets—a single tweet can add or subtract billions in market value within minutes. **Retail investors** organized on platforms like Reddit can collectively influence stock prices, as seen with GameStop in 2021. **Financial influencers** on TikTok reach millions with investment advice, democratizing financial education but also spreading misinformation.
+
+🎯 **Market Wisdom**
+Information without understanding creates the illusion of knowledge. In transparent markets, the educated investor's advantage isn't access to data—it's the wisdom to interpret it correctly.
+
+❓ **Tomorrow's Question** — If markets can now be moved by social media trends and crowd psychology rather than traditional analysis, are we witnessing the evolution of finance or its devolution into a popularity contest?`,
+    parable: `Willem stared at the crowd gathered around Van der Meer's coffee house table, where traders shouted bids for VOC shares while scribes frantically recorded prices on wooden boards. "Master," he whispered, "why do some men profit while others lose their shirts on the same information?"
+
+Van der Meer smiled, gesturing toward two merchants examining identical shipping reports. "Watch closely, young Willem. Both Heinrich and Pieter received word that three VOC ships arrived safely in Batavia. Heinrich sees only that the cargo is safe and buys more shares. But Pieter..." He paused as the shrewd trader pocketed his coins and walked away. "Pieter noticed the manifest mentioned smaller cargo holds—the ships sailed light, meaning less profit per voyage."
+
+"But they both heard the same news!" Willem protested.
+
+"Ah, but hearing and understanding are different arts entirely," Van der Meer replied, watching as Heinrich's face fell upon learning the full details. "In these coffee houses, every whisper, every rumor, every ship's manifest becomes known to all who listen. The poor apprentice and the wealthy merchant receive the same intelligence."
+
+A young clerk burst through the door, shouting news of Spanish ships spotted near the Indies. Instantly, the room erupted—some traders buying in anticipation of conflict driving prices higher, others selling from fear of lost cargo. Willem watched in fascination as the same information sparked opposite reactions.
+
+"You see, Willem, we live in revolutionary times. No longer do the Fugger banking houses hoard their secrets or keep prices hidden from common merchants. Every man in Amsterdam can know what every other man knows about the VOC's fortunes. But knowledge without wisdom is like a ship without a navigator—it may sail, but rarely to its intended destination."
+
+The moral rang clear: **When information flows freely to all, wisdom becomes the only true advantage.** Tomorrow, Willem would learn whether the crowd's collective judgment could be trusted, or if madness multiplies when many minds think as one.`,
+  },
 ];

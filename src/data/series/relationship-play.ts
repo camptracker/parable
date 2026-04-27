@@ -120,4 +120,62 @@ That evening, River blindfolded Quinn and led them on a "mystery tour" of their 
 
 **Tomorrow:** Elder Joy will challenge them to explore why safety and excitement seem to oppose each other in long-term love.`,
   },
+  {
+    day: 3,
+    title: "The Comfort Zone Trap",
+    date: "2026-04-27",
+    image: "images/relationship-play/day-3.jpg",
+    audio: "audio/relationship-play/day-3",
+    sonnet: `**🪶 Sonnet III: The Comfort Zone Trap**
+
+In cushioned rooms of habit do we dwell,
+Where conversations follow well-worn tracks,
+And Friday nights repeat their safe-known spell
+Of restaurants and routines that never lack.
+
+We built these walls of comfort brick by brick,
+To shield our hearts from uncertainty's sting,
+Yet in this cage of patterns, smooth and slick,
+Our passion wilts like flowers without spring.
+
+The brain seeks safety in the known and tried,
+But love needs mystery to fan its flame,
+In comfort zones where dreams go quietly died,
+Two souls grow distant, though they share a name.
+
+*True intimacy blooms where courage dares,*
+*Just past the edge of all familiar chairs.*`,
+    standard: `🎮 Day 3: The Comfort Zone Trap
+
+Couples unconsciously choose comfort over curiosity because our brains are wired to conserve energy and seek safety—what feels predictable feels secure. However, this biological programming that once kept us alive now keeps our relationships in a state of pleasant stagnation, mistaking familiarity for intimacy.
+
+🧱 **The Concept**
+The comfort zone trap occurs when couples mistake routine for connection, gradually replacing spontaneity with predictability until their relationship becomes more like a well-oiled machine than a living, breathing adventure.
+
+❓ **Why It Matters**
+When we stop challenging ourselves as a couple, we stop growing together, and growth is the oxygen of lasting passion. Comfort zones feel safe in the moment but become relationship quicksand over time, slowly pulling couples into emotional flatness. The very routines that once brought stability can become the silent killers of curiosity and desire.
+
+⚙️ **How It Works**
+Comfort zones manifest in countless ways: always going to the same restaurant, having conversations that follow predictable patterns, or defaulting to the same weekend activities without question. The antidote lies in **intentional discomfort**—deliberately choosing the unfamiliar path together. This might mean trying a cuisine neither of you likes, taking a class in something you're both terrible at, or simply changing your usual walking route. Small disruptions create space for discovery, and discovery reignites fascination with each other. The key is making these micro-adventures a regular practice, not just occasional novelties.
+
+🎯 **Playful Connection Wisdom**
+True intimacy lives just outside your comfort zone—close enough to feel safe, far enough to feel alive.
+
+❓ **Tomorrow's Question** — If shared vulnerability is the gateway to deeper intimacy, why do so many couples avoid emotional risk-taking even more carefully than they avoid physical danger?`,
+    parable: `Quinn stared at the restaurant menu, the same one they'd memorized over dozens of Friday night visits. "The usual?" River asked, though they both already knew the answer. Their conversation followed its familiar rhythm—work, weekend plans, that funny thing their neighbor said. Safe. Predictable. Slowly suffocating.
+
+The next week, Elder Joy listened with knowing eyes as they described their relationship's pleasant flatness. "You've built a beautiful cage," she said gently. "Comfort zones are seductive because they promise security, but they deliver stagnation. Your brains, evolved to seek safety, have mistaken routine for intimacy."
+
+She handed them a curious challenge: "For one month, choose discomfort. Not danger—discomfort. Order the strangest thing on every menu. Take a dance class you'll be terrible at. Walk backwards through your neighborhood while having a conversation. Small rebellions against your own patterns."
+
+Quinn protested: "But we like our routines. They work."
+
+"Do they?" Elder Joy smiled. "Or have they simply become the walls of a very comfortable prison? True connection requires curiosity, and curiosity cannot survive in the absence of mystery. You must become strangers to yourselves again before you can rediscover each other."
+
+That night, they ordered sushi instead of pasta, took the long way home, and played twenty questions about childhood dreams they'd never shared. For the first time in months, they felt genuinely curious about each other.
+
+**Moral:** The comfort zone is a beautiful place, but nothing ever grows there. Love flourishes in the space between safety and adventure.
+
+*Tomorrow, Elder Joy will reveal why couples who dare to be vulnerable together create unbreakable bonds—and why emotional courage is rarer than physical bravery.*`,
+  },
 ];
