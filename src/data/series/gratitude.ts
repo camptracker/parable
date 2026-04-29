@@ -605,4 +605,64 @@ Hana stepped through the gateway and gasped. The garden was exactly the same, ye
 
 **Tomorrow:** Hana will learn why some hearts find this doorway easily while others search for it in vain.`,
   },
+  {
+    day: 11,
+    title: "The Gratitude Muscle",
+    date: "2026-04-29",
+    image: "images/gratitude/day-11.jpg",
+    audio: "audio/gratitude/day-11",
+    sonnet: `**🪶 Sonnet XI: The Gratitude Muscle**
+
+As blacksmith's hammer shapes the stubborn steel,
+So daily practice bends the mind to see
+The hidden gifts that circumstance conceal—
+Each moment holds some small felicity.
+
+The neural pathways deepen with each use,
+Like water carving channels through the stone,
+While grateful thoughts, released from mental noose,
+Transform the heart from bitter seed full-grown.
+
+Though storms may rage and seedlings seem to die,
+The practiced eye finds life in smallest shoots,
+For strength comes not from peaceful summer sky,
+But from the depths of well-established roots.
+
+*The muscle of the heart grows strong through strain—*
+*Each grateful thought rewrites the mind's refrain.*`,
+    standard: `🙏 **Day 11: The Gratitude Muscle**
+
+🧱 **The Concept**
+Gratitude operates like a muscle that grows stronger with intentional exercise, literally rewiring neural pathways through neuroplasticity to make appreciation your brain's default mode.
+
+❓ **Why It Matters**
+Most people treat gratitude like a feeling that either happens or doesn't, waiting for external circumstances to inspire thankfulness. But neuroscience reveals that gratitude is actually a skill that can be developed through deliberate practice, with measurable changes in brain structure occurring in as little as eight weeks of consistent training.
+
+⚙️ **How It Works**
+Just as lifting weights strengthens physical muscles, regularly practicing gratitude exercises strengthens the neural networks associated with positive emotion and well-being. Research shows that people who write three things they're grateful for daily experience increased activity in the hypothalamus (regulating stress) and increased dopamine production (enhancing motivation and pleasure). The anterior cingulate cortex, responsible for empathy and emotional regulation, literally grows denser with gratitude practice. Simple exercises like savoring positive experiences for 30 seconds, writing gratitude letters, or mentally thanking people throughout your day create lasting neurological changes that make appreciation feel more natural and automatic over time.
+
+🎯 **Gratitude Wisdom**
+The brain you build through consistent gratitude practice becomes the lens through which you experience all of life. Small, daily acts of appreciation compound into a fundamentally transformed way of being.
+
+❓ **Tomorrow's Question** — If gratitude practice can literally reshape your brain's architecture, why do we often abandon appreciation exercises the moment life gets challenging, precisely when this mental strength training would be most valuable?`,
+    parable: `Elder Thorn found Hana slumped against the garden wall, her face etched with frustration. "I've been practicing gratitude for weeks," she sighed, "but today when the storm destroyed my seedlings, I felt nothing but anger. I must be failing."
+
+The elder smiled knowingly. "Tell me, young one, what happened when you first tried to carry water from the well?"
+
+"My arms ached terribly," Hana recalled. "I could barely lift the bucket."
+
+"And now?"
+
+"Now I can carry two buckets without strain." Her eyes widened with understanding.
+
+"The heart-muscle of gratitude grows the same way," Thorn explained, kneeling to examine the damaged seedlings. "See how some roots survived? Even in observing this small resilience, you exercise appreciation. Each time you choose to notice blessing—especially amid difficulty—you strengthen the very capacity to find it."
+
+He lifted a tiny green shoot that had weathered the storm. "This seedling didn't survive because the storm was gentle. It survived because its roots had grown strong through patient tending. Your gratitude practice isn't failing when you feel ungrateful—that's precisely when it's working hardest, like muscles under the heaviest weight."
+
+Hana watched as he carefully replanted the survivor. "The grateful eye, like the gardener's hand, grows more skilled with each season."
+
+**Moral:** Gratitude is not a feeling to be summoned but a strength to be built, growing most powerful when exercised against resistance.
+
+*Tomorrow, Hana will discover why her strongest gratitude practice might come at her weakest moments...*`,
+  },
 ];

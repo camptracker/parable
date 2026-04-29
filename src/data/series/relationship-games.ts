@@ -258,4 +258,64 @@ Riven watched the stable couple disappear into the crowd, suddenly understanding
 
 **Tomorrow:** *The Mirror will reveal how our deepest survival instincts can be weaponized against us in the dating world.*`,
   },
+  {
+    day: 5,
+    title: "The Trauma Bond Illusion",
+    date: "2026-04-29",
+    image: "images/relationship-games/day-5.jpg",
+    audio: "audio/relationship-games/day-5",
+    sonnet: `**🪶 Sonnet V: The Trauma Bond Illusion**
+
+When love becomes a drug of sweet relief,
+And cruelty makes kindness feel divine,
+Our hearts mistake this cycle for belief
+That pain and passion naturally align.
+
+The child within remembers how to crave
+Unsteady hands that sometimes held us tight,
+So now we dance with those who give and save,
+Who plunge us into darkness, then bring light.
+
+Each reconciliation floods the brain
+With chemicals more potent than true love,
+While steady hearts seem colorless and plain
+Beside this drug we can't get free of.
+
+*But trauma bonds are chains that masquerade—*
+*True love feels safe, not like you're being played.*`,
+    standard: `🎭 Day 5: The Trauma Bond Illusion
+
+Modern dating culture hijacks our attachment systems by creating intermittent reinforcement patterns that mirror childhood trauma responses. When someone alternates between intense affection and emotional withdrawal, our nervous system interprets this as a familiar survival dynamic, triggering the same biochemical responses that once kept us connected to inconsistent caregivers. This creates trauma bonds disguised as "passionate love."
+
+**🧱 The Concept**
+Trauma bonding occurs when cycles of abuse and affection create an addictive neurochemical pattern that we mistake for deep connection.
+
+**❓ Why It Matters**
+Many people stay trapped in toxic relationships because their bodies are literally addicted to the stress-relief cycle of conflict and reconciliation. Understanding this helps distinguish between genuine intimacy and neurochemical manipulation.
+
+**⚙️ How It Works**
+The cycle begins with **love bombing** — overwhelming affection that floods the brain with dopamine and oxytocin. This is followed by **devaluation** — withdrawal, criticism, or emotional unavailability that creates anxiety and cortisol spikes. When brief moments of **reconciliation** occur, the relief feels more intense than normal affection because of the contrast. For example, someone might shower you with attention for weeks, then become cold and distant, then return with just enough warmth to keep you hoping. Your brain learns to crave the relief more than consistent love. This pattern hijacks the same neural pathways that helped children survive unpredictable caregiving environments.
+
+**🎯 Relationship Strategy Wisdom**
+True love feels calm and consistent, not like an emotional rollercoaster you can't get off.
+
+**❓ Tomorrow's Question** — If we can recognize when someone is using intermittent reinforcement to create addiction rather than attraction, why do we often find ourselves making excuses for their behavior instead of walking away?`,
+    parable: `Riven found himself standing before The Mirror once again, but this time his reflection showed him chained to a beautiful figure who alternated between caressing and striking him.
+
+"I don't understand," Riven whispered, watching the scene unfold. "When she's kind to me, it feels like the most beautiful love in the world. When she's cruel, I feel like I'm dying. But I can't leave."
+
+The Mirror's surface rippled. "Your attachment system was designed in childhood to keep you bonded to those who could ensure your survival, even if they were inconsistent or harmful. Now watch carefully."
+
+The reflection shifted to show Riven as a small child, reaching for a parent who sometimes embraced him warmly, sometimes turned away coldly. "See how your young mind learned that love comes with anxiety? That you must work harder when affection is withdrawn?"
+
+Riven's adult form appeared again, and he could see the same pattern playing out. "She floods you with attention until your brain releases waves of bonding chemicals. Then she withdraws, creating panic and cortisol. When she returns with even small kindness, the relief feels more powerful than steady love ever could. Your nervous system has been hijacked."
+
+The chains in the reflection began to glow with each cycle — brighter with each reconciliation, tighter with each abandonment. "This is not love," The Mirror said gently. "This is your survival system being exploited."
+
+Riven watched in horror as he realized he had been mistaking addiction for devotion, trauma for passion.
+
+**Moral:** *What we call passionate love is often our nervous system's desperate attempt to resolve unfinished childhood survival patterns.*
+
+**Tomorrow:** *The Mirror will show Riven why his mind creates elaborate justifications for behavior his body knows is harmful...*`,
+  },
 ];

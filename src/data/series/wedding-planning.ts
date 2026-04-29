@@ -3730,4 +3730,71 @@ As they walked back toward the intertwined oaks, Dove noticed something she'd mi
 
 *Tomorrow, we'll explore what it means to promise faithfulness not just to who your partner is, but to who they're becoming...*`,
   },
+  {
+    day: 60,
+    title: "The Sacred Infinity",
+    date: "2026-04-29",
+    image: "images/wedding-planning/day-60.jpg",
+    audio: "audio/wedding-planning/day-60",
+    sonnet: `**🪶 Sonnet LX: The Sacred Infinity**
+
+Beyond the altar's threshold lies the vast
+Expanse where love transforms through endless days,
+Not bound by vows that hold the present fast
+But freed to dance through time's uncharted ways.
+
+The stranger that your partner shall become
+Awaits your promise made to unknown years,
+When joy and sorrow weave their total sum
+And grace emerges through both hopes and fears.
+
+No ceremony ends love's sacred start—
+Each "I do" opens doors to mysteries
+Where souls expand beyond their captured heart
+To find new depths in shared infinities.
+
+*Your wedding day begins the endless quest*
+*To love tomorrow's selves at their very best.*`,
+    standard: `💍 Day 60: The Sacred Infinity
+
+Evolutionary love recognizes that the person you marry today is just the beginning of an infinite unfolding, and true vows promise not just loyalty to their current self but excited commitment to loving whoever they become through all of life's seasons. This distinction transforms marriage from a contract based on present compatibility into a covenant with the mystery of perpetual becoming.
+
+🧱 **The Concept**
+As your wedding planning journey completes its circle, you arrive at the ultimate truth: marriage is not a destination but a sacred doorway into infinite possibility.
+
+❓ **Why It Matters**
+After 60 days of examining every aspect of wedding planning, the deepest realization emerges—your celebration marks not an ending but an eternal beginning. The person standing beside you at the altar represents not a fixed entity you're agreeing to love forever, but an infinite mystery you're promising to explore with devotion and wonder for the rest of your days.
+
+⚙️ **How It Works**
+This sacred infinity manifests when you design your entire wedding celebration around the theme of endless becoming rather than perfect completion. Instead of crafting vows that catalog your partner's current qualities, you promise to love the stranger they might become in twenty years. Rather than planning every detail to achieve one perfect day, you create space for the unexpected magic that emerges when two people step consciously into the great unknown together. Your ceremony becomes a launching pad rather than a culmination—a moment when you collectively acknowledge that your greatest adventures lie ahead in the unmapped territory of shared becoming. Every tradition you choose, every guest you include, every moment you savor reflects your understanding that this celebration opens a door to infinite possibility rather than closing a chapter on your individual stories.
+
+🎯 **Wedding Wisdom**
+Your wedding day is not the finish line of your love story but the starting gun for an infinite race you'll run together toward horizons you cannot yet imagine.
+
+❓ **Tomorrow's Question**
+If you could design your wedding day so that stepping across the threshold from engaged to married felt like stepping from the known into the sacred unknown together, what would that transformation require you to release about needing to know what comes next, and what does that reveal about whether you're seeking security in marriage or seeking adventure with your most trusted companion?`,
+    parable: `After sixty sunrises of preparation, Dove found herself in Nana Rose's garden one final time, watching the ancient woman tend to her climbing roses—some buds tightly closed, others in full bloom, many already transforming into something entirely new.
+
+"I keep thinking about tomorrow," Dove murmured, her voice carrying a mixture of excitement and vertigo. "All this planning, all these decisions, and suddenly I realize we're not just getting married—we're becoming something we've never been before."
+
+Elm reached for her hand, his own trembling slightly. "I've been thinking the same thing. It's like we're standing at the edge of an infinite ocean, about to dive in together."
+
+Nana Rose smiled, her weathered fingers caressing a rose that was simultaneously blooming and beginning to drop its petals. "Ah, my dears, you've discovered the wedding's greatest secret. You think you're celebrating what you know about each other, but you're actually consecrating your willingness to love what you cannot yet imagine."
+
+She moved to another section where tiny green buds promised future blooms. "Every couple I've guided through this threshold believes they're marrying the person standing beside them. But the truth is more beautiful and more terrifying—you're marrying the infinite mystery of who you'll both become."
+
+Dove felt a shiver of recognition. "So our vows aren't really about who we are now?"
+
+"Your vows are promises made to strangers," Nana Rose said gently. "To the people you'll be when your first child is born, when your dreams shift, when loss carves new depths in your hearts, when joy surprises you in ways you never expected. You're promising to love people you haven't met yet—including future versions of yourselves."
+
+Elm squeezed Dove's hand tighter. "That's why this feels so... enormous."
+
+"Because it is," the old woman nodded. "Marriage is the ultimate act of faith—not faith that everything will go according to plan, but faith that whatever emerges from the alchemy of two lives intertwining will be worth loving, worth cherishing, worth growing toward together."
+
+As the three stood in the garden where roses bloomed in every stage of becoming, Dove understood that tomorrow's ceremony would mark not an achievement but an inception—the moment when their love story truly began its infinite unfolding.
+
+**Moral:** The greatest marriages don't celebrate what is known but consecrate the courage to love what is yet to be discovered.
+
+*Tomorrow, we explore what it means to step together into the sacred unknown, and how embracing mystery rather than demanding certainty transforms the very nature of commitment...*`,
+  },
 ];
