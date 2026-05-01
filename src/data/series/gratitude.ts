@@ -665,4 +665,72 @@ Hana watched as he carefully replanted the survivor. "The grateful eye, like the
 
 *Tomorrow, Hana will discover why her strongest gratitude practice might come at her weakest moments...*`,
   },
+  {
+    day: 12,
+    title: "The Gratitude Marathon",
+    date: "2026-05-01",
+    image: "images/gratitude/day-12.jpg",
+    audio: "audio/gratitude/day-12",
+    sonnet: `**🪶 Sonnet XII: The Gratitude Marathon**
+
+When storms arise and shake our peaceful ground,
+We cast aside the tools that make us strong,
+As if appreciation can't be found
+When life's harsh winds are howling fierce and long.
+
+Yet athletes train through seasons cold and dark
+To build the strength they'll need on racing day,
+And gratitude, like muscle, leaves its mark
+Through daily practice, come what storm or ray.
+
+The neural pathways carved in quiet hours
+Become the bridge when fear would flood the mind,
+While those who wait for calm and gentle showers
+Discover weakness when they're in a bind.
+
+*For appreciation's truest test is found*
+*Not when we're safe, but when we're battle-bound.*`,
+    standard: `🙏 Day 12: The Gratitude Marathon
+
+We abandon gratitude practice during challenges because our stressed brains revert to survival mode, treating appreciation as a luxury rather than medicine. When crisis hits, we mistakenly believe we need to "fix" everything before we can feel grateful, not realizing that gratitude is the tool that enables clear thinking and resilience in the first place.
+
+🧱 **The Concept**
+Gratitude practice requires the same commitment as physical fitness — it's most beneficial when maintained consistently, especially during difficult periods when you least feel like doing it.
+
+❓ **Why It Matters**
+Just as athletes train hardest during the off-season to prepare for competition, your gratitude practice during calm moments builds the neural pathways you'll need during life's storms. Research shows that people with established gratitude practices recover faster from trauma, maintain better relationships during stress, and make clearer decisions under pressure.
+
+⚙️ **How It Works**
+During stress, your prefrontal cortex (responsible for perspective and meaning-making) goes offline while your amygdala (fear center) takes control. Regular gratitude practice strengthens the neural pathways between these regions, allowing you to access appreciation even when anxious. For example, a mother facing job loss who has practiced daily gratitude can still notice her children's laughter and her partner's support, maintaining emotional stability that enables better decision-making. Someone without this "gratitude fitness" becomes consumed by fear, missing both opportunities and existing resources that could help.
+
+🎯 **Gratitude Wisdom**
+The strongest appreciation muscles are built not in moments of ease, but through consistent practice that prepares you for life's inevitable challenges.
+
+❓ **Tomorrow's Question** — If gratitude practice during adversity creates the strongest neural pathways for resilience, why might our culture's tendency to postpone appreciation until "things get better" actually be training us for emotional fragility rather than strength?`,
+    parable: `The mountain trembled as another avalanche thundered down its far slopes. In the monastery garden, Hana watched Elder Thorn continue his morning gratitude meditation, unmoved by the distant roar.
+
+"Master," she whispered urgently, "shouldn't we prepare for evacuation instead of sitting here giving thanks?"
+
+Elder Thorn's eyes remained closed. "Child, tell me — when do you train for a marathon?"
+
+"Before the race, obviously."
+
+"And when is that training most valuable?"
+
+"During the race itself, when your body draws on the strength you've built."
+
+Another avalanche rumbled, closer now. Still, the Elder continued his practice. "For twenty years, I've trained these pathways of appreciation. Not just on peaceful mornings, but through famines, wars, and personal losses. Today, when fear would cloud my judgment, I can access gratitude as easily as breathing."
+
+Hana felt her own panic rising. "But how can you be grateful when we might die?"
+
+"Because gratitude isn't about circumstances — it's about capacity." Elder Thorn finally opened his eyes, serene and alert. "Watch." He stood calmly, assessed the mountain's patterns, and led them to safety along a path Hana's anxious mind had missed entirely.
+
+Later, as they watched the monastery unharmed in the valley below, Hana understood. "You weren't ignoring the danger. Your practice gave you the clarity to navigate it."
+
+"Precisely. Most people abandon gratitude when storms come, not knowing it's their compass for finding the way through."
+
+**Moral:** True strength is built in quiet moments but proven in crisis. The gratitude you cultivate in peace becomes the wisdom that guides you through chaos.
+
+*Tomorrow, Hana will discover why waiting for "better times" to be grateful might be the very thing preventing those better times from arriving...*`,
+  },
 ];

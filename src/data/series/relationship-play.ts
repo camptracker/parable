@@ -239,4 +239,64 @@ Quinn nodded, remembering how after the cooking show charade, they'd found thems
 
 **Tomorrow:** Elder Joy will reveal why couples often become more guarded with their humor at home than anywhere else.`,
   },
+  {
+    day: 5,
+    title: "The Language of Laughter",
+    date: "2026-05-01",
+    image: "images/relationship-play/day-5.jpg",
+    audio: "audio/relationship-play/day-5",
+    sonnet: `**🪶 Sonnet V: The Language of Laughter**
+
+In morning light, we craft our secret jokes,
+With silly voices, wordplay, gentle tease,
+Your giggle breaks like dawn through evening's cloak,
+Our humor flows like whispers in the breeze.
+
+When stress descends like shadows on our day,
+We find the light in small absurdities,
+Your laughter lifts my worries clean away,
+Our joy becomes our shared immunity.
+
+The world may speak in anger, fear, and haste,
+But we converse in grins and knowing winks,
+No precious moment shall we ever waste
+When mirth becomes the chain that truly links.
+
+*For those who learn to laugh in love's embrace*
+*Discover joy's the heart's most sacred space.*`,
+    standard: `🎮 Day 5: **The Language of Laughter**
+
+🧱 **The Concept**
+Shared humor creates a unique intimate language between partners, building resilience and deepening emotional bonds through joy.
+
+❓ **Why It Matters**
+Couples who laugh together regularly report higher relationship satisfaction and weather conflicts more effectively. Humor acts as both a stress reliever and a connection amplifier, creating positive memories that sustain relationships through difficult times.
+
+⚙️ **How It Works**
+Developing your couple's humor repertoire involves creating inside jokes, playfully teasing (never at the other's expense), finding comedy in everyday situations, and learning each other's humor styles. Try weekly "comedy dates" where you watch stand-up together, create silly voices for your pets, or invent absurd explanations for mundane events. The key is finding what makes you both genuinely laugh—whether it's wordplay, physical comedy, or observational humor about your quirks as a couple.
+
+🎯 **Playful Connection Wisdom**
+Laughter is the music of intimacy—when you can make each other laugh, you're speaking a language only the two of you understand.
+
+❓ **Tomorrow's Question** — If genuine play requires letting go of control and embracing spontaneity, why do so many couples unconsciously compete for who's "doing relationships right" instead of simply enjoying each other's company?`,
+    parable: `Quinn stood in the kitchen, dramatically narrating their morning routine in the voice of a nature documentary host: "Here we observe the wild River in her natural habitat, stalking the elusive perfect coffee bean ratio..." River burst into laughter, nearly spilling her mug.
+
+"You're ridiculous," she giggled, but Elder Joy noticed how her eyes sparkled with delight when she looked at Quinn.
+
+During their session, Elder Joy smiled warmly. "What I witnessed this morning was sacred—you were speaking your unique language of love."
+
+"It's just silly voices," Quinn protested.
+
+"Ah, but notice how River's entire posture changed when she laughed. Notice how your stress about the work presentation melted away. This is not mere silliness—this is emotional alchemy." Elder Joy leaned forward. "Every couple must discover their own humor dialect. Some find joy in wordplay, others in gentle absurdity. The magic happens when you become fluent in making each other laugh."
+
+River reached for Quinn's hand. "Remember when we used to do character voices for everyone at the grocery store?"
+
+"The dramatic cashier! The philosophical produce manager!" Quinn grinned.
+
+"Laughter," Elder Joy concluded, "is intimacy's secret handshake. When you can make each other laugh, especially during stress, you've built something unbreakable."
+
+**Moral:** *The couple who laughs together, lasts together—for shared joy creates a language only lovers understand.*
+
+*Tomorrow, Elder Joy would challenge them to explore why some couples turn play into performance, forgetting that love's greatest gift is simply enjoying each other's presence.*`,
+  },
 ];

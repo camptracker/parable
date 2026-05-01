@@ -318,4 +318,64 @@ Riven watched in horror as he realized he had been mistaking addiction for devot
 
 **Tomorrow:** *The Mirror will show Riven why his mind creates elaborate justifications for behavior his body knows is harmful...*`,
   },
+  {
+    day: 6,
+    title: "The Cognitive Dissonance Dance",
+    date: "2026-05-01",
+    image: "images/relationship-games/day-6.jpg",
+    audio: "audio/relationship-games/day-6",
+    sonnet: `**🪶 Sonnet VI: The Cognitive Dissonance Dance**
+
+When heart declares what mind knows to be false,
+The soul constructs elaborate defense,
+Rewriting cruelty as mere impulse,
+Trading clear sight for comforting pretense.
+
+For easier to craft excuses sweet
+Than face the mirror of our judgment flawed,
+To call their coldness "walls they must defeat"
+Than admit we've been deceived and awed.
+
+The lawyer-mind presents its case with skill:
+"They're wounded, overwhelmed, not truly cruel."
+While evidence of harm climbs every hill,
+We cling to narratives that make us fool.
+
+*Yet liberation lies not in the story,*
+*But in the courage to face truth's glory.*`,
+    standard: `🎭 Day 6: The Cognitive Dissonance Dance
+
+We make excuses for harmful behavior because our minds desperately try to resolve the painful contradiction between our investment (time, emotion, hope) and the reality of poor treatment. Rather than admit we've been fooled, our brains rewrite the narrative to protect our ego and justify our continued participation.
+
+🧱 **The Concept**
+Cognitive dissonance in relationships creates a psychological prison where we rationalize mistreatment to avoid confronting uncomfortable truths about our choices.
+
+❓ **Why It Matters**
+When reality conflicts with our beliefs about someone, we often change our perception of reality rather than change our beliefs. This mental gymnastics keeps us trapped in toxic dynamics while convincing ourselves we're being "understanding" or "patient."
+
+⚙️ **How It Works**
+Your brain treats admitting you were wrong about someone as a threat to your identity as a "good judge of character." So when they treat you poorly after love-bombing, you think "they're just stressed" rather than "they manipulated me." When they ignore your boundaries, you rationalize "they're not ready for commitment" instead of recognizing disrespect. The more you've invested emotionally, the harder it becomes to accept that investment was misplaced. Your mind creates elaborate stories to explain away red flags rather than face the simple truth that this person isn't good for you.
+
+🎯 **Relationship Strategy Wisdom**
+The stories we tell ourselves to stay in harmful situations are often more elaborate than the reality we're avoiding.
+
+❓ **Tomorrow's Question** — If we're unconsciously addicted to the familiar pain of our childhood attachment wounds, how can we distinguish between genuine compatibility and the false comfort of recreating dysfunctional patterns?`,
+    parable: `Riven found The Mirror standing before a wall of shattered glass, each fragment reflecting a different version of the same scene—themselves making excuses for someone who had clearly shown their true nature.
+
+"I don't understand," Riven whispered, touching one shard that showed them explaining away a cruel text message. "I could see what they were doing. I knew intermittent reinforcement when I experienced it. So why did I keep justifying their behavior?"
+
+The Mirror's reflection shimmered across the broken pieces. "Because, dear seeker, the mind abhors contradiction more than it abhors pain. When your heart has declared someone worthy of love, your intellect becomes a devoted lawyer, building elaborate cases to defend that verdict."
+
+Another fragment showed Riven reframing a broken promise as "they're just overwhelmed right now." Another revealed them explaining away emotional distance as "they're protecting themselves from past hurt."
+
+"You invested your sense of self in being someone who chooses well," The Mirror continued. "To admit they were manipulating you meant admitting you had failed to see clearly. Your mind found it easier to rewrite their cruelty as complexity than to rewrite your story as someone who had been deceived."
+
+Riven watched their reflection shift through dozens of moments where they had chosen comfortable delusion over painful truth. "So I became my own prisoner?"
+
+"You became the warden of a cell built from reasonable-sounding explanations for unreasonable behavior," The Mirror replied. "But awareness of the prison is the first step toward finding the key."
+
+**Moral**: The stories we tell ourselves to avoid painful truths often become more imprisoning than the truths themselves.
+
+**Tomorrow**: The Mirror reveals why we unconsciously seek the familiar pain of our earliest wounds.`,
+  },
 ];

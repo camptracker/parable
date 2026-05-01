@@ -471,4 +471,66 @@ As if to prove his point, another wave of selling pressure hit the screen, and b
 
 **Tomorrow's Question:** If the Fed's willingness to backstop markets has become the foundation of modern liquidity, what happens when that implicit guarantee meets its limits?`,
   },
+  {
+    day: 9,
+    title: "The Credit Spread Oracle",
+    date: "2026-05-01",
+    image: "images/us-bond-market/day-9.jpg",
+    audio: "audio/us-bond-market/day-9",
+    sonnet: `**🪶 Sonnet IX: The Credit Spread Oracle**
+
+When Treasury bonds speak soft of interest's dance,
+The corporate spreads sing louder of their fear,
+With widening gaps that signal circumstance
+Of stress that lurks beneath the market's veneer.
+
+Investment grade may whisper of unease,
+While junk bonds scream of default's looming shade,
+Each sector tells its tale of dis-ease,
+As risk and time their fearsome bargains trade.
+
+The oracle reads not in crystal ball,
+But in the spread between the safe and bold,
+Where corporate bonds against Treasuries fall,
+And future troubles in the present told.
+
+*For credit spreads, like truth-detecting art,*
+*Reveal the market's most authentic heart.*`,
+    standard: `📊 Day 9: The Credit Spread Oracle
+
+🧱 **The Concept**
+Credit spreads—the difference between corporate bond yields and Treasury yields—serve as the market's real-time stress test, revealing how much extra compensation investors demand for taking on default risk.
+
+❓ **Why It Matters**
+While Treasury yields grab headlines, credit spreads tell the deeper story of economic health and market confidence. When spreads widen dramatically, they often signal trouble brewing before it shows up in GDP numbers or employment data.
+
+⚙️ **How It Works**
+Investment-grade corporate bonds typically trade 50-200 basis points above Treasuries during calm periods, while high-yield "junk" bonds demand 300-800 basis points extra. During the 2008 crisis, high-yield spreads exploded to over 2,000 basis points as investors fled risk. Even small spread movements matter—when investment-grade spreads jump from 100 to 150 basis points, it signals rising concern about corporate earnings, defaults, or liquidity. The beauty of credit spreads is they reflect both interest rate risk AND credit risk simultaneously, making them a more complete economic barometer than Treasury yields alone.
+
+🎯 **Bond Wisdom**
+Credit spreads are the market's polygraph test—they reveal the truth about economic anxiety that official statistics might miss for months.
+
+❓ **Tomorrow's Question** — If credit spreads are such powerful predictors of economic stress, why don't they move in perfect harmony across all sectors and credit ratings, and what does this fragmentation tell us about how modern markets actually price risk versus how textbooks say they should?`,
+    parable: `Maya stared at her terminal, watching the credit spread dashboard flash amber warnings across multiple sectors. Investment-grade spreads had widened 30 basis points in just two days, while high-yield energy bonds were bleeding red.
+
+"The Treasuries are calm," she murmured to Garrison, who was studying the same data with the intensity of a detective examining evidence. "Ten-year yields barely moved. But these corporate spreads..."
+
+"Ah, young oracle," Garrison said, leaning back in his weathered chair. "You're learning to read the market's true voice. Treasury yields tell you what the government thinks about interest rates. But credit spreads?" He gestured to the widening gaps on her screen. "They tell you what private enterprise thinks about survival."
+
+Maya watched as financial sector spreads ticked wider. "It's like they're pricing in something that hasn't happened yet."
+
+"Exactly. When a AAA-rated bank bond trades 200 basis points over Treasuries instead of the usual 80, the market is whispering secrets about loan losses, regulatory pressure, or funding stress that won't show up in quarterly reports for months."
+
+Garrison pointed to the energy sector, where spreads had doubled overnight. "See how oil companies are being priced like pariahs while tech spreads remain tight? The market is making bets about which industries will thrive and which will struggle, sector by sector, company by company."
+
+"So credit spreads are like..."
+
+"The market's polygraph test," Garrison finished. "They can't lie about fear the way press releases can. When spreads widen, money is voting with its feet, demanding higher compensation for lending to corporations instead of hiding in the safe embrace of Uncle Sam's debt."
+
+Maya nodded, finally understanding why Garrison called credit spreads the "oracle"—they spoke truths about economic anxiety that official statistics wouldn't reveal for months.
+
+**Moral**: *Credit spreads reveal the market's honest assessment of risk, unfiltered by optimism or politics, making them the economy's most reliable early warning system.*
+
+*Tomorrow, Maya will discover why this oracle sometimes speaks in riddles, with different sectors telling contradictory stories about the same economic moment...*`,
+  },
 ];

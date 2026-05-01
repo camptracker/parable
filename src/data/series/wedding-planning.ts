@@ -3797,4 +3797,62 @@ As the three stood in the garden where roses bloomed in every stage of becoming,
 
 *Tomorrow, we explore what it means to step together into the sacred unknown, and how embracing mystery rather than demanding certainty transforms the very nature of commitment...*`,
   },
+  {
+    day: 61,
+    title: "The Sacred Inheritance",
+    date: "2026-05-01",
+    image: "images/wedding-planning/day-61.jpg",
+    audio: "audio/wedding-planning/day-61",
+    sonnet: `**🪶 Sonnet LXI: The Sacred Inheritance**
+
+What legacy lives beyond the wedding day?
+Not flowers pressed in books or photos framed,
+But how your love taught others how to stay
+When passion fades and hearts feel less inflamed.
+
+The children watching learn what marriage means
+Not from your vows but from your gentle touch
+When stress appears and tests your love's routines—
+Your grace under pressure teaches them so much.
+
+Young couples see how partnership can be
+A dance of two souls choosing to unite,
+While cynics glimpse love's true possibility
+When witnessing your bond's authentic light.
+
+*Your wedding plants seeds in hearts that you may never know,*
+*Teaching generations how true love can grow.*`,
+    standard: `💍 Day 61: The Sacred Inheritance
+
+**🧱 The Concept**
+Your wedding becomes a gift to future generations when it demonstrates what love looks like when lived with intention and integrity.
+
+**❓ Why It Matters**
+Every wedding either reinforces cultural patterns about relationships or offers a new model for what's possible. The way you love each other publicly becomes a template that ripples through families, friendships, and communities for decades. Your celebration isn't just about you—it's about what you're teaching the world about love's possibilities.
+
+**⚙️ How It Works**
+Children at your wedding will remember not your centerpieces but how you looked at each other during difficult moments. Young couples will carry home not your menu but your demonstration of partnership under pressure. Single guests will leave either more hopeful or more cynical about love based on what they witnessed in your relationship's authenticity. When you choose patience over performance, vulnerability over perfection, and genuine connection over impressive execution, you're modeling what mature love actually looks like. Every moment of grace you show each other becomes a gift to everyone watching, teaching them what's possible in their own relationships.
+
+**🎯 Wedding Wisdom**
+Your wedding's greatest legacy isn't the memories you create for yourselves, but the hope you kindle in others about love's transformative power.
+
+**❓ Tomorrow's Question** — If you discovered that every couple at your wedding would unconsciously model their own relationship challenges after what they observe in yours that day, what specific dynamic would you most want them to learn from watching you navigate stress, joy, and unexpected moments together?`,
+    parable: `Dove sat in Nana Rose's sunlit office, surrounded by photos spanning decades of weddings. "All these couples look so happy," she murmured, studying the faces. "But I wonder... did their marriages last?"
+
+Nana Rose moved to a particular wall, where newer photos showed silver anniversaries, grandchildren, renewal ceremonies. "These did," she said softly. "And you know what they all had in common? Their weddings weren't performed for the camera—they were lived for the future."
+
+Elm leaned forward, intrigued. "What do you mean?"
+
+"I mean they understood something profound," Nana Rose continued, her fingers tracing one photograph of an elderly couple dancing. "Every wedding teaches the world something about love. Some teach that love is fragile, requiring perfect conditions. Others teach that love is performance, needing applause. But the marriages that endure? Their weddings taught that love is a practice—something you do, not something you feel."
+
+She turned to face them both. "Your nieces and nephews will be watching you. Young couples in your circle will be taking notes. Even cynical relatives will be hoping, secretly, to see something real. You have the chance to show them that love isn't just romance and pretty flowers—it's two people choosing each other again and again, even when the boutonniere falls off and the best man forgets his speech."
+
+Dove felt a shift in her chest, a settling into something larger than her own anxiety. "So we're not just getting married," she said slowly. "We're showing others how to stay married."
+
+"Precisely," Nana Rose smiled. "Your wedding becomes your first gift to the next generation."
+
+**Moral:** *The greatest wedding gift you can give isn't to each other, but to everyone who needs to believe that lasting love is still possible.*
+
+*Tomorrow: Dove and Elm discover what happens when your relationship becomes a living example rather than a perfect performance...*`,
+  },
 ];
