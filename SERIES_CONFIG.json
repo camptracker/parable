@@ -222,6 +222,18 @@
         "jon",
         "zany"
       ]
+    },
+    {
+      "seriesId": "raising-kids",
+      "seriesName": "Raising Kids",
+      "seriesTheme": "the art and science of parenting — from attachment theory and developmental psychology to discipline strategies, emotional intelligence, fostering independence, building resilience, teaching values, and navigating the challenges of modern parenting with wisdom and compassion",
+      "seriesEmoji": "👶",
+      "wisdomLabel": "Parenting Wisdom",
+      "parableCharacters": "Asha (new parent learning to trust her instincts), Elder Mira (grandmother who raised seven children and knows the long game of parenting)",
+      "recipients": [
+        "jon",
+        "zany"
+      ]
     }
   ]
 }

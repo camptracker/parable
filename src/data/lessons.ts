@@ -41,6 +41,7 @@ import { lessons as usBondLessons } from './series/us-bond-market';
 import { lessons as goldmanTrustLessons } from './series/goldman-sachs-trust-funds';
 import { lessons as relationshipGamesLessons } from './series/relationship-games';
 import { lessons as relationshipPlayLessons } from './series/relationship-play';
+import { lessons as raisingKidsLessons } from './series/raising-kids';
 
 export const series: Series[] = [
   { id: "financial-independence", name: "Financial Independence", theme: "Warren Buffett's teachings and mathematical principles", lessons: fiLessons },
@@ -68,6 +69,7 @@ export const series: Series[] = [
   { id: "goldman-sachs-trust-funds", name: "Goldman Sachs Trust Funds", theme: "ultra-high-net-worth wealth management — trust fund structures, private banking strategies, multi-generational wealth preservation, tax optimization, alternative investments, and the insider secrets Goldman Sachs uses to manage billions for the world's wealthiest families", lessons: goldmanTrustLessons },
   { id: "relationship-games", name: "Relationship Games", theme: "the hidden psychology of romantic power dynamics — manipulation tactics, game theory in dating, recognizing toxic patterns, understanding push-pull dynamics, and why people play games instead of being direct", lessons: relationshipGamesLessons },
   { id: "relationship-play", name: "Relationship Play", theme: "fun games, activities, and playful exercises that build intimacy, deepen connection, spark joy, and strengthen healthy romantic relationships — from creative date night ideas to communication games, trust-building activities, shared adventures, and the science of play in maintaining long-term passion", lessons: relationshipPlayLessons },
+  { id: "raising-kids", name: "Raising Kids", theme: "the art and science of parenting — from attachment theory and developmental psychology to discipline strategies, emotional intelligence, fostering independence, building resilience, teaching values, and navigating the challenges of modern parenting with wisdom and compassion", lessons: raisingKidsLessons },
 ];
 
 // Find a series by id
