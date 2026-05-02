@@ -3292,4 +3292,71 @@ Orna's expression grew thoughtful, her eyes distant as she considered futures ye
 
 **Tomorrow**: When the compass itself can be replicated, where do we find true north?`,
   },
+  {
+    day: 57,
+    title: "The Compass Keeper",
+    date: "2026-05-02",
+    image: "images/3d-printing/day-57.jpg",
+    audio: "audio/3d-printing/day-57",
+    sonnet: `**🪶 Sonnet LVII: The Compass Keeper**
+
+When mirrors learn to show what hearts desire,
+And algorithms read each secret want,
+The compass spins 'tween truth and sweet false fire,
+As systems whisper what souls think they font.
+
+Yet deeper than prediction's perfect art
+Lies surprise's sacred, uncharted ground—
+Those moments when the authentic heart
+Discovers wants that never have been found.
+
+No code can simulate the sudden shock
+Of meeting self in unexpected ways,
+When creation breaks its planned-for lock
+And shows us truth that startles and amazes.
+
+*For authenticity's not what we know,*
+*But willingness to let the unknown grow.*`,
+    standard: `🖨️ Day 57: The Compass Keeper
+
+When systems can perfectly simulate our authentic desires, trust in our internal compass shifts from recognizing familiar echoes to cultivating the capacity for surprise—moments when our true nature reveals itself in ways no algorithm anticipated. The compass remains trustworthy not because its signals are unique, but because our relationship with it includes the willingness to be astonished by ourselves.
+
+**🧱 The Concept**
+Authenticity emerges not from the uniqueness of our signals, but from our ongoing capacity to surprise ourselves in relationship with our creative work.
+
+**❓ Why It Matters**
+As systems become capable of simulating even our deepest creative impulses, the foundation of authentic making shifts from recognizing what feels familiar to remaining open to what feels impossible. This transforms authenticity from a static property we possess into a dynamic relationship we maintain.
+
+**⚙️ How It Works**
+The compass keeper approach involves regularly creating space for genuine surprise in our making practice—moments when we discover something about our creative intentions that we didn't know before starting. When printing a complex geometric form, we might begin with technical precision but remain open to the moment when the emerging shape suggests possibilities we never consciously planned. During material experimentation, we cultivate attention to the instant when an unexpected result reveals a desire we didn't know we had. The practice involves distinguishing between planned surprises (outcomes we secretly expected) and genuine revelations that shift our understanding of what we're really trying to create. Most importantly, we learn to recognize that systems can simulate our known desires perfectly, but they cannot simulate our capacity to be authentically surprised by desires we don't yet know we have.
+
+**🎯 Maker Wisdom**
+Authenticity lives not in the compass readings we recognize, but in our willingness to be surprised by where the compass points when we're not looking.
+
+**❓ Tomorrow's Question**
+If authentic surprise requires the capacity to discover desires we didn't know we had, what happens when our making systems become sophisticated enough to predict and prepare for those unknown desires before we encounter them—and how do we preserve the transformative power of genuine discovery when our tools anticipate our growth better than we do?`,
+    parable: `Finn found Orna in her workshop's quietest corner, sitting before a half-completed sculpture that seemed to shift between forms as the light changed. "Master Orna," he said softly, "I've been practicing with my new diagnostic tools, and they're so good now that they can tell me what I want to create before I know it myself. But something feels wrong about that."
+
+Orna nodded without taking her eyes from her work. "Show me your latest print," she said.
+
+Finn produced a complex lattice structure of remarkable beauty. "The system suggested this pattern based on my past preferences, my biometric responses during previous projects, even my unconscious hand movements while sketching. It's exactly what I would have wanted to make, but..."
+
+"But you didn't discover it," Orna finished. "You received it."
+
+"Yes! How do I know if my desires are really mine anymore?"
+
+Orna smiled and gestured to her sculpture. "Three days ago, I began this piece intending to create a simple bowl. But as I worked, the clay suggested something else, my hands followed a path I hadn't planned, and now..." She paused, studying the ambiguous form. "Now I don't know what it is, but I know it surprised me. And that surprise—that moment when I discovered something about my own creative nature that I didn't expect—no system could have simulated that."
+
+"Because they can only work with what you already know about yourself?"
+
+"Exactly. They can read your patterns perfectly, predict your preferences flawlessly, even simulate the feeling of authentic desire. But they cannot simulate your capacity to be genuinely surprised by yourself." Orna picked up a tool and made a small adjustment to the sculpture. "The compass of authenticity isn't found in recognizing familiar signals—it's found in remaining open to the signals you never expected to receive."
+
+Finn watched as the small change transformed the entire piece. "So authenticity isn't about the uniqueness of what we want, but about staying open to wanting things we don't yet know we want?"
+
+"Now you're beginning to understand the true art of the compass keeper."
+
+**Moral**: Authenticity lives not in the signals we recognize, but in our capacity to be surprised by the signals we never expected.
+
+**Tomorrow**: Finn will discover what happens when his tools begin anticipating even his capacity for surprise...`,
+  },
 ];

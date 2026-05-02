@@ -4631,4 +4631,79 @@ Sable nodded thoughtfully. "Wealth-building is like that rope circle. Those who 
 
 *Tomorrow, we shall explore why our culture's promise of endless options might be the very thing that ensures we achieve nothing of lasting value.*`,
   },
+  {
+    day: 71,
+    title: "The Power of Decisive Commitment",
+    date: "2026-05-02",
+    image: "images/financial-independence/day-71.jpg",
+    audio: "audio/financial-independence/day-71",
+    sonnet: `**🪶 Sonnet LXXI: The Power of Decisive Commitment**
+
+The gardener's shears cut branches green and bright,
+Not from malice, but from wisdom's call,
+For trees that spread their growth in every sight
+Bear withered fruit, or none at all.
+The farmer who plants seeds in scattered rows
+Will harvest little from his restless toil,
+But he who tends one crop through sun and snows
+Extracts rich bounty from devoted soil.
+So too the mind that chases every dream
+Grows weak from wanting all, achieving none,
+While focused effort, flowing like a stream
+Carves canyons deep when patience has begun.
+*Choose well thy path, then walk with steady feet—*
+*Commitment's constraint makes freedom complete.*`,
+    standard: `💰 Day 71: The Power of Decisive Commitment
+
+Meaningful achievement requires decisive commitment because mastery emerges only through sustained focus on specific pursuits. Our culture's obsession with keeping all options open creates perpetual beginners who never develop the depth necessary for extraordinary results, mistaking endless possibility for actual freedom while remaining trapped in mediocrity.
+
+🧱 **The Concept**
+Decisive commitment—choosing one path and closing others—creates exponential returns through compound expertise and deep specialization.
+
+❓ **Why It Matters**
+While keeping options open feels safe, it prevents the focused effort required for mastery. True freedom comes not from having infinite choices, but from becoming exceptionally capable in chosen domains. The paradox is that limitation creates liberation.
+
+⚙️ **How It Works**
+When you commit decisively to specific investments, careers, or relationships, you unlock compound returns unavailable to those who diversify their attention. A focused investor who masters index fund investing for decades outperforms someone constantly switching strategies. A committed relationship develops intimacy impossible through endless dating. Professional mastery requires years of deliberate practice in narrow domains—surgeons don't also try to master law, accounting, and engineering. The constraint of choice enables the expansion of capability.
+
+🎯 **Buffett Wisdom**
+"Our investment philosophy borders on lethargy." Buffett's extraordinary returns came from committed focus on his chosen approach, not from keeping investment options open.
+
+❓ **Tomorrow's Question** — If decisive commitment creates such superior results through compound expertise, why does modern society systematically train people to avoid commitment and keep options open, and what does this reveal about whether our educational and economic systems are designed to create masters or to create perpetual consumers?`,
+    parable: `The morning mist clung to the village paths as Kael found Sable tending to his garden with unusual intensity. The elder worked methodically, pruning branches with deliberate precision.
+
+"Grandfather," Kael began, "I've been thinking about what you said about choosing constraints. But how do I know which path to commit to? What if I choose wrong?"
+
+Sable paused, his weathered hands still gripping the pruning shears. "Tell me, boy, what do you see when you look at this apple tree?"
+
+Kael studied the gnarled branches. "I see... many possibilities? Each branch could grow in different directions."
+
+"Exactly." Sable made a decisive cut, removing a healthy branch. "And that is why it produces weak fruit. Watch." He pointed to another tree nearby, its branches carefully shaped through years of deliberate pruning. Heavy, golden apples hung from its focused limbs.
+
+"But you cut away good branches!" Kael protested.
+
+"I chose which branches would receive all the tree's energy," Sable replied. "A tree that tries to grow everywhere grows nowhere well. The branches I removed might have borne fruit, but the ones I kept bear exceptional fruit."
+
+Tobren approached, carrying his harvest tools. "The elder speaks truth, young Kael. I learned this lesson with my land. For years, I planted a little of everything—wheat, barley, vegetables, fruits. I told myself I was keeping options open, reducing risk. But I never mastered any single crop."
+
+"What changed?" Kael asked.
+
+"I chose," Tobren said simply. "I studied my soil, my climate, my market. Then I committed entirely to growing the finest wheat in three villages. I learned every secret of wheat cultivation—soil preparation, seed selection, harvesting timing. The knowledge compounded. My yields doubled, then tripled. My wheat commanded premium prices."
+
+Sable nodded approvingly. "The paradox, Kael, is that by closing options, we create greater possibilities. The uncommitted farmer grows mediocre everything. The committed farmer grows exceptional something."
+
+"But what if Tobren had chosen wrong?" Kael pressed.
+
+"Then I would have learned deeply about failure," Tobren replied, "which is more valuable than learning shallowly about many mediocre successes. Deep knowledge, even of failure, creates wisdom. Shallow knowledge creates only confusion."
+
+Sable resumed his pruning. "Modern folk fear commitment because they mistake infinite options for freedom. But the youth who cannot choose a career remains forever an apprentice. The investor who cannot choose a strategy remains forever a beginner. The lover who cannot choose a partner remains forever lonely."
+
+"True freedom," Tobren added, "comes from becoming so skilled at your chosen path that you can walk it with eyes closed."
+
+As the morning sun burned away the mist, Kael watched the elder make another decisive cut. The tree seemed to sigh with relief, its remaining branches already reaching toward the light with renewed vigor.
+
+**Moral:** Decisive commitment creates exponential mastery, while keeping all options open creates perpetual mediocrity.
+
+**Tomorrow:** Sable will reveal why modern systems actively discourage the very commitments that create masters.`,
+  },
 ];

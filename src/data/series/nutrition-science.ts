@@ -4116,4 +4116,67 @@ Maren moved to her herb cabinet and selected several plants. "Today, instead of 
 
 *Tomorrow, Maren will reveal why protecting students from advanced knowledge too early is actually the most compassionate form of teaching...*`,
   },
+  {
+    day: 67,
+    title: "The Timing of Truth",
+    date: "2026-05-02",
+    image: "images/nutrition-science/day-67.jpg",
+    audio: "audio/nutrition-science/day-67",
+    sonnet: `**🪶 Sonnet LXVII: The Timing of Truth**
+
+The eager student begs for hidden lore,
+But wisdom has its season, like the grain
+That planted green will wither at the core—
+Too early sown brings only toil and pain.
+The master gardener knows when soil is ready,
+When roots run deep enough to hold the weight
+Of truths that shake foundations, strong and steady—
+For premature knowledge seals a different fate.
+As muscles torn by burdens far too great
+Grow weak instead of mighty through the trial,
+So minds that gulp down wisdom cannot wait
+Will choke on insight, barren and sterile.
+*The teacher's gift: to guard the sacred door*
+*Until the student's earned what they implore.*`,
+    standard: `🍎 Day 67: The Timing of Truth
+
+When teachers share insights too quickly, they rob students of the crucial struggle that builds genuine understanding—like giving someone the answers to a puzzle before they've wrestled with the pieces. Premature knowledge becomes mere information rather than embodied wisdom, often creating students who can repeat concepts without truly comprehending their meaning or application.
+
+🧱 **The Concept**
+Knowledge has its own metabolism—a precise timing for when it can be properly digested and integrated.
+
+❓ **Why It Matters**
+Just as your body can only absorb certain amounts of nutrients at specific times, your mind and nervous system can only integrate profound insights when they arrive at the right developmental moment. When wisdom comes too early, it often creates intellectual understanding without somatic integration, leaving people with metabolic knowledge that feels disconnected from their lived experience.
+
+⚙️ **How It Works**
+Consider someone learning to read their hunger cues—a teacher might want to explain the intricate dance between ghrelin, leptin, and insulin, but this complex biochemical knowledge often overwhelms someone who hasn't yet learned to simply pause and ask "Am I actually hungry?" The student who masters basic body awareness first will later understand the hormonal mechanisms with deeper appreciation and practical application. Similarly, sharing advanced concepts about metabolic flexibility with someone still struggling with basic meal consistency can create analysis paralysis rather than embodied wisdom. The most effective teachers become master gardeners of readiness, sensing when soil conditions are optimal for each seed of knowledge.
+
+🎯 **Science Wisdom**
+True metabolic education follows the same principles as metabolic function—optimal timing and proper sequencing create the conditions where information becomes transformation.
+
+❓ **Tomorrow's Question** — *If knowledge has its own optimal timing for integration, what happens when students become addicted to the learning process itself and resist actually applying what they've discovered—and why might this perpetual seeking actually become a sophisticated form of avoiding the vulnerability required for real metabolic change?*`,
+    parable: `"Master Maren," Lila said one morning, her notebook filled with careful observations, "when will you teach me about the deep mysteries you mentioned—the ones about how the three hearths speak to the body's ancient wisdom?"
+
+Maren smiled, continuing to grind herbs at her mortar. "Tell me, child, what have you learned about the first hearth these past weeks?"
+
+"Well, I know it governs hunger and satiation, and I've been practicing feeling the difference between physical hunger and emotional craving." Lila's voice carried a note of impatience. "But surely there's more—complex teachings about timing and molecular signals?"
+
+"Indeed there are," Maren replied, setting down her pestle. "Watch." She lifted a heavy stone from beside the hearth and placed it in Lila's hands. "Carry this to the river and back."
+
+Lila struggled with the weight but managed the task, returning breathless. "Now," Maren said, placing a second, larger stone in her arms, "carry both."
+
+Lila could barely lift them together, her legs shaking with effort. "Master, I cannot—it's too much."
+
+"Precisely," Maren said gently, taking the stones away. "Your muscles must strengthen gradually, each fiber adapting to increased load. Knowledge works the same way. The deeper mysteries I could share would be like giving you all the stones at once—you would collapse under their weight rather than grow stronger."
+
+She gestured to Lila's notebook. "You think you're ready for advanced teachings because you understand the concepts. But understanding and embodying are as different as reading about fire and feeling its warmth. The student who masters simple hunger awareness will later grasp complex hormonal rhythms with profound clarity. The one who skips this foundation will know much and understand little."
+
+Lila looked down at her hands, still trembling from the stones' weight. "So the timing of teaching..."
+
+"Is everything," Maren finished. "I protect you from premature knowledge not because I wish to withhold wisdom, but because I love you enough to let you earn it properly. Only then will it transform you rather than merely inform you."
+
+**Moral**: True teachers are gardeners of readiness, knowing that wisdom given too early becomes mere information, while wisdom earned through proper preparation becomes transformation.
+
+*Tomorrow, Maren will reveal what happens when students become so enchanted with the learning itself that they forget to live what they've discovered.*`,
+  },
 ];

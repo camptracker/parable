@@ -378,4 +378,66 @@ Riven watched their reflection shift through dozens of moments where they had ch
 
 **Tomorrow**: The Mirror reveals why we unconsciously seek the familiar pain of our earliest wounds.`,
   },
+  {
+    day: 7,
+    title: "The Projection Screen",
+    date: "2026-05-02",
+    image: "images/relationship-games/day-7.jpg",
+    audio: "audio/relationship-games/day-7",
+    sonnet: `**🪶 Sonnet VII: The Projection Screen**
+
+Upon the canvas of another's face,
+We paint the portraits of our deepest need—
+The absent father, mother's cold embrace,
+The savior who might make our heart hearts bleed.
+
+Each lover cast in old familiar roles,
+Their words and actions filtered through our pain,
+We script their lines to heal our wounded souls,
+Yet wonder why our love brings only strain.
+
+The unavailable becomes our quest,
+The charming one our long-awaited cure,
+We love the roles, not who they are expressed,
+And build on ground that cannot long endure.
+
+*To love them true, we must first learn to see*
+*The person past our own mythology.*`,
+    standard: `🎭 Day 7: The Projection Screen
+
+We distinguish genuine compatibility from trauma repetition by observing whether a relationship increases our nervous system regulation and authentic self-expression, or whether it requires us to constantly adapt, perform, or chase validation. True compatibility feels easeful and expansive; trauma bonds feel intense but constricting. The key indicator is whether you're responding to who someone actually is, or to what they represent from your past.
+
+**🧱 The Concept**
+We often fall in love with our projections rather than the person in front of us, seeing them through the lens of our unhealed wounds, unmet needs, and unconscious fantasies.
+
+**❓ Why It Matters**
+When we project our internal landscape onto others, we create relationships with ghosts instead of humans. This leads to devastating disappointment when reality inevitably crashes through our illusions. Understanding projection helps us see clearly and choose consciously.
+
+**⚙️ How It Works**
+Projection operates like a psychological movie theater where we cast others in roles from our internal script. The unavailable person becomes our withholding parent; the charming manipulator becomes the rescuer we've always needed; the person who "gets us" might simply reflect our own narcissistic tendencies back to us. We interpret their actions through our unprocessed experiences, often attributing motives, feelings, and intentions that exist primarily in our own psyche. For example, someone might pursue a partner who's emotionally distant because they're projecting the fantasy that "winning" this person will finally heal their childhood abandonment wound.
+
+**🎯 Relationship Strategy Wisdom**
+Learn to ask: "Am I responding to who this person actually is, or to what I need them to represent?" The most powerful question in dating is often the simplest: "What evidence do I have that this is true?"
+
+**❓ Tomorrow's Question** — If our projections are so convincing that they feel more real than reality itself, how can we develop the psychological sophistication to love someone for who they are rather than who we desperately need them to be?`,
+    parable: `Riven wandered through the Hall of Mirrors, each reflection showing a different version of love. In one mirror, they saw themselves chasing someone who looked exactly like their first heartbreak. In another, they pursued someone who promised to fill the void their absent father had left.
+
+"You see lovers everywhere," The Mirror observed, materializing beside them, "but do you see the people?"
+
+"What do you mean?" Riven asked, touching a reflection where they gazed adoringly at someone who bore an uncanny resemblance to their idealized mother.
+
+"You cast each new person in the same old play," The Mirror replied. "The unavailable one becomes your withholding parent. The charming one becomes your savior. The one who validates you becomes your perfect mirror. But none of them get to be themselves."
+
+Riven watched their reflections shift and change. "But it feels so real when I meet someone who fits..."
+
+"Of course it does. Your psyche is a master storyteller, weaving narratives so compelling they feel like destiny. But love built on projection is love built on quicksand."
+
+In the final mirror, Riven saw themselves sitting quietly with someone whose face was completely clear—no shadows from the past, no desperate hopes for the future, just presence meeting presence.
+
+"How do I get there?" they whispered.
+
+"By learning to see what is, rather than what you need to be true," The Mirror said, beginning to fade. "Tomorrow, we'll explore how the stories you tell yourself can become prisons that even the most willing love cannot break..."
+
+**Moral:** We often love our projections more than we love people, creating relationships with our own reflections rather than with another human soul.`,
+  },
 ];

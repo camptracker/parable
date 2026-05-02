@@ -4055,4 +4055,70 @@ Tova watched Chen straighten with purpose. "The difference between welcome and e
 
 Tomorrow: When fresh eyes meet seasoned wisdom, what revolutionary insights emerge from the collision?`,
   },
+  {
+    day: 65,
+    title: "The Beginner's Advantage",
+    date: "2026-05-02",
+    image: "images/leadership/day-65.jpg",
+    audio: "audio/leadership/day-65",
+    sonnet: `**🪶 Sonnet LXV: The Beginner's Advantage**
+
+When fresh eyes meet the fortress of the known,
+And naive questions pierce through weathered walls,
+The newcomer sees seeds that time has sown
+In blind spots where experienced wisdom falls.
+
+The veteran's strength lies in what they've learned,
+Yet learning builds both bridges and barriers high,
+While assumptions, like habits, long-confirmed,
+Can blind the expert to the question "why?"
+
+The beginner asks what masters dare not speak,
+Unburdened by the weight of "how it's done,"
+Their innocence makes sacred barriers weak,
+Revealing paths that expertise had shunned.
+
+*When wisdom weds the courage of the new,*
+*Impossible becomes possible and true.*`,
+    standard: `👥 Day 65: The Beginner's Advantage
+
+This collision between established expertise and naive questions reveals that innovation often requires the courage to question what everyone assumes is settled. Fresh perspectives see possibilities that experience has taught us to dismiss, while newcomers ask "why" about processes that veterans perform automatically. When we revere institutional knowledge above inquiry, we inadvertently create sacred cows that graze in the fields where our breakthroughs should be growing.
+
+🧱 **The Concept**
+The most transformative insights often come from those who don't yet know what's "impossible."
+
+❓ **Why It Matters**
+Experience creates expertise, but it also creates blind spots and assumptions that can calcify into barriers. The beginner's mind sees constraints as puzzles to solve rather than immutable facts to accept. When leaders learn to value fresh eyes as much as seasoned judgment, they unlock innovation that neither group could achieve alone.
+
+⚙️ **How It Works**
+When a new engineer asks why a process takes three days when it seems like it should take three hours, they're not revealing ignorance—they're revealing opportunity. When a recent hire questions why meetings always follow the same format, they're identifying efficiency gaps that tenure has made invisible. **Beginner's advantage** emerges when curiosity meets capability: the newcomer's willingness to question everything combines with the veteran's knowledge of how to make change happen. Smart leaders create systematic opportunities for these collisions—pairing new hires with experienced team members not just for training, but for mutual discovery. They establish "assumption audits" where fresh perspectives are specifically invited to challenge established practices.
+
+🎯 **Leadership Wisdom**
+The leader who protects beginners' questions protects the organization's capacity for breakthrough thinking.
+
+❓ **Tomorrow's Question** — If you discovered that your most experienced team members were unconsciously training new hires to stop asking the very questions that could revolutionize your industry, what would this reveal about the difference between teaching people how to fit in versus teaching them how to think independently?`,
+    parable: `Tova found herself in Greymane's study, watching him sketch ship modifications with surprising enthusiasm. "I've been thinking about what you said," she began, "about listening to the crew. But there's something puzzling me."
+
+Greymane set down his pencil. "The newest sailor?"
+
+"Exactly. Kael joined us three weeks ago, never been to sea before. Yesterday he asked me why we always secure the rigging in the same pattern our grandfathers used." Tova shook her head. "I nearly dismissed it as ignorance."
+
+"But you didn't."
+
+"Something in his tone made me pause. So I asked him what he'd do differently." She pulled out a rough sketch. "He suggested this configuration—said it looked more balanced, like the sails on the fishing boats in his village."
+
+Greymane studied the drawing, his eyes widening. "This could reduce wind resistance by twenty percent."
+
+"My master rigger said the same thing, once he stopped being offended by a landlubber's suggestion." Tova sat heavily. "How many innovations have I missed because I assumed experience always trumps fresh eyes?"
+
+"The greatest captains I knew," Greymane said slowly, "were those who realized that every 'foolish' question from a newcomer was actually a wisdom test for the veterans. Your crew's knowledge is vast, but it's also bounded by what they've always known to be true."
+
+Tova nodded. "Kael doesn't know that certain things are 'impossible'—so he sees possibilities we've trained ourselves not to see."
+
+"Exactly. The beginner's advantage isn't ignorance—it's freedom from the constraints that experience can accidentally create."
+
+**Moral:** *The leader who dismisses the newcomer's naive questions may be dismissing the keys to breakthrough innovation.*
+
+*Tomorrow, Greymane would reveal how even the most experienced team members could rediscover the power of beginner's mind...*`,
+  },
 ];

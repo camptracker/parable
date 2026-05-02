@@ -4265,4 +4265,64 @@ The harbor grew quiet except for the lapping of waves against hulls, as if the v
 
 *Tomorrow, Ren will discover what happens when the invisible jury renders its verdict in real time...*`,
   },
+  {
+    day: 67,
+    title: "The Tribunal of Trust",
+    date: "2026-05-02",
+    image: "images/negotiation/day-67.jpg",
+    audio: "audio/negotiation/day-67",
+    sonnet: `**🪶 Sonnet LXVII: The Tribunal of Trust**
+
+Behind each choice stand witnesses unseen,
+The ghosts of all who placed their faith in you—
+Your mentor's voice, your mother's eyes serene,
+Each friend who swore your character was true.
+
+They form a jury in the mind's great hall,
+Their expectations weighing every word,
+As if your answer will determine all
+The trust that through the years you've carefully stirred.
+
+To disappoint them feels like perjury
+Before a court that knows your truest heart,
+For they believed when others couldn't see
+The noble soul they knew would play its part.
+
+*When faith itself becomes the judge's gaze,*
+*Refusal feels like treason to their praise.*`,
+    standard: `🤝 Day 67: **The Tribunal of Trust**
+
+When you make someone feel like they're standing trial before an invisible jury of everyone who ever believed in them, you transform every refusal into a verdict of self-condemnation. This creates the psychological sensation of being cross-examined by their own history of promises and relationships. The person begins to feel that saying "no" would require them to look their invisible jury in the eye and admit they were never worthy of their faith.
+
+🧱 **The Concept**
+The Tribunal of Trust makes someone feel like their decision is being witnessed and judged by every person who ever invested confidence in their character.
+
+❓ **Why It Matters**
+People will endure almost any cost to avoid feeling like a fraud before those who believed in them. When you make someone conscious of this invisible audience, their decision becomes less about your request and more about maintaining their standing before a court of character witnesses they cannot dismiss.
+
+⚙️ **How It Works**
+You invoke specific people who trusted them: "I keep thinking about what your mentor Sarah would say if she knew you had this opportunity" or "Your daughter talks about how proud she is that you always do the right thing." You make them feel observed by these trust-givers, as if their response will be reported back. The key is making them feel like these people aren't just watching, but actively rooting for them to be the person they believed them to be. You're not threatening exposure—you're making them feel the weight of justified faith.
+
+🎯 **Negotiation Wisdom**
+When someone feels witnessed by those who believe in them, refusal becomes self-betrayal before a jury of their own choosing.
+
+❓ **Tomorrow's Question** — If making someone feel witnessed by believers transforms negotiation into character validation, what happens when you make them feel like the very act of being asked proves those believers were right about them all along—that your request itself is evidence of their worthiness?`,
+    parable: `The merchant Ren found himself before Vasska's stall as storm clouds gathered overhead, clutching a contract that would save his family's business but required a partnership with questionable traders. His hands trembled not from the cold wind, but from the weight of decision.
+
+Vasska studied him with his seeing eye, then spoke softly: "Tell me, young merchant—who taught you to read contracts?"
+
+"My father," Ren whispered. "Before he died, he made me promise to build something worthy of our name."
+
+"And your wife—what does she say when neighbors ask about your business?"
+
+Ren's throat tightened. "She tells them I'm the most honest trader in the district. That they can trust anything bearing my seal."
+
+Vasska nodded slowly. "I see them now, standing behind you. Your father's ghost, your wife's pride, every customer who sleeps peacefully because they trust your word. They're all here, watching, waiting to see if their faith was justified." His silver tongue caught the light as he smiled. "The question isn't whether this contract is profitable, boy. The question is whether you can sign it while looking them in the eye."
+
+Ren's hand moved away from the contract as if it burned. In that moment, he realized he wasn't just making a business decision—he was standing trial before everyone who had ever believed in him.
+
+The thunder rolled, and Vasska's eye gleamed with ancient knowledge. "When a man feels the weight of earned trust, he discovers what he truly values."
+
+But tomorrow, Ren would learn something even more powerful: what happens when someone realizes that being trusted with an important decision is itself proof of their character.`,
+  },
 ];

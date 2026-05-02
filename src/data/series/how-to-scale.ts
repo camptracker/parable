@@ -3989,4 +3989,64 @@ As Vex committed to stone, he felt both the pain of abandoned possibilities and 
 
 *Tomorrow, Ironmere would reveal why certain choices, once made in crisis, develop their own gravity that prevents any return to flexibility...*`,
   },
+  {
+    day: 66,
+    title: "The Complexity Appetite Recovery",
+    date: "2026-05-02",
+    image: "images/how-to-scale/day-66.jpg",
+    audio: "audio/how-to-scale/day-66",
+    sonnet: `**🪶 Sonnet LXVI: The Complexity Appetite Recovery**
+
+When crystal clarity becomes a cage of glass,
+And simple answers bind what once ran free,
+The organization's growth begins to pass
+Into a realm of stark simplicity.
+
+Yet breakthrough innovation demands the skill
+To dance within ambiguity's embrace,
+Where nuanced questions bend the eager will
+And paradox illuminates the space.
+
+The master builders cultivate the art
+Of choosing complexity's appropriate dose—
+Neither chaos wild nor order's rigid heart,
+But measured challenge where the wisdom grows.
+
+*For those who feast on problems undefined*
+*Possess the most adaptive, flexible mind.*`,
+    standard: `🚀 Day 66: The Complexity Appetite Recovery
+
+Permanent clarity zones become strategic anchors that prevent organizations from developing the complexity appetite needed for their next growth phase. While these zones initially solve urgent decision-making bottlenecks, they eventually create "simplicity addiction" where leaders lose their capacity to navigate the nuanced, paradox-rich environments required for breakthrough innovation. The most successful organizations recognize when their clarity zones have become growth constraints and deliberately reintroduce managed complexity to rebuild their teams' tolerance for ambiguity.
+
+🧱 **The Concept**
+Complexity appetite is an organization's capacity to operate effectively within ambiguous, multi-layered environments where simple answers don't exist.
+
+❓ **Why It Matters**
+Organizations that lose their complexity appetite become vulnerable to disruption by competitors who can navigate nuanced market conditions. Simple clarity zones work well for execution, but breakthrough innovation and strategic adaptation require teams that can thrive within productive uncertainty.
+
+⚙️ **How It Works**
+Successful companies deliberately create "complexity training grounds" where teams practice making decisions with incomplete information. They establish "ambiguity quotas" requiring certain percentages of strategic initiatives to operate without clear success metrics. Leaders rotate between clarity zones and complexity zones to maintain cognitive flexibility. They measure and reward "productive confusion" — the ability to make progress despite uncertainty. Most importantly, they create safe-to-fail experiments in high-ambiguity environments where teams can build confidence with complex challenges.
+
+🎯 **Scaling Wisdom**
+The ability to choose your optimal complexity level — rather than defaulting to either pure clarity or chaotic ambiguity — becomes a core organizational capability.
+
+❓ **Tomorrow's Question** — If complexity appetite training creates such powerful adaptive advantages, why do the most successful organizations eventually establish "complexity resistance protocols" that prevent their teams from taking on more ambiguity than their current systems can actually handle?`,
+    parable: `Vex stood before a crystalline structure he had spent months perfecting — every angle precise, every joint flawlessly aligned. The workshop hummed with mechanical efficiency.
+
+"Beautiful work," Ironmere observed, running weathered fingers along the pristine edges. "Tell me, what happens when your clients need something that doesn't fit these perfect specifications?"
+
+"I adapt the specifications," Vex replied confidently. "Clear standards make everything possible."
+
+Ironmere smiled knowingly. "I once designed a district with perfect geometric streets — every intersection a right angle, every building height precisely regulated. It was magnificent. And completely unable to grow."
+
+He gestured toward the workshop's gleaming organization. "The city I built after that? Crooked streets, irregular plots, buildings that seemed to argue with each other. Merchants thought it was chaos. But when the trade winds shifted and new technologies emerged, that 'chaotic' district adapted instantly. The perfect district? Still beautiful. Still perfectly obsolete."
+
+Vex frowned. "But surely some order is necessary?"
+
+"The master builder learns to dance between order and chaos," Ironmere said, deliberately misplacing one of Vex's carefully arranged tools. "Sometimes you need crystal clarity. Sometimes you need comfortable confusion. The wisdom lies in knowing which appetite to cultivate for each challenge."
+
+**Moral**: *The capacity to digest complexity is as valuable as the ability to create clarity.*
+
+*Tomorrow, Ironmere will reveal why even the most complexity-tolerant organizations eventually develop systems to protect themselves from their own ambitious appetite for challenge...*`,
+  },
 ];

@@ -3855,4 +3855,72 @@ Dove felt a shift in her chest, a settling into something larger than her own an
 
 *Tomorrow: Dove and Elm discover what happens when your relationship becomes a living example rather than a perfect performance...*`,
   },
+  {
+    day: 62,
+    title: "The Sacred Modeling",
+    date: "2026-05-02",
+    image: "images/wedding-planning/day-62.jpg",
+    audio: "audio/wedding-planning/day-62",
+    sonnet: `**🪶 Sonnet LXII: The Sacred Modeling**
+
+When chaos strikes and plans begin to fray,
+Do lovers turn toward each other's hearts,
+Or do they let the stress push them away
+And blame each other as their union parts?
+
+The watching couples learn from what they see—
+How partnership can weather any storm,
+If hands reach out instead of turning free,
+If grace becomes their matrimonial norm.
+
+For weddings are not perfect pantomimes,
+But masterclasses in the art of love,
+Where real-time struggles in these sacred times
+Reveal what true devotion's made up of.
+
+*So let your unity in chaos shine—*
+*Your love becomes their template and design.*`,
+    standard: `💍 Day 62: The Sacred Modeling
+
+If every couple would unconsciously model their relationship after what they observe in yours, the most powerful dynamic to demonstrate would be how you turn toward each other during stress rather than away—how pressure becomes an invitation for deeper connection rather than a catalyst for distance. This means showing how you actively choose curiosity over defensiveness, how you protect each other's dignity even when frustrated, and how you find ways to laugh together even when things feel overwhelming.
+
+**The Concept**
+Your wedding day is a masterclass in marriage that every couple present will internalize as a template for their own relationship possibilities.
+
+**Why It Matters**
+Most people have never witnessed a couple navigate real-time stress with grace, unity, and affection—they've only seen either perfect performances or destructive patterns. Your wedding offers a rare opportunity to model what healthy partnership actually looks like when life gets messy. The way you treat each other when the flowers are wrong, when Uncle Ted gives an inappropriate speech, or when the photographer is running late will teach every watching couple more about love than any vows you speak.
+
+**How It Works**
+When something goes wrong, you physically move closer to your partner rather than farther away—reaching for their hand instead of crossing your arms. You speak about problems as "us against the issue" rather than "you caused this problem." If your partner is stressed, you become their advocate rather than their critic, saying things like "How can we figure this out together?" instead of "I told you this would happen." You catch each other's eyes during difficult moments and share a look that says "we're in this together" rather than "this is your fault." Most importantly, you demonstrate that love isn't the absence of problems—it's the presence of partnership in solving them.
+
+**Wedding Wisdom**
+The greatest gift you can give your wedding guests isn't a perfect celebration—it's a real-time demonstration of how two people can remain loving allies even when everything around them feels chaotic.
+
+**Tomorrow's Question** — If you discovered that the way you and your partner support each other's individual authenticity on your wedding day would determine whether your marriage cultivates or diminishes each of your unique gifts over time, what would that change about how you plan to honor what makes each of you distinctly yourselves during your celebration?`,
+    parable: `Dove stood frozen in the hotel suite, staring at the email on her phone. The caterer had mixed up their order—half the reception dinner would be vegetarian when most of their guests expected meat. The florist was running two hours late. And somehow, despite triple-checking, the musicians had the wrong start time.
+
+"This is a disaster," she whispered, feeling her chest tighten.
+
+Elm appeared beside her, having sensed her distress from across the room. Instead of asking what was wrong or offering solutions, he simply wrapped his arms around her from behind and rested his chin on her shoulder.
+
+"Tell me," he said quietly.
+
+As Dove explained each crisis, she felt something shift. Elm didn't interrupt with fixes or express frustration about the vendors. He listened completely, occasionally asking gentle questions that helped her think through options rather than spiral into panic.
+
+"Okay," he said finally. "Which one feels most important to you right now?"
+
+Dove considered. "Honestly? None of them. What feels important is that we're handling this together instead of falling apart separately."
+
+Elm turned her around to face him. "Want to know what I see when I look at you right now? I see someone who could handle anything life throws at us. And I see why I chose exactly the right person to marry."
+
+Nana Rose, who had been quietly observing from the doorway, stepped forward with a gentle smile. "In sixty years of weddings, I've learned something profound," she said. "Your guests won't remember whether the flowers arrived on time. But every couple in that room will remember how you two chose to treat each other when everything went sideways. You're not just getting married today—you're teaching everyone present what marriage can look like."
+
+She gestured toward the window, where their wedding party was gathered on the terrace below, unaware of any problems. "See how they're watching you both? They're not looking at the decorations or judging the timeline. They're studying how you navigate this together. And what they're learning right now will influence how they handle stress in their own relationships for years to come."
+
+Dove looked down at Elm's hands holding hers and realized that somehow, in the midst of wedding chaos, she felt more connected to him than ever.
+
+**Moral:** The greatest wedding gift you can offer your guests is not a flawless celebration, but a authentic demonstration of how two people can remain loving partners even when life becomes unpredictable.
+
+**Tomorrow:** Discover how honoring each other's individual authenticity during your celebration shapes whether your marriage will cultivate or diminish your unique gifts over time.`,
+  },
 ];

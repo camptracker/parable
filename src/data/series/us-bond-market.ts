@@ -533,4 +533,64 @@ Maya nodded, finally understanding why Garrison called credit spreads the "oracl
 
 *Tomorrow, Maya will discover why this oracle sometimes speaks in riddles, with different sectors telling contradictory stories about the same economic moment...*`,
   },
+  {
+    day: 10,
+    title: "The Inflation Expectation Engine",
+    date: "2026-05-02",
+    image: "images/us-bond-market/day-10.jpg",
+    audio: "audio/us-bond-market/day-10",
+    sonnet: `**🪶 Sonnet X: The Inflation Expectation Engine**
+
+When TIPS and breakevens tell their tale so true,
+Of future price spirals the Fed can't see,
+The market votes with bonds on what they'll do—
+Inflation's ghost haunts monetary decree.
+
+Each basis point shift speaks of trust or doubt,
+In central bankers' power to control
+The ancient demon they would cast about,
+While breakeven spreads reveal the market's soul.
+
+The five-year forward rate looks further still,
+Beyond today's crisis to tomorrow's pain,
+Where credibility bends to market will,
+And Powell's promises prove just refrain.
+
+*For in these bonds that dance with CPI's fire,*
+*Lives truth that makes or breaks desire's empire.*`,
+    standard: `📊 Day 10: The Inflation Expectation Engine
+
+Credit spreads fragment across sectors because markets price risk through specialized knowledge networks, not universal algorithms. A healthcare bond trader understands regulatory risk differently than an energy specialist grasps commodity exposure—this fragmentation actually makes markets more efficient by incorporating diverse expertise into pricing. The supposed "harmony" textbooks predict would signal dangerous groupthink, not market wisdom.
+
+🧱 **The Concept**
+Treasury Inflation-Protected Securities (TIPS) and breakeven inflation rates reveal what bond markets truly expect inflation to be, creating a real-time gauge of monetary credibility.
+
+❓ **Why It Matters**
+When TIPS pricing diverges from Fed projections, it signals either market disbelief in central bank control or hidden inflationary pressures the Fed hasn't acknowledged. This divergence often predicts policy pivots months before they happen.
+
+⚙️ **How It Works**
+TIPS adjust their principal based on CPI changes, while regular Treasuries stay fixed—the yield difference (breakeven rate) shows expected inflation. When 10-year breakevens spike above 3%, markets signal inflation concerns; when they fall below 1.5%, deflation fears emerge. During 2021-2022, breakevens surged to 3.6% while the Fed insisted inflation was "transitory," correctly predicting the aggressive rate hikes that followed. The 5-year/5-year forward breakeven—inflation expected five years from now, five years out—reveals long-term Fed credibility.
+
+🎯 **Bond Wisdom**
+Inflation expectations drive everything else in bonds; when markets lose faith in central bank inflation control, even "safe" government debt becomes risky.
+
+❓ **Tomorrow's Question** — If TIPS are designed to protect against inflation perfectly, why do they sometimes lose value during actual inflationary periods, and what does this paradox reveal about the difference between protecting wealth and making money in an inflationary environment?`,
+    parable: `Maya stared at her screens in bewilderment. "Garrison, I don't understand. Healthcare credit spreads are widening while energy spreads tighten, even though both sectors face similar macro headwinds. Shouldn't risk move in lockstep?"
+
+Garrison chuckled, adjusting his reading glasses. "Child, you're thinking like a textbook. Markets aren't orchestras playing in perfect harmony—they're jazz ensembles where each instrument tells its own truth." He pulled up sector data. "That healthcare trader down the hall knows Medicare reimbursement schedules better than energy commodity cycles. The energy specialist understands geopolitical supply chains that healthcare folks couldn't fathom. This fragmentation isn't market failure; it's market genius."
+
+"But surely inflation expectations should be universal?" Maya countered, switching to TIPS data.
+
+"Ah, now you're onto something interesting." Garrison's eyes lit up as he examined the breakeven inflation curves. "See this divergence? Ten-year TIPS breakevens at 2.8% while the Fed projects 2.1%. The market is calling the Fed naive." His finger traced the 5-year/5-year forward rate. "And this forward measure shows markets expect inflation control to break down completely in the outer years."
+
+Maya watched the real-time pricing, mesmerized. "So TIPS are like... insurance policies that also predict the future?"
+
+"More than that," Garrison murmured. "They're voting machines for central bank credibility. When breakevens spike, it's not just inflation fear—it's faith in Fed competence evaporating in real-time. Watch: when this spread hits 3.2%, Powell will pivot harder than a Russian ballet dancer."
+
+The afternoon's auction results flashed across their screens—another surge in breakeven rates. Maya realized she was watching monetary authority itself being priced by the market.
+
+**Moral**: True market wisdom lies not in artificial harmony, but in the intelligent discord of specialized knowledge pricing specialized risks.
+
+*Tomorrow, Maya will discover why the very instruments designed to protect against inflation sometimes become inflation's cruelest victims.*`,
+  },
 ];
