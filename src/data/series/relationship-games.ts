@@ -440,4 +440,65 @@ In the final mirror, Riven saw themselves sitting quietly with someone whose fac
 
 **Moral:** We often love our projections more than we love people, creating relationships with our own reflections rather than with another human soul.`,
   },
+  {
+    day: 8,
+    title: "The Reality Testing Protocol",
+    date: "2026-05-03",
+    image: "images/relationship-games/day-8.jpg",
+    audio: "audio/relationship-games/day-8",
+    sonnet: `**🪶 Sonnet VIII: The Reality Testing Protocol**
+
+Through rose-tinted glass we view our heart's desire,
+And paint our loves in shades they never wore,
+While actions speak what words would fain inspire—
+The truth lies not in what they say, but more
+In patterns woven through their daily deeds,
+The garden of their priorities revealed,
+For fantasy may flourish like spring weeds,
+But only observation keeps love real.
+When words and actions dance in discord's song,
+Believe the steps, not lyrics sweetly sung,
+For those who show their care when days grow long
+Speak truths that need no pretty words among.
+*The wise in love learn this eternal art:*
+*To see with clarity, not just the heart.*`,
+    standard: `🎭 Day 8: The Reality Testing Protocol
+
+To love someone for who they are rather than who we need them to be, we must develop what psychologists call "reality testing" — the ability to distinguish between our internal fantasies and external facts. This requires practicing radical curiosity about our partner's actual words, actions, and patterns rather than our hopeful interpretations of them.
+
+**🧱 The Concept**
+Reality testing is the psychological skill of separating what we observe from what we interpret, allowing us to see people's true character rather than our projected hopes.
+
+**❓ Why It Matters**
+Without reality testing, we fall in love with our own fantasies while ignoring red flags that could protect us from heartbreak. Most relationship pain comes not from being rejected by someone real, but from discovering that the person we loved never actually existed.
+
+**⚙️ How It Works**
+Reality testing involves three steps: observation (what actually happened), interpretation (what story we tell ourselves), and verification (checking our story against evidence). For example, if someone texts sporadically, we observe the pattern, notice our interpretation ("they're busy but care"), then verify by asking directly about their communication preferences rather than assuming. When someone shows up late repeatedly, we observe the behavior, catch our excuse-making ("traffic is bad"), and verify by noticing whether they're late to things that matter to them. The key is developing what attachment researchers call "earned security" — the ability to update our beliefs about people based on new evidence rather than clinging to our initial hopes.
+
+**🎯 Relationship Strategy Wisdom**
+The person who can see clearly has the power to choose consciously, while those who live in fantasy are doomed to repeat their patterns.
+
+**❓ Tomorrow's Question** — If we know that healthy relationships require us to see people clearly, why do we often feel more chemistry with people whose true selves remain mysterious to us, and what does this suggest about the difference between attraction and genuine compatibility?`,
+    parable: `Riven stumbled through the moonlit garden, still reeling from their latest romantic disaster. "I thought I knew them," they whispered to the shadows. "How could I have been so wrong?"
+
+The Mirror materialized beside a fountain, its surface reflecting not Riven's face but scenes from their past relationships. "You saw what you needed to see," it said gently. "But tell me, young one, what did you actually observe?"
+
+"They said they loved me—"
+
+"Words," The Mirror interrupted. "What did they do?"
+
+Riven's reflection shifted, showing memory after memory: cancelled plans, delayed responses, promises unkept. "But they explained everything. They had reasons—"
+
+"Ah," The Mirror's voice grew knowing. "You confused their explanations with their intentions, their words with their character. Watch." The surface shimmered, revealing a new scene: a person tending a garden with meticulous care, watering each plant daily without fanfare or explanation.
+
+"This gardener makes no grand speeches about loving plants," The Mirror observed. "Yet every action demonstrates care. Now observe your past lovers through this lens—not what they said about their feelings, but what their consistent actions revealed about their priorities."
+
+Riven watched as the romantic fantasies dissolved, replaced by patterns they had refused to see: the partner who remembered every friend's birthday but forgot theirs, the one who found time for hobbies but never for deeper conversations, the one who spoke of future plans but never included them.
+
+"Reality testing," The Mirror explained, "is the art of loving with your eyes open. It requires the courage to see people as they are rather than as you need them to be."
+
+**Moral:** True love begins with clear sight, for only when we see someone's authentic self can we choose to love them—or choose to walk away.
+
+**Tomorrow:** The Mirror will reveal why mystery often masquerades as chemistry, and how to distinguish between intrigue and genuine connection.`,
+  },
 ];

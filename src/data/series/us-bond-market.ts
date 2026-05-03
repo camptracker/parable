@@ -593,4 +593,64 @@ The afternoon's auction results flashed across their screens—another surge in 
 
 *Tomorrow, Maya will discover why the very instruments designed to protect against inflation sometimes become inflation's cruelest victims.*`,
   },
+  {
+    day: 11,
+    title: "The Convexity Conundrum",
+    date: "2026-05-03",
+    image: "images/us-bond-market/day-11.jpg",
+    audio: "audio/us-bond-market/day-11",
+    sonnet: `**🪶 Sonnet XI: The Convexity Conundrum**
+
+When interest rates shift like tides upon the shore,
+Bond prices dance not straight but curved in flight,
+Convexity reveals what duration can't explore—
+The acceleration hidden from plain sight.
+
+A Treasury soars when yields fall like autumn leaves,
+Yet mortgage bonds are caged by refinance chains,
+While mathematical curves that never deceive
+Show asymmetric losses, asymmetric gains.
+
+The amateur sees lines where professionals see bends,
+Missing how the price-yield relationship curves,
+As convexity determines where profit ascends
+Or where the cruel mathematics never swerves.
+
+*For in this market where the brave hearts dare to trade,*
+*The curve's acceleration cannot be betrayed.*`,
+    standard: `📊 Day 11: The Convexity Conundrum
+
+TIPS lose value during inflation because their real yields rise faster than their inflation protection adjusts, and because duration risk dominates in the short term. This reveals that protecting wealth (maintaining purchasing power) and making money (generating positive real returns) are fundamentally different objectives requiring different strategies.
+
+🧱 **The Concept**
+Bond convexity measures how a bond's price sensitivity to interest rate changes accelerates as rates move further, creating asymmetric risk-reward profiles that sophisticated traders exploit.
+
+❓ **Why It Matters**
+Convexity separates amateur bond investors from professionals because it determines whether you profit or suffer disproportionately when rates move dramatically. Understanding convexity explains why some bonds soar during rate rallies while others barely budge, and why mortgage-backed securities can suddenly become toxic.
+
+⚙️ **How It Works**
+When rates fall 1%, a high-convexity Treasury might gain 8%, but when rates rise 1%, it only loses 7% due to the mathematical curve of price-yield relationships. Mortgage bonds have negative convexity because homeowners refinance when rates drop, capping upside gains while maintaining full downside risk. During the 2022 rate shock, long-duration Treasuries lost over 30% while short-term bills barely moved, demonstrating convexity's brutal asymmetry. Professional traders buy convexity before volatility spikes and sell it when markets calm, essentially trading mathematical insurance. The convexity trade explains why bond funds with similar average maturities can have vastly different performance during rate cycles.
+
+🎯 **Bond Wisdom**
+Convexity is the bond market's hidden accelerator—it amplifies both gains and losses in ways that duration alone cannot predict.
+
+❓ **Tomorrow's Question** — If algorithmic trading now dominates bond markets and can execute thousands of trades per second based on mathematical models, why do human intuition and relationship-based trading still command premium valuations in fixed income, and what does this suggest about the limitations of purely quantitative approaches to bond investing?`,
+    parable: `Maya stared at her screen in bewilderment as the convexity calculations spiraled across her monitor like abstract art. "These numbers make no sense," she muttered. "How can two bonds with the same duration behave so differently?"
+
+Garrison appeared beside her desk, carrying his usual cup of coffee that had grown cold hours ago. "Ah, the convexity conundrum," he said, settling into the chair beside her. "You're looking at duration like it's a straight line, but bond mathematics curves like a river bend."
+
+He pulled up a chart showing price-yield relationships. "See this Treasury? When rates fall, its price doesn't just rise—it accelerates upward like a rocket leaving Earth's gravity. But this mortgage bond here? It hits a ceiling because borrowers refinance, trapping your gains like a bird in a cage."
+
+Maya traced the curves with her finger. "So convexity is like... mathematical momentum?"
+
+"Precisely. During the 2022 massacre, I watched junior traders hemorrhage money because they only understood duration. They thought a 2% rate rise would cause a 10% loss, but convexity turned it into 25%. The mathematics betrayed their linear thinking."
+
+Garrison leaned back, his eyes distant with memory. "I've learned to buy convexity when volatility is cheap and sell it when fear is expensive. It's like purchasing insurance on the shape of uncertainty itself."
+
+Maya nodded slowly, understanding dawning. "The curve is everything."
+
+**Moral**: In the bond market, straight lines are illusions—true profits come from understanding the mathematical curves that bend reality.
+
+**Tomorrow**: Maya discovers why human wisdom still trumps algorithmic precision in the age of robot traders.`,
+  },
 ];

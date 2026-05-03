@@ -4049,4 +4049,62 @@ Vex frowned. "But surely some order is necessary?"
 
 *Tomorrow, Ironmere will reveal why even the most complexity-tolerant organizations eventually develop systems to protect themselves from their own ambitious appetite for challenge...*`,
   },
+  {
+    day: 67,
+    title: "The Capacity Reality Check",
+    date: "2026-05-03",
+    image: "images/how-to-scale/day-67.jpg",
+    audio: "audio/how-to-scale/day-67",
+    sonnet: `**🪶 Sonnet LXVII: The Capacity Reality Check**
+
+When eager minds reach high beyond their grasp,
+And systems strain 'neath weight of grand design,
+The wisest builders pause to check their clasp—
+Can current strength support this bold outline?
+
+For appetite and capacity divide
+Like hunger from the stomach's actual space;
+Ambition's fire may burn intensely wide
+Yet lack the fuel to finish its embrace.
+
+The master knows to measure not the dream
+But infrastructure's honest, present power—
+Can foundations bear the complex scheme?
+Can teams sustain uncertainty each hour?
+
+*Yet sometimes wisdom means to break this rule,*
+*And dare beyond what prudent measures tool.*`,
+    standard: `🚀 Day 67: The Capacity Reality Check
+
+Successful organizations establish complexity resistance protocols because unlimited complexity appetite without corresponding systems capacity creates catastrophic overextension that destroys both effectiveness and team wellbeing. These protocols act as organizational circuit breakers, preventing teams from taking on ambiguity that exceeds their actual processing capabilities rather than their theoretical appetite for challenge.
+
+🧱 **The Concept**
+Capacity reality checks are systematic assessments that distinguish between an organization's theoretical ability to handle complexity and its actual operational capacity to process ambiguity effectively.
+
+❓ **Why It Matters**
+Most scaling failures occur when teams confuse their willingness to tackle complex challenges with their actual infrastructure to handle them successfully. Organizations that appear to have unlimited complexity appetite often crash when they discover their systems, processes, and people lack the fundamental capacity to execute on the ambiguous challenges they enthusiastically accepted.
+
+⚙️ **How It Works**
+High-performing organizations implement "capacity audits" that measure not just team enthusiasm for complex projects, but their actual bandwidth for uncertain outcomes, their systems' ability to handle ambiguous requirements, and their leaders' real capacity to make decisions without clear data. Netflix regularly turns down promising but ambiguous content opportunities when their recommendation algorithms can't effectively categorize or promote them. Stripe deliberately limits how many experimental payment methods they pilot simultaneously, regardless of market opportunity, based on their engineering team's actual capacity to support uncertain integrations. Amazon Web Services has "complexity budgets" for each team that prevent them from launching new experimental services when their support infrastructure is already stretched thin from previous ambiguous projects.
+
+🎯 **Scaling Wisdom**
+True scaling maturity means protecting your organization's actual capacity to handle complexity, not just feeding its appetite for it.
+
+❓ **Tomorrow's Question** — If capacity reality checks prevent organizations from overextending themselves, why do the most successful companies periodically ignore their own capacity assessments and deliberately overcommit to challenges that their current systems absolutely cannot handle?`,
+    parable: `Vex stood before a half-built tower that leaned precariously, its ambitious height betraying the weakness of its foundation. "I wanted to build something magnificent," he said, frustration heavy in his voice. "My appetite for the challenge was limitless, but..."
+
+"But appetite and capacity are different beasts," Ironmere observed, running his weathered hand along the unstable structure. "I once watched a brilliant young architect design a bridge that could theoretically span the widest river in our realm. His vision was flawless, his passion boundless. But when construction began, his team had neither the materials nor the expertise to execute his ambitions."
+
+The old master pointed to the tower's stressed joints. "See how eager you were to reach for the sky? Your spirit was willing, but your foundation wasn't ready. This isn't failure, lad—it's wisdom revealing itself through consequence."
+
+Vex touched the trembling walls. "So I should limit my ambitions?"
+
+"You should honor your current capacity while building toward greater ones," Ironmere replied. "The master builders I knew would assess not just their desire to create, but their actual ability to sustain what they built. They'd ask: 'Can my foundation support this vision? Can my team execute this complexity? Can my resources endure this ambition?'"
+
+Together, they began carefully dismantling the top sections, preserving what could be supported. "Each stone we remove now can be placed again when the foundation is stronger," Ironmere said. "Capacity isn't fixed—it grows. But it must be respected in its current state."
+
+**Moral**: True mastery lies not in endless appetite for complexity, but in honest assessment of one's current capacity to handle it well.
+
+**Tomorrow**: Even the wisest capacity assessments sometimes must be deliberately ignored...`,
+  },
 ];

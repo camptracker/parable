@@ -4121,4 +4121,66 @@ Tova nodded. "Kael doesn't know that certain things are 'impossible'—so he see
 
 *Tomorrow, Greymane would reveal how even the most experienced team members could rediscover the power of beginner's mind...*`,
   },
+  {
+    day: 66,
+    title: "The Cultivation of Questions",
+    date: "2026-05-03",
+    image: "images/leadership/day-66.jpg",
+    audio: "audio/leadership/day-66",
+    sonnet: `**🪶 Sonnet LXVI: The Cultivation of Questions**
+
+The seasoned sailor knows the proven way,
+And trains the novice in the ancient art—
+Yet fresh eyes see what time has swept away,
+The questions that could revolutionize each part.
+
+When wisdom hardens into rigid law,
+And "how we've always done it" rules the day,
+The very queries that reveal each flaw
+Are silenced ere they show a better way.
+
+But leaders wise protect the asking mind,
+They guard the "why" and "what if" from the crowd
+Who'd rather answers neat and well-defined
+Than questions bold and beautifully loud.
+
+*For breakthrough comes not from the answers known,*
+*But questions that have never yet been grown.*`,
+    standard: `👥 Day 66: The Cultivation of Questions
+
+When experienced team members discourage revolutionary questions from newcomers, it reveals that we've prioritized conformity over curiosity, creating systems that reward compliance rather than creative thinking. True leadership development means teaching people to strengthen their questioning muscles, not to silence them in service of smooth operations.
+
+**🧱 The Concept**
+Great leaders cultivate question-asking ability in others rather than just providing answer-giving expertise.
+
+**❓ Why It Matters**
+The questions your team stops asking become the innovations your competitors will discover. When we train people to seek approval rather than explore possibilities, we systematically eliminate the very thinking that drives breakthrough solutions.
+
+**⚙️ How It Works**
+Instead of rewarding people for having the right answers, reward them for asking better questions. When someone approaches you with a problem, respond with "What questions are you asking about this?" before offering solutions. Create formal space in meetings for "naive" questions from newest team members. Document and revisit questions that initially seemed impractical but revealed important blind spots. Teach experienced staff to say "That's an interesting question—what led you to wonder about that?" instead of "Here's how we've always done it."
+
+**🎯 Leadership Wisdom**
+The leader who protects question-asking creates a team that discovers answers others miss; the leader who prioritizes answer-giving creates a team that stops looking for better solutions.
+
+**❓ Tomorrow's Question** — If you discovered that your team's most breakthrough innovations came not from answering the questions you thought were important, but from questioning the assumptions you didn't realize you were making, what sacred beliefs about "how things work" might you need to invite others to challenge?`,
+    parable: `Captain Tova found herself growing frustrated with the endless stream of questions from her newest crew members. Every established procedure prompted a "But why do we...?" or "What if we tried...?" from sailors who clearly didn't understand how ships operated.
+
+"They need to learn the fundamentals before they start questioning everything," she complained to Greymane during one of their evening conversations. "My experienced sailors spend more time explaining than working."
+
+Greymane smiled knowingly. "Tell me, what was the last innovation that transformed how your crew operates?"
+
+Tova thought for a moment. "Actually, it was something one of the new sailors suggested about redistributing weight during storms. But that was different—"
+
+"Ah," Greymane interrupted gently. "And how long ago did that sailor stop asking questions?"
+
+The truth hit her like a cold wave. "About two months. Right around when the veterans started saying 'You'll understand when you've been here longer.'"
+
+Greymane nodded. "I once served under a captain who treated every question as insubordination. We became the most efficient crew at executing yesterday's solutions to tomorrow's problems. Meanwhile, the ships that encouraged questions discovered new ways to navigate storms we couldn't even imagine surviving."
+
+Tova realized she had been measuring success by how quickly new sailors stopped questioning rather than by how deeply they understood the principles behind their actions.
+
+**Moral**: *The leader who silences questions in pursuit of efficiency creates a crew skilled at sailing yesterday's seas.*
+
+Tomorrow, Greymane will share how the most dangerous assumptions are the ones that masquerade as fundamental truths...`,
+  },
 ];

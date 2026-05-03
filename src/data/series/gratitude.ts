@@ -791,4 +791,70 @@ Hana watched as a single green shoot pushed through the hard earth. "You are not
 
 *Tomorrow, Hana will discover why feeling grateful while others suffer isn't selfish, but perhaps the deepest form of compassion...*`,
   },
+  {
+    day: 14,
+    title: "The Compassionate Heart",
+    date: "2026-05-03",
+    image: "images/gratitude/day-14.jpg",
+    audio: "audio/gratitude/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Compassionate Heart**
+
+When darkness falls on those we hold most dear,
+We think our joy must dim to match their night,
+As if our brightness brings them greater fear,
+And guilt consumes our every spark of light.
+
+But lighthouse keepers know a deeper truth:
+Their beacon shines most bright in blackest storm,
+Not mocking ships but offering proof
+That safe harbor waits beyond harm's form.
+
+So gratitude amid another's pain
+Is not betrayal but the kindest gift—
+A reservoir from which true help can rain,
+A steady hand when spirits start to drift.
+
+*For empty wells can offer no relief,*
+*But grateful hearts transform both joy and grief.*`,
+    standard: `🙏 Day 14: The Compassionate Heart
+
+We feel guilty about joy amid others' suffering because we've confused empathy with emotional mimicry—believing that true compassion requires us to diminish our light rather than let it shine as a beacon for others. Real compassion isn't about matching someone's pain; it's about maintaining enough inner strength and gratitude to offer genuine help, hope, and healing.
+
+**🧱 The Concept**
+True compassion flows from a grateful, resilient heart that can hold both joy and sorrow simultaneously without being overwhelmed by either.
+
+**❓ Why It Matters**
+When we drain our own emotional reserves to match others' suffering, we become part of the problem rather than part of the solution. Sustainable compassion requires us to maintain our capacity for appreciation and wonder, even in dark times, so we can offer authentic support rather than empty sympathy.
+
+**⚙️ How It Works**
+Think of a lighthouse during a storm—it doesn't dim its beacon because ships are struggling in rough waters; its steady light becomes more valuable precisely because of the darkness. Similarly, maintaining gratitude during collective hardship isn't selfish; it's generous. When healthcare workers find moments of appreciation during a crisis, they avoid burnout and serve better. When parents maintain joy despite family challenges, they model resilience for their children. When friends can celebrate small victories while supporting struggling loved ones, they provide hope rather than despair. This isn't about toxic positivity or ignoring real problems—it's about cultivating the emotional stability that makes meaningful help possible.
+
+**🎯 Gratitude Wisdom**
+Your capacity for appreciation doesn't diminish others' pain—it increases your ability to transform it.
+
+**❓ Tomorrow's Question** — If maintaining gratitude during others' suffering is actually a form of service rather than selfishness, why do we still struggle to receive appreciation and support when we're the ones going through difficulty, and what does this resistance reveal about our relationship with our own worthiness?`,
+    parable: `Elder Thorn found Hana sitting alone in the monastery garden, tears streaming down her face as she clutched a letter from her village.
+
+"The harvest has failed again," she whispered. "My family is struggling, and here I am learning about gratitude while they suffer. How can I feel appreciation when those I love are in pain?"
+
+The Elder settled beside her, his weathered hands gentle on her shoulders. "Tell me, child, what do you see in this garden?"
+
+"Flowers," Hana said bitterly. "Beautiful, useless flowers while my people hunger."
+
+"And what grows beneath them?"
+
+Hana looked closer. "Medicinal herbs. Healing plants."
+
+"Yes. The beauty feeds the soul, the medicine heals the body. Both grow from the same soil, drink the same rain." Elder Thorn plucked a bright bloom. "Once, I believed that to truly love someone in pain, I must feel their pain completely. I drained myself trying to carry every burden, becoming so depleted that I had nothing left to give. I learned that compassion isn't about drowning together—it's about staying afloat so you can throw a rope."
+
+He placed the flower in Hana's hands. "Your gratitude doesn't mock their suffering; it preserves your strength to help them. Your joy doesn't diminish their pain; it reminds them that joy is still possible. The lighthouse doesn't apologize for its brightness during the storm."
+
+Hana wiped her eyes, understanding dawning. "My appreciation... it's not selfish?"
+
+"It's the most generous thing you can offer. A heart empty of gratitude has nothing to pour out."
+
+**Moral:** True compassion flows from a full heart that can hold both joy and sorrow, offering light rather than joining the darkness.
+
+**Tomorrow:** Hana will discover why receiving support feels harder than giving it, and what this reveals about the deeper wounds that gratitude can heal.`,
+  },
 ];

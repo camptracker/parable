@@ -65,4 +65,68 @@ As dawn approached, Asha felt her shoulders relax. Her instincts weren't weaknes
 
 *Tomorrow, Elder Mira will reveal the delicate balance between nurturing and fostering resilience...*`,
   },
+  {
+    day: 2,
+    title: "The Dance of Attunement and Boundaries",
+    date: "2026-05-03",
+    image: "images/raising-kids/day-2.jpg",
+    audio: "audio/raising-kids/day-2",
+    sonnet: `**🪶 Sonnet II: The Dance of Attunement and Boundaries**
+
+Beneath the surface of each cry and smile
+Lies deeper truth that loving eyes can read,
+The parent's gift: to pause, observe a while,
+And match response to child's authentic need.
+
+Not every tear demands immediate ease,
+Nor every laugh calls for our swift reply,
+But sensing when to soothe and when to tease
+The space between — this wisdom we apply.
+
+Through countless moments, small yet profound,
+We learn the language of our child's heart,
+In daily dance where love and limits bound
+The sacred choreography of our art.
+
+*When parent truly sees what child would say,*
+*Both souls are met and trust grows day by day.*`,
+    standard: `👶 Day 2: The Dance of Attunement and Boundaries
+
+The balance between responsiveness and fostering independence lies in **graduated responsiveness** — being consistently available while allowing age-appropriate delays and frustrations. We respond immediately to genuine distress while letting children work through minor challenges, teaching them that feelings are manageable and they are capable.
+
+🧱 **The Concept**
+Attunement is the parent's ability to read, understand, and respond appropriately to their child's emotional and physical cues, creating a secure base from which the child can explore the world.
+
+❓ **Why It Matters**
+Children who experience consistent attunement develop better emotional regulation, stronger self-esteem, and more secure relationships throughout their lives. When parents accurately read and respond to their child's needs, they're teaching the child to trust their own internal signals and the reliability of human connection.
+
+⚙️ **How It Works**
+Attunement happens through **micro-moments** of connection — making eye contact when your toddler shows you a toy, reflecting back their emotions ("You seem frustrated with that puzzle"), and matching their energy level when they're excited. It's not about being perfect, but about **repair** when we miss the mark. A parent might say, "I see you were trying to tell me something important, and I was distracted. Can you tell me again?" This teaches children that relationships can be mended and that their feelings matter. The key is **contingent responsiveness** — your response matches what your child actually needs in that moment, not what you think they should need.
+
+🎯 **Parenting Wisdom**
+Attunement is less about getting it right every time and more about staying curious about your child's inner world. When we truly see our children, they learn to see themselves.
+
+❓ **Tomorrow's Question** — If children naturally co-regulate through their parent's nervous system, how do we manage our own emotional states when we're triggered by our child's behavior, especially when our instinct is to react rather than respond?`,
+    parable: `Elder Mira found Asha in the garden, bouncing her fussing infant while tears streamed down her face. "She's been crying for an hour," Asha whispered. "I've fed her, changed her, held her — nothing works. Maybe I'm not cut out for this."
+
+Mira settled beside them on the stone bench, her weathered hands gentle as she observed. "Tell me what you see in her face," she said softly.
+
+Asha looked down at her daughter's red, scrunched features. "Anger? Frustration? I don't know — just... upset?"
+
+"Look deeper," Mira encouraged. "What do her eyes tell you? Her little fists?"
+
+As Asha gazed more intently, something shifted in her perception. "Her eyes... they're wide, almost searching. And her fists are clenched, but they're reaching toward me, not pushing away."
+
+"Ah," Mira smiled. "Now you're beginning to see her, not just her distress. What might she be trying to tell you?"
+
+Asha felt a flutter of understanding. She adjusted her hold, bringing the baby closer to her chest, and began humming a melody that had been playing in her mind all morning. Almost immediately, the crying softened to hiccups, then to quiet attention.
+
+"She wasn't hungry or wet," Asha marveled. "She was... lonely? Wanting connection?"
+
+"You learned to attune," Mira said, watching the baby's eyes grow heavy. "To read beneath the surface and respond to what she truly needed. This is how trust is built — not through perfect responses, but through the effort to truly see and understand."
+
+**Moral:** *Attunement is the art of seeing beyond behavior to the heart's true need, creating connection through understanding rather than assumption.*
+
+*Tomorrow, Asha will discover how her own emotional weather affects her child's inner climate...*`,
+  },
 ];
