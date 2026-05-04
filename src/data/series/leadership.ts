@@ -4183,4 +4183,67 @@ Tova realized she had been measuring success by how quickly new sailors stopped 
 
 Tomorrow, Greymane will share how the most dangerous assumptions are the ones that masquerade as fundamental truths...`,
   },
+  {
+    day: 67,
+    title: "The Revolution of Revelation",
+    date: "2026-05-04",
+    image: "images/leadership/day-67.jpg",
+    audio: "audio/leadership/day-67",
+    sonnet: `**🪶 Sonnet LXVII: The Revolution of Revelation**
+
+In halls of expertise we build our throne,
+On pillars carved from victories long past,
+Each triumph makes our certainty more known,
+Each proven way seems destined here to last.
+But sacred truths that once lit up our path
+Now cast the very shadows that conceal
+The innovations born from questions' wrath,
+The breakthrough insights waiting to be real.
+The newest voice may hold the oldest key,
+The "wrong" approach might unlock what is right,
+If we can learn to let our knowledge free
+From cages built by our successful sight.
+*For leaders who would truly transform and grow*
+*Must question most what they're most sure they know.*`,
+    standard: `👥 Day 67: The Revolution of Revelation
+
+The sacred beliefs we might need to invite challenge often include our deepest convictions about hierarchy ("senior people always know better"), process ("this is how we've always done it"), and capability ("certain roles can't contribute to strategic thinking"). These assumptions become invisible precisely because they've worked in the past, making them the most dangerous barriers to future breakthrough.
+
+🧱 **The Concept**
+True leadership transformation happens when we stop defending our assumptions and start deliberately exposing them to systematic challenge.
+
+❓ **Why It Matters**
+Our greatest leadership blind spots aren't weaknesses we can see—they're strengths that have become so automatic we can't imagine alternatives. When we protect our successful patterns from scrutiny, we inadvertently protect ourselves from the very evolution that could multiply our impact.
+
+⚙️ **How It Works**
+Revolutionary leaders create systems for assumption archaeology. They regularly ask: "What would someone from a completely different industry do with this challenge?" They invite their newest team members to audit their most established processes. They seek feedback from people who've never worked in their field but are affected by their decisions. When Southwest Airlines questioned the assumption that airlines needed hub-and-spoke systems, they revolutionized an industry. When a nurse questioned why hospital patients couldn't have access to their own medical records, she sparked the patient advocacy movement.
+
+🎯 **Leadership Wisdom**
+The moment you become too comfortable with your leadership approach is the moment you stop leading toward breakthrough and start managing toward repetition.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most important insights were being dismissed not because they were wrong, but because they threatened the very systems that made you successful in the first place, what would this reveal about the relationship between your past achievements and your future potential?`,
+    parable: `Captain Tova found Admiral Greymane standing at the edge of the harbor, watching her crew load supplies with their usual chaotic inefficiency. "They're doing it wrong," she muttered, then caught herself. "Again."
+
+"Ah," Greymane nodded, "the sacred assumption reveals itself. Define 'wrong' for me, Captain."
+
+"They're not following the standard loading protocol. Heaviest items first, systematic distribution, proper lifting techniques—"
+
+"And this protocol," Greymane interrupted gently, "where did it originate?"
+
+Tova paused. "Naval academy. It's... it's how it's always been done."
+
+"For ships designed sixty years ago, carrying different cargo, with different crew sizes, sailing different routes." Greymane's eyes twinkled. "What if I told you that your youngest crew member, the one you think knows nothing about proper procedure, just invented a loading method that could cut your prep time in half?"
+
+Tova watched as young Mari directed two crew members to slide cargo along the dock using wooden planks as guides, rather than lifting everything manually. The process was indeed faster, more efficient, and seemed to require less strain.
+
+"But it's not regulation," Tova protested weakly.
+
+"No," Greymane agreed. "It's better than regulation. The question, Captain, is whether you're more committed to being right about how things should work, or curious about how they could work."
+
+Tova realized she'd been so busy enforcing her knowledge that she'd stopped learning from her crew's experimentation.
+
+**Moral**: The assumptions that made us successful in the past may be the very chains that prevent our transformation in the future.
+
+*Tomorrow: Greymane challenges Tova to question not just what her crew does wrong, but what she might be doing "right" that's actually limiting their potential.*`,
+  },
 ];

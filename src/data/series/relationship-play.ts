@@ -360,4 +360,62 @@ Quinn felt something release in their chest—the tight grip of needing to get e
 
 **Tomorrow:** Elder Joy will reveal why the smallest gestures often build the strongest foundations...`,
   },
+  {
+    day: 7,
+    title: "The Rhythm of Ritual",
+    date: "2026-05-04",
+    image: "images/relationship-play/day-7.jpg",
+    audio: "audio/relationship-play/day-7",
+    sonnet: `**🪶 Sonnet VII: The Rhythm of Ritual**
+
+In morning light, the same sweet coffee shared,
+A ritual born of love's familiar grace,
+Where sacred moments bloom from time prepared,
+And ordinary hours find holy space.
+
+The Sunday walk, the Friday evening dance,
+These gentle rhythms weave through busy days,
+Creating pause where hurried hearts can glance
+At deeper currents flowing through life's maze.
+
+Not chains that bind but anchors in the storm,
+These chosen patterns hold what matters most,
+Where intimacy takes its truest form
+In simple acts that lovers' spirits toast.
+
+*For in the rhythm of our faithful ways,*
+*Love finds its voice through ordinary days.*`,
+    standard: `🎮 Day 7: The Rhythm of Ritual
+
+**🧱 The Concept**
+Playful rituals create predictable moments of connection that couples can anticipate and savor together.
+
+**❓ Why It Matters**
+While spontaneity sparks excitement, meaningful rituals provide the steady heartbeat that sustains long-term intimacy. They transform ordinary moments into sacred shared experiences that couples can count on, even during stressful seasons.
+
+**⚙️ How It Works**
+Successful couple rituals are simple, regular, and uniquely yours — like Sunday morning pancake competitions where you invent ridiculous flavor combinations, or "Mystery Monday" dates where you take turns planning surprise micro-adventures. The key is consistency without rigidity: your ritual should feel like coming home, not checking off a chore. Start small with something you can maintain weekly, then let it evolve naturally. The anticipation becomes as delicious as the experience itself.
+
+**🎯 Playful Connection Wisdom**
+The most powerful rituals aren't grand gestures but gentle rhythms that weave intimacy into the fabric of ordinary time.
+
+**❓ Tomorrow's Question** — If rituals provide security and spontaneity provides excitement, why do so many couples struggle to balance structure with surprise, often swinging between rigid routine and chaotic unpredictability instead of finding their unique rhythm?`,
+    parable: `Quinn burst through the door, phone buzzing with work notifications, shoulders heavy with the week's accumulating stress. But then they saw River in the kitchen, flour dusting their apron, two mugs steaming on the counter — their sacred Friday evening ritual about to begin.
+
+"I thought we could skip tonight," Quinn sighed. "I'm exhausted, and there's this presentation—"
+
+"Ah, but look closer," Elder Joy's voice drifted from the living room, where she sat observing with knowing eyes. "What is River really offering?"
+
+Quinn watched as River pulled out their shared recipe journal, pages filled with their experimental cookie creations — the disasters and triumphs chronicled together. This wasn't about baking; it was about their weekly ritual of creation, of stepping away from the world to play in flour and possibility.
+
+"We don't have to make anything elaborate," River said softly. "But maybe just... our thing?"
+
+As they measured ingredients, Quinn felt the week's tension dissolving into laughter over River's attempt to crack eggs one-handed. This simple rhythm — flour, sugar, terrible jokes, and the timer that marked sacred time — had become their anchor.
+
+"Rituals," Elder Joy smiled, "aren't chains that bind you. They're lighthouses that guide you home to each other, no matter how stormy the week becomes."
+
+**Moral:** *The most profound intimacy lives not in grand gestures but in the gentle rhythms we choose to honor together.*
+
+*Tomorrow, Elder Joy will help them discover why balance feels so elusive...*`,
+  },
 ];

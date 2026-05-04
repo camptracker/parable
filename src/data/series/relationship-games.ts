@@ -501,4 +501,64 @@ Riven watched as the romantic fantasies dissolved, replaced by patterns they had
 
 **Tomorrow:** The Mirror will reveal why mystery often masquerades as chemistry, and how to distinguish between intrigue and genuine connection.`,
   },
+  {
+    day: 9,
+    title: "The Fantasy Investment Portfolio",
+    date: "2026-05-04",
+    image: "images/relationship-games/day-9.jpg",
+    audio: "audio/relationship-games/day-9",
+    sonnet: `**🪶 Sonnet IX: The Fantasy Investment Portfolio**
+
+Behind the veil of mystery we see
+Not truth, but dreams our hungry hearts create,
+Projecting gold where only shadows be,
+While transparency feels plain and second-rate.
+
+We stock our hearts with futures never sold,
+With promises that shimmer in the mist,
+And find the present moment strangely cold
+Beside the fantasy that can't exist.
+
+The merchant hiding wares behind a screen
+Demands no proof, just hope's intoxication,
+While honest love, displayed and plainly seen,
+Seems poor beside imagination's speculation.
+
+*Yet fortunes built on dreams will always fall—*
+*True wealth lies in loving what is, not what might be all.*`,
+    standard: `🎭 Day 9: The Fantasy Investment Portfolio
+
+We feel stronger chemistry with mysterious people because mystery allows us to project our ideal fantasies onto them, creating an intoxicating cocktail of possibility and hope that feels more thrilling than reality. This reveals that much of what we call "attraction" is actually our unconscious investment in potential rather than presence, while genuine compatibility requires the courage to love what is, not what might be.
+
+🧱 **The Concept**
+When someone remains mysterious, we unconsciously fill the gaps with our deepest desires and fantasies, essentially falling in love with our own projections rather than the actual person.
+
+❓ **Why It Matters**
+This "fantasy investment" creates a psychological portfolio where we're betting emotional energy on imagined returns rather than actual assets. The more mysterious someone is, the more we can invest our hopes in them without facing the reality that might disappoint us. This keeps us hooked on potential while avoiding the vulnerable work of real intimacy.
+
+⚙️ **How It Works**
+When someone gives us just enough attention to keep us interested but withholds enough information to stay mysterious, we enter "fantasy investment mode." Our brains, designed to solve puzzles and fill gaps, work overtime creating elaborate stories about who this person might be. For example, when someone takes hours to text back, we might imagine they're "busy with important work" rather than simply uninterested. When they share cryptic social media posts, we decode them like love letters meant specifically for us. The less concrete information we have, the more our imagination fills the void with exactly what we want to see. This creates a powerful addiction cycle: the mystery generates fantasy, the fantasy generates hope, and the hope keeps us investing emotional energy despite minimal real-world returns. Meanwhile, people who are transparent and available feel "boring" because there's no fantasy to maintain—just reality to accept.
+
+🎯 **Relationship Strategy Wisdom**
+True intimacy requires graduating from fantasy investment to reality-based connection, which means learning to find excitement in genuine transparency rather than seductive mystery.
+
+❓ **Tomorrow's Question** — If we're essentially running an unconscious cost-benefit analysis in every interaction, calculating how much emotional energy to invest based on perceived returns, what does it mean when we consistently choose to "invest" in people who offer the lowest actual dividends?`,
+    parable: `Riven stood before an elaborate marketplace, each stall draped in shimmering veils that obscured the goods within. "Choose wisely," called a merchant from behind gossamer curtains. "What treasures might lie hidden here?"
+
+Riven's imagination soared. Perhaps rare jewels, ancient wisdom, magical artifacts—anything seemed possible behind those tantalizing veils. At the neighboring stall, another merchant displayed their wares openly: honest craftsmanship, quality materials, fair prices clearly marked. But Riven barely glanced that way, drawn magnetically toward the mystery.
+
+"You invest not in goods, but in dreams," The Mirror observed, materializing beside them. "Watch how your mind creates value where none may exist."
+
+As Riven reached for the mysterious merchant's veil, The Mirror continued, "See how the covered stall demands nothing of you but hope, while the honest merchant requires you to evaluate actual worth? Your fantasy costs nothing upfront, but everything in the end."
+
+"But what if there really are treasures behind the veil?" Riven protested.
+
+"What if there aren't?" The Mirror replied. "And what if your addiction to possibility prevents you from appreciating the genuine treasures displayed in plain sight?"
+
+Riven looked back at the honest merchant, who smiled warmly and offered a sample of their craft. For the first time, Riven saw the beauty in transparency—and the exhaustion in constantly imagining what might be.
+
+**Moral**: We often mistake mystery for value and transparency for boredom, not realizing that genuine connection requires investing in reality rather than possibility.
+
+*Tomorrow, The Mirror will reveal why we consistently choose emotional poverty while believing we're making shrewd investments...*`,
+  },
 ];

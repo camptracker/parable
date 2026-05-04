@@ -4107,4 +4107,64 @@ Together, they began carefully dismantling the top sections, preserving what cou
 
 **Tomorrow**: Even the wisest capacity assessments sometimes must be deliberately ignored...`,
   },
+  {
+    day: 68,
+    title: "The Capacity Breakthrough Protocol",
+    date: "2026-05-04",
+    image: "images/how-to-scale/day-68.jpg",
+    audio: "audio/how-to-scale/day-68",
+    sonnet: `**🪶 Sonnet LXVIII: The Capacity Breakthrough Protocol**
+
+When builders stay within their tested bounds,
+Their craft grows stale, though skillfully refined,
+But those who dare accept impossible rounds
+Discover arts they never thought they'd find.
+
+The architect who takes the mad commission,
+The smith who swears to forge what can't be made,
+Through desperate need achieve their own transition—
+New methods born from pressure's sharpest blade.
+
+For comfort teaches only optimization,
+While crisis births entirely different tools,
+The breakthrough comes through willing devastation
+Of every limit that the past enshrews.
+
+*When pushed beyond all reasonable measure,*
+*We find capacities beyond all treasure.*`,
+    standard: `🚀 Day 68: The Capacity Breakthrough Protocol
+
+The most successful companies deliberately overcommit beyond their assessed capacity because extraordinary challenges force systems to evolve in ways that incremental growth never could. When organizations stay within their known capacity limits, they optimize existing capabilities but rarely discover entirely new ones—breakthrough innovation requires the productive pressure that only comes from impossible demands.
+
+🧱 **The Concept**
+Capacity breakthrough protocols involve systematically exceeding organizational limits to trigger fundamental capability evolution rather than mere optimization.
+
+❓ **Why It Matters**
+Most scaling organizations plateau because they become too sophisticated at managing their current capacity, never creating the conditions that would force them to develop fundamentally different capabilities. When teams face truly impossible demands, they often discover new ways of working that weren't visible when operating within comfortable limits.
+
+⚙️ **How It Works**
+Netflix deliberately overcommitted to global expansion before they had the content library, local teams, or technical infrastructure to support it—this impossible timeline forced them to invent new content creation, partnership, and distribution models that became core competitive advantages. Amazon's same-day delivery commitments pushed their logistics systems far beyond existing capacity, forcing breakthrough innovations in warehouse automation, predictive positioning, and urban fulfillment networks. SpaceX's commitment to rapid launch schedules exceeded their manufacturing capacity by orders of magnitude, forcing them to completely reimagine rocket production from custom manufacturing to assembly-line processes. The key is choosing overcommitments that align with strategic direction—the impossible demand must force evolution toward capabilities you need anyway, not just create productive stress.
+
+🎯 **Scaling Wisdom**
+Breakthrough capacity comes from accepting impossible challenges that force your systems to evolve, not from gradually expanding what your current systems can handle.
+
+❓ **Tomorrow's Question** — If breakthrough protocols create such powerful capability evolution, why do the most innovative companies eventually establish "breakthrough recovery" systems that specifically prevent their teams from experiencing the sustained impossible pressure that made their breakthrough protocols effective in the first place?`,
+    parable: `Vex stared at the commission scroll, her hands trembling. The merchant guild wanted a complete workshop renovation in half the usual time, with features she'd never built before, using materials she'd never worked with. "This is impossible," she whispered.
+
+Ironmere chuckled from his corner. "I once accepted a contract to build a cathedral in two seasons when it should have taken five years." His eyes grew distant. "The city council thought I was mad. My own architects quit. The stone masons said it couldn't be done."
+
+"What happened?" Vex asked, setting down the scroll.
+
+"We invented construction methods that didn't exist," Ironmere replied. "When you can't build stone by stone, you discover how to prefabricate entire sections. When you can't wait for materials to cure, you find new binding agents. When you can't rely on traditional foundations, you develop entirely new engineering principles."
+
+Vex picked up the scroll again. "But what if we fail completely?"
+
+"Then you fail with capabilities you never knew you had," Ironmere said. "The cathedral stands today not because we were smart enough to plan for the impossible, but because the impossible demanded we become different architects entirely. Your current workshop can handle your current clients. But the workshop you'll have after accepting this commission—that will be something neither of us can imagine."
+
+Vex signed the contract with a steady hand.
+
+**Moral:** True capacity isn't revealed by staying within limits, but by accepting challenges that force you to transcend them entirely.
+
+*Tomorrow, Ironmere will explain why even the most breakthrough-driven builders eventually need systems that protect them from their own revolutionary discoveries.*`,
+  },
 ];
