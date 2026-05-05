@@ -717,4 +717,71 @@ Maya nodded slowly, absorbing the lesson. "So duration is more like a weather fo
 
 **Tomorrow**: Maya learns why diversified portfolios sometimes fail when investors need them most, revealing hidden correlations that emerge like ghosts in market stress.`,
   },
+  {
+    day: 13,
+    title: "The Correlation Storm",
+    date: "2026-05-05",
+    image: "images/us-bond-market/day-13.jpg",
+    audio: "audio/us-bond-market/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Correlation Storm**
+
+When markets rage and portfolios take flight,
+The bonds that promised shelter from the gale
+Join stocks in their precipitous travail,
+As correlations merge in desperate night.
+
+No mathematics can contain the fright
+That grips the heart when liquidity grows stale,
+And forced to sell, investors tell the tale
+Of diversification's failing might.
+
+The hedge fund's margin call, the pension's need,
+The bank's retreat from credit's risky shore—
+All spawn the same compulsive, urgent deed:
+To liquidate whatever lies in store.
+When fear transforms all assets to one creed,
+*The storm reveals what peace had hidden before.*`,
+    standard: `📊 Day 13: The Correlation Storm
+
+Bond-heavy portfolios often fail during crises because stress reveals hidden correlations that don't exist in normal markets—when credit freezes, liquidity vanishes, and forced selling cascades across all asset classes simultaneously. This exposes Modern Portfolio Theory's fatal flaw: it assumes correlations remain stable, but during true crises, everything moves together as investors flee to cash, not bonds.
+
+🧱 **The Concept**
+Correlation storms occur when financial stress causes traditionally uncorrelated assets to move in lockstep, destroying the diversification benefits that investors rely on for protection.
+
+❓ **Why It Matters**
+Understanding correlation breakdowns is crucial because they represent the moments when portfolio theory fails most spectacularly. During the 2008 crisis, correlations between stocks and bonds spiked to near 1.0, meaning diversification provided no protection when investors needed it most.
+
+⚙️ **How It Works**
+In normal markets, bonds and stocks often move inversely—when growth fears hit stocks, investors flee to bond safety. But during systemic crises, forced liquidations create selling pressure across all assets. Hedge funds facing margin calls must sell everything, pension funds hit with redemptions dump their most liquid holdings, and banks tighten credit across all sectors. The 2020 COVID crash initially saw both stocks and Treasury bonds fall together as investors scrambled for cash. Even gold, the ultimate safe haven, dropped 12% in March 2020 as everything became correlated to the same fear trade.
+
+🎯 **Bond Wisdom**
+True diversification isn't about asset classes—it's about understanding the hidden transmission mechanisms that can make everything move together when the system breaks.
+
+❓ **Tomorrow's Question** — If central banks can create unlimited liquidity through quantitative easing and essentially guarantee bond prices during crises, why don't institutional investors simply leverage up on government bonds as the ultimate risk-free arbitrage, and what does this reluctance reveal about risks that even unlimited money printing cannot eliminate?`,
+    parable: `Maya stared at her screens in disbelief as March 2020 unfolded before her eyes. Her carefully constructed portfolio, built on decades of correlation data, was hemorrhaging value as every asset class plunged in unison.
+
+"The models said this couldn't happen," she whispered to Garrison, who stood calmly behind her, watching the carnage with the detached interest of someone who had seen this movie before.
+
+"What models?" Garrison asked, though his tone suggested he already knew the answer. "The ones that assume people behave rationally when their world is ending?"
+
+Maya pulled up her correlation matrices, the elegant mathematical relationships that had guided her diversification strategy. "Stocks and bonds have a negative correlation of -0.3 over the past decade. Treasury bonds should be rising as stocks fall. Instead, they're both cratering."
+
+Garrison settled into the chair beside her, his weathered hands folded. "Child, you're watching a correlation storm. When the ship is sinking, passengers don't carefully select which lifeboats to board based on historical performance—they grab whatever cash they can find and run."
+
+On the screens, forced selling cascaded through every market. Hedge funds liquidating to meet margin calls. Pension funds dumping their most liquid holdings to satisfy redemptions. Even gold, the ancient refuge, fell as investors fled to the only asset that mattered in a liquidity crisis: cash.
+
+"But the math—" Maya began.
+
+"The math assumes the game stays the same," Garrison interrupted gently. "Correlations are like fair-weather friendships. They work beautifully when times are good, when everyone has enough money to maintain their preferred asset allocations. But when crisis hits, when credit markets freeze and forced selling begins, everything becomes the same trade: the desperate search for liquidity."
+
+Maya watched Treasury bonds—supposedly the safest assets on earth—fall alongside junk bonds and emerging market debt. "So diversification is meaningless?"
+
+"Not meaningless," Garrison corrected, "but fragile. True protection doesn't come from spreading risk across asset classes. It comes from understanding the hidden transmission mechanisms—the leverage, the forced selling, the liquidity demands—that can make everything correlate to one when the system breaks."
+
+As the trading day ended, Maya realized she had learned something more valuable than any correlation coefficient: in the moments when safety matters most, mathematical relationships dissolve, and only those who understand human nature under extreme stress can navigate the storm.
+
+**Moral:** Diversification protects against normal risk, but correlation storms reveal that in true crises, there is only one trade—and everyone is forced to make it at the same time.
+
+**Tomorrow:** Garrison will reveal why even unlimited money printing cannot eliminate certain risks that keep institutional investors awake at night.`,
+  },
 ];

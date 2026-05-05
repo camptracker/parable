@@ -561,4 +561,63 @@ Riven looked back at the honest merchant, who smiled warmly and offered a sample
 
 *Tomorrow, The Mirror will reveal why we consistently choose emotional poverty while believing we're making shrewd investments...*`,
   },
+  {
+    day: 10,
+    title: "The Sunk Cost Seduction",
+    date: "2026-05-05",
+    image: "images/relationship-games/day-10.jpg",
+    audio: "audio/relationship-games/day-10",
+    sonnet: `**🪶 Sonnet X: The Sunk Cost Seduction**
+
+In love's accounting, we keep ledgers false,
+Where effort spent becomes the proof of worth,
+And every text unanswered, every pulse
+Of hope deferred, we count as giving birth
+To something real. We cannot bear to see
+The gold we've thrown in wells that have no floor,
+So dig we must, convinced that misery
+Must mean that treasure waits behind this door.
+The heart, poor fool, mistakes its own expense
+For evidence of value in return,
+While wiser minds would cut their losses hence
+And seek new soil where genuine love might burn.
+*But sunk cost seduction holds us in its spell:*
+*We'd rather dig than leave an empty well.*`,
+    standard: `🎭 Day 10: The Sunk Cost Seduction
+
+When we consistently invest in people who offer the lowest emotional dividends, we're revealing that we've confused effort with value — mistaking the energy we've already spent for evidence that the relationship must be worth something. This is the psychological equivalent of throwing good money after bad, where our previous investment becomes the justification for continued investment, even when all evidence suggests we should cut our losses.
+
+**🧱 The Concept**
+The sunk cost fallacy in relationships occurs when we continue investing emotional energy, time, and hope into someone simply because we've already invested so much, rather than evaluating the relationship based on its current and future potential.
+
+**❓ Why It Matters**
+This cognitive bias keeps us trapped in relationships that aren't serving us, making us feel that walking away would mean "wasting" everything we've already put in. It's one of the primary psychological mechanisms that dating manipulators exploit, knowing that once someone has invested significantly, they become psychologically committed to justifying that investment.
+
+**⚙️ How It Works**
+The manipulator creates artificial scarcity and intermittent reinforcement, making each small moment of connection feel precious because of how much effort it took to achieve. Someone might string you along for months with breadcrumbs of attention, and you convince yourself that leaving would mean "wasting" all those conversations, dates, and emotional labor. The irony is that the more difficult someone makes it to connect with them, the more valuable that connection feels — not because it actually is more valuable, but because our brains equate effort expended with value received. This is why people often feel more "invested" in someone who takes three days to text back than someone who responds immediately with genuine interest.
+
+**🎯 Relationship Strategy Wisdom**
+Healthy relationships are evaluated by their current trajectory and mutual satisfaction, not by how much you've already invested in trying to make them work.
+
+**❓ Tomorrow's Question** — If we know that genuine desire doesn't need to be manufactured through games and artificial scarcity, why do we often mistake the anxiety of uncertainty for the excitement of attraction, and what does this confusion cost us in terms of recognizing authentic connection?`,
+    parable: `Riven found himself staring at his phone again, counting the days since Elena's last real conversation. Three weeks of intermittent likes on his stories, one-word responses to his thoughtful messages, and a single coffee date where she'd spent half the time texting other people.
+
+"I can't just give up now," he muttered to The Mirror, who had materialized in his reflection on the black screen. "We've been talking for four months. I've taken her to that expensive restaurant, helped her move apartments, listened to her complain about her ex for hours. If I walk away now, it's all wasted."
+
+The Mirror's voice rippled like water. "Tell me, Riven, if you discovered you'd been digging for gold in barren soil for four months, would you continue digging simply because you'd already moved so much dirt?"
+
+"That's different," Riven protested. "Relationships aren't just transactions."
+
+"No," The Mirror agreed, "they're not. But you're treating this one like a bad investment that you can't bear to write off. You're confusing the energy you've spent with evidence of the relationship's worth. Elena hasn't changed her level of interest — you've simply become more attached to the idea that your effort must mean something."
+
+Riven watched his reflection shift and change, showing him a dozen versions of himself: calling women who never called back, planning elaborate gestures for people who barely acknowledged them, staying up late analyzing conversations that meant nothing to the other person.
+
+"The cruelest manipulation," The Mirror whispered, "is not what someone does to you, but what you do to yourself. You're the one insisting that your investment creates her obligation. You're the one who believes that suffering equals value."
+
+Riven saw the truth reflected back at him: he'd been treating his own emotional labor as currency, expecting it to purchase Elena's interest. But effort without reciprocation isn't love — it's just effort.
+
+**Moral:** The energy you've already spent on someone who doesn't value it is not a reason to spend more; it's evidence that you should stop.
+
+**Tomorrow:** Riven learns why his nervous system can't tell the difference between authentic chemistry and manufactured tension...`,
+  },
 ];

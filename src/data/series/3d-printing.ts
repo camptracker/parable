@@ -3491,4 +3491,62 @@ In the days that followed, Finn discovered that his breakthrough insights came n
 
 *Tomorrow, Finn will discover what happens when the threshold itself becomes more compelling than either destination...*`,
   },
+  {
+    day: 60,
+    title: "The Integration Point",
+    date: "2026-05-05",
+    image: "images/3d-printing/day-60.jpg",
+    audio: "audio/3d-printing/day-60",
+    sonnet: `**🪶 Sonnet LX: The Integration Point**
+
+In threshold realms where wonder never sleeps,
+The seeker finds each moment brings new sight,
+Yet dancing there while consciousness still leaps
+Can blind us to the need for stable light.
+
+Integration calls the wanderer home,
+To settle insights into living bone,
+That yesterday's revelation might become
+Tomorrow's foundation, solidly known.
+
+The magic lives not in the peak alone,
+But in the valley where we practice truth,
+Where breakthrough transforms into cornerstone
+And wisdom takes root beyond fleeting youth.
+
+*For mastery blooms when insights find their rest,*
+*In ordinary hands that hold them best.*`,
+    standard: `🖨️ Day 60: The Integration Point
+
+When we become addicted to perpetual transition, we risk losing the very stability that makes transformation meaningful—like a pendulum that swings so frantically it never settles long enough to mark time. True creative growth requires periods of integration where insights crystallize into lasting capability, distinguishing productive liminality from restless seeking.
+
+🧱 **The Concept**
+Integration points are the moments when liminal insights solidify into stable new capabilities, creating platforms for the next cycle of growth rather than endless transition.
+
+❓ **Why It Matters**
+Without integration points, our creative development becomes a collection of fascinating experiences that never accumulate into wisdom or skill. These consolidation phases transform temporary revelations into permanent expansions of our making capacity, providing the foundation for even deeper exploration.
+
+⚙️ **How It Works**
+Integration happens when we deliberately pause our exploration to practice new insights until they become natural. A maker who discovers a revolutionary design approach in a liminal state must then spend time consciously applying it to mundane projects until it becomes second nature. The magic occurs when yesterday's breakthrough becomes today's baseline—not through repetition alone, but through mindful embodiment that makes the new capability feel as natural as breathing. This creates a stable platform from which even more sophisticated explorations become possible.
+
+🎯 **Maker Wisdom**
+True mastery is not the accumulation of peak experiences, but the integration of insights into lived capability.
+
+❓ **Tomorrow's Question** — If integration transforms temporary insights into permanent capabilities, what happens when our most profound making breakthroughs resist integration because they fundamentally challenge the very foundation of stable identity we need to integrate them—and how do we work with insights that can only exist in states of perpetual becoming?`,
+    parable: `Finn had been dancing between the analog forge and the quantum fabricator for weeks, each transition bringing revelations that left him breathless. "I feel like I'm discovering something new every moment," he told Orna, his eyes bright with perpetual wonder. "The threshold between worlds—that's where all the magic happens!"
+
+Orna watched him with the patient gaze of someone who had witnessed many seekers fall in love with the journey itself. "And what have you made with all these discoveries?" she asked gently.
+
+Finn paused, suddenly aware that his hands, for all their recent experiences of impossible creation, felt somehow empty. "I... I've experienced so much, learned so much..."
+
+"But integration, dear student, is not about what you've experienced—it's about what has become part of you." Orna led him to a simple wooden bench in her workshop. "Sit. Take this insight from your last threshold dance—the one about materials that remember their purpose. Now, with ordinary clay, ordinary tools, ordinary consciousness, make something that embodies that understanding."
+
+Finn's hands trembled slightly as they touched the simple clay. After weeks of miraculous transitions, the mundane felt almost foreign. But as he worked, something profound happened. The insight that had felt so ethereal, so dependent on special states, began to settle into his fingers, his breath, his ordinary awareness. The clay responded not to magic, but to understanding made flesh.
+
+Hours later, he held a simple bowl that somehow contained all the wonder he had discovered, but now it was his to carry forward. Orna smiled. "This is how we transform wanderers into makers—not by endless seeking, but by making the extraordinary ordinary, one integration at a time."
+
+**Moral**: *The most profound discoveries mean nothing until they become as natural as breathing, creating not just momentary wonder but lasting transformation.*
+
+*Tomorrow, we explore what happens when some insights resist the very stability required to integrate them...*`,
+  },
 ];

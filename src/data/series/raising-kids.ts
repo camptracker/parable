@@ -187,4 +187,70 @@ Asha wiped her eyes. "But how do you remember to pause when everything is chaos?
 
 *Tomorrow, Mira will share why allowing children to feel their difficult emotions—rather than rushing to fix them—is one of the greatest gifts we can give.*`,
   },
+  {
+    day: 4,
+    title: "The Gift of Struggling Through",
+    date: "2026-05-05",
+    image: "images/raising-kids/day-4.jpg",
+    audio: "audio/raising-kids/day-4",
+    sonnet: `**🪶 Sonnet IV: The Gift of Struggling Through**
+
+When tiny hands reach out for help too soon,
+And frustrated tears begin to fall like rain,
+Our hearts would shield them from each small monsoon,
+Yet growth blooms strongest in the soil of strain.
+
+The puzzle piece that will not fit quite right,
+The shoelace tangled in a stubborn knot,
+These moments when our children meet their might
+Are gifts disguised as battles to be fought.
+
+We hover close but do not take the reins,
+Our presence steady as their courage grows,
+For every struggle strengthens what remains
+When life's true challenges around them close.
+
+*The parent's hardest task is standing by,*
+*While children learn that they were born to fly.*`,
+    standard: `👶 Day 4: **The Gift of Struggling Through**
+
+We rush to rescue our children from discomfort because their pain triggers our own deep-seated need to be "good parents" — we mistake soothing every struggle for love when true love sometimes means witnessing their journey through difficulty. Our discomfort with their discomfort often says more about our own unprocessed emotions than their actual needs.
+
+🧱 **The Concept**
+Struggle is not the enemy of development — it's the catalyst that builds emotional muscle, problem-solving skills, and genuine self-confidence.
+
+❓ **Why It Matters**
+When we constantly smooth the path ahead of our children, we rob them of the opportunity to develop their own coping strategies and inner resilience. Children who never learn to tolerate frustration or work through challenges often become anxious adults who crumble at the first sign of difficulty.
+
+⚙️ **How It Works**
+This doesn't mean leaving children to suffer alone, but rather staying present while they navigate age-appropriate challenges. When your toddler struggles with a puzzle, resist the urge to immediately help — instead, offer encouragement: "That looks frustrating. I believe you can figure it out." When your school-age child faces friendship drama, ask questions that help them think through solutions rather than swooping in to fix it. The key is distinguishing between struggles that build character and those that overwhelm their developing nervous system. We offer support and guidance while allowing them to do the emotional heavy lifting.
+
+🎯 **Parenting Wisdom**
+Our job is not to eliminate struggle from our children's lives, but to be their steady, loving presence as they learn to navigate life's inevitable challenges.
+
+❓ **Tomorrow's Question** — If consistency is crucial for building trust and security, how do we maintain our parenting principles when we're exhausted, stressed, or facing our own emotional triggers that make us want to take the easy way out?`,
+    parable: `Asha watched her eighteen-month-old daughter Maya struggle with the shape sorter, tiny fingers fumbling as she tried to force the square block through the circular opening. Every fiber of Asha's being wanted to reach over and guide the block to its proper place, to smooth away the furrow of concentration and mounting frustration creasing Maya's brow.
+
+"She's getting upset," Asha whispered to Elder Mira, who sat beside them on the garden bench. "Maybe I should help her."
+
+Elder Mira's weathered hands remained folded in her lap. "And what would that teach her about her own capabilities?"
+
+"But she's struggling—"
+
+"Yes," Mira said softly, watching as Maya picked up the block again, turned it in her small hands, and approached the sorter from a different angle. "She is learning that struggles can be overcome. That persistence leads to discovery. That she is capable of more than she knew."
+
+Asha's chest tightened as Maya's face reddened with effort. "It feels cruel to just watch."
+
+"The cruelest thing would be to steal this moment from her," Mira replied. "To teach her that discomfort means someone else will always rescue her. To rob her of the joy that comes only from conquering something difficult."
+
+Just then, Maya rotated the square block and slipped it perfectly through its matching opening. Her face exploded into a grin of pure triumph as she clapped her hands and looked directly at Asha, as if to say, "Did you see what I just did?"
+
+"She did it herself," Asha breathed, understanding flooding through her.
+
+"And now she knows she can," Mira smiled. "That knowledge will serve her well when life presents her with puzzles far more complex than wooden blocks."
+
+**Moral:** The struggles that build our children's character require our presence, not our intervention.
+
+**Tomorrow:** Mira will help Asha understand why maintaining consistency feels impossible when we're at our breaking point, and how to find our center in the storms of daily parenting.`,
+  },
 ];

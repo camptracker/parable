@@ -4036,4 +4036,66 @@ Dove felt something shift in her understanding. "So our wedding should celebrate
 
 *Tomorrow, we explore what changes when you understand marriage as the union of two complete beings rather than the joining of two halves...*`,
   },
+  {
+    day: 65,
+    title: "The Sacred Wholeness",
+    date: "2026-05-05",
+    image: "images/wedding-planning/day-65.jpg",
+    audio: "audio/wedding-planning/day-65",
+    sonnet: `**🪶 Sonnet LXV: The Sacred Wholeness**
+
+Not broken halves that seek their missing part,
+But two complete souls choosing to unite,
+Each bringing gifts of a fulfilled heart
+To marriage's altar, bathed in sacred light.
+
+The needy love that grasps and seeks to fill
+The empty spaces within the self
+Creates a burden that no spouse's will
+Can bear—to be another's very wealth.
+
+But wholeness wed to wholeness builds a tower
+Of strength that weathers every storm's attack,
+Where individual growth has the power
+To enrich the bond, not hold it back.
+
+*In marriage's truest form, two gardens meet,*
+*Their separate blooms make union complete.*`,
+    standard: `💍 Day 65: The Sacred Wholeness
+
+If you're getting married to share your wholeness rather than complete your brokenness, marriage transforms from a desperate need into a generous gift—you're choosing to intertwine two full lives rather than seeking someone to fill your empty spaces. This shifts your expectations from "what can you do for me" to "what can we create together," turning marriage into an act of abundance rather than scarcity.
+
+🧱 **The Concept**
+True marital strength emerges when two individually whole people choose to create something together that neither could achieve alone.
+
+❓ **Why It Matters**
+When you enter marriage expecting your partner to complete you, you place an impossible burden on the relationship and set yourself up for disappointment. Wholeness cannot be borrowed from another person—it must be cultivated within yourself.
+
+⚙️ **How It Works**
+Whole people bring their own dreams, friendships, passions, and emotional stability to marriage, creating a partnership of abundance rather than mutual dependence. For example, instead of expecting your partner to be your only source of emotional support, you maintain other meaningful relationships while offering your emotional maturity to the marriage. Rather than abandoning personal goals to merge completely, you pursue individual growth that enriches what you share together. When conflict arises, whole people can disagree without threatening each other's sense of identity or security. They don't need their partner's constant validation because their self-worth comes from within.
+
+🎯 **Wedding Wisdom**
+Your wedding celebrates two complete people choosing to share their fullness, not two broken halves finally becoming whole.
+
+❓ **Tomorrow's Question** — If you discovered that the most passionate marriages are sustained not by constant togetherness but by each partner maintaining enough individual mystery and growth to keep surprising each other, what would that change about your fears of losing yourself in marriage?`,
+    parable: `Dove stood before her bedroom mirror, wedding dress hanging nearby, feeling oddly empty despite the approaching celebration. "I keep thinking our marriage will fill this restless feeling inside me," she confided to Elm as he adjusted his tie. "Like once we're husband and wife, I'll finally feel complete."
+
+Elm paused, studying her reflection. "What if that feeling isn't meant to be filled by me? What if it's calling you to become more yourself, not less?"
+
+Nana Rose appeared in the doorway, carrying the wedding bouquet. "Oh, my dear ones," she said, overhearing their conversation. "I've watched a thousand couples approach this threshold, and the strongest marriages I've witnessed weren't between people who completed each other—they were between people who celebrated each other's completeness."
+
+She set down the bouquet and took Dove's hands. "The couples still dancing after forty years? They were the ones who brought their own music to the marriage. They had their own friendships, their own dreams, their own emotional centers. They married not because they were half-people seeking wholeness, but because they were full people choosing to create something magnificent together."
+
+Elm nodded slowly. "Like two whole songs creating harmony, not two broken melodies trying to become one tune."
+
+"Exactly," Nana Rose smiled. "When you marry from wholeness rather than neediness, you offer gifts instead of demanding them. You say 'here's what I bring' instead of 'here's what I need.' The love flows outward instead of grasping inward."
+
+Dove felt something shift in her chest—not the filling of an empty space, but the recognition of a fullness that had always been there. "So our wedding isn't about becoming complete. It's about sharing our completeness."
+
+"Now you're ready to marry," Nana Rose whispered. "Not as halves seeking wholeness, but as wholes choosing abundance."
+
+**Moral:** The strongest marriages unite two complete people, not two fragments seeking completion.
+
+**Tomorrow, we discover why individual mystery might be marriage's most passionate fuel...**`,
+  },
 ];

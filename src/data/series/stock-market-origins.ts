@@ -696,4 +696,62 @@ As evening fell, Willem understood: market timing wasn't about predicting tomorr
 
 **Tomorrow:** Willem will discover why our obsession with daily market movements might be the very thing preventing us from building real wealth.`,
   },
+  {
+    day: 13,
+    title: "The Psychology of Market Cycles",
+    date: "2026-05-05",
+    image: "images/stock-market-origins/day-13.jpg",
+    audio: "audio/stock-market-origins/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Psychology of Market Cycles**
+
+When hope runs high and prices climb the sky,
+The crowd believes that fortune knows no end,
+Each triumph makes the next seem drawing nigh,
+As euphoria and avarice blend.
+
+But seasons turn as surely as they came,
+And anxiety creeps through the trading floor,
+The golden dreams that once inspired fame
+Now tremble at uncertainty's door.
+
+Then panic strikes with swift and merciless hand,
+As fear devours what greed had built so tall,
+The same assets that seemed so wisely planned
+Lie broken in despair's consuming fall.
+
+*Yet wise investors know this dance by heart:*
+*When others feel, they think—and play their part.*`,
+    standard: `📈 Day 13: The Psychology of Market Cycles
+
+**🧱 The Concept**
+Markets move in predictable psychological cycles of optimism, euphoria, anxiety, and despair, driven more by human emotions than economic fundamentals.
+
+**❓ Why It Matters**
+Understanding these emotional cycles helps investors recognize when markets are driven by **fear** or **greed** rather than value. The same company can be worth dramatically different amounts depending on where we are in the psychological cycle, creating opportunities for those who can think independently.
+
+**⚙️ How It Works**
+The cycle begins with **optimism** as good news emerges, progresses to **euphoria** when everyone believes prices can only go up, then shifts to **anxiety** when reality doesn't match expectations, and finally reaches **despair** when investors capitulate and sell everything. During the dot-com bubble, Amazon fell from $107 to $7 per share not because the internet disappeared, but because investor psychology swung from extreme optimism to extreme pessimism. Smart investors like Warren Buffett famously "buy when others are fearful and sell when others are greedy," positioning themselves opposite to the crowd's emotions. The key insight is that these cycles are inevitable because they're rooted in human nature—our tendency to extrapolate current trends infinitely into the future.
+
+**🎯 Market Wisdom**
+The market's mood swings create the greatest opportunities for those who can remain rational when others cannot.
+
+**❓ Tomorrow's Question** — If our emotions evolved to help us survive physical threats, but modern markets punish the same fight-or-flight responses that once kept us alive, does successful investing require us to act against our deepest psychological instincts, or can we find ways to align our evolutionary wiring with market success?`,
+    parable: `The winter of 1608 brought whispers of war with Spain, and Willem watched the Beurs transform before his eyes. Where once measured voices had discussed cargo manifests and weather reports, now fevered speculation filled every corner.
+
+"The Spanish fleet grows larger each day," one merchant proclaimed, his eyes wild with excitement. "Our VOC shares will triple when we control their trade routes!"
+
+Van der Meer observed the scene with the detachment of a physician studying fever. "Notice, Willem, how the same men who cowered in fear last month when a single ship was delayed now speak as if we've already conquered half the world."
+
+As days passed, the euphoria intensified. Prices soared not on news of actual victories, but on rumors of potential glory. Men mortgaged their homes to buy more shares. The coffeehouses rang with laughter and bold predictions.
+
+Then came word that the Spanish had reinforced their positions instead of retreating. The mood shifted like a sudden storm. The same voices that had proclaimed inevitable triumph now whispered of certain doom. Shares that had doubled in weeks fell by half in days.
+
+"But nothing fundamental has changed," Willem protested, watching fortunes evaporate. "The VOC's ships still sail, their warehouses still overflow with spices."
+
+"Exactly," Van der Meer replied, quietly purchasing shares from panicked sellers. "The company remains the same—only the crowd's dreams have changed. When men are ruled by their hearts rather than their minds, they create opportunities for those who can think clearly."
+
+**Moral:** Markets reflect not reality, but humanity's eternal dance between hope and fear.
+
+**Tomorrow:** Willem learns why our ancient instincts, once essential for survival, now sabotage our financial judgment.`,
+  },
 ];

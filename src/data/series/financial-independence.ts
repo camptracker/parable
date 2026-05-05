@@ -4831,4 +4831,64 @@ Sable nodded slowly. "Yet consider this: what if Grisham pivoted from selling wa
 
 *Tomorrow, we explore why short-term thinking creates long-term poverty...*`,
   },
+  {
+    day: 74,
+    title: "The Time Arbitrage",
+    date: "2026-05-05",
+    image: "images/financial-independence/day-74.jpg",
+    audio: "audio/financial-independence/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Time Arbitrage**
+
+While others race for quarterly display,
+The patient mind sees decades yet to come,
+Where compound growth rewards the ones who stay
+When market noise has left the rest undone.
+
+Like ancient oaks that weather every storm,
+The businesses of substance slowly grow,
+While flashy trends maintain their fleeting form
+Then fade like winter's temporary snow.
+
+The wise investor drinks from time's deep well,
+Where years distill true value from the noise,
+While day-traders in quarterly cycles dwell,
+Mistaking activity for wealthy joys.
+
+*Time favors those who plant while others trade,*
+*For patience is how lasting wealth is made.*`,
+    standard: `💰 Day 74: The Time Arbitrage
+
+Our capital allocation systems favor extraction over creation because they're designed around quarterly reporting cycles that reward immediate measurable gains over long-term sustainable value. This creates a systematic time arbitrage opportunity where patient capital can consistently outperform by investing in solution-based businesses that the short-term market undervalues.
+
+🧱 **The Concept**
+Time arbitrage is the practice of exploiting different time horizons to create superior returns by taking the long view when others are focused on short-term results.
+
+❓ **Why It Matters**
+Most market participants operate on quarterly cycles, creating systematic mispricings of businesses that require years to compound their value. This temporal mismatch creates one of the most reliable sources of investment alpha available to individual investors.
+
+⚙️ **How It Works**
+While institutional investors face quarterly performance pressure, individual investors can hold quality companies through multiple business cycles. Amazon traded sideways for years while building infrastructure that later generated massive returns. Similarly, companies investing heavily in R&D or customer acquisition often get punished by quarterly-focused markets while building long-term moats. Patient investors who understand this dynamic can systematically buy what institutions are forced to sell and hold what they're pressured to abandon. The key is identifying businesses with strong fundamentals that are temporarily out of favor due to short-term metrics.
+
+🎯 **Buffett Wisdom**
+"Time is the friend of the wonderful business and the enemy of the mediocre one."
+
+❓ **Tomorrow's Question** — If individual investors have such systematic advantages over institutions through longer time horizons, why do most individual investors still trade more frequently than professional fund managers, essentially throwing away their greatest structural advantage in favor of mimicking the very constraints that limit institutional performance?`,
+    parable: `Kael found Sable watching the village clock tower, its ancient mechanism ticking steadily through another century of faithful service.
+
+"Master," Kael began, "yesterday you explained how some businesses create lasting value while others merely extract it. But why do the merchants in the marketplace seem to reward the extractors with higher prices?"
+
+Sable smiled, gesturing toward the clock. "Notice how this timepiece was built by craftsmen long dead, yet it still serves us perfectly. The merchant who commissioned it paid more upfront than he would for a cheaper alternative, but his investment has served three generations. Meanwhile, the village has seen dozens of inferior clocks come and go, each requiring replacement when their shortcuts revealed themselves."
+
+"The marketplace you observe operates like someone buying a new clock every season," Sable continued. "They judge value by this month's performance rather than this decade's service. But the wise investor thinks like the original clock commissioner—willing to pay fairly for quality that will compound over time."
+
+Tobren approached, carrying seeds from his storage barn. "I learned this lesson with my grain varieties," he said. "The market always favors whatever yielded highest last season, but I plant seeds that will nourish the soil and produce consistently for years. My neighbors chase last year's winner while I cultivate next decade's abundance."
+
+Kael studied the ancient clock face, its hands moving with patient precision. "So while others measure by seasons, we should think in lifetimes?"
+
+"Exactly," Sable nodded. "Time itself becomes our greatest ally when we refuse to dance to others' hurried rhythms. The patient farmer always outproduces the frantic one."
+
+**Moral:** *True wealth accumulates not through quick trades but through patient cultivation, while others chase quarterly harvests.*
+
+*Tomorrow, Kael will discover why even those who understand the power of patience often abandon it...*`,
+  },
 ];
