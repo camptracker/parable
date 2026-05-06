@@ -4373,4 +4373,62 @@ As evening settled around them, Lila understood that the healer's greatest skill
 
 *Tomorrow, Maren will reveal what happens when the fear of falling into old patterns makes a healer change course too quickly...*`,
   },
+  {
+    day: 71,
+    title: "The Anticipation Trap",
+    date: "2026-05-06",
+    image: "images/nutrition-science/day-71.jpg",
+    audio: "audio/nutrition-science/day-71",
+    sonnet: `**🪶 Sonnet LXXI: The Anticipation Trap**
+
+When wisdom turns to worry's restless dance,
+And skilled adaptation becomes compulsion's art,
+The mind predicts what body might advance,
+While drowning out the whispers of the heart.
+
+Through changing courses before the signal's clear,
+We trade authentic listening for control,
+And flexibility becomes a rigid fear
+Of missing cues that never left their scroll.
+
+The expert's curse—to know so many ways
+That stillness feels like failure to respond,
+Yet bodies speak in quiet, steady praise
+Of patterns given time to grow and bond.
+
+*True mastery knows when to cease the quest,*
+*And trust that doing nothing serves us best.*`,
+    standard: `🍎 Day 71: The Anticipation Trap
+
+When adaptation becomes anticipation, you start changing course based on imagined future needs rather than present signals, creating a new form of metabolic anxiety where your mind constantly second-guesses what your body might need next. This preemptive flexibility paradoxically becomes rigid—a compulsive pattern of change that prevents the very stillness required to actually hear biological feedback. The most adaptable people often fall into this trap because their success with flexibility makes them forget that timing is everything in metabolic wisdom.
+
+🧱 **The Concept**
+The anticipation trap occurs when metabolic flexibility transforms into compulsive pattern-switching, where you change approaches based on projected needs rather than authentic biological signals.
+
+❓ **Why It Matters**
+This represents one of the most sophisticated forms of disconnection from body wisdom—using the appearance of responsiveness to avoid the vulnerability of actually listening. Many experienced practitioners fall into this trap precisely because their knowledge makes them feel they should always be optimizing, preventing them from recognizing when their body simply wants consistency.
+
+⚙️ **How It Works**
+Your nervous system interprets constant dietary or lifestyle changes as instability, even when the changes are theoretically beneficial. For example, someone might rotate between intermittent fasting, ketogenic eating, and carb cycling not because their body requests these shifts, but because they've learned these tools work and assume they should use them preventatively. This creates a stress response where your metabolism never gets to settle into any pattern long enough to actually communicate its preferences. The anticipation of needing to change becomes more powerful than any actual biological signal, creating a feedback loop where adaptation anxiety drives more unnecessary adaptation. True metabolic wisdom recognizes that sometimes the most advanced move is to do nothing and let your current approach stabilize completely.
+
+🎯 **Science Wisdom**
+The highest form of metabolic flexibility is knowing when not to flex—allowing periods of beautiful, boring consistency that let your body speak clearly.
+
+❓ **Tomorrow's Question** — *If the anticipation trap can hijack even the most sophisticated metabolic knowledge, what happens when someone becomes so afraid of falling into rigid patterns that they unconsciously create the very inflexibility they're trying to avoid—and why might this fear of becoming metabolically stuck actually generate more rigidity than simply committing fully to one approach until their body genuinely asks for something different?*`,
+    parable: `Lila found Maren tending all three hearths simultaneously, adjusting flames that burned perfectly steady. "Master," she called, "why do you keep changing the wood when the fires are already balanced?"
+
+Maren paused, a half-burned log in her hands. "You see much, apprentice. I have become so skilled at reading flames that I anticipate their needs before they whisper them." She set down the wood and stepped back. "Watch."
+
+For the first time in weeks, Maren left the fires untouched. Within an hour, the eastern hearth began to flicker—a genuine signal Maren had been preventing with her preemptive adjustments. "I was feeding fears, not flames," she admitted. "My experience made me forget that fires, like bodies, sometimes need to speak their actual needs before being answered."
+
+Lila watched the hearth steady itself as Maren added precisely what it requested. "So wisdom can become its own trap?"
+
+"The most sophisticated trap of all," Maren nodded. "When you become skilled at change, you can forget the wisdom of waiting. I was changing the wood based on what fires usually need, not what these flames were actually asking for right now."
+
+They sat in comfortable stillness as the three hearths found their natural rhythms. "True mastery," Maren whispered, "sometimes looks like doing nothing while remaining completely awake."
+
+**Moral:** The highest skill is knowing when not to use your skills, allowing present needs to emerge rather than imposing anticipated solutions.
+
+*Tomorrow, Lila discovers why the fear of making metabolic mistakes can create more rigidity than actually making them...*`,
+  },
 ];

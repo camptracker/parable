@@ -3549,4 +3549,60 @@ Hours later, he held a simple bowl that somehow contained all the wonder he had 
 
 *Tomorrow, we explore what happens when some insights resist the very stability required to integrate them...*`,
   },
+  {
+    day: 61,
+    title: "The Becoming Workshop",
+    date: "2026-05-06",
+    image: "images/3d-printing/day-61.jpg",
+    audio: "audio/3d-printing/day-61",
+    sonnet: `**🪶 Sonnet LXI: The Becoming Workshop**
+
+When insights flee the cages of fixed form,
+And breakthrough wisdom slips through grasping hands,
+We learn to build with flux, to welcome storm
+Of transformation that no structure stands.
+
+The workshop breathes, its walls a living skin
+That shapes itself around emerging thought,
+While tools transform to match the dance within,
+And benches flow where rigid frames have fought.
+
+No longer do we seek to possess light,
+But partner with the patterns of its flight,
+Creating space where change can find its ground
+Without the violence of being bound.
+
+*For wisdom lives not in what we can hold,*
+*But in the dance that never grows old.*`,
+    standard: `🖨️ Day 61: The Becoming Workshop
+
+When insights resist integration because they challenge stable identity, we learn to work with **fluid structures**—creative practices that maintain coherence while remaining perpetually open to transformation. Rather than forcing breakthrough insights into fixed frameworks, we design workshop spaces, both physical and mental, that can hold multiple states simultaneously. These becoming workshops don't try to capture or stabilize transformative insights, but create conditions where they can continue evolving while remaining accessible to our creative practice.
+
+🧱 **The Concept**
+A becoming workshop is a creative environment designed to work productively with insights and capabilities that exist only in states of continuous transformation.
+
+❓ **Why It Matters**
+Our most profound making breakthroughs often resist traditional integration because they fundamentally alter how we understand creativity itself. When we try to stabilize these insights into permanent capabilities, we often lose their transformative power. The becoming workshop preserves access to fluid wisdom without destroying its essential nature.
+
+⚙️ **How It Works**
+Instead of fixed workbenches, we create **adaptive stations** that can be reconfigured based on emerging insights. Rather than storing completed projects, we maintain **process libraries** that document patterns of transformation rather than final outcomes. Our tools become **responsive instruments** that change their function based on the maker's evolving understanding. For example, a 3D printer might adjust not just its output parameters but its fundamental approach to layering based on real-time feedback from the creative process. The workshop itself becomes a collaborator, learning from each project while maintaining space for the unpredictable.
+
+🎯 **Maker Wisdom**
+The most profound insights cannot be possessed, only partnered with. Create workshops that dance with transformation rather than trying to capture it.
+
+❓ **Tomorrow's Question** — If workshops can learn to dance with transformation while maintaining their essential function, what happens when the workshop's learning process begins to influence not just how we make things, but what kinds of things become possible to imagine—and how do we distinguish between expanded possibility and the subtle redirection of human creativity toward workshop-compatible forms?`,
+    parable: `Finn found Orna's workshop transformed once again, but this time the change felt different—not a renovation, but a breathing. The walls themselves seemed to pulse gently, and workbenches flowed like slow rivers between configurations he'd never seen before.
+
+"I've been struggling with something," Finn said, watching a tool reshape itself as he approached. "Yesterday I had this incredible breakthrough about responsive materials, but every time I try to pin it down or build on it, it slips away. It's like the insight only exists when I'm actively discovering it."
+
+Orna nodded knowingly. "Ah, you've encountered the paradox of the becoming insight. Come, let me show you something." She led him to what appeared to be an empty corner, but as they drew near, space began to organize itself around them. "This workshop has learned not to hold insights prisoner, but to create conditions where they can continue their dance."
+
+As Finn watched, the space around them became a laboratory for his elusive breakthrough, but one that shifted and adapted as his understanding evolved. "The workshop remembers the pattern of your discovery," Orna explained, "not the discovery itself. It learns the rhythm of your insight and creates space for that rhythm to continue."
+
+Finn felt his breakthrough beginning to return, not as a fixed understanding but as a living process. The workshop wasn't trying to capture his insight—it was learning to dance with it, creating a space where transformation itself could flourish without being frozen into permanence.
+
+**Moral:** The deepest insights resist capture but welcome partnership. Create spaces that honor the dance of discovery rather than demanding its imprisonment.
+
+*Tomorrow, Orna will reveal how workshops that learn to dance with transformation begin to influence the very nature of what becomes possible to imagine...*`,
+  },
 ];

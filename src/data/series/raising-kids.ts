@@ -253,4 +253,61 @@ Just then, Maya rotated the square block and slipped it perfectly through its ma
 
 **Tomorrow:** Mira will help Asha understand why maintaining consistency feels impossible when we're at our breaking point, and how to find our center in the storms of daily parenting.`,
   },
+  {
+    day: 5,
+    title: "The Practice of Self-Compassion in Parenting",
+    date: "2026-05-06",
+    image: "images/raising-kids/day-5.jpg",
+    audio: "audio/raising-kids/day-5",
+    sonnet: `**🪶 Sonnet V: The Practice of Self-Compassion in Parenting**
+
+When shadows fall upon the parent's way,
+And harsh words pierce the tender morning air,
+The inner critic rises up to say
+That love has failed, that we should not dare
+To guide these precious souls entrusted here.
+But wisdom whispers from a deeper well:
+That mercy toward ourselves makes pathways clear,
+And self-forgiveness breaks shame's binding spell.
+As gentle rain restores the thirsting ground,
+So kindness toward our struggling human heart
+Creates the space where healing can be found,
+Where repair and renewal get their start.
+*For children learn what love looks like each day*
+*From watching how we treat ourselves in every way.*`,
+    standard: `👶 Day 5: The Practice of Self-Compassion in Parenting
+
+The answer to maintaining consistency when we're depleted lies not in perfection, but in self-compassion. When we treat our parenting struggles with the same kindness we'd show a dear friend, we actually recover faster and return to our values more quickly than when we berate ourselves for our human moments. The goal isn't to never falter—it's to repair with grace.
+
+🧱 **The Concept**
+Self-compassion in parenting means treating ourselves with kindness during difficult moments rather than harsh self-criticism when we fall short of our ideals.
+
+❓ **Why It Matters**
+Parents who practice self-compassion model emotional regulation for their children and recover more quickly from parenting mistakes. When we're stuck in shame spirals about our parenting "failures," we're less available to actually connect with and guide our children effectively.
+
+⚙️ **How It Works**
+Self-compassion involves three components: acknowledging our struggle without denial ("This is really hard right now"), recognizing our common humanity ("All parents face these challenges"), and offering ourselves kindness ("What do I need right now to show up better?"). For example, instead of thinking "I'm a terrible parent for yelling," we might say "I lost my temper because I'm overwhelmed—this happens to caring parents, and I can repair this with my child." This approach allows us to learn from mistakes without getting trapped in shame, leading to genuine behavior change rather than defensive justification.
+
+🎯 **Parenting Wisdom**
+The parent who can forgive themselves quickly teaches their child that mistakes are opportunities for growth, not evidence of unworthiness.
+
+❓ **Tomorrow's Question** — If modeling is one of our most powerful teaching tools, and children absorb our emotional patterns more than our words, what does it mean that we often try to teach them skills (like patience, kindness, emotional regulation) that we ourselves haven't fully developed?`,
+    parable: `Asha found herself sitting on her kitchen floor at 3 AM, tears streaming down her face as her six-month-old finally slept in her arms after hours of crying. She had snapped at her partner, felt rage toward her innocent baby, and questioned everything about her capacity to mother.
+
+"I'm failing at this," she whispered when Elder Mira arrived with tea the next morning, having sensed her granddaughter's distress through the thin walls of their shared building.
+
+Elder Mira settled beside her with the wisdom of seven children raised. "Child, let me tell you about the night I locked myself in the bathroom when your mother was teething, screaming at the door that I was done being a mother."
+
+Asha looked up, surprised. Mira, who seemed so naturally maternal, so endlessly patient?
+
+"The voice that tells you that you're failing," Mira continued, "is the same voice that kept our ancestors vigilant about threats to their young. But in our modern world, it often misfires, turning normal parenting challenges into evidence of our inadequacy."
+
+She poured the tea slowly, steam rising between them. "I learned that the nights I held myself with the same tenderness I held my babies were the nights I could return to them renewed. Self-compassion isn't selfish—it's fuel for the long journey of raising a soul."
+
+Asha felt something soften in her chest, a small door opening to forgiveness.
+
+**Moral**: *The parent who learns to comfort themselves in difficult moments teaches their child that love doesn't depend on perfection.*
+
+*Tomorrow: What if the very qualities we're trying to instill in our children are invitations for our own growth?*`,
+  },
 ];

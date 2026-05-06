@@ -4098,4 +4098,64 @@ Dove felt something shift in her chest—not the filling of an empty space, but 
 
 **Tomorrow, we discover why individual mystery might be marriage's most passionate fuel...**`,
   },
+  {
+    day: 66,
+    title: "The Sacred Autonomy",
+    date: "2026-05-06",
+    image: "images/wedding-planning/day-66.jpg",
+    audio: "audio/wedding-planning/day-66",
+    sonnet: `**🪶 Sonnet LXVI: The Sacred Autonomy**
+
+Two separate souls who dance in chosen grace,
+Not halves that seek completion in the whole,
+But gardens flourishing in their own space
+While sharing sunshine that enriches both.
+
+The rose maintains her thorns and crimson fire,
+The oak his strength and solitary height,
+Yet when they meet, they lift each other higher—
+Autonomy makes love burn twice as bright.
+
+For marriage built on desperate, clinging need
+Will choke the very life it seeks to hold,
+But sovereign hearts that freely choose to feed
+Each other's growth create love twice as bold.
+
+*When two complete souls wed in sacred dance,*
+*They multiply their power, not their lack.*`,
+    standard: `💍 Day 66: **The Sacred Autonomy**
+
+Realizing that passionate marriages thrive on individual mystery and growth would transform our fears from "Will I lose myself?" to "Am I growing enough to keep being interesting?" Instead of clinging to togetherness as security, we'd embrace separateness as the very thing that makes reunion electric and ensures we never run out of new discoveries about each other.
+
+🧱 **The Concept**
+True marital intimacy requires two autonomous individuals who choose each other daily, not two dependent halves who complete each other.
+
+❓ **Why It Matters**
+When couples mistake fusion for love, they create relationships that suffocate rather than liberate. The healthiest marriages are partnerships between two whole people who maintain their individual sovereignty while building something beautiful together. This isn't about being selfish—it's about bringing your fullest, most authentic self to the relationship rather than a diminished version seeking completion.
+
+⚙️ **How It Works**
+Autonomous love means making space for each partner's individual friendships, creative pursuits, spiritual practices, and personal growth—even when those things don't directly involve the other person. It means celebrating when your partner lights up talking about something you don't fully understand, supporting their need for solitude or adventure, and trusting that their individual flourishing enhances rather than threatens your bond. In wedding planning, this might look like each partner taking ownership of different aspects that reflect their unique interests, or creating ceremony elements that honor both your shared values and your distinct personalities. The goal isn't to merge into one identity but to dance as two complete beings who choose to intertwine their separate lives.
+
+🎯 **Wedding Wisdom**
+Plan a celebration that honors both your unity and your individuality—show your guests what it looks like when two whole people choose to build a life together.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage would be strongest when you needed each other least and chose each other most, what would that change about your current motivations for getting married, and what would it reveal about the difference between desperate love and free love?`,
+    parable: `Dove stood in the cottage garden, watching Elm tend to his section of herbs while she worked among her wildflowers. For weeks, she'd been anxious about maintaining separate interests after marriage, fearing it meant they weren't truly united.
+
+"Nana Rose," she called to the wise planner who was sketching ceremony layouts nearby, "shouldn't couples want to do everything together? Elm loves his woodworking evenings with friends, and I cherish my solo morning walks. Are we not close enough?"
+
+Nana Rose looked up from her sketches, her eyes twinkling. "Child, watch how your wildflowers and his herbs grow side by side. Do they compete for space, or do they create something more beautiful together?"
+
+Dove observed how her cottage roses climbed independently toward the sun while Elm's sage and thyme spread their own roots deep. Yet together, they created a garden more stunning than either could achieve alone.
+
+"The strongest trees in my garden aren't those that grow intertwined," Nana Rose continued. "They're the ones with deep, individual root systems that can weather any storm. When they touch branches in the wind, it's choice, not desperation."
+
+Elm looked up from his herbs, soil-stained hands gentle on the lavender. "I love you most when I see you return from your walks, glowing with whatever you discovered alone. You bring back mysteries I couldn't have found."
+
+Dove felt something shift inside her chest—a recognition that her autonomy wasn't a threat to their love but its very fuel.
+
+**Moral:** The most passionate marriages bloom between two people who maintain their individual sovereignty while choosing to intertwine their lives.
+
+**Tomorrow:** Nana Rose reveals why the strongest unions are built on choice, not need...`,
+  },
 ];

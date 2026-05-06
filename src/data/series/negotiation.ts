@@ -4510,4 +4510,62 @@ Vasska smiled, touching the mirror's surface. "That's the paradox, young merchan
 
 *Tomorrow, Vasska will reveal what happens when the transformation completes itself through mere recognition...*`,
   },
+  {
+    day: 71,
+    title: "The Identity Lock",
+    date: "2026-05-06",
+    image: "images/negotiation/day-71.jpg",
+    audio: "audio/negotiation/day-71",
+    sonnet: `**🪶 Sonnet LXXI: The Identity Lock**
+
+When words reveal the giant within the man,
+And conversation births a grander self,
+The soul expands beyond its former plan,
+No longer bound to mediocrity's shelf.
+
+For once we've tasted what we might become,
+And felt the power of our truest voice,
+To shrink again would strike our spirit dumb,
+And make diminishment our only choice.
+
+The lock clicks shut on who we used to be,
+When greatness whispers we were meant for more,
+And every small decision guarantees
+We'll guard this new self's elevated core.
+
+*Thus transformation, once begun in mind,*
+*Becomes the chain that keeps our souls refined.*`,
+    standard: `🤝 Day 71: The Identity Lock
+
+When you make someone realize the transformation has already occurred, you create an **identity lock** — they become psychologically committed to being their "new self" because returning to their old identity now feels like a lie. This works because people desperately want to maintain internal consistency, and once they've glimpsed who they could be, pretending to be who they were becomes unbearable cognitive dissonance.
+
+🧱 **The Concept**
+The Identity Lock occurs when someone becomes so invested in a new version of themselves revealed during negotiation that returning to their previous identity feels like betrayal of their authentic self.
+
+❓ **Why It Matters**
+Once someone has experienced themselves as capable, generous, or visionary through your conversation, they'll resist any outcome that makes them feel small, petty, or limited again. This creates tremendous pressure to choose options that allow them to remain the elevated version of themselves you've helped them discover.
+
+⚙️ **How It Works**
+You guide someone to experience themselves differently during the negotiation itself — perhaps as more generous than they thought, more capable than they believed, or more visionary than they imagined. For example, asking "What would someone with your level of influence do in this situation?" makes them embody that influence. Once they've felt themselves operating at this higher level, choosing options that make them feel diminished becomes psychologically painful. The negotiation becomes less about what they want and more about who they want to continue being.
+
+🎯 **Negotiation Wisdom**
+People will defend their elevated self-concept more fiercely than their original interests because identity feels more fundamental than circumstance.
+
+❓ **Tomorrow's Question** — If locking someone into an elevated identity works by making diminishment feel like self-betrayal, what happens when you make them feel like they're the only person capable of making a decision that no one else would even understand, essentially making them the sole authority on what's possible in this situation?`,
+    parable: `The merchant Ren watched in fascination as Vasska's scarred hands moved across an ancient map, tracing trade routes that seemed to shimmer with possibility under the lamplight. They sat in the private chamber of the Guild Master, who had summoned them to discuss a venture that could reshape the entire eastern trade network.
+
+"You speak of transformation as if it were still future," Vasska murmured to the Guild Master, his blind eye catching the light strangely. "But look at how you hold yourself now, compared to when we entered this room. You've already become the architect of this vision. The question isn't whether you'll accept this proposal — it's whether you'll continue being the person capable of conceiving it."
+
+The Guild Master straightened unconsciously, and Ren saw something shift in the man's bearing. Throughout their conversation, Vasska had drawn out ideas from him, built upon his insights, elevated his perspective until the Guild Master had been speaking like a visionary rather than a mere administrator.
+
+"I... I hadn't thought of it that way," the Guild Master admitted, but his voice carried new authority. "When you frame it as I did earlier — about trade being the lifeblood of civilization itself — it does seem almost cowardly to think small."
+
+"Precisely," Vasska nodded. "You've already shown me who you truly are. The only question now is whether you'll honor that person or pretend to be someone lesser for the sake of... what? Comfortable mediocrity?"
+
+Ren watched the Guild Master's shoulders square with resolution. Having experienced himself as a visionary, returning to cautious bean-counting had become impossible.
+
+**Moral:** *Once someone has tasted their elevated self, they'll pay any price to avoid the bitter flavor of diminishment.*
+
+*Tomorrow, Ren will discover how making someone the sole judge of what's possible can make rejection feel like intellectual cowardice.*`,
+  },
 ];

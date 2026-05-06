@@ -754,4 +754,70 @@ Then came word that the Spanish had reinforced their positions instead of retrea
 
 **Tomorrow:** Willem learns why our ancient instincts, once essential for survival, now sabotage our financial judgment.`,
   },
+  {
+    day: 14,
+    title: "The Wisdom of Contrarian Thinking",
+    date: "2026-05-06",
+    image: "images/stock-market-origins/day-14.jpg",
+    audio: "audio/stock-market-origins/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Wisdom of Contrarian Thinking**
+
+When fearful crowds abandon hope and flee,
+And panic sells what wisdom ought to buy,
+The contrarian sees opportunity
+In assets cast aside with tearful cry.
+
+For markets swing on waves of human mood,
+From greed's excess to terror's deep despair,
+While fortunes wait for minds that dare intrude
+When others lack the courage or the care.
+
+The greatest gains are born from lonely choice,
+When all the world believes the end is near,
+To trust in value's calm and steady voice
+While others yield to passion, greed, and fear.
+
+*The crowd's emotion makes the wise man's trade—*
+*True wealth from fearless thinking oft is made.*`,
+    standard: `📈 Day 14: The Wisdom of Contrarian Thinking
+
+Successful investing doesn't require fighting our instincts—it requires channeling them differently. The same pattern recognition that helped our ancestors spot danger can help us identify market opportunities, but only when we learn to think opposite to the crowd. When everyone else's fight-or-flight response kicks in during a crash, that's precisely when patient capital finds its greatest rewards.
+
+🧱 **The Concept**
+Contrarian investing means deliberately going against popular market sentiment—buying when others are selling in panic, and exercising caution when others are euphoric.
+
+❓ **Why It Matters**
+Markets are driven by human emotions that create predictable patterns of overreaction. When fear dominates, assets often trade below their true value; when greed takes over, everything becomes overpriced. The greatest fortunes are built by those brave enough to act when it feels most uncomfortable.
+
+⚙️ **How It Works**
+Contrarians watch for extreme sentiment indicators—when magazine covers declare "The Death of Stocks" or "Everyone's Getting Rich," they prepare to do the opposite. Warren Buffett's famous advice to "be fearful when others are greedy and greedy when others are fearful" exemplifies this approach. During the 2008 financial crisis, while most investors fled, contrarians like Buffett invested billions in American companies at bargain prices. The key is distinguishing between temporary panic and fundamental problems—buying quality companies during market tantrums, not failing businesses during rational selloffs. This requires both emotional discipline and deep research to separate genuine opportunity from genuine disaster.
+
+🎯 **Market Wisdom**
+The best investments often feel wrong when you make them—if everyone agreed they were good ideas, the opportunity would already be gone.
+
+❓ **Tomorrow's Question** — If contrarian thinking works because markets overreact to news and emotions, but artificial intelligence is increasingly making trading decisions based on data rather than feelings, will the advantage of going against human crowd psychology disappear as algorithms replace human traders?`,
+    parable: `Willem found Van der Meer standing alone at the harbor while other merchants clustered anxiously around the coffeehouse, whispering of terrible news from the Indies. A ship had been lost, they said, and VOC shares were plummeting as investors rushed to sell.
+
+"Why do you not join them in their urgent council?" Willem asked, noting how his mentor seemed almost serene amid the chaos.
+
+Van der Meer smiled, watching the frantic trading through the coffeehouse windows. "Tell me, young Willem, what do you see when you observe a flock of starlings?"
+
+"They move as one," Willem replied, puzzled by the question. "When one turns, all turn together."
+
+"Precisely. And what happens to the bird that flies against the flock?"
+
+"It... it finds clear air while the others jostle for space."
+
+Van der Meer nodded approvingly. "One lost ship does not doom the Company—we have dozens sailing profitable routes. Yet fear spreads faster than reason, and now quality shares trade at foolish prices." He pulled out a purse heavy with guilders. "While others flee the supposed danger, I shall purchase what they abandon in their haste."
+
+"But what if they are right to be afraid?" Willem wondered.
+
+"Then I shall have bought shares in a company that still controls the spice trade and pays handsome dividends," Van der Meer replied, walking toward the coffeehouse where panicked sellers awaited. "The crowd is often wrong precisely because it is a crowd—individual wisdom drowns in collective emotion."
+
+As they entered the coffeehouse, Willem watched his mentor calmly purchase shares from trembling hands, paying prices that seemed generous to desperate sellers but which Van der Meer knew were bargains.
+
+**Moral**: True profit lies not in following the crowd's emotions, but in thinking clearly when others cannot.
+
+Tomorrow, we discover how the rise of mechanical minds may change the ancient game of human psychology forever...`,
+  },
 ];

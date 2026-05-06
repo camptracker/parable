@@ -620,4 +620,68 @@ Riven saw the truth reflected back at him: he'd been treating his own emotional 
 
 **Tomorrow:** Riven learns why his nervous system can't tell the difference between authentic chemistry and manufactured tension...`,
   },
+  {
+    day: 11,
+    title: "The Biochemical Hijack",
+    date: "2026-05-06",
+    image: "images/relationship-games/day-11.jpg",
+    audio: "audio/relationship-games/day-11",
+    sonnet: `**🪶 Sonnet XI: The Biochemical Hijack**
+
+The racing heart declares itself as love,
+While stress hormones masquerade as desire,
+And anxious thoughts that we are thinking of
+Set nervous systems blazing like a fire.
+
+The one who texts at midnight, then goes dark
+Triggers the rush we've learned to call romance,
+While steady souls who light our daily spark
+Are deemed too safe to merit second glance.
+
+Our bodies cannot parse between the thrill
+Of uncertainty and passion's genuine call,
+So chaos feels like chemistry until
+We learn that love should build, not make us fall.
+
+*True attraction calms the storm instead of starting it—*
+*The heart that races may be counterfeit.*`,
+    standard: `🎭 Day 11: The Biochemical Hijack
+
+We mistake anxiety for attraction because both trigger identical stress hormones — adrenaline, cortisol, and dopamine — creating a biochemical cocktail that feels like passion. This confusion costs us the ability to recognize the calm, steady warmth of secure attachment, which registers as "boring" compared to the dramatic highs and lows our nervous systems have been conditioned to associate with love.
+
+**🧱 The Concept**
+Our bodies cannot distinguish between the stress of uncertainty and the excitement of genuine attraction — both activate the same fight-or-flight response that we've learned to interpret as romantic chemistry.
+
+**❓ Why It Matters**
+When we're addicted to the biochemical rush of intermittent reinforcement, we unconsciously seek partners who trigger our stress response rather than our contentment response. This keeps us trapped in cycles where we mistake activation for affection and chaos for chemistry.
+
+**⚙️ How It Works**
+Someone who texts sporadically triggers anticipation and anxiety — your body floods with stress hormones that feel identical to excitement. Meanwhile, someone who communicates consistently registers as "predictable" because your nervous system isn't being activated. The person who shows up reliably feels less compelling than the one who keeps you guessing, not because they're less attractive, but because they're not triggering your trauma responses. This is why we often feel more "chemistry" with people who are emotionally unavailable — they're literally creating a stress response that we've misidentified as passion.
+
+**🎯 Relationship Strategy Wisdom**
+True attraction feels calm and energizing rather than anxious and draining — learn to recognize the difference between nervous system activation and genuine desire.
+
+**❓ Tomorrow's Question** — If our culture has trained us to equate love with suffering and ease with boredom, how might we need to completely redefine what "chemistry" means in order to choose partners who actually enhance our wellbeing rather than simply activate our wounds?`,
+    parable: `Riven stumbled through the moonlit garden, heart pounding from another evening of mixed signals and unanswered texts. "I don't understand," she whispered to the shadows. "Why does this feel so electric when it hurts so much?"
+
+The Mirror materialized beside a fountain, its surface rippling with phosphorescent light. "Tell me, child — when you touch a live wire, do you mistake the shock for warmth?"
+
+"That's different," Riven protested. "This is love. I can feel it in my chest, the way my pulse races when they finally respond after hours of silence."
+
+"Indeed you can feel it," The Mirror replied, gesturing to the water. "Look closely at what your body experiences."
+
+In the fountain's depths, Riven saw herself from earlier that evening — checking her phone obsessively, stomach tight with anxiety, adrenaline coursing through her veins each time a notification appeared. Then the scene shifted to show her with someone else, someone who texted back promptly and made clear plans. In this vision, her body was relaxed, her breathing steady, her smile genuine rather than forced.
+
+"But the second one feels boring," Riven said weakly.
+
+"Your nervous system has been trained to interpret peace as emptiness and chaos as passion," The Mirror explained. "You mistake the biochemical storm of uncertainty for the gentle warmth of true connection. The person who activates your fight-or-flight response feels more compelling than the one who soothes your soul."
+
+Riven watched the two versions of herself, seeing clearly for the first time how exhausted she looked in the first scenario, how alive and vibrant in the second.
+
+"The body knows only activation and calm," The Mirror continued. "It cannot tell you whether that racing heart signals danger or desire. Only wisdom can make that distinction."
+
+**Moral:** What we call chemistry is often just our trauma responses in disguise — true attraction nurtures rather than depletes.
+
+**Tomorrow:** Riven discovers why society has convinced us that love should be hard work...`,
+  },
 ];
