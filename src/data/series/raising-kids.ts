@@ -310,4 +310,76 @@ Asha felt something soften in her chest, a small door opening to forgiveness.
 
 *Tomorrow: What if the very qualities we're trying to instill in our children are invitations for our own growth?*`,
   },
+  {
+    day: 6,
+    title: "The Parent as Student",
+    date: "2026-05-07",
+    image: "images/raising-kids/day-6.jpg",
+    audio: "audio/raising-kids/day-6",
+    sonnet: `**🪶 Sonnet VI: The Parent as Student**
+
+No perfect mother walks this earthly ground,
+Though books may preach of flawless, measured ways.
+In kitchen chaos, wisdom can be found:
+We learn alongside children all our days.
+
+The tears we shed when patience runs too thin
+Teach more than lectures ever could convey.
+Our stumbles show that growth begins within,
+That mastery is practice, not display.
+
+When anger rises and our voices shake,
+We breathe and model how to start again.
+Apologies become the steps we take
+To show that healing follows every pain.
+
+*The child who sees their parent truly try*
+*Learns courage from that vulnerable cry.*`,
+    standard: `👶 Day 6: The Parent as Student
+
+This paradox reveals that parenting is fundamentally a practice of growth, not perfection — we are students alongside our children, learning the very skills we hope to teach them. When we embrace this reality, we transform from hypocritical teachers into authentic guides, showing our children that emotional skills are lifelong practices rather than achievements, and that struggling to develop patience or kindness is part of being human, not a failure of character.
+
+🧱 **The Concept**
+Parenting is a continuous learning laboratory where we develop emotional and relational skills in real-time alongside our children.
+
+❓ **Why It Matters**
+Children learn more from watching our process of growth than from our polished performances. When we pretend to have mastered skills we're still developing, we create impossible standards and teach them that struggle equals failure.
+
+⚙️ **How It Works**
+Instead of hiding our learning process, we can make it visible: "I'm feeling frustrated right now, and I need to take some deep breaths before we continue this conversation." We can apologize when we lose our temper: "I raised my voice, and that wasn't okay. I'm still learning how to handle big feelings too." We practice alongside them: "Let's both try counting to ten when we feel angry." This approach normalizes the messiness of growth while maintaining our role as guides. We're not abandoning authority — we're modeling authentic leadership that includes vulnerability and continuous improvement.
+
+🎯 **Parenting Wisdom**
+The most powerful gift we can give our children is the sight of an adult who is still growing, still learning, still becoming.
+
+❓ **Tomorrow's Question** — If children need both roots (security) and wings (freedom) to thrive, how do we know when our protective instincts are nurturing growth versus when they're constraining it?`,
+    parable: `Asha found herself in Elder Mira's kitchen again, this time with tears streaming down her face. "I lost it today," she confessed. "I've been reading all these parenting books about emotional regulation, and then I screamed at my toddler for spilling juice. What kind of mother am I?"
+
+Elder Mira handed her a cup of tea, her weathered hands steady and sure. "The kind who's human," she said simply. "Tell me, child, when did you learn to ride a bicycle?"
+
+Asha looked confused through her tears. "When I was seven, I think. But what does that—"
+
+"Did you fall?"
+
+"Of course, many times."
+
+"And did falling make you a bad cyclist?"
+
+"No, it made me... oh." Understanding dawned slowly across Asha's face.
+
+Elder Mira nodded. "I have a confession. With my first child, I thought I had to be perfect — the mother who never lost her temper, never made mistakes. I spent so much energy pretending to be someone I wasn't that I forgot to be the mother I was becoming." She paused, watching steam rise from their cups. "But children don't need perfect mothers, dear one. They need real ones."
+
+"My fourth child once asked me why I never got angry like other grown-ups," Elder Mira continued with a soft laugh. "It broke my heart because I realized I'd been hiding my humanity so well that he thought something was wrong with everyone else. After that, I started showing him my process — not my chaos, but my growth."
+
+Asha leaned forward. "What do you mean?"
+
+"When I felt anger rising, I'd say, 'I'm feeling very frustrated right now. I need a moment to breathe before we talk.' When I made mistakes, I apologized and explained what I was learning. He got to see that managing emotions is a practice, not a perfection."
+
+The wisdom settled between them like afternoon light. "So when I lost my temper today..."
+
+"You showed your child that you're human. Tomorrow, you show them how humans repair and grow."
+
+**Moral**: The greatest teachers are eternal students, and the most authentic leaders are those brave enough to learn in front of others.
+
+*Tomorrow, Elder Mira will share the delicate art of knowing when to hold on and when to let go...*`,
+  },
 ];

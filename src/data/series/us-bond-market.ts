@@ -848,4 +848,66 @@ As Maya deleted her leverage calculations, Garrison added softly, "Remember, tru
 
 **Tomorrow:** Maya discovers how passive investing's dominance creates new market vulnerabilities that few understand.`,
   },
+  {
+    day: 15,
+    title: "The Passive Tsunami",
+    date: "2026-05-07",
+    image: "images/us-bond-market/day-15.jpg",
+    audio: "audio/us-bond-market/day-15",
+    sonnet: `**🪶 Sonnet XV: The Passive Tsunami**
+
+When algorithms buy what indexes command,
+And money flows by rule, not reason's call,
+The market's voice grows muffled in the land
+Where passive funds have built their towering wall.
+
+No human hand selects what bonds to hold,
+Just mathematical mirrors of the whole,
+While true price discovery grows weak and cold
+Beneath the weight of capital's blind scroll.
+
+Yet when the storm breaks and the tide turns fast,
+These same funds must sell what once they sought,
+Amplifying waves that grow too strong to last,
+As passive calm becomes the chaos wrought.
+
+*When followers lead, the dance becomes a race,*
+*And markets lose their natural saving grace.*`,
+    standard: `📊 Day 15: The Passive Tsunami
+
+Passive funds create artificial demand floors that mask true price discovery, essentially turning bond markets into a hall of mirrors where prices reflect fund flows rather than economic reality. When redemptions hit, these same funds become forced sellers, amplifying volatility precisely when markets need stability most—transforming liquidity providers into liquidity drains.
+
+🧱 **The Concept**
+Passive bond investing has fundamentally altered market microstructure, creating systematic risks that didn't exist in traditional active-manager dominated markets.
+
+❓ **Why It Matters**
+Nearly 40% of US bond mutual fund assets now sit in passive strategies, up from less than 10% two decades ago. This shift means unprecedented amounts of capital move based on index rules rather than fundamental analysis, creating feedback loops that can destabilize the very markets these funds claim to track efficiently.
+
+⚙️ **How It Works**
+When new money flows into bond index funds, managers must buy bonds in exact index proportions regardless of valuation—pushing up prices of overvalued securities while ignoring cheaper alternatives. During the March 2020 crisis, even Treasury ETFs traded at discounts to their underlying bonds as redemption pressure forced sales. The Federal Reserve had to create special facilities specifically to support ETF liquidity, revealing how passive investing had created new systemic vulnerabilities. Investment-grade corporate bond ETFs saw $40 billion in outflows in just three weeks, forcing fire sales that drove spreads to levels not seen since 2008 despite fundamentally stronger corporate balance sheets.
+
+🎯 **Bond Wisdom**
+When everyone follows the same map, the territory itself changes—and not always in predictable ways.
+
+❓ **Tomorrow's Question** — If central bank balance sheets have expanded by over $20 trillion globally since 2008, effectively making central banks the largest bond investors in history, why do traditional measures of bond market "value" still matter when the biggest players aren't profit-motivated, and what does this suggest about how we should think about bond prices in an era of permanent monetary intervention?`,
+    parable: `Maya stared at her Bloomberg terminal, watching the latest ETF flow data scroll past in amber digits. "Look at this, Garrison," she said, pointing to the screen. "HYG just had its biggest inflow in six months, but high-yield spreads keep widening. How does that make sense?"
+
+Garrison leaned back in his worn leather chair, the kind that had weathered three decades of market storms. "Ah, the passive tsunami," he murmured, gesturing toward the wall of monitors showing fund flows in real-time. "You're watching the death of price discovery, Maya. Those ETF buyers aren't choosing bonds—they're choosing a wrapper."
+
+He pulled up a chart spanning twenty years. "See this? Back when I started, bond prices moved because someone smart thought Company X was getting stronger or weaker. Now? Prices move because some algorithm in Kansas got a wire transfer and had to deploy it according to index rules."
+
+Maya frowned. "But isn't that more efficient? No human bias, just pure market representation?"
+
+"Efficient until it isn't," Garrison replied, his voice carrying the weight of experience. "March 2020 taught us what happens when the passengers try to drive the ship. Everyone wanted out of their bond ETFs at once, but those ETFs owned actual bonds that couldn't be sold fast enough. So you had this beautiful paradox—Treasury ETFs trading below the value of the Treasuries they held. The safest assets in the world, and their own ETFs were selling at a discount."
+
+He stood and walked to the window overlooking the financial district. "The Fed had to step in with emergency facilities just to keep ETF markets functioning. Think about that—they had to rescue the rescuers. When passive becomes dominant, the market loses its natural shock absorbers."
+
+Maya nodded slowly. "So we've built a system where money flows based on marketing rather than analysis, and when stress hits, everyone discovers they own the same thing."
+
+"Exactly. And the beautiful irony? The more money that flows into passive strategies, the more important active management becomes for actual price discovery. We're creating our own job security by making ourselves obsolete."
+
+**Moral**: When the crowd becomes the market, the market loses its wisdom—until the crowd needs wisdom most.
+
+**Tomorrow**: Maya and Garrison explore how central banks' massive bond holdings have created a new paradigm where traditional valuation metrics collide with non-economic buyers.`,
+  },
 ];

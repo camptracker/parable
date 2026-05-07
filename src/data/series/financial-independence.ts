@@ -4953,4 +4953,71 @@ Sable nodded gravely. "The trap of mimicry is that we copy the appearance of suc
 
 **Tomorrow**: *Why does our desire to appear competent often lead us to abandon our greatest strengths?*`,
   },
+  {
+    day: 76,
+    title: "The Evolutionary Mismatch",
+    date: "2026-05-07",
+    image: "images/financial-independence/day-76.jpg",
+    audio: "audio/financial-independence/day-76",
+    sonnet: `**🪶 Sonnet LXXVI: The Evolutionary Mismatch**
+
+In ancient groves where saber-teeth once prowled,
+Our minds learned swift to mirror tribal ways—
+For those who paused while others fled or howled
+Saw neither dawn nor any future days.
+
+Yet now these instincts, honed by primal fear,
+Lead crowds toward peaks when wisdom counsels sell,
+And drive the masses from what should be dear
+When market storms create their fearsome swell.
+
+The hunter's brain that saved us from the beast
+Now sabotages wealth with ancient code,
+While patient minds who think when others feast
+Find fortune on the less-traveled road.
+
+*Though evolution forged our tribal mind,*
+*True wealth comes to those who think behind.*`,
+    standard: `💰 Day 76: The Evolutionary Mismatch
+
+Humans evolved in small tribal groups where copying successful behaviors was literally a survival advantage—those who mimicked effective hunting, foraging, and social strategies lived longer and reproduced more. This ancient programming served us well for millennia, but modern markets reward exactly the opposite: independent analysis and contrarian thinking that goes against crowd behavior. **The evolutionary mismatch** explains why our deepest instincts often lead us toward financial failure.
+
+**The Concept**
+Our brains are running Stone Age software in a Space Age economy, creating systematic blind spots that markets exploit.
+
+**Why It Matters**
+Recognizing this evolutionary mismatch helps explain why intelligent people make predictably irrational financial decisions. When everyone is buying at market peaks or selling at market lows, they're following ancient tribal survival instincts that are completely inappropriate for wealth building. Understanding this programming allows us to consciously override it.
+
+**How It Works**
+In prehistoric environments, the cost of independent thinking was often death—better to copy successful tribe members than risk experimenting with new approaches. Today, this shows up as momentum investing (buying because prices are rising), FOMO during bubbles, and panic selling during crashes. The trader who buys because "everyone else is making money" is following the same neural pathways that kept our ancestors alive but now systematically transfers wealth to those who think independently. Warren Buffett's famous advice to "be fearful when others are greedy" works precisely because it contradicts our evolutionary programming.
+
+**Buffett Wisdom**
+"The most important quality for an investor is temperament, not intellect." Temperament means recognizing when your ancient brain is driving and consciously choosing different behavior.
+
+**Tomorrow's Question**
+If our evolutionary programming creates such predictable financial mistakes, and we know this intellectually, why does simply understanding these biases rarely prevent us from acting on them—what does this reveal about the relationship between conscious knowledge and unconscious behavior patterns?`,
+    parable: `Kael found Sable watching a group of villagers rushing toward the old mine shaft, tools in hand, faces flushed with excitement.
+
+"Elder, why are they digging there? That shaft was abandoned years ago."
+
+Sable's eyes held ancient wisdom. "Young Roderick claimed he found silver yesterday. Now watch—each person sees others running and assumes they know something valuable."
+
+Kael observed the growing crowd. "But surely some must question this?"
+
+"In our ancestors' time," Sable explained, "following the herd meant survival. If everyone ran from rustling bushes, those who stopped to analyze often became predator meals. If the tribe moved toward water, stragglers died of thirst."
+
+Tobren approached, muddy and frustrated. "I've been digging all morning with nothing to show. Yet I couldn't stop—seeing others dig made it seem foolish not to try."
+
+"Your ancient mind," Sable continued, "still believes that group behavior signals hidden knowledge. It cannot distinguish between a saber-tooth tiger and market speculation. Both trigger the same survival response: copy successful-appearing behavior immediately."
+
+Kael watched as more villagers abandoned their own productive work to join the futile digging. "So our deepest instincts..."
+
+"Are magnificent for hunting mammoth but disastrous for building wealth. The modern world rewards those who think when others feel, who pause when others rush."
+
+By evening, the excited crowd had dispersed, having found nothing but rocks and regret. Only Tobren, who had quietly returned to tending his crops, had anything to show for the day.
+
+**Moral:** The instincts that once preserved life now often destroy wealth—wisdom lies in recognizing when ancient programming serves current purposes.
+
+**Tomorrow:** We'll explore why knowledge alone cannot overcome millions of years of evolutionary wiring...`,
+  },
 ];

@@ -820,4 +820,46 @@ As they entered the coffeehouse, Willem watched his mentor calmly purchase share
 
 Tomorrow, we discover how the rise of mechanical minds may change the ancient game of human psychology forever...`,
   },
+  {
+    day: 15,
+    title: "The Persistence of Human Irrationality",
+    date: "2026-05-07",
+    image: "images/stock-market-origins/day-15.jpg",
+    audio: "audio/stock-market-origins/day-15",
+    sonnet: `**🪶 Sonnet XV: The Persistence of Human Irrationality**
+
+Though brass and steel may count at lightning speed,
+And calculate what mortal minds cannot,
+Behind each gear lies still the human need
+For profit, fear, and dreams that time forgot.
+
+The merchant's heart beats wild with ancient greed,
+The sailor's soul knows terror of the deep,
+These passions drive each economic deed
+While metal servants their cold vigil keep.
+
+No engine feels the tremor in a voice
+When last guilders hang upon the trade,
+Nor sees the panic in a trader's choice
+When fortunes shift and confidence does fade.
+
+*For markets mirror not the mind of steel,*
+*But flesh and blood, and all that mortals feel.*`,
+    standard: `📈 Day 15: The Persistence of Human Irrationality
+
+While algorithms may trade without emotions, they still serve human masters who set their parameters based on fundamentally human assumptions about what data matters. Even more importantly, algorithms must ultimately trade with and against human decisions, from corporate executives making strategic choices to consumers deciding what to buy, creating endless opportunities for human psychology to influence market prices. **The Concept:** Despite technological advances, human behavioral patterns continue to drive market movements because algorithms cannot eliminate the human element from the underlying economic activities they attempt to predict. **Why It Matters:** Understanding that markets remain fundamentally human systems helps investors recognize that behavioral advantages persist even in an age of artificial intelligence. The emotions, biases, and crowd behaviors that create market inefficiencies don't disappear just because the tools for exploiting them become more sophisticated. **How It Works:** Algorithms may execute trades faster and process more data, but they still depend on human-generated information like earnings reports, news events, and economic policies that reflect human judgment and emotion. When a CEO makes an overconfident acquisition or when consumers panic about inflation, these human behaviors ripple through markets regardless of how many algorithms are watching. Smart investors can still profit by understanding these human patterns, just as Van der Meer once profited by reading the emotions of his fellow merchants in Amsterdam's coffeehouses. The technology changes, but the underlying human drama that drives economic value creation and destruction remains constant. **Market Wisdom:** In markets, the human element is both the source of inefficiency and the wellspring of all economic value. **❓ Tomorrow's Question — If the same human behavioral patterns that created market opportunities in 1602 Amsterdam still exist today beneath layers of modern technology, what does this suggest about the unchanging nature of human economic behavior, and should investors focus more on studying psychology and history than on learning the latest technological tools?**`,
+    parable: `Willem watched in fascination as Van der Meer examined a peculiar new contraption—a mechanical device that could calculate trading ratios faster than any human mind. "Master," Willem asked, "will such machines make traders like us obsolete?"
+
+Van der Meer chuckled, running his weathered fingers along the brass gears. "Tell me, boy, what makes a ship valuable?"
+
+"Why, its cargo and its ability to sail," Willem replied.
+
+"And who decides what cargo to load? Who chooses the destination? Who feels fear when storms approach and courage when opportunities beckon?" The old merchant's eyes twinkled. "These machines may calculate faster than we can count, but they cannot dream of Indies spices or imagine the taste of profit. They cannot feel the greed that drives a captain to overload his vessel or the panic that makes him turn back from profitable shores."
+
+As if summoned by their conversation, a breathless messenger burst into the coffeehouse with news that Spanish ships had been spotted near the Indies. Immediately, the room erupted in shouts and gestures as traders began their ancient dance of fear and greed. Van der Meer noted how some fled while others pressed forward, their faces revealing the same patterns he had observed for decades.
+
+"You see, Willem," he said softly, "the machine may count the ships and calculate the odds, but it cannot feel the trembling in a man's voice when he speaks of his last guilder, nor smell the desperation that makes him sell at the worst moment. These merchants are not numbers on an abacus—they are human souls driven by dreams and terrors that no contraption can truly understand."
+
+The moral: Beneath every technological advancement lies the unchanging human heart, and those who understand its patterns will always find advantage. Tomorrow, we shall discover what the persistence of these ancient behavioral patterns reveals about the very nature of human commerce.`,
+  },
 ];

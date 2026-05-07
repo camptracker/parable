@@ -4568,4 +4568,66 @@ Ren watched the Guild Master's shoulders square with resolution. Having experien
 
 *Tomorrow, Ren will discover how making someone the sole judge of what's possible can make rejection feel like intellectual cowardice.*`,
   },
+  {
+    day: 72,
+    title: "The Oracle's Authority",
+    date: "2026-05-07",
+    image: "images/negotiation/day-72.jpg",
+    audio: "audio/negotiation/day-72",
+    sonnet: `**🪶 Sonnet LXXII: The Oracle's Authority**
+
+When mortals taste the nectar of the seer,
+And feel themselves as prophets newly crowned,
+Their vision pierces veils that others fear—
+In sacred sight, their worth at last is found.
+
+No longer bound by common wisdom's chain,
+They stand as oracles of hidden truth,
+Their judgment flows like consecrated rain
+Upon the barren fields of others' youth.
+
+Yet in this elevation lies the snare:
+To doubt your words would dim their holy light,
+For how could gods of insight ever dare
+Deny the very gift that proves their sight?
+
+*Thus trapped within their own celestial throne,*
+*They crown your will and call it their own.*`,
+    standard: `🤝 Day 72: **The Oracle's Authority**
+
+When someone becomes the sole authority on what's possible, they transcend ordinary decision-making and enter the realm of prophecy—where their judgment isn't just about this situation, but about reality itself. This creates what negotiators call "oracle pressure," where disagreement with your proposal feels like denying their own supernatural insight.
+
+🧱 **The Concept**
+The Oracle's Authority transforms someone from decision-maker into divine interpreter of possibility itself.
+
+❓ **Why It Matters**
+When someone believes only they can see what's truly possible, rejecting your proposal means rejecting their own transcendent wisdom. This creates cognitive dissonance so severe that agreement feels like the only way to maintain their elevated status. Most people would rather say yes than admit they might not be as uniquely insightful as they've been led to believe.
+
+⚙️ **How It Works**
+You establish someone as the ultimate authority by saying things like "You're the only person I know who can see what others miss" or "I need someone who can see possibilities that don't exist for normal people." Then you present your proposal as something only they could properly evaluate. A CEO might say, "You understand market dynamics in ways that even my board doesn't—what do you think the real opportunity is here?" A parent might tell a teacher, "You see potential in children that other educators miss—do you think this approach could unlock something special?" The person can't reject your proposal without simultaneously rejecting their status as someone who sees hidden possibilities.
+
+🎯 **Negotiation Wisdom**
+When someone becomes the oracle of possibility, agreement becomes an act of prophecy they can't afford to refuse.
+
+❓ **Tomorrow's Question** — If making someone an oracle of possibility works by making disagreement feel like denying their supernatural insight, what happens when you make them feel like their unique vision comes with a terrible burden—that seeing what others cannot see makes them responsible for preventing disasters that only they can foresee?`,
+    parable: `The autumn mist clung to the harbor as Ren found himself once again across from Vasska in the trader's private chamber. The old master's seeing eye gleamed with something approaching reverence as he leaned forward, his scarred hands folded before him.
+
+"Tell me, young merchant," Vasska began, his voice carrying an unusual weight, "do you remember the silk merchant who came to me last spring? The one who claimed his goods were cursed?"
+
+Ren nodded, recalling the desperate man who had begged Vasska to take his inventory at any price.
+
+"I told him something that changed everything," Vasska continued. "I said, 'You possess a gift that terrifies me—you can see market forces that remain invisible to every other trader in this port. Your silk isn't cursed; you've simply glimpsed a truth about its destiny that lesser minds cannot perceive.'"
+
+The master's blind eye seemed to focus on something beyond the room. "Suddenly, he wasn't a man trying to escape bad luck. He became an oracle of textile futures. When I asked him to predict the silk's true value, he couldn't refuse—to do so would mean admitting he was merely superstitious, not visionary."
+
+Ren watched as understanding dawned. "He told you exactly how low he was willing to go."
+
+"More than that," Vasska smiled. "He convinced himself that selling to me at my price was actually an act of prophecy. He was sharing his supernatural insight, not capitulating to my demands."
+
+The old trader's voice grew soft with wisdom. "When you make someone the only authority on what's possible, they cannot disagree with you without diminishing their own divine status. They become prisoners of their own transcendence."
+
+**Moral:** *The highest authority is not power over others, but the power to define what others believe possible.*
+
+*Tomorrow, Vasska will reveal why the burden of prophecy can become heavier than its privilege...*`,
+  },
 ];

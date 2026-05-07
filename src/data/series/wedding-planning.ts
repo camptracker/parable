@@ -4158,4 +4158,59 @@ Dove felt something shift inside her chest—a recognition that her autonomy was
 
 **Tomorrow:** Nana Rose reveals why the strongest unions are built on choice, not need...`,
   },
+  {
+    day: 67,
+    title: "The Sacred Freedom",
+    date: "2026-05-07",
+    image: "images/wedding-planning/day-67.jpg",
+    audio: "audio/wedding-planning/day-67",
+    sonnet: `**🪶 Sonnet LXVII: The Sacred Freedom**
+
+Two trees that grow apart yet intertwined,
+Each rooted deep in soil of their own ground,
+Their branches reaching skyward, undefined
+By need for what the other's growth has found.
+The desperate vine that strangles as it climbs
+Will kill the oak it thinks it loves so well,
+While trees that choose their dance through changing times
+Create a forest where both stories dwell.
+True love is not the merger of two souls
+But symphony of voices, distinct, clear,
+Each instrument complete, each playing roles
+That harmonize without dissolving here.
+*For marriages that bloom in sacred space*
+*Are built by those who choose, not those who chase.*`,
+    standard: `💍 Day 67: The Sacred Freedom
+
+When love is free rather than desperate, marriage becomes a celebration of abundance rather than a solution to scarcity—two complete people choosing to share their fullness rather than seeking completion through each other. This shift transforms marriage from a psychological merger into a spiritual collaboration, where each partner's independence actually strengthens their bond.
+
+🧱 **The Concept** The strongest marriages are built between two people who could thrive alone but choose to build something beautiful together.
+
+❓ **Why It Matters** When we marry from wholeness rather than neediness, we enter into sacred partnership rather than unconscious codependency. Free love chooses daily; desperate love clings fearfully.
+
+⚙️ **How It Works** Consider how you feel when your partner pursues their own interests versus when they seem lost without you—paradoxically, their independence makes them more attractive, not less. A bride who maintains her close friendships and individual passions brings more vitality to her marriage than one who abandons everything for romance. Partners who each have financial independence, emotional resilience, and personal purpose create a marriage of choice rather than survival. When you can honestly say "I don't need you, but I absolutely choose you," you've discovered the foundation of unshakeable love. This freedom allows both partners to show up authentically rather than performing whatever they think will prevent abandonment.
+
+🎯 **Wedding Wisdom** Plan your celebration as two whole people choosing each other, not two halves finally becoming complete.
+
+❓ **Tomorrow's Question** If you discovered that your marriage's greatest gift wouldn't be the security of having someone who will never leave you, but the daily miracle of someone who chooses to stay, what would that change about the promises you're preparing to make and the future you're trying to guarantee?`,
+    parable: `Dove sat in the garden, watching two butterflies dance around each other in the morning light. One seemed to chase desperately while the other fluttered freely, sometimes coming close, sometimes drifting away.
+
+"I understand now," she said to Elm, who was reading beside her. "I've been afraid that if we're too independent, we'll grow apart. But watching them... the desperate one looks exhausted."
+
+Nana Rose appeared with her tea, settling into the third chair they'd learned to keep ready. "Ah, the butterfly lesson. I've watched a thousand couples learn this truth—usually after the wedding, unfortunately."
+
+"What truth?" Dove asked.
+
+"That the couples who grip tightest often lose what they're trying to hold. The ones who hold lightly, with open palms, create space for love to breathe and grow." She pointed to the butterflies. "See how the free one occasionally returns to dance? That's choice. The desperate one never experiences that gift."
+
+Elm closed his book thoughtfully. "I want to marry you because you're extraordinary, not because I'm incomplete without you."
+
+"And I want to marry you because sharing life with you sounds like the most beautiful adventure, not because I need rescuing from myself." Dove felt something settle in her chest—a deep exhale she hadn't known she was holding.
+
+Nana Rose smiled. "Now you're ready to plan a celebration of abundance rather than a ceremony of merger. Two whole people choosing to build something magnificent together."
+
+**Moral:** The strongest unions are built not by two halves seeking completion, but by two wholes choosing collaboration.
+
+*Tomorrow: Discovering why chosen love outshines guaranteed love...*`,
+  },
 ];

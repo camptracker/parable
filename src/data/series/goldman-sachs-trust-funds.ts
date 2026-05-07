@@ -758,4 +758,69 @@ Sterling felt a chill. "So democratic participation becomes... theatre?"
 
 *Tomorrow, Sterling would learn how the ultra-wealthy have transformed criticism of their wealth into an apparent attack on aspiration itself.*`,
   },
+  {
+    day: 13,
+    title: "The Aspiration Capture Engine",
+    date: "2026-05-07",
+    image: "images/goldman-sachs-trust-funds/day-13.jpg",
+    audio: "audio/goldman-sachs-trust-funds/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Aspiration Capture Engine**
+
+What dreams they sell to those who dream in vain,
+Of trust funds built on hopes that cannot be,
+While showing paths that lead through wealth's domain
+To those who'll never hold the golden key.
+
+They teach the art of fortune's preservation
+To hearts that beat with middle-class desire,
+And bind the poor to rich men's conservation
+Through aspirations set deliberately higher.
+
+Each strategy displayed with careful art
+Reveals the rules but hides the entry cost,
+Till common folk defend the wealthy's part
+As if their own potential would be lost.
+
+*The greatest fortress built by coin and stealth*
+*Is when the poor guard others' hoarded wealth.*`,
+    standard: `💎 Day 13: The Aspiration Capture Engine
+
+They weaponize the American Dream itself, transforming wealth preservation into apparent wealth creation opportunity by positioning their structures as scalable blueprints for success. Every trust fund, tax strategy, and alternative investment vehicle is marketed not as wealth hoarding, but as innovative financial architecture that "smart money" uses—creating a psychological bridge where protecting billionaire assets appears to protect everyone's potential path to prosperity.
+
+🧱 **The Concept**
+Ultra-high-net-worth families don't just preserve wealth—they capture society's aspirational energy by presenting their wealth preservation strategies as accessible success methodologies.
+
+❓ **Why It Matters**
+This transforms criticism of extreme wealth into apparent attacks on success itself, making inequality defense appear as opportunity protection. When Goldman Sachs promotes "family office strategies" or "trust fund planning," they're not just selling services—they're selling the dream that these tools represent scalable success rather than exclusive preservation mechanisms.
+
+⚙️ **How It Works**
+Private banks publish case studies showing how trust structures "create generational wealth," positioning dynastic preservation as wealth building rather than wealth hoarding. They sponsor financial education programs teaching "high-net-worth strategies" to middle-class audiences who will never qualify for the actual services, creating aspirational identification with billionaire interests. Alternative investment platforms market "institutional-quality opportunities" to accredited investors, making exclusive wealth vehicles appear democratically accessible while maintaining structural barriers. Family offices host "next generation wealth" conferences, presenting inheritance planning as entrepreneurial strategy rather than aristocratic succession.
+
+🎯 **Private Wealth Wisdom**
+The most sophisticated wealth preservation occurs when the masses psychologically identify with billionaire interests, believing that protecting extreme wealth somehow protects their own potential prosperity.
+
+❓ **Tomorrow's Question**
+If the ultra-wealthy have successfully engineered mass psychological identification with their wealth preservation interests, making ordinary citizens defend billionaire tax strategies as protection of their own theoretical future wealth, what happens to democratic governance when voters consistently choose policies that benefit the few while harming their own material interests, and can this mass Stockholm syndrome be reversed?`,
+    parable: `Sterling found Aurelius in his corner office, studying a presentation titled "Democratizing Wealth Strategies." The legendary banker's expression was unreadable as he reviewed slides showing middle-class families attending seminars on "family office principles" and "generational wealth planning."
+
+"You're teaching trust fund strategies to people who'll never have trust funds," Sterling observed, settling into the leather chair across from Aurelius's mahogany desk.
+
+"Not teaching," Aurelius corrected, his voice carrying the weight of four decades managing dynastic fortunes. "Aspirationally conditioning. Watch." He gestured to the presentation. "Every strategy we show them is real, technically accessible, but practically impossible at their wealth level. A family with two million dollars can legally establish a trust—but they'll never have enough assets to justify the complexity or costs."
+
+Sterling studied a slide showing "wealth building through alternative investments." The minimum investment thresholds were clearly marked: $10 million for private equity, $25 million for hedge funds, $50 million for direct infrastructure deals. "They can see the strategies but never truly access them."
+
+"Precisely," Aurelius said, turning to the window overlooking Manhattan's financial district. "But here's the psychological brilliance—they begin to identify with our clients' interests. When they hear about carried interest taxation or estate tax policy, they don't think 'that affects billionaires,' they think 'that affects successful people like I want to become.'"
+
+The presentation's final slides showed polling data: middle-class Americans opposing wealth taxes, supporting capital gains preferences, and defending dynastic trust structures—all policies that would never benefit them but would preserve their aspirational heroes' fortunes.
+
+"We've captured their dreams," Aurelius continued. "Every criticism of extreme wealth becomes an attack on their own aspirations. Every policy that benefits our clients becomes protection of their own theoretical future. They defend our clients' wealth as if it were their own potential prosperity."
+
+Sterling felt a chill of recognition. "They're psychologically invested in protecting a system that excludes them."
+
+"The perfect wealth preservation mechanism," Aurelius nodded. "When the masses defend your interests as their own, you've achieved true security. Not just protection from redistribution, but active popular support for concentration."
+
+**Moral:** The most effective wealth preservation occurs when those excluded from wealth psychologically identify with those who possess it, transforming inequality's victims into its most passionate defenders.
+
+**Tomorrow:** Aurelius reveals how this psychological capture extends beyond economics into the very foundations of democratic choice itself.`,
+  },
 ];
