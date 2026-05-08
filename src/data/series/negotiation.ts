@@ -4630,4 +4630,73 @@ The old trader's voice grew soft with wisdom. "When you make someone the only au
 
 *Tomorrow, Vasska will reveal why the burden of prophecy can become heavier than its privilege...*`,
   },
+  {
+    day: 73,
+    title: "The Cassandra Complex",
+    date: "2026-05-08",
+    image: "images/negotiation/day-73.jpg",
+    audio: "audio/negotiation/day-73",
+    sonnet: `**🪶 Sonnet LXXIII: The Cassandra Complex**
+
+When sight becomes a burden, not a gift,
+And knowledge weighs like stones upon the chest,
+The seer finds their silence grows too swift
+To bear—they cannot grant their conscience rest.
+For those who see what others cannot know
+Must speak or shoulder blame for what befalls,
+Their wisdom is a curse that will not go,
+A voice that through their guilty silence calls.
+The prophet's burden: seeing leads to care,
+And caring makes one slave to what they see,
+No choice but warn of dangers lurking there,
+Or live forever bound by what might be.
+*In this we find the clever negotiator's art:*
+*Make sight itself become a bleeding heart.*`,
+    standard: `🤝 Day 73: The Cassandra Complex
+
+When you make someone feel burdened by their unique vision, you transform them from advisor into prophet—someone who cannot remain silent because silence would make them complicit in preventable catastrophe. This burden of foresight creates a compulsion to act that overrides self-interest, because the weight of unspoken knowledge becomes unbearable. They must warn, guide, or intervene not because they want to, but because their conscience demands it.
+
+🧱 **The Concept**
+The Cassandra Complex leverages the psychological burden of exclusive knowledge by making someone feel that their special insight comes with inescapable moral responsibility.
+
+❓ **Why It Matters**
+People with expertise often feel isolated by their knowledge—they see problems others miss and consequences others ignore. When you make this burden feel urgent and personal, they become compelled to share their wisdom not for your benefit, but to relieve their own moral distress.
+
+⚙️ **How It Works**
+You position someone as the only person who can see a looming disaster, then make them feel that staying silent would make them responsible for the consequences. A consultant might say: "You're the only one who understands the technical risks here. I know it's not your job to save us from ourselves, but if this goes wrong and you said nothing..." This transforms their expertise from asset into burden. They must either speak up or bear the weight of preventable failure. The key is making inaction feel more uncomfortable than involvement.
+
+🎯 **Negotiation Wisdom**
+When someone feels burdened by exclusive knowledge, silence becomes suffering—and sharing becomes relief.
+
+❓ Tomorrow's Question — If the burden of knowledge compels people to act against their self-interest to relieve their conscience, what happens when you make them feel like they're the only person standing between someone they care about and a mistake so catastrophic that even mentioning it feels like cursing them with terrible knowledge?`,
+    parable: `Vasska's blind eye fixed on something beyond the market's chaos as Ren approached, ledger clutched tight. The old trader's seeing eye remained closed, as if the world's visible layer held no interest.
+
+"Master, the Westport merchants are offering terms that seem too generous," Ren began. "But I cannot see the trap."
+
+Vasska's good eye opened slowly, focusing on his student with an expression of profound weariness. "Tell me, boy—if you saw a man walking toward a cliff in darkness, would you call out?"
+
+"Of course."
+
+"And if calling out revealed your position to bandits?"
+
+Ren hesitated. "I... I would still call out."
+
+"Yes." Vasska's voice carried the weight of accumulated sorrows. "Because once you see the cliff, silence becomes complicity. This is the curse of those who see clearly—we become responsible for what we witness."
+
+The master trader gestured toward the Westport delegation. "That generous offer? It's bait for a larger trap. They need your trade route to launder stolen goods before the King's investigators arrive. I can see the threads of their deception as clearly as you see this ledger."
+
+"Then why do you look so troubled by this knowledge?"
+
+Vasska's scarred face creased into something approaching pain. "Because knowing makes me responsible, boy. If I say nothing and you accept their offer, their crimes become yours. If I speak and you reject them, they'll know someone warned you—and they'll hunt for the source of that wisdom."
+
+Ren watched understanding dawn across his master's features like storm clouds gathering.
+
+"But you'll tell me anyway," Ren said softly.
+
+"I must," Vasska replied, his voice heavy with resignation. "Because the burden of preventing your ruin weighs more than the danger of earning their enmity. This is how those with sight become slaves to their vision—we cannot unsee what threatens those we've chosen to protect."
+
+**Moral:** Those who see clearly become prisoners of their own vision, compelled to act not from desire but from the unbearable weight of preventable consequences.
+
+**Tomorrow:** What happens when the knowledge itself becomes a weapon against the one who possesses it?`,
+  },
 ];

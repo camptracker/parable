@@ -382,4 +382,60 @@ The wisdom settled between them like afternoon light. "So when I lost my temper 
 
 *Tomorrow, Elder Mira will share the delicate art of knowing when to hold on and when to let go...*`,
   },
+  {
+    day: 7,
+    title: "The Wisdom of Graduated Freedom",
+    date: "2026-05-08",
+    image: "images/raising-kids/day-7.jpg",
+    audio: "audio/raising-kids/day-7",
+    sonnet: `**🪶 Sonnet VII: The Wisdom of Graduated Freedom**
+
+As gardeners know the art of measured care,
+To stake young plants yet let them find their way,
+So parents learn to balance love's aware
+Protection with the freedom growth needs today.
+
+The child who never tastes small defeats falls hard
+When life presents its first real challenge faced,
+But one who's learned to navigate the yard
+Of measured risks finds confidence well-placed.
+
+Start small—a choice of clothes, a path to take,
+Observe their joy in competence newly won,
+Each freedom earned builds strength for bigger stakes,
+As morning shadows lengthen with the sun.
+
+*For wisdom lies not in our tight control,*
+*But trusting them to grow into their soul.*`,
+    standard: `👶 Day 7: The Wisdom of Graduated Freedom
+
+We know our protective instincts are nurturing growth when our children demonstrate increasing competence and confidence in manageable challenges, versus constraining growth when we see anxiety, regression, or excessive dependency despite their developmental readiness. The key lies in observing our child's response: are they stretching into their capabilities with our support, or shrinking back because we've created a world too small for their expanding selves?
+
+🧱 **The Concept**
+Graduated freedom is the art of incrementally expanding a child's autonomy based on their demonstrated competence, emotional regulation, and developmental readiness.
+
+❓ **Why It Matters**
+Without graduated freedom, children either face overwhelming challenges that exceed their capacity or remain trapped in developmental stagnation. This calibrated approach builds genuine confidence while maintaining the safety net of parental support.
+
+⚙️ **How It Works**
+Start with small freedoms in low-stakes situations and observe how your child handles responsibility, emotional regulation, and decision-making. A four-year-old might choose their clothes before progressing to planning their afternoon activities. An eight-year-old who consistently completes homework might earn the freedom to manage their own study schedule. Each new freedom should stretch your child just beyond their current comfort zone while remaining within their developmental zone of proximal growth. Watch for signs of confidence building versus overwhelm, and adjust accordingly.
+
+🎯 **Parenting Wisdom**
+True protection comes not from shielding our children from all challenges, but from giving them carefully measured doses of independence that build their capacity to handle life's inevitable difficulties.
+
+❓ **Tomorrow's Question** — If we know that children learn more from what we do than what we say, why do we often find ourselves trying to teach our children to be calm, patient, and emotionally regulated while we ourselves are stressed, reactive, and overwhelmed?`,
+    parable: `The morning sun filtered through Elder Mira's kitchen window as she watched Asha pace with three-year-old Kai clinging to her leg. "He won't let me out of his sight," Asha sighed. "Yesterday he screamed when I went to get the mail. I don't know if I should comfort him or push him to be independent."
+
+Elder Mira smiled, remembering similar struggles. "Come, let me show you something." She led them to her garden where a young vine climbed a trellis. "When I first planted this, I tied it so tightly to support it that it couldn't grow. The stems grew weak and pale." She pointed to another section where the vine wound freely through looser supports. "But here, I gave it just enough structure to climb while allowing it to find its own way. See how strong and vibrant it is?"
+
+Kai had wandered a few steps away, still keeping Asha in sight but examining a butterfly on a flower. "Start where he is," Elder Mira whispered. "Let him choose to take two steps away while you stay visible. Tomorrow, maybe three steps. Watch his face—does he look proud or panicked?"
+
+Over the following weeks, Asha learned to read Kai's signals. When he successfully played in the next room while she folded laundry, his beaming face told her he was ready for the next small freedom. When he dissolved into tears at being left with grandpa for an hour, she knew she'd stretched too far too fast.
+
+"Freedom isn't about the distance between you," Elder Mira observed one afternoon as Kai confidently explored the playground while Asha sat nearby. "It's about the strength of the invisible thread that connects you—strong enough to hold him, flexible enough to let him soar."
+
+**Moral**: Like a vine that grows strongest when given supportive structure rather than restrictive ties, children flourish when we provide graduated freedom that matches their developmental readiness.
+
+*Tomorrow, Elder Mira will help Asha understand why modeling emotional regulation is more powerful than any lecture about staying calm.*`,
+  },
 ];

@@ -4491,4 +4491,66 @@ Lila understood. Her constant worry about metabolic rigidity had been creating i
 
 *Tomorrow, Maren will reveal what happens when commitment itself becomes an identity that blocks authentic biological listening...*`,
   },
+  {
+    day: 73,
+    title: "The Investment Blindness",
+    date: "2026-05-08",
+    image: "images/nutrition-science/day-73.jpg",
+    audio: "audio/nutrition-science/day-73",
+    sonnet: `**🪶 Sonnet LXXIII: The Investment Blindness**
+
+The gardener tends his failing vines with care,
+His trellises a monument to will,
+Though withered leaves confess the truth laid bare—
+His investment speaks louder than plants' ill.
+
+Each symptom finds excuse, each sign finds blame
+In everything but the beloved design,
+For months of work have sanctified the frame
+That chokes the very life it should define.
+
+Meanwhile, wild herbs grow strong with simple stake,
+Their humble truth dismissed as common weed,
+While precious protocols, for ego's sake,
+Receive devotion that outweighs their need.
+
+*When methods become masters of the heart,*
+*We serve the trellis, not the living art.*`,
+    standard: `🍎 Day 73: The Investment Blindness
+
+When commitment becomes psychological investment, you begin defending your approach rather than evaluating its effectiveness—your ego becomes entangled with your protocol, making any change feel like personal failure rather than biological wisdom. This attachment creates a subtle but powerful filter that interprets your body's signals through the lens of what you want to hear rather than what's actually being communicated, turning dedication from a tool of awareness into a barrier to perception.
+
+**🧱 The Concept**
+Investment blindness occurs when your psychological attachment to a particular metabolic approach prevents you from accurately interpreting your body's feedback signals.
+
+**❓ Why It Matters**
+The more time, energy, or identity you invest in a specific protocol, the more your brain will unconsciously filter information to support that investment. This creates a dangerous feedback loop where commitment itself becomes the enemy of responsiveness, leading you to push through legitimate biological resistance in service of psychological consistency.
+
+**⚙️ How It Works**
+Investment blindness manifests when you explain away concerning symptoms ("this fatigue must be detox"), rationalize declining performance ("my body just needs more time to adapt"), or dismiss intuitive resistance ("I'm just being weak"). Your nervous system learns to suppress authentic signals that conflict with your chosen approach, creating a kind of metabolic Stockholm syndrome where you become loyal to protocols that no longer serve you. The investment can be financial (expensive supplements or testing), social (being known as "the keto person"), temporal (months of careful tracking), or identity-based (seeing yourself as disciplined), but the result is always the same: your commitment overrides your sensitivity.
+
+**🎯 Science Wisdom**
+True metabolic mastery requires holding your methods lightly enough that biological truth can always override psychological investment.
+
+**❓ Tomorrow's Question** — *If investment blindness can corrupt even the most well-intentioned commitment to health, what happens when someone becomes so aware of this trap that they begin doubting every positive signal from their body, wondering whether their satisfaction with their current approach is genuine biological feedback or just psychological attachment disguised as wellness—and why might this meta-level doubt create an even more subtle form of disconnection from authentic body wisdom?*`,
+    parable: `Lila found Maren tending a garden where withered plants still clung to elaborate trellises. "Master, why do you keep these dead vines?" she asked.
+
+Maren touched a brittle stem. "The gardener before me spent three summers perfecting these supports. When the plants began to fail, he couldn't see their distress—only his beautiful framework."
+
+She gestured to a corner where wild herbs grew freely against a simple wooden post. "Meanwhile, these humble plants thrived with minimal structure, but he dismissed them as weeds because they didn't fit his vision."
+
+"But surely his dedication was admirable?" Lila questioned.
+
+Maren pulled away a dead vine, revealing the healthy shoots it had been choking. "Dedication becomes delusion when we serve our methods instead of letting our methods serve life. The gardener's investment in his trellises blinded him to what his plants were trying to tell him."
+
+She knelt beside the struggling garden. "Your body speaks in symptoms, energy levels, sleep quality, mood. But when you've invested months in a protocol, years in an identity, or hundreds of dollars in supplements, you begin hearing only what confirms your investment."
+
+Lila watched as Maren gently removed more dead growth. "Even fatigue becomes 'detox,' poor sleep becomes 'adaptation,' and declining joy becomes 'discipline.' The louder your body speaks, the more creative your explanations become."
+
+"The wise healer holds her methods like water—ready to take new shape when the container changes."
+
+**Moral**: True commitment serves biological truth, not psychological investment.
+
+**Tomorrow**: When awareness of investment blindness creates its own form of doubt...`,
+  },
 ];

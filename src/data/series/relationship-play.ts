@@ -598,4 +598,66 @@ Elder Joy observed from her garden window, watching the couple stumble and laugh
 
 **Tomorrow**: Quinn and River discover that their attempts to out-fun each other are actually blocking the collaborative magic they seek...`,
   },
+  {
+    day: 11,
+    title: "The Myth of the Entertainment Director",
+    date: "2026-05-08",
+    image: "images/relationship-play/day-11.jpg",
+    audio: "audio/relationship-play/day-11",
+    sonnet: `**🪶 Sonnet XI: The Myth of the Entertainment Director**
+
+When one assumes the crown of making mirth,
+The other sits in audience's cold chair,
+And play transforms from shared creative birth
+To burden borne by one with growing care.
+
+The entertainer plans and plots delight,
+While partner waits for joy to be delivered,
+Yet solo acts, however staged and bright,
+Leave both souls hungry, incomplete, and withered.
+
+But see how children play without a script—
+Each voice adds music to their shared refrain,
+No single author claims the joy they've gripped,
+For mutual magic flows like gentle rain.
+
+*True play blooms when both hearts take the stage,*
+*Co-writing love on each shared, living page.*`,
+    standard: `🎮 Day 11: The Myth of the Entertainment Director
+
+Couples compete to be "the fun one" because they've bought into the myth that someone must be in charge of their shared joy—when in reality, play thrives on mutual contribution, not solo performance. This unconscious competition creates pressure and resentment instead of the natural flow that emerges when both partners feel equally responsible for creating magic together.
+
+🧱 **The Concept**
+True playful partnership requires abandoning the role of "entertainment director" and embracing collaborative joy where both people contribute equally to the creative energy.
+
+❓ **Why It Matters**
+When one partner becomes the designated "fun maker," the other becomes a passive consumer, creating an imbalanced dynamic that eventually leads to burnout and resentment. Play becomes work for one person and entitlement for the other, destroying the very spontaneity it's meant to cultivate.
+
+⚙️ **How It Works**
+Instead of competing to plan the perfect date or be the most entertaining, partners can practice "yes, and" improvisation where each person builds on what the other offers. During a simple walk, one might notice an interesting cloud shape, the other might create a story about it, the first might add a character, and so on. In cooking together, one person suggests adding music, the other chooses a silly dance, creating layers of playfulness neither could achieve alone. The key is recognizing that each person's contribution—no matter how small—adds essential energy to the shared creative process.
+
+🎯 **Playful Connection Wisdom**
+The best play happens when both partners feel like co-creators rather than performer and audience.
+
+❓ **Tomorrow's Question** — If vulnerability and playfulness both require dropping our masks and defenses, why do so many couples find it easier to be silly with strangers at parties than to be authentically playful with each other at home?`,
+    parable: `Quinn sat across from Elder Joy, fidgeting with obvious frustration. "River always expects me to come up with the fun stuff," she complained. "I'm exhausted from being the entertainment committee."
+
+"And yet," Elder Joy observed with a knowing smile, "yesterday River mentioned feeling shut out of your creative planning process."
+
+Quinn blinked in surprise. "Shut out? But I'm doing all the work!"
+
+"Are you?" Elder Joy gestured to two paintbrushes on her desk. "If I gave you both these brushes and one canvas, would you compete to see who could paint the better picture? Or would you create something neither could make alone?"
+
+The question hung in the air as River arrived for their joint session. Elder Joy handed them each a brush and pointed to a blank canvas. "Today's exercise: paint together without planning."
+
+What emerged was magical—Quinn's bold strokes complemented River's gentle details, River's spontaneous color choices sparked Quinn's geometric patterns. Neither led; both contributed. Their laughter filled the room as unexpected beauty bloomed from their collaboration.
+
+"You see," Elder Joy said softly, "when both partners feel responsible for the fun, magic multiplies. When one person carries that burden alone, play becomes performance."
+
+Quinn looked at their painting—imperfect but alive with shared joy. For the first time in months, she felt the weight of entertainment lift from her shoulders.
+
+**Moral:** True play requires two creators, not one performer and one audience.
+
+*Tomorrow, Elder Joy will explore why couples who laugh easily with others often struggle to be genuinely playful at home...*`,
+  },
 ];

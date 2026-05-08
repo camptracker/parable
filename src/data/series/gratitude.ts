@@ -1125,4 +1125,71 @@ Hana watched as her reflection shifted from troubled to curious. "So when you ap
 
 *Tomorrow, Hana will discover why rewriting these internal narratives feels more dangerous than maintaining them...*`,
   },
+  {
+    day: 19,
+    title: "The Comfort of Familiar Pain",
+    date: "2026-05-08",
+    image: "images/gratitude/day-19.jpg",
+    audio: "audio/gratitude/day-19",
+    sonnet: `**🪶 Sonnet XIX: The Comfort of Familiar Pain**
+
+We clutch our stones of sorrow, worn and smooth,
+Though petals fall like blessings all around,
+For in the ache we know, our hearts find proof
+Of who we think we are—lost, never found.
+
+The devil that we know feels safe and sure,
+While angels asking us to rise seem strange,
+We'd rather bear the weight we can endure
+Than risk the terror of authentic change.
+
+Our fists, so trained to hold what hurts us most,
+Recoil from softness, beauty, love's embrace,
+As if deserving joy would make us ghost
+The hard-won story written on our face.
+
+*Yet gratitude asks: dare to open wide*
+*Those hands, and let old painful stories slide.*`,
+    standard: `🙏 Day 19: The Comfort of Familiar Pain
+
+We cling to familiar narratives of struggle because our identity feels safer in known territories, even when they're painful—it takes tremendous courage to inhabit a story where we are worthy of abundance, because that unfamiliar territory demands we take responsibility for joy rather than simply managing suffering. The old story asks nothing of us except endurance, while the new story of gratitude-based worthiness requires us to step into our power and live as if we truly matter.
+
+**The Concept**
+Our brains are wired to prefer familiar discomfort over unfamiliar joy, creating what psychologists call "emotional homeostasis"—the tendency to return to known emotional states even when they're limiting.
+
+**Why It Matters**
+This psychological attachment to familiar pain keeps us trapped in cycles of limitation and complaint, preventing us from fully receiving the gifts that gratitude reveals. Most people unconsciously choose the devil they know over the angel they don't, even when the evidence clearly shows their worthiness of better.
+
+**How It Works**
+Your nervous system treats unfamiliar positive emotions as potential threats, triggering subtle sabotage mechanisms when life becomes "too good." For example, you might start arguments with loved ones when feeling too happy, or focus on problems when receiving genuine appreciation. Your identity was built around overcoming struggle, so sustained ease feels foreign and untrustworthy. Gratitude practice requires you to slowly expand your comfort zone around receiving good things, like gradually adjusting to brighter light after years in darkness. The key is recognizing these self-sabotage patterns as protective mechanisms rather than character flaws.
+
+**Gratitude Wisdom**
+True gratitude practice isn't just about appreciating what you have—it's about expanding your capacity to inhabit a life worth being grateful for.
+
+**Tomorrow's Question**
+If expanding your emotional comfort zone around joy and abundance requires the same courage as any other growth process, why do we often treat happiness as something that should come naturally rather than a skill that needs to be developed through practice and patience?`,
+    parable: `Elder Thorn found Hana sitting by the village well, staring at her reflection in the water with a troubled expression. "Master," she said without looking up, "yesterday you helped me see how gratitude could rewrite my story, but when I try to believe I'm worthy of good things, it feels... dangerous somehow."
+
+The elder sat beside her, his weathered hands folding gently in his lap. "Tell me about this danger, child."
+
+"If I allow myself to believe I deserve happiness, what if it's taken away? What if people expect too much of me? What if I become someone I don't recognize?" The words tumbled out like water from a broken dam.
+
+Thorn nodded slowly. "Ah, you've discovered the comfort of familiar pain. Watch." He picked up a smooth stone and held it tightly in his closed fist. "This stone presses into my palm, creating discomfort. But if I've held it for years, my hand knows exactly how it feels—no surprises, no demands for growth."
+
+He opened his palm, revealing red marks where the stone had pressed. "Now, if I were to receive a handful of flower petals instead..." He gestured to the jasmine blooming nearby. "Soft, fragrant, beautiful—yet my hand might instinctively close into a fist again, crushing them, because it only knows how to hold stones."
+
+Hana's eyes widened with understanding. "So when gratitude shows me I'm worthy of good things, I sabotage it because... I don't know how to hold beauty?"
+
+"Your heart was shaped around struggle, dear one. It learned to find safety in limitation, identity in overcoming hardship. When life offers you ease and appreciation, your old patterns whisper: 'This isn't who you are. Go back to what you know.'"
+
+"But how do I learn to hold flowers instead of stones?"
+
+Thorn smiled, cupping his hands to catch falling jasmine petals. "The same way I learned, after decades of clutching bitterness like precious coins. Slowly. Gently. With forgiveness for all the times you'll instinctively close your fist again."
+
+As they sat in comfortable silence, Hana noticed how the elder's hands remained soft and open, even when a bee landed briefly on his palm. She realized this too was a kind of strength—the courage to remain receptive to beauty, even when it required complete vulnerability.
+
+**Moral:** The familiar pain of limitation often feels safer than the unfamiliar territory of worth and abundance, but true growth requires expanding our capacity to hold beauty without crushing it.
+
+**Tomorrow:** Hana will discover why sustainable happiness requires the same dedication and practice as mastering any other life skill...`,
+  },
 ];

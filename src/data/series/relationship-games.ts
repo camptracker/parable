@@ -744,4 +744,72 @@ Riven's reflection began to change, showing them learning to distinguish between
 
 **Tomorrow:** The Mirror will reveal the pre-verbal imprints that shape our romantic destiny.`,
   },
+  {
+    day: 13,
+    title: "The Somatic Reset",
+    date: "2026-05-08",
+    image: "images/relationship-games/day-13.jpg",
+    audio: "audio/relationship-games/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Somatic Reset**
+
+The body holds what words can never say,
+In muscle, breath, and nervous system's code,
+The templates of our first love's tangled way
+Still echo in each new romantic road.
+
+When safety felt like chaos in our youth,
+The heart confuses calm with feeling dead,
+And seeks again that old familiar truth
+Where love and suffering are tightly wed.
+
+But healing asks us to expand, not shrink,
+To feel attraction without the alarm,
+To notice when our nervous systems sync
+Versus when chemistry might signal harm.
+
+*The body's wisdom, once we learn to hear,*
+*Reveals which love is false and which is clear.*`,
+    standard: `🎭 Day 13: The Somatic Reset
+
+We access these pre-verbal imprints through the body, not the mind — our nervous system holds the original templates of safety and danger that drive attraction. By learning to notice the difference between activation (anxiety masquerading as chemistry) and genuine resonance (calm aliveness), we can begin to rewire our attraction patterns through conscious embodiment practices.
+
+🧱 **The Concept**
+Our bodies carry the emotional blueprints from our earliest relationships, and these somatic memories create our unconscious attraction patterns.
+
+❓ **Why It Matters**
+Most people think attraction is mental or emotional, but it's actually a full-body nervous system response. When we're drawn to someone who "feels familiar," we're often being pulled toward the same nervous system state that characterized our early attachment relationships — even if those relationships were chaotic or harmful.
+
+⚙️ **How It Works**
+Your body remembers what "love" felt like before your mind could interpret it. If love came with anxiety, hypervigilance, or emotional dysregulation, your nervous system will recreate those states as "chemistry." Someone who actually offers safety might register as "boring" because calm doesn't match your body's definition of romantic excitement. The key is learning to distinguish between nervous system activation (fight/flight arousal) and genuine attraction (expansion and ease). Practice asking: "Does this person's presence make me feel more myself, or do I feel like I need to perform to maintain their interest?" True compatibility creates nervous system co-regulation — you both become more grounded and authentic in each other's presence.
+
+🎯 **Relationship Strategy Wisdom**
+Healing attraction patterns requires rewiring the body's definition of safety, not just changing thoughts about what you "should" want.
+
+❓ **Tomorrow's Question** — If we can train ourselves to recognize the difference between nervous system activation and genuine attraction, what happens when we encounter someone who triggers both simultaneously — and how might this reveal the difference between healing and retraumatizing relationships?`,
+    parable: `Riven found The Mirror standing beside a still pond, its surface reflecting not the sky above but something deeper.
+
+"I keep choosing the same type of person," Riven confessed. "Different faces, same patterns. How do I break this cycle when it feels like my body chooses for me?"
+
+The Mirror gestured to the water. "Tell me, what did safety feel like in your earliest years?"
+
+Riven's chest tightened. "Safety? I don't remember much safety. Love came with walking on eggshells, with trying to be perfect enough to avoid anger."
+
+"And now, when someone is consistently available and kind?"
+
+"It feels... flat. Like something's missing." Riven's voice was barely a whisper.
+
+The Mirror touched the pond's surface, and the water began to show scenes — Riven as a child, small body rigid with hypervigilance, then as an adult, drawn again and again to partners whose unpredictability recreated that familiar tension.
+
+"Your nervous system learned that love equals activation," The Mirror explained. "Anxiety became your body's definition of chemistry. But watch closely." The water shifted, showing Riven with different people — some who triggered that familiar anxiety, others whose presence allowed true relaxation.
+
+"Notice the difference. With some, you shrink. With others, you expand. Your body knows the truth, but it needs retraining to value expansion over activation."
+
+Riven watched the scenes, beginning to understand. "So healing isn't just changing my thoughts..."
+
+"It's changing what your body recognizes as home," The Mirror confirmed. "True chemistry creates coherence, not chaos."
+
+**Moral:** The body remembers what the mind forgets, and attraction patterns live in our nervous system, not our thoughts.
+
+*Tomorrow, Riven will discover what happens when someone triggers both healing and familiar wounds simultaneously.*`,
+  },
 ];
