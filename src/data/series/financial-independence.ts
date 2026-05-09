@@ -5081,4 +5081,72 @@ Kael observed the familiar dance—the same patterns, the same responses to the 
 
 *Tomorrow, we shall explore how entire industries profit from this very gap between knowledge and implementation.*`,
   },
+  {
+    day: 78,
+    title: "The Behavioral Override",
+    date: "2026-05-09",
+    image: "images/financial-independence/day-78.jpg",
+    audio: "audio/financial-independence/day-78",
+    sonnet: `**🪶 Sonnet LXXVIII: The Behavioral Override**
+
+When knowing what to do and doing part,
+A chasm yawns that swallows dreams of gold,
+For flesh is weak though wisdom fills the heart,
+And impulse conquers what the mind has told.
+
+The master builds not strength but systems sure,
+That bypass will and circumvent desire,
+Automatic paths that wealth can endure,
+Though passion burns like uncontrolled fire.
+
+As rivers carve through rock by patient flow,
+Not force of moment but of time's design,
+So wealth accumulates through systems slow,
+That work when emotions cease to align.
+
+*The fool relies on willpower's fading flame,*
+*The wise create machines that work the same.*`,
+    standard: `💰 Day 78: **The Behavioral Override**
+
+🧱 **The Concept**
+True financial mastery requires creating systems that automatically override our psychological programming, removing human emotion and impulse from wealth-building decisions.
+
+❓ **Why It Matters**
+Even when we intellectually understand optimal financial strategies, our emotional brain consistently sabotages implementation through fear, greed, impatience, and social pressure. The gap between knowing and doing destroys more wealth than any market crash ever could.
+
+⚙️ **How It Works**
+Successful investors automate their entire wealth-building process: automatic transfers to savings accounts, automatic investment contributions that bypass checking accounts, automatic rebalancing that occurs without emotional input, and automatic reinvestment of dividends. They create "friction" for bad decisions by removing investment apps from phones, requiring 48-hour waiting periods for major changes, and setting up accounts that are deliberately difficult to access. Meanwhile, they remove all friction from good decisions by making savings and investing the path of least resistance. The most sophisticated approach involves "implementation intentions" — predetermined rules that specify exactly what action to take in specific circumstances, like "if the market drops 20%, I will automatically invest an additional $1,000" or "if I receive unexpected income above $500, 80% goes directly to investments before I see it."
+
+🎯 **Buffett Wisdom**
+"The most important quality for an investor is temperament, not intellect." Warren Buffett's greatest skill isn't analysis — it's creating systems that prevent his emotions from interfering with logical decisions.
+
+❓ **Tomorrow's Question** — If behavioral override systems can guarantee financial success by removing human psychology from wealth-building, what does this suggest about the fundamental nature of human willpower and self-control, and why might our entire approach to personal development be based on the false premise that conscious discipline can reliably overcome unconscious programming?`,
+    parable: `Kael found Sable in the village forge, watching the blacksmith work. "Master," Kael said, "I understand now that knowing what to do isn't the same as doing it. But how do I bridge that gap when my emotions keep sabotaging my plans?"
+
+Sable picked up a piece of raw iron. "Tell me, young one, how does the blacksmith transform this stubborn metal into a useful tool?"
+
+"With heat and hammering," Kael replied, confused.
+
+"And if the blacksmith relied only on his hands to shape the iron?"
+
+"Impossible. The metal would remain unchanged."
+
+Sable nodded. "The wise smith doesn't fight the iron's nature — he creates systems that override it. The forge provides consistent heat. The anvil provides unyielding support. The hammer multiplies his strength. The tongs protect him from burns. Each tool removes human limitation from the process."
+
+Tobren approached, overhearing. "Like my seed planting," he added. "I don't rely on remembering to plant each day. I prepare the entire field at once, create furrows that guide the plow, and set up irrigation channels that water the crops automatically. The system works even when I'm tired or distracted."
+
+"Precisely," Sable continued. "Financial mastery requires the same approach. You must create systems that make good decisions automatic and bad decisions difficult. Store your coins where you cannot easily reach them. Set up automatic transfers on market days. Create rules that activate without your conscious involvement."
+
+Kael frowned. "But doesn't this mean admitting I lack willpower?"
+
+"It means admitting you're human," Sable smiled. "The blacksmith doesn't consider it weakness to use a hammer instead of his bare hands. The farmer doesn't consider irrigation a failure of dedication. Tools and systems don't replace skill — they multiply it."
+
+Tobren chuckled. "The proudest farmers are often the poorest. They insist on doing everything by hand, scorning mechanical aids as cheating. Meanwhile, the humble farmer who embraces systems feeds the entire village."
+
+"Your emotions serve important purposes," Sable concluded, "but wealth-building isn't one of them. Create systems that honor your humanity while achieving your goals."
+
+**Moral**: *The wisest among us don't rely on willpower to overcome human nature — they design systems that work with it.*
+
+**Tomorrow**: *Sable reveals why our entire understanding of self-control might be fundamentally flawed...*`,
+  },
 ];

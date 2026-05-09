@@ -4487,4 +4487,68 @@ That evening, Tova gathered her crew. Instead of planning their usual routes, sh
 
 *Tomorrow: When protective leadership becomes restrictive leadership...*`,
   },
+  {
+    day: 72,
+    title: "The Patience of Seasons",
+    date: "2026-05-09",
+    image: "images/leadership/day-72.jpg",
+    audio: "audio/leadership/day-72",
+    sonnet: `**🪶 Sonnet LXXII: The Patience of Seasons**
+
+In gardens where the wisest leaders tend,
+No flower blooms before its destined hour,
+Yet impatience makes the gardener bend
+To force what time alone can bring to flower.
+
+The oak that stands through centuries of storm
+Was once a seedling, fragile in the earth,
+While hasty hands that sought to speed its form
+Destroyed the very conditions of its birth.
+
+So too with those we're called to guide and grow—
+Their deepest roots need seasons to take hold,
+And trust, like wine, needs time's patient flow
+To reach the strength that cannot yet be told.
+
+*The leader wise accepts what seasons bring:*
+*That lasting growth requires the wait of spring.*`,
+    standard: `👥 Day 72: The Patience of Seasons
+
+🧱 **The Concept**
+True leadership transformation happens on nature's timeline, not corporate timelines, requiring the wisdom to plant seeds knowing you may never see the full harvest.
+
+❓ **Why It Matters**
+Most leadership failures stem from expecting immediate results from developmental investments that naturally require months or years to mature. The pressure for quarterly improvements often destroys the very conditions necessary for sustainable growth.
+
+⚙️ **How It Works**
+Just as a farmer doesn't plant corn and expect tomatoes, effective leaders understand that developing trust takes seasons, building capability requires patient cultivation, and creating lasting cultural change demands the long view. When a leader invests time in mentoring someone, the visible results may not appear for months. When they establish new feedback systems, resistance often increases before acceptance emerges. The most transformative leadership interventions—like teaching someone to think critically rather than just follow instructions—require sustained attention over extended periods, not intensive workshops or quick fixes.
+
+🎯 **Leadership Wisdom**
+The leader who accepts the seasons of growth creates sustainable transformation; the one who demands immediate harvest destroys both the soil and the future crop.
+
+❓ **Tomorrow's Question** — If you discovered that your most impatient leadership behaviors were actually preventing the very growth you were trying to accelerate, and that your pressure for immediate results was teaching your team to prioritize speed over depth in everything they do, how would this change your willingness to invest in developments that might not show measurable returns for months or even years?`,
+    parable: `Tova stood in Greymane's garden, watching the old admiral tend to saplings that would not bear fruit for decades. "My crew expects progress," she said, frustration edging her voice. "The harbor master questions our turnaround time. The merchants complain about delays. Yet you tell me to be patient?"
+
+Greymane continued his careful pruning. "See this oak?" He gestured to a massive tree that dominated the garden's center. "I planted it forty years ago. For five years, it seemed to do nothing but struggle. My neighbors mocked my 'waste of space.' But I watered it through droughts, protected it from storms, trusted the process."
+
+"But leadership isn't gardening," Tova protested.
+
+"Isn't it?" Greymane set down his shears and faced her. "Yesterday, young Marcus asked you a question about navigation. You gave him the answer immediately. Today, he'll ask another. Tomorrow, another. In a month, he'll still depend on you for every decision."
+
+Tova shifted uncomfortably, recognizing the pattern.
+
+"Last week, when Elena made that calculation error, you corrected it instantly. She thanked you, but did she learn to check her own work? When Finn struggled with the rigging, you showed him the quick way. Now he calls for help at every snag."
+
+The old admiral knelt beside a struggling seedling. "But watch what happens when you plant questions instead of answers, when you create space for struggle instead of rescuing immediately. It feels slower. It looks messier. The harbor master won't praise your quarterly efficiency reports."
+
+He touched the seedling's tender leaves. "Yet in time, you'll have a crew that navigates by their own stars, calculates with their own confidence, solves problems you never even see. They won't need you to survive—they'll choose you to thrive."
+
+As they walked back toward the harbor, Tova noticed how the ancient oak's roots had spread far beyond its canopy, strengthening the soil for every plant around it. "How long," she asked quietly, "before I see real change?"
+
+Greymane smiled. "The right question isn't 'how long' but 'am I willing?' Seasons don't hurry for admirals, Tova. But they've never failed to arrive."
+
+**Moral**: The leader who plants wisdom instead of providing answers harvests a forest of capability; the one who demands immediate fruit destroys the roots of lasting growth.
+
+*Tomorrow, we explore what happens when our desire to be helpful becomes the very obstacle to others' growth...*`,
+  },
 ];

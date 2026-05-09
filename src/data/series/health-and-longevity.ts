@@ -4493,4 +4493,65 @@ The merchant finished his calculations with satisfaction, then immediately reach
 
 *Tomorrow, Senna will discover why our devices might be the unexpected teachers of biological wisdom—if we learn to read the lesson correctly.*`,
   },
+  {
+    day: 72,
+    title: "The Device Devotion",
+    date: "2026-05-09",
+    image: "images/health-and-longevity/day-72.jpg",
+    audio: "audio/health-and-longevity/day-72",
+    sonnet: `**🪶 Sonnet LXXII: The Device Devotion**
+
+We tend our glowing screens with gentle care,
+Monitor their charge and guard from every fall,
+Update their minds and shield from heat's harsh glare,
+Yet let our bodies answer nature's call
+To slow decay without a thought or plan.
+We know the rules of battery preservation,
+Apply them to each device made by man,
+But treat ourselves with reckless resignation.
+Our phones receive the maintenance they need,
+While we ignore our own declining health,
+As if our flesh were built for careless speed
+And technology deserved protective stealth.
+*Strange world where circuits get what bodies lack—*
+*The simple care that keeps all systems back.*`,
+    standard: `⏳ Day 72: The Device Devotion
+
+Our meticulous care for technology—monitoring battery health, updating software, protecting screens—reveals we intuitively understand maintenance principles but apply them selectively. We've unconsciously adopted our devices' upgrade cycles as normal while treating our irreplaceable biology as if it came with unlimited warranties.
+
+🧱 **The Concept**
+We practice sophisticated preventive maintenance on replaceable technology while neglecting basic maintenance on our irreplaceable biology.
+
+❓ **Why It Matters**
+This inverted priority system reveals how consumer culture has hijacked our natural maintenance instincts. We're applying longevity principles to the wrong subjects, creating a generation that maintains their tools better than their bodies.
+
+⚙️ **How It Works**
+Consider how we handle a phone showing 85% battery health: we immediately research replacement options, optimize charging habits, and consider it "aging." Yet when our bodies show equivalent decline—reduced energy, slower recovery, minor aches—we normalize it as "getting older." We update our phones religiously but resist updating our sleep schedules. We protect our devices from drops and heat while exposing our bodies to chronic stress and poor environments. The difference isn't knowledge—it's that we view devices as investments requiring maintenance while treating our bodies as rental cars we can abuse without consequence.
+
+🎯 **Longevity Wisdom**
+Apply your device maintenance mentality to your biology: monitor vital signs like battery health, update habits like software, and protect your system like you protect your screen.
+
+❓ **Tomorrow's Question** — If we can successfully maintain complex technology through simple, consistent practices, what happens when we examine whether our inability to maintain our own biology might stem not from complexity but from our culture's strange belief that bodies should maintain themselves without the deliberate attention we give to everything else we value?`,
+    parable: `Senna discovered Dusk in the market square, watching a merchant frantically polishing his scales while ignoring the festering cut on his own hand. "Curious," Dusk murmured as the merchant applied oil to brass gears but left his wound untended.
+
+"What's curious?" Senna asked, following Dusk's gaze.
+
+"Watch how he cares for his tools," Dusk replied. "He oils the hinges daily, calibrates the weights weekly, protects the brass from moisture. Yet that infected cut has been spreading for days."
+
+Senna observed the merchant's ritual: checking balance points, adjusting mechanisms, storing everything in protective cloth. "He knows maintenance," she realized.
+
+"Indeed," Dusk nodded. "But only for what he believes can be replaced. He treats his scales like precious artifacts requiring constant attention, while treating his irreplaceable body like it came with an unlimited warranty."
+
+A customer approached with a damaged scale. The merchant winced visibly, immediately assessing the wear patterns. "This deterioration could have been prevented," he lamented, "with proper daily care."
+
+Dusk turned to Senna. "He speaks wisdom he cannot hear. He understands that prevention preserves function, that small maintenance prevents large failures, that consistent attention extends useful life. Yet he applies this knowledge selectively."
+
+Senna watched as the merchant continued his meticulous tool care while absently scratching his infected wound. "He's practicing longevity principles on the wrong subject."
+
+"Precisely," Dusk smiled. "Your generation has learned sophisticated maintenance from your devices. The knowledge exists—you simply direct it toward replaceable things while neglecting the irreplaceable."
+
+**Moral:** We already possess the maintenance wisdom longevity requires—we've simply applied it to our tools instead of ourselves.
+
+**Tomorrow:** Senna wonders why the same maintenance principles that work on simple devices seem impossible to apply to human biology...`,
+  },
 ];

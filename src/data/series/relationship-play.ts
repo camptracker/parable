@@ -660,4 +660,72 @@ Quinn looked at their painting—imperfect but alive with shared joy. For the fi
 
 *Tomorrow, Elder Joy will explore why couples who laugh easily with others often struggle to be genuinely playful at home...*`,
   },
+  {
+    day: 12,
+    title: "The Stranger's Gift",
+    date: "2026-05-09",
+    image: "images/relationship-play/day-12.jpg",
+    audio: "audio/relationship-play/day-12",
+    sonnet: `**🪶 Sonnet XII: The Stranger's Gift**
+
+With strangers at the party, masks fall free,
+We dance with wild abandon, laugh out loud,
+For those who barely know us cannot see
+The weight of reputation in the crowd.
+
+But home with love, we guard our every move,
+Each stumble etched in memory's cruel book,
+Afraid that silly moments might disprove
+The careful image in our lover's look.
+
+Yet intimacy asks for stranger's grace—
+To meet each day with fresh and curious eyes,
+To let our partner show a new-found face
+Without the burden of tomorrow's ties.
+
+*The deepest love gives freedom to be new,*
+*Where safe to play means safe to be most true.*`,
+    standard: `🎮 Day 12: The Stranger's Gift
+
+We're more playful with strangers because there's no relationship at stake — their judgment won't follow us home, and we don't have to live with the consequences of being truly seen. With our partners, every moment of authentic silliness becomes part of our permanent record, creating a vulnerability that feels far more dangerous than entertaining acquaintances.
+
+🧱 **The Concept**
+The "**stranger's gift**" is the freedom that comes from low-stakes interactions, and we can intentionally create this same psychological safety within our intimate relationships.
+
+❓ **Why It Matters**
+Intimate partners often become our harshest critics precisely because we care most about their opinion, creating an invisible pressure that kills spontaneous play. We unconsciously perform even our playfulness, trying to be the "right kind" of silly rather than authentically goofy.
+
+⚙️ **How It Works**
+Create "**stranger zones**" in your relationship — moments where you temporarily suspend judgment and history. Try the "first date" exercise: spend an evening pretending you just met, complete with nervous laughter and getting-to-know-you questions. Practice the "**amnesty rule**": agree that certain playful moments don't "count" toward your relationship record — no one gets to bring up your silly dance moves during the next argument. Implement "**character nights**" where you both adopt fictional personas, giving yourselves permission to be playful in ways your "real" selves might find too risky. The key is recognizing that authentic play requires the same psychological safety we naturally feel with people whose opinions matter less.
+
+🎯 **Playful Connection Wisdom**
+True intimacy isn't about knowing everything about each other — it's about creating space for each other to be perpetually surprising.
+
+❓ **Tomorrow's Question** — If playful couples often credit "maintaining mystery" as key to long-term passion, why do so many partners unconsciously work to eliminate all uncertainty and surprise from their relationships, then wonder where the excitement went?`,
+    parable: `Quinn stared at the video on River's phone, watching themselves from last weekend's party. "Look how goofy we were," River laughed, replaying the moment they'd spontaneously joined a conga line with complete strangers. "We were so... free."
+
+"I know," Quinn said quietly. "But did you notice? When we got home that night, we just brushed our teeth and went to bed. No silliness, no lingering laughter. It's like we left our fun selves at the party."
+
+The next morning, they found themselves across from Elder Joy's knowing smile. "Ah," she said, "you've discovered the stranger's gift. Tell me, what would happen if River saw you trip over your own feet in front of those party friends?"
+
+"We'd all laugh," Quinn shrugged. "It would be funny."
+
+"And if you tripped here, in front of River?"
+
+Quinn's face shifted. "I'd be embarrassed. River would worry about me, or think I'm clumsy, or—"
+
+"Or remember it forever," River added softly. "Every stumble becomes part of our story."
+
+Elder Joy nodded. "With strangers, you're performing a character called 'Quinn' or 'River.' With each other, you're risking your real selves. But here's the secret—" She leaned forward conspiratorially. "You can choose to give each other the stranger's gift. You can create moments where nothing counts, where there's no permanent record."
+
+She handed them each a small bell. "Tonight, when one of you rings this, you're both strangers again. No history, no expectations, just two people meeting for the first time. See what happens when you have permission to be completely silly without it meaning anything about who you are."
+
+That evening, Quinn nervously rang the bell during dinner. "Hi," they said shyly to River. "I'm Quinn. I collect rubber ducks and can recite the alphabet backwards while hopping on one foot. What's your story?"
+
+River's face lit up with the same freedom they'd felt at the party.
+
+**Moral:** *The gift strangers give us isn't their lack of judgment, but our lack of attachment to their opinion. True intimacy means offering this same freedom to those we love most.*
+
+*Tomorrow, Elder Joy will reveal why the very couples who claim to want mystery work so hard to eliminate it...*`,
+  },
 ];

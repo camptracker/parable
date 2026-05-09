@@ -4416,4 +4416,62 @@ Vex understood. "The workshop expansion—you want me to attempt it during the s
 
 *Tomorrow, Ironmere will reveal why even masters of vulnerability eventually build systems to avoid the very exposure that made them strong.*`,
   },
+  {
+    day: 73,
+    title: "The Adaptive Overreach Protocol",
+    date: "2026-05-09",
+    image: "images/how-to-scale/day-73.jpg",
+    audio: "audio/how-to-scale/day-73",
+    sonnet: `**🪶 Sonnet LXXIII: The Adaptive Overreach Protocol**
+
+When mastery becomes a golden cage,
+And comfort holds our greatest skills in check,
+The wise will turn to overreach's page
+To break the bounds of competence's deck.
+
+For growth demands we leap beyond our shore
+Into the waters deep with unknown tides,
+Where current skills can guide us nevermore
+And untried strength within our spirit hides.
+
+The tower built by hands that know their craft
+Stands firm, but reaches only proven height,
+While those who dare attempt the fore and aft
+Of possibility may touch the light.
+
+*So push beyond where confidence can go—*
+*In overreach, our truest selves we know.*`,
+    standard: `🚀 Day 73: The Adaptive Overreach Protocol
+
+🧱 **The Concept**
+Successful organizations develop systems that deliberately push their teams beyond current vulnerability mastery levels, forcing growth through calculated overextension.
+
+❓ **Why It Matters**
+While vulnerability mastery engines create powerful learning capabilities, teams can become trapped in their comfort zones of managed uncertainty. Organizations that master adaptive overreach protocols can accelerate capability development by systematically exposing their most competent people to challenges that exceed their current mastery frameworks.
+
+⚙️ **How It Works**
+Adaptive overreach protocols work by identifying teams that have achieved comfortable vulnerability mastery, then deliberately assigning them projects that require capabilities they haven't yet developed. Netflix famously does this by moving their most successful leaders into completely unfamiliar business domains every 18-24 months. Amazon's "working backwards" process often assigns teams to solve customer problems using technologies that don't yet exist within the company. These protocols differ from random challenge assignment—they're carefully calibrated to push teams just beyond their proven capabilities while maintaining enough support infrastructure to prevent complete failure. The key is creating sustainable overreach that builds new mastery rather than breaking existing confidence.
+
+🎯 **Scaling Wisdom**
+The most adaptive organizations systematically outgrow their own competencies by design, not by accident.
+
+❓ **Tomorrow's Question** — If adaptive overreach protocols accelerate growth so effectively, why do the most ambitious companies eventually establish "overreach immunity" systems that protect their highest performers from being pushed beyond their proven expertise areas?`,
+    parable: `The workshop had grown quiet as autumn settled over the valley. Vex sat among his perfectly organized tools, each implement clean and ready, every process refined through months of practice. He had mastered the art of controlled challenges—taking on projects that stretched him just enough to grow without breaking.
+
+Ironmere entered, his weathered hands carrying an impossible blueprint. "I need you to build something you've never attempted," he said, spreading plans for a clock tower whose mechanisms required metallurgy techniques Vex had only heard whispered about.
+
+"But I've just perfected my current methods," Vex protested. "Why abandon mastery for uncertainty?"
+
+The old architect smiled. "Because mastery without overreach becomes a beautiful prison. Watch." He pointed to the workshop's corners, where dust had begun to settle on tools that were once constantly in motion. "Your comfort with controlled challenge is making you smaller."
+
+Vex studied the blueprint's impossible gears. "What if I fail completely?"
+
+"Then you'll discover capabilities you never knew existed," Ironmere replied. "The city I built wasn't constructed by craftsmen who stayed within their proven skills. It was raised by people willing to attempt what they had no right to believe they could accomplish."
+
+Over the following months, Vex struggled with metals that behaved differently than anything in his experience. He ruined materials, broke tools, and questioned his sanity. But slowly, impossibly, the tower began to take shape—and with it, a version of himself he had never imagined.
+
+**Moral:** *True growth lives in the space between proven capability and impossible ambition.*
+
+*Tomorrow, Ironmere will reveal why even the most growth-oriented craftsmen eventually build walls around their expanding expertise...*`,
+  },
 ];

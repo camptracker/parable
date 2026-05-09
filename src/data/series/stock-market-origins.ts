@@ -924,4 +924,60 @@ As they walked home through the lamp-lit streets, Willem pondered how the eterna
 
 **Tomorrow:** Willem discovers why everyone having the same map doesn't mean they'll reach the same destination.`,
   },
+  {
+    day: 17,
+    title: "The Paradox of Information Abundance",
+    date: "2026-05-09",
+    image: "images/stock-market-origins/day-17.jpg",
+    audio: "audio/stock-market-origins/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Paradox of Information Abundance**
+
+When every rumor floods the trader's ear,
+And endless streams of data cloud the mind,
+The merchant drowns in what should make things clear—
+Too many truths leave wisdom far behind.
+
+The scrolls pile high with news from distant ports,
+Each messenger brings word of storm or calm,
+Yet paralyzed by these conflicting reports,
+The trader's steady hand has lost its palm.
+
+While others chase each whisper through the night,
+The master watches only what is real:
+Ships that return, and cargoes brought to light,
+And markets' hunger that the purse can feel.
+
+*In abundance of advice, the wise grow poor—*
+*The richest knowledge opens just one door.*`,
+    standard: `📈 Day 17: The Paradox of Information Abundance
+
+While everyone now has access to the same historical data, the democratization of information creates new opportunities for those who can synthesize patterns across different timeframes, markets, and contexts that algorithms still struggle to connect. The edge shifts from having unique data to having unique insight about how seemingly unrelated historical events might influence future market behavior.
+
+🧱 **The Concept**
+In today's hyper-connected markets, having more information doesn't necessarily lead to better investment decisions—it often leads to analysis paralysis and information overload.
+
+❓ **Why It Matters**
+The flood of real-time data, news alerts, social media sentiment, and analytical tools can overwhelm investors' decision-making capacity. Modern traders often suffer from the "paradox of choice"—having too many data points can actually decrease performance compared to focusing on a few key indicators.
+
+⚙️ **How It Works**
+Successful modern investors increasingly practice "information dieting"—deliberately limiting their inputs to focus on what truly matters. Warren Buffett famously doesn't use a computer and reads annual reports instead of watching minute-by-minute price movements. Renaissance Technologies, one of the most successful hedge funds, succeeds not by processing more data but by finding hidden correlations others miss. The key is developing filters to separate signal from noise, much like how early Amsterdam traders focused on ship arrival schedules rather than daily coffee house rumors.
+
+🎯 **Market Wisdom**
+In an age of infinite information, the scarcest resource isn't data—it's the wisdom to know what to ignore.
+
+❓ **Tomorrow's Question** — If the most successful investors often achieve their results by ignoring most available information and focusing on simple, time-tested principles, why does the financial industry continue to create increasingly complex products and analytical tools—are we solving real problems or creating artificial ones?`,
+    parable: `Willem staggered into Van der Meer's chamber, his arms laden with scrolls, ledgers, and hastily scribbled notes. "Master," he gasped, "I've gathered every piece of information I could find—shipping manifests from three ports, weather reports from sea captains, whispers from competing trading houses, even the cook's opinion on nutmeg prices!"
+
+Van der Meer looked up from a single, worn ledger where he'd been making careful notations. "And what have you learned from this mountain of intelligence?"
+
+"I... I don't know where to begin," Willem confessed, papers spilling from his trembling hands. "Every report contradicts another. The more I read, the less certain I become. Yesterday's confident decision about the Java spice shipment now seems foolish given seventeen different opinions about monsoon patterns."
+
+The old merchant smiled knowingly. "Observe the master baker across the square. Does he consult twenty recipes each morning, or does he trust his practiced hands to feel the dough's readiness? Information, young Willem, is like salt in bread—essential in the right measure, but too much spoils the entire loaf."
+
+Van der Meer opened his simple ledger. "For thirty years, I have tracked only three things: the actual arrival of ships, the actual payment of dividends, and the actual hunger of European markets for exotic goods. While others drown in speculation and rumor, I watch what actually happens."
+
+**Moral:** In markets drowning in information, wisdom lies not in consuming everything, but in knowing what to digest.
+
+**Tomorrow:** Willem discovers why the financial world's growing complexity might be its own worst enemy...`,
+  },
 ];
