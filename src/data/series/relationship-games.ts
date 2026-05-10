@@ -874,4 +874,70 @@ The Mirror smiled, and for a moment, both moons merged into one complete orb. "T
 
 **Tomorrow**: Riven discovers what happens when someone begins to heal the very wounds that his nervous system has learned to call home...`,
   },
+  {
+    day: 15,
+    title: "The Joy Paradox",
+    date: "2026-05-10",
+    image: "images/relationship-games/day-15.jpg",
+    audio: "audio/relationship-games/day-15",
+    sonnet: `**🪶 Sonnet XV: The Joy Paradox**
+
+When kindness comes without a hidden cost,
+The heart recoils from gifts it can't decode,
+For souls long-trained in pain feel strangely lost
+When love appears without its heavy load.
+
+The nervous system, schooled in ancient fear,
+Mistakes this peace for danger yet unknown,
+And whispers warnings when the coast is clear:
+"Such happiness must hide a sharper stone."
+
+We sabotage the very joy we seek,
+Create the chaos that our wounds expect,
+For calm feels foreign to the war-torn psyche
+That learned to love through pain and disconnect.
+
+*Yet those who dare to trust in gentle days*
+*May find that peace surpasses all our plays.*`,
+    standard: `🎭 Day 15: The Joy Paradox
+
+When someone consistently exceeds our expectations rather than confirms our fears, our capacity for joy initially short-circuits because our nervous system has been calibrated for disappointment as a form of safety. We may unconsciously sabotage the relationship or create drama to return to familiar emotional territory, mistaking our discomfort with genuine happiness for a sign that something is "wrong."
+
+🧱 **The Concept**
+Our nervous system can become so adapted to chaos and disappointment that genuine stability and joy feel foreign and threatening.
+
+❓ **Why It Matters**
+This joy paradox explains why many people unconsciously sabotage healthy relationships while staying in toxic ones. When someone treats us better than we secretly believe we deserve, it creates cognitive dissonance that we resolve by either pushing them away or manufacturing problems to return to familiar dysfunction.
+
+⚙️ **How It Works**
+When we encounter consistent kindness, our threat-detection system may interpret this as "too good to be true" and scan for hidden dangers. For example, someone raised by an unpredictable parent might feel more anxious with a stable partner than with someone who creates constant drama. The stable partner triggers unfamiliar neural pathways associated with safety, which feels scarier than the well-worn pathways of anxiety and hypervigilance. Our brain essentially says: "I know how to handle chaos, but this peace feels dangerous because I don't know what comes next." This can lead to self-sabotage through picking fights, withdrawing emotionally, or creating tests to see if the person will abandon us like others have.
+
+🎯 **Relationship Strategy Wisdom**
+Recognizing when your discomfort with someone's goodness is actually your nervous system's resistance to healing allows you to stay present with joy instead of fleeing back to familiar suffering.
+
+❓ **Tomorrow's Question** — If we understand that our discomfort with genuine love often masquerades as intuition about "red flags," how might we develop the discernment to distinguish between our trauma-based resistance to healing and legitimate warnings about someone's character or intentions?`,
+    parable: `Riven found himself staring at the message on his phone, reading it for the third time. Maya had sent a simple "Hope you're having a good day" text, followed by a photo of a book she thought he'd enjoy. No games, no mixed signals, no three-day delays. Just... kindness.
+
+The Mirror materialized beside him in the coffee shop, its surface reflecting not Riven's face but the knot of anxiety in his chest. "Disturbing, isn't it?" it observed.
+
+"What do you mean?" Riven set down his phone, but his hands remained tense.
+
+"Someone treating you well. Notice how it makes you feel more nervous than when Zara would disappear for days, then return with elaborate explanations."
+
+Riven's stomach tightened. It was true. Zara's chaos had felt like home—familiar, predictable in its unpredictability. Maya's consistency felt like standing on solid ground after years at sea; his legs kept expecting the floor to drop away.
+
+"Your nervous system learned that love comes with suffering," The Mirror continued. "Safety was found in preparation for abandonment. Now, when someone offers genuine care without conditions, your alarm bells ring because the script is unfamiliar."
+
+Riven watched a couple at the next table sharing a quiet conversation, both present, both relaxed. "So I'm afraid of what I actually want?"
+
+"You're afraid of joy because joy requires vulnerability to loss. Chaos protects you from hope, and hope makes loss devastating."
+
+That evening, when Maya called just to hear his voice—not because she needed something or wanted to create drama—Riven felt his impulse to pull away. But this time, he recognized the familiar pattern: the urge to test her, to create distance, to return to the emotional territory he knew how to navigate.
+
+Instead, he stayed on the line and let himself enjoy her laughter.
+
+**Moral:** *The heart that has known only storms may fear the stillness of clear skies, mistaking peace for the calm before catastrophe.*
+
+*Tomorrow, Riven discovers that his intuition about "red flags" might not be as reliable as he thought...*`,
+  },
 ];

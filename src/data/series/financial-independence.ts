@@ -5149,4 +5149,70 @@ Tobren chuckled. "The proudest farmers are often the poorest. They insist on doi
 
 **Tomorrow**: *Sable reveals why our entire understanding of self-control might be fundamentally flawed...*`,
   },
+  {
+    day: 79,
+    title: "The Willpower Illusion",
+    date: "2026-05-10",
+    image: "images/financial-independence/day-79.jpg",
+    audio: "audio/financial-independence/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Willpower Illusion**
+
+The mind believes its discipline runs deep,
+That conscious will can conquer every vice,
+Yet science shows this force we cannot keep—
+It fades like snow beneath the warming dice.
+
+When morning brings resolve to save and plan,
+By evening's end, temptation finds its mark.
+The weary brain, despite its noble span,
+Surrenders gold to merchants in the dark.
+
+But wisdom builds what willpower cannot hold:
+Systems that function when the flesh grows weak,
+Automatic streams that gather future gold
+While lesser minds their daily struggles seek.
+
+*The strongest souls design their victory,*
+*Not through raw force, but through machinery.*`,
+    standard: `💰 Day 79: The Willpower Illusion
+
+The fact that automated systems outperform conscious discipline reveals that willpower is fundamentally a limited resource, not an unlimited force we can summon at will. Most personal development advice assumes we can consciously override unconscious patterns through sheer determination, when neuroscience shows that conscious control is actually the weaker system—meaning our entire self-help culture may be built on teaching people to rely on their least reliable mental faculty.
+
+🧱 **The Concept**
+Willpower operates like a muscle that fatigues with use, making it an unreliable foundation for long-term financial success.
+
+❓ **Why It Matters**
+Relying on willpower for financial decisions creates a system destined to fail during stress, fatigue, or emotional turbulence. Understanding willpower's limitations allows you to design systems that work regardless of your mental state or motivation level.
+
+⚙️ **How It Works**
+Willpower depletion explains why people make poor financial choices late in the day, during stressful periods, or after making other difficult decisions. A person might successfully resist impulse purchases all day but splurge on an expensive dinner because their willpower reserves are exhausted. This is why successful investors automate their savings and investment decisions rather than relying on daily discipline. Warren Buffett doesn't wake up each morning deciding whether to be disciplined—he created systems decades ago that removed temptation entirely. The most effective wealth-builders minimize decisions that require willpower rather than trying to strengthen their willpower.
+
+🎯 **Buffett Wisdom**
+"The chains of habit are too weak to be felt until they are too strong to be broken." Build good financial habits when willpower is strong, then let the habits run automatically.
+
+❓ **Tomorrow's Question** — If willpower is fundamentally unreliable and our conscious mind is easily deceived about its own motivations, what does this suggest about the entire concept of personal responsibility for financial outcomes, and should society redesign its institutions around human psychological limitations rather than pretending everyone has equal capacity for rational self-control?`,
+    parable: `The next morning found Kael watching Tobren work his field with methodical precision. "Elder Sable says I should automate my wealth-building," Kael said, "but doesn't that show weakness? Shouldn't discipline and willpower be enough?"
+
+Tobren paused, wiping sweat from his brow. "Young friend, watch how I farm. Do you see me standing guard over each seed, willing it to grow?"
+
+"No," Kael replied, puzzled.
+
+"Yet when I first started farming, I thought success meant constant vigilance. I would check the soil daily, adjust watering by hand, make a hundred small decisions." Tobren gestured to his struggling neighbor's field. "See how Merin still farms that way? He exhausts himself making decisions, and his crops suffer when he's tired or distracted."
+
+Kael nodded, noticing the uneven growth in Merin's field.
+
+"I learned to work with my limitations, not against them," Tobren continued. "I built irrigation channels that water the crops without my daily decision. I planted varieties that thrive in this soil without constant adjustment. My willpower is strongest in spring when I design these systems—but by summer, the systems run themselves."
+
+Sable approached, having overheard. "The wise farmer knows that discipline is for building systems, not for daily operations. Your willpower is like a torch—bright but finite. Use it to light permanent fires, not to stumble through darkness every day."
+
+"But surely some people have stronger willpower?" Kael asked.
+
+"Perhaps," Sable replied, "but even the strongest eventually tire. The wealthy understand this truth: they use their mental energy to create systems that work when they're weak, not to prove they're strong."
+
+Tobren smiled. "The strongest farmers don't fight the weather—they build barns that shelter crops regardless of storms."
+
+**Moral:** True strength lies not in relying on willpower, but in building systems that function when willpower fails.
+
+**Tomorrow:** Kael will discover what happens when entire societies are built around the myth of unlimited self-control.`,
+  },
 ];

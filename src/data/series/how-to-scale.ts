@@ -4474,4 +4474,68 @@ Over the following months, Vex struggled with metals that behaved differently th
 
 *Tomorrow, Ironmere will reveal why even the most growth-oriented craftsmen eventually build walls around their expanding expertise...*`,
   },
+  {
+    day: 74,
+    title: "The Mastery Prison Dilemma",
+    date: "2026-05-10",
+    image: "images/how-to-scale/day-74.jpg",
+    audio: "audio/how-to-scale/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Mastery Prison Dilemma**
+
+The craftsman's perfect skill becomes his cage,
+His genius trapped by what he does too well,
+While others grow through risk, he turns each page
+Of mastery's tome, a gilded citadel.
+
+The workshop needs his proven, precious hand,
+No time for fumbling with unfamiliar tools,
+His excellence becomes the firm's demand,
+While growth opportunities make him fool's.
+
+Each perfect stroke that builds his reputation
+Also builds the walls that hold him fast,
+Success creates its own cruel limitation,
+The very skills that raised him hold him last.
+
+*For mastery's reward is prison's key—*
+*The expert trapped by his supremacy.*`,
+    standard: `🚀 Day 74: The Mastery Prison Dilemma
+
+Companies create overreach immunity because their highest performers become so valuable in their proven domains that losing them to failed stretch assignments threatens the entire organization's stability. However, this protection creates invisible prisons where top talent becomes trapped by their own success, unable to grow beyond the expertise that made them indispensable. The most successful companies recognize that protecting stars from failure ultimately protects them from greatness.
+
+🧱 **The Concept**
+The most valuable employees often become prisoners of their own expertise, trapped in roles that leverage their proven skills while preventing them from developing new capabilities.
+
+❓ **Why It Matters**
+When organizations become dependent on specific individuals' expertise, they create incentive structures that punish those experts for exploring new domains. This leads to strategic bottlenecks where critical knowledge and decision-making authority cannot be distributed, making the entire organization fragile.
+
+⚙️ **How It Works**
+A brilliant engineer who built the core platform becomes the only person who can make critical architecture decisions, so they're never given opportunities to learn business strategy. A top salesperson who consistently hits quota is never moved to operations because losing their revenue would be catastrophic. A product manager who understands user behavior perfectly is never allowed to explore new markets because their current domain is too valuable to risk. These experts become single points of failure while simultaneously being prevented from growing beyond their current value proposition. The organization becomes addicted to their current capabilities while starving them of development opportunities.
+
+🎯 **Scaling Wisdom**
+True organizational strength comes from creating systems where your best people can afford to fail at new challenges because their current expertise has been successfully distributed to others.
+
+❓ **Tomorrow's Question** — If distributing expertise makes your organization more resilient, why do the most successful companies eventually create "knowledge hoarding" incentives that reward their most capable people for keeping critical information concentrated rather than shared?`,
+    parable: `Vex found Ironmere in the workshop's corner, carefully polishing a single, perfect chisel—the one tool that had shaped every masterpiece beam in the city's greatest buildings.
+
+"Master, why do you spend so much time maintaining this one chisel?" Vex asked. "Your workshop has hundreds of tools."
+
+Ironmere smiled sadly. "This chisel carved the cathedral's cornerstone, the palace's foundation arch, the bridge's keystone. Every master builder in the city depends on work that only this tool can do." He held up his hands, callused from decades of use. "But see these fingers? They know only this chisel's weight, this angle, this grain. I became so valuable for what I could do with this one tool that I was never allowed to learn the hammer, the saw, the measuring square."
+
+"But you built an entire city," Vex protested.
+
+"I built foundations," Ironmere corrected. "Others built everything else, because I was too precious to risk on unfamiliar tools. The city council said, 'Ironmere's chisel work is irreplaceable—we cannot afford to have him learning carpentry or masonry while critical foundation work waits.' So I became the master of one tool, prisoner of my own perfection."
+
+Vex watched the old architect's practiced movements. "What happened when you wanted to try something new?"
+
+"Every experiment was seen as a threat to the city's progress. 'Why risk Ironmere's proven brilliance on unproven ventures?' they said. So my chisel grew sharper while my other skills grew duller. I became simultaneously indispensable and incomplete."
+
+The young builder picked up an unfamiliar tool. "How do I avoid your fate?"
+
+"Build systems where others can hold the chisel," Ironmere replied. "Only when your unique skills become common knowledge can you afford to develop unique ignorance."
+
+**Moral:** The height of mastery becomes the depth of limitation when expertise transforms into organizational dependency.
+
+*Tomorrow, Vex will discover why the wisest masters deliberately teach their secrets to create the very redundancy that threatens their position...*`,
+  },
 ];

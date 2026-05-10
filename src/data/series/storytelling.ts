@@ -4523,4 +4523,62 @@ Osha resumed her work, leaving gaps where corrupted threads had been removed. "T
 
 **Tomorrow:** *Pip will discover why some stories wear virtue's mask while serving darkness...*`,
   },
+  {
+    day: 75,
+    title: "The Story's Immune System — How Narratives Protect Themselves",
+    date: "2026-05-10",
+    image: "images/storytelling/day-75.jpg",
+    audio: "audio/storytelling/day-75",
+    sonnet: `**🪶 Sonnet LXXV: The Story's Immune System**
+
+When parasites would feast on sacred tale,
+The narrative itself begins to fight,
+Creating discord that makes wrongness pale
+Before the reader's inner sense of right.
+
+Like bodies that reject what doesn't fit,
+True stories expel what corrupts their core,
+Each false addition causing subtle split
+That careful hearts can feel and then abhor.
+
+The merchant's lies woven in holy song
+Unravel when the pattern shows its truth,
+For authentic tales know what belongs
+And guard their essence with immortal proof.
+
+*Trust narrative's own protective art—*
+*Pure stories speak directly to the heart.*`,
+    standard: `📖 Day 75: The Story's Immune System — How Narratives Protect Themselves
+
+Stories themselves develop antibodies against parasitic narratives through what master storytellers call the "ontological immune system" — the way authentic narratives generate internal contradictions when corrupted, creating a discord that careful readers can feel in their bodies like a subtle wrongness. True stories resist hijacking by maintaining such coherent internal logic that false additions create detectable dissonance, much like how living organisms reject incompatible tissue.
+
+🧱 **The Concept**
+Authentic stories contain self-protecting mechanisms that automatically resist corruption and reveal parasitic elements through internal contradiction and energetic discord.
+
+❓ **Why It Matters**
+In an age of sophisticated narrative manipulation, understanding how stories naturally protect themselves helps both creators and consumers distinguish between authentic and corrupted narratives. This biological metaphor reveals that stories are living systems with their own defensive capabilities.
+
+⚙️ **How It Works**
+Like biological immune systems, stories maintain coherent patterns that reject foreign elements. When parasitic ideas are grafted onto authentic narratives, they create logical inconsistencies, emotional dissonance, or energetic "wrongness" that careful observers can detect. For example, propaganda inserted into genuine historical accounts often creates timeline contradictions or character motivations that don't align with established patterns. Similarly, commercial messages embedded in artistic narratives typically generate tonal shifts that break the story's internal rhythm. Master storytellers learn to trust these subtle signals of narrative contamination, recognizing that healthy stories naturally expel elements that don't belong to their organic structure.
+
+🎯 **Storytelling Wisdom**
+Trust the story's own intelligence to reveal what belongs and what doesn't — authentic narratives are self-correcting systems that will show you their parasites if you listen carefully enough.
+
+❓ **Tomorrow's Question** — But if stories possess such sophisticated self-protection mechanisms, what happens when storytellers become so attuned to these defensive systems that they can consciously strengthen a narrative's immune response? Can stories be deliberately "vaccinated" against specific types of corruption, and does such conscious immunization enhance or compromise their natural protective abilities?`,
+    parable: `Pip wandered into Osha's grove to find her examining a tapestry that seemed to shimmer with an inner disturbance. "Something's wrong with this one," he observed, noting how certain threads appeared to writhe against the overall pattern.
+
+"Indeed," Osha murmured, her fingers tracing the discord. "A merchant tried to weave advertisements into a sacred healing song. Watch what happens." She touched one of the foreign threads, and it began to unravel, pulling away from the authentic weave like oil separating from water.
+
+"The story itself rejects what doesn't belong?" Pip asked, fascinated.
+
+"Every true tale carries its own guardian spirit," Osha replied, as the corrupted sections fell away, leaving the original pattern pure and whole. "When parasitic narratives try to infiltrate, they create a discord that makes the entire story feel... wrong. Like a note sung flat in a perfect chord."
+
+Pip watched as the tapestry's natural luminescence returned once the foreign elements were expelled. "But how do you develop the sensitivity to feel such subtle wrongness?"
+
+"By learning to trust the story's own wisdom," Osha said, beginning a new weaving that seemed to pulse with protective energy. "Authentic narratives are living systems. They know what belongs."
+
+**Moral:** True stories possess their own immune systems that reject corrupting influences, creating detectable discord when parasitic elements attempt infiltration.
+
+**Tomorrow:** Pip discovers that some stories can be deliberately strengthened against specific corruptions, leading to questions about whether conscious immunization enhances or compromises natural narrative defenses.`,
+  },
 ];

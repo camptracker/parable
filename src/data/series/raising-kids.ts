@@ -496,4 +496,66 @@ Mira looked up from her roses. "Children don't need perfect parents, dear one. T
 
 *Tomorrow, Elder Mira will share why the sweetest praise sometimes leaves the bitterest taste...*`,
   },
+  {
+    day: 9,
+    title: "The Language of Worth",
+    date: "2026-05-10",
+    image: "images/raising-kids/day-9.jpg",
+    audio: "audio/raising-kids/day-9",
+    sonnet: `**🪶 Sonnet IX: The Language of Worth**
+
+When "good job" flows like water from our lips,
+We mean to nurture, yet we often bind
+The growing soul to seek our voice's tips
+Instead of trusting wisdom found inside.
+
+The child who hears "you're smart" with every task
+May fear to try when smartness might not show,
+While she who learns to pause and simply ask
+"How did that feel?" will help her spirit grow.
+
+Descriptive words paint pictures of their deed:
+"I saw you try three ways to solve that sum"
+Plants confidence like a slow-growing seed,
+That blooms when seasons of self-trust have come.
+
+*For language shapes the compass of the heart—*
+*Build inward strength, not praise that falls apart.*`,
+    standard: `👶 Day 9: The Language of Worth
+
+Praise often diminishes intrinsic motivation because it shifts a child's focus from internal satisfaction to external approval, creating dependency on our validation rather than trust in their own judgment. When we say "good job" for everything, children begin performing for our reactions rather than exploring their genuine interests and capabilities. This reveals that external validation teaches children to look outward for their sense of worth, while internal worth grows from experiencing competence, autonomy, and meaningful contribution.
+
+🧱 **The Concept**
+The words we use to acknowledge our children's efforts and achievements either build internal confidence or create external dependency.
+
+❓ **Why It Matters**
+Our language patterns literally shape how children view themselves and their relationship to effort, learning, and self-worth. Children who develop internal motivation become lifelong learners who persist through challenges, while those dependent on external validation often avoid risks and struggle when praise isn't available.
+
+⚙️ **How It Works**
+Instead of generic praise ("Good job!"), descriptive acknowledgment notices specific efforts and processes: "You kept trying different approaches until you figured out that puzzle." Rather than character labels ("You're so smart!"), we can highlight growth: "I noticed how you organized your thoughts before writing." When children share achievements, asking "How did that feel?" helps them connect with their internal experience rather than seeking our approval. This language teaches children to evaluate their own progress and find satisfaction in the process of learning and growing.
+
+🎯 **Parenting Wisdom**
+The goal isn't to eliminate positive feedback, but to use language that strengthens a child's internal compass rather than making them dependent on external direction.
+
+❓ **Tomorrow's Question** — If we want to raise children who can handle disappointment and setbacks with resilience, why do we often find ourselves trying to engineer their experiences to minimize failure, and what does this protective impulse actually teach them about their own capabilities?`,
+    parable: `Asha watched her two-year-old daughter Maya stack blocks, her hands hovering ready to catch the tower before it fell. "Good job, baby!" she called out with each block placed. But something in Maya's expression puzzled her—instead of focused concentration, her daughter kept glancing up, seeking Asha's face.
+
+Later that afternoon, visiting Elder Mira's garden, Asha observed something different. Maya had discovered a collection of smooth river stones and was arranging them in careful patterns. Elder Mira knelt nearby, quietly tending her herbs, occasionally glancing over with gentle attention but saying nothing.
+
+"I see you're making something special with those stones," Elder Mira eventually observed, her voice warm but matter-of-fact. Maya looked up briefly, smiled, then returned to her work with renewed focus.
+
+"Why didn't you praise her?" Asha asked quietly. "She was doing so well."
+
+Elder Mira's weathered hands continued their work among the basil leaves. "Watch her face," she murmured. "See how she studies each stone before placing it? That's the look of someone discovering her own capability."
+
+Asha noticed the difference immediately. When she had offered constant praise, Maya had been performing for approval. Here, with Elder Mira's quiet presence and descriptive noticing, her daughter was completely absorbed in her own creative process.
+
+"Words have tremendous power," Elder Mira continued, brushing soil from her fingers. "They can teach a child to look inward for satisfaction or outward for validation. The art is knowing which seeds we're planting with each phrase we choose."
+
+As the sun began to set, Maya proudly showed them her stone arrangement—not seeking approval, but sharing discovery. Her eyes shone with the quiet confidence of someone who had pleased herself first.
+
+**Moral**: The language we use either builds bridges to a child's inner wisdom or creates dependencies on outer approval.
+
+*Tomorrow, we explore how our protective instincts, though loving, might inadvertently communicate messages about our children's capabilities...*`,
+  },
 ];

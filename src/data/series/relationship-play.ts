@@ -728,4 +728,70 @@ River's face lit up with the same freedom they'd felt at the party.
 
 *Tomorrow, Elder Joy will reveal why the very couples who claim to want mystery work so hard to eliminate it...*`,
   },
+  {
+    day: 13,
+    title: "The Curiosity Compass",
+    date: "2026-05-10",
+    image: "images/relationship-play/day-13.jpg",
+    audio: "audio/relationship-play/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Curiosity Compass**
+
+When lovers map each corner of the heart,
+And catalog each gesture, word, and sigh,
+They think they've mastered love's elusive art,
+But passion fades beneath their watchful eye.
+
+For mystery dwells not in the unknown face,
+But in the depths of souls that ever grow;
+Each day brings changes time cannot erase,
+New dreams and fears only the curious know.
+
+The compass spins toward wonder, not toward sure—
+What questions have you never dared to ask?
+What stories wait behind familiar doors?
+What thoughts hide beneath your partner's daily mask?
+
+*Love's greatest gift is not to fully see,*
+*But to keep seeking who they'll always be.*`,
+    standard: `🎮 Day 13: The Curiosity Compass
+
+Partners unconsciously eliminate mystery because uncertainty feels dangerous when security is our primary goal, yet passion thrives on the very unpredictability we work so hard to control. We mistake knowing everything about our partner for loving them deeply, when true intimacy actually requires maintaining space for discovery and surprise.
+
+**🧱 The Concept**
+Healthy relationships balance the security of deep knowing with the excitement of ongoing discovery.
+
+**❓ Why It Matters**
+Curiosity is the antidote to assumption and the fuel of lasting passion. When we stop being curious about our partner, we start relating to our mental image of them rather than who they actually are today.
+
+**⚙️ How It Works**
+Cultivate intentional curiosity by asking questions you've never asked before: "What's something you're thinking about lately that you haven't shared?" Create mystery through separate interests and experiences you can later share. Practice the "beginner's mind" - approach familiar conversations as if hearing your partner's thoughts for the first time. Schedule regular "interview dates" where you explore each other's evolving dreams, fears, and perspectives. Remember that even in long-term relationships, people continue growing and changing.
+
+**🎯 Playful Connection Wisdom**
+The moment we think we know everything about our partner is the moment we stop seeing them clearly.
+
+**❓ Tomorrow's Question** — If curiosity naturally leads to discovery and deeper connection, why do so many couples unconsciously punish each other for revealing unexpected thoughts, feelings, or interests that don't fit their established narrative of who their partner "should" be?`,
+    parable: `Quinn found River organizing their shared calendar with military precision, color-coding every activity down to fifteen-minute intervals. "Look," River said proudly, "I've planned our next three months. No more wondering what we're doing when."
+
+Elder Joy, overhearing from the kitchen where she was preparing tea, chuckled softly. "Ah, the Curiosity Compass grows rusty when we polish away all the unknown paths."
+
+Quinn looked puzzled. "But isn't planning together good for relationships?"
+
+"Planning, yes," Elder Joy said, joining them with steaming mugs. "But when we schedule away all possibility of surprise, we also schedule away the very mystery that drew us together in the first place."
+
+River defended their organizational masterpiece. "But mystery makes me anxious. I like knowing what to expect."
+
+"Tell me," Elder Joy asked gently, "what first attracted you to Quinn?"
+
+"How unpredictable they were," River admitted. "I never knew what amazing idea they'd have next."
+
+"And now?"
+
+River stared at the calendar, understanding dawning. "Now I've... scheduled away their spontaneity."
+
+Elder Joy nodded. "True intimacy isn't about eliminating all uncertainty—it's about being curious enough to keep discovering the person you love, even when you've known them for years."
+
+**Moral:** Security and mystery aren't opposites—they're dance partners. When we're secure enough in love's foundation, we can be curious enough to explore love's endless rooms.
+
+**Tomorrow:** Quinn and River learn that curiosity without acceptance can become interrogation.`,
+  },
 ];

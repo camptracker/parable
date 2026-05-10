@@ -4554,4 +4554,74 @@ Senna watched as the merchant continued his meticulous tool care while absently 
 
 **Tomorrow:** Senna wonders why the same maintenance principles that work on simple devices seem impossible to apply to human biology...`,
   },
+  {
+    day: 73,
+    title: "The Maintenance Hierarchy",
+    date: "2026-05-10",
+    image: "images/health-and-longevity/day-73.jpg",
+    audio: "audio/health-and-longevity/day-73",
+    sonnet: `**🪶 Sonnet LXXIII: The Maintenance Hierarchy**
+
+We polish brass while sinew frays unseen,
+Oil gears of steel yet let our joints decay,
+Tend gardens well while inner health grows lean,
+And mend our roofs while bones begin to fray.
+
+The merchant shines his cart with loving care,
+But ignores the cough that wracks his chest,
+The craftsman tends each tool with skill so rare,
+While his own frame suffers and needs rest.
+
+We've learned to value what we can replace,
+Forgot that flesh responds to reverent touch,
+Treat bodies like they're built for self-embrace,
+While lavishing on things that matter much less.
+
+*The wise reverse this hierarchy of care,*
+*Place biology first—nothing else compare.*`,
+    standard: `⏳ Day 73: The Maintenance Hierarchy
+
+Our failure to maintain our biology stems from a profound cultural inversion: we've learned to treat our most valuable possession—our body—as if it were a self-maintaining appliance, while devoting meticulous care to replaceable objects. This maintenance hierarchy reveals that we unconsciously assign more worth to things we can buy again than to the one thing we cannot.
+
+🧱 **The Concept**
+We naturally create maintenance hierarchies for everything we own, yet most people place their irreplaceable biology at the bottom of this hierarchy.
+
+❓ **Why It Matters**
+This inverted priority system explains why people who meticulously maintain their cars, homes, and devices often neglect basic biological maintenance like consistent sleep, regular movement, and stress recovery. The result is spending our lives maintaining objects while allowing our bodies to deteriorate from neglect.
+
+⚙️ **How It Works**
+Consider how you maintain your car: regular oil changes, scheduled inspections, quality fuel, immediate attention to warning signals. Now examine your body maintenance: irregular sleep, processed food, ignored fatigue signals, deferred medical attention until crisis. The contrast reveals that we've unconsciously decided our $30,000 car deserves better care than our priceless biology. People who live longest flip this hierarchy—they treat their body like their most valuable possession and everything else as replaceable tools. They schedule body maintenance first, then fit other activities around these non-negotiable biological requirements.
+
+🎯 **Longevity Wisdom**
+The people who age best treat their body like their most valuable possession and everything else as replaceable.
+
+❓ **Tomorrow's Question** — If we naturally prioritize the maintenance of things we consider valuable and irreplaceable, what happens when we examine whether our culture's emphasis on body positivity and self-acceptance might actually be preventing us from developing the healthy dissatisfaction that motivates proper maintenance, and why might unconditional body love be the very attitude that ensures our bodies receive conditional care?`,
+    parable: `Senna found Dusk in his workshop, surrounded by ancient tools arranged with precise care. Each instrument gleamed despite its age, positioned exactly where it belonged.
+
+"You maintain these tools like treasures," Senna observed, watching Dusk oil a blade worn smooth by centuries.
+
+"Because they are irreplaceable," Dusk replied, not looking up. "This knife has cut herbs for healing longer than your village has existed. This mortar ground medicines that saved kingdoms."
+
+Senna frowned. "But you could make new tools. I've seen you forge metal."
+
+Dusk finally looked at her, then gestured toward the healing garden where patients waited. "Watch them," he said quietly.
+
+Senna observed: a merchant polishing his cart's brass fittings while ignoring his persistent cough. A potter carefully wrapping delicate vessels while her back ached from poor posture. A blacksmith oiling every joint of his bellows while his own joints creaked from neglect.
+
+"They treat their tools better than themselves," Senna whispered.
+
+"The great reversal," Dusk nodded. "They maintain what they can replace and neglect what they cannot. Their carts will outlast their bodies. Their pots will remain whole while they crumble."
+
+"But why?"
+
+Dusk held up his ancient knife. "Because they forgot that bodies, like these tools, respond to reverent care. They think flesh maintains itself while bronze requires attention. They have it precisely backward."
+
+Senna watched a woman carefully cleaning her horse's hooves while her own feet bore untreated wounds. The hierarchy of care was suddenly visible everywhere.
+
+"The longest-lived know this secret," Dusk continued. "They treat their body like their most precious tool and everything else as replaceable. They schedule their body's needs first, then arrange their life around those requirements."
+
+**Moral:** *We age according to our maintenance hierarchy—those who place their irreplaceable biology at the top live longest, while those who prioritize replaceable objects watch their bodies deteriorate from benign neglect.*
+
+**Tomorrow:** *Dusk reveals why the very acceptance we think our bodies need might be preventing us from giving them the care they deserve.*`,
+  },
 ];

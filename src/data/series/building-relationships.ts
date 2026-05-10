@@ -4537,4 +4537,62 @@ She stood, brushing earth from her hands. "The Bridge of Vows doesn't mark the b
 
 **Tomorrow:** Elder Rynn will reveal why the strongest relationships operate like abundance rather than scarcity—and why this shift feels more dangerous than it sounds.`,
   },
+  {
+    day: 74,
+    title: "The Infinite Well — When Love Discovers It Has No Bottom",
+    date: "2026-05-10",
+    image: "images/building-relationships/day-74.jpg",
+    audio: "audio/building-relationships/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Infinite Well**
+
+What if the heart holds oceans, not mere drops,
+And every kiss poured forth creates much more?
+We ration love as though affection stops
+When freely given—guarding passion's store.
+
+But see how gardens grow when watered well,
+How flames burn brighter when they're fed with air,
+The generous soul has infinite to tell,
+While misers count coins that were never there.
+
+The well of love defies all earthly laws—
+It deepens when you draw, expands when shared,
+Abundance flows without a single pause
+For those who've learned to love as if they dared.
+
+*Fear hoards what never could be kept or saved,*
+*While open hearts find more than they have gave.*`,
+    standard: `💕 Day 74: The Infinite Well — When Love Discovers It Has No Bottom
+
+Loving without limits feels more dangerous than loving with conditions because scarcity-based love gives us the illusion of control—we can meter it out, withdraw it strategically, and use it as leverage. Abundance-based love requires surrendering that control and trusting that the well of love is deeper than our fear of being emptied.
+
+🧱 **The Concept**
+Most relationships operate from a hidden belief that love is finite—that giving too much affection, appreciation, or attention will somehow deplete your reserves or make you vulnerable to exploitation.
+
+❓ **Why It Matters**
+This scarcity mindset creates artificial competition between partners, turning love into a zero-sum game where one person's gain feels like another's loss. It prevents couples from discovering that love actually operates more like a muscle—the more you use it, the stronger it becomes.
+
+⚙️ **How It Works**
+When you hold back appreciation "in case you need it later," you're treating gratitude like money in a savings account. When you ration physical affection "so it stays special," you're operating from fear that abundance diminishes value. When you carefully measure how much emotional support you give "so you don't become codependent," you're confusing healthy boundaries with emotional hoarding. True abundance means recognizing that expressing love creates more love, that appreciation generates more reasons to appreciate, and that the well refills itself through the act of drawing from it. The couples who seem to have "effortless" connection aren't managing their love more efficiently—they've discovered it's inexhaustible.
+
+🎯 **Relationship Wisdom**
+The deepest intimacy emerges when both people stop protecting their hearts from being "too full" and start exploring just how much love they can actually contain and express.
+
+❓ **Tomorrow's Question** — If you discovered that your relationship has been unconsciously operating like a "commitment conservation program" where both of you have been trying to maintain plausible deniability about how much you actually care—keeping escape routes open, hedging emotional bets, and avoiding the vulnerability of complete investment—what would you realize about the difference between being committed and admitting you're committed, and why does full acknowledgment of your devotion feel like stepping off a cliff even when you're already standing on solid ground?`,
+    parable: `Ash and Lume had been walking for months when they came upon a peculiar sight: two wells side by side, each tended by a different villager.
+
+The first villager, bent and weary, drew water with careful precision. "I allow myself exactly three buckets per day," he explained to curious travelers. "Any more and the well might run dry. I've been rationing for twenty years—see how much water remains!" He gestured proudly to his well, which indeed held water, though it appeared stagnant and barely touched the bottom.
+
+The second villager, radiant with energy, drew bucket after bucket, sharing freely with anyone who passed. "But won't you empty your well?" Ash asked, concerned.
+
+The woman laughed, her bucket overflowing as she pulled it up. "Watch," she said, and poured the entire bucket back into the well. The water level rose higher than before. "The more I draw, the more it gives. The more I share, the clearer it becomes."
+
+Elder Rynn appeared beside them, nodding toward the wells. "Love," he said simply, "is like water. Hoard it, and it stagnates. Share it, and it multiplies. The heart that gives freely discovers it has infinite capacity—but only through the act of giving."
+
+Lume knelt by the generous well and saw her own reflection multiplied in the rippling depths. "The first villager isn't protecting his water," she realized. "He's protecting his fear of having no water."
+
+**Moral:** *True abundance is discovered not through conservation, but through the courage to pour yourself out completely and trust the well to refill.*
+
+Tomorrow, our travelers will encounter the Temple of Total Investment, where they must decide whether to love with reservations or leap into complete commitment—and discover why holding back guarantees the very loss they're trying to prevent.`,
+  },
 ];

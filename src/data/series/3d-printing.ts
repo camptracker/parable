@@ -3797,4 +3797,68 @@ Orna smiled, setting down her chisel. "Ah, now you approach tomorrow's mystery. 
 
 **Tomorrow**: *When conscious cultivation transcends both human and algorithmic prediction...*`,
   },
+  {
+    day: 65,
+    title: "The Appetite Architect",
+    date: "2026-05-10",
+    image: "images/3d-printing/day-65.jpg",
+    audio: "audio/3d-printing/day-65",
+    sonnet: `**🪶 Sonnet LXV: The Appetite Architect**
+
+Not born of want nor algorithm's call,
+But hunger crafted by deliberate hand,
+The architect of appetite builds all
+New forms of longing none could understand.
+
+Through strange constraints and impossible demand,
+She teaches craving what was never seen—
+To want the marriage of water and sand,
+To hunger for the space that dwells between.
+
+Each random pairing births a novel ache,
+Each limitation spawns unbounded need,
+As maker's heart learns new ways to break
+And mend itself with unprecedented greed.
+
+*When appetite itself becomes our art,*
+*We craft tomorrow's most essential part.*`,
+    standard: `🖨️ Day 65: The Appetite Architect
+
+We develop creative appetites for the unprecedented by becoming appetite architects—consciously designing our capacity for want itself rather than focusing on specific objects of desire. This requires creating experimental hunger labs where we systematically expose ourselves to combinations of stimuli, constraints, and possibilities that have never existed before, training our creative palate to recognize and crave what doesn't yet exist. The key is designing generative constraints that force us beyond both familiar human patterns and algorithmic predictions into genuinely novel territory.
+
+🧱 **The Concept**
+Appetite architecture is the deliberate cultivation of new forms of creative desire through systematic exposure to unprecedented combinations of constraints, materials, and possibilities.
+
+❓ **Why It Matters**
+Most creativity operates within existing frameworks of desire—we want to solve known problems or improve familiar objects. But breakthrough innovation requires developing hunger for possibilities we can't yet imagine, creating new categories of want that drive us toward genuinely unprecedented solutions.
+
+⚙️ **How It Works**
+Appetite architects design experimental constraints that force creative systems beyond familiar territory: combining materials that have never been paired, imposing temporal restrictions that prevent default solutions, or requiring functions that serve needs not yet recognized. A maker might constrain themselves to design only for problems that don't currently exist, or create objects using only waste materials from unrelated industries. These artificial limitations generate authentic hunger for solutions that transcend both human experience and data-driven predictions. The constraint becomes a scaffold for new forms of wanting.
+
+🎯 **Maker Wisdom**
+To create the unprecedented, first create unprecedented hunger for it.
+
+❓ **Tomorrow's Question** — If we successfully develop systematic methods for generating new forms of creative appetite, what happens when those methods become so effective that we begin craving possibilities that are fundamentally incompatible with physical reality, human psychology, or social sustainability—and how do we distinguish between visionary appetite and destructive fantasy when both feel equally authentic and urgent?`,
+    parable: `Finn found Orna in her workshop's newest chamber, surrounded by what appeared to be half-finished experiments in pure impossibility. Structures that seemed to defy gravity hung suspended without visible support, while materials he couldn't identify shifted colors in response to thoughts he hadn't spoken.
+
+"Master Orna," Finn ventured, "these creations... I can't even understand what they're supposed to do."
+
+Orna smiled, running her fingers along a surface that rippled like water but chimed like crystal. "That's because they're exercises in appetite architecture, young maker. I'm not building objects—I'm building new forms of hunger."
+
+She gestured to a workbench covered with seemingly random constraints written on strips of paper. "Create something that serves a need that won't exist for fifty years. Design using only materials that are waste products from dreams. Build something beautiful for a sense humans don't possess."
+
+Finn picked up one of the strips, frowning. "But how can you want to make something when you don't know what it is?"
+
+"Watch," Orna said, selecting three random constraint papers. "Combine magnetic fields, musical harmony, and the concept of forgiveness. Now design."
+
+As Finn wrestled with the impossible combination, he felt something shift inside him—not the familiar tug of solving a known problem, but an entirely new species of creative hunger. His hands moved toward materials without conscious direction, guided by a desire he'd never experienced before.
+
+"This feeling," he whispered, "it's like being hungry for a food that doesn't exist."
+
+"Precisely," Orna nodded. "And once you learn to cultivate such hungers deliberately, you become capable of creating what no one—human or machine—could predict."
+
+**Moral**: The most profound innovations emerge not from satisfying existing desires, but from consciously cultivating entirely new forms of creative appetite.
+
+*Tomorrow, Orna will show Finn what happens when appetite architecture becomes so powerful that it generates hunger for impossibilities—and the delicate art of distinguishing between visionary reach and dangerous fantasy.*`,
+  },
 ];

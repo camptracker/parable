@@ -4615,4 +4615,68 @@ Lila took a breath and added wood to the middle hearth. The flames danced higher
 
 **Tomorrow**: Lila discovers that her greatest learning comes not from perfect decisions but from the courage to act without guarantees.`,
   },
+  {
+    day: 75,
+    title: "The Control Paradox",
+    date: "2026-05-10",
+    image: "images/nutrition-science/day-75.jpg",
+    audio: "audio/nutrition-science/day-75",
+    sonnet: `**🪶 Sonnet LXXV: The Control Paradox**
+
+When minds grasp tight the reins of appetite,
+And chart each morsel's path with measured care,
+The body's ancient wisdom takes its flight,
+Leaving souls hungry in their golden snare.
+
+For metabolism flows like mountain streams,
+That know their course through valleys yet unseen,
+While conscious will builds dams of careful schemes,
+That block the very flow they hope to glean.
+
+The frightened heart fears what the flesh might choose,
+If left to wander paths of pure desire,
+Not knowing that control itself can bruise
+The tender trust that sets the soul on fire.
+
+*Yet wisdom dwells where guidance meets release,*
+*In skillful dance 'tween effort and sweet peace.*`,
+    standard: `🍎 Day 75: The Control Paradox
+
+The terror of surrendering to appetite stems from a profound control paradox: our analytical minds have been conditioned to believe that conscious management prevents metabolic disaster, yet the deepest body wisdom often emerges precisely when we release this grip and allow our authentic appetites to guide us. This surrender threatens our fundamental identity as rational beings who can think our way to health, revealing that true metabolic freedom might require trusting processes beyond our conscious understanding.
+
+🧱 **The Concept** 
+The control paradox reveals that our attempts to manage metabolism through conscious willpower often create the very rigidity and disconnection we're trying to avoid.
+
+❓ **Why It Matters** 
+Most people become so focused on controlling their metabolic inputs and outputs that they lose access to the spontaneous wisdom that could guide them more effectively. This creates a feedback loop where increased monitoring leads to decreased bodily trust, which demands even more monitoring to feel safe.
+
+⚙️ **How It Works** 
+The control paradox manifests when someone tracks every macro, monitors every biomarker, and follows every protocol perfectly, yet feels increasingly anxious about their metabolic health. Their body begins responding to the stress of hypervigilance rather than the actual nutritional inputs, creating symptoms that seem to demand even more control. Meanwhile, someone who eats intuitively based on genuine appetite—even making "imperfect" choices—often maintains better metabolic flexibility because their nervous system remains calm and responsive. The paradox deepens when the controller realizes that their most balanced eating periods occurred during times when they were too busy or distracted to monitor closely. This recognition can trigger an identity crisis: if conscious control isn't the path to metabolic mastery, what does that mean about their entire approach to health?
+
+🎯 **Science Wisdom** 
+The body's wisdom often operates through channels that bypass conscious analysis, requiring a kind of intelligent surrender that honors both biological signals and practical reality.
+
+❓ **Tomorrow's Question** — *If surrendering control can paradoxically restore metabolic balance, what happens when someone becomes attached to being "effortless" or "intuitive" about their eating—and why might this new identity around surrender create its own subtle form of metabolic rigidity that mimics the very control patterns it replaced?*`,
+    parable: `Lila sat beside Maren's smallest hearth, watching the elder's weathered hands move without hesitation as she prepared the evening meal. No measuring, no weighing, no careful calculations—just a fluid dance of intuition that seemed to know exactly what the gathered villagers needed.
+
+"Master Maren," Lila began carefully, "I've been practicing the metabolic awareness you taught me, listening to my body's signals, but I find myself constantly checking: Am I listening correctly? Am I trusting the right impulses? How do I know when to surrender and when to guide?"
+
+Maren smiled, adding herbs to the pot with the casual precision of decades. "Tell me, child, what happens to your breathing when you think about it?"
+
+"It becomes... strange," Lila admitted. "Forced. Like I've forgotten how to do something I've done my whole life."
+
+"And when you stop thinking about it?"
+
+"It flows naturally again."
+
+Maren ladled soup into bowls, each portion somehow perfectly suited to its recipient. "Your appetite is like your breath, Lila. The moment you try to control it completely, you lose access to its natural wisdom. Yet abandon all guidance, and you may find yourself gasping in dangerous waters."
+
+Lila watched an elder approach the pot. Maren served him a smaller portion with extra warming spices—somehow knowing without asking that his digestion had been troubled. "But how do you know what each person needs without analyzing?"
+
+"Because I've learned to trust the intelligence that flows through these hands when my mind steps aside," Maren replied. "Control tries to force the river into channels of our making. Wisdom learns to read the river's natural course and paddle accordingly."
+
+The moral settled into Lila's awareness like sediment in still water: **True metabolic wisdom emerges not through perfect control nor reckless abandon, but through the skillful dance between conscious awareness and intuitive trust.**
+
+*Tomorrow, Lila would discover that even this dance of surrender could become its own kind of performance...*`,
+  },
 ];
