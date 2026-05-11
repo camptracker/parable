@@ -4614,4 +4614,68 @@ Tova knelt beside the tree, imagining the extensive root system spreading beneat
 
 **Tomorrow:** Greymane will reveal why the most transformative leadership moments often begin not with expanding what people know, but with expanding what they believe they're permitted to attempt.`,
   },
+  {
+    day: 74,
+    title: "The Liberation of Limits",
+    date: "2026-05-11",
+    image: "images/leadership/day-74.jpg",
+    audio: "audio/leadership/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Liberation of Limits**
+
+What cages have we built with whispered words,
+That tell our people who they're meant to be?
+These boundaries, invisible as birds
+In flight, yet strong enough to bind the free.
+
+We teach with silence what they cannot try,
+With assumptions dressed as wisdom's voice,
+Until the brightest souls learn not to fly
+But stay within the limits of our choice.
+
+Yet buried deep in every timid heart
+Lie capabilities we've never seen,
+Waiting for permission's gentle art
+To break the stories of what's always been.
+
+*The greatest gift a leader's hand can give:*
+*"You're more than you believe—now truly live."*`,
+    standard: `👥 Day 74: The Liberation of Limits
+
+When we discover that our team's greatest constraints are self-imposed narratives rather than capability gaps, our focus must shift from teaching new skills to dismantling old stories. Instead of asking "What do they need to learn?" we must ask "What do they need permission to believe about themselves?" This requires us to become archaeologists of assumption, carefully excavating the buried beliefs that keep our people small.
+
+**🧱 The Concept**
+True leadership expansion happens not through skill-building but through story-breaking—the deliberate dismantling of the invisible ceilings people carry in their minds.
+
+**❓ Why It Matters**
+Most teams operate far below their actual capacity because they've internalized artificial boundaries about what's possible for them. These self-imposed limits are often more restrictive than any external constraint, yet they're invisible to traditional leadership approaches focused solely on competency development.
+
+**⚙️ How It Works**
+This begins with recognizing the difference between "I can't do that" and "I'm not supposed to do that." When a junior team member says they're "not ready" for a challenging project, listen for whether they're describing a skill gap or a permission gap. Create experiments that let people discover their own capabilities—assign stretch responsibilities not as tests but as invitations to rewrite their internal narrative. When someone exceeds their own expectations, help them articulate what story they had to abandon to achieve that result. Most importantly, model this yourself by publicly sharing the limiting beliefs you've had to overcome, demonstrating that story-breaking is an ongoing leadership practice, not a one-time event.
+
+**🎯 Leadership Wisdom**
+The most powerful thing you can give someone isn't training—it's permission to surprise themselves with what they're actually capable of achieving.
+
+**❓ Tomorrow's Question** — If you discovered that your team's most creative solutions consistently emerged not from the people you'd identified as your "creative types," but from those you'd unconsciously categorized as "implementers" or "steady performers," what would this reveal about how your mental labels might be limiting both their contributions and your access to their full range of capabilities?`,
+    parable: `Captain Tova found herself studying the crew roster late into the evening, frustrated by what she saw as their obvious limitations. "They simply lack the skills," she muttered, marking notes beside each name. "Henderson can't handle complex navigation. Martinez isn't strategic enough for planning. Chen doesn't have the presence for leadership roles."
+
+Greymane, who had been quietly mending nets nearby, looked up with gentle eyes. "Tell me, Captain, what evidence led you to these conclusions?"
+
+"It's obvious," Tova replied. "Henderson never volunteers for navigation duty. Martinez only speaks up about logistics, never big-picture thinking. Chen always defers to others during discussions."
+
+"Ah," Greymane nodded slowly. "And have you ever directly invited Henderson to navigate? Have you explicitly asked Martinez for strategic input? Have you created space where Chen's voice would feel welcome?"
+
+Tova's pen stopped moving. "Well, no, but they should step forward if they're capable—"
+
+"Should they?" Greymane interrupted gently. "Or have we taught them to stay within the boundaries we've drawn for them?" He set down his nets and approached her desk. "Many years ago, I had a sailor everyone considered a simple rope-handler. For two seasons, he tied knots and coiled lines, never speaking unless spoken to. Then one day, a storm damaged our compass, and this 'simple' sailor began navigating by stars I'd never seen him notice. Turns out he'd been studying celestial navigation for years but believed officers didn't want input from 'common crew.'"
+
+Tova looked at her roster with new eyes. "You're saying they might be capable of more?"
+
+"I'm saying they might believe they're not allowed to be capable of more," Greymane replied. "The most dangerous limitation isn't what people can't do—it's what they think they're not permitted to attempt."
+
+The next morning, Tova approached Henderson with a chart and compass. "I need someone to plot our course to the eastern islands. Would you be willing to try?" Henderson's eyes widened with surprise and something else—recognition, as if she'd been waiting years for someone to ask.
+
+**Moral**: The greatest prison is not the lack of keys, but the belief that the door was never meant for you to open.
+
+**Tomorrow**: Greymane reveals how the crew member you least expect often holds the insight you most need—if you know how to look beyond your first impressions.`,
+  },
 ];

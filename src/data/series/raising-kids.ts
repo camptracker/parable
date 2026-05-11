@@ -558,4 +558,70 @@ As the sun began to set, Maya proudly showed them her stone arrangement—not se
 
 *Tomorrow, we explore how our protective instincts, though loving, might inadvertently communicate messages about our children's capabilities...*`,
   },
+  {
+    day: 10,
+    title: "The Courage to Let Them Fall",
+    date: "2026-05-11",
+    image: "images/raising-kids/day-10.jpg",
+    audio: "audio/raising-kids/day-10",
+    sonnet: `**🪶 Sonnet X: The Courage to Let Them Fall**
+
+When little hands reach out to grasp the stars,
+And stumble on the path to their desire,
+Our hearts would shield them from all painful scars,
+Yet rob them of the strength that trials inspire.
+
+The puzzle piece that will not find its place,
+The friendship torn by words said carelessly,
+The test not passed despite their earnest grace—
+These failures teach what comfort cannot see.
+
+For in the crucible of honest strife,
+Young souls discover depths they never knew,
+And learn to trust their own resilient life
+To weather storms and see the journey through.
+
+*The parent's hardest gift is stepping back,*
+*To let their children find what they don't lack.*`,
+    standard: `👶 Day 10: The Courage to Let Them Fall
+
+When we engineer our children's experiences to minimize failure, we inadvertently communicate that we don't believe they're capable of handling life's natural challenges. This protective impulse, while born from love, actually undermines their confidence and robs them of the opportunity to discover their own resilience and problem-solving abilities.
+
+🧱 **The Concept**
+True resilience isn't built through success alone—it's forged in the crucible of overcoming genuine challenges and recovering from real setbacks.
+
+❓ **Why It Matters**
+When children face age-appropriate struggles and failures, they develop crucial life skills: emotional regulation under stress, creative problem-solving, and the profound understanding that they can survive disappointment. These experiences become the foundation of genuine self-confidence—the kind that says "I can handle whatever comes my way" rather than "I hope nothing goes wrong."
+
+⚙️ **How It Works**
+Instead of immediately solving problems or preventing struggles, we can offer support while allowing natural consequences to unfold. When a child forgets their homework, rather than rushing to deliver it, we can empathize with their stress while letting them experience the teacher's response. When they struggle with a friendship conflict, we listen and validate without immediately offering solutions. When they face a challenging project, we resist the urge to take over and instead ask questions that help them think through the problem. Each time they navigate these difficulties successfully, their internal narrative shifts from "My parents save me" to "I can figure this out."
+
+🎯 **Parenting Wisdom**
+Our job isn't to create a path without obstacles—it's to walk alongside our children as they learn to navigate the inevitable rocks and valleys of life.
+
+❓ **Tomorrow's Question** — If children are naturally wired for autonomy and competence, why do well-meaning parents often find themselves doing things for their children that the children could do for themselves, and what deeper needs might this pattern be meeting for the parent rather than the child?`,
+    parable: `Asha watched her two-year-old daughter Maya struggle with the wooden puzzle, tears of frustration beginning to form as the star-shaped piece refused to fit into the circle. Every instinct screamed at Asha to reach over and gently guide the piece into its proper place—it would take two seconds, Maya would smile, and the tears would stop.
+
+"Let me help her," Asha whispered to Elder Mira, who sat knitting nearby.
+
+"What do you see when you look at her right now?" Mira asked quietly, not looking up from her stitches.
+
+Asha studied her daughter's face—the concentrated furrow of her brow, the determined set of her jaw even through the tears. "She's... trying so hard."
+
+"Yes. And what happens to that effort if you solve it for her?"
+
+Asha's hand, halfway to the puzzle, paused in midair. She watched as Maya rotated the star piece, tried another angle, frowned, and tried again. The frustration was real, but so was something else—a fierce determination that Asha recognized from her own childhood struggles.
+
+"I raised seven children," Mira continued, her needles clicking softly, "and with the first few, I was like a shadow, smoothing every rough edge before they could feel it. Those children grew up believing the world should bend to their needs. But with my younger ones, I learned that my discomfort with their struggle was stealing from them the chance to discover their own strength."
+
+Suddenly, Maya's face lit up as the star piece slid into its proper home. She looked up at Asha with such pride, such fierce joy, that Asha's heart caught in her throat.
+
+"You see?" Mira smiled. "That light in her eyes—that's not relief that someone saved her. That's the birth of confidence. That's her learning she can do hard things."
+
+Asha realized that her urge to rescue Maya wasn't really about Maya at all—it was about her own discomfort with witnessing struggle, her own need to be needed, her own fear of being seen as an unloving mother if she didn't immediately solve every problem.
+
+**The Moral:** Our children's greatest growth often comes not from our rescuing, but from our faithful presence as they discover they can rescue themselves.
+
+**Tomorrow:** Elder Mira will help Asha understand why doing too much for our children might actually be serving our own emotional needs more than theirs.`,
+  },
 ];

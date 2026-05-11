@@ -1256,4 +1256,64 @@ He stood, his reflection fragmenting in the disturbed water. "The person who pra
 
 *Tomorrow, Hana will discover why transformation requires mourning — and what she must release to fully embrace who she's becoming.*`,
   },
+  {
+    day: 21,
+    title: "The Sacred Transition",
+    date: "2026-05-11",
+    image: "images/gratitude/day-21.jpg",
+    audio: "audio/gratitude/day-21",
+    sonnet: `**🪶 Sonnet XXI: The Sacred Transition**
+
+Between the self I was and who I'll be
+Lies sacred space where transformation dwells,
+Where old familiar pain must bend the knee
+To gratitude's ascending, golden bells.
+
+I mourn the girl who wore her wounds like armor,
+Who trusted disappointment more than joy—
+Her vigilance once saved me from all harmer,
+But now her fear would every blessing destroy.
+
+Like caterpillar dissolving into flight,
+I honor what has been while letting go,
+No betrayal in this chrysalis of light,
+But sacred passage every soul must know.
+
+*In transition's tender, liminal embrace,*
+*I grieve who I was to claim my rightful place.*`,
+    standard: `🙏 Day 21: The Sacred Transition
+
+We resist gratitude transformation because our old identity feels safer and more predictable, even when it causes pain—the struggle narrative has been our compass for so long that we fear losing ourselves without it. Grieving who we used to be means honoring the person who survived through hardship while making space for the person who can thrive through appreciation—this isn't betrayal, it's evolution.
+
+🧱 **The Concept**
+Transforming into a naturally grateful person requires a sacred transition—consciously releasing old patterns of identity while tenderly embracing your emerging self.
+
+❓ **Why It Matters**
+Without acknowledging this transition as a form of sacred passage, we get stuck in liminal space—too grateful to return to old patterns, but too afraid to fully embrace our new identity. This creates internal conflict that sabotages our gratitude practice just when it's becoming most powerful.
+
+⚙️ **How It Works**
+The transition happens in phases: first, recognition that your old identity served a purpose but no longer fits; second, a period of discomfort as you practice new ways of being; third, integration where gratitude becomes natural rather than effortful. For example, someone who identified as "unlucky" might feel disloyal when good things happen, needing to consciously practice celebrating rather than waiting for the other shoe to drop. Another person who prided themselves on being "realistic" (pessimistic) might need to grieve the loss of being the family's voice of caution while learning to be the voice of possibility. The key is treating this as a sacred rite of passage, complete with rituals of release and ceremonies of welcome.
+
+🎯 **Gratitude Wisdom**
+You can honor who you've been while becoming who you're meant to be—transformation is not betrayal, it's the highest form of gratitude for your own growth.
+
+❓ **Tomorrow's Question** — If gratitude transformation is truly a sacred passage from one version of yourself to another, why do we often try to rush this process or judge ourselves for feeling grief during positive change, and what would happen if we treated our own evolution with the same reverence we give to other life transitions like births and marriages?`,
+    parable: `Hana sat at the edge of the village well, watching her reflection fragment and reform in the disturbed water. For months, Elder Thorn's teachings had been reshaping her inner landscape, but today she felt lost between worlds—no longer the bitter, wounded girl who had arrived, yet not quite the grateful soul she glimpsed in moments of practice.
+
+"I don't know who I am anymore," she confessed when Elder Thorn approached. "The person who suffered, who expected disappointment—she feels like a stranger now. But this new person, who finds blessings everywhere... I don't trust her yet. What if she's naive? What if she's setting herself up for heartbreak?"
+
+Elder Thorn settled beside her, his weathered hands tracing patterns in the dirt. "Child, do you mourn the caterpillar when the butterfly emerges?"
+
+"That's different," Hana protested. "The caterpillar becomes something entirely new."
+
+"Exactly," the elder smiled. "And in the chrysalis, there is a time when the creature is neither caterpillar nor butterfly—it is dissolution and possibility, death and birth occurring simultaneously. This is the sacred passage."
+
+He pointed to her fractured reflection. "You cannot become grateful by adding gratitude to who you were. You must allow who you were to teach who you are becoming. The girl who suffered taught you compassion. The girl who expected pain taught you to recognize genuine joy. Honor her service, but do not ask her to live your new life."
+
+As Hana stilled the water with her hands, her reflection became whole again—different from before, but undeniably herself.
+
+**Moral:** Transformation requires both honoring who we've been and embracing who we're becoming—the sacred passage of gratitude asks us to grieve our old self as we birth our new one.
+
+*Tomorrow, Elder Thorn will reveal why we judge ourselves for experiencing grief during positive change, treating our own evolution with less reverence than we give to other sacred transitions.*`,
+  },
 ];

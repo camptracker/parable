@@ -940,4 +940,60 @@ Instead, he stayed on the line and let himself enjoy her laughter.
 
 *Tomorrow, Riven discovers that his intuition about "red flags" might not be as reliable as he thought...*`,
   },
+  {
+    day: 16,
+    title: "The Discernment Decoder",
+    date: "2026-05-11",
+    image: "images/relationship-games/day-16.jpg",
+    audio: "audio/relationship-games/day-16",
+    sonnet: `**🪶 Sonnet XVI: The Discernment Decoder**
+
+When kindness feels like danger in disguise,
+And safety triggers alarms within the chest,
+The wounded heart mistakes its own device—
+Confusing trauma's echo with love's test.
+
+True intuition speaks in measured tone,
+Observing patterns through a clearer lens,
+While fear cries out at seeds of love full-grown,
+Demanding flight from care that never ends.
+
+The one who keeps their word becomes a threat,
+While chaos feels like home's familiar song,
+Inverted warnings that we can't forget
+Have taught our hearts to call the right thing wrong.
+
+*Yet wisdom learns to pause and gently ask:*
+*Is this real danger, or love's healing task?*`,
+    standard: `🎭 Day 16: The Discernment Decoder
+
+Developing this crucial discernment requires learning to distinguish between somatic reactions rooted in past wounds versus present-moment assessments of someone's actual behavior patterns. True intuition about character tends to be calm, clear, and based on observable inconsistencies between words and actions, while trauma-based resistance often manifests as overwhelming anxiety, racing thoughts, or the urge to flee from genuine care and consistency.
+
+**🧱 The Concept**
+Authentic discernment operates like a sophisticated pattern-recognition system that can differentiate between echoes from our past and signals from our present reality.
+
+**❓ Why It Matters**
+Without this skill, we risk rejecting healthy partners who challenge our familiar dysfunction while remaining vulnerable to manipulative partners who exploit our confusion between fear and wisdom. Many people spend years in therapy only to discover they've been using psychological insights to justify self-sabotage rather than develop genuine discernment.
+
+**⚙️ How It Works**
+True red flags typically involve consistent patterns of boundary violations, manipulation, or disrespect for your autonomy — behaviors that remain problematic regardless of your personal history. Trauma responses, conversely, often trigger disproportionate reactions to normal relationship behaviors like vulnerability, consistency, or genuine care. For example, if someone's reliability makes you anxious because your nervous system associates consistency with "the calm before the storm," that's likely trauma-based resistance. However, if someone consistently makes promises they don't keep while love-bombing you with grand gestures, that pattern remains concerning regardless of your attachment history. The key is learning to pause and ask: "Is this person actually violating my boundaries, or is my nervous system reacting to unfamiliar safety?"
+
+**🎯 Relationship Strategy Wisdom**
+Develop your discernment by tracking patterns over time rather than making decisions based on isolated moments of activation or calm.
+
+**❓ Tomorrow's Question** — If we accept that our nervous system's threat-detection mechanisms can become so dysregulated that we experience safety as dangerous and danger as familiar, what does it mean about the nature of choice itself when we're operating from these inverted warning systems, and how might this inversion be the very mechanism that keeps us trapped in cycles we consciously want to escape?`,
+    parable: `Riven stood before The Mirror, hands trembling as conflicting signals coursed through their body. "I met someone," they whispered. "They're... kind. Consistent. But every time they text back quickly or remember something I said, I feel this overwhelming urge to run. How do I know if this is wisdom or woundedness?"
+
+The Mirror's surface shimmered, revealing two scenes side by side. In the first, Riven's nervous system lit up like a Christmas tree, alarms blaring at the sight of flowers delivered on time, promises kept, and gentle consistency. In the second, the same system remained eerily quiet while someone charming made grand promises they'd never keep, created artificial urgency, and triggered familiar patterns of anxiety disguised as passion.
+
+"Your body learned to associate love with chaos," The Mirror observed. "It now mistakes peace for the eye of a hurricane and turbulence for home. But notice the difference: trauma responses feel overwhelming, consuming, urgent. They demand immediate action based on past pain. True intuition feels different — clearer, calmer, rooted in present observation rather than historical echo."
+
+The Mirror shifted to show Riven's recent interactions. "When someone violates your actual boundaries — dismisses your needs, pressures you sexually, or consistently breaks agreements — that knowing feels steady, certain, based on their actions. When someone offers genuine care and your system panics because it's unfamiliar, that's your nervous system mistaking healing for threat."
+
+Riven watched as the scenes revealed the pattern: their strongest "red flag" feelings arose not from genuine violations but from unprecedented safety.
+
+**Moral:** True discernment distinguishes between echoes of past harm and signals of present reality, recognizing that our most wounded parts often fear healing more than harm.
+
+**Tomorrow:** The Mirror will reveal how our inverted warning systems create the very traps we seek to escape.`,
+  },
 ];

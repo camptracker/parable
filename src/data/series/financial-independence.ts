@@ -5215,4 +5215,74 @@ Tobren smiled. "The strongest farmers don't fight the weather—they build barns
 
 **Tomorrow:** Kael will discover what happens when entire societies are built around the myth of unlimited self-control.`,
   },
+  {
+    day: 80,
+    title: "The Compassionate Framework",
+    date: "2026-05-11",
+    image: "images/financial-independence/day-80.jpg",
+    audio: "audio/financial-independence/day-80",
+    sonnet: `**🪶 Sonnet LXXX: The Compassionate Framework**
+
+The gardener wise does not demand the rose
+To bloom in winter's harsh and barren ground,
+But tends the soil where natural beauty grows
+And shapes the space where flourishing is found.
+
+So human hearts, though noble in intent,
+Need systems built to guide their wayward will,
+For responsibility well-complement
+Requires both choice and wisdom's guiding skill.
+
+The architect of wealth must understand
+That fallible minds need scaffolding strong,
+Not blame for failures, but a helping hand
+To make the right path clear and short and long.
+
+*True mercy builds the bridge o'er human flaw,*
+*While justice holds both system and the law.*`,
+    standard: `💰 Day 80: The Compassionate Framework
+
+Personal responsibility remains important, but true responsibility means acknowledging our psychological limitations and designing systems around them rather than pretending willpower alone suffices. The most responsible approach combines individual accountability with institutional design that makes good choices easier and bad choices harder for everyone.
+
+🧱 **The Concept**
+A compassionate framework recognizes human psychological limitations while maintaining individual agency through better system design.
+
+❓ **Why It Matters**
+Blaming individuals for predictable psychological failures wastes energy that could be spent creating better systems. When institutions account for human nature rather than fighting it, everyone achieves better outcomes with less struggle.
+
+⚙️ **How It Works**
+Instead of expecting people to overcome cognitive biases through willpower, compassionate design removes temptation and automates good choices. A company might automatically enroll employees in retirement plans with opt-out rather than opt-in, recognizing that inertia affects everyone regardless of intelligence. Banks could offer savings accounts that round up purchases and invest the difference, making wealth-building invisible. Credit card companies could highlight total interest costs upfront rather than hiding them in fine print. These changes don't eliminate personal choice—they just make the better choice easier to execute.
+
+🎯 **Buffett Wisdom**
+"It's better to be approximately right than precisely wrong." Systems that work for imperfect humans are better than perfect theories that ignore human nature.
+
+❓ **Tomorrow's Question** — If designing compassionate systems that work with human psychology rather than against it can dramatically improve financial outcomes for everyone, why might existing institutions resist implementing these obviously beneficial changes, and what does this resistance reveal about whether our current economic system is actually designed to help people build wealth or to extract wealth from predictable human weaknesses?`,
+    parable: `The morning mist hung low over the village as Kael found Sable tending her herb garden, each plant carefully positioned to thrive in its natural conditions.
+
+"Elder," Kael began, "yesterday you said willpower alone cannot overcome our nature. But surely people must take responsibility for their choices?"
+
+Sable smiled, gesturing to her garden. "Tell me, young one, am I a cruel gardener because I plant sun-loving herbs in sunny spots and shade-loving ones beneath the oak?"
+
+"Of course not," Kael replied, puzzled. "You're working with each plant's nature."
+
+"Precisely." Sable knelt beside a struggling mint plant. "I could place this mint in full sun and then blame it for wilting, demanding it try harder to photosynthesize. Or I could move it to partial shade where it naturally flourishes. Which approach shows more wisdom?"
+
+Tobren arrived with his morning harvest. "I heard talk of gardening wisdom. Yesterday I learned something curious—my neighbor's children constantly raided his apple orchard, but never touched mine. Yet I have sweeter apples."
+
+"What's the difference?" Sable asked.
+
+"His orchard sits right beside the village path," Tobren chuckled. "Mine requires a walk through brambles. Same children, same temptation, different outcomes based purely on design."
+
+Sable nodded approvingly. "This is the compassionate framework—designing for human nature rather than fighting it. We don't abandon responsibility; we create conditions where responsibility becomes easier to exercise."
+
+"But what of those who still make poor choices despite good design?" Kael wondered.
+
+"Even in the best garden, some plants fail," Sable acknowledged. "But a wise gardener doesn't conclude that all plants are lazy. She examines whether the soil, water, or light could be improved. Individual accountability matters, but systemic wisdom matters more."
+
+As they worked together, Kael understood that true compassion lay not in lowering standards, but in raising the foundation from which everyone could reach those standards.
+
+**Moral:** Wisdom designs for human nature rather than demanding nature change for design.
+
+*Tomorrow, Sable will reveal why institutions might resist compassionate design, and what this resistance teaches about the true nature of power.*`,
+  },
 ];

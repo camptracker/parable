@@ -1041,4 +1041,64 @@ Van der Meer closed his simple ledger. "The greatest irony of our trade is that 
 
 *Tomorrow, we explore whether the very human psychology that makes simple strategies difficult to follow might require its own kind of sophisticated understanding.*`,
   },
+  {
+    day: 19,
+    title: "The Equilibrium of Trust and Greed",
+    date: "2026-05-11",
+    image: "images/stock-market-origins/day-19.jpg",
+    audio: "audio/stock-market-origins/day-19",
+    sonnet: `**🪶 Sonnet XIX: The Equilibrium of Trust and Greed**
+
+In Amsterdam's exchange where fortunes turn,
+Two forces wage eternal war for souls:
+The trust that lets honest merchants earn,
+The greed that drives them toward ambitious goals.
+
+Without trust's hand, no stranger dares to trade,
+No contract holds, no promise finds its mark;
+Yet lacking greed's sharp spur, all progress made
+Grows stagnant in complacency's cold dark.
+
+The wise merchant knows both serve his art—
+Trust builds the stage where commerce plays its part,
+Greed writes the script that makes the action move;
+One guards the game, the other finds the groove.
+
+*In markets' dance, both virtues interweave:*
+*Pure trust grows weak, pure greed will self-deceive.*`,
+    standard: `📈 Day 19: The Equilibrium of Trust and Greed
+
+🧱 **The Concept**
+Markets exist in a constant tension between trust (which enables cooperation and long-term value creation) and greed (which drives innovation and price discovery).
+
+❓ **Why It Matters**
+This balance determines whether markets serve society by allocating capital efficiently or become predatory systems that extract value without creating it. When trust dominates completely, markets become complacent and inefficient; when greed dominates completely, they become unsustainable and self-destructive.
+
+⚙️ **How It Works**
+Trust manifests in market institutions like contract enforcement, accounting standards, and reputation systems that allow strangers to trade with confidence. Greed drives price competition, forces companies to innovate or die, and punishes inefficient capital allocation through stock price declines. The healthiest markets maintain dynamic tension—enough trust that participants believe the game is fair, enough greed that prices reflect reality rather than wishful thinking. For example, the 2008 financial crisis occurred when greed (pursuit of short-term profits) overwhelmed trust (belief in mortgage securitization), while the post-war boom happened when strong institutions balanced competitive pressure with social stability.
+
+🎯 **Market Wisdom**
+Sustainable market success requires building trust while maintaining healthy competitive pressure—cooperation where it creates value, competition where it reveals truth.
+
+❓ **Tomorrow's Question** — If trust and greed both serve essential functions in markets, but modern financial incentives increasingly reward short-term greed over long-term trust-building, are we creating a system that will eventually consume itself, or do markets have natural mechanisms that restore this balance before reaching a breaking point?`,
+    parable: `Willem found Van der Meer studying two ledgers by candlelight, one bound in honest leather, the other wrapped in silk that seemed to shimmer with false promises.
+
+"Master, why do you keep separate books?"
+
+"These are not my books, young Willem, but the soul of every market laid bare." Van der Meer opened the leather volume. "Here lies trust—every contract honored, every promise kept, every merchant who chose reputation over quick profit. See how slowly it fills, each entry earned through years of faithful dealing."
+
+He turned to the silk-wrapped book, its pages heavy with gold ink. "And here dwells greed—every clever scheme, every price manipulated, every advantage seized without thought for tomorrow. Notice how quickly these pages fill, how the ink seems to burn with urgency."
+
+"But which serves the market better?"
+
+"Neither alone, my boy. Watch the harbor—trust builds the ships that carry our goods, but greed fills their holds and drives them to distant shores. Trust creates the guilds that enforce fair weights and measures, but greed ensures those measures reveal true value. One without the other turns commerce into either a sleepy village fair or a den of cutthroats."
+
+As if summoned by their conversation, a commotion arose from the exchange floor below. A merchant who had long traded on reputation alone was being challenged by newcomers offering better prices through ruthless efficiency.
+
+"There," Van der Meer pointed. "The eternal dance begins anew. The old merchant must innovate or perish, the new ones must prove they can be trusted beyond a single transaction. Both forces serve the market's greater purpose—allocating the world's resources to their highest use."
+
+**Moral:** Markets thrive not when trust or greed dominates, but when they exist in dynamic tension, each checking the excesses of the other.
+
+*Tomorrow, Willem will discover how this delicate balance might be shifting in ways that could reshape the very nature of commerce...*`,
+  },
 ];

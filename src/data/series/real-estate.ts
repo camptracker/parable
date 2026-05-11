@@ -4572,4 +4572,65 @@ Dara considered this, then walked to her simplest project—a basic chair that a
 
 *Tomorrow, Dara will encounter an artisan whose wounded pride makes collaboration impossible, forcing her to navigate the delicate balance between accommodation and enabling...*`,
   },
+  {
+    day: 74,
+    title: "The Ego Threshold — When Collaboration Becomes Impossible",
+    date: "2026-05-11",
+    image: "images/real-estate/day-74.jpg",
+    audio: "audio/real-estate/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Ego Threshold**
+
+When pride demands the throne in every deal,
+And partnership means only silent consent,
+The ego builds its walls with righteous zeal,
+Forbidding wisdom that was never meant
+To threaten, only serve collaborative good.
+But damaged pride sees threat in every gift,
+Prefers the poverty of solitude
+To riches shared where credit might shift.
+The conscious investor learns to read these signs,
+To honor growth that cannot yet receive,
+And walks away when partnership confines
+The very gifts that make souls truly achieve.
+*For sometimes love's most sacred, kind release*
+*Is letting egos find their separate peace.*`,
+    standard: `🏠 Day 74: The Ego Threshold — When Collaboration Becomes Impossible
+
+When someone's ego is so invested in being the expert that they cannot tolerate partnership, attempting to accommodate them crosses from humble service into codependent enabling. True discernment recognizes that some individuals need the space to maintain their illusion of superiority more than they need the benefits of collaboration, and honoring this reality by walking away actually serves their highest good better than diminishing yourself to make them comfortable.
+
+🧱 **The Concept**
+Not every investor is ready for conscious collaboration, and forcing partnership with those committed to ego-dominance creates dysfunction for all involved.
+
+❓ **Why It Matters**
+Attempting to collaborate with ego-invested individuals often results in power struggles, credit disputes, and the gradual erosion of the conscious principles that make your approach effective. Recognizing when someone's developmental stage makes partnership impossible protects both your energy and your business integrity.
+
+⚙️ **How It Works**
+The ego threshold becomes apparent when someone consistently needs to be right rather than effective, takes credit for collaborative successes while blaming others for failures, or cannot acknowledge expertise that exceeds their own. For example, when presenting a joint venture to an ego-driven investor, they might spend the entire meeting explaining why your analysis is wrong rather than exploring how your different perspectives could create a stronger deal. Another common pattern is someone who agrees to equal partnership but then attempts to dominate every decision-making process. The conscious response is polite disengagement—acknowledging their expertise while making it clear you work differently, then redirecting your energy toward investors who genuinely value collaborative intelligence.
+
+🎯 **Real Estate Wisdom**
+Protecting conscious collaboration principles sometimes requires saying no to profitable partnerships with unconscious operators.
+
+❓ **Tomorrow's Question** — If walking away from ego-driven partnerships protects your conscious principles and often leads to superior opportunities with growth-oriented collaborators, what happens when you realize that your very ability to recognize and avoid ego-driven dynamics might be creating an "enlightened bubble" where you only work with highly conscious people? When conscious collaboration becomes effortless because you've filtered out all challenging personalities, are you serving the world's evolution or avoiding the messy work of helping unconscious investors develop greater awareness?`,
+    parable: `Dara found herself facing a dilemma when Marcus, the village's most prominent merchant, requested a partnership on a waterfront warehouse conversion. His reputation was impeccable, his resources substantial, but something in their conversations troubled her deeply.
+
+"I've been doing this for twenty years," Marcus declared during their third meeting, dismissing Dara's suggestion about worker housing integration. "Trust me, I know what works in this market." When she gently shared her analysis of changing demographics, he interrupted: "You're overthinking it, girl. Simple is better."
+
+Hallam, observing from his corner, watched Dara's face carefully. She was trying to honor Marcus's experience while contributing her own insights, but every attempt resulted in gentle condescension or outright dismissal.
+
+"Perhaps," Dara offered diplomatically, "we each bring different strengths that could complement—"
+
+"Exactly!" Marcus beamed. "You handle the details, I'll manage the strategy. Perfect division of labor."
+
+After Marcus left, Hallam approached Dara. "Child, I've seen this dance many times. Some folks need to be the smartest person in every room more than they need successful partnerships."
+
+"But his project could help so many families," Dara protested. "Shouldn't I try harder to make it work?"
+
+"Making yourself smaller doesn't make others bigger," Hallam replied gently. "Sometimes the kindest thing you can do for someone committed to being the expert is let them be the expert—alone. The project that emerges from his solo wisdom will teach him what collaboration could have offered better than any argument you could make."
+
+Dara nodded slowly, understanding that protecting her collaborative principles wasn't selfish—it preserved the very approach that could serve future partners who were ready for true partnership.
+
+Moral: Wisdom knows when accommodation becomes enabling, and sometimes the greatest service is allowing others to learn from the consequences of their limitations.
+
+Tomorrow: When conscious discernment creates effortless collaboration, does filtering difficult personalities serve evolution or avoid necessary growth work?`,
+  },
 ];

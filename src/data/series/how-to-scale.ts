@@ -4538,4 +4538,62 @@ The young builder picked up an unfamiliar tool. "How do I avoid your fate?"
 
 *Tomorrow, Vex will discover why the wisest masters deliberately teach their secrets to create the very redundancy that threatens their position...*`,
   },
+  {
+    day: 75,
+    title: "The Information Monopoly Engine",
+    date: "2026-05-11",
+    image: "images/how-to-scale/day-75.jpg",
+    audio: "audio/how-to-scale/day-75",
+    sonnet: `**🪶 Sonnet LXXV: The Information Monopoly Engine**
+
+In vaults of wisdom, masters guard their gold—
+Not wealth of coin, but knowledge rare and deep,
+While common skills through market squares are sold,
+The sacred arts in shadows they must keep.
+
+For when all secrets scatter to the wind,
+No craftsman holds unique and lasting worth,
+The city's strength becomes forever thinned,
+As rivals steal the treasures of their birth.
+
+Yet concentrate too much, and growth will die,
+When hoarding kills the very seeds of change,
+So wisest builders let some knowledge fly,
+While guarding close what keeps them past the range.
+
+*Between the vault and street, the balance lies—*
+*Share what strengthens all, hoard what makes you wise.*`,
+    standard: `🚀 Day 75: The Information Monopoly Engine
+
+Successful companies create knowledge hoarding incentives because distributed expertise, while making organizations more resilient, also makes them more vulnerable to talent flight and competitive intelligence leaks. When critical knowledge becomes too distributed, companies lose their ability to create sustainable competitive moats and find themselves unable to retain their most valuable contributors who no longer feel uniquely essential.
+
+🧱 **The Concept**
+The most successful scaling companies deliberately create **information monopoly engines** — systems that concentrate certain types of critical knowledge in the hands of specific individuals or small teams, making those people irreplaceable while maintaining knowledge distribution in less strategic areas.
+
+❓ **Why It Matters**
+When everyone knows everything, no one has unique value, which creates retention nightmares and eliminates the knowledge-based competitive advantages that justify premium pricing. Information monopolies create internal power structures that align individual success with company success, ensuring your most capable people have strong incentives to stay and invest in proprietary knowledge rather than portable skills.
+
+⚙️ **How It Works**
+Companies identify their most strategically valuable knowledge domains — like customer relationship insights, proprietary technical architectures, or market intelligence — and create formal or informal systems that concentrate this expertise. Netflix's content recommendation algorithms are known by only a handful of engineers, while Google's search ranking methodology remains concentrated among a small team of specialists. These companies simultaneously distribute operational knowledge widely (how to deploy code, how to handle customer service) while keeping strategic knowledge concentrated. The key is making the concentrated knowledge genuinely valuable and non-transferable, often by tying it to unique data sets, relationships, or contextual understanding that can't be replicated elsewhere.
+
+🎯 **Scaling Wisdom**
+The most sophisticated organizations run dual knowledge systems: broad distribution for resilience, strategic concentration for competitive advantage.
+
+❓ **Tomorrow's Question** — If strategic knowledge concentration creates such powerful competitive advantages, why do the most successful companies eventually establish "knowledge democratization" protocols that deliberately break their own information monopolies and distribute their most valuable secrets throughout their organizations?`,
+    parable: `Vex found Ironmere in the old library, carefully cataloguing scrolls in a locked vault she'd never seen opened. "Master, I thought you believed in sharing knowledge freely," she said, watching him secure documents behind iron bars.
+
+Ironmere smiled, his weathered hands tracing the vault's intricate lock. "Child, when I built my city, I learned there are two kinds of knowledge: the kind that makes everyone stronger when shared, and the kind that loses its power the moment it spreads." He gestured to the public shelves, filled with carpentry techniques and masonry guides. "These skills I give freely — they make the whole city more capable."
+
+"But these," he continued, indicating the secured scrolls, "contain the architectural principles for earthquake-resistant foundations, the locations of hidden water sources, and the engineering secrets that make our bridges span impossible distances. If I shared these openly, every competing city would have them within a moon's cycle. Our people would lose their unique advantages, our craftsmen would become ordinary, and our enemies would know our strengths too intimately."
+
+Vex frowned. "Isn't that selfish? Hoarding knowledge while others struggle?"
+
+"Consider this," Ironmere replied, unlocking one scroll briefly. "When I keep these secrets concentrated among my most trusted architects, they become irreplaceable. They invest years learning not just the techniques, but understanding why they work in our specific terrain, with our specific materials, for our specific challenges. This knowledge becomes living wisdom, not mere information. And because they are uniquely valuable, they stay loyal to our city rather than selling their expertise to the highest bidder."
+
+He rolled the scroll carefully. "The master builder's paradox: share everything and lose everyone; hoard everything and help no one. Wisdom lies in knowing which knowledge strengthens the community when distributed, and which knowledge strengthens the community when concentrated."
+
+**Moral:** *Strategic knowledge concentration creates loyalty and competitive advantage, while operational knowledge distribution creates resilience and capability.*
+
+*Tomorrow, Vex will discover why Ironmere periodically reveals his most guarded secrets...*`,
+  },
 ];

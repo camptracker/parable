@@ -794,4 +794,79 @@ Elder Joy nodded. "True intimacy isn't about eliminating all uncertainty—it's 
 
 **Tomorrow:** Quinn and River learn that curiosity without acceptance can become interrogation.`,
   },
+  {
+    day: 14,
+    title: "The Gallery of Growing Selves",
+    date: "2026-05-11",
+    image: "images/relationship-play/day-14.jpg",
+    audio: "audio/relationship-play/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Gallery of Growing Selves**
+
+We paint our loves in portraits, fixed and still,
+Then rage when living hands dare add new hues—
+As if their growth defied our stubborn will
+To keep them framed in yesterday's old views.
+But hearts that beat must change with every breath,
+And souls that love must venture past known ground;
+To cage them in familiar forms brings death
+To all the magic yet to be found.
+The bravest lovers learn to stand amazed
+When partners bloom in unexpected ways,
+Not threatened by the mysteries they've raised
+But thrilled by all their yet-uncharted days.
+*For love's most sacred art is learning how*
+*To fall in love with who they're becoming now.*`,
+    standard: `🎮 Day 14: The Gallery of Growing Selves
+
+Couples punish unexpected revelations because they've unconsciously invested in a fixed story of their partner—and any deviation threatens the security of that familiar narrative. When someone we love reveals a new facet of themselves, it forces us to update our mental model of who they are, which feels destabilizing rather than exciting. Instead of celebrating discovery, we often respond with "That's not like you" or "Since when?"—unconsciously demanding they return to the version we thought we knew.
+
+**The Concept**
+True playful connection requires creating space for your partner to evolve, surprise you, and reveal new dimensions of themselves without judgment or resistance.
+
+**Why It Matters**
+When we lock our partners into rigid expectations, we kill curiosity and stifle growth. The most passionate couples aren't those who never change—they're those who remain fascinated by how their partner continues to unfold. Punishing evolution creates emotional hiding, while celebrating it creates deeper intimacy.
+
+**How It Works**
+Instead of saying "That's not like you," try "I love learning new things about you." When your partner shares an unexpected interest, resist the urge to categorize it as good or bad—just be curious. Create regular "discovery dates" where you deliberately explore new activities together, allowing both of you to reveal hidden aspects of yourselves. Practice the phrase "Tell me more" instead of immediately judging whether their revelation fits your expectations. The goal isn't to control who your partner becomes, but to remain their most enthusiastic audience.
+
+**Playful Connection Wisdom**
+The most exciting relationships aren't built on knowing everything about each other—they're built on the thrilling assumption that there's always more to discover.
+
+**Tomorrow's Question** — If emotional safety creates the foundation for playful vulnerability, why do so many couples mistake emotional comfort for emotional growth, unconsciously choosing familiar patterns that feel secure but slowly erode the very aliveness they once shared?`,
+    parable: `Quinn stared at the easel in their living room, paintbrush frozen mid-air. "Since when do you paint?" they asked River, who stood beside a half-finished landscape that captured the creek behind their house with surprising skill.
+
+"I've been taking classes for three months," River admitted, cheeks flushing. "I wanted to surprise you, but... I guess I was also nervous you'd think it was silly. You always say I'm more of a numbers person."
+
+Quinn felt something uncomfortable twist in their chest. River was supposed to be practical, analytical—that's who Quinn had fallen in love with. This artistic side felt foreign, almost threatening to the neat categories Quinn had built around their relationship.
+
+"But you hate getting messy," Quinn protested, gesturing at the paint-stained apron River wore.
+
+River's face fell slightly. "I thought I did too. Turns out I was wrong about myself."
+
+Later that week, Quinn found themselves in Elder Joy's garden studio, surrounded by her own colorful canvases. "River's become this whole different person," Quinn complained. "It's like I don't know them anymore."
+
+Elder Joy smiled, mixing blues and greens on her palette. "Tell me, dear one—when you fell in love with River, did you fall in love with a museum exhibit or a living, growing human being?"
+
+"A human being, obviously," Quinn replied, confused.
+
+"Museum pieces never change," Elder Joy continued, applying paint to canvas with gentle strokes. "They're preserved exactly as they were, behind glass, untouchable. Safe to observe but impossible to truly connect with. Living things grow, surprise us, reveal new colors we never knew existed."
+
+She gestured to her painting—a portrait that seemed to shift in the light, revealing new details with each viewing. "The question isn't whether River is becoming someone new. The question is: do you want to fall in love with them again and again, or do you want to visit them like a familiar exhibit, always exactly where you left them?"
+
+Quinn sat quietly, watching Elder Joy's brush dance across the canvas. "What if I don't like who they're becoming?"
+
+"What if you do?" Elder Joy countered. "What if this new dimension makes them even more fascinating than the person you thought you knew completely?"
+
+That evening, Quinn returned home to find River at the easel again, this time painting Quinn reading by the window—a moment River had observed and treasured but never mentioned. The painting captured not just Quinn's appearance, but something deeper: the way concentrated attention made their features softer, more beautiful.
+
+"I see how you look when you're lost in a good book," River said softly. "I wanted to paint that peace, that contentment. I've been watching you for years, still discovering new expressions, new ways the light catches your face."
+
+Quinn felt their resistance melt away, replaced by wonder. How many secret observations had River been making? How many hidden appreciations had gone unspoken?
+
+"Teach me," Quinn said suddenly. "I want to see you the way you see me."
+
+**Moral**: The greatest gift we can give our beloved is not the security of never changing, but the freedom to keep becoming—and the promise that we'll remain their most curious witness.
+
+**Tomorrow**: Elder Joy will reveal why many couples confuse emotional comfort with emotional growth, and how to nurture aliveness rather than just security...`,
+  },
 ];

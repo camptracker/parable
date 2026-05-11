@@ -4403,4 +4403,65 @@ The room fell quiet except for the gentle tick of an old clock on the mantel. Do
 
 **Tomorrow**: Discover how the energy you bring to mundane moments shapes the entire emotional climate of your marriage.`,
   },
+  {
+    day: 71,
+    title: "The Sacred Maintenance",
+    date: "2026-05-11",
+    image: "images/wedding-planning/day-71.jpg",
+    audio: "audio/wedding-planning/day-71",
+    sonnet: `**🪶 Sonnet LXXI: The Sacred Maintenance**
+
+Not in the grand bouquet or diamond's gleam
+Does love find its most fertile ground to grow,
+But in the coffee made without a scheme,
+The gentle touch when passing to and fro.
+
+The forehead kiss at three o'clock fatigue,
+The "how was work?" asked with genuine care,
+The hand that finds yours during daily league
+Of mundane tasks that couples always share.
+
+For passion fades like roses in December,
+But tenderness, tended daily like a flame,
+Burns steady through what time cannot dismember—
+The thousand tiny ways we speak love's name.
+
+*In marriage, grandeur matters far much less*
+*Than daily choosing mutual tenderness.*`,
+    standard: `💍 Day 71: The Sacred Maintenance
+
+The answer lies in creating micro-rituals of connection that cost almost nothing but yield everything: a thirty-second forehead kiss when you walk through the door, asking "What was hard about your day?" before diving into logistics, or simply placing your hand on their shoulder when passing by the kitchen. These tiny gestures, practiced consistently during your most ordinary moments, become the foundation that sustains love when passion feels distant and energy runs low.
+
+🧱 **The Concept**
+The strongest marriages are sustained not by grand romantic declarations but by the thousand small acts of daily tenderness that accumulate over decades.
+
+❓ **Why It Matters**
+Most couples invest enormous energy planning their wedding day but virtually no energy planning their Wednesday afternoons. Yet research shows that relationship satisfaction is determined far more by how partners treat each other during mundane moments than during special occasions. The daily texture of your marriage—how you greet each other, navigate stress, and show care when tired—creates the emotional climate you'll actually live in.
+
+⚙️ **How It Works**
+Daily maintenance means establishing small, consistent practices that nurture connection regardless of mood or circumstance. This might look like always making coffee for both of you if you're awake first, sending a single encouraging text during stressful workdays, or instituting a "no phones during dinner" rule that creates space for actual conversation. The key is choosing gestures that feel authentic to your relationship and sustainable even during difficult seasons. These practices work because they create positive momentum: one small kindness makes the next one easier, building a reservoir of goodwill that buffers against inevitable conflicts and disappointments.
+
+🎯 **Wedding Wisdom**
+Plan your marriage as intentionally as your wedding—the daily habits you establish now will determine whether your love thrives or merely survives.
+
+❓ **Tomorrow's Question**
+If you discovered that your marriage's capacity for deep intimacy would be determined not by how much you share with your partner but by how well you listen when they share with you, what would that change about your current communication patterns and what specific listening skills would you need to develop before walking down the aisle?`,
+    parable: `Dove found herself crying over wedding linens at 3 PM on a Tuesday, exhausted from weeks of vendor calls and family negotiations. When Elm arrived home to find her surrounded by fabric samples, he didn't offer solutions or ask about the crisis du jour. Instead, he simply sat beside her on the floor, placed his hand on her back, and said quietly, "This is hard."
+
+It was such a small gesture, lasting perhaps thirty seconds, but something in Dove's chest loosened. Later, as she helped Nana Rose arrange centerpieces, she mentioned the moment.
+
+"Ah," Nana Rose smiled, her weathered hands never pausing in their work. "You've discovered the secret ingredient that no wedding magazine will ever feature: the art of tending love like a garden, one small daily act at a time."
+
+She gestured toward the flowers before them. "See how these roses require not grand dramatic gestures, but consistent water, gentle pruning, patient care? A marriage is the same. The couples who make it to their golden anniversaries aren't the ones who planned the most spectacular weddings—they're the ones who learned to say 'good morning' with genuine warmth even on Mondays, to ask 'how was your day?' and actually listen to the answer."
+
+Dove watched Nana Rose's sure movements, each adjustment minimal but purposeful. "But how do you remember to do those things when life gets overwhelming?"
+
+"You make them as automatic as breathing," Nana Rose replied. "The same way you learned to brush your teeth every morning, you learn to brush your love every day with small kindnesses. A touch as you pass in the hallway. Making their coffee the way they like it. Choosing curiosity over criticism when they're grumpy. These cost you nothing but time, yet they purchase something priceless: a love that can weather any storm."
+
+As Elm helped clear the flowers later, Dove noticed how he handed her each vase with care, how he asked which arrangement she preferred, how he listened without rushing to fix her remaining worries. The daily maintenance of love, she realized, was already happening—she just needed to recognize it, nurture it, protect it.
+
+**Moral:** Love's greatest luxury is found not in grand gestures but in the daily decision to tend each other's hearts with consistency and care.
+
+**Tomorrow:** The art of listening as a sacred practice that transforms mere conversation into profound intimacy.`,
+  },
 ];
