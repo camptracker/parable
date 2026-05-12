@@ -4672,4 +4672,66 @@ Sage tasted, trying to quiet their analytical mind. Slowly, one sensation emerge
 
 *Tomorrow, we discover what happens when experience itself becomes the teacher we must question...*`,
   },
+  {
+    day: 76,
+    title: "The Calibration of Truth - How Feedback Corrects Experience",
+    date: "2026-05-12",
+    image: "images/cooking/day-76.jpg",
+    audio: "audio/cooking/day-76",
+    sonnet: `**🪶 Sonnet LXXVI: The Calibration of Truth**
+
+What compass guides when inner sight grows dim,
+And patterns formed through years of practice lie?
+The palate speaks with voice both false and grim
+When drift has made distortion truth's ally.
+
+Like clocks that slow through mechanisms worn,
+Our senses bend toward familiar ground,
+Until the very skills for which we're born
+Become the chains by which truth is bound.
+
+But honest tongues and calibrated taste
+Can pull the wandering cook back to the light,
+If pride allows correction's not displaced
+By comfort in our own deceptive sight.
+
+*The wisest chef seeks mirrors that reveal*
+*How far from truth their practiced patterns steal.*`,
+    standard: `🍳 Day 76: The Calibration of Truth - How Feedback Corrects Experience
+
+The difference between accurate and distorted patterns lies in the quality of feedback we seek and accept during practice. When cooks actively pursue honest evaluation—tasting alongside experienced palates, measuring results against objective standards, and remaining open to correction—their experiential filters naturally align with culinary truth. However, when practice occurs in isolation or with consistently poor feedback loops, even decades of repetition can reinforce fundamental misconceptions that feel completely convincing to the practitioner.
+
+🧱 **The Concept**
+True learning requires calibrated feedback loops that correct our perceptions before incorrect patterns become permanently embedded in our cooking instincts.
+
+❓ **Why It Matters**
+Without external calibration, our internal cooking patterns inevitably drift away from objective reality, like a clock that gradually runs slow. What feels like accumulated wisdom might actually be accumulated error that becomes harder to correct as it deepens over time.
+
+⚙️ **How It Works**
+Calibration happens through deliberate exposure to accurate standards: tasting classical preparations made by masters, measuring our seasoning against precise recipes until our "pinch" matches actual measurements, and cooking familiar dishes for people whose palates we trust to give honest feedback. A chef might discover that what they thought was "perfectly seasoned" actually tastes under-salted to trained palates, or that their "medium-rare" consistently runs closer to medium. These corrections, when accepted and integrated, gradually align internal perception with external reality. The key is seeking calibration regularly throughout our careers, not just during initial training, because even experienced cooks can develop subtle drifts in their standards without realizing it.
+
+🎯 **Culinary Wisdom**
+The most dangerous cook is not the beginner who knows nothing, but the experienced cook whose patterns have drifted so far from truth that they can no longer recognize accurate feedback when it appears.
+
+❓ **Tomorrow's Question** — If regular calibration can prevent the drift between internal perception and external reality, what fundamental principle determines whether a cook will actually seek out the uncomfortable feedback necessary for this alignment, especially when their current patterns feel completely satisfying and produce results that seem successful by every measure they currently value?`,
+    parable: `In the monastery kitchen, Sage watched as Ember carefully tasted a sauce, her face creasing with concentration. "Master, this tastes perfect to me," Sage said, sampling the same spoon. "The salt, the acid, the sweetness—everything seems balanced."
+
+Ember nodded slowly, then reached for a small pot simmering nearby. "Taste this," she said, offering another spoon of what appeared to be the identical sauce.
+
+Sage's eyes widened. This second version sang with clarity—each flavor distinct yet harmonious, the balance so perfect it seemed to make his first taste crude by comparison. "How... how are they different?"
+
+"The first sauce reflects my patterns from twenty years ago, when I cooked in isolation, proud of my developing palate," Ember explained. "I thought it was perfect then, and if I had never sought correction, I would think so still. The second reflects what I learned when I finally swallowed my pride and asked the monastery's head cook to taste my work daily for an entire year."
+
+She picked up a third pot, this one covered with dust. "This sauce represents my patterns from thirty years ago—before any correction at all. Each version felt absolutely right when I made it, because my internal compass had slowly drifted without my knowing."
+
+Sage tasted the ancient recipe and nearly spat it out—oversalted, unbalanced, harsh. "But surely you could taste that this was wrong?"
+
+"That's the cruelty of drift," Ember said gently. "It happens so gradually that each small deviation feels normal. We adjust to our own mistakes, and they begin to taste like home. Only external truth can reveal how far we've wandered from the path."
+
+She gestured toward the window where young monks worked in the garden. "Watch how they check their planted rows against string lines, even after years of experience. They know that the eye alone, no matter how trained, will eventually drift from true. The wise cook treats their palate the same way."
+
+**Moral**: Even the most experienced palate requires regular calibration against external standards, for internal perception inevitably drifts when left to judge itself.
+
+**Tomorrow**: Sage will discover why some cooks actively avoid the very feedback that could perfect their craft...`,
+  },
 ];

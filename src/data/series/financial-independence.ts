@@ -5285,4 +5285,76 @@ As they worked together, Kael understood that true compassion lay not in lowerin
 
 *Tomorrow, Sable will reveal why institutions might resist compassionate design, and what this resistance teaches about the true nature of power.*`,
   },
+  {
+    day: 81,
+    title: "The Extraction Engine",
+    date: "2026-05-12",
+    image: "images/financial-independence/day-81.jpg",
+    audio: "audio/financial-independence/day-81",
+    sonnet: `**🪶 Sonnet LXXXI: The Extraction Engine**
+
+The merchant's smile grows bright when confusion reigns,
+For tangled minds require his constant aid,
+Each question asked brings forth his golden gains,
+While simple truths would see his profits fade.
+
+The broker thrives when customers trade oft,
+Not when they buy and hold with patient hand,
+Complexity keeps coffers full and soft,
+While wisdom's clarity he must withstand.
+
+They feast upon our fears and doubts each day,
+These shepherds who would fleece their trusting flock,
+For independent wealth would steal away
+Their key to every customer's strong lock.
+
+*Yet those who've climbed the mountain speak most true—*
+*Their guidance costs them naught, but profits you.*`,
+    standard: `💰 Day 81: The Extraction Engine
+
+Existing institutions resist implementing compassionate wealth-building systems because their business models depend on extracting fees from human psychological weaknesses—confusion creates billable complexity, anxiety generates trading commissions, and ignorance ensures dependency. This resistance reveals that much of our financial system functions as an extraction engine rather than a wealth-creation platform, profiting from the very problems it could easily solve.
+
+**🧱 The Concept**
+Modern financial institutions often profit more from customer confusion and frequent transactions than from customer success.
+
+**❓ Why It Matters**
+Understanding this misalignment explains why simple, effective wealth-building strategies are rarely promoted by the industry. When institutions make money from activity rather than outcomes, they have systematic incentives to encourage behavior that benefits them rather than you.
+
+**⚙️ How It Works**
+Brokerage firms earn commissions when you trade frequently, so they highlight market volatility and opportunities requiring action. Banks profit from overdraft fees and credit card interest, so they design systems that make overspending easy and saving difficult. Financial advisors charging asset management fees benefit when you feel too confused to manage money yourself, so complexity is marketed as sophistication. Insurance companies profit from fear-based decisions and complicated products with high margins. Even financial media makes money from advertising during frequent content consumption, incentivizing daily market commentary over patient, long-term education.
+
+**🎯 Buffett Wisdom**
+"Wall Street makes money on activity. You make money on inactivity."
+
+**❓ Tomorrow's Question** — If recognizing extraction-based business models can help us avoid their psychological traps, what does this suggest about the relationship between financial literacy and consumer protection, and why might true financial education be a form of economic self-defense that threatens entire industries built on profitable ignorance?`,
+    parable: `The morning sun cast long shadows across the marketplace as Kael walked with Sable toward the merchant quarter. "Elder," Kael said, "yesterday you spoke of systems that work with human nature rather than against it. But if such systems would help everyone build wealth, why don't the merchants promote them?"
+
+Sable paused beside a row of elaborate market stalls, each decorated with colorful banners and complex pricing schemes. "Tell me, young Kael, how does the miller make his living?"
+
+"By grinding grain into flour," Kael replied.
+
+"And does he profit more when villagers bring him grain once per season, or when they return repeatedly with smaller amounts?"
+
+Kael considered this. "The more often they visit, the more opportunities he has to charge his fees."
+
+"Precisely." Sable gestured toward a particular stall where a merchant was explaining an intricate trading scheme to a confused farmer. "Now observe that money-changer. Does he earn more when villagers make one wise investment and leave it undisturbed, or when they return daily, anxious about market movements, seeking his guidance for each decision?"
+
+The realization dawned slowly in Kael's eyes. "He profits from their confusion and activity, not from their success."
+
+"Indeed. The money-changer's purse grows fat not when his customers grow wealthy, but when they remain dependent, uncertain, and active. A customer who achieves financial independence and needs no further services is a customer lost. This is why the merchants of money speak often of complexity and urgency, but rarely of patience and simplicity."
+
+They watched as the confused farmer handed over yet another fee for advice that seemed to require more advice tomorrow.
+
+"But surely some merchants genuinely wish to help?" Kael asked.
+
+"Some do," Sable acknowledged. "Yet even well-intentioned merchants are trapped within a system that rewards them for customer dependency rather than customer success. It is not malice, young Kael, but the natural consequence of misaligned incentives. When the merchant's bread depends upon your confusion, clarity becomes his enemy."
+
+Kael felt a chill of understanding. "Then the very people we trust to guide us toward wealth may profit most from keeping us from reaching it."
+
+"Now you begin to see the deeper truth. True financial wisdom often comes not from those who profit from your ignorance, but from those who have already achieved what you seek and have no financial stake in your decisions."
+
+**Moral:** When someone's livelihood depends on your continued dependency, their advice may serve their needs rather than yours.
+
+**Tomorrow:** Kael will discover why true financial education might be the most valuable form of economic self-defense.`,
+  },
 ];

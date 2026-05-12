@@ -5049,4 +5049,66 @@ Idris gazed into the glass and found himself simply looking—no effort to achie
 
 **Tomorrow:** The embassy receives visitors who challenge even this understanding of innocent reflection...`,
   },
+  {
+    day: 75,
+    title: "The Always-Present Beginning",
+    date: "2026-05-12",
+    image: "images/emotional-intelligence/day-75.jpg",
+    audio: "audio/emotional-intelligence/day-75",
+    sonnet: `**🪶 Sonnet LXXV: The Always-Present Beginning**
+
+No distant shore of innocence awaits,
+No journey back to some forgotten state—
+The child-like wonder that never abates
+Stands here and now, beyond both early and late.
+
+Each moment breaks like dawn across the mind,
+Unscripted, fresh, without the weight of lore,
+While seeking souls in circles turn to find
+What never left their own essential core.
+
+The eyes that see have never aged a day,
+Though bodies wrinkle and the mind grows dense,
+Awareness blooms in its eternal way,
+Forever young, forever innocent.
+
+*No return required to what you are—*
+*You are the dawn, the child, the morning star.*`,
+    standard: `🧭 Day 75: The Always-Present Beginning
+
+The distinction between genuine innocence and spiritual fantasy dissolves when we recognize that innocence isn't a state to recover but the very nature of awareness itself—always fresh, always encountering this moment for the first time. The desire to "return" to innocence is simply innocence noticing itself through the play of seeking, like a child who forgets they're already home while playing house.
+
+**🧱 The Concept**
+True innocence is not a pristine state we've lost, but the eternally fresh quality of awareness that experiences each moment without the burden of accumulated interpretations.
+
+**❓ Why It Matters**
+When we stop trying to recover innocence and recognize it as our natural condition, our emotional responses become spontaneously appropriate without effort or technique. This recognition eliminates the exhausting project of self-improvement and reveals that emotional wisdom was never something we needed to acquire.
+
+**⚙️ How It Works**
+Innocence manifests as the capacity to meet each emotional situation without the overlay of past conditioning or future expectations. When someone criticizes us, innocent awareness simply receives the information without immediately filtering it through stories about what criticism "means" or how we "should" respond. A parent's innocent awareness might feel genuine sadness at their child's struggle without immediately moving into fix-it mode or guilt about their parenting. This innocence isn't naivety—it's the wisdom of direct experience before mental commentary begins.
+
+**🎯 EQ Wisdom**
+Emotional mastery is not the accumulation of sophisticated responses, but the recognition that awareness itself is already innocent, complete, and perfectly responsive.
+
+**❓ Tomorrow's Question** — If recognizing our inherent innocence eliminates the need for emotional self-improvement, what happens when we realize that even this recognition might become another spiritual concept we're holding onto—and how do we distinguish between living from innocence and thinking about innocence?`,
+    parable: `Idris sat in the temple courtyard, his face creased with frustration. "Master Veil," he said, "I've spent months learning to return to innocence, but the harder I try, the more elusive it becomes. How does one recover what feels so utterly lost?"
+
+The Veil tilted their head, and behind the ornate mask, Idris could sense gentle amusement. "Tell me, young diplomat, when you wake each morning, do you have to remember how to see?"
+
+"Of course not," Idris replied, confused. "Seeing just... happens."
+
+"And when you encounter a sunset for the first time, do you consult your memories of other sunsets to know how to experience wonder?"
+
+Idris paused, his diplomatic mind racing. "No, wonder just arises naturally."
+
+"Then perhaps," The Veil continued, "innocence is not a country you've been exiled from, but the very ground you're standing on while you search for it."
+
+As the words settled, Idris felt his shoulders relax. In that moment, a child's laughter echoed from the nearby marketplace, and he found himself smiling—not because he remembered how to smile, but because smiling simply happened, as natural as breathing.
+
+"You see," The Veil observed, "the child in you never left. It was simply hiding behind the diplomat who thought he needed to earn the right to play."
+
+*The moral: Innocence is not a lost treasure to be recovered, but the eternal freshness of awareness itself, always present beneath our stories of having fallen from grace.*
+
+*Tomorrow, we discover what happens when even our spiritual insights become attachments we must release...*`,
+  },
 ];

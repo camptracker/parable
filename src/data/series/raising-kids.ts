@@ -624,4 +624,71 @@ Asha realized that her urge to rescue Maya wasn't really about Maya at all—it 
 
 **Tomorrow:** Elder Mira will help Asha understand why doing too much for our children might actually be serving our own emotional needs more than theirs.`,
   },
+  {
+    day: 11,
+    title: "The Hidden Weight of Hypervigilance",
+    date: "2026-05-12",
+    image: "images/raising-kids/day-11.jpg",
+    audio: "audio/raising-kids/day-11",
+    sonnet: `**🪶 Sonnet XI: The Hidden Weight of Hypervigilance**
+
+With careful hands we smooth each rumpled sheet,
+And check their work with microscopic eye,
+Believing love requires we make complete
+Each task they start, lest they should fail or cry.
+Yet in our haste to shield them from all pain,
+We plant the seeds of doubt within their heart,
+Our actions whisper they are weak, not plain
+Capable souls who yearn to play their part.
+The hovering shadow of our anxious care
+Becomes the weight they learn they cannot bear,
+While we, exhausted by our ceaseless guard,
+Forget that trust in them should be our art.
+*True love lets go the need to intervene,*
+*And trusts the strength in them we've always seen.*`,
+    standard: `👶 Day 11: The Hidden Weight of Hypervigilance
+
+When parents do things their children could manage themselves, they're often meeting their own need for control and validation rather than their child's need for growth. This hypervigilance stems from anxiety about outcomes, a desire to feel needed, or unconscious beliefs that their worth as a parent is measured by how much they intervene. While masked as love, this pattern actually communicates to children that they're not capable, creating dependency rather than competence.
+
+🧱 **The Concept**
+Hypervigilant parenting creates a cycle where excessive monitoring and intervention, driven by parental anxiety, undermines the very confidence and independence we want to foster in our children.
+
+❓ **Why It Matters**
+Children internalize our level of trust in their abilities through our actions, not our words. When we hover, rescue, or take over tasks they could handle, we inadvertently teach them that the world is too dangerous and they are too fragile to navigate it. This creates anxious, dependent children who struggle with self-efficacy.
+
+⚙️ **How It Works**
+Hypervigilance manifests as constantly checking homework, solving social conflicts for them, or redoing tasks they've completed 'incorrectly.' A hypervigilant parent might say 'You're so capable' while simultaneously packing their teenager's lunch and organizing their backpack. The child receives the mixed message: you're capable, but I don't trust you to be capable. This disconnect between words and actions creates confusion and self-doubt. Children begin to question their own judgment and defer to others rather than developing internal confidence. The parent feels temporarily relieved by maintaining control, but the child learns to be helpless.
+
+🎯 **Parenting Wisdom**
+True protection comes not from preventing all struggles, but from trusting our children's innate capacity to learn and grow through age-appropriate challenges.
+
+❓ **Tomorrow's Question** — If we know that children need to experience natural consequences to develop judgment and responsibility, why do we often find ourselves negotiating with them about basic expectations rather than letting those expectations simply be what they are, and what does this reveal about our own comfort with being disliked?`,
+    parable: `Asha found herself tidying her daughter's room while the child napped, organizing toys with military precision. When Elder Mira arrived for tea, she observed Asha's handiwork with knowing eyes.
+
+"She's only three," Asha said defensively, noting Mira's expression. "She can't possibly keep things this organized."
+
+"Can't she?" Mira settled into her chair, watching as Asha continued straightening books that were already straight. "Tell me, child, what happens when you leave the toys scattered?"
+
+"She can't find what she wants. She gets frustrated. The room looks chaotic."
+
+"And then?"
+
+"Then she... well, she usually figures out where things are. But it takes longer."
+
+Mira nodded slowly. "I once knew a gardener who was so worried about his seedlings that he dug them up each morning to check their roots. The plants never grew properly—they were too busy recovering from his help to focus on growing."
+
+Asha paused, a stuffed elephant in her hands. "But I'm helping her."
+
+"Are you? Or are you helping the anxiety that whispers you're not a good mother unless everything is perfect?" Mira's voice held no judgment, only gentle truth. "When we do for our children what they can do for themselves, we rob them of the satisfaction of capability. We teach them that our faith in their competence is conditional."
+
+Asha sank onto the small chair, suddenly seeing her daughter's room through different eyes. Every perfectly arranged book, every toy in its designated spot—it was a monument to her own need for control, not her daughter's need for order.
+
+"What if she struggles?" Asha whispered.
+
+"Then she learns that struggle leads to growth, not rescue," Mira replied. "The weight of our hypervigilance becomes the weight they carry, believing they cannot be trusted with their own lives."
+
+**Moral:** *When we carry what our children can bear, we teach them they are too weak to carry anything at all.*
+
+*Tomorrow, we explore why standing firm in our expectations feels so much harder than negotiating them away...*`,
+  },
 ];

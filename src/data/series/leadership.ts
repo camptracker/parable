@@ -4678,4 +4678,70 @@ The next morning, Tova approached Henderson with a chart and compass. "I need so
 
 **Tomorrow**: Greymane reveals how the crew member you least expect often holds the insight you most need—if you know how to look beyond your first impressions.`,
   },
+  {
+    day: 75,
+    title: "The Taxonomy of Potential",
+    date: "2026-05-12",
+    image: "images/leadership/day-75.jpg",
+    audio: "audio/leadership/day-75",
+    sonnet: `**🪶 Sonnet LXXV: The Taxonomy of Potential**
+
+We sort our people into tidy rows,
+Each mind assigned its narrow, labeled place—
+The "practical" ones, the "dreamers" as it goes,
+Boxed by the limits of our seeing's grace.
+
+Yet innovation blooms where least expected,
+From voices we had catalogued as small,
+Their hidden gifts long ignored and neglected,
+While breakthrough answers echo through the hall.
+
+The "implementer" dreams of distant shores,
+The "creative" builds with methodical care—
+Our mental files become confining doors
+That lock away the treasures waiting there.
+
+*True leaders learn to see beyond the frame,*
+*Where human souls transcend the binding name.*`,
+    standard: `👥 Day 75: The Taxonomy of Potential
+
+This revelation would expose how our cognitive shortcuts—designed to help us navigate complexity—actually create artificial ceilings on human potential, transforming our efficiency in categorizing people into barriers that prevent us from accessing their full spectrum of gifts. When we discover innovation flowing from unexpected sources, we're witnessing the profound difference between what people can do versus what we've unconsciously given them permission to attempt.
+
+🧱 **The Concept**
+True leadership requires dismantling the mental filing systems we use to categorize team members, recognizing that these labels often reveal more about our own limitations than theirs.
+
+❓ **Why It Matters**
+Every human being contains multitudes—capabilities, perspectives, and creative potential that extend far beyond the narrow slice of their abilities we typically observe in their current role. When we trap people in mental boxes labeled "detail-oriented," "big picture thinker," or "technical specialist," we inadvertently communicate what we expect from them, which becomes what we receive from them.
+
+⚙️ **How It Works**
+Our brains naturally categorize people to process information efficiently, but these categories become self-fulfilling prophecies. When we consistently assign certain types of tasks to certain types of people, we create role expectations that both limit what we ask of them and what they believe they're capable of offering. The "implementer" never gets asked for strategic input, so they stop developing strategic thinking. The "creative" never gets asked to handle operational details, so they don't develop systems thinking. Meanwhile, breakthrough solutions often emerge at the intersection of different capabilities—when someone brings an unexpected perspective to a familiar problem. The most innovative organizations deliberately blur these boundaries, rotating people through different types of challenges and inviting contributions that don't match traditional role definitions.
+
+🎯 **Leadership Wisdom**
+The moment you stop being surprised by who contributes what is the moment you've started limiting your team's collective potential.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most persistent challenges weren't actually problems to be solved but rather symptoms of gifts that weren't being recognized or utilized, how would this change your approach to addressing team dynamics versus unlocking latent capabilities?`,
+    parable: `Tova stood before the ship's roster, studying the careful notes her predecessor had left beside each crew member's name. "Reliable but unimaginative," read the notation beside Kael's name. "Good with details, not strategic," accompanied Mira's entry. "Creative but impractical," marked Finn's record.
+
+Greymane appeared beside her, his weathered finger tracing the marginalia. "Fascinating how previous captains always seemed so certain about who people were," he mused. "Tell me, what have you observed about these assessments?"
+
+"Yesterday, when the mainmast cracked, it was Kael who suggested using the storm canvas in a way I'd never seen—pure innovation," Tova replied slowly. "And when we needed to plot our emergency route, Mira saw patterns in the current charts that our navigator missed. She was thinking three moves ahead."
+
+"And Finn?"
+
+"He's been quietly organizing the supply rotations with mathematical precision. The creative dreamer turned out to be remarkably practical." Tova set down the roster. "These descriptions... they're not wrong exactly, but they're incomplete. Dangerously incomplete."
+
+Greymane nodded. "I once served under a captain who believed he could read a sailor's entire soul from their first week aboard. He created elaborate systems to ensure everyone stayed in their proper place—detail people handling details, big thinkers handling strategy. The ship ran efficiently, but when we encountered storms that demanded new solutions, we discovered our crew had learned to think only within the boundaries we'd drawn for them."
+
+"What happened?"
+
+"We nearly foundered because the person with the insight we needed had been trained never to offer it. They had the answer, but they'd learned their ideas weren't the kind of ideas we wanted from someone like them."
+
+Tova picked up her pen and began crossing out the limiting phrases in the margins. "How do I avoid making the same mistake?"
+
+"Start by assuming everyone on your crew contains capabilities you haven't discovered yet. Then create space for those capabilities to emerge naturally, without the pressure of proving they belong to the 'right' type of person."
+
+**Moral**: The labels we use to organize our understanding of people often become the ceilings that limit their contributions.
+
+*Tomorrow, Tova will discover that her struggling crew's greatest challenges might actually be symptoms of unrecognized strengths waiting to be unleashed...*`,
+  },
 ];

@@ -4745,4 +4745,62 @@ Maren smiled and placed the formless clay by the fire. "By learning to rest comf
 
 **Tomorrow:** *When the village expects you to remain the healer they remember, how do you honor their need for consistency while answering your own call to grow?*`,
   },
+  {
+    day: 77,
+    title: "The Social Metabolism",
+    date: "2026-05-12",
+    image: "images/nutrition-science/day-77.jpg",
+    audio: "audio/nutrition-science/day-77",
+    sonnet: `**🪶 Sonnet LXXVII: The Social Metabolism**
+
+At dinner tables laden thick with judgment's weight,
+We serve our bodies to appease the crowd,
+While authentic hunger learns to sit and wait
+As social appetite grows ever loud.
+
+The family feast becomes a battleground
+Where biological truth must bow to shame,
+And healing protocols that once were sound
+Become performance in approval's game.
+
+Each meal consumed beneath watching eyes
+Carries burden heavier than the food—
+The stress of maintaining metabolic lies
+That serve belonging's hunger, not what's good.
+
+*The body knows what nourishment it needs,*
+*But social pressure plants corrupted seeds.*`,
+    standard: `🍎 Day 77: The Social Metabolism
+
+Social expectations about your health choices create a secondary metabolic stress that can override your body's authentic signals, forcing you to choose between biological truth and social belonging. This pressure to maintain a consistent health identity for others' comfort transforms your metabolism into a performance rather than a genuine response to internal needs, creating a hidden layer of dysregulation that many people never recognize.
+
+🧱 **The Concept**
+Your metabolism exists within a social ecosystem that exerts powerful influence over your biological choices through approval, judgment, and belonging pressures.
+
+❓ **Why It Matters**
+The stress of maintaining a false metabolic identity can be more damaging than imperfect nutrition choices made authentically. When your nervous system constantly monitors social reactions to your health decisions, it diverts energy from actual digestion and metabolism toward threat detection and image management.
+
+⚙️ **How It Works**
+Imagine you've discovered that your body feels best with intermittent fasting, but your family views skipping meals as dangerous or disordered. The stress of defending your choices, hiding your eating patterns, or constantly explaining yourself creates chronic cortisol elevation that can negate the metabolic benefits of the fasting itself. Similarly, someone might continue following a strict dietary protocol that no longer serves them because their health community expects consistency, turning beneficial flexibility into harmful rigidity. Your metabolism responds not just to what you eat, but to the emotional context surrounding those choices—shame, pride, rebellion, or authenticity all create different hormonal cascades that affect how your body processes nutrients.
+
+🎯 **Science Wisdom**
+True metabolic health requires creating social environments that support biological truth rather than forcing biological adaptation to social expectations.
+
+❓ Tomorrow's Question — *If your social environment can create metabolic stress that overrides even perfect nutritional choices, what happens when you become so focused on finding the "right" supportive community that you begin changing your authentic health needs to fit whatever group you're trying to join—and why might this community-seeking behavior represent an even more subtle form of metabolic self-betrayal than simple social pressure?*`,
+    parable: `Lila watched as Maren prepared three different evening meals at her three hearths, each suited to a different visitor who would arrive that night. "Teacher," Lila asked, "how do you know what each person needs when they haven't even told you they're coming?"
+
+Maren smiled, stirring a warming stew at the first hearth. "I listen not just to their bodies when they visit, but to the invisible threads that connect them to their villages, their families, their healers' circles. Each person carries the weight of others' expectations about how they should eat, how they should heal."
+
+As if summoned by her words, three figures appeared on the forest path. The first was Kael, whose family insisted that thick porridge was the only proper food for strength. The second was Vera, whose healing community demanded that she maintain their strict plant-only protocols. The third was Old Henrik, who ate whatever his body craved but suffered constant criticism from his worried daughter.
+
+Maren served each visitor exactly what their body needed—not what their social circles expected. Kael received bitter herbs that his constitution required, despite his family's horror at such "weak" medicine. Vera was offered bone broth that her depleted body desperately needed, though it would mean difficult conversations with her community. Henrik received simple validation that his intuitive eating was serving him well, along with words of comfort about his daughter's fear.
+
+"You see," Maren explained to Lila as the visitors departed with both nourishment and new courage, "the healing happens not just in giving the body what it needs, but in strengthening the person's ability to honor that truth despite social pressure. Sometimes the most radical act is eating exactly what your body asks for, regardless of who approves."
+
+Lila pondered this as she banked the fires for the night, wondering about the invisible metabolic cost of living for others' comfort rather than one's own truth.
+
+**Moral**: *The body that eats for social approval rather than biological truth carries a double burden—both poor nutrition and the stress of living a false metabolic life.*
+
+*Tomorrow: What happens when the search for the perfect supportive community becomes another form of metabolic performance?*`,
+  },
 ];

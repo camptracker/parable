@@ -869,4 +869,64 @@ Quinn felt their resistance melt away, replaced by wonder. How many secret obser
 
 **Tomorrow**: Elder Joy will reveal why many couples confuse emotional comfort with emotional growth, and how to nurture aliveness rather than just security...`,
   },
+  {
+    day: 15,
+    title: "The Alive Edge",
+    date: "2026-05-12",
+    image: "images/relationship-play/day-15.jpg",
+    audio: "audio/relationship-play/day-15",
+    sonnet: `**🪶 Sonnet XV: The Alive Edge**
+
+Where comfort meets the unknown's gentle call,
+Two hearts find courage in familiar ground,
+Yet venture past the safe, predictable wall
+To places where new wonders can be found.
+
+Not reckless leaps into the vast unknown,
+Nor timid steps that never leave the shore,
+But trust-filled journeys where love's seeds are sown
+In soil that's safe enough to risk much more.
+
+The alive edge whispers, "Here's where magic dwells,
+Between the known and mystery's sweet embrace,
+Where safety's strong foundation never quells
+The fire that puts light in lover's face."
+
+*For love grows wild in gardens tended well,*
+*Where safety holds, yet lets adventure swell.*`,
+    standard: `🎮 Day 15: The Alive Edge
+
+Couples mistake comfort for growth because true emotional safety doesn't mean eliminating all uncertainty—it means trusting your partner enough to navigate uncertainty together. Real safety lies not in predictable responses, but in knowing your partner will stay present and engaged even when you venture into uncharted emotional territory.
+
+🧱 **The Concept**
+Healthy relationships require dancing at the edge of your comfort zones together, where familiar safety meets growth-inducing challenge.
+
+❓ **Why It Matters**
+Without this alive edge, relationships become museums of who you used to be rather than laboratories for who you're becoming. The spark that initially attracted you was born from mystery and discovery—maintaining it requires ongoing willingness to surprise and be surprised.
+
+⚙️ **How It Works**
+The alive edge lives in moments like sharing a dream you've never voiced, trying an activity that scares you both, or having conversations that reveal new layers of each other's inner worlds. It's found in small vulnerabilities: admitting you don't know something, asking for help with a fear, or expressing a need you've kept hidden. Partners at the alive edge might take turns planning mystery dates, share stream-of-consciousness thoughts before filtering them, or practice saying "I don't know" more often than "I'm sure." They choose curiosity over certainty, questions over answers, and gentle challenges over comfortable assumptions.
+
+🎯 **Playful Connection Wisdom**
+The most alive relationships are built not on solid ground, but on the thrilling trust that comes from exploring uncharted territory together.
+
+❓ **Tomorrow's Question** — If authentic playfulness emerges most naturally when we feel simultaneously safe and stimulated, why do so many couples unconsciously create either sterile safety or chaotic excitement, but struggle to cultivate the dynamic tension where both security and adventure coexist?`,
+    parable: `Quinn stood at the kitchen window, watching River attempt to juggle three oranges in the backyard. After five years together, she knew exactly how this would end—dropped fruit, sheepish laughter, the same comfortable rhythm they'd settled into. Yet something hollow echoed in her chest as she predicted each beat of their dance.
+
+"We've become quite predictable, haven't we?" she murmured when Elder Joy arrived for their session.
+
+Elder Joy's eyes twinkled as she watched River finally catch all three oranges, then immediately toss them higher. "Predictable, or safe?" she asked. "There's a difference between emotional safety and emotional stagnation. True safety isn't the absence of risk—it's the presence of trust during risk."
+
+Quinn frowned. "But we trust each other completely."
+
+"Do you?" Elder Joy challenged gently. "Do you trust River enough to share the dream you've been hiding? Do you trust yourself enough to be genuinely surprised by who they're becoming?"
+
+That evening, Quinn found herself sharing a secret longing she'd never voiced—to learn the violin, despite having no musical experience. River's face lit up with unexpected delight. "I've been wanting to try pottery," they admitted. "I was afraid you'd think it was silly."
+
+As they planned to take lessons together, Quinn felt something she'd almost forgotten: the electric thrill of discovering her partner anew.
+
+**Moral:** The alive edge of love lives where safety meets surprise, where trust becomes the foundation not for certainty, but for beautiful uncertainty.
+
+*Tomorrow, Elder Joy will reveal why so many couples swing between sterile safety and chaotic excitement, missing the sweet spot where security and adventure dance as one.*`,
+  },
 ];

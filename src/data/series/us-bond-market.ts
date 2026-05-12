@@ -1170,4 +1170,66 @@ As if summoned by his words, Maya's screen flashed red. Yields were falling shar
 
 **Tomorrow:** Maya discovers why the bond market's most dramatic moves happen when human traders are wide awake, despite the rise of algorithmic trading.`,
   },
+  {
+    day: 20,
+    title: "The Momentum Mirage",
+    date: "2026-05-12",
+    image: "images/us-bond-market/day-20.jpg",
+    audio: "audio/us-bond-market/day-20",
+    sonnet: `**🪶 Sonnet XX: The Momentum Mirage**
+
+When algorithms chase the rising tide of trend,
+And momentum builds upon momentum's wake,
+The market's truth and fiction start to blend,
+As prices move for movement's very sake.
+
+Each digital signal feeds the growing storm,
+While fundamentals fade to distant noise,
+The stampede takes its algorithmical form,
+Destroying value with mechanical poise.
+
+Yet in this chaos lies a deeper truth—
+That speed of thought cannot replace its depth,
+And those who wait with patience, not youth,
+Shall find the treasures that the storm has left.
+
+*For when the mirage fades and dust has cleared,*
+*The patient trader finds what others feared.*`,
+    standard: `📊 Day 20: The Momentum Mirage
+
+Major dislocations occur during human trading hours precisely because algorithms amplify human emotions rather than replace them—when fear or greed reaches critical mass among institutional decision-makers, algorithms designed to follow trends and momentum create violent feedback loops that human oversight cannot contain fast enough. This reveals that markets haven't become more rational; they've become more efficiently irrational, turning human psychology into systemic risk at machine speed.
+
+🧱 **The Concept**
+Momentum trading in bond markets creates self-reinforcing cycles where algorithmic systems amplify initial price movements, often disconnecting bond prices from fundamental economic reality for extended periods.
+
+❓ **Why It Matters**
+When algorithms chase momentum signals, they can drive Treasury yields far above or below levels justified by inflation expectations, Fed policy, or economic fundamentals. This creates dangerous disconnects where market prices no longer accurately reflect economic reality, misleading both policymakers and investors about true financial conditions.
+
+⚙️ **How It Works**
+Algorithmic momentum strategies identify trending patterns and pile into the same direction, creating feedback loops. When 10-year yields start rising on inflation fears, momentum algorithms detect the trend and sell more bonds, driving yields higher regardless of whether the initial fears were justified. **Trend-following systems** then trigger stop-losses and position adjustments across hundreds of funds simultaneously, amplifying moves that might have been minor corrections into major dislocations. The March 2020 Treasury market crisis exemplified this perfectly—algorithms sold government bonds during a flight-to-safety moment because momentum indicators showed falling prices, creating the paradox of Treasury yields rising during a panic. **Cross-asset momentum strategies** make this worse by spreading bond market momentum into equity and currency markets, turning isolated Treasury moves into global financial contagion.
+
+🎯 **Bond Wisdom**
+When momentum drives markets further than fundamentals justify, the eventual snapback creates the biggest opportunities—and the greatest dangers.
+
+❓ **Tomorrow's Question** — If high-frequency trading firms can now complete arbitrage trades between Treasury futures and cash bonds in microseconds, eliminating most traditional arbitrage opportunities, why do these same firms sometimes become the source of market instability rather than the stabilizing force that economic theory predicts, and what does this paradox reveal about the difference between theoretical market efficiency and practical market resilience?`,
+    parable: `Maya stared at her screens in bewilderment as Treasury yields gyrated wildly despite no major economic news. "This makes no sense," she muttered, watching the 10-year note lose ground for the third straight hour. "Inflation expectations haven't changed, the Fed hasn't said anything new, and economic data was in line with forecasts. Why are we selling off?"
+
+Garrison ambled over, coffee in hand, and glanced at her momentum indicators. "Ah, you're watching the machines chase their own tails," he said with a knowing chuckle. "See that initial uptick in yields this morning? Some algorithm probably interpreted yesterday's retail sales number as slightly hawkish, started selling bonds. Then every other momentum-following system in the market saw the trend and joined the party."
+
+"But that's insane," Maya protested. "They're driving yields to levels that make no fundamental sense."
+
+"Exactly," Garrison nodded, settling into the chair beside her. "The algos aren't smarter than us—they're just faster at being wrong. They can turn a minor hiccup into a major dislocation because they all follow similar momentum signals. It's like a stampede of digital cattle, each one following the dust cloud ahead without knowing why they're running."
+
+Maya watched another wave of selling push yields even higher. "So when does it stop?"
+
+"When the momentum breaks," Garrison replied. "Could be minutes, could be days. But when it snaps back, it'll be just as violent in the opposite direction. The machines that drove us down will drive us back up, often overshooting fair value on both sides."
+
+As if summoned by his words, the selling suddenly paused, then reversed with startling speed. Maya watched yields plunge back toward morning levels in a matter of minutes.
+
+"The mirage," Garrison said quietly. "Momentum creates the illusion that markets have found new fundamental levels, when really they're just chasing electronic ghosts. The smart money waits for the stampede to end, then picks up the pieces."
+
+**Moral**: In markets dominated by algorithmic momentum, prices often reflect the speed of consensus rather than the wisdom of analysis.
+
+**Tomorrow**: Maya discovers why the very systems designed to eliminate arbitrage opportunities sometimes become the market's greatest source of instability.`,
+  },
 ];

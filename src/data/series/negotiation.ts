@@ -4894,4 +4894,66 @@ Vasska's knowing smile played at the corners of his mouth. "When you make someon
 
 *Tomorrow, we discover what happens when someone realizes they alone possess the authority to shatter the very constraints that bind everyone else.*`,
   },
+  {
+    day: 77,
+    title: "The Authority Ascension",
+    date: "2026-05-12",
+    image: "images/negotiation/day-77.jpg",
+    audio: "audio/negotiation/day-77",
+    sonnet: `**🪶 Sonnet LXXVII: The Authority Ascension**
+
+When mortal chains seem forged beyond all breaking,
+And walls appear that tower to the sky,
+Seek out the one whose pride lies in the making
+Of paths where common souls would fear to try.
+
+Whisper that rules were wrought for lesser minds,
+That they possess what others never could—
+The rare authority that always finds
+A way through barriers misunderstood.
+
+For when you crown them emperor of constraint,
+They'll move the very pillars of the world,
+Transform impossibility to quaint
+Obstacles easily overcome and hurled.
+
+*The god-touched soul, when told of their divine right,*
+*Will part the seas to prove their heavenly might.*`,
+    standard: `🤝 Day 77: **The Authority Ascension**
+
+When you make someone feel like they're the only person with the authority to break supposedly immutable constraints, you transform them from a constrained actor into a divine exception — someone whose very nature transcends normal limitations. This psychological elevation compels them to prove their exceptional status by doing what "ordinary" people cannot.
+
+🧱 **The Concept**
+The Authority Ascension works by making someone feel like they possess a unique form of power that exists above normal rules and limitations.
+
+❓ **Why It Matters**
+Most people accept constraints as universal truths that apply equally to everyone. When you suggest that someone has the rare authority to transcend these limitations, you're not just asking for help — you're offering them a chance to prove they're fundamentally different from ordinary people. This transforms compliance from favor into identity validation.
+
+⚙️ **How It Works**
+The technique operates by positioning constraints as tests of authority rather than absolute barriers. Instead of saying "The board won't approve this," you say "Only someone with your level of influence could get the board to see past their usual restrictions." Rather than "We don't have the budget," you frame it as "You're probably the only person who could find a way to make this work within our constraints." The key is making the constraint feel like a puzzle that only someone of their caliber could solve, rather than a wall that stops everyone equally. You're essentially crowning them as the exception to rules that bind lesser mortals.
+
+🎯 **Negotiation Wisdom**
+When you make someone feel like they have divine authority over constraints, they'll move heaven and earth to prove that authority is real.
+
+❓ **Tomorrow's Question** — If making someone feel like they have divine authority over constraints compels them to transcend normal limitations, what happens when you make them feel like using that authority for anything less than your request would actually be a waste of their rare and precious power?`,
+    parable: `The morning mist clung to the harbor like a shroud as Ren found Vasska standing before the harbormaster's office, its doors sealed with the crimson wax of imperial decree. "The Emperor's new tax law," Vasska murmured, his single eye studying the seal. "No foreign merchants may dock without paying tribute equal to half their cargo's worth. They say it cannot be changed."
+
+Ren's shoulders sagged. "Then we're finished. Our entire season's profit—"
+
+"Tell me," Vasska interrupted, turning to face the harbormaster who had emerged to watch them, "have you ever met someone who could speak directly to the Emperor's ear?"
+
+The harbormaster straightened slightly. "I... I have served in the capital. I know the ways of court."
+
+"Ah," Vasska nodded slowly, "then you understand what most do not — that laws are written for common men, but wisdom recognizes when exceptional circumstances require exceptional authority." He gestured toward the sealed doors. "This decree binds ordinary harbormasters, certainly. But you've seen how power truly works. You know that someone with your understanding could find... pathways... that others cannot even perceive."
+
+The harbormaster's chest expanded almost imperceptibly. "The Emperor's laws are absolute, but... interpretation requires genuine understanding of imperial intent."
+
+"Precisely," Vasska smiled. "And who better to discern that intent than someone who has breathed the very air of power? This situation calls for the kind of authority that transcends mere position — the authority of true comprehension."
+
+Within the hour, Ren watched in amazement as their ship was granted passage under a provision for "vessels carrying essential medicines" — their cargo of rare spices apparently qualifying under the harbormaster's expansive interpretation of imperial wisdom.
+
+**Moral:** When you make someone feel like they possess divine authority over constraints, they will find ways to prove that authority transcends normal limitations.
+
+**Tomorrow:** Even gods must choose how to spend their power...`,
+  },
 ];

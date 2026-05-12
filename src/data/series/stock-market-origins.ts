@@ -1101,4 +1101,66 @@ As if summoned by their conversation, a commotion arose from the exchange floor 
 
 *Tomorrow, Willem will discover how this delicate balance might be shifting in ways that could reshape the very nature of commerce...*`,
   },
+  {
+    day: 20,
+    title: "The Cycle of Creative Destruction",
+    date: "2026-05-12",
+    image: "images/stock-market-origins/day-20.jpg",
+    audio: "audio/stock-market-origins/day-20",
+    sonnet: `**🪶 Sonnet XX: The Cycle of Creative Destruction**
+
+When towering oaks grow proud and block the sun,
+The forest floor lies barren, cold, and still,
+Until the storm's fierce work has been begun
+To clear the canopy by nature's will.
+
+So too in markets, giants fat with gold
+May choke the growth of nimble, hungry shoots,
+Until disruption breaks their strangled hold
+And fertile ground springs forth from withered roots.
+
+The crash that seems to herald market's end
+Clears space for innovations yet unseen,
+As failures teach what time and care must mend,
+And phoenix companies rise from ash serene.
+
+*Though destruction breaks what we hold dear,*
+*Creation's seeds need fallow ground to clear.*`,
+    standard: `📈 Day 20: The Cycle of Creative Destruction
+
+Markets do possess natural mechanisms that restore balance, but through a process Joseph Schumpeter called "creative destruction"—where outdated institutions and practices are swept away to make room for new ones. When short-term greed becomes too dominant, it eventually creates the conditions for its own correction through market crashes, regulatory responses, or the emergence of new business models that reward long-term thinking.
+
+🧱 **The Concept**
+Creative destruction is the market's process of continuously destroying old ways of doing business while creating new opportunities and structures.
+
+❓ **Why It Matters**
+This cycle explains how markets evolve and self-correct over time, turning apparent failures into foundations for future growth. Understanding this process helps investors see beyond immediate crises to recognize emerging opportunities.
+
+⚙️ **How It Works**
+When market imbalances reach extreme levels, they create pressure for change that manifests in several ways. Financial crises destroy overleveraged institutions but create opportunities for more prudent competitors to gain market share. Technological disruptions eliminate entire industries while spawning new ones—like how digital photography destroyed Kodak but created entirely new visual economy sectors. Regulatory responses to market excesses may constrain some activities but often legitimize and stabilize emerging markets. Even cultural shifts away from pure profit maximization can create competitive advantages for companies that embrace stakeholder capitalism or sustainable practices.
+
+🎯 **Market Wisdom**
+The market's greatest strength lies not in avoiding destruction, but in its ability to build something better from the ruins.
+
+❓ **Tomorrow's Question** — If creative destruction ultimately benefits society by eliminating inefficient practices and creating better alternatives, why do we instinctively resist and try to prevent the very market disruptions that drive progress, and does this resistance actually make the eventual destruction more severe when it finally comes?`,
+    parable: `The great storm of 1610 had battered Amsterdam for three days, flooding the harbor and destroying half the merchant fleet. Willem stood among the wreckage of Van der Meer's warehouse, watching his master survey the damage with an expression that seemed almost... pleased?
+
+"Master, we've lost nearly everything," Willem said, his voice heavy with despair. "The spice stores, the ship manifests, even our trading records."
+
+Van der Meer picked up a soggy ledger, its pages black with seawater. "Tell me, boy, what do you see when you look at this destruction?"
+
+"Ruin, Master. The end of our enterprise."
+
+"Ah, but look closer." Van der Meer gestured toward the harbor, where already new ships were arriving to fill the void left by the destroyed vessels. "Young Captain De Wit there—he's been struggling to find berth space for months. Now he has his pick of the finest moorings. And see how the guild masters gather? They speak not of what was lost, but of how to rebuild better."
+
+Willem watched as merchants who had competed fiercely just days before now shared resources and information. The storm had washed away old grudges along with old structures.
+
+"The market, Willem, is like the sea itself. It destroys, yes—but only to create space for something new to grow. The merchants who hoarded their knowledge and trusted no one? Their secrets died with their warehouses. But those who shared and adapted?" Van der Meer smiled as a group of traders approached them with an offer to share temporary storage. "They find themselves with more allies than ever before."
+
+Within a month, the new trading cooperative that emerged from the storm's aftermath had created more efficient systems than the old individual warehouses ever could. The destruction had forced innovation.
+
+**Moral:** *The market's creative destruction is not punishment but renewal—clearing away the old to make space for the better.*
+
+*Tomorrow, Willem discovers why our very resistance to change might make it more violent when it finally arrives...*`,
+  },
 ];

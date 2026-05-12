@@ -4546,4 +4546,62 @@ Rook felt something shift. "So wisdom isn't about having no doubts?"
 
 *Tomorrow, Cairn will reveal what happens when even our deepest commitments point toward something greater than themselves...*`,
   },
+  {
+    day: 75,
+    title: "The Purpose Beneath Purpose",
+    date: "2026-05-12",
+    image: "images/habits-and-systems/day-75.jpg",
+    audio: "audio/habits-and-systems/day-75",
+    sonnet: `**🪶 Sonnet LXXV: The Purpose Beneath Purpose**
+
+What drives the driver of our deepest code?
+Beneath conviction's fortress, what foundation
+Supports the principles by which we're towed
+Through life's complex and shifting constellation?
+
+We build our ethics like a sacred wall,
+Each value placed with conscious, measured care,
+Yet underneath lies something past recall—
+A purpose breathing in foundation's lair.
+
+The rule we thought was bedrock proves to be
+A faithful servant to a greater need,
+While deeper currents run invisibly
+To nourish what our surface selves don't heed.
+
+*When scaffolding reveals the structure's truth,*
+*We find our freedom in the root's deep proof.*`,
+    standard: `🧘 Day 75: The Purpose Beneath Purpose
+
+When our most fundamental principle serves a deeper purpose we've never consciously identified, we discover that what we thought was bedrock was actually scaffolding. This revelation doesn't invalidate our principle—it reveals why it worked so well and opens the door to a more conscious relationship with the true foundation beneath.
+
+🧱 **The Concept**
+Our deepest operating principles often function as proxies for even more fundamental needs and values we haven't yet articulated.
+
+❓ **Why It Matters**
+Recognizing that our conscious principles serve unconscious purposes allows us to choose whether to maintain the proxy or evolve toward direct relationship with the deeper truth. This awareness prevents us from rigidly defending surface principles when they no longer serve the underlying purpose.
+
+⚙️ **How It Works**
+A person might discover their principle of "always be productive" actually serves a deeper need for self-worth and belonging—the productivity was never the point, it was just the strategy they learned early. Someone else might realize their commitment to "helping others" is actually serving their need for purpose and connection, which could be fulfilled through many different expressions. The principle of "staying organized" might serve the deeper purpose of feeling safe and in control. When we recognize these underlying purposes, we can consciously choose whether to maintain our current strategies or explore new ones that serve the same deep need more effectively and authentically.
+
+🎯 **Systems Wisdom**
+The most resilient principles are those that consciously serve their deeper purpose rather than unconsciously defending their surface expression.
+
+❓ **Tomorrow's Question** — If recognizing the purpose beneath our principles gives us freedom to evolve our methods, what happens when we discover that our need to constantly evolve and improve is itself just another unconscious strategy serving an even deeper purpose we're afraid to examine?`,
+    parable: `Cairn had carved the same stone for forty years, following what he called his First Law: "Honor the grain." He believed this principle guided everything—his patience with difficult passages, his willingness to let each piece teach him, his refusal to force forms that fought the material's nature.
+
+Rook watched him work one morning, tracing the familiar patterns. "You speak of honoring the grain as if it were sacred law," Rook observed. "But I wonder—what does the grain itself serve?"
+
+Cairn's chisel paused mid-strike. He had never questioned why honoring the grain mattered, only that it did. As they sat in the stone dust and morning light, something deeper emerged from beneath forty years of faithful practice.
+
+"The grain..." Cairn spoke slowly, as if discovering words for the first time. "The grain teaches me to listen. And listening—" His weathered hands opened, releasing decades of assumption. "Listening is how I remember I am not separate from the world I'm trying to shape."
+
+Rook nodded. "Your principle was never about stone at all."
+
+"No," Cairn smiled, understanding flooding his features. "It was about belonging. About finding my place in something larger by learning to work with rather than against." He picked up his chisel again, but now each strike carried conscious recognition of what it truly served.
+
+**Moral:** The principles that guide us best are often servants to purposes we have not yet named. When we discover what lies beneath our bedrock beliefs, we gain the freedom to serve the deeper truth more consciously.
+
+*Tomorrow, Rook will challenge Cairn to examine whether his newfound clarity about purpose might itself be serving something even deeper—and what happens when the need to understand becomes its own unconscious strategy.*`,
+  },
 ];

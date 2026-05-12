@@ -4464,4 +4464,69 @@ As Elm helped clear the flowers later, Dove noticed how he handed her each vase 
 
 **Tomorrow:** The art of listening as a sacred practice that transforms mere conversation into profound intimacy.`,
   },
+  {
+    day: 72,
+    title: "The Sacred Repair",
+    date: "2026-05-12",
+    image: "images/wedding-planning/day-72.jpg",
+    audio: "audio/wedding-planning/day-72",
+    sonnet: `**🪶 Sonnet LXXII: The Sacred Repair**
+
+When harsh words shatter what was whole before,
+And cruel accusations wound the heart,
+The choice becomes: to heal or wage more war,
+To mend the break or tear further apart.
+
+True love knows not the absence of all harm,
+But mastery of making broken whole,
+Where "I was wrong" becomes a healing balm,
+And honesty restores the injured soul.
+
+The strongest roses grow from pruned despair,
+Their scars become their sources of new bloom,
+As couples who learn tenderness in repair
+Transform their darkest moments into room
+*For deeper trust than innocence could know—*
+*Where broken hearts learn how much stronger they can grow.*`,
+    standard: `💍 Day 72: **The Sacred Repair**
+
+🧱 **The Concept**
+The strongest marriages are built not by couples who never hurt each other, but by those who have mastered the sacred art of repair—the ability to acknowledge harm, offer genuine amends, and rebuild trust stronger than before.
+
+❓ **Why It Matters**
+Every marriage will face moments of disconnection, misunderstanding, or even betrayal. The couples who thrive aren't those who avoid these ruptures, but those who treat each break as an opportunity to create a more conscious, compassionate bond. Your wedding day isn't just about promising to love each other—it's about promising to repair what breaks.
+
+⚙️ **How It Works**
+True repair requires three elements: **acknowledgment** ("I see that I hurt you"), **responsibility** ("This was my choice and my impact"), and **restoration** ("What do you need from me to rebuild trust?"). It's not about who was right or wrong, but about how quickly you can move from defensiveness to curiosity, from blame to understanding. The couples who master this can transform their worst moments into their most intimate ones. For example, when you inevitably snap at each other during wedding stress, repair looks like pausing to say, "I was overwhelmed and took it out on you. That wasn't fair. How can I make this right?" rather than justifying why you had every right to be frustrated.
+
+🎯 **Wedding Wisdom**
+Your capacity for repair will determine your marriage's resilience far more than your capacity for romance.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage's greatest intimacy would emerge not from your perfect moments but from how beautifully you repair your broken ones, what would that change about your fear of conflict, and what would it reveal about the difference between a marriage that avoids problems and one that transforms them into deeper connection?`,
+    parable: `Dove stood in Nana Rose's garden, tears streaming down her face. "I ruined everything," she whispered. "Elm and I had a terrible fight about the flowers, and I said things... I accused him of not caring about anything that matters to me."
+
+Nana Rose continued pruning her roses, her weathered hands gentle on the thorns. "And what did Elm do?"
+
+"He walked away. He just... left." Dove's voice broke. "What if he realizes he doesn't want to marry someone who can be so cruel?"
+
+"Child," Nana Rose said softly, "come here." She led Dove to a section of the garden where a magnificent climbing rose cascaded over an old stone wall. "Do you see this beauty? Last winter, the frost nearly killed her. Her main stem split right down the middle."
+
+Dove looked closer and saw the scar—a healed crack running up the rose's trunk, stronger wood growing around the break.
+
+"I could have pulled her up, planted something that had never been broken," Nana Rose continued. "Instead, I tended the wound. I bound it gently, fed the roots, waited through the darkness. Now look—she's the strongest rose in my garden. That scar became her source of strength."
+
+As if summoned by her words, Elm appeared at the garden gate. His eyes found Dove's immediately—red-rimmed but steady. "I came back," he said simply. "I needed time to think, but I came back."
+
+Dove ran to him, and he caught her hands. "I'm sorry," they said in unison, then laughed despite their tears.
+
+"I was wrong to accuse you," Dove said. "I was overwhelmed and I made you the target."
+
+"And I was wrong to walk away," Elm replied. "When you're hurting, I should stay and help us figure it out, not abandon you to deal with it alone."
+
+Nana Rose smiled, watching them hold each other with new tenderness. She had seen a thousand couples face their first real rupture. The ones who learned to repair with this kind of honesty, this willingness to be wrong and vulnerable—those were the marriages that bloomed for decades.
+
+**Moral:** The strongest bonds are forged not in perfection but in the sacred work of repair, where breaks become sources of beauty and every wound becomes a chance to love more skillfully.
+
+*Tomorrow, Dove and Elm will discover what it means when repair becomes not just recovery but transformation...*`,
+  },
 ];
