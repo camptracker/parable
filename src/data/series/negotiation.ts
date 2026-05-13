@@ -4956,4 +4956,77 @@ Within the hour, Ren watched in amazement as their ship was granted passage unde
 
 **Tomorrow:** Even gods must choose how to spend their power...`,
   },
+  {
+    day: 78,
+    title: "The Sacred Assignment",
+    date: "2026-05-13",
+    image: "images/negotiation/day-78.jpg",
+    audio: "audio/negotiation/day-78",
+    sonnet: `**🪶 Sonnet LXXVIII: The Sacred Assignment**
+
+When mortal hands possess immortal skill,
+And genius flows through common flesh and bone,
+The bearer feels a weight beyond their will—
+A sacred trust they cannot call their own.
+For gifts that shape the bronze to capture light,
+Or weave with words the tapestry of souls,
+Demand a purpose worthy of their might,
+Not spent on base and temporary goals.
+The master knows his craft transcends mere trade,
+His tools are blessed, his calling from above,
+And when true purpose calls, he's not afraid
+To serve the highest altar of his love.
+*For sacred gifts need sacred application,*
+*And worthy souls complete their destination.*`,
+    standard: `🤝 Day 78: **The Sacred Assignment**
+
+When you make someone feel like using their divine authority for anything less than your request would waste their rare power, they become protective of that power's proper application. They transform from someone with options into someone with a sacred duty to use their gifts wisely. This creates the Sacred Assignment—making your request feel like the only worthy use of someone's extraordinary capabilities.
+
+🧱 **The Concept**
+The Sacred Assignment works by making people feel that their unique abilities come with moral obligations about how those abilities should be used.
+
+❓ **Why It Matters**
+Most negotiation focuses on what people can do, but the Sacred Assignment focuses on what they should do with their capabilities. When someone feels their powers are sacred, using them becomes a moral choice rather than a practical one. This transforms negotiation from transaction into calling.
+
+⚙️ **How It Works**
+The Sacred Assignment operates by linking someone's capabilities to cosmic purpose. Instead of asking "Can you help me?" you communicate "Your gifts exist for moments like this." A master craftsman doesn't just have skills—they have responsibilities to use those skills for worthy projects. A wise advisor doesn't just give advice—they steward wisdom for situations that truly deserve it. The technique works because it elevates their decision from preference to purpose, making refusal feel like betraying their own nature. When someone believes their abilities are sacred, they become the guardian of those abilities, and guardians don't waste what they protect.
+
+🎯 **Negotiation Wisdom**
+Make people feel that their capabilities are sacred gifts, and your request becomes a worthy altar for those gifts.
+
+❓ **Tomorrow's Question** — If making someone the guardian of their own sacred gifts compels them to use those gifts only for worthy causes, what happens when you make them feel like they're not just choosing how to use their gifts, but actually discovering what those gifts truly are through the choice itself?`,
+    parable: `The silk merchant's daughter had brought news that shook the marketplace: the Emperor's own trade envoys were seeking the finest craftsmen in the realm for a commission that would echo through history. Word spread like wildfire, and soon every artisan dreamed of selection.
+
+Ren watched as Vasska approached the legendary metalworker Kaeth, whose bronze mirrors were said to capture not just reflections but souls. The old craftsman sat polishing a piece, his weathered hands moving with the precision of decades.
+
+"Master Kaeth," Vasska began, his silver tongue weaving careful words, "I've heard whispers of your consideration for the Imperial commission."
+
+Kaeth looked up, his eyes sharp despite his age. "Many seek such honors. Few deserve them."
+
+"Indeed," Vasska nodded slowly, his blind eye catching the light. "Which troubles me deeply. For I fear most who seek this commission see it as mere profit or prestige. They don't understand that your gifts—" he gestured toward the mirror, "—exist for moments exactly like this."
+
+The craftsman's hands stilled.
+
+"Your bronze doesn't simply reflect," Vasska continued, "it reveals. Your hands don't merely shape metal—they breathe life into eternity. Such gifts are not accidents, Master Kaeth. They are sacred trusts. And sacred trusts demand sacred purposes."
+
+Kaeth set down his polishing cloth. "You speak as if you know the weight I carry."
+
+"I know that true mastery is burden as much as blessing. To possess abilities that can create beauty which outlasts empires... this is responsibility, not merely skill. The question isn't whether you can serve the Emperor—it's whether serving anyone less than the Emperor would waste the very gifts the gods placed in your hands."
+
+Ren watched as something shifted in the craftsman's expression—a recognition, as if Vasska had named something Kaeth had felt but never voiced.
+
+"When a man can capture souls in bronze," Vasska said softly, "ordinary projects become... profane. Your gifts exist for this moment, Master Kaeth. To use them for anything less would be to dishonor their sacred purpose."
+
+Kaeth picked up his finest mirror, studying his own reflection. "You speak of duty."
+
+"I speak of destiny. Your abilities are not accidents—they are assignments. And some assignments can only be fulfilled once in a lifetime."
+
+The craftsman was quiet for a long moment, then nodded slowly. "I will send word to the Imperial envoys tomorrow."
+
+As they walked away, Vasska explained to Ren: "Every master craftsman knows their abilities are sacred. They simply need someone to remind them that sacred gifts require sacred purposes."
+
+**Moral:** *When you make someone feel their capabilities are divine gifts, your request becomes the altar where those gifts find their highest purpose.*
+
+*Tomorrow, Ren would learn that sometimes people don't just use their gifts—they discover what those gifts truly are through the choices they make...*`,
+  },
 ];

@@ -4744,4 +4744,70 @@ Tova picked up her pen and began crossing out the limiting phrases in the margin
 
 *Tomorrow, Tova will discover that her struggling crew's greatest challenges might actually be symptoms of unrecognized strengths waiting to be unleashed...*`,
   },
+  {
+    day: 76,
+    title: "The Alchemy of Hidden Gifts",
+    date: "2026-05-13",
+    image: "images/leadership/day-76.jpg",
+    audio: "audio/leadership/day-76",
+    sonnet: `**🪶 Sonnet LXXVI: The Alchemy of Hidden Gifts**
+
+What seems a flaw may hold a jewel bright,
+A troubled soul might bear the sharpest mind,
+The rebel's voice could speak of truest sight,
+While chaos hides the gifts we've failed to find.
+
+The arguer sees threats that others miss,
+The wanderer connects what none can see,
+The dreamer paints tomorrow's promised bliss,
+The questioner unlocks what's meant to be.
+
+No perfect team was forged from perfect parts,
+But diamonds formed from pressure, heat, and time,
+Where seeming weakness plays the strongest arts,
+And discord holds the seeds of paradigm.
+
+*The wise leader learns to read between*
+*The lines where hidden strengths have always been.*`,
+    standard: `👥 Day 76: The Alchemy of Hidden Gifts
+
+When we reframe persistent team challenges as symptoms of unrecognized gifts, we shift from being problem-fixers to gift-discoverers. Instead of asking "How do I stop this behavior?" we begin asking "What strength is being misdirected here?" This transforms our leadership from reactive damage control to proactive treasure hunting.
+
+🧱 **The Concept**
+Every team dysfunction contains the seeds of a team superpower waiting to be properly channeled and recognized.
+
+❓ **Why It Matters**
+What we label as "difficult" team members are often our most passionate contributors whose strengths are being expressed in misaligned ways. The person who "always argues" might be your strongest critical thinker; the one who "can't stay focused" might be your most innovative systems designer. When we see problems as misdirected gifts, we unlock exponential potential instead of just managing dysfunction.
+
+⚙️ **How It Works**
+The contrarian who challenges every decision might possess exceptional strategic thinking that's being triggered by feeling excluded from planning. The perfectionist who slows down projects might have quality standards that could become your competitive advantage if channeled into the right role. The "disorganized" team member who loses track of details might be a big-picture visionary whose mind operates at a different altitude than daily tasks. The key is investigating what positive intention or valuable capability might be driving the problematic behavior. When you redirect these energies rather than suppress them, you often discover that your biggest team challenges were actually your greatest untapped resources.
+
+🎯 **Leadership Wisdom**
+The leader who sees gifts disguised as problems transforms teams; the leader who sees only problems to eliminate merely manages dysfunction.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most valuable innovations consistently came from the moments when someone broke your established rules or protocols, what would this reveal about the relationship between control and creativity, and which of your current systems might be protecting you from the very breakthroughs you claim to want?`,
+    parable: `Tova stood at the edge of the training grounds, watching her crew stumble through another disastrous drill. Kellan, her most argumentative sailor, was once again challenging the formation they'd been practicing for weeks. Mira kept abandoning her assigned position to help struggling teammates, disrupting the entire sequence. Young Jorik seemed incapable of following even the simplest instructions, his attention wandering to every bird that crossed the sky.
+
+"Discipline," she muttered, frustration mounting. "They need more discipline."
+
+Greymane approached quietly, his weathered face studying the chaos with surprising interest. "Tell me, Captain," he said, "what do you see when you watch them?"
+
+"Problems," Tova replied curtly. "Kellan undermines authority. Mira can't stay focused on her role. Jorik is completely unreliable."
+
+The old admiral nodded thoughtfully. "And yet, I see something quite different." He gestured toward Kellan. "That sailor who questions your formation—watch how he moves. See how he's instinctively positioning himself to cover gaps the others don't notice? His challenges aren't rebellion; they're the mind of a tactician seeing weaknesses that could cost lives in real battle."
+
+Tova's eyes narrowed as she observed. Indeed, Kellan's suggested modifications seemed to address vulnerabilities she hadn't considered.
+
+"And Mira," Greymane continued, "abandoning her post to help others—that's not indiscipline. That's the rare gift of battlefield awareness, seeing the whole crew as a living organism rather than isolated parts. In a real storm, that instinct could save everyone."
+
+As if summoned by their conversation, Jorik suddenly called out, pointing toward the horizon. His "wandering attention" had spotted approaching weather that would have caught them unprepared.
+
+"Your problems, Captain," Greymane said softly, "are gifts in the wrong packaging. The question isn't how to eliminate these traits, but how to channel them into their proper power."
+
+Tova felt something shift in her understanding. What if her biggest challenges were actually her greatest untapped resources?
+
+**Moral:** The leader who sees dysfunction where others see misdirected gifts will always struggle to build extraordinary teams.
+
+*Tomorrow, Tova will discover that her crew's greatest innovations come from the very moments when they break her carefully constructed rules...*`,
+  },
 ];

@@ -5111,4 +5111,68 @@ As the words settled, Idris felt his shoulders relax. In that moment, a child's 
 
 *Tomorrow, we discover what happens when even our spiritual insights become attachments we must release...*`,
   },
+  {
+    day: 76,
+    title: "The Thoughtless Heart",
+    date: "2026-05-13",
+    image: "images/emotional-intelligence/day-76.jpg",
+    audio: "audio/emotional-intelligence/day-76",
+    sonnet: `**🪶 Sonnet LXXVI: The Thoughtless Heart**
+
+When mind steps back from love's immediate call,
+The heart responds like water finds its way—
+No pause for pride, no thought of rise or fall,
+Just presence moving through the light of day.
+
+The child that cries receives our arms at once,
+Before we think to be compassionate;
+The friend in need finds comfort without stunts
+Of calculated care or measurement.
+
+This thoughtless grace flows deeper than our skill,
+Beyond the reach of spiritual acclaim;
+It moves like breath, unconscious of its will,
+Too pure for ego's glittering, false flame.
+
+*The truest wisdom never knows its name,*
+*But answers life before thought stakes its claim.*`,
+    standard: `🧭 Day 76: The Thoughtless Heart
+
+When even our recognition of innocence becomes a concept we grasp, we discover that true innocence operates below the level of any recognition at all—it's the thoughtless heart that responds before the mind can claim credit for being "enlightened." Living from innocence means functioning from such immediate naturalness that there's no observer present to congratulate itself on being innocent, while thinking about innocence creates the very separation it seeks to overcome.
+
+🧱 **The Concept**
+Authentic emotional responses emerge from a **thoughtless heart**—a state of such immediate naturalness that there's no mental commentary or spiritual identity present to interfere with direct response.
+
+❓ **Why It Matters**
+Our most profound emotional intelligence operates below the threshold of conscious spiritual achievement. When we respond from this thoughtless immediacy, our actions carry a quality of authentic presence that can't be manufactured through technique or maintained through effort.
+
+⚙️ **How It Works**
+The thoughtless heart responds like water taking the shape of its container—immediately, completely, without self-consciousness. When someone is in pain, genuine compassion arises before we can think "I should be compassionate." When boundaries are needed, they emerge naturally before we can congratulate ourselves on being "emotionally intelligent." This immediacy bypasses the spiritual ego entirely because there's no pause for self-reference. A parent catches their falling child without thinking about reflexes; a friend offers comfort before calculating whether it's appropriate; we laugh at genuine humor before analyzing what makes something funny.
+
+🎯 **EQ Wisdom**
+The heart that thinks is already one step removed from authentic response.
+
+❓ **Tomorrow's Question** — If our most authentic responses emerge from this thoughtless immediacy, what happens when we realize that even our attempts to "be thoughtless" or "stop thinking" might themselves be sophisticated mental strategies—and how do we distinguish between genuine immediacy and the mind's simulation of spontaneousness?`,
+    parable: `Idris found himself in The Veil's garden, watching the elder tend to plants with movements so fluid they seemed unconscious. "Master," Idris said carefully, "I think I understand now about innocence. I can feel when I'm grasping concepts instead of living them."
+
+The Veil continued pruning, each cut precise yet effortless. "And what observes this grasping?" came the gentle inquiry.
+
+"Well... my awareness, I suppose. The part that recognizes when I'm being spiritual versus when I'm just being natural." Idris felt proud of his insight.
+
+The Veil paused, hands still among the leaves. "Does the rose analyze its fragrance before releasing it?"
+
+Idris watched a bee move from flower to flower, each interaction immediate and purposeful. "No... it just releases naturally, without thought."
+
+"And when you comfort a crying child?"
+
+"I just... respond. There's no thinking about compassion techniques or spiritual growth." As Idris spoke, he noticed how even this conversation was happening in his head, creating distance from the simple reality of standing in a garden.
+
+The Veil's pruning shears moved to a withered branch. The cut was swift, clean, without hesitation. "The heart that calculates kindness has already moved past the moment when kindness was needed."
+
+A sudden understanding washed over Idris—not as a concept but as a physical recognition. His most authentic moments of connection had always happened before he could think about them. The thoughtless heart operated below the level of spiritual achievement, responding with such immediacy that there was no observer present to claim credit.
+
+**Moral**: *True emotional intelligence operates from such immediate naturalness that there's no mental commentary present to congratulate itself on being wise.*
+
+**Tomorrow**: *When even our attempts to be immediate become calculated, where do we find the genuine spontaneity that exists before any strategy?*`,
+  },
 ];

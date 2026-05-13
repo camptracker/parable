@@ -5357,4 +5357,70 @@ Kael felt a chill of understanding. "Then the very people we trust to guide us t
 
 **Tomorrow:** Kael will discover why true financial education might be the most valuable form of economic self-defense.`,
   },
+  {
+    day: 82,
+    title: "The Educational Arms Race",
+    date: "2026-05-13",
+    image: "images/financial-independence/day-82.jpg",
+    audio: "audio/financial-independence/day-82",
+    sonnet: `**🪶 Sonnet LXXXII: The Educational Arms Race**
+
+Where merchants thrive on villagers' mistakes,
+True learning becomes their greatest fear,
+For wisdom breaks the bonds that profit makes,
+And knowledge drives deception's darkness clear.
+
+The schools once taught protection from deceit,
+But traders cried such learning was unfair,
+They claimed that wisdom made their work complete—
+While secretly they plotted minds to snare.
+
+Now education serves the merchant's need,
+Teaching calculation, not detection,
+Preparing workers who will never read
+The subtle signs of financial misdirection.
+
+*Yet some still seek the armor wisdom gives,*
+*For only the protected spirit lives.*`,
+    standard: `💰 Day 82: The Educational Arms Race
+
+True financial education functions as both consumer protection and economic self-defense because it immunizes people against manipulation-based business models. Industries that profit from behavioral exploitation naturally resist widespread financial literacy, creating an educational arms race between those who benefit from ignorance and those who seek to eliminate it.
+
+🧱 **The Concept**
+Financial education creates defensive capabilities that directly threaten extraction-based business models, leading to systematic resistance against widespread financial literacy.
+
+❓ **Why It Matters**
+Understanding this dynamic explains why quality financial education remains scarce despite obvious benefits. The most profitable businesses often depend on predictable consumer mistakes, creating institutional incentives to maintain rather than eliminate financial ignorance.
+
+⚙️ **How It Works**
+Credit card companies profit enormously from customers who carry balances, making financial literacy about debt management a direct threat to their business model. Investment firms charge high fees to customers who don't understand low-cost index funds, so widespread knowledge about passive investing reduces their profit margins. Payday lenders depend on customers who lack emergency funds and don't understand compound interest—financial education about both topics eliminates their customer base. Insurance companies profit from customers who buy unnecessary coverage or fail to shop for better rates, making consumer education about insurance fundamentals costly to their bottom line. Even seemingly helpful financial content is often designed to create engagement rather than actual understanding, keeping people consuming information rather than implementing simple solutions.
+
+🎯 **Buffett Wisdom**
+Buffett has long advocated for financial education precisely because it threatens the industries that profit from ignorance: "The stock market is a device for transferring money from the impatient to the patient."
+
+❓ **Tomorrow's Question** — If financial education creates such powerful defensive capabilities against exploitation, why do even well-educated people often resist learning basic financial concepts until after they've already been exploited, and what does this reveal about the relationship between intelligence and wisdom in practical matters?`,
+    parable: `As autumn deepened in the village, Kael noticed something troubling. The traveling merchants who visited each season seemed to grow more prosperous while the villagers grew more indebted.
+
+"Why do the same people fall for the same tricks year after year?" Kael asked Sable as they watched a merchant convince Tobren to buy expensive tools he couldn't afford.
+
+Sable's eyes grew distant. "There was once a time when our village had a school of practical wisdom. Children learned not just letters and numbers, but how to recognize when someone was trying to separate them from their coin."
+
+"What happened to it?"
+
+"The merchants complained to the regional governor. They claimed such education was unfair to honest trade. But I noticed the merchants who complained most loudly were those whose profits depended on villagers making poor choices."
+
+Kael watched as Tobren signed papers he clearly didn't understand. "So they eliminated the school to protect their profits?"
+
+"Not eliminated—transformed. They convinced the governor that education should focus on preparing workers, not protecting consumers. Soon, children learned to calculate profits for merchants but not to recognize when they were being cheated."
+
+Sable pointed to a group of young villagers eagerly listening to a merchant's pitch about miracle seeds that would double their harvest. "True education is like armor against deception. But those who profit from successful attacks naturally oppose widespread armor distribution."
+
+"Then we're in a battle?"
+
+"An arms race," Sable corrected. "The merchants develop new methods of persuasion, while the wise develop new methods of protection. The question is whether knowledge can spread faster than ignorance can be cultivated."
+
+**Moral**: Financial education threatens those who profit from financial ignorance, creating systematic resistance to widespread economic literacy.
+
+*Tomorrow, we explore why even intelligent people resist learning financial basics until after costly mistakes, revealing the complex relationship between knowledge and wisdom.*`,
+  },
 ];

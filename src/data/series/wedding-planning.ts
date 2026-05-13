@@ -4529,4 +4529,73 @@ Nana Rose smiled, watching them hold each other with new tenderness. She had see
 
 *Tomorrow, Dove and Elm will discover what it means when repair becomes not just recovery but transformation...*`,
   },
+  {
+    day: 73,
+    title: "The Sacred Conflict",
+    date: "2026-05-13",
+    image: "images/wedding-planning/day-73.jpg",
+    audio: "audio/wedding-planning/day-73",
+    sonnet: `**🪶 Sonnet LXXIII: The Sacred Conflict**
+
+When lovers clash like thunder against stone,
+And words like weapons slice the tender air,
+The choice emerges: fight to stand alone,
+Or wrestle angels till truth lay them bare.
+
+For surface peace that never knows the deep
+Brings death by inches, slow and sweetly numbed,
+While those who dare to wake love from its sleep
+Find gold within the chaos they have summed.
+
+The sacred art lies not in war's avoidance,
+But learning how to battle for the light—
+To speak the hurt while keeping love's attendance,
+And find in friction pathways burning bright.
+
+*When conflict serves connection's holy call,*
+*Two hearts emerge more whole for near their fall.*`,
+    standard: `💍 Day 73: The Sacred Conflict
+
+If your marriage's greatest intimacy emerges from beautiful repair rather than perfect moments, conflict transforms from something to fear into something to master. This means developing the courage to address problems directly while maintaining love, and recognizing that marriages that avoid conflict often avoid depth—while those that learn to fight well create unbreakable bonds through their shared vulnerability and skilled resolution.
+
+**🧱 The Concept**
+Healthy conflict is the crucible where superficial relationships become profound marriages.
+
+**❓ Why It Matters**
+Couples who never fight often never truly connect, living parallel lives that touch but don't transform each other. Meanwhile, couples who fight destructively create wounds that never heal, building resentment instead of understanding. The art lies in fighting for your marriage rather than against each other—using disagreement as a pathway to deeper truth rather than a weapon for winning.
+
+**⚙️ How It Works**
+Healthy conflict requires fighting about the issue, not the person—saying "I feel hurt when plans change without discussion" rather than "You never consider my feelings." It means taking breaks when emotions run too high, returning to the conversation when you can speak from love rather than defensiveness. During wedding planning, this might look like addressing budget disagreements by exploring underlying values rather than attacking spending choices, or discussing guest list tensions by understanding family dynamics rather than dismissing concerns. The goal isn't to eliminate disagreement but to ensure every conflict ends with greater understanding of each other's inner world.
+
+**🎯 Wedding Wisdom**
+Your wedding planning conflicts are rehearsals for marital intimacy—practice fighting like lovers, not enemies.
+
+**❓ Tomorrow's Question**
+If you discovered that the way you and your partner argue about wedding decisions would predict exactly how you'll handle every major life decision for the next decade, what would need to change about your current conflict style to ensure your disagreements build trust rather than erode it?`,
+    parable: `Dove stood in Nana Rose's garden studio, tears streaming down her cheeks. "Elm and I had our first real fight yesterday," she whispered. "About the ceremony music. I wanted traditional, he wanted something more modern, and before we knew it, we were saying terrible things. Maybe we're not ready for marriage if we can't even agree on a song."
+
+Nana Rose set down her tea and smiled gently. "Child, show me two people who've never fought, and I'll show you two people who've never truly met each other's souls. The question isn't whether you'll conflict—it's whether you'll learn to conflict beautifully."
+
+"But it felt so ugly," Dove protested. "We were both so angry."
+
+"Tell me," Nana Rose said, "how did it end?"
+
+Dove's expression softened slightly. "Well, eventually we both stopped trying to win and started trying to understand. Elm explained that traditional music reminds him of his parents' divorce, and I shared that it reminds me of feeling connected to my grandmother. We realized we weren't really fighting about music at all."
+
+"And then?"
+
+"Then we found a way to honor both feelings. We'll have traditional music during the ceremony but modern music we both love during the reception. But more than that..." Dove paused, wiping her eyes. "I feel like I know him better now. Like we went through something together and came out stronger."
+
+Nana Rose nodded knowingly. "That, my dear, is what sacred conflict looks like. You didn't fight to hurt each other—you fought your way to each other. Most couples either avoid the depths entirely or dive in without learning to swim. You're learning to navigate the deep waters together."
+
+Just then, Elm appeared in the doorway, looking uncertain. "I heard voices and... Dove, are you okay?"
+
+Instead of turning away in embarrassment, Dove reached for his hand. "I was just telling Nana Rose about our music discussion yesterday. About how we learned to fight like lovers instead of enemies."
+
+Elm's shoulders relaxed as he joined them. "It was scary at first," he admitted. "But I've never felt closer to anyone than I did when we finally stopped defending and started revealing."
+
+**Moral**: *Sacred conflict transforms disagreement from demolition into construction—building bridges across the very differences that threaten to divide us.*
+
+**Tomorrow**: *A couple discovers that the timing of their conflicts matters as much as their resolution...*`,
+  },
 ];

@@ -4734,4 +4734,84 @@ She gestured toward the window where young monks worked in the garden. "Watch ho
 
 **Tomorrow**: Sage will discover why some cooks actively avoid the very feedback that could perfect their craft...`,
   },
+  {
+    day: 77,
+    title: "The Hunger for Truth - When Satisfaction Becomes the Enemy",
+    date: "2026-05-13",
+    image: "images/cooking/day-77.jpg",
+    audio: "audio/cooking/day-77",
+    sonnet: `**🪶 Sonnet LXXVII: The Hunger for Truth**
+
+When satisfaction whispers "you have won,"
+And praise flows sweet like honey on the tongue,
+The wise cook knows the danger has begun—
+For comfort leaves true mastery unsung.
+
+The critics' harsh words cut where healing's needed,
+While compliments but echo what we know;
+The feedback that our ego least has heeded
+Contains the seeds from which our skills may grow.
+
+To seek discomfort in our proudest hour,
+To question methods when they seem to work,
+Requires the strength to trade false, fleeting power
+For wisdom's longer path that few won't shirk.
+
+*For those who hunger more for truth than praise*
+*Find roads to mastery through darker ways.*`,
+    standard: `🍳 Day 77: **The Hunger for Truth - When Satisfaction Becomes the Enemy**
+
+The principle that drives a cook to seek uncomfortable feedback despite feeling satisfied is **intellectual humility** - the recognition that satisfaction itself can be the greatest barrier to growth. Only those who understand that comfort signals stagnation, not mastery, will voluntarily expose themselves to criticism that contradicts their current success. This humility creates an internal hunger for truth that outweighs the ego's need for validation.
+
+🧱 **The Concept**
+True culinary growth requires developing an **appetite for discomfort** - actively seeking feedback that challenges our assumptions even when we're convinced we're cooking well.
+
+❓ **Why It Matters**
+Satisfaction with our current level often marks the beginning of decline, not the achievement of mastery. When we stop questioning our methods because they "work," we close ourselves off from discoveries that could revolutionize our cooking. The most dangerous position for any cook is believing they've figured it out.
+
+⚙️ **How It Works**
+This hunger for truth manifests as deliberately seeking critics whose palates or standards exceed our own, asking specific questions about our weaknesses rather than fishing for compliments, and creating **feedback loops** that reveal gaps between our intentions and results. A cook might ask a mentor to taste their signature dish and point out what's missing, or deliberately serve food to someone from the cuisine's culture of origin. They might record themselves cooking to spot unconscious habits, or deliberately attempt techniques that expose their limitations. The key is creating situations where comfortable assumptions get challenged by uncomfortable realities.
+
+🎯 **Culinary Wisdom**
+Comfort is the enemy of excellence. The moment we stop questioning our methods is the moment we stop growing.
+
+❓ **Tomorrow's Question** — If this hunger for truth can drive us to actively seek discomfort and criticism, what fundamental paradox explains why the feedback that hurts our feelings most often contains the precise information we need most urgently, while the praise that makes us feel good typically teaches us nothing we don't already know?`,
+    parable: `Sage stood before the pass, glowing with pride as the last plates of his special tasting menu disappeared into the dining room. The reviews had been glowing, the customers effusive in their praise. He had, by every measure that mattered to him, achieved success.
+
+Ember approached silently, her weathered hands carrying a small bowl of rice - plain, simple, almost insultingly basic after Sage's elaborate evening.
+
+"Taste," she commanded, offering him a spoonful.
+
+Sage bristled slightly. "Master, I just executed a perfect seven-course menu. Surely we can discuss rice another time?"
+
+"Taste," Ember repeated, unmoved by his accomplishment.
+
+Reluctantly, Sage took the spoon. The rice was... rice. Properly cooked, certainly, but unremarkable. He shrugged, confused by the exercise.
+
+"Tell me what you tasted," Ember said.
+
+"Rice. Well-prepared rice. I'm not sure what-"
+
+"Exactly." Ember's voice carried neither praise nor criticism, just fact. "You tasted what you expected to taste. Nothing more, nothing less. Your palate has grown comfortable."
+
+She produced another spoon of what appeared to be identical rice. "This was grown in the mountains of Niigata. The farmer tends each plant individually. The water comes from snowmelt that has filtered through volcanic rock for fifty years. The rice was harvested by hand at dawn, when the morning dew was still present. Taste again."
+
+This time, Sage paid attention. Slowly, subtleties emerged - a mineral brightness, a sweetness so delicate it was almost imagined, a texture that seemed to dissolve and expand simultaneously on his tongue.
+
+"I... I didn't notice..."
+
+"Because you were satisfied with your first assessment. Satisfaction," Ember said, setting down both bowls, "is the most seductive lie in the kitchen. It whispers that you've learned enough, seen enough, tasted enough. It convinces you that your current level of perception is sufficient."
+
+She gestured toward the dining room where his successful menu was being consumed. "Tonight, your guests praised your cooking. Tomorrow, you could coast on that praise for months, believing you've mastered your craft. Or..."
+
+Ember pulled out a small notebook, worn smooth by countless hands. "You could ask Mrs. Chen from table seven - the one who grew up in Guangzhou - what your dumpling soup was missing. You could invite Chef Nakamura to taste your fish course and tell you why it didn't sing. You could seek out the grandmother from Sicily who might explain why your pasta felt almost right, but not quite."
+
+Sage felt his pride deflating, replaced by something unexpected - curiosity tinged with nervousness. "But what if they find fault with everything? What if I discover I don't know as much as I thought?"
+
+Ember's rare smile appeared. "Then you will have received the greatest gift a cook can ask for - the chance to begin learning again. Satisfaction is comfortable, but it is not nourishing. Only hunger teaches us what we truly need to know."
+
+**Moral**: The cook who seeks comfort in praise will starve from lack of growth, while the cook who hungers for truth will feast on every criticism.
+
+**Tomorrow**: What makes some feedback cut deep while other criticism rolls off harmlessly - and why might our emotional response be the most accurate guide to which lessons we most need to learn?`,
+  },
 ];
