@@ -4866,4 +4866,70 @@ Maren prepared Elena's usual root stew while the visiting groups continued their
 
 *Tomorrow, we discover why the most nourishing relationships often transcend dietary compatibility...*`,
   },
+  {
+    day: 79,
+    title: "The Resonance Beyond Food",
+    date: "2026-05-14",
+    image: "images/nutrition-science/day-79.jpg",
+    audio: "audio/nutrition-science/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Resonance Beyond Food**
+
+When judgment leaves the table, peace arrives,
+And stressed digestion yields to calm's sweet art.
+The food itself matters less than how one thrives
+In presence that accepts each choice of heart.
+
+A nervous system wrapped in gentle space
+Transforms even bread to medicine's power.
+Where anxious perfection once showed its face,
+Now blooms the metabolic healing hour.
+
+The baker's laughter, free from health's strict rules,
+Can regulate more than the purest meal.
+For bodies know when love, not protocol, fuels
+The deeper nourishment they need to heal.
+
+*True metabolic community is born*
+*When acceptance trumps what plates may adorn.*`,
+    standard: `🍎 Day 79: The Resonance Beyond Food
+
+Mismatched eating styles can create deeper metabolic support because they force you to rely on fundamental nervous system compatibility rather than surface-level protocol alignment. When someone provides genuine safety and acceptance regardless of your food choices, their calm presence regulates your stress response more powerfully than any shared meal plan could. This reveals that metabolic community is built on energetic resonance, not nutritional conformity.
+
+🧱 **The Concept**
+True metabolic support comes through nervous system co-regulation rather than dietary agreement.
+
+❓ **Why It Matters**
+Your body's stress response to social judgment about food choices can override the benefits of perfect nutrition. Conversely, feeling genuinely accepted while eating differently can enhance your metabolic function even when your food choices are suboptimal.
+
+⚙️ **How It Works**
+When you eat with someone who radiates calm acceptance of your choices, your parasympathetic nervous system activates, improving digestion and nutrient absorption. This nervous system state matters more than whether you're both eating keto or both avoiding gluten. A relaxed meal with supportive company eating pizza can be more metabolically beneficial than a stressed meal eating "perfect" food with judgmental health enthusiasts. The person who doesn't comment on your food, doesn't suggest modifications, and genuinely enjoys your company creates a metabolic environment where your body can actually utilize whatever you're eating more effectively.
+
+🎯 **Science Wisdom**
+Nervous system safety trumps nutritional perfection in metabolic function.
+
+❓ **Tomorrow's Question** — *If nervous system co-regulation can override nutritional differences in supporting metabolic health, what happens when you become so sensitive to others' energy around food that you can no longer eat comfortably with anyone who has their own food anxieties or metabolic stress — and why might this increasing energetic sensitivity actually isolate you from the very human connection that your nervous system needs for optimal metabolic function?*`,
+    parable: `Lila had grown particular about her eating, following Maren's teachings with careful precision. So she was surprised when the village healer invited the baker's wife to join them for their evening meal.
+
+"But Grandmother," Lila whispered as they prepared, "Mira eats nothing but bread and honey cake. She laughs at our herb broths and says our careful timing is foolishness."
+
+Maren smiled, stirring a simple stew. "Watch tonight, child. See what happens."
+
+When Mira arrived, she brought fresh bread still warm from her ovens. "I know you two eat like sparrows," she laughed, "but surely you can manage a slice of this."
+
+Lila tensed, expecting Maren to politely decline. Instead, the healer tore off a generous piece, inhaling its aroma with genuine pleasure. "It smells like comfort itself," she said.
+
+As they ate, Mira regaled them with stories from the marketplace, her laughter filling the cottage like music. Lila noticed something strange: despite eating the baker's heavy bread instead of her usual careful portions, her stomach felt settled and warm. Maren, too, seemed to glow with vitality.
+
+"How is this possible?" Lila asked later, as they cleaned the dishes.
+
+"Watch how your body responds to Mira's presence," Maren replied. "She judges nothing, expects nothing, simply enjoys. In her company, even bread becomes medicine because your nervous system knows it is safe to digest whatever comes."
+
+Lila pondered this. "So the person matters more than the plate?"
+
+"The heart that holds space for your eating matters more than what you eat," Maren confirmed. "A worried mind can turn the finest medicine into poison. A peaceful presence can help bread nourish like herbs."
+
+**Moral:** True nourishment flows through acceptance, not agreement.
+
+**Tomorrow:** We discover how increasing sensitivity to others' food energy can become its own isolation...`,
+  },
 ];

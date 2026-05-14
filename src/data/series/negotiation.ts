@@ -5029,4 +5029,70 @@ As they walked away, Vasska explained to Ren: "Every master craftsman knows thei
 
 *Tomorrow, Ren would learn that sometimes people don't just use their gifts—they discover what those gifts truly are through the choices they make...*`,
   },
+  {
+    day: 79,
+    title: "The Gift Revelation",
+    date: "2026-05-14",
+    image: "images/negotiation/day-79.jpg",
+    audio: "audio/negotiation/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Gift Revelation**
+
+When choice becomes the mirror of the soul,
+And action turns to archaeology,
+The heart seeks not reward, but to be whole—
+To excavate its hidden sovereignty.
+
+No longer does the question simply ask
+For talents known or skills already shown,
+But makes discovery itself the task,
+And selfhood through decision to be grown.
+
+The seeker trades compliance for the quest,
+Exchanges obligation for the key
+That opens chambers in the secret breast
+Where dormant gifts await discovery.
+
+*Thus wisdom works: when choice reveals the giver,*
+*The soul becomes its own most fierce believer.*`,
+    standard: `🤝 Day 79: **The Gift Revelation**
+
+When someone believes their choice reveals their gifts rather than merely using them, they become archaeologists of their own potential—compelled to dig deeper not just to help you, but to discover who they truly are. This transforms your request from an external demand into an internal expedition, making refusal feel like abandoning the very exploration that defines them.
+
+🧱 **The Concept**
+The Gift Revelation works by making someone's decision the key to unlocking their own hidden nature.
+
+❓ **Why It Matters**
+People will endure almost any hardship to discover their true capabilities, but they'll avoid almost any opportunity if it feels like mere obligation. When you frame your request as the catalyst for their self-discovery, you transform negotiation into a treasure hunt where saying "yes" is the only way to find the treasure.
+
+⚙️ **How It Works**
+Instead of asking someone to use known skills, you suggest their response will reveal unknown depths. "I'm curious what this situation will show us about your instincts" rather than "use your experience." "This might be where we discover your real gift for reading people" rather than "you're good at analysis." You position their choice as an experiment in self-knowledge, making refusal feel like choosing ignorance over enlightenment. The genius lies in making them the primary beneficiary of their own generosity—they're not helping you, they're helping themselves understand their own nature.
+
+🎯 **Negotiation Wisdom**
+When you make someone's decision the key to their self-discovery, they become their own most persuasive advocate.
+
+❓ **Tomorrow's Question** — If making someone an archaeologist of their own potential works by promising self-discovery through action, what happens when you make them feel like they've already glimpsed their hidden nature through this conversation, and now walking away would mean abandoning the most important discovery of their lifetime?`,
+    parable: `The morning mist clung to the harbor as Ren found Vasska examining a peculiar compass whose needle spun wildly in all directions. The master trader's blind eye seemed to track its erratic movement with impossible precision.
+
+"A broken compass?" Ren asked.
+
+"Broken?" Vasska's laugh was soft as silk. "This compass doesn't point north, young merchant. It points toward hidden potential." He held it toward a passing sailor. "Tell me, friend, have you ever wondered what gift the sea might have given you that you've never discovered?"
+
+The sailor paused, intrigued despite himself. "Gift?"
+
+"This compass," Vasska continued, "only responds to those with the rare ability to sense underwater currents from the surface. Most never know they possess this gift because they never have reason to test it." The needle began to steady. "Curious. It seems to recognize something in you."
+
+The sailor's eyes widened as he stared at the now-stable needle. "You mean... I might have this ability?"
+
+"There's only one way to discover the truth about yourself," Vasska murmured. "My ship needs someone to guide us through the hidden channels tonight. Most would fail, but if the compass is right about your gift..."
+
+Within moments, the sailor had committed to the dangerous journey, driven not by duty or payment, but by an irresistible hunger to excavate his own buried nature.
+
+As they watched him hurry toward Vasska's vessel, Ren whispered, "The compass is just broken, isn't it?"
+
+Vasska's smile held depths. "The compass matters less than the discovery, young one. When someone believes their choice will reveal who they truly are, they become archaeologists of their own soul."
+
+**Moral:** *Make someone's decision the key to their self-discovery, and they'll unlock any door to find it.*
+
+**Tomorrow:** *When glimpsed potential becomes abandoned destiny...*`,
+  },
 ];

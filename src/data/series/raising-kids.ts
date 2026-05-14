@@ -760,4 +760,60 @@ Asha knelt down and opened her arms. "I know you wanted that cookie. Dinner is i
 
 **Tomorrow**: When boundaries meet resistance, discover the difference between connection and control.`,
   },
+  {
+    day: 13,
+    title: "The Architecture of Trust",
+    date: "2026-05-14",
+    image: "images/raising-kids/day-13.jpg",
+    audio: "audio/raising-kids/day-13",
+    sonnet: `**🪶 Sonnet XIII: The Architecture of Trust**
+
+In tiny moments trust takes root and grows,
+Through promised stories read when day is done,
+When "five more minutes" truly means it goes,
+And boundaries held feel warm as morning sun.
+
+Each word we speak becomes a living stone
+That builds the bridge between two beating hearts,
+Where children learn they're safe, yet not alone,
+As consistency its quiet work imparts.
+
+When mistakes happen, as they surely will,
+The structure holds if honesty rings true,
+For children sense what's authentic still,
+In how we own what we have failed to do.
+
+*No perfect parent builds this sacred place—*
+*Just steady hands and time's unhurried grace.*`,
+    standard: `👶 Day 13: The Architecture of Trust
+
+🧱 **The Concept**
+Trust between parent and child is built through countless micro-interactions where consistency, follow-through, and emotional safety create a foundation that allows both connection and healthy boundaries to coexist.
+
+❓ **Why It Matters**
+Without trust, children either become anxiously compliant or defensively resistant, neither of which supports their authentic development. Trust creates the secure base from which children can explore, take risks, and return for comfort when needed.
+
+⚙️ **How It Works**
+Trust accumulates through small, consistent actions: saying what you mean and meaning what you say, acknowledging when you make mistakes, following through on both promises and consequences without drama or anger. When we tell a four-year-old "five more minutes at the playground," trust is built when we actually leave after five minutes, not after their third meltdown fifteen minutes later. When we promise to read an extra story if they brush their teeth without resistance, trust erodes if we're "too tired" that night. Trust also grows through emotional attunement—when children express difficult feelings and we respond with presence rather than fixes, judgment, or dismissal.
+
+🎯 **Parenting Wisdom**
+Trust is earned in drops and lost in buckets, but a foundation of consistent trustworthiness allows relationships to weather the inevitable moments of disconnection and repair.
+
+❓ **Tomorrow's Question** — If we want children to develop their own moral compass and internal sense of right and wrong, why do we often rely on external motivators like rewards and punishments that can actually undermine the very intrinsic motivation we're trying to cultivate?`,
+    parable: `Asha sat on Elder Mira's porch, watching her eighteen-month-old son methodically empty a basket of wooden blocks, his concentration absolute. "He trusts that I'll let him finish," she observed, "even though it makes a mess."
+
+Elder Mira nodded, remembering. "Trust isn't built in the big moments," she said, watching the toddler stack two blocks with intense focus. "It's woven through a thousand small interactions. When you say 'two more blocks, then we'll clean up,' and you mean it. When he reaches for you and you're there. When he tests a boundary and you hold it gently but firmly."
+
+"But what about when I mess up?" Asha asked. "Yesterday I promised we'd go to the park after his nap, but then I was so tired..."
+
+"Did you explain? Did you acknowledge his disappointment?" Mira's voice was gentle. "Trust isn't perfection, child. It's honesty. It's saying 'Mama made a promise and then felt too tired. I see you're disappointed. We'll go first thing tomorrow.' Trust grows when children know that your words carry weight—even when you're admitting a mistake."
+
+The little boy brought them each a block, his offering simple and pure. Asha received hers with the same gravity he'd given it. "Like this?" she whispered.
+
+"Exactly like this," Mira smiled. "Trust is receiving their gifts—their tantrums, their wonder, their impossible questions—with the same presence you'd want them to offer the world."
+
+**Moral:** Trust is the invisible foundation upon which all authentic relationship rests, built not through perfection but through consistent presence and honest accountability.
+
+**Tomorrow, we explore how the very systems we use to motivate children might be undermining their natural desire to do good...**`,
+  },
 ];

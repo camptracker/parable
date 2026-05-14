@@ -5423,4 +5423,66 @@ Sable pointed to a group of young villagers eagerly listening to a merchant's pi
 
 *Tomorrow, we explore why even intelligent people resist learning financial basics until after costly mistakes, revealing the complex relationship between knowledge and wisdom.*`,
   },
+  {
+    day: 83,
+    title: "The Vulnerability of Expertise",
+    date: "2026-05-14",
+    image: "images/financial-independence/day-83.jpg",
+    audio: "audio/financial-independence/day-83",
+    sonnet: `**🪶 Sonnet LXXXIII: The Vulnerability of Expertise**
+
+The surgeon thinks his scalpel cuts through time,
+That markets yield like flesh beneath his blade,
+While engineers build models, line by line,
+For systems that were never to be weighed.
+
+The lawyer seeks each clause in fortune's text,
+Demanding certainty where chaos reigns,
+Yet simple folk who keep their methods hexed
+By humble doubt oft reap the greater gains.
+
+For knowledge in one realm breeds false belief
+That mastery transfers to every sphere,
+While ignorance, acknowledged, brings relief—
+The wisdom that our limits must appear.
+
+*The expert's confidence becomes his curse,*
+*The student's doubt, his most abundant purse.*`,
+    standard: `💰 Day 83: The Vulnerability of Expertise
+
+People resist financial education because expertise in one domain often creates dangerous overconfidence in others—the surgeon assumes financial markets work like anatomy, the engineer expects economic formulas to behave like physics. This reveals that intelligence without humility becomes a liability, while wisdom requires acknowledging the limits of our knowledge across different domains.
+
+**🧱 The Concept**
+Expertise in one field can create systematic blind spots in others, especially when success breeds overconfidence about our general competence.
+
+**❓ Why It Matters**
+Highly educated professionals often become the most exploitable targets because their proven intelligence makes them overestimate their ability to quickly master complex financial concepts. This cognitive bias costs them more than it would cost someone who approaches financial education with beginner's mind.
+
+**⚙️ How It Works**
+A brilliant doctor might day-trade because diagnosing diseases feels similar to analyzing charts, ignoring that markets reward patience while medicine rewards quick decisions. An engineer might build complex spreadsheets to time the market, applying precision tools to inherently imprecise systems. A lawyer might over-analyze every investment detail, seeking certainty in a domain that requires embracing uncertainty. Meanwhile, a humble teacher who simply dollar-cost averages into index funds often outperforms all three because they recognized their limitations and chose simplicity.
+
+**🎯 Buffett Wisdom**
+"What counts for most people in investing is not how much they know, but rather how realistically they define what they don't know."
+
+**❓ Tomorrow's Question** — If recognizing the limits of our expertise is so crucial for financial success, why does our entire professional culture reward those who project confidence and certainty over those who admit uncertainty and ignorance, and what does this systematic preference reveal about whether society actually values competence or just the appearance of competence?`,
+    parable: `The next morning, Kael found Sable examining a peculiar contraption in the village square—a maze of mirrors that Master Aldric, the visiting scholar, had constructed to demonstrate his theories of light.
+
+"Watch," Aldric proclaimed to the gathered crowd, "as I redirect the sun's rays through precise calculation." The learned man adjusted mirror after mirror, citing complex formulas, yet the light scattered uselessly in all directions.
+
+Tobren approached with a simple polished shield. "May I?" Without calculation or ceremony, the farmer angled the shield toward the sun, sending a clean beam of light exactly where it was needed—to kindle the morning's cooking fire.
+
+Aldric scoffed. "Pure luck! You understand nothing of the principles involved."
+
+"True," Tobren smiled. "I know only that I don't know. You know so much that you cannot see."
+
+Sable nodded approvingly. "Yesterday, young Kael, we spoke of how the educated often resist financial wisdom. Master Aldric demonstrates why—his mastery of scrolls and theories has convinced him he can master light itself through complexity. Yet simple Tobren, who claims no expertise beyond farming, achieves what the expert cannot."
+
+Kael watched as other villagers began requesting Tobren's simple method over Aldric's elaborate contraption. "So intelligence without humility becomes blindness?"
+
+"Precisely. The scholar's proven brilliance in his field makes him overconfident in all fields. But the farmer's wisdom lies in knowing what he doesn't know."
+
+**Moral**: *True expertise includes knowing the boundaries of one's knowledge.*
+
+*Tomorrow, Sable would reveal why society rewards those who project certainty over those who admit ignorance—and what this means for finding real competence in a world of performed confidence.*`,
+  },
 ];

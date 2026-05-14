@@ -1120,4 +1120,68 @@ The Mirror's surface rippled, showing images of Riven's past selves: the accommo
 
 *Tomorrow, Riven will learn why shared trauma feels more familiar than shared joy, and discover the difference between bonding through wounds and growing through love.*`,
   },
+  {
+    day: 19,
+    title: "The Growth Resistance",
+    date: "2026-05-14",
+    image: "images/relationship-games/day-19.jpg",
+    audio: "audio/relationship-games/day-19",
+    sonnet: `**🪶 Sonnet XIX: The Growth Resistance**
+
+When healing hands extend their gentle grace,
+Our wounded hearts recoil as if from flame,
+For growth demands we leave familiar space
+Where pain has carved the contours of our name.
+
+The thorns we've worn as armor 'gainst the world
+Have grown so tight around our tender core,
+That love which asks no bleeding leaves us hurled
+Into a panic we've not felt before.
+
+We sabotage the peace we claim to seek,
+Mistaking comfort for catastrophe,
+For wounded selves must keep their scars to speak
+Their only known vocabulary.
+
+*Yet courage lives in letting love transform*
+*The self we've been into what we could form.*`,
+    standard: `🎭 Day 19: The Growth Resistance
+
+When we learn to distinguish between trauma bonding and growth-oriented intimacy, we discover that shared growth requires us to become unfamiliar versions of ourselves — which our nervous system interprets as a threat to our core identity. Shared trauma, by contrast, confirms who we already believe ourselves to be, offering the comfort of self-validation even when that self is wounded. This creates a profound paradox: the very relationships that could heal us feel dangerous, while the ones that perpetuate our wounds feel like home.
+
+🧱 **The Concept**
+Our psychological immune system actively resists the discomfort of growth, often sabotaging relationships that would challenge us to evolve beyond our familiar patterns of suffering.
+
+❓ **Why It Matters**
+This resistance explains why we often feel more "chemistry" with people who trigger our wounds than with those who invite our healing. It reveals that what we call "compatibility" is frequently just the recognition of matching damage patterns. Understanding this allows us to recognize when we're unconsciously sabotaging healthy relationships out of loyalty to our wounded identity.
+
+⚙️ **How It Works**
+Growth-oriented relationships require us to develop new neural pathways, challenge limiting beliefs, and expand beyond our comfort zone — all of which our brain interprets as potential threats to survival. When someone consistently treats us better than we treat ourselves, it creates cognitive dissonance that we resolve by either growing to match their love or rejecting them to maintain our familiar self-concept. For example, if someone offers genuine appreciation when we're used to criticism, we might unconsciously test their boundaries to recreate the familiar dynamic of earning love through performance. Or when someone remains calm during conflict instead of escalating, we might interpret their emotional regulation as coldness rather than recognizing it as the secure attachment we claim to want. This resistance often manifests as finding reasons to end promising relationships right when they begin requiring us to show up as our best selves rather than our wounded selves.
+
+🎯 **Relationship Strategy Wisdom**
+The relationships that feel "too easy" might actually be the ones worth choosing — our resistance to peace often masquerades as intuition about incompatibility.
+
+❓ **Tomorrow's Question** — If we've spent years conditioning ourselves to associate love with struggle and ease with boredom, and this conditioning runs so deep that healthy relationships literally feel wrong to our nervous system, what does it mean about free will when our biochemistry is essentially voting against our conscious desires for partnership — and how might we need to redefine courage to include the willingness to be loved in ways that don't activate our familiar wounds?`,
+    parable: `Riven sat by the window of their small apartment, watching couples walk by on the street below. Each pair seemed to move with an ease that made Riven's chest tighten with something between longing and revulsion.
+
+"You're doing it again," The Mirror said, materializing in the reflection of the glass. "Watching what you claim to want while your body recoils from the very sight of it."
+
+"I don't understand," Riven whispered. "Alex was perfect. Kind, consistent, emotionally available. Everything I said I wanted. But every day with them felt like wearing clothes that didn't fit."
+
+The Mirror's form shifted, showing Riven's reflection but with their chest cavity visible, revealing a tangle of thorny vines where their heart should be. "Those vines have grown around your wounds for so long that they've become part of your structure. When someone offers you love that doesn't require bleeding, your thorns have nothing to grip."
+
+"So I'm doomed to choose pain?"
+
+"Not doomed," The Mirror replied, "but your nervous system has learned to interpret growth as death and stagnation as safety. Alex didn't activate your wounds — they invited your healing. And healing requires becoming someone your wounds don't recognize."
+
+Riven watched their reflection as the thorns began to loosen, just slightly. "It felt like losing myself."
+
+"Because the self you've known is the self that was shaped by what you survived, not what you could become. Your wounded parts are terrified that if you outgrow your pain, you'll abandon them entirely. They don't yet understand that healing means integration, not amputation."
+
+The couples on the street moved with a rhythm that no longer seemed foreign, but possible.
+
+**Moral**: The relationships that threaten our wounds are often the ones that promise our wholeness, though our survival mechanisms cannot yet distinguish between death and transformation.
+
+*Tomorrow, we explore how our biochemistry becomes an unwitting accomplice to our own imprisonment...*`,
+  },
 ];

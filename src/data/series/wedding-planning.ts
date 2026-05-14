@@ -4598,4 +4598,62 @@ Elm's shoulders relaxed as he joined them. "It was scary at first," he admitted.
 
 **Tomorrow**: *A couple discovers that the timing of their conflicts matters as much as their resolution...*`,
   },
+  {
+    day: 74,
+    title: "The Sacred Seasons",
+    date: "2026-05-14",
+    image: "images/wedding-planning/day-74.jpg",
+    audio: "audio/wedding-planning/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Sacred Seasons**
+
+In spring we burned with love's first tender fire,
+Each word a bloom, each touch a growing thing,
+But summer's fullness could not last entire—
+Autumn arrived with wisdom's harvesting.
+
+Now winter wraps our hearts in quiet rest,
+Not death, but hibernation of the soul,
+While deeper roots grow strong beneath love's test,
+Preparing for the seasons yet to roll.
+
+The foolish fear when passion's flame burns low,
+And chase the ghost of spring's intoxication,
+But wise hearts trust love's rhythm, ebb and flow,
+Knowing that rest precedes each new creation.
+
+*For love that honors every sacred season*
+*Finds strength in rhythm, beauty beyond reason.*`,
+    standard: `💍 Day 74: The Sacred Seasons
+
+🧱 **The Concept**
+The strongest marriages embrace the natural rhythms of intimacy and distance, understanding that love flows in seasons rather than maintaining constant intensity.
+
+❓ **Why It Matters**
+Expecting marriage to feel like an eternal honeymoon sets couples up for panic during natural periods of routine, individual focus, or emotional hibernation. Understanding that relationships breathe—expanding and contracting, blooming and resting—prevents couples from mistaking normal seasonal shifts for relationship failure.
+
+⚙️ **How It Works**
+Just as gardens require both growing seasons and fallow periods, marriages cycle through times of intense connection (spring), abundant shared joy (summer), reflective independence (autumn), and quiet restoration (winter). A couple might spend weeks deeply engrossed in each other's thoughts and dreams, then naturally shift into a period where each focuses more on individual projects while maintaining steady underlying affection. The key is recognizing these shifts as healthy rhythm rather than concerning distance. Couples who understand this don't pursue each other during natural withdrawal periods or withdraw during natural pursuit periods—they honor the season they're in while trusting that the cycle will continue.
+
+🎯 **Wedding Wisdom**
+Marriage is not a permanent state but a living ecosystem that requires both seasons of intense cultivation and seasons of patient rest.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage would be healthiest when you stopped trying to maintain the same emotional intensity every single day and instead learned to honor its natural seasons, what would that change about your expectations for how love should feel moment to moment, and what would it reveal about the difference between sustainable intimacy and exhausting performance?`,
+    parable: `Dove stood in Nana Rose's garden, watching the bare winter branches with concern. "Everything looks so... dead," she murmured. "Is this what happens to love after a while? Does it just... stop blooming?"
+
+Nana Rose smiled, her weathered hands gentle on a dormant rosebush. "Child, this garden taught me everything I know about marriage. See these roses? In spring, they'll burst with new growth. Summer brings the fullest blooms. Autumn offers the deepest colors before they rest. And winter?" She touched the seemingly lifeless wood. "Winter is when the roots grow strongest, preparing for next season's glory."
+
+Elm joined them, wrapping his arms around Dove from behind. "We've been like this garden," he said quietly. "Remember our first months? We couldn't stop talking, couldn't bear to be apart. That was our spring."
+
+"Then came summer," Dove remembered, leaning into his warmth. "All those adventures, all that laughter."
+
+"And autumn brought deeper conversations, more comfortable silences," Elm continued. "Lately, we've both been quieter, more focused on our individual projects. I thought maybe..."
+
+"You thought winter meant death," Nana Rose finished. "But watch any couple married fifty years. They don't burn with the same fire every moment. They breathe together—sometimes deeply connected, sometimes peacefully apart. The tragedy isn't in the seasons changing. The tragedy is when couples panic during winter and try to force spring, or cling to summer when autumn naturally arrives."
+
+A cardinal landed on the bare branch above them, its red feathers brilliant against the gray sky. "Love doesn't die in winter," Nana Rose whispered. "It just grows invisible roots."
+
+**Moral**: The most enduring marriages honor love's natural seasons, trusting that winter's quiet prepares the ground for spring's renewal.
+
+*Tomorrow, we discover what happens when couples learn to read their relationship's weather...*`,
+  },
 ];
