@@ -42,6 +42,7 @@ import { lessons as goldmanTrustLessons } from './series/goldman-sachs-trust-fun
 import { lessons as relationshipGamesLessons } from './series/relationship-games';
 import { lessons as relationshipPlayLessons } from './series/relationship-play';
 import { lessons as raisingKidsLessons } from './series/raising-kids';
+import { lessons as historyOfWeddingsLessons } from './series/history-of-weddings';
 
 export const series: Series[] = [
   { id: "financial-independence", name: "Financial Independence", theme: "Warren Buffett's teachings and mathematical principles", lessons: fiLessons },
@@ -70,6 +71,7 @@ export const series: Series[] = [
   { id: "relationship-games", name: "Relationship Games", theme: "the hidden psychology of romantic power dynamics — manipulation tactics, game theory in dating, recognizing toxic patterns, understanding push-pull dynamics, and why people play games instead of being direct", lessons: relationshipGamesLessons },
   { id: "relationship-play", name: "Relationship Play", theme: "fun games, activities, and playful exercises that build intimacy, deepen connection, spark joy, and strengthen healthy romantic relationships — from creative date night ideas to communication games, trust-building activities, shared adventures, and the science of play in maintaining long-term passion", lessons: relationshipPlayLessons },
   { id: "raising-kids", name: "Raising Kids", theme: "the art and science of parenting — from attachment theory and developmental psychology to discipline strategies, emotional intelligence, fostering independence, building resilience, teaching values, and navigating the challenges of modern parenting with wisdom and compassion", lessons: raisingKidsLessons },
+  { id: "history-of-weddings", name: "History of Weddings", theme: "the complete history of weddings across civilizations — from ancient rituals and religious ceremonies to modern celebrations, the evolution of traditions like the white dress, rings, veils, and bouquets, how different cultures celebrate union, the role of dowries, arranged marriages vs love matches, LGBTQ+ wedding history, and how economic, political, and social forces shaped the way humans celebrate love", lessons: historyOfWeddingsLessons },
 ];
 
 // Find a series by id

@@ -224,6 +224,15 @@
       ]
     },
     {
+      "seriesId": "history-of-weddings",
+      "seriesName": "History of Weddings",
+      "seriesTheme": "the complete history of weddings across civilizations — from ancient rituals and religious ceremonies to modern celebrations, the evolution of traditions like the white dress, rings, veils, and bouquets, how different cultures celebrate union, the role of dowries, arranged marriages vs love matches, LGBTQ+ wedding history, and how economic, political, and social forces shaped the way humans celebrate love",
+      "seriesEmoji": "💒",
+      "wisdomLabel": "Wedding History Wisdom",
+      "parableCharacters": "Celeste (a curious bride-to-be researching wedding traditions), Elder Maren (a historian who has studied ceremonies across centuries and cultures)",
+      "recipients": ["jon"]
+    },
+    {
       "seriesId": "raising-kids",
       "seriesName": "Raising Kids",
       "seriesTheme": "the art and science of parenting — from attachment theory and developmental psychology to discipline strategies, emotional intelligence, fostering independence, building resilience, teaching values, and navigating the challenges of modern parenting with wisdom and compassion",
