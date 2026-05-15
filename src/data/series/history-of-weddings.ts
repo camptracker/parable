@@ -83,4 +83,60 @@ Celeste picked up her notebook and wrote that down. She had a feeling this was j
 
 *Tomorrow: Religion enters the picture — how temples and churches claimed authority over marriage, and why it changed the institution forever.*`,
   },
+  {
+    day: 2,
+    title: "Sacred Seals — Ancient Wedding Rituals That Bound Souls",
+    date: "2026-05-15",
+    image: "images/history-of-weddings/day-2.jpg",
+    audio: "audio/history-of-weddings/day-2",
+    sonnet: `**🪶 Sonnet II: Sacred Seals — Ancient Wedding Rituals That Bound Souls**
+
+When lovers' whispers filled the morning air,
+The ancients knew that words alone would fade,
+So sacred rites with symbols rich and rare
+Transformed weak vows to bonds that gods had made.
+
+The Romans bound their hands with golden thread,
+While Hindus walked seven circles 'round flame,
+Egyptians placed rings where hearts' blood was fed,
+Each ritual blessing love with sacred name.
+
+No private promise held the strength to last
+Without the witness of assembled souls,
+For marriage linked the future to the past,
+Uniting hearts with civilization's goals.
+
+*These ancient seals still guide our wedding day,*
+*As love finds form in ritual's timeless way.*`,
+    standard: `💒 Day 2: Sacred Seals — Ancient Wedding Rituals That Bound Souls
+
+Marriage changed everything because it transformed love from a fleeting emotion into a permanent social contract, creating the foundation for inheritance, political alliances, and economic stability that built civilizations. What began as practical arrangements became sacred ceremonies that bound not just two people, but entire communities.
+
+🧱 **The Concept**
+Ancient wedding rituals were elaborate ceremonies designed to publicly declare union, invoke divine blessing, and create unbreakable bonds through symbolic acts.
+
+❓ **Why It Matters**
+These rituals weren't mere pageantry — they were legally and spiritually binding contracts that determined property rights, bloodlines, and social status. Without witnesses and sacred symbols, a union held no power in ancient societies.
+
+⚙️ **How It Works**
+Ancient Romans exchanged rings and shared bread to symbolize unity, while Celtic handfasting involved literally binding hands with cord for a year and a day. Egyptian couples exchanged golden rings worn on the fourth finger, believing a vein connected directly to the heart. Hindu ceremonies included walking seven circles around sacred fire, each step representing a vow. Jewish weddings featured breaking glass to remember life's fragility even in joy.
+
+🎯 **Wedding History Wisdom**
+Every modern wedding tradition echoes ancient rituals designed to make private love into public commitment. The symbols we cherish today — rings, vows, ceremonies — carry thousands of years of human wisdom about making love last.
+
+❓ **Tomorrow's Question** — If ancient weddings were about binding souls and securing alliances, how did entire civilizations decide who was worthy enough to marry whom?`,
+    parable: `Celeste traced her finger along the ancient manuscript, its pages yellowed with age. "Elder Maren," she whispered, "you said marriage changed everything, but how?"
+
+The historian's eyes sparkled as she turned to a illuminated page showing a Roman wedding procession. "Because, dear child, it transformed whispered promises between lovers into thunderous declarations before gods and mortals alike. Before these rituals, love was as fleeting as morning mist. After them, it became as permanent as carved stone."
+
+"See here," Maren pointed to delicate illustrations, "the Romans bound hands with golden cord, believing the gods themselves witnessed the knot. The Egyptians exchanged rings of eternity, circles without beginning or end. The Hindus walked seven sacred steps, each one a vow that bound them not just to each other, but to cosmic order itself."
+
+Celeste watched, mesmerized, as Maren demonstrated an ancient handfasting ritual with silken rope. "These weren't mere ceremonies," the elder explained, wrapping the cord around their joined hands. "They were transformations — changing two separate souls into one unified force capable of building families, claiming inheritance, forging political bonds. The symbols held such power that kingdoms rose and fell on wedding vows."
+
+"The ring you'll wear," Maren smiled, "carries the dreams of Egyptian queens. Your vows echo promises made in Roman forums. Every kiss at your altar connects you to countless lovers across millennia who dared make their private devotion into public covenant."
+
+**Moral:** Sacred rituals transform fleeting emotions into eternal bonds, giving love the power to build civilizations.
+
+**Tomorrow:** But who decided which souls were worthy of such sacred binding?`,
+  },
 ];

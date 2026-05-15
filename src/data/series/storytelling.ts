@@ -4817,4 +4817,60 @@ Pip looked around at their small circle of storytellers, each face glowing with 
 
 *Tomorrow: But what happens when such holy ground faces forces that seek not conversion but destruction?*`,
   },
+  {
+    day: 80,
+    title: "The Sacred Guardians — When Innocence Requires Warriors",
+    date: "2026-05-15",
+    image: "images/storytelling/day-80.jpg",
+    audio: "audio/storytelling/day-80",
+    sonnet: `**🪶 Sonnet LXXX: The Sacred Guardians**
+
+Where innocent tales weave their golden thread,
+And children's stories bloom like morning flowers,
+There evil seeks to poison what is fed
+By purity's unguarded, trusting hours.
+
+Yet watching from the sacred grove's bright edge,
+Stand guardians who've learned both war and peace,
+Who've sworn a fierce and loving, holy pledge
+To shield the innocent from hell's increase.
+
+With scarred hands holding both the sword and lyre,
+They've studied darkness not to use its arts,
+But recognize corruption's subtle fire
+That seeks to calcify the purest hearts.
+
+*For innocence alone cannot defend*
+*Against the lies that darkness comprehends.*`,
+    standard: `📖 Day 80: The Sacred Guardians — When Innocence Requires Warriors
+
+Innocent storytelling creates profound sanctity but cannot defend itself against deliberate evil. Sacred groves of narrative purity require conscious guardians who have mastered both the protective arts and preserved their own pure hearts. These warrior-storytellers stand at the threshold between innocence and malevolence, wielding righteous resistance without becoming corrupted by what they oppose.
+
+🧱 **The Concept**
+Some storytellers must serve as conscious protectors of narrative sanctity, maintaining both warrior skills and innocent hearts to defend sacred spaces from forces that seek to corrupt pure storytelling.
+
+❓ **Why It Matters**
+Pure-hearted storytelling communities create vulnerable sanctity that malevolent forces specifically target for corruption. Without conscious guardians who understand both protection and purity, innocent storytellers become easy prey for sophisticated narrative predators. The guardian's role requires the delicate balance of preserving one's own innocence while developing the discernment and strength to recognize and resist genuine evil.
+
+⚙️ **How It Works**
+Guardian storytellers develop what mystics call "fierce compassion" — the ability to love so deeply that they will fight to protect what they cherish. They study the patterns of narrative corruption not to use them, but to recognize and counter them. Like immune systems, they expose themselves to small doses of corrupted storytelling to build resistance without becoming infected. They practice telling stories that can dissolve malevolent narratives through superior moral clarity rather than matching darkness with darkness. Most crucially, they maintain regular spiritual practices that keep their own hearts pure despite constant exposure to corruption.
+
+🎯 **Storytelling Wisdom**
+The greatest guardian storytellers are those who would rather die than corrupt their own innocence, yet love their communities enough to risk that innocence in their defense.
+
+❓ **Tomorrow's Question** — But if these guardian storytellers successfully protect innocent communities from external corruption, what happens when they realize the most dangerous threat to narrative purity comes not from outside invaders, but from the inevitable aging process within the sacred grove itself? How do you guard against the slow spiritual entropy that transforms yesterday's pure-hearted storytellers into today's calcified traditionalists who mistake rigid orthodoxy for living sanctity?`,
+    parable: `Pip wandered into a village where children gathered each evening to share stories by a sacred fire that never dimmed. Their tales sparkled with such innocent joy that flowers bloomed in winter and songbirds forgot to migrate. Yet on the village outskirts, Pip noticed armed storytellers standing silent watch, their eyes scanning the horizon with trained vigilance.
+
+"Why do warriors guard a children's story circle?" Pip asked the eldest guardian, whose scarred hands held both sword and lute.
+
+"Because innocence creates beauty so pure that darkness hungers for it specifically," she replied. "We've learned that evil storytellers travel great distances to corrupt sanctified spaces. They whisper poison into pure tales, plant seeds of doubt in trusting hearts. Children cannot recognize sophisticated malevolence disguised as wisdom."
+
+Osha emerged from the shadows, her ancient fingers weaving starlight. "Once," she began, "a village of innocent storytellers created such beautiful narratives that their words became visible as golden threads in the air. A master of dark tales arrived, claiming to be a humble student. For months he listened, learned their patterns, praised their purity. Then slowly, imperceptibly, he began suggesting tiny changes — a darker motivation here, a more cynical ending there. The golden threads began turning gray, then black. By the time the innocent storytellers realized what was happening, their sacred fire had become a source of shadow that spread across the land like a plague."
+
+The guardian nodded grimly. "We learned that lesson. Now some of us train in the ways of narrative warfare not to use such knowledge, but to recognize it. We study corruption to build immunity. We practice fierce love — the kind that fights to preserve what it cherishes."
+
+**Moral:** Sacred innocence requires conscious protection, for purity alone cannot recognize sophisticated malevolence disguised as wisdom.
+
+**Tomorrow:** Even the most vigilant guardians may find their greatest enemy emerging from within their own ranks...`,
+  },
 ];

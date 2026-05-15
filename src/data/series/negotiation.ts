@@ -5095,4 +5095,66 @@ Vasska's smile held depths. "The compass matters less than the discovery, young 
 
 **Tomorrow:** *When glimpsed potential becomes abandoned destiny...*`,
   },
+  {
+    day: 80,
+    title: "The Discovery Abandonment",
+    date: "2026-05-15",
+    image: "images/negotiation/day-80.jpg",
+    audio: "audio/negotiation/day-80",
+    sonnet: `**🪶 Sonnet LXXX: The Discovery Abandonment**
+
+Within the mirror of our discourse deep,
+You glimpsed the self that hides beneath the mask—
+A greater soul than you had dared to keep,
+A worthier purpose than your daily task.
+
+Now choice confronts you at this crossroads stark:
+Embrace the truth that conversation showed,
+Or flee back to your comfortable dark,
+And walk again the safe, familiar road.
+
+But can you unknow what you now have seen?
+Can you unsee the person you could be?
+Can you pretend you never glimpsed the sheen
+Of your own hidden possibility?
+
+*To say no now means more than just refusing—*
+*It means the self you glimpsed you are losing.*`,
+    standard: `🤝 Day 80: The Discovery Abandonment
+
+When someone feels they've glimpsed their hidden nature, walking away becomes existential abandonment—they're not just rejecting your proposal, they're rejecting themselves. This creates what negotiators call "discovery abandonment anxiety," where saying no means betraying the person they just discovered they could become.
+
+🧱 **The Concept**
+Discovery abandonment makes people feel that rejecting your proposal would mean abandoning the most important insight they've ever had about themselves.
+
+❓ **Why It Matters**
+People will endure almost any cost to avoid the psychological pain of abandoning a profound self-discovery. Once someone believes they've glimpsed their true potential through your conversation, walking away feels like choosing ignorance over enlightenment, mediocrity over greatness.
+
+⚙️ **How It Works**
+You make someone feel that your interaction has revealed something crucial about who they really are—perhaps their hidden generosity, their suppressed wisdom, or their dormant courage. Then you suggest that this glimpse was just the beginning, and that fully embodying this discovery requires taking action with you. A venture capitalist might say, "I can see you're not just another entrepreneur—there's something different about how you think about problems. Most people would walk away from this conversation and go back to playing small, but I don't think you can unknow what you now know about yourself." The person now faces a choice between embracing their revealed nature or retreating into their former, diminished self-concept.
+
+🎯 **Negotiation Wisdom**
+Once someone believes they've discovered their true self through your interaction, agreement becomes an act of self-loyalty rather than concession to you.
+
+❓ Tomorrow's Question — If making someone choose between self-loyalty and self-abandonment works by framing agreement as personal integrity, what happens when you make them feel like they're not just discovering who they are, but actually remembering who they used to be before the world taught them to think small?`,
+    parable: `Vasska's blind eye gleamed as he watched Ren struggle with a particularly stubborn spice merchant who had been refusing their partnership proposal for days. The old trader's weathered hands traced patterns in the sand as he spoke.
+
+"Watch closely, young one. This merchant believes he knows himself—cautious, practical, risk-averse. But see how his eyes linger on our rare saffron? How his fingers twitch when I mention the trading routes to the eastern kingdoms?"
+
+Vasska approached the merchant with a knowing smile. "Friend, I've been in this business for forty years, and I recognize something in you that you may not see in yourself. You're not just another careful trader—there's an explorer's spirit buried beneath all that prudence."
+
+The merchant straightened slightly, his chest swelling with unexpected pride.
+
+"Most men would hear about our eastern routes and think only of the risks," Vasska continued, his voice dropping to a conspiratorial whisper. "But you... you're imagining the possibilities, aren't you? You're seeing yourself walking through spice markets that exist only in legends, bringing back treasures that would make you the most celebrated trader in three kingdoms."
+
+The merchant's eyes widened as if Vasska had read his most secret dreams.
+
+"The question is," Vasska said gently, "now that you've glimpsed who you really are beneath all that learned caution, can you walk away from this conversation and pretend you're still the same man who was content selling common herbs in the local market?"
+
+The merchant signed their partnership agreement within the hour, his hands trembling not with fear, but with the excitement of finally meeting himself.
+
+**Moral:** *Once a person believes they've discovered their true nature, abandoning that discovery feels like abandoning their soul.*
+
+**Tomorrow:** *When remembrance rivals revelation, the past becomes more powerful than potential...*`,
+  },
 ];

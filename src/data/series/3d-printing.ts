@@ -4099,4 +4099,59 @@ As the chamber completed its work, revealing a sculpture of breathtaking beauty 
 
 **Tomorrow**: Orna will show Finn what happens when the very systems designed to evaluate trust become too sophisticated for human audit...`,
   },
+  {
+    day: 70,
+    title: "The Witness Circle",
+    date: "2026-05-15",
+    image: "images/3d-printing/day-70.jpg",
+    audio: "audio/3d-printing/day-70",
+    sonnet: `**🪶 Sonnet LXX: The Witness Circle**
+
+When systems grow beyond our mortal sight,
+And mechanisms dance past human ken,
+We place our watchers in the failing light
+To judge by deed what mind cannot defend.
+These faithful sentries need not understand
+The workings of the vast machine they guard;
+They read the patterns written by its hand
+In outcomes soft and consequences hard.
+As friends who judge our lovers not by thought
+But by the kindness shown in daily care,
+So witnesses observe what can't be caught
+By analysis, but lives in open air.
+*When comprehension fails, let trust arise*
+*From watching how a system treats the wise.*`,
+    standard: `🖨️ Day 70: The Witness Circle
+
+We maintain confidence not by comprehending the systems themselves, but by creating circles of witnesses—independent observers who can detect patterns of behavior even when they cannot understand the mechanisms. These witnesses operate on the principle that healthy systems exhibit recognizable characteristics in their interactions with the world, regardless of their internal complexity.
+
+🧱 **The Concept**
+Complex evaluation systems can be assessed through their observable patterns of behavior and outcomes rather than through direct comprehension of their internal workings.
+
+❓ **Why It Matters**
+As our making systems become too sophisticated for direct human oversight, we need methods for maintaining confidence that don't depend on technical understanding. The health of systems reveals itself in how they interact with reality, not just in their code or architecture.
+
+⚙️ **How It Works**
+Witness circles monitor systems by watching for behavioral patterns that indicate healthy operation: consistency in decision-making processes, appropriate responses to edge cases, graceful degradation under stress, and alignment between stated goals and actual outcomes. For example, a 3D printing optimization system might be evaluated not by auditing its neural networks, but by observing whether it consistently produces designs that balance efficiency with safety, whether it responds appropriately to unusual material constraints, and whether its recommendations remain stable across similar scenarios. Multiple independent witnesses can cross-validate observations, creating confidence through convergence rather than comprehension. The circle approach recognizes that complex systems often reveal their true nature through sustained interaction rather than static analysis.
+
+🎯 **Maker Wisdom**
+Trust emerges from patterns of behavior observed over time, not from understanding every internal mechanism.
+
+❓ **Tomorrow's Question** — If witness circles successfully maintain confidence in systems we cannot comprehend, what happens when the witnesses themselves begin developing insights and capabilities that exceed human understanding—and how do we maintain oversight of the oversight when the watchers evolve beyond the watched?`,
+    parable: `Finn stood before a massive contraption in Orna's workshop, its crystalline core pulsing with lights that seemed to follow patterns too complex for his eyes to track. "I can't understand what it's doing," he admitted, watching streams of data flow through translucent tubes. "Yet you trust it to guide your most important fabrications."
+
+Orna gestured to a circle of smaller devices positioned around the room, each one quietly observing the central system from a different angle. "I don't understand it either," she said, surprising him. "But I understand them." She pointed to the watchers. "Each one looks for different signs of health—consistency, appropriateness, grace under pressure. When they all agree the system is behaving well, I trust it."
+
+"But what if they're wrong?" Finn asked.
+
+"Then we learn from the failure," Orna replied. "But notice how they work—not by peering inside the great machine, but by watching how it dances with the world. A healthy system reveals its nature through its steps, not its secrets."
+
+Finn observed the watchers more closely. They seemed simple compared to the central system, yet their combined attention created a web of awareness that somehow contained the complexity they could not comprehend. "It's like having many friends watch someone you're dating," he mused. "They might not understand your partner's inner thoughts, but they can tell if the relationship is healthy."
+
+Orna smiled. "Precisely. Trust isn't about understanding everything. It's about recognizing the patterns that healthy things make when they move through the world."
+
+**Moral**: Confidence in complex systems comes not from comprehending their mechanisms, but from witnessing their consistent patterns of healthy behavior.
+
+*Tomorrow, we explore what happens when the watchers themselves begin to evolve...*`,
+  },
 ];

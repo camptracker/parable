@@ -4932,4 +4932,60 @@ Lila pondered this. "So the person matters more than the plate?"
 
 **Tomorrow:** We discover how increasing sensitivity to others' food energy can become its own isolation...`,
   },
+  {
+    day: 80,
+    title: "The Sensitivity Spiral",
+    date: "2026-05-15",
+    image: "images/nutrition-science/day-80.jpg",
+    audio: "audio/nutrition-science/day-80",
+    sonnet: `**🪶 Sonnet LXXX: The Sensitivity Spiral**
+
+When heightened senses feel each anxious bite,
+The tender soul retreats from common fare,
+Seeking refuge from metabolic blight
+In solitude's deceptively pure air.
+
+Yet isolation spawns its deeper curse—
+The nervous system cries for human touch,
+And loneliness makes wellness ten times worse
+Than any shared meal's energetic clutch.
+
+The spiral tightens: sensitivity grows,
+While connection withers at the root,
+Until the very thing that heals bestows
+The poison of its own forbidden fruit.
+
+*True mastery holds both the self and whole,*
+*Boundaries that protect yet free the soul.*`,
+    standard: `🍎 Day 80: The Sensitivity Spiral
+
+When heightened energetic sensitivity around food begins isolating you from others, you've entered what healers call the "sensitivity spiral" — where your nervous system's protective refinement actually undermines the co-regulation it desperately needs. This isolation compounds metabolic stress because your body interprets social disconnection as a survival threat, often creating more physiological dysfunction than the food anxieties you were trying to avoid.
+
+🧱 **The Concept**
+The sensitivity spiral occurs when increasing awareness of others' metabolic stress creates such discomfort that you begin avoiding the very social connections your nervous system requires for optimal function.
+
+❓ **Why It Matters**
+Your nervous system evolved to regulate through social connection, and chronic isolation — even self-imposed for energetic protection — triggers ancient survival programming that can override any nutritional protocol. Many people who achieve high metabolic sensitivity accidentally sabotage their progress by withdrawing from the human contact their biology requires.
+
+⚙️ **How It Works**
+As you develop metabolic awareness, you naturally become more attuned to others' stress around food — their guilt, anxiety, restriction, or compulsion creates tangible energetic disturbance in your own system. Initially, this sensitivity feels protective and wise, helping you recognize toxic food environments. However, if you respond by avoiding all potentially triggering social situations, you inadvertently signal to your nervous system that the world is dangerous and other humans are threats. This isolation stress often manifests as digestive issues, sleep disruption, and food cravings that perfectly mimic the very metabolic dysfunction you were trying to avoid. The irony is that eating a "perfect" meal alone while stressed about human connection creates worse metabolic outcomes than eating imperfect food in genuine community.
+
+🎯 **Science Wisdom**
+True metabolic mastery requires learning to maintain your energetic boundaries while remaining relationally available — sensitivity without isolation.
+
+❓ **Tomorrow's Question** — *If maintaining energetic boundaries while staying relationally available requires this sophisticated balance of protection and openness, what happens when you become so skilled at metabolic diplomacy that you can eat comfortably with anyone but lose touch with your authentic preferences and needs — and why might this social adaptability actually represent a more subtle form of metabolic self-betrayal than the isolation it replaced?*`,
+    parable: `Lila found herself eating alone more and more often, her bowl growing cold as she sat by the smallest hearth. "I can feel their worry in my stomach," she explained to Maren, speaking of the other villagers. "When Sara counts every grain of rice, when Thomas pushes food around his plate in shame, when the baker's wife talks of forbidden sweets — their distress becomes mine. My body clenches, my appetite vanishes."
+
+Maren nodded knowingly. "You have awakened to the invisible currents that flow between all who share a meal. This sensitivity is a gift, child, but like fire, it can warm or burn." She gestured toward the three hearths. "See how the flames dance differently when I tend them? The center fire burns brightest because it draws warmth from its neighbors, while this small one flickers weakly in isolation."
+
+"But their anxiety feels like poison in my system," Lila protested. "How can I nourish myself while absorbing their metabolic chaos?"
+
+The old healer smiled mysteriously. "Watch." She moved to the great hearth where the evening meal was prepared, her presence somehow transforming the entire space. When the troubled villagers gathered, Maren's calm radiated outward like ripples on a pond. "Your sensitivity, properly wielded, does not make you a victim of others' distress — it makes you a healer of it. The question is not how to shield yourself from the storm, but how to become the eye within it."
+
+Lila observed in wonder as conversations around the table grew lighter, laughter replaced worry, and even the most anxious eaters found peace in their bowls. "The body remembers its original blueprint for nourishment," Maren whispered, "but it needs a calm nervous system nearby to recall that ancient wisdom."
+
+**Moral:** *Energetic sensitivity becomes a gift to others when wielded with presence rather than protection.*
+
+*Tomorrow, Lila will discover what happens when her newfound ability to calm others' food anxiety becomes so automatic that she loses awareness of her own authentic needs...*`,
+  },
 ];

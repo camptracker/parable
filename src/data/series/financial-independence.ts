@@ -5485,4 +5485,63 @@ Kael watched as other villagers began requesting Tobren's simple method over Ald
 
 *Tomorrow, Sable would reveal why society rewards those who project certainty over those who admit ignorance—and what this means for finding real competence in a world of performed confidence.*`,
   },
+  {
+    day: 84,
+    title: "The Performance Theater",
+    date: "2026-05-15",
+    image: "images/financial-independence/day-84.jpg",
+    audio: "audio/financial-independence/day-84",
+    sonnet: `**🪶 Sonnet LXXXIV: The Performance Theater**
+
+Upon the stage of commerce, players strut,
+With borrowed robes of certainty arrayed,
+While honest voices, speaking truth, are shut
+From spotlights where false confidence is played.
+The crowd applauds the actor's bold display,
+Though script be writ in ignorance and pride,
+And turns from those who carefully convey
+The humble limits wisdom cannot hide.
+For audiences fear uncertainty's face,
+Preferring sweet deception to hard truth,
+And so reward the charlatan's embrace
+While scorning those who offer honest proof.
+*Thus competence is masked by performance art,*
+*And theater wins while substance falls apart.*`,
+    standard: `💰 Day 84: The Performance Theater
+
+Society rewards confident performance over honest competence because audiences find uncertainty psychologically uncomfortable, even when that uncertainty reflects deeper wisdom and better decision-making. This preference for reassuring theater over accurate analysis creates systematic advantages for those willing to appear confident while being wrong, and systematic disadvantages for those honest enough to admit the limits of their knowledge.
+
+🧱 **The Concept**
+Most professional success comes from performing confidence rather than demonstrating competence.
+
+❓ **Why It Matters**
+This performance bias creates perverse incentives throughout the economy, where those who admit uncertainty are punished while those who project false certainty are rewarded. Understanding this dynamic helps explain why so many "experts" give terrible financial advice with complete confidence, and why the best investors often sound hesitant and uncertain.
+
+⚙️ **How It Works**
+Consider two financial advisors: one admits "I don't know which stocks will outperform next year, but index funds have historically delivered solid returns with lower risk," while another confidently declares "I'm certain these five stocks will beat the market by 15%." Most clients choose the confident charlatan over the honest professional, even though admitting uncertainty is actually the more competent response. This pattern repeats across industries—confident predictions get media attention and client dollars, while careful analysis gets ignored. The financial media amplifies this bias by featuring guests who make bold predictions rather than those who discuss probabilities and uncertainties. Investment banks hire advisors who can confidently sell products, not necessarily those who can accurately assess risk.
+
+🎯 **Buffett Wisdom**
+"It's better to be approximately right than precisely wrong."
+
+❓ **Tomorrow's Question** — If our economic system systematically rewards theatrical confidence over analytical honesty, and this creates a built-in advantage for sociopaths and narcissists who feel no discomfort projecting false certainty, what does this suggest about the psychological profile of people who rise to positions of financial authority, and why might following advice from the most successful-appearing experts be particularly dangerous for ordinary investors?`,
+    parable: `Sable found Kael watching the village square, where two merchants competed for customers. The first, Jorik, proclaimed loudly: "I guarantee these seeds will yield twice the harvest of any other! I stake my reputation on it!" Meanwhile, Mira spoke quietly to a smaller group: "These seeds performed well in similar soil conditions, though weather and care will ultimately determine your harvest."
+
+The crowd flocked to Jorik, drawn by his passionate certainty. Only a few farmers, including Tobren, approached Mira's modest stall.
+
+"Why do they choose the loud promises over careful truth?" Kael asked.
+
+Sable smiled knowingly. "Because uncertainty feels dangerous, even when it reflects wisdom. People would rather follow confident fools than cautious sages."
+
+As seasons passed, Jorik's seeds failed spectacularly—he had never actually tested them. But by then, he had moved to another village with new promises. Mira's careful customers enjoyed steady harvests, though none became wealthy overnight.
+
+"The marketplace rewards performance, not competence," Sable explained. "Those who admit what they don't know appear weak to those who fear uncertainty. Yet the wise investor seeks advisors who say 'I don't know' more often than those who claim to know everything."
+
+Kael nodded thoughtfully. "So the most confident experts might be the most dangerous?"
+
+"Precisely. Confidence without competence is the costliest combination in any market."
+
+**Moral**: The loudest voices in the marketplace are often the least reliable, for true expertise breeds humility while ignorance breeds certainty.
+
+*Tomorrow, Sable will reveal why this dynamic creates particular advantages for those with certain psychological profiles...*`,
+  },
 ];

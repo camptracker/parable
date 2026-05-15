@@ -4873,4 +4873,70 @@ That evening, Sage returned to her signature dish with new eyes, tasting not for
 
 *Tomorrow, we discover how to distinguish between criticism that illuminates and feedback that merely reflects the critic's own limitations...*`,
   },
+  {
+    day: 79,
+    title: "The Mirror of Source - How the Critic Reveals Themselves",
+    date: "2026-05-15",
+    image: "images/cooking/day-79.jpg",
+    audio: "audio/cooking/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Mirror of Source**
+
+When critics speak, they open windows wide
+Into their hearts, their limits and their skill,
+Their bitter past, their wounded sense of pride,
+Their clouded palate or their sharpened will.
+
+The wise ones ask what you had meant to make,
+Speak plain of salt and heat and timing's art,
+While wounded souls find fault for their own sake,
+Their judgment tainted from their very start.
+
+A numbed tongue speaks of flavors it can't taste,
+A rigid mind sees only its own way,
+While clear perception, carefully embraced,
+Illuminates what words alone convey.
+
+*The critic's voice reveals the critic's truth—
+Learn which reflects wisdom, which reflects ruth.*`,
+    standard: `🍳 Day 79: The Mirror of Source - How the Critic Reveals Themselves
+
+The ability to distinguish wisdom from projection depends entirely on understanding that criticism always reveals more about the critic than the criticized—their palate preferences, technical background, cultural biases, and current emotional state all color their perception. True feedback focuses on specific, observable details rather than sweeping judgments, while projection typically involves absolute statements, emotional intensity disproportionate to the situation, or advice that serves the critic's agenda rather than the dish's needs. When we listen not just to what critics say but how they say it—their language patterns, assumptions, and underlying motivations—we can extract valuable information even from flawed sources while protecting ourselves from feedback that would lead us astray.
+
+🧱 **The Concept**
+Every piece of feedback is a window into the giver's inner world, revealing their expertise, limitations, and unconscious biases as clearly as it addresses our cooking.
+
+❓ **Why It Matters**
+Learning to read the critic teaches us which voices deserve our attention and which should be politely acknowledged but internally filtered. This skill prevents us from being derailed by well-meaning but misguided advice while helping us recognize genuine expertise even when it arrives in uncomfortable packaging.
+
+⚙️ **How It Works**
+Wise critics speak in specifics: "The salt level overwhelmed the sweetness of the tomatoes" rather than "This needs more seasoning." They acknowledge context: "For a rustic preparation, this works" versus demanding restaurant polish on home cooking. Expert feedback often includes the reasoning behind suggestions: "Lowering the heat would prevent the proteins from seizing" rather than just "Cook it less." Watch for critics who ask questions about your intent before offering solutions—they're trying to understand your vision rather than impose their own. Conversely, feedback heavy on absolutes ("never," "always," "wrong") or emotional language ("terrible," "disgusting") typically says more about the critic's triggers than your food's actual quality.
+
+🎯 **Culinary Wisdom**
+The most valuable critics help you see your work more clearly; the least valuable try to make you cook like them.
+
+❓ **Tomorrow's Question** — If learning to read critics protects us from misguided advice while extracting wisdom from imperfect sources, what fundamental principle determines whether we can apply this same discriminating awareness to our own internal voice—the constant stream of self-criticism, doubt, and judgment that may be even less reliable than external feedback?`,
+    parable: `Sage stood frozen in the doorway, tears threatening as the dinner guest's harsh words echoed: "Oversalted, underseasoned, and frankly inedible." The same dish that had earned praise from three other diners now felt like a complete failure.
+
+Ember appeared beside her, listening not to Sage's distress but to the guest's continued commentary at the table. "Twenty years in fine dining," the man was saying, "and I can tell you exactly what's wrong with today's young cooks—no discipline, no respect for classical technique..."
+
+"Tell me," Ember whispered to Sage, "what did he eat before your course?"
+
+Sage wiped her eyes, thinking. "The spicy appetizer with chilies... and he drank that very salty cocktail."
+
+"And what has he been talking about all evening?"
+
+"How much better restaurants were in his day, how everything now is too experimental..." Sage's voice trailed off as understanding dawned.
+
+Ember nodded. "His palate is numbed, his mind is closed, and his words reveal more about his resistance to change than your cooking's merit. Yet listen—" She gestured toward another diner. "She's asking for your recipe. Same dish, different mirror."
+
+The woman at table six was indeed leaning toward her companion, saying, "The way she balanced those flavors—I've never tasted anything like it."
+
+"Every critic is a window," Ember continued, "but some windows are cracked, others are tinted with old grievances, and a few are clear glass. Learning to tell the difference is like learning to taste—it takes practice, but it saves you from seasoning your food to please a palate that was already ruined before you served the first bite."
+
+Sage watched the bitter man leave early while the woman at table six lingered, savoring every morsel. The same mirror, she realized, but one reflected truth while the other distorted it through its own imperfections.
+
+**Moral:** The critic's words reveal the critic's world as clearly as they judge your work—learn to read both messages.
+
+**Tomorrow:** Sage must learn to apply this wisdom to her harshest critic of all—herself.`,
+  },
 ];

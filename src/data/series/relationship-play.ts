@@ -1054,4 +1054,64 @@ Moral: True partnership blooms when both people refuse to be confined to partial
 
 Tomorrow, Quinn and River will explore why some couples unconsciously compete for who gives more, not realizing they're operating from a scarcity mindset that diminishes the very love they're trying to share.`,
   },
+  {
+    day: 18,
+    title: "The Abundance Mindset",
+    date: "2026-05-15",
+    image: "images/relationship-play/day-18.jpg",
+    audio: "audio/relationship-play/day-18",
+    sonnet: `**🪶 Sonnet XVIII: The Abundance Mindset**
+
+When lovers hoard their praise like precious gold,
+And ration kisses as if stores run low,
+They craft the very scarcity they're told
+To fear, and watch their garden cease to grow.
+
+But those who shower joy without restraint
+Discover wells that deepen with each gift—
+Their celebration knows no cold complaint,
+For every blessing shared creates more lift.
+
+The miser counts each compliment with care,
+While generous hearts find endless cause to cheer.
+Where fear sees loss, abundance finds more there;
+Where hoarding dims, free giving makes light clear.
+
+*For love's the only currency that grows*
+*The more we spend it on the one we chose.*`,
+    standard: `🎮 Day 18: The Abundance Mindset
+
+Couples ration support because they unconsciously operate from a scarcity mindset learned in childhood, where attention and praise felt limited and had to be earned or competed for. This creates a tragic irony: the more we hoard our enthusiasm, the less we have to give, while couples who freely celebrate each other discover that joy actually compounds when shared.
+
+🧱 **The Concept**
+True playfulness emerges from an abundance mindset—the recognition that love, joy, and celebration expand rather than diminish when given freely.
+
+❓ **Why It Matters**
+When we approach our relationship like there's only so much fun, affection, or positive energy to go around, we inadvertently create the scarcity we fear. This defensive hoarding kills spontaneity and turns partnership into an unconscious competition for limited resources.
+
+⚙️ **How It Works**
+Abundance-minded couples celebrate small wins with the same enthusiasm as major victories—cheering when their partner masters a new recipe, lands a difficult client call, or simply makes them laugh unexpectedly. They offer genuine compliments without keeping score, initiate affection without calculating reciprocity, and share excitement about their partner's interests even when they don't personally understand the appeal. Instead of thinking "if I give too much attention to this, there won't be enough left for me," they recognize that emotional generosity creates more emotional wealth for both partners. When one person's joy becomes a source of joy for both, the relationship's emotional capacity actually multiplies.
+
+🎯 **Playful Connection Wisdom**
+The couples who play together most freely are those who've learned that enthusiasm is not a finite resource—it's a renewable energy that grows stronger with use.
+
+❓ **Tomorrow's Question** — If abundance thinking allows us to celebrate our partner's growth and interests without feeling threatened, why do so many couples unconsciously resist or subtly discourage their partner's individual pursuits, even when they intellectually support the idea of personal development?`,
+    parable: `Quinn had been struggling with a painting for weeks, and tonight River found them hunched over their easel, brush trembling with frustration. Old River might have offered practical advice or tried to fix the problem. But abundance-minded River simply sat cross-legged on the floor, watching with genuine fascination.
+
+"Tell me about this color here," River said, pointing to a swirl of deep blue. "What were you feeling when you painted it?"
+
+Quinn's shoulders relaxed as they began describing their process, the frustrations, the small breakthroughs. River's questions weren't about improving the painting—they were about celebrating Quinn's creative journey. "I love watching your face when you discover something new," River said. "Even your confusion is beautiful."
+
+Later, when Quinn finally stepped back from a breakthrough moment, River cheered as if their partner had just scored the winning goal. "You're incredible! I got to witness actual magic happening."
+
+"I used to worry," Quinn admitted, "that if I got too excited about my art, there wouldn't be enough enthusiasm left for us."
+
+River laughed. "I'm learning the opposite is true. When I celebrate who you're becoming, I fall more in love with who we're becoming together."
+
+Elder Joy, observing from her garden window, smiled as she watched the light in their home grow brighter. She'd seen too many couples dim their individual lights, believing love required sacrifice of self rather than multiplication of joy.
+
+**Moral**: Enthusiasm shared becomes enthusiasm doubled; love given freely creates more love to give.
+
+Tomorrow, we explore why growing individually can feel threatening to growing together...`,
+  },
 ];

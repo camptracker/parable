@@ -4728,4 +4728,60 @@ Cairn smiled as his chisel found its rhythm again. "Now you begin to see the dif
 
 Tomorrow, Rook must face what happens when clarity reveals more than he feels capable of addressing...`,
   },
+  {
+    day: 78,
+    title: "The Triage Heart",
+    date: "2026-05-15",
+    image: "images/habits-and-systems/day-78.jpg",
+    audio: "audio/habits-and-systems/day-78",
+    sonnet: `**🪶 Sonnet LXXVIII: The Triage Heart**
+
+When mirrors show us every flaw at once,
+And conscience overwhelms with endless debt,
+The soul retreats or breaks beneath the stunts
+Of trying all repairs in one sunset.
+
+But wisdom teaches triage to the heart:
+To see complete while acting on the few,
+Like surgeons who must know each patient's part
+Yet save the ones most critical and due.
+
+Acknowledge all, but let importance guide
+Which stone to carve, which garden bed to tend,
+For scattered effort makes the spirit hide
+While focused care helps broken patterns mend.
+
+*The skilled physician sees each wound with grace,*
+*But heals what's dying first, then tends the rest in place.*`,
+    standard: `🧘 Day 78: The Triage Heart
+
+We prevent clarity shock by developing triage consciousness—the ability to see everything clearly while acting on only what is most vital right now. Like an emergency room doctor who acknowledges every patient while treating the most critical first, we honor all our flaws without drowning in them. This requires cultivating what we might call "selective urgency"—a calm discrimination that can hold the full picture while focusing action on what serves life most immediately.
+
+🧱 **The Concept**
+Triage consciousness allows us to witness our complete reality while maintaining focused action on what matters most in this moment.
+
+❓ **Why It Matters**
+Without triage consciousness, honest self-assessment becomes paralyzing—we either avoid looking at our problems or become overwhelmed by their magnitude. Most people oscillate between denial and overwhelm because they lack the skill to see clearly while acting selectively. This creates cycles of avoidance punctuated by periods of frantic, scattered improvement attempts.
+
+⚙️ **How It Works**
+Triage consciousness operates through calm categorization: critical (act now), important (schedule), and stable (acknowledge without action). When Rook finally faced his pattern of abandoning projects, he felt crushed by the scope—hundreds of unfinished endeavors demanding attention. Instead of trying to complete everything or retreating into denial, he identified the three projects that were closest to meaningful completion and committed to finishing just those. The key insight: acknowledging everything doesn't mean addressing everything simultaneously. Like a skilled gardener who sees all the weeds but pulls only what threatens this season's harvest, we practice selective intervention based on immediate impact and available energy.
+
+🎯 **Systems Wisdom**
+True responsibility isn't doing everything at once—it's doing the right thing right now while staying aware of everything else.
+
+❓ **Tomorrow's Question** — If triage consciousness helps us act selectively while seeing completely, what happens when our criteria for "most important" are themselves unconscious patterns that consistently lead us to avoid the deeper work our soul actually needs?`,
+    parable: `Cairn found Rook sitting among his scattered tools and half-carved stones, paralyzed by the magnitude of his unfinished work. "I see it all now," Rook whispered, his voice heavy with despair. "Every project I've abandoned, every promise I've broken to myself. How does anyone bear such weight?"
+
+The old stone-carver knelt beside a particular piece—a rough figure that showed promise despite its incomplete state. "In the healing houses of my youth," Cairn said quietly, "I watched physicians move through rooms of suffering. They saw every patient's pain, acknowledged every need, yet they treated only those who would die without immediate attention. The others waited, not forgotten, but held in awareness while life-critical work was done."
+
+Rook's eyes moved across his chaos of creations. "But how do I choose? Each piece calls to me with equal shame."
+
+"Shame is not the physician here," Cairn replied, lifting the promising figure. "This stone wants to be born. These others rest in possibility. The difference is not in your failure, but in their ripeness. A gardener doesn't uproot all weeds in one day—she clears what threatens this season's harvest."
+
+Together, they cleared space around three pieces that showed the most life, leaving the others acknowledged but undisturbed. As Rook's hands found their rhythm on the first stone, he felt something he'd never experienced: the peace of complete seeing coupled with focused action.
+
+**Moral**: True responsibility sees all while acting on what serves life most immediately—wisdom lies not in doing everything, but in doing the right thing right now.
+
+**Tomorrow**: Even our criteria for importance may hide deeper patterns of avoidance.`,
+  },
 ];

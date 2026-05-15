@@ -4656,4 +4656,68 @@ A cardinal landed on the bare branch above them, its red feathers brilliant agai
 
 *Tomorrow, we discover what happens when couples learn to read their relationship's weather...*`,
   },
+  {
+    day: 75,
+    title: "The Sacred Seasons",
+    date: "2026-05-15",
+    image: "images/wedding-planning/day-75.jpg",
+    audio: "audio/wedding-planning/day-75",
+    sonnet: `**🪶 Sonnet LXXV: The Sacred Seasons**
+
+As autumn yields to winter's gentle call,
+And spring awakens summer's passionate fire,
+So love moves through its seasons, rise and fall,
+Each phase revealing what the heart requires.
+
+Not always storm-tossed waves of wild desire,
+Nor constant flame that burns without reprieve,
+But rhythms that sustain and never tire—
+The quiet trust that lets the soul believe.
+
+In summer's heat we dance with fierce delight,
+In winter's calm we rest in silent knowing,
+Spring brings renewal fresh and burning bright,
+Autumn rewards with gratitude's sweet showing.
+
+*Let love breathe freely through its changing ways,*
+*Not forced to bloom beyond its natural days.*`,
+    standard: `💍 Day 75: The Sacred Seasons
+
+This would change our expectations from demanding love feel like perpetual honeymoon to embracing its natural rhythms—sometimes deeply connected, sometimes quietly parallel, sometimes growing through difficulty. It would reveal that sustainable intimacy breathes like the seasons, while exhausting performance tries to freeze love in eternal spring, ultimately withering what it seeks to preserve.
+
+🧱 **The Concept**
+True marital intimacy follows natural cycles of closeness and space, intensity and calm, just like the seasons of the earth.
+
+❓ **Why It Matters**
+Couples who try to maintain constant peak connection exhaust themselves and create artificial pressure that kills spontaneous affection. Understanding love's seasons prevents you from panicking during natural lulls and helps you appreciate each phase's unique gifts.
+
+⚙️ **How It Works**
+Summer seasons bring passion, adventure, and intense togetherness—like newlywed energy or periods of major life celebration. Autumn seasons offer harvest intimacy—deep appreciation, gratitude, and the richness that comes from shared experience. Winter seasons provide quiet companionship, rest, and the profound comfort of simply being known. Spring seasons bring renewal, growth, fresh dreams, and the excitement of discovering new aspects of each other. Each season serves the relationship's overall health, and trying to skip winter to stay in permanent summer creates unsustainable pressure.
+
+🎯 **Wedding Wisdom**
+Plan a wedding that honors your current season rather than performing a version of love that isn't authentically yours right now.
+
+❓ **Tomorrow's Question** — If you discovered that the most enduring marriages are built by couples who can find the sacred in their most ordinary Tuesday evening together, what would that change about what you think you need to achieve or acquire to be truly happy in love?`,
+    parable: `The morning air carried the scent of changing leaves as Dove sat in Nana Rose's garden, watching the last roses of autumn bloom with fierce beauty before winter's approach.
+
+"I keep feeling like Elm and I should be more... intense," Dove confessed, pulling her sweater closer. "Like we should feel that butterflies-in-stomach excitement every single day, or something's wrong."
+
+Nana Rose smiled, deadheading a spent bloom with gentle precision. "Child, have you ever tried to keep a garden in perpetual spring?"
+
+"That's impossible," Dove replied.
+
+"Exactly. And exhausting to even attempt." Nana Rose gestured to the garden around them. "Look here—my autumn roses bloom deeper and more fragrant than their spring sisters. Not because they're better, but because they've learned to draw beauty from a different season."
+
+Elm appeared around the corner, carrying two steaming mugs of cider. "Nana Rose was just telling me about her forty-year marriage," he said, settling beside Dove. "How she and her husband learned to stop forcing every day to feel like their honeymoon."
+
+"We nearly divorced trying to maintain that intensity," Nana Rose chuckled. "Until we realized that quiet Tuesday evenings reading together were just as sacred as passionate Sunday mornings. Different seasons, different gifts."
+
+Dove leaned into Elm's warmth, suddenly understanding. "So we don't have to perform love. We just have to live it."
+
+"Through all its seasons," Nana Rose nodded. "Some days you'll be summer storms together, some days winter's quiet comfort. Both are love. Both are holy."
+
+**Moral:** Love's authenticity lies not in constant intensity, but in honoring each season of intimacy as it naturally unfolds.
+
+*Tomorrow, Dove discovers that the most profound marriages are built on sanctifying the mundane...*`,
+  },
 ];

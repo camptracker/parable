@@ -4778,4 +4778,66 @@ The master's weathered hand rested on the lever. "True mastery means building sy
 
 *Tomorrow, Vex will discover why the most decisive leaders make their own emergency protocols nearly impossible to activate...*`,
   },
+  {
+    day: 79,
+    title: "The Resistance Calibration Engine",
+    date: "2026-05-15",
+    image: "images/how-to-scale/day-79.jpg",
+    audio: "audio/how-to-scale/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Resistance Calibration Engine**
+
+When crisis calls for breaking sacred law,
+The wise build friction where the desperate reach,
+For those who grasp at power without flaw
+Must prove their wisdom worthy of such breach.
+
+Seven locks guard the emergency gate,
+Each key held by a different trusted hand,
+The flood may rise, yet still we calibrate
+Whether this storm deserves our last command.
+
+For false alarms have weakened our response,
+Exhausted trust in warnings truly dire,
+The resistance serves as our defense
+Against the panic that would fuel the fire.
+
+*Let friction filter both the true and wise,*
+*Emergency power demands this sacrifice.*`,
+    standard: `🚀 Day 79: The Resistance Calibration Engine
+
+The most successful companies make their override systems difficult to trigger because true emergencies require the organizational discipline to pause and verify authenticity even under extreme pressure. Override resistance protocols force leaders to demonstrate that they can think clearly during crises rather than simply react, ensuring that emergency powers are wielded by people who have proven they won't abuse them when judgment is most compromised.
+
+🧱 **The Concept**
+Resistance calibration engines systematically tune the friction required to access emergency capabilities, ensuring that only genuine crises trigger override protocols while preventing false emergencies from bypassing critical safeguards.
+
+❓ **Why It Matters**
+Without proper resistance calibration, organizations either become paralyzed by excessive safeguards or vulnerable to panic-driven decisions that bypass essential protections. The right amount of friction filters for both crisis authenticity and leadership competence under pressure, creating a natural selection mechanism for decision-making authority during critical moments.
+
+⚙️ **How It Works**
+Amazon requires multiple executive sign-offs to trigger their "two-pizza team" emergency protocols, forcing leaders to articulate why normal processes won't work. Netflix calibrates resistance by requiring their crisis override requests to include detailed rollback plans, ensuring teams think through consequences before bypassing standard review processes. Google's resistance engine requires emergency protocol requesters to first demonstrate they've exhausted all existing escalation pathways, preventing teams from jumping to crisis mode when systematic solutions exist. The most sophisticated resistance engines automatically adjust their friction levels based on organizational stress indicators—increasing resistance when teams are prone to false alarms, decreasing it when genuine crisis patterns emerge.
+
+🎯 **Scaling Wisdom**
+The goal isn't to prevent emergency responses but to ensure that when you bypass your most important safeguards, you're doing it for the right reasons with the right people making the decisions.
+
+❓ **Tomorrow's Question** — If resistance calibration engines successfully filter for genuine crises and competent leadership, why do the most successful companies eventually establish "resistance bypass" protocols that allow certain individuals to completely circumvent their own calibration systems without any verification or oversight whatsoever?`,
+    parable: `Vex had spent months perfecting her workshop's emergency protocols—precise procedures for when urgent orders threatened to overwhelm her careful processes. But lately, every minor deadline seemed to trigger these emergency measures, creating chaos instead of clarity.
+
+"Your emergency door is too easy to open," Ironmere observed, watching Vex's apprentices abandon quality checks for the third time that week over a routine order. "When I designed the city's crisis systems, I learned that true emergencies require proof of their urgency."
+
+He led her to examine the massive gates he'd built at the city's center. "See these seven locks? Each requires a different key, held by a different council member. During the great flood, it took precious minutes to open them all—time we couldn't spare. Yet that delay forced us to verify: was this truly catastrophic, or merely frightening?"
+
+"But people could have died while you fumbled with keys," Vex protested.
+
+"Three people did die," Ironmere replied gravely. "But in the years before I installed the seven-lock system, we'd triggered emergency protocols forty-seven times for false alarms—floods that were merely heavy rains, invasions that were traveling merchants, plagues that were seasonal coughs. Each false emergency weakened our actual crisis capabilities and exhausted our people's trust in genuine warnings."
+
+Vex watched her apprentices rushing frantically, their usual precision abandoned. "So the resistance itself serves a purpose?"
+
+"The resistance calibrates intention," Ironmere explained. "Anyone can panic and demand emergency measures. But only someone who truly understands the crisis will persist through the friction required to access them. The seven locks didn't just protect our emergency powers—they ensured that when we finally used them, we were prepared to use them wisely."
+
+Vex nodded slowly, understanding. The friction wasn't just a barrier—it was a filter for both authenticity and competence.
+
+**Moral:** True emergencies are revealed not by their urgency, but by their ability to justify the friction required to access emergency powers.
+
+*Tomorrow, Ironmere will reveal why he eventually gave certain trusted individuals keys that could bypass all seven locks—and the dangerous wisdom hidden in such ultimate trust.*`,
+  },
 ];

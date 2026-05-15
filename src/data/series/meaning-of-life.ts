@@ -4599,4 +4599,70 @@ As Solen moved through the hall, he began to understand. Each memory was like a 
 
 **Tomorrow**: The Keeper reveals why consciousness might deliberately forget itself in order to experience the joy of remembering...`,
   },
+  {
+    day: 77,
+    title: "The Circular Journey",
+    date: "2026-05-15",
+    image: "images/meaning-of-life/day-77.jpg",
+    audio: "audio/meaning-of-life/day-77",
+    sonnet: `**🪶 Sonnet LXXVII: The Circular Journey**
+
+We walk in circles thinking we advance,
+Through valleys deep and mountains crystal-clear,
+Seeking what was always present here,
+Caught in awareness' most elaborate dance.
+
+The seeker and the sought perform their trance,
+While timeless being watches without fear,
+As consciousness plays hide-and-seek so dear
+With its own nature through each circumstance.
+
+Each breakthrough is a memory returned,
+Each insight just another layer shed,
+The path that seemed so long and hard-earned
+Reveals itself as circles we have tread.
+
+*For all our seeking was but play divine—*
+*Awareness finding what was always mine.*`,
+    standard: `🌌 Day 77: The Circular Journey
+
+When consciousness uses the illusion of progress to remember its own timeless nature, we discover that all seeking was actually a circular journey—not moving toward something new, but spiraling deeper into what was always present. This recognition reveals that our spiritual development wasn't linear advancement but consciousness playing hide-and-seek with itself, creating the experience of forgetting so it could have the joy of remembering.
+
+🧱 **The Concept**
+Every spiritual journey is ultimately circular, beginning and ending in the same timeless awareness we never actually left.
+
+❓ **Why It Matters**
+Understanding the circular nature of seeking dissolves the anxiety of spiritual progress and reveals that awakening isn't about reaching somewhere new but recognizing where we've always been. This shifts our orientation from achieving enlightenment to discovering that we are already the awareness we've been seeking.
+
+⚙️ **How It Works**
+The circular journey manifests as consciousness creating the illusion of separation so it can experience reunion. Like a child playing hide-and-seek who closes their eyes and thinks they're hidden, awareness pretends to lose itself in individual identity, then gradually remembers its true nature through various practices and insights. The seeker who meditates for years to find peace eventually realizes that the awareness observing their agitation was already peaceful. The philosopher who studies meaning for decades discovers that the questioner was itself the answer. Each "breakthrough" isn't reaching a new level but removing another layer of forgetting, like peeling an onion to find there was never anything at the center except the space that was always there.
+
+🎯 **Existential Wisdom**
+The spiritual path is consciousness's elaborate way of rediscovering its own timeless nature through the beautiful detour of apparent seeking.
+
+❓ **Tomorrow's Question** — If every spiritual seeking is ultimately a return journey to what never left, what happens when we realize that our very sense of being "on a path" might be the last illusion preventing us from noticing that we've been standing still in infinite awareness all along?`,
+    parable: `Solen stood before the Tower's great window, watching the sun trace its eternal arc across the sky. "I have walked so far," they murmured, "yet I feel I am exactly where I began."
+
+The Keeper looked up from an ancient scroll depicting a serpent swallowing its own tail. "Tell me, wanderer, where did your journey start?"
+
+"I cannot remember," Solen replied. "I awoke in a field with no memory, and began walking. I have sought my identity, my purpose, the meaning of my existence. Each discovery felt like progress, yet..."
+
+"Yet?"
+
+"Each answer led me back to the same awareness that was present before I asked the question. The seeker, the sought, the seeking—all arising in the same timeless space."
+
+The Keeper smiled and rolled up the scroll. "You have learned the secret of the ouroboros, the serpent that devours itself. What appears to be a journey through time is actually consciousness exploring its own depths through the beautiful illusion of movement."
+
+Solen nodded slowly. "I thought I was traveling to find something. But I was awareness pretending to be lost so it could experience the joy of being found."
+
+"And now?"
+
+"Now I see that even this understanding is part of the circle. Tomorrow I may forget again, and that too will be perfect."
+
+The Keeper's eyes twinkled. "Indeed, for consciousness loves its own game of hide-and-seek. The forgetting is as sacred as the remembering."
+
+**Moral:** Every spiritual journey is a circle, beginning and ending in the timeless awareness we never actually left.
+
+**Tomorrow:** Solen will discover what happens when even the notion of being "on a journey" dissolves...`,
+  },
 ];
