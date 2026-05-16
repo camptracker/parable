@@ -881,4 +881,54 @@ The next day, instead of reaching for stickers, Asha knelt beside Kai as he play
 
 **Tomorrow:** Mira shares why she stopped bribing children to help and started inviting them into real partnership.`,
   },
+  {
+    day: 15,
+    title: "The Sacred Space of Boredom",
+    date: "2026-05-16",
+    image: "images/raising-kids/day-15.jpg",
+    audio: "audio/raising-kids/day-15",
+    sonnet: `**🪶 Sonnet XV: The Sacred Space of Boredom**
+
+When restless sighs escape young lips that cry,
+"There's nothing here to do," we rush to mend
+The silence with bright toys that satisfy
+The moment's need, yet true growth we suspend.
+
+For in that emptiness where time moves slow,
+Great wonders stir beneath the quiet veil—
+Imagination's seeds begin to grow
+In fertile soil where distractions fail.
+
+The child who learns to sit with vacant hours
+Discoveres treasures buried in their mind:
+Inventions bloom like unexpected flowers,
+And stories from pure nothing are divined.
+
+*When boredom's gift we learn to trust and tend,*
+*Creative spirits soar without an end.*`,
+    standard: `👶 Day 15: **The Sacred Space of Boredom**
+
+🧱 **The Concept** Children's boredom is not a problem to be solved but a gateway to creativity, self-discovery, and inner resourcefulness.
+
+❓ **Why It Matters** In our hyperconnected world, we often rush to fill every moment of our children's lives with activities, entertainment, and stimulation. Yet boredom serves a crucial developmental function—it forces children to turn inward, to tap into their imagination, and to develop the capacity to generate their own meaning and engagement. When we constantly rescue children from boredom, we rob them of the opportunity to develop self-sufficiency and creative problem-solving.
+
+⚙️ **How It Works** Boredom creates a productive discomfort that motivates children to seek novel solutions. A child who says "I'm bored" might initially expect an adult to provide entertainment, but when left to their own devices, they begin to explore: building elaborate stories with toys, creating art from household items, or inventing games. This process strengthens neural pathways associated with creativity and executive function. Research shows that periods of unstimulated quiet actually enhance divergent thinking and innovation. The key is resisting the urge to immediately provide solutions and instead responding with curiosity: "What might you discover if you sit with that feeling for a while?"
+
+🎯 **Parenting Wisdom** Boredom is where creativity is born and self-reliance is forged—our job is to protect this sacred space rather than fill it.
+
+❓ **Tomorrow's Question** — If we know that struggle and challenge are essential for building resilience and problem-solving skills, why do we often find ourselves stepping in to smooth the path for our children rather than teaching them to navigate obstacles, and what does our discomfort with their discomfort reveal about our own relationship with difficulty?`,
+    parable: `Asha watched her four-year-old son slump dramatically on the living room floor. "I'm bored, Mama," he declared with the weight of existential crisis. Her first instinct was to suggest activities—perhaps the art supplies, or maybe they could read together. But Elder Mira's words from their morning walk echoed in her mind.
+
+"When my children complained of boredom," Mira had shared, "I learned to see it as a gift they were unwrapping, though they didn't know it yet. The most magical play always emerged from the deepest sighs of 'there's nothing to do.'"
+
+Asha took a breath and sat nearby, not rushing to fill the space. "That sounds frustrating," she acknowledged gently. Her son's complaints continued for several minutes, but gradually, she noticed his attention drift to the way sunlight was casting patterns through the window blinds. Soon, he was tracing the light with his fingers, then building an elaborate story about shadow creatures.
+
+Hours later, Mira stopped by to find the boy completely absorbed in a complex world he'd created using cushions, blocks, and his imagination. "You see," Mira whispered to Asha, "boredom is the empty canvas. When we rush to paint it ourselves, we steal the masterpiece they might have created."
+
+Asha nodded, understanding that her discomfort with her child's boredom had been about her own need to be useful, not his need to be entertained. She was learning that sometimes the most nurturing thing a parent could do was absolutely nothing at all.
+
+**Moral:** The silence between stimulus and response is where creativity blooms and independence takes root.
+
+*Tomorrow, Elder Mira will help Asha understand why making things easier for children often makes life harder for them in the long run.*`,
+  },
 ];

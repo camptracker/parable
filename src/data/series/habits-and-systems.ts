@@ -4784,4 +4784,68 @@ Together, they cleared space around three pieces that showed the most life, leav
 
 **Tomorrow**: Even our criteria for importance may hide deeper patterns of avoidance.`,
   },
+  {
+    day: 79,
+    title: "The Priority Mirror",
+    date: "2026-05-16",
+    image: "images/habits-and-systems/day-79.jpg",
+    audio: "audio/habits-and-systems/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Priority Mirror**
+
+We build elaborate schemes to sort our days,
+With matrices and lists of weighted worth,
+Yet somehow find our deepest work delays
+While urgent busywork commands the earth.
+
+The email answered quick, the meeting planned,
+The system optimized, the schedule tight—
+All serving as a shield from soul's demand
+To face what lurks beyond productive sight.
+
+Our priorities become a careful dance
+Around the transformation we most fear,
+Keeping us spinning in efficient trance
+While authentic work waits year after year.
+
+*The mirror shows not what we claim to need,*
+*But what we systematically don't feed.*`,
+    standard: `🧘 Day 79: The Priority Mirror
+
+When our criteria for "most important" become unconscious avoidance patterns, we create elaborate systems of productive procrastination—staying busy with urgent tasks that feel meaningful while systematically avoiding the deeper work that would actually transform us. This reveals that our triage consciousness, no matter how sophisticated, is only as wise as the underlying values and fears that shape our selection process.
+
+🧱 **The Concept**
+Our priority systems often function as sophisticated defense mechanisms that keep us perpetually engaged with surface-level challenges while avoiding the core transformations that would threaten our current identity.
+
+❓ **Why It Matters**
+Without examining the unconscious architecture of our priority-setting, we can spend decades being incredibly productive while making no real progress on what matters most. Our efficiency becomes a prison that prevents the very breakthrough we're unconsciously afraid to have.
+
+⚙️ **How It Works**
+The priority mirror reveals itself through pattern recognition: notice what consistently gets labeled "urgent" versus what gets perpetually deferred as "important but not urgent." Often our most avoided tasks share common themes—they threaten our self-image, require us to be vulnerable, or challenge our fundamental assumptions about how life should work. For example, someone might religiously maintain their productivity system, answer every email promptly, and optimize their workflow, while never scheduling the difficult conversation with their partner or taking the creative risk that could transform their career. The urgent tasks provide a constant stream of completion dopamine while the important work requires us to sit with uncertainty and potential failure.
+
+🎯 **Systems Wisdom**
+True priority alignment requires us to regularly audit not just our tasks, but the unconscious criteria we use to rank their importance—asking what we're systematically avoiding and why.
+
+❓ **Tomorrow's Question** — If we need regular rebellion against our own priority systems to prevent them from becoming elaborate avoidance schemes, what happens when the act of rebellion itself becomes systematized and predictable—do we then need to rebel against our rebellion?`,
+    parable: `Rook stood before his latest creation: a magnificent priority matrix, color-coded and cross-referenced, tracking seventeen different projects across four life domains. "See, Cairn?" he said, gesturing proudly at the elaborate chart. "I've finally solved the problem of knowing what's most important."
+
+Cairn glanced up from his stone, where he had been carving the same simple pattern for forty years—today making the smallest possible adjustment to yesterday's work. "What did your system tell you was most important today?"
+
+"Optimizing my morning routine, researching productivity apps, and designing a better goal-tracking spreadsheet," Rook replied enthusiastically. "I'll be so efficient once this is perfected!"
+
+"And what did you not do?" Cairn asked quietly.
+
+Rook's enthusiasm faltered. "Well... I didn't write the letter to my estranged brother. Or start the painting I've been planning for months. Or have that conversation with myself about why I keep starting new systems instead of using the ones I already have."
+
+Cairn set down his chisel. "Your priorities protect you from your priorities," he observed. "You've built a beautiful fortress of productivity around the work your soul actually needs to do."
+
+Rook stared at his matrix, suddenly seeing how each urgent task was perfectly designed to avoid something deeper. His system wasn't broken—it was working exactly as intended, keeping him safely busy while his real work waited in the shadows.
+
+"How do I know what I'm really avoiding?" Rook asked.
+
+"Look at what your system never makes urgent," Cairn replied, returning to his stone. "The pattern reveals itself in what consistently gets deferred."
+
+**Moral:** Our priority systems often serve as sophisticated guardians of our comfort zone, keeping us productively distracted from the transformational work we're not yet ready to face.
+
+**Tomorrow:** Rook discovers that even his rebellion against his priority system follows a predictable pattern...`,
+  },
 ];

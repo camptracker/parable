@@ -4720,4 +4720,60 @@ Dove leaned into Elm's warmth, suddenly understanding. "So we don't have to perf
 
 *Tomorrow, Dove discovers that the most profound marriages are built on sanctifying the mundane...*`,
   },
+  {
+    day: 76,
+    title: "The Sacred Ordinary",
+    date: "2026-05-16",
+    image: "images/wedding-planning/day-76.jpg",
+    audio: "audio/wedding-planning/day-76",
+    sonnet: `**🪶 Sonnet LXXVI: The Sacred Ordinary**
+
+Not in the grand cathedral's soaring height,
+Nor mountain peaks where eagles dare to soar,
+But in the kitchen's warm and gentle light
+While folding laundry by the bedroom door.
+
+The sacred dwells where coffee slowly brews,
+Where tired feet find rest on welcome mat,
+Where quiet conversation gently renews
+The bonds that hold when passion's fire grows flat.
+
+In Tuesday's unremarkable embrace
+Lies love's most precious and enduring art:
+To find within the ordinary grace
+That sanctifies each ordinary heart.
+
+*For those who learn to treasure common days*
+*Discover love that lasts through all their ways.*`,
+    standard: `💍 Day 76: The Sacred Ordinary
+
+Realizing that love's deepest fulfillment lives in ordinary Tuesday evenings would shift us away from thinking happiness requires grand achievements, exotic vacations, or perfect circumstances. Instead, we'd discover that the capacity to transform mundane moments—washing dishes together, sharing quiet conversation after work, simply being present while one partner reads and the other pays bills—into experiences of profound connection is perhaps the most valuable skill any couple can develop.
+
+**The Concept**
+True marital intimacy flourishes not in extraordinary circumstances but in the daily alchemy of finding meaning, tenderness, and even sacred connection within life's most routine moments.
+
+**Why It Matters**
+Most of marriage consists of ordinary time—weeknight dinners, morning routines, weekend errands, quiet evenings at home. If we can only access deep love during special occasions or perfect conditions, we're missing 95% of our actual shared life. The couples who thrive are those who've learned to infuse their regular rhythms with intentional presence, gentle humor, and genuine appreciation for the simple gift of being together.
+
+**How It Works**
+This sacred ordinary emerges through micro-practices of attention and gratitude. It's choosing to really see your partner when they're tired from work rather than just noting their mood. It's finding ways to connect during grocery shopping—sharing observations, inside jokes, or gentle touch while navigating the cereal aisle. It's creating small rituals that honor even mundane transitions: a specific way you greet each other at the end of workdays, or how you share the day's small victories and challenges while preparing dinner together. The magic isn't in the activities themselves but in bringing full presence and tender awareness to whatever you're already doing side by side.
+
+**Wedding Wisdom**
+Your wedding celebration should practice this same alchemy—finding profound meaning in simple moments of shared presence rather than requiring elaborate productions to feel deeply connected.
+
+**Tomorrow's Question** — If you discovered that your marriage's deepest security would come not from your partner's promises about forever but from knowing you can both skillfully navigate the inevitable moments when one of you doesn't feel loving, what would that change about the vows you're preparing to make?`,
+    parable: `Dove sat in Nana Rose's garden, watching Elm tend to the herb patch with quiet concentration. "Look at him," she murmured to the elder woman. "He makes even weeding look peaceful. Sometimes I worry that I need everything to be special, magical. What if I can't find enough wonder in just... Tuesday?"
+
+Nana Rose smiled, her weathered hands working yarn into intricate patterns. "Child, let me tell you about the Hendersons. Married sixty-three years. I planned their wedding—simple church ceremony, reception in the parish hall. Nothing fancy." Her needles clicked softly. "But I've watched them at the grocery store, at doctor's appointments, sitting on their porch. The way Harold still opens car doors, how Margaret touches his shoulder when she passes his chair. They've made an art of ordinary devotion."
+
+Elm approached, dirt on his knees, carrying a handful of fresh basil. Without words, he offered a sprig to Dove, who inhaled its sharp sweetness. "This is what I mean," Nana Rose continued. "He didn't bring you roses. He brought you Tuesday's harvest, and you received it like communion. That's the secret—not making life extraordinary, but recognizing the extraordinary that's already present."
+
+Dove felt tears prick her eyes as Elm settled beside her, their shoulders touching in comfortable familiarity. "Most couples spend decades seeking perfect moments," Nana Rose observed. "The wise ones learn to perfect their attention to ordinary moments. They discover that love isn't something that happens to them—it's something they create, again and again, in the space between washing dishes and checking the mail."
+
+The three sat in companionable silence, watching late afternoon light filter through ordinary leaves, transforming everything it touched into gold.
+
+**Moral**: *The sacred is not found by escaping the ordinary but by bringing extraordinary presence to whatever is already here.*
+
+**Tomorrow**: *We'll explore what happens when love feels absent—and how the wisest couples prepare for those inevitable seasons...*`,
+  },
 ];

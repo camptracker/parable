@@ -4941,4 +4941,68 @@ Tova understood then that her greatest gift to her crew would not be her experti
 
 *Tomorrow, Tova will discover that the most dangerous waters are not those unmarked on any chart, but those where crews have never learned to read the signs for themselves...*`,
   },
+  {
+    day: 79,
+    title: "The Wisdom of Incomplete Maps",
+    date: "2026-05-16",
+    image: "images/leadership/day-79.jpg",
+    audio: "audio/leadership/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Wisdom of Incomplete Maps**
+
+When charts show coastlines drawn with certain hand,
+The navigator learns to trace and follow,
+But when the parchment bears no marked command,
+The soul must fill each void and unmarked hollow.
+The captain who provides each detailed course
+May guide his crew through calm and charted seas,
+Yet robs them of their own internal force
+To read the stars and trust the changing breeze.
+For confidence that's built on others' knowing
+Will crumble when the storm clouds hide the shore,
+But wisdom earned through independent going
+Stands firm when maps exist and work no more.
+*The truest strength emerges from the dark*
+*When sailors learn to be their own landmark.*`,
+    standard: `👥 Day 79: The Wisdom of Incomplete Maps
+
+This reveals that true leadership confidence isn't born from having all the answers, but from learning to navigate uncertainty with wisdom and conviction. When leaders provide too much information and guidance, they inadvertently rob their emerging leaders of the opportunity to develop the internal compass and decision-making muscles that only come from wrestling with ambiguity and taking responsibility for choices made with incomplete data.
+
+🧱 **The Concept**
+The most profound leadership development happens when people are forced to make important decisions with limited information, not when they're given comprehensive data and detailed instructions.
+
+❓ **Why It Matters**
+Leaders who constantly provide complete information and detailed guidance create dependency, not capability. The confidence that emerges from successfully navigating uncertainty is fundamentally different—and more valuable—than the confidence that comes from following thorough instructions. This kind of decision-making courage becomes the foundation for innovation, adaptability, and authentic leadership presence.
+
+⚙️ **How It Works**
+When faced with incomplete information, emerging leaders must rely on judgment, intuition, and core principles rather than external validation or comprehensive data. They learn to synthesize limited inputs, consider multiple perspectives, and take calculated risks—skills that no amount of training or information can teach. For example, a project manager given only the desired outcome and budget constraints (not the detailed methodology) must develop creative problem-solving and stakeholder management skills that wouldn't emerge if given a step-by-step playbook. Similarly, a team lead asked to resolve a conflict without being told the "right" answer must develop empathy, listening skills, and consensus-building capabilities that come only from wrestling with human complexity. This process builds what military leaders call "commander's intent"—the ability to make sound decisions that align with broader objectives even when circumstances change dramatically.
+
+🎯 **Leadership Wisdom**
+The goal isn't to prepare people for the decisions you can predict, but to develop their capacity to make wise decisions about challenges you never imagined they'd face.
+
+❓ **Tomorrow's Question**
+If you discovered that your team's most transformative growth happened not when you gave them harder challenges, but when you gave them greater authority to define what the challenges actually were, what would this reveal about the difference between pushing people toward your vision of their potential versus inviting them to discover capabilities they didn't know they possessed?`,
+    parable: `Captain Tova found Greymane studying a collection of ancient maritime charts, their edges yellowed and details deliberately obscured by time and weather.
+
+"These were my father's navigation tools," Greymane said, running weathered fingers across the incomplete coastlines. "He used to tell me that the most dangerous thing a captain could give a young navigator was a perfect map."
+
+Tova frowned, studying a chart where entire sections of ocean remained unmarked. "Surely accurate information prevents disaster?"
+
+"Watch," Greymane said, calling over Elena, one of Tova's most promising but hesitant crew members. He handed her the weathered chart and pointed to their current position. "Elena, plot a course to Coral Haven using only this."
+
+Elena's eyes widened at the chart's gaps and uncertainties. "Sir, there's so much missing information. What if I choose wrong?"
+
+"What would you do if you had no other choice?" Greymane asked gently.
+
+For the next hour, Tova watched something remarkable unfold. Without complete data, Elena began asking questions she'd never thought to pose before. She consulted the stars, observed wind patterns, spoke with seasoned sailors about their memories of these waters. She synthesized fragments of knowledge into a navigation plan that demonstrated intuition and wisdom far beyond her previous capabilities.
+
+Later, when Elena had successfully guided them through waters she'd mapped herself, Greymane turned to Tova. "I could have given her a perfect chart. She would have followed it flawlessly and learned nothing except obedience. Instead, she discovered she possesses the mind of a true navigator."
+
+"But what if she had failed?" Tova asked.
+
+"Then she would have learned something even more valuable—how to recover from failure with wisdom intact. The leaders you're developing must learn to trust their own judgment when the maps run out, because they always will."
+
+**Moral:** *True leadership capability emerges not from following perfect instructions, but from learning to navigate wisely when the path is unclear.*
+
+*Tomorrow: When the greatest growth comes not from harder challenges, but from greater authority to define the challenge itself...*`,
+  },
 ];
