@@ -931,4 +931,71 @@ Asha nodded, understanding that her discomfort with her child's boredom had been
 
 *Tomorrow, Elder Mira will help Asha understand why making things easier for children often makes life harder for them in the long run.*`,
   },
+  {
+    day: 16,
+    title: "The Medicine of Discomfort",
+    date: "2026-05-17",
+    image: "images/raising-kids/day-16.jpg",
+    audio: "audio/raising-kids/day-16",
+    sonnet: `**🪶 Sonnet XVI: The Medicine of Discomfort**
+
+When tender hearts face trials steep and hard,
+We rush to shield them from each painful sting,
+Yet in our haste to keep them unscarred,
+We clip the very wings that strength would bring.
+
+The butterfly must struggle through its case
+To pump its wings with power for the sky;
+Without that fight, it falls from grace to grace,
+Too weak to soar, too fragile not to die.
+
+So too our children need the weight of choice,
+The blessed burden of their own mistakes,
+To find within themselves their truest voice
+And learn what courage in the darkness takes.
+
+*For comfort's gift, though sweet, can make them small—*
+*'Tis struggling through that makes them strong and tall.*`,
+    standard: `👶 Day 16: The Medicine of Discomfort
+
+We smooth the path for our children because their discomfort triggers our own unhealed relationship with struggle—we rescue them from the very experiences that built our own strength. Our impulse to eliminate their challenges often reflects our unconscious belief that love means protection from all difficulty, when true love sometimes means allowing the difficulty that teaches resilience.
+
+🧱 **The Concept**
+Discomfort is not the enemy of childhood development—it's the essential catalyst that builds emotional strength, problem-solving skills, and self-trust.
+
+❓ **Why It Matters**
+When we constantly shield children from discomfort, we inadvertently communicate that they're not capable of handling life's inevitable challenges. This protective impulse, while well-meaning, can create anxiety and learned helplessness rather than resilience.
+
+⚙️ **How It Works**
+Children build emotional muscles the same way they build physical ones—through appropriate stress and recovery. When a toddler struggles to put on their shoes, the frustration teaches persistence. When a teenager faces friendship drama, working through it builds social intelligence. When we rush in with solutions, we rob them of these growth opportunities. The key is distinguishing between struggles that teach (age-appropriate challenges) and those that overwhelm (trauma or developmentally inappropriate stressors). Our role shifts from problem-solver to supportive presence: "This is hard, and you can handle hard things."
+
+🎯 **Parenting Wisdom**
+Comfort and growth live on opposite sides of the fence—we cannot give our children both simultaneously, but we can give them the security to venture into growth.
+
+❓ **Tomorrow's Question**
+If children are naturally resilient and designed to recover from setbacks, why do we often treat their tears and frustrations as emergencies to be fixed rather than information to be understood, and what might our urgency to stop their emotional expression be costing them in terms of emotional intelligence?`,
+    parable: `Asha found Elder Mira in her garden, watching a small bird repeatedly attempt to fly from a low branch. Each time, the fledgling would flutter frantically before tumbling to the soft earth below.
+
+"Shouldn't we help it?" Asha asked, reaching toward the struggling creature.
+
+Mira gently caught her hand. "Watch," she said simply.
+
+The bird gathered itself again, determination bright in its tiny eyes. This time, it managed a few shaky wingbeats before landing more gracefully. "But it's suffering," Asha protested. "We could lift it to safety."
+
+"To safety, yes," Mira nodded, "but not to strength. That little one must build its flight muscles through struggle, just as your child must build emotional muscles through their own small difficulties."
+
+Asha thought of yesterday, when her son had cried over a puzzle piece that wouldn't fit. She had immediately stepped in to help, unable to bear his frustration. "But his tears break my heart," she whispered.
+
+"Ah," Mira smiled knowingly, "and there lies the deeper truth. We rescue our children from discomfort not because they cannot handle it, but because we cannot handle watching them struggle. We mistake their temporary discomfort for permanent damage, forgetting that diamonds are formed under pressure."
+
+The bird tried once more, this time achieving a brief, wobbly flight to the next branch. Its triumph was evident in every feather.
+
+"Love sometimes wears the mask of allowing difficulty," Mira continued. "When we constantly smooth their path, we tell them they are fragile. When we stay present through their struggles without rescuing, we tell them they are capable."
+
+As they watched the bird gain confidence with each attempt, Asha understood: her son's tears were not a signal for emergency intervention, but information about growth happening in real time.
+
+**Moral:** The medicine of discomfort builds the immunity of resilience—when we allow appropriate struggle, we gift our children with unshakeable self-trust.
+
+*Tomorrow, we explore why the very tears we rush to stop might be the keys to emotional wisdom we're meant to witness, not fix...*`,
+  },
 ];

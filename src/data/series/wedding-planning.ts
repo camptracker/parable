@@ -4776,4 +4776,60 @@ The three sat in companionable silence, watching late afternoon light filter thr
 
 **Tomorrow**: *We'll explore what happens when love feels absent—and how the wisest couples prepare for those inevitable seasons...*`,
   },
+  {
+    day: 77,
+    title: "The Sacred Resilience",
+    date: "2026-05-17",
+    image: "images/wedding-planning/day-77.jpg",
+    audio: "audio/wedding-planning/day-77",
+    sonnet: `**🪶 Sonnet LXXVII: The Sacred Resilience**
+
+When winter winds assail the marriage tree,
+And leaves of passion fall like dying embers,
+The couples who endure adversity
+Are those whose love through seasons still remembers
+To tend the roots in soil of daily care,
+To prune away the deadwood of old hurt,
+To water trust when drought fills bitter air,
+And plant new seeds in previously barren dirt.
+For storms will come to test what love has built—
+Not gentle rain but tempests wild and fierce.
+The houses built on sand will surely wilt,
+But rock foundations let no wind to pierce.
+*True love's not proven in the sunny weather,*
+*But in the choice to bend, not break, together.*`,
+    standard: `💍 Day 77: The Sacred Resilience
+
+If marriage's security comes from navigating unloving moments skillfully, your vows would shift from promising perpetual feelings to promising perpetual presence—vowing to show up with curiosity rather than defensiveness when love feels distant, and committing to the practices that rebuild connection rather than just the hope that it will naturally endure. This transforms vows from romantic declarations into practical commitments to the messy, beautiful work of staying married.
+
+**🧱 The Concept**
+True marital resilience isn't built on avoiding difficulties but on developing the capacity to move through them together with grace.
+
+**❓ Why It Matters**
+Every marriage will face seasons of disconnection, stress, and even temporary dislike. Couples who build resilience practices before they need them create relationships that can weather any storm. Those who rely solely on feeling good about each other become fragile when feelings inevitably fluctuate.
+
+**⚙️ How It Works**
+Resilient couples develop specific skills: they practice repair conversations after every argument, no matter how small; they create weekly check-ins to address issues before they fester; they establish agreements about how to communicate when triggered; they build habits of appreciation that continue even during difficult seasons; and most importantly, they treat disconnection as information to investigate together rather than evidence that something is fundamentally wrong. For example, instead of "You never listen to me" becoming a character attack, it becomes "I'm feeling unheard—can we figure out what's happening here?" This approach transforms problems into collaborative projects.
+
+**🎯 Wedding Wisdom**
+Design your marriage for resilience, not just romance—the ability to bounce back together matters more than never falling down.
+
+**❓ Tomorrow's Question**
+If you discovered that your marriage's greatest gift to the world would come not from your happiness together but from your ability to love each other well through genuine hardship, what would that change about your fears of marital difficulties, and what would it reveal about whether you're seeking comfort or choosing to become the kind of love that transforms whatever it touches?`,
+    parable: `Dove sat in Nana Rose's garden, watching storm clouds gather on the horizon. "What if we're not strong enough?" she whispered, her voice barely audible above the rising wind. "What if when things get really hard, we just... break?"
+
+Nana Rose continued pruning her roses, her weathered hands moving with practiced precision even as the first drops began to fall. "Child, look at this garden. Every winter, these roses appear to die completely—leaves gone, stems looking brittle and lifeless. Yet every spring, they return stronger than before."
+
+Elm appeared in the doorway, holding two cups of tea and watching the approaching storm with calm eyes. "The roses don't survive winter by avoiding it," he observed, settling beside Dove as the rain began in earnest. "They survive by going dormant, conserving their energy, trusting their roots."
+
+"Exactly," Nana Rose said, moving her pruning shears to a particularly thick stem. "And marriages are the same. The couples who last aren't the ones who never face storms—they're the ones who've learned to weather them together." She made a clean cut, removing dead wood to make space for new growth. "They develop deep root systems during the good times: daily kindnesses, weekly conversations, monthly adventures, yearly dreams. When the storms come—and they will come—those roots hold."
+
+Dove watched the rain intensify, no longer feeling frightened but oddly comforted. "So resilience isn't about being unbreakable?"
+
+"Resilience is about being bendable," Nana Rose smiled, gathering her tools as they retreated inside. "The mightiest oak can be uprooted by the hurricane, but the willow that bends with the wind survives to dance another day."
+
+**Moral:** True strength in marriage comes not from avoiding life's storms but from developing the flexibility and deep roots that allow love to bend without breaking.
+
+**Tomorrow:** Dove and Elm discover how their greatest gift as a couple might not be their happiness but their ability to transform hardship into wisdom.`,
+  },
 ];

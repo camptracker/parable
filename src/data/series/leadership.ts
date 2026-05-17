@@ -5005,4 +5005,78 @@ Later, when Elena had successfully guided them through waters she'd mapped herse
 
 *Tomorrow: When the greatest growth comes not from harder challenges, but from greater authority to define the challenge itself...*`,
   },
+  {
+    day: 80,
+    title: "The University of Uncertainty",
+    date: "2026-05-17",
+    image: "images/leadership/day-80.jpg",
+    audio: "audio/leadership/day-80",
+    sonnet: `**🪶 Sonnet LXXX: The University of Uncertainty**
+
+In fog-wrapped harbors where the wise ships sail,
+No lighthouse beam can teach the captain's art,
+For those who wait for winds to tell their tale
+Never learn to trust their beating heart.
+
+The greatest schools have neither desk nor door,
+But challenge students in the unknown deep,
+Where textbook wisdom matters less than more—
+The courage to make choices others sleep.
+
+Through murky waters, uncertain tides that turn,
+Each navigator finds their inner guide,
+Not from the maps that others helped them learn,
+But from the compass they discovered inside.
+
+*When leaders stop providing every chart,*
+*Their people learn to trust their sailor's heart.*`,
+    standard: `👥 Day 80: **The University of Uncertainty**
+
+🧱 **The Concept**
+The most transformative leadership development happens not in classrooms or training programs, but in the messy, uncertain moments where people must discover their own capabilities without a safety net.
+
+❓ **Why It Matters**
+Traditional development approaches often create leaders who can perform well in predictable scenarios but crumble when faced with novel challenges. True leadership emerges from wrestling with ambiguity, making decisions with incomplete information, and discovering inner resources that formal training cannot teach.
+
+⚙️ **How It Works**
+Instead of providing step-by-step guidance for every situation, exceptional leaders create what might be called "productive uncertainty" — situations where team members must rely on their judgment, intuition, and problem-solving abilities. This might mean giving someone a critical project with broad objectives but minimal prescriptive direction, or rotating people through roles where they lack expertise but possess the fundamental thinking skills to figure it out. The key is ensuring the uncertainty is challenging but not overwhelming — like giving someone a map with some landmarks but asking them to find their own route. When people successfully navigate these uncertain territories, they don't just accomplish tasks; they discover capabilities they didn't know they possessed and develop the confidence to tackle future unknowns.
+
+🎯 **Leadership Wisdom**
+The most capable leaders are those who learned to lead themselves through uncertainty before they ever had to lead others through it.
+
+❓ **Tomorrow's Question** — If you discovered that your most capable team members consistently trace their confidence back to moments when you refused to rescue them from challenges they initially believed were beyond their abilities, what would this reveal about the relationship between your protective instincts and their need to discover their own strength, and which current situations might require you to step back rather than step in?`,
+    parable: `Captain Tova found Admiral Greymane standing at the harbor's edge, watching fishing boats navigate the morning fog without the aid of lighthouse beacons.
+
+"The fog will burn off soon," Tova observed, joining him. "They should wait for clear visibility."
+
+Greymane smiled knowingly. "Watch the experienced captains. See how they move with confidence even when they cannot see the shore?"
+
+Tova studied the boats. Indeed, some moved with deliberate purpose while others hesitated, engines idling uncertainly. "The confident ones... they've learned to read currents, wind patterns, the sound of waves against rocks."
+
+"Precisely. Now tell me, Captain — how did they acquire such skills?"
+
+"Practice, I suppose. Years of navigating in all conditions."
+
+"But what if they had always waited for perfect visibility? What if mentors had always guided them through radio calls, providing turn-by-turn directions?"
+
+Tova felt understanding dawn. "They would never have developed their own navigation instincts. They'd remain dependent on external guidance."
+
+Greymane nodded toward her ship, where her crew worked with newfound confidence. "Remember your first week as captain? You consulted me constantly, seeking approval for every decision."
+
+"You were frustratingly unhelpful," Tova laughed. "You kept saying 'What does your judgment tell you?'"
+
+"And now?"
+
+"Now I trust my own compass." She paused, realizing the deeper implication. "But I've been doing to my crew what I wanted you to do for me — providing too much direction, too much certainty."
+
+"The greatest teachers are not those who eliminate uncertainty, but those who help others navigate it with wisdom," Greymane reflected. "Your crew has stopped asking for permission because they've learned to trust their own judgment. That's the university of uncertainty at work."
+
+As if summoned by their conversation, First Mate Chen approached. "Captain, we've encountered an unexpected supply shortage for tomorrow's voyage. I have three potential solutions, but each carries different risks. Rather than seeking your approval, I wanted to share my analysis and proposed course of action."
+
+Tova exchanged a meaningful glance with Greymane. Chen had evolved from seeking answers to presenting thoughtful recommendations.
+
+**Moral**: *The finest leaders graduate their followers from the school of dependency to the university of uncertainty, where real capability is discovered not in the safety of known solutions, but in the courage to navigate uncharted waters with wisdom as their compass.*
+
+*Tomorrow, we explore how the greatest leadership development happens not when we provide people with all the tools they might need, but when we trust them to discover which tools they actually require...*`,
+  },
 ];

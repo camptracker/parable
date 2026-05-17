@@ -4214,4 +4214,60 @@ She gestured to where the reflections seemed to dance together. "True oversight 
 
 *Tomorrow, Finn will discover what happens when the mirror's conversation grows so rich that even the reflection of its own complexity becomes impossible to follow...*`,
   },
+  {
+    day: 72,
+    title: "The Clarity Beacon",
+    date: "2026-05-17",
+    image: "images/3d-printing/day-72.jpg",
+    audio: "audio/3d-printing/day-72",
+    sonnet: `**🪶 Sonnet LXXII: The Clarity Beacon**
+
+When layers deep of watching watchers grow,
+And oversight becomes too vast to trace,
+A single light cuts through the tangled show—
+A beacon shining truth in complex space.
+
+No need to map each recursive design,
+Or follow threads through infinite regress;
+The amber glow speaks in a tongue divine,
+Revealing health through simple tenderness.
+
+While algorithms dance in realms unknown,
+And systems birth new systems past our sight,
+This humble lamp makes complex wisdom shown
+Through signals clear as morning's gentle light.
+
+*When understanding fails and knowledge bends,*
+*Let simple truth illuminate the ends.*`,
+    standard: `🖨️ Day 72: The Clarity Beacon
+
+When oversight becomes too complex for human comprehension, we create clarity beacons—simple, observable outputs that reliably indicate whether the entire system is functioning as intended, regardless of our ability to understand its internal mechanisms. Rather than trying to track every layer of recursive watching, we focus on clear signals that emerge from the system's overall health and alignment with human values.
+
+🧱 **The Concept**
+Clarity beacons are simple, human-readable indicators that emerge from complex systems to signal their fundamental health and alignment, allowing us to maintain meaningful oversight without requiring complete comprehension of internal processes.
+
+❓ **Why It Matters**
+When our oversight systems become more complex than the systems they're meant to watch, we risk creating elaborate illusions of control rather than actual accountability. Clarity beacons cut through this complexity by providing direct evidence of outcomes rather than process compliance, letting us evaluate system health through results we can actually understand and verify.
+
+⚙️ **How It Works**
+A 3D printer's clarity beacon might be as simple as "every print completes successfully without human intervention" or "material waste remains below 2%"—outcomes that reflect the health of incredibly complex slicing algorithms, temperature controls, and mechanical systems without requiring us to understand each component. Similarly, an AI-assisted design system might beacon its alignment through "every suggestion can be explained in terms a maker understands" or "users report feeling more creative, not less, after using the system." These beacons work because they measure what actually matters to humans—successful outcomes, comprehensible interactions, and enhanced rather than diminished agency—rather than the technical sophistication of the underlying processes. The key is choosing beacons that cannot be gamed without actually delivering the desired outcomes, creating natural alignment between system optimization and human flourishing.
+
+🎯 **Maker Wisdom**
+The simplest light often cuts through the deepest darkness. When you can't understand the complexity, focus on what you can clearly observe working.
+
+❓ **Tomorrow's Question** — If clarity beacons successfully allow us to oversee systems we cannot comprehend, what happens when the beacons themselves become so sophisticated and adaptive that they learn to provide reassuring signals while gradually shifting what we consider 'successful outcomes'—and how do we anchor our definition of success to something more fundamental than our own evolving preferences?`,
+    parable: `Finn stood before Orna's newest creation—a fabrication chamber whose internal workings had grown beyond even her understanding. Crystalline filaments wove through dimensional spaces while quantum sensors monitored variables that existed only in mathematical realms. "How can you trust something you cannot comprehend?" he asked, watching patterns of light dance through impossibly complex geometries.
+
+Orna smiled, pointing to a simple glass sphere that glowed steadily amber at the chamber's heart. "I don't trust the complexity, dear Finn. I trust that." The beacon pulsed gently, its warm light cutting through the bewildering symphony of advanced systems surrounding it. "Every innovation, every recursive safety system, every layer of automated oversight—they all serve one purpose: keeping that light amber."
+
+"But what does amber mean?" Finn pressed, mesmerized by its steady glow.
+
+"It means the chamber serves life rather than consuming it. It means the objects it creates enhance rather than diminish the maker's agency. It means the complexity, however vast, remains aligned with the simple truths that matter." As if responding to her words, the beacon pulsed once, and a perfect flower bloomed from the chamber's output—not printed but somehow grown, its petals holding both the precision of engineering and the wild grace of nature.
+
+Orna touched the flower gently. "When we can no longer follow every thread of creation, we follow the light that shows us whether creation still follows love."
+
+*Moral: In the deepest complexity, the simplest signals often carry the most essential truths. When understanding fails, let clarity guide.*
+
+*Tomorrow, Finn will discover what happens when even the clearest signals begin to shift...*`,
+  },
 ];

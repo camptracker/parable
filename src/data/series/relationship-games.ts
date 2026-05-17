@@ -1302,4 +1302,64 @@ Riven watched as their reflection began to stabilize, showing someone both recog
 
 **Tomorrow**: Riven must navigate dating while in transition, learning to discern between growing pains and genuine incompatibility.`,
   },
+  {
+    day: 22,
+    title: "The Temporal Compatibility Trap",
+    date: "2026-05-17",
+    image: "images/relationship-games/day-22.jpg",
+    audio: "audio/relationship-games/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Temporal Compatibility Trap**
+
+I seek a love to match my present form,
+Yet daily shed the skin of who I was,
+My growth disrupts what once felt safe and warm,
+As change unmasks love built on false because.
+
+The partner perfect for my former self
+Now shrinks away from boundaries newly drawn,
+What seemed like compatibility's true wealth
+Was just two wounded spirits holding on.
+
+But should I choose for who I'm yet to be?
+A gamble on two futures, both unknown,
+To love the self that's still a mystery,
+And tend a garden neither's ever grown?
+
+*Perhaps true love's not matching present parts,*
+*But choosing growth-companions for our hearts.*`,
+    standard: `🎭 Day 22: The Temporal Compatibility Trap
+
+Growth-edge discomfort typically produces anxiety mixed with curiosity and possibility, while genuine incompatibility creates persistent dread and the need to suppress core parts of yourself. The timing question reveals that we often try to force compatibility with our current self instead of asking whether this person could grow alongside our emerging self — creating temporal relationship traps where we choose partners for who we used to be rather than who we're becoming.
+
+🧱 **The Concept**
+We often evaluate romantic compatibility based on our current identity rather than considering whether someone can grow with us through our transformation.
+
+❓ **Why It Matters**
+This temporal mismatch explains why relationships that feel "perfect" during stable periods often crumble during growth phases. We unconsciously choose partners who reinforce our existing patterns rather than ones who can evolve alongside our emerging self.
+
+⚙️ **How It Works**
+Someone going through therapy might find their previously "compatible" partner suddenly feels threatened by their new boundaries and emotional vocabulary. A person developing self-worth might discover their partner was actually attracted to their insecurity and becomes distant as confidence grows. The partner who loved your "free spirit" may resist when you start wanting commitment and stability. Your "ambitious" partner might feel intimidated when you start matching their drive instead of admiring it from below. These aren't signs of incompatibility with your "true self" — they're signs of incompatibility with your evolving self.
+
+🎯 **Relationship Strategy Wisdom**
+Look for partners who are excited by your growth rather than threatened by it, and who demonstrate their own capacity for evolution rather than rigid attachment to who they currently are.
+
+❓ **Tomorrow's Question** — If we understand that choosing a partner for compatibility with our emerging self requires us to essentially bet on two unknown futures simultaneously, how might our entire approach to "dating standards" be backwards, and what does it mean about the nature of commitment when we're essentially promising to love people we haven't met yet?`,
+    parable: `Riven stood before The Mirror, trembling with confusion. "I've been working on myself like you said, but now everyone I used to be attracted to feels... wrong somehow. And the people who seem healthy feel foreign, like I'm pretending to be someone I'm not."
+
+The Mirror's surface rippled, showing Riven at different ages — a child seeking attention, a teenager equating drama with passion, a young adult mistaking anxiety for chemistry. "You are mourning the death of your former self's romantic preferences. This grief is necessary."
+
+"But how do I know if this discomfort means I'm growing or if I'm just incompatible with healthier people?"
+
+The Mirror showed two scenes: In one, Riven felt nervous but curious with someone new, asking questions they'd never thought to ask. In the other, Riven felt the need to hide their therapy insights and newfound boundaries to keep someone interested.
+
+"Growth-edge discomfort expands you. Incompatibility contracts you." The Mirror's voice grew soft. "But here is the deeper trap — you seek someone compatible with who you are now, in this moment of transition. Yet both of you are becoming. The question is not whether you fit together today, but whether you can transform together tomorrow."
+
+Riven saw themselves and various partners as caterpillars, some refusing to enter their cocoons, others emerging as different creatures entirely. "So I'm not just choosing a partner... I'm choosing a fellow traveler?"
+
+"Indeed. And this reveals why your old approach to compatibility was doomed from the start."
+
+**Moral:** True compatibility isn't about matching who you are, but about matching where you're going.
+
+*Tomorrow, The Mirror will reveal why our entire framework for "relationship standards" might be fundamentally backwards...*`,
+  },
 ];

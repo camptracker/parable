@@ -191,4 +191,57 @@ Maren smiled sadly. "Love was a luxury the worthy could rarely afford. Marriage 
 
 *Tomorrow, we shall discover how love eventually challenged this ancient order...*`,
   },
+  {
+    day: 4,
+    title: "The Forbidden Flame — How Love Conquered Kingdoms",
+    date: "2026-05-17",
+    image: "images/history-of-weddings/day-4.jpg",
+    audio: "audio/history-of-weddings/day-4",
+    sonnet: `**🪶 Sonnet IV: The Forbidden Flame — How Love Conquered Kingdoms**
+
+In castle halls where gold and bloodline reigned,
+A whispered song of hearts began to grow,
+As troubadours sang love could not be chained
+By family wealth or ancient dynastic show.
+The Renaissance unfurled its gilded wing,
+While Shakespeare penned that love should conquer all,
+And common folk who earned their bread could sing
+Of choosing hearts that answered passion's call.
+The Reformation freed the searching soul,
+Enlightenment proclaimed each person's right,
+While city wages made the young heart whole—
+No longer bound by patrimony's might.
+*Thus flame by flame, through centuries it spread,*
+*Until love's fire consumed tradition's dread.*`,
+    standard: `💒 Day 4: The Forbidden Flame — How Love Conquered Kingdoms
+
+The romantic revolution didn't happen overnight—it was ignited by medieval courtly love poetry, fanned by Renaissance literature celebrating individual choice, and exploded during the Enlightenment when personal liberty became a cultural obsession. Economic prosperity also played a crucial role: as the middle class grew wealthy enough to marry without parental financial support, young people gained the freedom to follow their hearts rather than family fortunes.
+
+🧱 **The Concept**
+The shift from arranged marriages to love matches was a gradual cultural revolution spanning centuries, driven by literature, philosophy, and economic independence.
+
+❓ **Why It Matters**
+This transformation didn't just change how people chose spouses—it fundamentally altered the meaning of marriage itself, shifting it from a political and economic institution to an emotional and spiritual union. Understanding this evolution reveals how deeply our modern wedding traditions are rooted in rebellion against ancient customs.
+
+⚙️ **How It Works**
+The change began in 12th-century France with **courtly love** poetry that idealized romantic passion, even outside marriage. Renaissance writers like Shakespeare popularized the notion that true love should triumph over parental authority. The Protestant Reformation emphasized individual conscience and personal relationship with God, extending to personal choice in marriage. By the 18th-century Enlightenment, philosophers argued that personal happiness was a fundamental right. Simultaneously, urbanization and trade created wealth independent of family land holdings, giving young people economic freedom to marry for love. The **Industrial Revolution** completed this transformation by moving marriage decisions from the family farm to the factory town, where young people earned their own wages and chose their own partners.
+
+🎯 **Wedding History Wisdom**
+Every modern wedding celebration is a victory ceremony for the radical idea that love should triumph over logic, economics, and family expectations.
+
+❓ **Tomorrow's Question** — If love marriages represented such a dramatic break from tradition, why do so many of our cherished wedding customs—like white dresses, veils, and rings—still come directly from those ancient arranged-marriage ceremonies that love was supposed to replace?`,
+    parable: `Celeste sat in Elder Maren's study, surrounded by towering shelves of yellowed manuscripts and faded portraits of brides from centuries past. "But how?" she asked, her voice barely above a whisper. "How did something as fragile as love overcome something as powerful as family wealth and political alliances?"
+
+Elder Maren smiled, pulling down a leather-bound volume of medieval poetry. "My dear, it was not a battle won in a single day, but a quiet revolution that unfolded across centuries." Her weathered fingers traced the illuminated letters of an ancient love song. "It began here, in the courts of medieval France, where troubadours sang of a love so pure it could move mountains—and eventually, it did."
+
+She opened another tome, revealing Shakespeare's sonnets. "Literature planted the seeds. Each poem, each play that celebrated love over duty was like a small flame passed from heart to heart. The Renaissance taught people to value individual choice, while the Reformation reminded them that personal conviction mattered more than inherited tradition."
+
+Celeste leaned forward as Elder Maren spread out a map showing trade routes. "But the true catalyst was economic freedom. When young people could earn their own bread in bustling cities rather than depending on family farms, they gained something more precious than gold—the power to choose their own destiny."
+
+The old historian's eyes twinkled. "Love didn't conquer by force, child. It conquered by making itself indispensable to human happiness."
+
+**Moral:** True revolutions happen not through violence, but through the gradual awakening of human hearts to new possibilities for joy.
+
+*Tomorrow, discover why love may have won the war, but tradition still rules the wedding day...*`,
+  },
 ];

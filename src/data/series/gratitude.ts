@@ -1500,4 +1500,64 @@ As they walked back through the grove, Hana noticed she was naturally appreciati
 
 *Tomorrow, we discover why the deepest gratitude often seeks no witness...*`,
   },
+  {
+    day: 25,
+    title: "The Hidden Garden",
+    date: "2026-05-17",
+    image: "images/gratitude/day-25.jpg",
+    audio: "audio/gratitude/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Hidden Garden**
+
+Beneath the earth where no eyes dare to see,
+The deepest roots drink from eternal streams,
+While surface blooms dance for society,
+Their beauty borrowed from others' fleeting dreams.
+
+In shadow's realm where silence holds its court,
+True gratitude takes root in sacred soil,
+Unwitnessed by the world's applauding sport,
+Yet rich with nectar from authentic toil.
+
+The flowers praised in daylight's bright parade
+Grow shallow, seeking validation's light,
+But hidden gardens that in darkness stayed
+Bloom with a fragrance powerful and bright.
+
+*For in the secret chambers of the heart,*
+*Appreciation becomes its truest art.*`,
+    standard: `🙏 Day 25: The Hidden Garden
+
+Our pride in visible gratitude often reveals that we're unconsciously performing appreciation rather than embodying it, confusing the applause for our practice with the practice itself. True gratitude grows in darkness like roots, unseen and uncelebrated, while performative gratitude seeks the sunlight of recognition, mistaking external validation for internal transformation.
+
+🧱 **The Concept**
+Authentic gratitude practice happens in the invisible moments—the private thank-yous, the silent appreciations, the inner shifts that no one witnesses or applauds.
+
+❓ **Why It Matters**
+When gratitude becomes performance, it loses its transformative power and becomes another way we seek validation rather than genuine connection. The most profound appreciation often occurs in solitude, where there's no audience to impress and no social reward to gain.
+
+⚙️ **How It Works**
+Real gratitude transformation happens in the quiet moments: feeling thankful for your morning coffee before checking your phone, appreciating your breath during a difficult conversation without mentioning it, or silently blessing a stranger who'll never know. These invisible practices create neural pathways without the ego's interference. Unlike public gratitude posts or vocal appreciation that can become performative, private gratitude moments allow you to experience pure appreciation without the contamination of seeking approval. The hidden garden of gratitude grows strongest when tended in secret, where the only witness is your own heart.
+
+🎯 **Gratitude Wisdom**
+The deepest appreciation blooms in darkness, unseen by others but felt in every cell of your being.
+
+❓ **Tomorrow's Question** — If the most transformative gratitude happens when no one is watching, why do we often struggle to maintain our practice during periods when life feels ordinary or unremarkable, and what does this reveal about whether we're addicted to gratitude's emotional highs rather than its subtle, steady medicine?`,
+    parable: `Hana discovered Elder Thorn in the monastery's forgotten garden at dawn, tending plants that grew in complete shadow behind the main building. No morning light touched this hidden space, yet the flowers here bloomed more vibrantly than those in the celebrated front gardens that visitors admired.
+
+"Master," Hana whispered, "why do you work here where no one can see your efforts?"
+
+Elder Thorn continued his careful watering, his weathered hands gentle with each stem. "Child, I once tended only the visible gardens, ensuring every bloom would earn praise from those who passed. I counted compliments like coins, measuring my worth by others' admiration of my work."
+
+He knelt beside a magnificent flower that grew in pure shadow. "But these plants taught me something profound. They receive no applause, no recognition, no social media posts celebrating their beauty. Yet they bloom with an authenticity that the front garden flowers—always performing for passersby—can never match."
+
+Hana touched a petal, amazed by its silken strength. "How do they grow so beautiful without sunlight?"
+
+"They grow by moonlight, by dewfall, by the secret nutrients in soil that daylight gardens never access. Their roots reach deeper because they're not distracted by the surface attention that visible plants receive." Elder Thorn's eyes sparkled with understanding. "So too with gratitude. The appreciation that grows in private, witnessed only by your own heart, develops roots that public gratitude cannot touch."
+
+As the sun rose, Hana noticed something remarkable: the hidden garden's fragrance was intoxicating, far richer than the showy blooms in the main courtyard.
+
+**Moral:** The most profound transformations occur in the darkness of privacy, where authenticity can bloom without the corrupting influence of an audience.
+
+*Tomorrow, Elder Thorn will reveal why even the most dedicated practitioners sometimes abandon their inner gardens when life becomes mundane...*`,
+  },
 ];

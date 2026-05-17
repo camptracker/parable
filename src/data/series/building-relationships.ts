@@ -4925,4 +4925,67 @@ Ash took Lume's hand, and both felt the difference immediately—they were no lo
 
 **Tomorrow's teaser:** In the depths of feeling, Ash and Lume would discover that some emotions had been waiting not just to be felt, but to be given a voice...`,
   },
+  {
+    day: 80,
+    title: "The Underground Parliament — When Exiled Emotions Demand Their Seat at the Table",
+    date: "2026-05-17",
+    image: "images/building-relationships/day-80.jpg",
+    audio: "audio/building-relationships/day-80",
+    sonnet: `**🪶 Sonnet LXXX: The Underground Parliament**
+
+Beneath the bridge where conscious feelings meet,
+A shadow parliament convenes in secret,
+With banished anger, disappointment's beat,
+And raw desire deemed too wild, too indiscreet.
+
+These exiled emotions, voted down by fear,
+Organize resistance in the darkness,
+Growing stronger with each suppressed tear,
+Plotting revolution 'gainst love's starkness.
+
+The rational above debates with care,
+While underground the real power brokers
+Influence every choice, every prayer,
+Turning lovers into unconscious chokers.
+
+*What feelings have you sent to shadow's realm?*
+*Invite them home before they overwhelm.*`,
+    standard: `💕 Day 80: The Underground Parliament — When Exiled Emotions Demand Their Seat at the Table
+
+When you suspend majority rule and give minority feelings a voice, you discover that the "difficult" emotions you've been voting down aren't actually destructive forces—they're underground politicians carrying vital information about unmet needs, crossed boundaries, and authentic desires. The partner whose anger, disappointment, or raw desire has been consistently outvoted often becomes the "silent majority" whose emotional experience goes underground, creating a shadow government of unexpressed truth that eventually destabilizes the whole system.
+
+**🧱 The Concept**
+Every relationship contains an "underground parliament" where the emotions deemed too risky, inconvenient, or threatening for public discourse continue to meet in secret, growing stronger and more organized in the shadows.
+
+**❓ Why It Matters**
+When we systematically exclude certain emotions from our relationship's "acceptable discourse," we don't eliminate them—we radicalize them. The feelings we refuse to hear become the very forces that eventually overthrow the careful peace we've constructed. What starts as emotional suppression often ends as emotional revolution.
+
+**⚙️ How It Works**
+The underground parliament operates through subtle rebellion: passive-aggressive comments during dinner, mysterious emotional withdrawal, sudden explosions that seem to come from nowhere, or the slow erosion of intimacy as authentic expression goes into hiding. For example, a partner whose disappointment about career decisions gets consistently "talked through" with rational optimism may stop sharing professional struggles entirely, creating distance in an area that was once connected. Or someone whose desire for adventure gets repeatedly voted down by practical concerns may begin fantasizing about other lives, other people, other possibilities. The emotions don't disappear—they simply organize resistance movements.
+
+**🎯 Relationship Wisdom**
+The feelings you exile from your relationship's conscious discourse don't leave—they form a shadow government that will eventually demand representation.
+
+**❓ Tomorrow's Question**
+If you discovered that your relationship has been unconsciously operating like a "emotional gentrification project" where you've systematically made your shared space more comfortable by displacing the messy, inconvenient, or "undesirable" aspects of your authentic selves to create a more polished version of love—what would you realize about the difference between refining your relationship versus sanitizing it, and what wild, untamed part of your connection would need to be invited back home before it becomes permanently homeless?`,
+    parable: `As Ash and Lume approached the Bridge of Vows for their eightieth day of lessons, they noticed something unusual. Elder Rynn was not alone at his customary post. Gathered around him were shadowy figures—emotions that had been banished from conscious discourse, now holding their own parliament in the misty space beneath the bridge.
+
+"Ah," Elder Rynn smiled as the travelers approached, "you've arrived just as the Underground Parliament convenes. Come, witness what happens when exiled feelings demand their voice."
+
+Ash watched in fascination as the shadow of Anger stood to address the assembly. "For months, I have been voted down every time I tried to speak about the unfairness of always being the one to compromise. So I have worked in secret, creating small rebellions—forgotten anniversaries, withheld affection, mysterious irritability."
+
+Lume saw her own shadow of Disappointment rise next. "And I have been organizing too. Every time my sadness about our abandoned dreams was rationalized away with practical wisdom, I grew stronger in the darkness. Now I influence every conversation about the future with subtle pessimism."
+
+Elder Rynn gestured to the bridge above, where conscious emotions held their daily meetings. "See how polite and productive their parliament appears? Yet beneath, the real power brokers plot their revolution. The feelings we refuse to govern consciously will govern us unconsciously."
+
+"But how do we invite them back without chaos?" Ash asked, watching the shadow emotions grow more animated in their assembly.
+
+"Simple," Elder Rynn replied. "You grant them amnesty and representation. You say to your partner: 'What feelings have we been voting down that deserve a voice? What emotions have we sent underground that are now running a shadow government in our relationship?'"
+
+As they watched, some of the shadow emotions began to ascend toward the bridge's surface, no longer needing to meet in secret.
+
+**Moral**: The emotions we exile from our relationship's consciousness don't disappear—they form an underground government that eventually destabilizes the very peace we thought we were protecting.
+
+**Tomorrow**: Elder Rynn will reveal how some couples unknowingly gentrify their love, creating beautiful but soulless relationships.`,
+  },
 ];
