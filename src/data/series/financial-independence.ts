@@ -5672,4 +5672,72 @@ Kael watched a quiet revolution unfold in his understanding. The village's most 
 
 *Tomorrow, Kael will discover why the very platforms designed to share knowledge might be destroying the wisdom they claim to provide...*`,
   },
+  {
+    day: 87,
+    title: "The Signal-to-Noise Revolution",
+    date: "2026-05-18",
+    image: "images/financial-independence/day-87.jpg",
+    audio: "audio/financial-independence/day-87",
+    sonnet: `**🪶 Sonnet LXXXVII: The Signal-to-Noise Revolution**
+
+In marketplaces of mind where loud voices sell,
+The quiet truth lies buried beneath noise,
+While wisdom whispers what it knows full well—
+That patience conquers all the market's ploys.
+
+The merchant's stage draws crowds with flashy charts,
+Promising secrets to unlock quick wealth,
+Yet steady farmers tend their humble arts
+And harvest more through disciplined stealth.
+
+For signal drowns in oceans of false sound,
+While those who seek the simple, boring way
+Discover treasures others never found
+By filtering out what leads most minds astray.
+
+*The greatest fortunes grow in silence deep,*
+*While noise-drunk investors lose more than they reap.*`,
+    standard: `💰 Day 87: The Signal-to-Noise Revolution
+
+Our information economy is fundamentally designed as an attention marketplace, where loudness and engagement metrics determine reach rather than accuracy or wisdom. This creates a systematic inversion where the most valuable knowledge—often quiet, boring, and requiring reflection—gets buried beneath an avalanche of exciting misinformation that drives clicks and shares.
+
+🧱 **The Concept**
+The signal-to-noise ratio in financial information has collapsed, creating unprecedented opportunity for those who can filter truth from entertainment.
+
+❓ **Why It Matters**
+While most investors drown in financial noise—market predictions, hot stock tips, cryptocurrency hype, and economic doomsaying—the fundamental principles of wealth-building remain unchanged and largely ignored. This information pollution creates a massive advantage for anyone disciplined enough to focus on signal while others chase noise.
+
+⚙️ **How It Works**
+Every day, millions of words are published about investing, yet the core message remains boringly consistent: spend less than you earn, invest the difference in diversified index funds, and wait decades. This simple truth can't compete with headlines like "10 Stocks That Will Double in 2024" or "The Coming Market Crash: How to Protect Yourself." Meanwhile, those following the quiet wisdom continue building wealth systematically. The noise creates opportunity because it keeps most people from taking the obvious actions that would improve their financial position. Social media algorithms amplify whatever generates strong emotional responses—fear, greed, outrage, excitement—while boring wealth-building content gets minimal distribution.
+
+🎯 **Buffett Wisdom**
+"The stock market is designed to transfer money from the Active to the Patient." The same principle applies to information: financial media is designed to transfer attention from the effective to the entertaining.
+
+❓ **Tomorrow's Question** — If the most valuable financial information is systematically suppressed by attention-based distribution systems, and we know this intellectually but still find ourselves consuming financial media daily, what does this reveal about the addictive nature of financial information itself, and why might the need to feel informed be preventing us from becoming wealthy?`,
+    parable: `The village square buzzed with unprecedented activity. A traveling merchant had erected a grand stage where he performed elaborate demonstrations with colorful charts and mystical predictions about next season's harvest prices. Crowds gathered daily, mesmerized by his theatrical presentations about "secret trading patterns" and "hidden market forces."
+
+Kael found himself drawn to the spectacle, notebook in hand, frantically scribbling the merchant's rapid-fire insights. The man spoke with such confidence, such authority—surely this was where real financial wisdom lived.
+
+After a week of attending these performances, Kael approached Sable, confused. "Elder, why don't you attend the merchant's presentations? He knows things about markets that I've never heard before."
+
+Sable smiled gently. "Tell me, young one, what has changed about Tobren's farming since this merchant arrived?"
+
+Kael paused. "Nothing, I suppose. Tobren still plants at the same time, tends his crops the same way, harvests when ready."
+
+"And his yields?"
+
+"Still the most consistent in the village."
+
+"The merchant's knowledge is like seasoning on spoiled meat," Sable explained. "It makes the rotten taste interesting, but adds no nourishment. Tobren follows principles as old as agriculture itself—plant good seeds, tend them consistently, harvest patiently. No amount of theatrical predictions can improve upon this foundation."
+
+Kael looked back at the crowd surrounding the merchant's stage. "But why do so many people listen to him instead of learning from Tobren?"
+
+"Because Tobren's wisdom cannot compete with entertainment. His knowledge is quiet, requiring reflection and discipline. The merchant's knowledge is loud, requiring only attention and excitement. Our minds are drawn to noise like moths to flame, even when the darkness beyond holds greater treasure."
+
+That evening, Kael visited Tobren's farm. The old farmer was quietly mending tools by lamplight, preparing for tomorrow's work. No audience, no fanfare—just steady preparation for steady results.
+
+**Moral:** The most valuable knowledge whispers while worthless information shouts. Wisdom cannot compete with entertainment in the marketplace of attention, creating extraordinary opportunity for those disciplined enough to seek truth in quiet places.
+
+**Tomorrow:** Kael discovers why his constant need to feel informed might be the very thing preventing his prosperity.`,
+  },
 ];

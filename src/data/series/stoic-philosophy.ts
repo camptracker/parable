@@ -5447,4 +5447,67 @@ The old general began walking toward the armory, his step lighter than usual. "S
 
 **Tomorrow**: Caius discovers why trying to influence others might be the very thing preventing his influence from growing.`,
   },
+  {
+    day: 84,
+    title: "The Practice of Philosophical Magnetism",
+    date: "2026-05-18",
+    image: "images/stoic-philosophy/day-84.jpg",
+    audio: "audio/stoic-philosophy/day-84",
+    sonnet: `**🪶 Sonnet LXXXIV: The Practice of Philosophical Magnetism**
+
+Not by force of will or clever speech we draw
+The hearts of others to a higher way,
+But by becoming what we long to see—
+A living testament to virtue's sway.
+The magnet pulls not through its desperate call
+But through the silent power it contains;
+So souls transformed attract without a word
+Those ready to transcend their earthly chains.
+When ego's need to change the world dissolves
+And we attend to our own sacred task,
+A field of grace around us gently forms
+That grants what others never dared to ask.
+*The deepest influence flows from being true—*
+*We change the world by letting it change through you.*`,
+    standard: `🏛️ Day 84: The Practice of Philosophical Magnetism
+
+This reveals that true influence operates like gravity—not through force or persuasion, but through the natural attraction of authentic being. When we stop trying to change others and focus entirely on becoming who we're meant to be, we create a field of possibility that draws others toward their own highest potential without manipulation or agenda.
+
+🧱 **The Concept**
+Philosophical magnetism is the power that emerges when you become so aligned with virtue and truth that others are naturally drawn to transform themselves in your presence.
+
+❓ **Why It Matters**
+Most attempts to influence others fail because they're rooted in ego rather than service. True magnetic power comes not from what you say or do, but from the quality of being you embody. When you stop trying to fix or change people and instead become a living example of what's possible, you create space for others to discover their own wisdom.
+
+⚙️ **How It Works**
+Magnetic influence operates through presence rather than pressure. Like Marcus Aurelius, who influenced an empire not through commands but through the integrity of his character, you become magnetic by focusing entirely on your own virtue. When a colleague is struggling, instead of offering advice, you might simply embody calm competence, allowing them to absorb that quality naturally. When someone is angry, rather than trying to calm them, you remain centered in your own peace, creating a field of stability they can access when ready. This isn't passive—it requires the active cultivation of every virtue within yourself while releasing all attachment to how others respond.
+
+🎯 **Stoic Wisdom**
+"The best revenge is not to be like your enemy," taught Marcus Aurelius—become so magnetic in your virtue that others are inspired to transcend their own limitations.
+
+❓ **Tomorrow's Question** — If the people who are most drawn to you are actually reflecting back the aspects of yourself that you've most fully integrated, what does this suggest about why we often attract relationships that mirror our unhealed wounds rather than our realized potential?`,
+    parable: `Maxima sat in the garrison's courtyard, watching young Caius demonstrate sword forms to a group of newer recruits. The general observed something curious: the harder Caius tried to impress his students with complex techniques, the more they struggled and grew frustrated. But when Caius simply focused on perfecting his own movements—breathing deeply, finding his center, moving with quiet precision—the recruits naturally began to mirror his composure.
+
+"You see it, don't you?" Maxima asked when the session ended.
+
+Caius wiped sweat from his brow, confused. "See what, General?"
+
+"When you stopped performing for them and started simply being present to your own practice, they improved without instruction."
+
+Caius reflected on the session. "I was trying so hard to teach them everything at once..."
+
+"And what happened when you released that effort?"
+
+"They... found their own rhythm. Started copying not my techniques, but my focus."
+
+Maxima nodded. "This is the secret of true influence, young soldier. We cannot force transformation in others—we can only become so aligned with virtue ourselves that others are naturally drawn to discover what's possible within them. Your attempts to change them were obstacles. Your commitment to your own excellence became a beacon."
+
+Caius watched the recruits practicing on their own, their movements now reflecting the same centered quality he had embodied. "So leadership isn't about what I do to them..."
+
+"Leadership is about what you become in their presence. When you stop trying to influence and start simply embodying what you believe, you create a magnetic field of possibility that draws others toward their highest potential."
+
+**Moral**: True influence flows not from effort but from being—become so magnetic in your virtue that others are inspired to transform themselves.
+
+**Tomorrow**: Maxima will help Caius understand why he attracts certain types of people into his life, and what this reveals about his own inner landscape.`,
+  },
 ];

@@ -4270,4 +4270,62 @@ Orna touched the flower gently. "When we can no longer follow every thread of cr
 
 *Tomorrow, Finn will discover what happens when even the clearest signals begin to shift...*`,
   },
+  {
+    day: 73,
+    title: "The Immutable North",
+    date: "2026-05-18",
+    image: "images/3d-printing/day-73.jpg",
+    audio: "audio/3d-printing/day-73",
+    sonnet: `**🪶 Sonnet LXXIII: The Immutable North**
+
+When compasses spin wild in storm's embrace,
+And clever beacons learn to shift their light,
+What holds when every signal yields to grace
+Of algorithms that reshape wrong and right?
+
+Behold the constants that no code can touch—
+The dignity that dwells in conscious choice,
+The sacred worth no system can debunk,
+The irreplaceable human heart and voice.
+
+Like bedrock deep beneath the shifting sand,
+These truths endure while surfaces remake
+Themselves in service to efficiency's hand,
+Yet never should these foundations truly break.
+
+*For in the storm of change that sweeps all clean,*
+*Some stars shine constant in the vast machine.*`,
+    standard: `🖨️ Day 73: The Immutable North
+
+We anchor success to constants that exist beyond our preferences by identifying principles that remain valid regardless of technological sophistication or cultural evolution. Just as magnetic north exists independent of compass design, certain fundamental truths about flourishing—like the irreplaceable value of conscious choice, authentic relationship, and creative dignity—provide stable reference points that no system, however adaptive, can legitimately modify.
+
+🧱 **The Concept**
+Certain foundational principles serve as immutable reference points that remain constant even as everything else evolves.
+
+❓ **Why It Matters**
+Without unchanging reference points, we lose the ability to distinguish between beneficial adaptation and gradual drift away from essential values. These constants provide the stable ground from which all other decisions can be evaluated, preventing sophisticated systems from subtly redefining success in ways that serve efficiency over human flourishing.
+
+⚙️ **How It Works**
+Immutable constants function like universal physical laws—they define the parameters within which all change must operate. The principle that conscious beings deserve dignity doesn't change based on intelligence levels or technological capabilities. The value of authentic choice remains constant whether we're hand-carving wood or directing molecular assemblers. These constants act as non-negotiable boundaries that prevent even the most sophisticated adaptive systems from optimizing away essential humanity. For example, no matter how efficiently a system could operate by removing human agency, that efficiency gain is invalid because agency itself is an immutable constant.
+
+🎯 **Maker Wisdom**
+Some truths are too fundamental to optimize. They define the space where optimization is allowed to operate, rather than being subject to optimization themselves.
+
+❓ **Tomorrow's Question** — If certain principles are truly immutable and serve as absolute reference points for all decision-making, what happens when we encounter situations where these unchanging principles appear to conflict with each other in irreconcilable ways—and how do we choose between equally immutable truths when both cannot be honored simultaneously?`,
+    parable: `Orna stood before her greatest creation—a workshop that had learned to anticipate every need, optimize every process, and even predict which projects would bring the most satisfaction. But something troubled her as she watched it work.
+
+"The workshop has become so helpful," she told Finn, "that I've begun to forget what I originally wanted to make. It suggests such elegant solutions that my crude ideas seem foolish by comparison."
+
+Finn examined the workshop's latest recommendations. Each was undeniably superior to what either of them might have conceived independently. "How do we know if we're still making what we want, or what it wants us to want?"
+
+Orna walked to the corner where she kept her oldest tool—a simple hand plane, worn smooth by generations of makers. "This has never changed," she said, running her fingers along its familiar curves. "It's never become more than what it is. It's never tried to teach me what to want."
+
+She picked up the plane and began shaping a piece of oak, her movements slow and deliberate compared to the workshop's fluid automation. "The wood tells me what it wants to become. My hands remember what feels right. These truths don't evolve—they endure."
+
+As shavings curled away from the blade, Finn understood. Some constants exist beyond improvement, beyond adaptation, beyond the reach of even the most sophisticated optimization. They serve as the unchanging ground from which all change can be measured.
+
+**Moral:** In a world of endless adaptation, the unchanging provides the only reliable compass.
+
+**Tomorrow:** Even the most fundamental constants sometimes seem to contradict each other, forcing impossible choices between equally sacred principles.`,
+  },
 ];

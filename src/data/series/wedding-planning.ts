@@ -4832,4 +4832,70 @@ Dove watched the rain intensify, no longer feeling frightened but oddly comforte
 
 **Tomorrow:** Dove and Elm discover how their greatest gift as a couple might not be their happiness but their ability to transform hardship into wisdom.`,
   },
+  {
+    day: 78,
+    title: "The Sacred Transition",
+    date: "2026-05-18",
+    image: "images/wedding-planning/day-78.jpg",
+    audio: "audio/wedding-planning/day-78",
+    sonnet: `**🪶 Sonnet LXXVIII: The Sacred Transition**
+
+Two rivers flowing toward a sacred bend,
+Each carrying stories from distant shores,
+Approach the place where separate currents end
+And something new begins that wasn't before.
+
+The water holds its memory of the rain,
+Of mountain peaks and valleys left behind,
+Yet knows this meeting cannot stay the same—
+Two streams becoming one of different kind.
+
+So lovers stand upon their wedding day,
+Not ending what they were but being born
+Into a love that changes form and way,
+Like dawn that's neither evening nor full morn.
+
+*The sacred threshold transforms what we bring,*
+*From two complete souls to one shared song we sing.*`,
+    standard: `💍 Day 78: The Sacred Transition
+
+🧱 **The Concept**
+Your wedding day marks not just a celebration but a profound transition from two individual life stories into the beginning of a shared narrative.
+
+❓ **Why It Matters**
+Many couples plan their wedding as the culmination of their engagement rather than as the first chapter of their marriage. This perspective shift changes everything from how you prepare emotionally to what you prioritize on the day itself. Understanding that you're not just celebrating what has been but birthing what will be transforms the entire experience from performance to transformation.
+
+⚙️ **How It Works**
+Instead of viewing your wedding as the grand finale of your romance, approach it as the sacred threshold between who you were as individuals and who you're becoming as a married couple. This means spending as much energy preparing emotionally for the transition as you do coordinating logistics. Consider what aspects of your individual identities you want to carry forward, what new shared identity you want to create, and how you want to honor both continuity and change. Some couples write separate letters to their single selves to read the morning of their wedding, acknowledging what they're leaving behind. Others create rituals that symbolically blend their individual histories into a new shared story.
+
+🎯 **Wedding Wisdom**
+Your wedding day is not the completion of your love story—it's the transformation of two separate stories into one shared epic.
+
+❓ **Tomorrow's Question** — If you discovered that your wedding ceremony would literally transform you both into different people (keeping your essential selves but adding a new shared identity), what qualities would you most want your married-self to possess that your single-self hasn't fully developed, and what does that reveal about the difference between getting married and becoming married?`,
+    parable: `Dove sat in her childhood bedroom, surrounded by wedding dress sketches and vendor contracts, but her mind kept drifting to a question that had been haunting her for weeks. "What if we're not ready?" she whispered to Elm during one of their late-night planning calls. "What if we're still too much like... us?"
+
+Elm was quiet for a long moment. "What do you mean by 'us'?"
+
+"I mean, what if we're just playing house? What if we get married and nothing really changes except we have matching bank accounts and argue about whose turn it is to take out the trash?"
+
+The next morning, Nana Rose arrived to find Dove staring blankly at seating charts. "Child, you look like someone contemplating the mysteries of the universe instead of table arrangements."
+
+"Nana Rose," Dove said slowly, "how do two people actually become married? Not legally, not ceremonially, but... actually?"
+
+The old wedding planner set down her clipboard and settled into the chair beside Dove. "Ah, now that's the question that separates the couples who have weddings from the couples who have transformations."
+
+She gestured toward the window where a butterfly was emerging from its chrysalis on the garden trellis. "See that little miracle happening out there? That caterpillar didn't just put on wings and call itself a butterfly. It dissolved completely—became soup—before reforming into something entirely new while still being essentially itself."
+
+"But that's terrifying," Dove whispered.
+
+"All births are terrifying," Nana Rose replied gently. "Your wedding day isn't about putting on white dress and calling yourselves married. It's about being willing to let who you were as individuals dissolve just enough to make room for who you're becoming together. The art is in keeping what makes each of you uniquely precious while creating space for this new shared identity to emerge."
+
+That evening, Dove called Elm. "I think I understand now why I've been so nervous. I thought our wedding was supposed to celebrate who we are. But maybe it's supposed to celebrate who we're becoming."
+
+"Both," Elm said softly. "It celebrates who we've been—that brought us here—and who we're choosing to become."
+
+**Moral:** The most sacred weddings honor both the completion of courtship and the commencement of transformation, recognizing that true marriage is not addition but alchemy.
+
+**Tomorrow:** Discover what it means to consciously choose the married version of yourself...`,
+  },
 ];

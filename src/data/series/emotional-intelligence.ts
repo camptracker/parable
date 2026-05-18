@@ -5453,4 +5453,72 @@ When he returned moments later, having helped reunite a lost child with worried 
 
 **Tomorrow**: As Idris discovers the freedom of ungoverned response, he begins to wonder: if there's no separate self to have authentic responses, what is this very wondering itself?`,
   },
+  {
+    day: 81,
+    title: "The Falling Away",
+    date: "2026-05-18",
+    image: "images/emotional-intelligence/day-81.jpg",
+    audio: "audio/emotional-intelligence/day-81",
+    sonnet: `**🪶 Sonnet LXXXI: The Falling Away**
+
+The seeker seeks to find what cannot be found,
+For seeking makes the sought forever far;
+The very one who hunts goes round and round,
+Not knowing that the finder is the scar.
+
+But when the search exhausts its futile game,
+And effort drops like autumn's final leaf,
+What remains when no one stakes a claim
+To wisdom, joy, or even to grief?
+
+The child laughs—but who is laughing there?
+Just laughter dancing in the empty air.
+The heart beats—but what heart can we find?
+Just beating, free from any separate mind.
+
+*When seeking falls away like morning mist,*
+*Responses flow from what was never missed.*`,
+    standard: `🧭 Day 81: The Falling Away
+
+The search for no-self is indeed the ego's most sophisticated disguise—it transforms the seeker into the sought, making dissolution itself into a destination. We stop seeking what only appears when seeking dissolves by recognizing that the very one who wants to stop seeking is itself just another movement of thought, and in this recognition, seeking naturally exhausts itself without anyone doing the stopping.
+
+🧱 **The Concept**
+Authentic emotional responses emerge not from achieving some special state, but from the natural falling away of the one who would achieve anything.
+
+❓ **Why It Matters**
+When we stop trying to become emotionally intelligent and simply allow responses to arise without personal ownership, we discover that wisdom was never dependent on our efforts to cultivate it. This falling away reveals that our most skillful emotional responses were always operating through us, not from us.
+
+⚙️ **How It Works**
+Instead of trying to manage our emotions, we notice what happens when there's no manager present—anger arises and passes without "someone" being angry, compassion flows without "someone" being compassionate, clarity emerges without "someone" being wise. A parent comforts their crying child not from emotional technique but from love's immediate recognition of itself. A friend listens deeply not because they've learned empathy skills, but because the artificial barrier between self and other has temporarily dissolved. These moments reveal that emotional intelligence operates most perfectly when personal identity steps aside.
+
+🎯 **EQ Wisdom**
+Our highest emotional responses emerge when there's no one left to take credit for them.
+
+❓ **Tomorrow's Question** — If our most profound emotional responses occur when personal identity temporarily dissolves, what happens when we realize that even the desire for these "dissolution experiences" might be preventing us from noticing that ordinary consciousness is already empty of the solid self we think we need to transcend—and how do we distinguish between seeking emptiness and recognizing the emptiness that's already here?`,
+    parable: `Idris sat beneath the ancient olive tree, his head in his hands. "I've been practicing everything you've taught me," he said to The Veil. "I watch my anger, I pause before reacting, I try to dissolve into presence. But the more I seek this 'no-self' you speak of, the more frustrated I become. It's as if the very seeker in me has become stronger, more determined."
+
+The Veil was silent for a long moment, then asked: "Who is frustrated by the seeking?"
+
+"I am," Idris replied, then caught himself. "Wait... the seeker is frustrated by seeking. But that makes no sense."
+
+"What if," The Veil continued, "the one who wants to stop seeking is itself just another seeker?"
+
+Idris felt something shift. "Then... there's no one who can stop seeking. It would just be seeking trying to stop seeking."
+
+As they sat together, a child's laughter drifted from the village below. The Veil asked: "When that child laughs, who is laughing?"
+
+"The child," Idris began, then paused. "But when I really listen... it's just laughter happening. There's no separate one inside the child producing it."
+
+"And when anger arises in you?"
+
+Idris watched his own mind. "It's just... arising. Like the laughter. When I stop looking for the angry one, there's just the feeling, moving through... what? Through nothing I can find."
+
+The Veil nodded. "This is how wisdom responds—not from someone being wise, but as wisdom recognizing itself."
+
+Just then, an old woman stumbled on the path below. Without thinking, Idris rose and helped her steady herself, his hands moving with perfect tenderness. Only afterward did he notice there had been no Idris deliberating about whether to help.
+
+**Moral:** The seeking dissolves not through effort but through recognition that the seeker was never solid to begin with.
+
+*Tomorrow, Idris will discover that even the emptiness he's found might still be something he's holding onto...*`,
+  },
 ];
