@@ -5176,4 +5176,69 @@ Lila watched her master continue grinding, noting how she neither flinched from 
 
 **Tomorrow:** Maren will reveal the opposite danger—when dedication to "healing discomfort" becomes its own form of self-harm.`,
   },
+  {
+    day: 84,
+    title: "The Martyrdom Trap",
+    date: "2026-05-19",
+    image: "images/nutrition-science/day-84.jpg",
+    audio: "audio/nutrition-science/day-84",
+    sonnet: `**🪶 Sonnet LXXXIV: The Martyrdom Trap**
+
+When healing turns to hunger for the pain,
+And suffering becomes a sacred art,
+The seeker trades their wellness for the stain
+Of wounds worn proudly on a martyred heart.
+They fast beyond what body wisdom asks,
+Endure the cold that numbs instead of wakes,
+Perform increasingly punishing tasks
+While calling every stress a healing ache.
+The community applauds their discipline,
+Their hollow cheeks a crown of virtue worn,
+But vitality grows thin as medicine
+Becomes the very force that leaves them torn.
+*For healing's truth lies not in endless fight,*
+*But in the gentle bloom of life's delight.*`,
+    standard: `🍎 Day 84: The Martyrdom Trap
+
+Wellness martyrdom creates a dangerous inversion where self-harm masquerades as self-care, and the very sensitivity meant to protect you becomes the weapon that destroys you. This sophisticated form of metabolic self-betrayal is often more damaging than simple neglect because it's reinforced by spiritual bypassing and community praise for your "commitment to healing."
+
+🧱 **The Concept**
+Metabolic martyrdom occurs when someone becomes so identified with enduring discomfort for health that they lose the ability to distinguish between productive challenge and destructive stress.
+
+❓ **Why It Matters**
+This pattern is particularly insidious because it hijacks the language and community of wellness to justify continued self-harm. Unlike obvious metabolic neglect, martyrdom appears virtuous and often receives social reinforcement, making it much harder to recognize and interrupt.
+
+⚙️ **How It Works**
+The martyrdom trap begins when someone experiences genuine healing through embracing temporary discomfort—perhaps through fasting, cold exposure, or eliminating inflammatory foods. However, they begin to unconsciously equate the discomfort itself with the healing, rather than understanding that discomfort was simply a byproduct of necessary change. This leads to seeking increasingly intense interventions: longer fasts, more extreme temperatures, more restrictive diets. The person starts wearing their suffering as a badge of honor, interpreting their body's stress signals as evidence of their spiritual commitment rather than biological warning signs. They may continue punishing protocols long after they've stopped serving, justified by beliefs about "detox reactions" or "healing crises" that can explain away any symptom.
+
+🎯 **Science Wisdom**
+True metabolic wisdom recognizes that healing should ultimately lead to greater ease and vitality, not endless endurance of suffering.
+
+❓ **Tomorrow's Question** — *If metabolic martyrdom can be so seductive precisely because it provides meaning and identity through suffering, what happens when someone's entire sense of self becomes dependent on having metabolic problems to heroically overcome—and why might this unconscious investment in remaining broken actually sabotage every healing intervention they attempt?*`,
+    parable: `Lila found Maren at her eastern hearth, tending a fire that burned too hot and too bright. The flames licked dangerously high, consuming wood faster than seemed necessary, casting harsh shadows that made even familiar objects appear threatening.
+
+"Master," Lila began carefully, "yesterday you spoke of distinguishing healing discomfort from harm. But what of those who seem to seek suffering itself?"
+
+Maren's eyes remained fixed on the fire as she spoke. "Watch closely, apprentice. See how this flame devours everything I feed it? Yesterday, this hearth was cold and needed awakening. I fed it kindling, then larger wood, breathing life into ember until warmth returned. But now..." She gestured at the roaring blaze. "Now it serves nothing but its own hunger."
+
+"I don't understand," Lila said, stepping back from the heat.
+
+"In the village, there was once a woman named Kira," Maren continued, still feeding logs to the greedy flames. "She had suffered long from stomach pains that no healer could touch. Then she discovered that avoiding certain foods brought relief. The healing was real, the discomfort of change necessary."
+
+"That sounds wise," Lila offered.
+
+Maren nodded grimly. "It was. But Kira began to believe that the discomfort itself was the medicine. First she eliminated ten foods, then twenty, then fifty. She fasted for longer and longer periods. The village praised her discipline, her spiritual commitment. She wore her hollow cheeks like a crown."
+
+"What happened to her?"
+
+"She forgot the purpose was to feel better, not to prove her worthiness through suffering." Maren finally turned from the fire, her face flushed from the heat. "Like this flame, her healing became a monster that consumed everything—her energy, her joy, her very life force—while she called it sacred."
+
+Lila watched the fire rage. "How do you know when healing becomes harm?"
+
+"True healing," Maren said, finally banking the flames, "leads to greater vitality, not endless endurance of suffering. When your medicine requires you to sacrifice your life force on its altar, you are no longer healing—you are feeding a different kind of sickness."
+
+**Moral:** *The most dangerous metabolic trap is not ignorance, but the corruption of wisdom into a weapon against the self.*
+
+**Tomorrow:** *Discover why some people become unconsciously invested in staying metabolically broken...*`,
+  },
 ];

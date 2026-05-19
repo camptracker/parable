@@ -5023,4 +5023,66 @@ Ironmere's eyes gleamed with ancient wisdom. "When a builder reaches true master
 
 **Tomorrow**: But what happens when even the most trusted foundations must prove they can crack?`,
   },
+  {
+    day: 83,
+    title: "The Fallibility Reset Engine",
+    date: "2026-05-19",
+    image: "images/how-to-scale/day-83.jpg",
+    audio: "audio/how-to-scale/day-83",
+    sonnet: `**🪶 Sonnet LXXXIII: The Fallibility Reset Engine**
+
+When mastery crowns the builder's trusted hand,
+And years of victories pile stone on stone,
+The architect forgets what failures planned—
+That wisdom grows through error, not alone.
+
+So wise companies cast deliberate doubt
+On leaders who have earned infallible fame,
+And force their certainties to venture out
+Where humble ignorance can stake its claim.
+
+The greatest generals must learn to lose,
+The surest judges must be proven wrong,
+For minds that never question what they choose
+Grow brittle though their track records seem strong.
+
+*Reset the pride that perfect trust can breed—*
+*The strongest trees still bend before they lead.*`,
+    standard: `🚀 Day 83: The Fallibility Reset Engine
+
+Successful companies force their most trusted leaders to prove they can be wrong because **infallibility breeds dangerous isolation** — when leaders never have to question their assumptions, they lose the ability to recognize when their trusted judgment no longer matches reality. These fallibility breach protocols aren't about punishment; they're about **cognitive maintenance** that prevents expertise from calcifying into blindness.
+
+🧱 **The Concept**
+The most enduring organizations periodically force their most trusted leaders through "**fallibility reset engines**" — structured experiences designed to demonstrate that their judgment can fail in specific, consequential ways.
+
+❓ **Why It Matters**
+When leaders achieve permanent trust status, they often stop receiving genuine feedback and begin operating in decision-making bubbles. Their expertise becomes brittle because it's no longer tested against disconfirming evidence. **Fallibility resets** restore intellectual humility and reconnect leaders with their capacity for error.
+
+⚙️ **How It Works**
+Google's "**Project Aristotle**" periodically requires even their most senior technical leaders to solve problems outside their expertise domains while junior team members observe and provide feedback. Amazon forces VP-level leaders through "**Day 1 simulations**" where they must make decisions with incomplete information in unfamiliar market contexts. Netflix requires their most trusted content executives to pitch ideas to focus groups of teenagers who have permission to be brutally honest. These aren't punitive exercises — they're **cognitive calibration** that maintains decision-making accuracy.
+
+🎯 **Scaling Wisdom**
+**Leaders who can still be wrong are more valuable than leaders who are always right.** Fallibility reset engines ensure your most trusted decision-makers retain the intellectual flexibility that made them trustworthy in the first place.
+
+❓ **Tomorrow's Question** — If fallibility reset engines successfully restore intellectual humility and prevent leadership blindness, why do the most successful companies eventually establish "reset immunity" periods where their most important leaders are completely protected from any fallibility exercises, even during their most critical strategic decision-making moments?`,
+    parable: `Vex found Ironmere standing before his greatest architectural achievement — the Eternal Bridge, a marvel of engineering that had spanned the great chasm for thirty years without requiring a single repair.
+
+"Master," Vex said, "surely this bridge proves that some of your designs are beyond question?"
+
+Ironmere picked up a small stone and hurled it at one of the bridge's support pillars. The sound rang clear and true. "I built this bridge," he said, "and I designed it to last forever. But every year, I throw stones at it."
+
+"To test its strength?"
+
+"To test my arrogance." Ironmere selected another stone. "The year I stop throwing stones is the year I become too proud to discover that I built a weakness into my greatest achievement. The bridge doesn't need these tests — *I* do."
+
+Vex watched as the old architect continued his ritual, each thrown stone a deliberate challenge to his own past judgment.
+
+"When I was young," Ironmere continued, "I believed that mastery meant never being wrong. I learned that mastery means staying capable of being wrong. The moment I cannot imagine how this bridge might fail is the moment I become blind to the ways it actually will."
+
+The final stone struck true, its echo carrying across the chasm like a bell.
+
+**Moral:** *The greatest architects periodically attack their own monuments, not to destroy them, but to preserve their ability to see flaws that success has hidden.*
+
+*Tomorrow: When even the stone-throwers must be protected...*`,
+  },
 ];

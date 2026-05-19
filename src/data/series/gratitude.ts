@@ -1621,4 +1621,68 @@ Hana looked at the well with new eyes, seeing suddenly the miracle of water flow
 
 **Tomorrow:** Elder Thorn will reveal why we need external reminders to notice what's already everywhere around us.`,
   },
+  {
+    day: 27,
+    title: "The Sovereign Attention",
+    date: "2026-05-19",
+    image: "images/gratitude/day-27.jpg",
+    audio: "audio/gratitude/day-27",
+    sonnet: `**🪶 Sonnet XXVII: The Sovereign Attention**
+
+No master of a realm can rule by chance,
+Nor leave his kingdom's borders undefended,
+Yet we surrender mind's vast expanse
+To every whim by which we're attended.
+
+The phone's bright flash, the worry's urgent call,
+The racing thought that drags us from this place—
+We bow before these tyrants, one and all,
+And wonder why we can't find gratitude's grace.
+
+But sovereign souls direct their precious gaze
+Like gardeners choosing where to plant their seed,
+Not waiting for the world to show its praise,
+But finding wonder in the simplest deed.
+
+*When you reclaim the throne of your awareness,*
+*Each moment blooms with grateful preparedness.*`,
+    standard: `🙏 Day 27: The Sovereign Attention
+
+We need external prompts for gratitude because our attention has become externally governed rather than internally sovereign. Like a muscle that's been supported by crutches, our awareness has grown dependent on reminders, notifications, and structured practices to direct our focus. This dependence reveals that we've unknowingly surrendered the throne of our own consciousness to outside forces.
+
+🧱 **The Concept**
+Sovereign attention is the capacity to direct your awareness with intention rather than being pulled around by circumstances, habits, or external triggers.
+
+❓ **Why It Matters**
+True gratitude mastery requires taking back authority over where your mind goes and when. Without sovereign attention, you remain at the mercy of whatever captures your focus, making sustained appreciation dependent on perfect conditions or constant reminders.
+
+⚙️ **How It Works**
+Sovereign attention begins with noticing when your awareness is being hijacked—by phones, worries, or mental habits—and gently reclaiming it. Instead of waiting for something beautiful to grab your attention, you deliberately place your focus on what's already present: the texture of your coffee cup, the rhythm of your breathing, the way light falls across your desk. You practice **attention sovereignty** by choosing gratitude targets rather than waiting for them to choose you. This might mean pausing mid-conversation to truly see the person speaking, or interrupting your mental to-do list to appreciate the simple fact that you have a body that carries you through the world. Each conscious redirection of attention is a small act of reclaiming your throne.
+
+🎯 **Gratitude Wisdom**
+When you govern your own attention, gratitude becomes available in any moment because you're no longer waiting for permission to notice what's already miraculous.
+
+❓ **Tomorrow's Question** — If taking sovereignty over your attention makes gratitude available anytime, why do we often resist this freedom and find ourselves secretly preferring the comfort of being attention's victim rather than its ruler?`,
+    parable: `Hana found Elder Thorn sitting motionless in the monastery's herb garden, eyes closed, surrounded by the morning's gentle chaos. Bees hummed between lavender stalks, birds called from hidden branches, and the distant sound of temple bells drifted on the wind.
+
+"Are you meditating?" Hana whispered.
+
+Elder Thorn opened his eyes with a smile. "I am practicing sovereignty," he said, his voice carrying the same quiet authority she'd heard when he directed the younger monks. "Watch."
+
+He gestured toward the garden. "Tell me what demands your attention."
+
+Hana looked around. "The bells are quite loud. And there's a butterfly that keeps—oh, now I'm watching those clouds..."
+
+"Precisely," Thorn nodded. "Your attention is being ruled by whatever shouts loudest or moves fastest. But watch this." He turned his gaze to a simple stone at his feet and held it there with the steadiness of a mountain. "Now I choose where my awareness goes. The stone becomes as fascinating as any butterfly, as worthy of attention as any bell."
+
+Hana tried to focus on her own stone, but her eyes kept darting away. "It's harder than it looks."
+
+"Because you've been trained to be attention's subject, not its sovereign," Thorn explained. "We wait for gratitude to find us instead of seeking it with the authority of a queen surveying her realm. But when you reclaim your throne, every grain of sand becomes a jewel in your crown."
+
+He stood, placing his hand gently on the stone. "The difference between a grateful person and an occasionally grateful person is this: one rules their attention, the other is ruled by it."
+
+**Moral:** True gratitude flows from sovereign attention—the courage to direct your awareness rather than be directed by it.
+
+Tomorrow, Hana will discover why claiming this sovereignty feels more threatening than liberating...`,
+  },
 ];

@@ -1426,4 +1426,60 @@ As Riven watched, the silver light began to pulse in rhythm with their own heart
 
 *Tomorrow, The Mirror will reveal why our terror of our own magnificence might be the ultimate relationship saboteur...*`,
   },
+  {
+    day: 24,
+    title: "The Sacred Terror",
+    date: "2026-05-19",
+    image: "images/relationship-games/day-24.jpg",
+    audio: "audio/relationship-games/day-24",
+    sonnet: `**🪶 Sonnet XXIV: The Sacred Terror**
+
+When love arrives to shatter what we know,
+Our ego sounds alarms of mortal threat,
+For in that mirror-soul, we start to grow
+Beyond the limits we have safely set.
+
+The helper fears the one who needs no aid,
+The broken shuns the one who sees them whole,
+Each wounded part fights hard to keep displayed
+The scars that have become their very soul.
+
+Yet in this terror lies our truest test—
+To choose expansion over known despair,
+To let love call us from our safest nest
+Into the wild expanse of who we are.
+
+*For sacred terror guards transformation's door,*
+*And through that fear lies who we're living for.*`,
+    standard: `🎭 Day 24: The Sacred Terror
+
+Our fear of ego death acts as a psychological immune system, automatically rejecting relationships that would expand us beyond recognition. When we choose partners who threaten our limited self-concept in service of unlimited potential, we're essentially choosing sacred terror over familiar suffering—trading the known prison of our current identity for the unknown freedom of who we could become.
+
+🧱 **The Concept**: We unconsciously select partners based on whether they confirm or challenge our existing identity, often choosing confirmation over transformation.
+
+❓ **Why It Matters**: The relationships that would most profoundly heal and evolve us are often the ones that feel most threatening to our current sense of self. We mistake this terror of expansion for incompatibility, when it might actually be the signal that this person could catalyze our greatest growth.
+
+⚙️ **How It Works**: When we encounter someone who sees us more clearly than we see ourselves, our ego interprets this as danger. If our identity is built around being "the helper," we might reject someone who doesn't need rescuing. If we've organized ourselves around being "damaged," we might sabotage relationships with people who see our wholeness. The parts of us that have survived through limitation will fight to preserve that limitation, even when it no longer serves us. This creates an internal civil war where our growth-seeking self battles our safety-seeking self, often with the safety-seeking self winning through unconscious sabotage.
+
+🎯 **Relationship Strategy Wisdom**: The people who scare us into our greatness might be exactly the partners we need, even when every instinct tells us to run.
+
+❓ **Tomorrow's Question** — If we can learn to recognize when our resistance to someone is actually our resistance to our own expansion, how might we need to redefine what we mean by "following our gut" in relationships—especially when our gut has been trained to avoid precisely the experiences that would set us free?`,
+    parable: `Riven stood before The Mirror, trembling as their reflection showed not their familiar face, but glimpses of who they could become—confident, whole, unafraid. "Why does this terrify me more than staying broken?" they whispered.
+
+"Because," The Mirror replied, "your wounds have become your identity. You know how to be the person who gets hurt, who needs saving, who struggles. But do you know how to be the person who thrives?"
+
+Riven thought of Alex, the partner who had recently entered their life. Alex didn't try to fix them, didn't enable their patterns, didn't play the games Riven had mastered. Instead, Alex simply... saw them. Really saw them. And expected nothing less than their full presence in return.
+
+"Alex makes me feel like I'm dying," Riven admitted. "Like everything I thought I was is dissolving."
+
+"And what if that dissolution is not death, but birth?" The Mirror asked. "What if the terror you feel in Alex's presence is not the fear of being destroyed, but the fear of being truly seen? Of being called into your magnificence?"
+
+Riven watched as their reflection shifted again, showing them choosing Alex despite the fear, choosing growth despite the unknown, choosing love that demanded their expansion rather than confirmed their limitations.
+
+"The sacred terror," The Mirror whispered, "is the guardian at the threshold of your transformation. Most turn back when they feel it. But those who walk through it discover that what they thought would kill them actually births them into who they were always meant to be."
+
+**Moral**: The relationships that threaten our small self are often the ones that summon our true self.
+
+**Tomorrow**: Riven will learn why their intuition might be their greatest enemy when it comes to choosing love...`,
+  },
 ];

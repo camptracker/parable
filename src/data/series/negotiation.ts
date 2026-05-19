@@ -5359,4 +5359,68 @@ Ren saw the fisherman struggling with his broken net further down the beach. "Th
 
 **Tomorrow:** What happens when someone must choose between their charitable self-image and the uncomfortable truth about when their generosity really appears?`,
   },
+  {
+    day: 84,
+    title: "The Virtue Crucible",
+    date: "2026-05-19",
+    image: "images/negotiation/day-84.jpg",
+    audio: "audio/negotiation/day-84",
+    sonnet: `**🪶 Sonnet LXXXIV: The Virtue Crucible**
+
+When gilded charity reveals its face
+As vanity dressed in generous disguise,
+The giver feels their virtue's fall from grace
+And desperate seeks to purge their soul of lies.
+
+No longer can they bear the bitter taste
+Of hollow gifts that fed their swollen pride,
+Their moral mirror shows the truth they faced:
+That selfless love was selfishness inside.
+
+Now authentic sacrifice they crave,
+To prove their heart beats with a truer song,
+They'll give what hurts, anonymous and brave,
+To right the moral ledger they got wrong.
+
+*For those who learn their virtue was pretense*
+*Will pay any price for genuine defense.*`,
+    standard: `🤝 Day 84: The Virtue Crucible
+
+When someone realizes their past generosity was self-serving virtue theater, they become desperate to prove their authentic goodness through genuine sacrifice. This shatters their self-image as a generous person and creates an urgent need to demonstrate real virtue—which means giving when it hurts, not when it feels good.
+
+🧱 **The Concept**
+Once someone recognizes their generosity was performative, they'll sacrifice significantly to prove their authentic virtue.
+
+❓ **Why It Matters**
+Most people's self-worth depends on believing they're genuinely good, not just performing goodness. When this illusion crumbles, they'll pay almost any price to rebuild their moral identity on authentic foundations rather than live with the knowledge that they're fundamentally selfish.
+
+⚙️ **How It Works**
+You reveal that their past giving followed a pattern: they donated when others watched, helped when it was convenient, or gave when the recipient's gratitude made them feel wonderful. Then you contrast this with true generosity—giving anonymously, helping at personal cost, or sacrificing for those who can never reciprocate. The gap between their self-image and reality creates unbearable cognitive dissonance. They'll seek opportunities to prove their authentic goodness, often through disproportionate sacrifice. A CEO might waive executive bonuses after realizing their charity galas were networking events. A mentor might offer unpaid guidance after recognizing their previous advice-giving was ego-stroking.
+
+🎯 **Negotiation Wisdom**
+People will sacrifice more to prove their virtue is real than they ever would to appear virtuous.
+
+❓ **Tomorrow's Question** — If making someone prove their authentic virtue works by threatening their moral identity, what happens when you make them feel like they're not just proving their goodness to others, but actually discovering whether they're fundamentally good or evil at their core—that this decision will reveal their soul's true nature to themselves for the first time?`,
+    parable: `Vasska found Ren counting coins in the lamplight, a troubled expression creasing the young merchant's brow. "Master, I've been thinking about what we discussed yesterday—about generosity being selfish theater. I realized something terrible about myself."
+
+"Oh?" Vasska's blind eye seemed to gleam in the shadows.
+
+"Every time I've helped someone, I made sure others knew about it. When I gave bread to beggars, I did it where my neighbors could see. When I donated to the temple, I chose the ceremonies with the largest crowds. I thought I was generous, but I was just... performing."
+
+Vasska nodded slowly. "And now?"
+
+"Now I feel like a fraud. How can I call myself good when everything I did was for my own reputation?" Ren's voice cracked with genuine anguish.
+
+"Interesting question," Vasska mused. "What would true generosity look like?"
+
+"Giving when no one watches. Helping when it costs me something real. Sacrificing for those who can never thank me or repay me." Ren's hands trembled slightly. "But Master, what if I discover I'm not capable of real goodness? What if, when it truly costs me, I choose myself every time?"
+
+Vasska leaned forward, his silver tongue catching the light. "Then you'll know who you really are, won't you? The question is: are you brave enough to find out?"
+
+Ren stared at his coins, no longer seeing their gleam but rather the mirror of his soul they represented.
+
+**Moral:** *When the mask of virtue falls away, the desperate need to prove authentic goodness makes people sacrifice far more than vanity ever could.*
+
+**Tomorrow:** *What happens when proving your virtue becomes a test of your very soul's nature?*`,
+  },
 ];

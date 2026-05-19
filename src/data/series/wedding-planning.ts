@@ -4898,4 +4898,64 @@ That evening, Dove called Elm. "I think I understand now why I've been so nervou
 
 **Tomorrow:** Discover what it means to consciously choose the married version of yourself...`,
   },
+  {
+    day: 79,
+    title: "The Sacred Integration",
+    date: "2026-05-19",
+    image: "images/wedding-planning/day-79.jpg",
+    audio: "audio/wedding-planning/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Sacred Integration**
+
+Two saplings planted in the same rich earth
+May grow as one while keeping separate roots,
+Each drawing strength from soil that gives them birth
+Yet intertwining branches, sharing fruits.
+
+So marriage weaves two spirits into one
+While honoring what makes each soul unique,
+Not merging into sameness when they're done,
+But learning how to dance and how to speak
+
+In harmony that amplifies their song,
+Where "I" expands to "we" but never dies,
+Where individual dreams grow twice as strong
+When shared through love's transforming, sacred ties.
+
+*Integration blooms where two souls freely choose*
+*To gain themselves through what they're willing to lose.*`,
+    standard: `💍 Day 79: The Sacred Integration
+
+Becoming married requires developing qualities your single self may not have fully cultivated: the capacity to hold someone else's dreams as sacred as your own, the discipline to choose love during moments when you don't feel loving, and the wisdom to see conflict as an invitation to deeper intimacy rather than a threat to connection. This transformation reveals that getting married is a single event, while becoming married is a lifelong practice of integrating two complete individuals into something greater than the sum of their parts.
+
+🧱 **The Concept**
+True marriage integration happens not when you lose yourself in another person, but when you discover parts of yourself that can only emerge through committed partnership.
+
+❓ **Why It Matters**
+Many couples focus so intensely on wedding planning that they miss the deeper preparation required for marriage integration. Without understanding how two autonomous individuals can become a unified team while maintaining their distinct identities, couples often struggle with the transition from "me" to "we" thinking.
+
+⚙️ **How It Works**
+Integration begins with recognizing that healthy marriage requires both boundaries and bridges—knowing when to maintain your individual perspective and when to surrender it for the greater good of the relationship. For example, you might discover that your natural tendency toward independence needs to be balanced with vulnerability, or that your people-pleasing instincts need to be tempered with healthy advocacy for your partnership's needs. This doesn't mean changing your core self, but rather developing new capacities that allow your authentic self to thrive within committed partnership. The wedding ceremony itself can become a ritual of conscious integration, where you publicly declare your intention to expand beyond your individual limitations while honoring what makes each of you irreplaceable.
+
+🎯 **Wedding Wisdom**
+The most beautiful weddings are those where you can witness two people consciously choosing to become larger versions of themselves through love.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage's greatest gift to the world would come not from your individual talents but from what becomes possible when those talents are woven together in service of something beyond yourselves, what shared purpose would you want your union to serve, and what does that reveal about the difference between a marriage that serves itself and one that serves life?`,
+    parable: `Dove sat in Nana Rose's garden, watching two morning glory vines that had grown together around the same trellis. "I keep wondering if I'll lose myself when Elm and I get married," she confessed. "But I also wonder if I'll somehow become more myself."
+
+Nana Rose smiled, touching one of the intertwined vines. "Notice how these two plants have grown together," she said. "Each vine maintains its own root system, its own leaves, its own essential nature. But look how they've learned to spiral upward together, creating something more beautiful than either could achieve alone."
+
+Elm arrived, carrying coffee for all three of them. "We were just talking about integration," Dove explained. "About how marriage changes us."
+
+"The most successful couples I've worked with," Nana Rose observed, "understand that marriage doesn't diminish their individuality—it requires them to develop new capacities they never knew they possessed. Dove, your natural independence will teach Elm about self-reliance. Elm, your groundedness will teach Dove about presence. But you'll both develop new abilities: the skill of thinking as 'we' without losing 'I,' the art of supporting another's dreams while pursuing your own."
+
+She pointed to where the vines had created a natural archway. "See how they've learned to share the same space without competing for light? That's integration—two complete beings choosing to grow toward something neither could create alone."
+
+Elm reached for Dove's hand. "So we're not half-people looking for completion," he said slowly. "We're whole people choosing to build something together."
+
+"Exactly," Nana Rose nodded. "Your wedding ceremony will be beautiful, but the real magic happens in the daily choice to integrate your lives—maintaining your essential selves while developing new capacities for partnership."
+
+**Moral:** True marriage integration preserves individual authenticity while developing new capacities that can only emerge through committed partnership.
+
+**Tomorrow:** Nana Rose will reveal how the strongest marriages serve purposes greater than their own happiness.`,
+  },
 ];

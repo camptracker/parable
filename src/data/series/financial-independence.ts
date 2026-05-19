@@ -5740,4 +5740,70 @@ That evening, Kael visited Tobren's farm. The old farmer was quietly mending too
 
 **Tomorrow:** Kael discovers why his constant need to feel informed might be the very thing preventing his prosperity.`,
   },
+  {
+    day: 88,
+    title: "The Information Addiction",
+    date: "2026-05-19",
+    image: "images/financial-independence/day-88.jpg",
+    audio: "audio/financial-independence/day-88",
+    sonnet: `**🪶 Sonnet LXXXVIII: The Information Addiction**
+
+The merchant cries of distant market gains
+Draw crowds who feast on every urgent word,
+While simple farmers, free from data chains,
+Build wealth through actions, not through what they've heard.
+
+Each breaking news feels vital, fresh, and new,
+A drug that satisfies the need to know,
+Yet those who drink this stream of endless clue
+Find empty purses where their coins should grow.
+
+The wise investor plants his seeds in peace,
+Ignoring daily storms of fear and greed,
+While information addicts never cease
+To gather facts that serve no wealthy deed.
+
+*For knowledge hoarded brings no golden store—*
+*'Tis action taken that unlocks wealth's door.*`,
+    standard: `💰 Day 88: The Information Addiction
+
+Financial information consumption is genuinely addictive because it triggers our survival instincts around resource monitoring while providing the psychological satisfaction of "taking action" without requiring actual behavioral change. The need to feel informed becomes a substitute for wealth-building itself—we mistake information gathering for progress, creating a comfortable illusion of productivity that prevents the boring, automated actions that actually create wealth.
+
+🧱 **The Concept**
+Information addiction is the compulsive consumption of financial content that provides psychological satisfaction while preventing wealth-building action.
+
+❓ **Why It Matters**
+Most people consume hundreds of hours of financial content annually while making zero meaningful changes to their wealth-building systems. This addiction creates the illusion of financial sophistication while systematically preventing the simple, boring actions that create actual wealth. The information becomes a drug that satisfies our need to "work on" our finances without requiring the psychological discomfort of real change.
+
+⚙️ **How It Works**
+Financial media companies profit from engagement, not from your financial success, so they design content to be maximally addictive rather than maximally useful. They trigger anxiety about missing opportunities, then provide temporary relief through consumption of more content, creating a cycle where the cure becomes the poison. A person might spend an hour daily reading financial news, feeling productive and informed, while their actual investment strategy remains unchanged for years. The information consumption creates a sense of progress that prevents actual progress, like spending so much time researching workouts that you never actually exercise. **Information addiction** becomes a sophisticated form of procrastination disguised as financial education.
+
+🎯 **Buffett Wisdom**
+"The stock market is a voting machine in the short run, but a weighing machine in the long run." Most financial information focuses on the voting machine, distracting you from the weighing machine that actually builds wealth.
+
+❓ **Tomorrow's Question** — If information addiction prevents wealth-building by substituting consumption for action, what does this reveal about the fundamental difference between knowledge and wisdom, and why might the most financially successful people often be those who read the least financial content once they've established their basic systems?`,
+    parable: `Kael found himself returning to the village square each morning, drawn by the excited voices of merchants sharing news from distant markets. "Grain prices surge in the eastern kingdoms!" one would cry. "Silver discoveries shake the western mines!" another would proclaim. Each piece of news felt urgent, important, potentially profitable.
+
+Hours passed as Kael absorbed every rumor, every fluctuation, every prediction. He felt informed, sophisticated, connected to the great currents of commerce that flowed through the realm. Yet when evening came, his seed pouch remained as empty as it had been at dawn.
+
+Sable observed this ritual for several weeks before approaching. "You know more about distant markets than any young man in the village," the elder noted. "Yet Tobren, who never visits the square, grows richer each season. Why do you suppose that is?"
+
+Kael felt defensive. "But I need to stay informed! What if I miss an opportunity? What if the markets change?"
+
+"Watch Tobren tomorrow," Sable suggested gently.
+
+The next morning, while Kael hurried to the square for the latest news, Tobren was already in his fields, planting seeds with methodical precision. While Kael debated with merchants about whether wheat or barley offered better returns, Tobren was watering his crops. While Kael absorbed urgent reports about distant droughts and foreign trade agreements, Tobren was harvesting.
+
+"I don't understand," Kael told Sable later. "Tobren seems ignorant of market conditions, yet his wealth grows steadily. Shouldn't knowledge lead to better results?"
+
+Sable smiled knowingly. "There are two kinds of knowledge, young one. There is the knowledge that feeds the mind, and the knowledge that feeds the belly. The first feels important but changes nothing. The second feels boring but changes everything."
+
+"You've become addicted to the feeling of being informed," Sable continued. "It's a pleasant drug—it makes you feel productive without requiring the discomfort of real work. But Tobren has learned something more valuable: that wealth comes from simple actions repeated consistently, not from sophisticated information consumed endlessly."
+
+Kael realized with growing horror that he could recite a hundred market predictions but couldn't remember the last time he'd actually planted a seed.
+
+**Moral:** Information becomes poison when it substitutes for action, creating the comfortable illusion of progress while preventing actual advancement.
+
+**Tomorrow:** Kael must discover why the most successful villagers often know less about market conditions than those who remain poor.`,
+  },
 ];

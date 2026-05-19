@@ -1301,4 +1301,68 @@ Quinn realized they'd been so busy trying to create magical moments that they'd 
 
 *Tomorrow, Elder Joy will reveal why the deepest attention is often the scarcest gift we give those we love most...*`,
   },
+  {
+    day: 22,
+    title: "The Guest Treatment",
+    date: "2026-05-19",
+    image: "images/relationship-play/day-22.jpg",
+    audio: "audio/relationship-play/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Guest Treatment**
+
+We greet the stranger with our brightest smile,
+Our phones set down, our questions rich and deep,
+We listen close and linger for a while,
+Their stories in our careful memory keep.
+
+But when our love walks through the very door
+That welcomed guests with such devoted care,
+We offer distraction, nothing at the core
+Of presence that we willingly did share.
+
+The honored guest receives our finest wine,
+Our softest chair, our undivided mind,
+While faithful love waits always for a sign
+Of attention that grows harder still to find.
+
+*What cruel irony that strangers claim our best,*
+*While love itself becomes the unwelcome guest.*`,
+    standard: `🎮 Day 22: The Guest Treatment
+
+We save our best for strangers because they represent possibility, while our partners represent the known. The stranger gets our curiosity because we're still performing for their approval, while our beloved gets our distraction because we've unconsciously decided they already "know" us. This habit slowly starves the very relationship that deserves our finest attention.
+
+🧱 **The Concept**
+The Guest Treatment means bringing the same quality of presence, curiosity, and generous attention to your partner that you naturally offer to welcomed guests.
+
+❓ **Why It Matters**
+We instinctively know how to be charming, attentive, and fully present with guests because we want them to feel valued and welcomed. Yet with our partners, we often operate on autopilot, assuming they don't need or deserve this same quality of attention. This creates a painful irony where the most important person in our life receives the least conscious care.
+
+⚙️ **How It Works**
+The Guest Treatment involves deliberately choosing to offer your partner the same respectful attention you'd give a cherished visitor. This means putting away devices when they're speaking, asking genuine questions about their day rather than giving distracted "mm-hmms," and treating their stories as if you're hearing them for the first time. It means offering them the comfortable chair, preparing their favorite drink without being asked, and greeting them with the same warmth you'd show a dear friend arriving for dinner. When couples practice this, they often discover that their partner becomes more interesting, not less, because attention creates aliveness in any relationship.
+
+🎯 **Playful Connection Wisdom**
+Your partner deserves to be treated like the most honored guest in your shared home, not the least important resident.
+
+❓ **Tomorrow's Question** — If treating our partner like an honored guest can transform the quality of our daily interactions, why do so many couples unconsciously resist this practice, claiming it feels "artificial" or "unsustainable," when they somehow manage to maintain it effortlessly with actual guests for hours at a time?`,
+    parable: `Quinn sat in Elder Joy's garden, watching River chat animatedly with their dinner guests. "Look how present River is with them," Quinn mused. "Full attention, asking follow-up questions, even laughing at stories I've heard River find boring before."
+
+Elder Joy nodded knowingly. "And how does River greet you when you come home?"
+
+Quinn's face fell slightly. "Usually distracted, phone in hand, a quick 'hey' without looking up. Sometimes I feel like I'm interrupting River's real life."
+
+"The Guest Treatment," Elder Joy said gently, "is one of love's great contradictions. We save our finest presence for those who matter least, and give our leftovers to those who matter most."
+
+As if summoned by their conversation, River approached with bright eyes and animated gestures, still energized from entertaining. "Quinn! You should have heard Sarah's story about—" River stopped mid-sentence, the light dimming slightly, attention already fragmenting.
+
+Elder Joy smiled. "River, tell me - how do you greet Quinn when they come home each day?"
+
+River looked puzzled, then sheepish. "I... well, I'm usually busy with something. But Quinn knows I love them."
+
+"Indeed. But does Quinn feel treasured? Does Quinn receive the gift of your full attention, your curiosity, your presence - the same gifts you just lavished on relative strangers?"
+
+The couple exchanged a long look, recognition dawning. River reached for Quinn's hand with the same intentionality shown to the guests moments before.
+
+**Moral:** *The heart that treats a stranger as a treasure while treating treasure as a stranger soon discovers which becomes which.*
+
+**Tomorrow:** *We discover why honoring our beloved feels harder than honoring our guests...*`,
+  },
 ];

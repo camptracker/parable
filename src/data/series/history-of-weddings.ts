@@ -306,4 +306,68 @@ Celeste held up the veil, watching light dance through its threads. "So we stole
 
 But tomorrow, Celeste would discover that while some symbols transformed beautifully, others were quietly abandoned—and the story of what we kept versus what we discarded would reveal surprising truths about power, progress, and the price of change.`,
   },
+  {
+    day: 6,
+    title: "The Silent Erasure — Which Wedding Traditions Vanished and Why",
+    date: "2026-05-19",
+    image: "images/history-of-weddings/day-6.jpg",
+    audio: "audio/history-of-weddings/day-6",
+    sonnet: `**🪶 Sonnet VI: The Silent Erasure**
+
+What vanished when love claimed the wedding stage?
+The dowry chests, the virgin-testing rites,
+Bride prices marked on some forgotten page,
+And fathers' contracts sealed by candlelight.
+
+Yet diamonds gleam where gold once changed its hands,
+White silk adorns where ownership was sworn,
+For those who wielded cultural commands
+Kept beauty while the barbarous was shorn.
+
+The merchant princes and the media's might
+Decided which traditions could survive—
+They polished symbols, hid from public sight
+The transactions that kept the trade alive.
+
+*Thus romance bloomed from commerce's design,*
+*While power chose which memories would shine.*`,
+    standard: `💒 Day 6: The Silent Erasure — Which Wedding Traditions Vanished and Why
+
+The reinterpretation of wedding symbols reveals that **those with cultural and economic power** — primarily the rising merchant class and later the media — decided which traditions survived by romance-washing the appealing visual elements while quietly abandoning practices that seemed barbaric or legally problematic to modern sensibilities. We kept the beautiful (white dresses, rings, flowers) but discarded the uncomfortable (bride prices, virginity tests, parental ownership transfers).
+
+🧱 **The Concept**
+Wedding traditions didn't evolve naturally — they were selectively curated by those with the power to shape cultural narratives.
+
+❓ **Why It Matters**
+Understanding which traditions disappeared reveals the hidden power structures that shaped modern romance. The traditions we "lost" often involved explicit female subjugation, economic transactions, or religious practices that became socially unacceptable, while the traditions we kept could be rebranded as symbols of love rather than ownership.
+
+⚙️ **How It Works**
+**Bride prices and dowries** vanished from Western weddings because they made the economic transaction too obvious, but **diamond engagement rings** survived because De Beers successfully marketed them as symbols of eternal love rather than down payments on women. **Virginity ceremonies** disappeared because they became medically and socially untenable, but **white dresses** endured because Queen Victoria's choice could be reinterpreted as purity of love rather than sexual purity. **Arranged marriages** were abandoned in favor of **parental approval**, which maintained family control while appearing to honor individual choice. **Religious binding ceremonies** were kept but secularized, allowing the spiritual symbolism without denominational requirements.
+
+🎯 **Wedding History Wisdom**
+The traditions that survived were those that could be successfully rebranded from ownership to love — revealing that our "romantic" customs are actually the sanitized remnants of much more transactional systems.
+
+❓ **Tomorrow's Question** — If wedding traditions were so successfully sanitized and rebranded for mainstream consumption, how did marginalized communities — particularly LGBTQ+ couples and interracial partners — create their own wedding rituals when the traditional system actively excluded them, and what does this reveal about the true purpose of marriage ceremonies?`,
+    parable: `Celeste spread ancient wedding contracts across Elder Maren's oak table, her brow furrowed in concentration. "I found something disturbing," she said, pointing to a medieval document. "This bride price negotiation — it reads like a livestock sale."
+
+Elder Maren nodded gravely. "Yet you wear an engagement ring, do you not? The direct descendant of that very transaction."
+
+"But my ring represents love," Celeste protested.
+
+"Because someone with power decided it should," Elder Maren replied, pulling out a stack of photographs. "Observe what vanished entirely: dowry ceremonies where fathers literally handed over property deeds with their daughters. Virginity examinations performed by village elders. Contracts specifying exactly how many cows constituted adequate bride price."
+
+Celeste studied the images with growing unease. "Why did these disappear while rings and white dresses survived?"
+
+"Because rings are beautiful and dowry contracts are ugly," Elder Maren explained. "Those who controlled cultural narratives — merchants, media makers, social elites — kept what could be romance-washed and discarded what couldn't. They preserved the pageantry but eliminated the paperwork."
+
+She showed Celeste a Victorian magazine advertisement. "See how De Beers transformed the engagement ring from a down payment into a symbol of eternal devotion? Meanwhile, bride prices simply... vanished from polite society. No rebranding could save them."
+
+"So our traditions aren't naturally evolved," Celeste realized. "They're curated."
+
+"By those with the power to decide which aspects of marriage history were suitable for modern consumption," Elder Maren confirmed. "The question becomes: what other communities were creating their own ceremonies when the traditional system excluded them entirely?"
+
+**Moral**: The wedding traditions we inherit are not natural evolution but selective preservation — the beautiful remnants of systems too ugly to survive in their original form.
+
+**Tomorrow**: We'll discover how love found a way when the law said no.`,
+  },
 ];
