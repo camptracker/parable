@@ -5806,4 +5806,74 @@ Kael realized with growing horror that he could recite a hundred market predicti
 
 **Tomorrow:** Kael must discover why the most successful villagers often know less about market conditions than those who remain poor.`,
   },
+  {
+    day: 89,
+    title: "The Wisdom of Enough",
+    date: "2026-05-20",
+    image: "images/financial-independence/day-89.jpg",
+    audio: "audio/financial-independence/day-89",
+    sonnet: `**🪶 Sonnet LXXXIX: The Wisdom of Enough**
+
+What need has oak for books on how to grow?
+It knows enough—roots deep, branches reaching high,
+Each season adding rings that few may know,
+But compound into strength that won't deny.
+
+The scholar reads while builders lay each stone,
+Collecting wisdom others have applied,
+While fortune flows to those who've simply grown
+Their simple knowledge, tested, proved, and tried.
+
+A thousand scrolls might teach the art of gold,
+But one who mines with steady hand each day
+Will find more treasure than the wisest told
+In volumes that keep action held at bay.
+
+*For wealth rewards not those who know the most,*
+*But those who act on knowledge held as host.*`,
+    standard: `💰 Day 89: The Wisdom of Enough
+
+Information addiction reveals that knowledge accumulates linearly while wisdom compounds exponentially through application. The most financially successful people read less financial content because they've discovered that beyond basic principles, additional information provides diminishing returns while execution provides exponential returns. They've reached the point where they know enough to act decisively and consistently.
+
+🧱 **The Concept**
+True financial wisdom lies not in knowing more, but in knowing when you know enough to begin building wealth systematically.
+
+❓ **Why It Matters**
+Most people postpone wealth-building indefinitely while seeking perfect information, not realizing that basic principles applied consistently outperform complex strategies applied sporadically. The pursuit of comprehensive knowledge becomes a sophisticated form of procrastination that prevents the very wealth accumulation it claims to optimize.
+
+⚙️ **How It Works**
+Successful wealth-builders typically master just a few core concepts: live below your means, invest in low-cost index funds, maintain emergency reserves, and stay invested through volatility. Once they've automated these systems, additional financial education provides minimal marginal benefit compared to simply letting time and compound interest work. Warren Buffett reads annual reports and business publications, but he's not consuming daily market commentary or trading newsletters. He knows his framework and applies it relentlessly. Similarly, most millionaires follow simple, boring strategies they learned decades ago rather than constantly searching for new techniques.
+
+🎯 **Buffett Wisdom**
+"Risk comes from not knowing what you're doing." Once you know what you're doing, the greatest risk becomes overthinking it.
+
+❓ **Tomorrow's Question** — If reaching the point of "knowing enough" is so crucial for wealth-building, yet our entire educational system trains us to believe that more information always leads to better outcomes, what does this reveal about the fundamental mismatch between how we're taught to learn and how wealth is actually created?`,
+    parable: `As autumn settled over their village, Kael found Sable in her garden, pruning the last roses before winter. "Elder," he said, approaching with yet another scroll, "I've been reading about new investment strategies from the capital city. Shouldn't we always seek more knowledge?"
+
+Sable set down her shears and smiled knowingly. "Tell me, young one, how many different ways does a rose need to know how to bloom?"
+
+Kael frowned, confused. "There's only one way, I suppose."
+
+"Precisely." She gestured to her magnificent garden. "Each spring, these roses don't spend their energy researching new blooming techniques or comparing themselves to exotic flowers from distant lands. They know enough—how to draw nutrients from soil, how to turn sunlight into growth, how to bloom in their season. This simple knowledge, applied season after season, creates beauty that draws admirers from neighboring villages."
+
+Tobren approached, carrying his final harvest of winter wheat. "I learned this lesson the hard way," he chuckled. "For years, I attended every farming seminar, read every agricultural journal, consulted every expert. My neighbors, meanwhile, simply planted their seeds, tended their crops, and harvested their grain. While I was learning about theoretical improvements, they were building actual wealth."
+
+"But surely more knowledge helps?" Kael protested.
+
+Sable picked up a smooth stone from the path. "Watch." She threw it into the pond with perfect aim, creating ripples that spread across the entire surface. "Now, imagine I spent years studying the physics of stone-throwing, the aerodynamics of different shapes, the optimal angles and velocities. Would that knowledge create larger ripples than this simple, well-executed throw?"
+
+Kael watched the ripples fade. "No, but—"
+
+"The point," Sable continued gently, "is not whether additional knowledge could theoretically help, but whether seeking it prevents us from acting on what we already know. The most dangerous wisdom is the belief that we need perfect knowledge before we can begin creating wealth."
+
+Tobren nodded sagely. "The richest farmer in our region still uses techniques his grandfather taught him. He stopped attending seminars decades ago. Instead, he applies basic principles with unwavering consistency: prepare the soil, plant at the right time, water when needed, harvest when ripe. While others debate new methods, his wealth compounds like seeds planted in fertile ground."
+
+"But how do we know when we know enough?" Kael asked.
+
+Sable smiled. "When the desire to learn more becomes stronger than the desire to begin building. When you find yourself reading about wealth instead of creating it. When you can explain compound interest but haven't automated your investments. The wisdom of enough whispers quietly beneath the shouting of endless information."
+
+**Moral:** Knowledge seeks complexity; wisdom embraces sufficiency. True wealth flows from applying simple principles consistently, not from accumulating infinite information.
+
+*Tomorrow, we explore why our educational foundations may be fundamentally misaligned with wealth creation itself...*`,
+  },
 ];

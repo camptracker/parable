@@ -4958,4 +4958,62 @@ Elm reached for Dove's hand. "So we're not half-people looking for completion," 
 
 **Tomorrow:** Nana Rose will reveal how the strongest marriages serve purposes greater than their own happiness.`,
   },
+  {
+    day: 80,
+    title: "The Sacred Culmination",
+    date: "2026-05-20",
+    image: "images/wedding-planning/day-80.jpg",
+    audio: "audio/wedding-planning/day-80",
+    sonnet: `**🪶 Sonnet LXXX: The Sacred Culmination**
+
+Not destination, but the starting line,
+This altar where two separate hearts unite;
+The wedding bells don't mark love's grand design
+Complete, but herald work yet burning bright.
+
+For marriages that serve but their own need
+Grow inward, small, and wither at the root,
+While those whose love becomes a living seed
+For others' healing bear the sweetest fruit.
+
+Your ceremony consecrates the call
+To channel passion into purpose true—
+Each vow a promise that your love serves all,
+Each ring a tool for work you're meant to do.
+
+*The wedding launches what you'll build as one:*
+*Love's greatest gift is what it passes on.*`,
+    standard: `💍 Day 80: The Sacred Culmination
+
+When two people discover their shared purpose—whether it's raising children who feel deeply loved, creating beauty that heals others, or simply modeling what authentic partnership looks like—their marriage becomes a generative force rather than just a private sanctuary. This reveals that marriages which serve only themselves eventually stagnate, while those that channel their love outward into meaningful contribution find themselves constantly renewed and deepened by the very act of giving.
+
+🧱 **The Concept**
+Your wedding day is not the destination of your love story—it's the sacred launching pad for everything your partnership is meant to create and contribute to the world.
+
+❓ **Why It Matters**
+Couples often plan weddings as if marriage is the ultimate achievement, but the most fulfilling marriages understand that their union is actually the beginning of their real work together. When you approach your wedding as a consecration ceremony for the contribution you're about to make as partners, every detail becomes more meaningful because it serves something larger than just one day of celebration.
+
+⚙️ **How It Works**
+Instead of asking "What do we want our wedding to look like?" ask "What do we want our marriage to create in the world, and how can our wedding launch that mission?" If your shared purpose is creating a haven of peace in a chaotic world, your wedding might prioritize deep presence over elaborate entertainment. If you're called to mentor other couples, your ceremony might include ritual elements that other couples could adapt. If you want to model financial wisdom, your wedding budget becomes a demonstration of your values rather than a display of abundance. Your wedding planning becomes practice for the decision-making skills, value clarification, and partnership dynamics you'll need for your life's work together. The couple who plans their wedding with their future contribution in mind often finds that the process itself teaches them exactly what they're capable of creating together.
+
+🎯 **Wedding Wisdom**
+A wedding that launches a mission creates more joy than a wedding that simply celebrates an achievement.
+
+❓ **Tomorrow's Question** — If you discovered that the very last moment before you say "I do" would reveal to you the single most important thing you need to know about marriage that no one ever told you, what truth would you hope to receive, and what does that reveal about the difference between what you think you know about marriage and what you're actually about to experience?`,
+    parable: `As the final weeks approached, Dove found herself in Nana Rose's kitchen garden, watching the elderly woman harvest late summer tomatoes. "I keep thinking about what comes after," Dove confessed, cradling a sun-warmed fruit in her palms. "Everyone talks about the wedding like it's the finish line, but it feels more like..."
+
+"Like the starting gate?" Nana Rose smiled, her weathered hands gentle with the vines. "Child, you've stumbled onto the secret that eludes most couples. They spend so much energy creating the perfect beginning that they forget to prepare for the beautiful work that follows."
+
+Elm emerged from the rows carrying a basket of herbs, dirt still clinging to his hands. "We were just talking about this," he said, settling beside them on the garden bench. "What if our wedding isn't meant to be the culmination of our love story, but the consecration of whatever we're supposed to build together?"
+
+Nana Rose's eyes sparkled with recognition. "Sixty years ago, my Walter and I thought we were just getting married. We had no idea we were actually commissioning ourselves to create a family legacy, to mentor dozens of young couples, to turn our little house into a sanctuary where broken hearts could heal. Our wedding was beautiful, but it was really just the ribbon-cutting ceremony for a lifetime of love in action."
+
+Dove felt something shift inside her chest—a sense of expansion, of purpose beyond her own happiness. "So when we're choosing flowers and music and vows, we're actually choosing... what kind of partners we want to be in the world?"
+
+"Precisely," Nana Rose nodded, handing them each a perfect tomato. "Every choice becomes sacred when it serves something larger than the day itself."
+
+**Moral:** A wedding that consecrates a couple's contribution to the world creates more lasting joy than one that merely celebrates their love for each other.
+
+*Tomorrow, we discover what truth awaits in the final moment before "I do"—and what it reveals about the difference between thinking you're ready for marriage and actually being ready for it.*`,
+  },
 ];

@@ -1482,4 +1482,66 @@ Riven watched as their reflection shifted again, showing them choosing Alex desp
 
 **Tomorrow**: Riven will learn why their intuition might be their greatest enemy when it comes to choosing love...`,
   },
+  {
+    day: 25,
+    title: "The Intuition Rewiring",
+    date: "2026-05-20",
+    image: "images/relationship-games/day-25.jpg",
+    audio: "audio/relationship-games/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Intuition Rewiring**
+
+The gut that speaks in trauma's ancient tongue
+Will guide us toward familiar forms of pain,
+Where wounded patterns sing their siren song
+And call it fate when we're just hurt again.
+
+But deeper than this conditioned voice that cries
+For struggle's bitter comfort lies a well
+Of truer knowing that our fear denies—
+The wisdom that can break our binding spell.
+
+For healing often wears the mask of wrong,
+And growth feels like betrayal of our past,
+While safety seems too quiet for our song
+That's learned to love what cannot ever last.
+
+*To trust the whisper underneath the scream*
+*Is how we learn to love beyond our dream.*`,
+    standard: `🎭 Day 25: The Intuition Rewiring
+
+When our gut has been conditioned by past wounds, "following our intuition" often means following our trauma responses disguised as wisdom. We must learn to distinguish between survival-based intuition (which seeks familiar patterns) and growth-based intuition (which recognizes expansion opportunities). This requires developing what we might call "meta-intuition"—the ability to sense whether our resistance is protective or limiting.
+
+🧱 **The Concept**
+Our intuitive responses in relationships are often our nervous system's attempt to recreate familiar dynamics, even when those dynamics caused us pain.
+
+❓ **Why It Matters**
+What feels "right" to our conditioned nervous system may be precisely what keeps us stuck in repetitive relationship patterns. Our gut reactions are not neutral—they're programmed by our history, and that programming may be outdated or counterproductive to our growth.
+
+⚙️ **How It Works**
+Our nervous system develops predictive models based on early attachment experiences, then uses these models to assess potential partners through unconscious pattern recognition. For example, someone who grew up with an emotionally unavailable parent might feel immediate "chemistry" with distant partners because their nervous system recognizes the familiar challenge, while feeling "bored" or "friend-zoned" by consistently available partners because this pattern feels foreign and unpredictable. The gut reaction says "pursue the unavailable one," but this guidance is based on trauma repetition, not authentic compatibility. We can learn to pause between the initial gut reaction and our response, asking: "Is this resistance/attraction based on familiar wounds or genuine incompatibility?"
+
+🎯 **Relationship Strategy Wisdom**
+True intuition in relationships requires us to update our internal guidance system by consciously choosing experiences that feel slightly uncomfortable but fundamentally safe.
+
+❓ **Tomorrow's Question** — If our most profound healing happens through relationships that challenge our defensive patterns while maintaining emotional safety, what does this suggest about the difference between someone who triggers our wounds and someone who helps us heal them—and why might both initially feel equally threatening to our protective mechanisms?`,
+    parable: `Riven stood at the crossroads again, heart pounding with familiar anxiety. Two paths stretched before him: one toward Elena, whose warm consistency made him feel inexplicably restless, and another toward Zara, whose unpredictability sent electric shocks of recognition through his nervous system.
+
+"My gut tells me to follow Zara," Riven said to The Mirror, who materialized beside the signpost like morning mist. "Every cell in my body lights up when she's near. Surely that means something?"
+
+The Mirror's reflection shimmered, showing not Riven's face but the image of a child hiding behind furniture, watching his mother disappear into her moods. "Your gut speaks the language of your past, young seeker. What feels like destiny is often just your wounds recognizing familiar territory."
+
+"But how do I know the difference?" Riven's voice cracked. "Elena feels... safe. Too safe. Like nothing's at stake."
+
+"Ah," The Mirror smiled knowingly. "And therein lies the great deception. Your nervous system was trained in a school of scarcity, where love was earned through struggle. Now it mistakes peace for emptiness, consistency for boredom. Your intuition is not broken—it is simply running outdated software."
+
+The Mirror gestured toward Elena's path, where gentle light filtered through abundant trees. "True growth-based intuition whispers beneath the shouting of your conditioning. It says: 'This feels foreign because it is healing. This feels boring because it is not activating your wounds. This feels too good because you have forgotten what you deserve.'"
+
+Riven felt something shift inside his chest—a recognition deeper than memory. "So following my gut might mean... not following my gut?"
+
+"It means learning to hear the voice beneath the voice," The Mirror replied, already beginning to fade. "The one that knows expansion often masquerades as fear, and healing often feels like betrayal of your familiar pain."
+
+**Moral**: The gut trained by trauma will guide you toward familiar suffering; the gut informed by wisdom will guide you toward unfamiliar healing.
+
+**Tomorrow**: Riven must learn to distinguish between those who activate his wounds and those who heal them—even when both initially trigger his defenses.`,
+  },
 ];

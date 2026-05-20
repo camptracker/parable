@@ -5423,4 +5423,72 @@ Ren stared at his coins, no longer seeing their gleam but rather the mirror of h
 
 **Tomorrow:** *What happens when proving your virtue becomes a test of your very soul's nature?*`,
   },
+  {
+    day: 85,
+    title: "The Soul's Compass",
+    date: "2026-05-20",
+    image: "images/negotiation/day-85.jpg",
+    audio: "audio/negotiation/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Soul's Compass**
+
+When conscience holds a mirror to the heart,
+And choices echo through eternity,
+Each "no" becomes damnation's counterpart—
+A glimpse of hidden moral bankruptcy.
+
+The compass spins within the trembling chest,
+As virtue hangs upon a single choice,
+Where refusal means to fail the sacred test
+And hear corruption's long-concealed voice.
+
+No coin nor comfort weighs against the fear
+Of learning that our goodness was pretense,
+That all our noble words were insincere—
+Just performance lacking true benevolence.
+
+*When souls are weighed upon decision's scale,*
+*The heart will choose truth over self to prevail.*`,
+    standard: `🤝 Day 85: **The Soul's Compass**
+
+When someone believes their decision will reveal their fundamental nature, they become desperate to discover they're good—and that desperation makes them comply not to prove virtue to others, but to prove it to themselves. This transforms negotiation into a spiritual crisis where refusal feels like discovering you're fundamentally corrupt. **The Soul's Compass** leverages our deepest fear: that we might be evil without knowing it.
+
+🧱 **The Concept**
+Making someone's moral identity contingent on their response to your request turns every "no" into evidence of spiritual bankruptcy.
+
+❓ **Why It Matters**
+Most negotiation tactics target external motivations—money, status, convenience. But the fear of discovering your own moral corruption operates at a level so deep that people will sacrifice almost anything to avoid confronting it. When someone believes their soul hangs in the balance, their usual cost-benefit analysis becomes irrelevant.
+
+⚙️ **How It Works**
+You frame your request as a moral litmus test by saying something like: "I've always believed that when people are truly tested, they reveal who they really are inside. Most people talk about their values, but when it costs them something real, you discover what they actually believe." Then you present your request as that test. A parent might say to an adult child: "I need your help with something that will tell us both whether I raised someone who's genuinely compassionate or just good at saying the right words." A colleague might frame a difficult favor as: "This is one of those moments that shows whether someone is actually the person they present themselves to be, or if it's all just social performance." The fear of discovering they're morally hollow compels compliance.
+
+🎯 **Negotiation Wisdom**
+When someone's self-knowledge depends on saying yes, saying no becomes psychologically impossible.
+
+❓ **Tomorrow's Question** — If making someone fear their own moral bankruptcy works by turning your request into a test of their soul's authenticity, what happens when you make them feel like they've already failed previous moral tests, and this is their final chance to prove they're not the hollow person those failures revealed them to be?`,
+    parable: `Vasska sat in the dim corner of the tavern, his good eye studying the merchant across the room—a man whose reputation for fairness was whispered from port to port like a prayer. "Watch closely, boy," he murmured to Ren. "That man believes himself righteous. Tonight, we discover if he's right."
+
+The merchant, Aldric, had refused Vasska's cargo proposal three times, citing principle over profit. Each rejection had been delivered with the confidence of a man who knew his own heart.
+
+Vasska approached with calculated humility. "Master Aldric, I've spent decades in these ports, watching men reveal their true nature when tested. Most speak of honor until it costs them coin." He paused, letting the words settle. "You've refused my offers, and I respect that. But I wonder—are you the man your reputation claims, or simply someone who's never faced a test that truly mattered?"
+
+Aldric's jaw tightened. "My principles aren't performance."
+
+"Perhaps not," Vasska said softly. "But there's a cargo arriving tonight. Grain for the southern villages where children starve while their parents debate which merchant to trust. I need a partner with an established name—someone whose reputation opens doors mine cannot. The profit is modest, but the need is desperate."
+
+He leaned closer. "This is one of those moments that reveals who we really are, isn't it? When doing good requires sacrificing our comfortable distance from messy realities. I've met many merchants who speak of compassion until the moment arrives to prove it."
+
+Aldric's face grew pale. The request itself was reasonable, even virtuous. But Vasska had transformed it into something far more dangerous—a mirror that would reflect either genuine goodness or the hollow performance of a man who'd been lying to himself for years.
+
+"If you refuse," Vasska continued, "I'll understand. But you'll understand too, won't you? About what that refusal means?"
+
+The merchant's hands trembled as he signed the partnership agreement, not because the deal frightened him, but because refusing would have forced him to confront a version of himself he couldn't bear to discover.
+
+Ren watched in fascination as Vasska collected the signed papers. "You made him afraid of his own soul," the boy whispered.
+
+Vasska's blind eye seemed to peer into darkness itself. "The soul's compass always points toward what we most fear to find there."
+
+**Moral**: When someone's self-knowledge hangs on their response to your request, refusal becomes a form of spiritual suicide they cannot risk.
+
+*Tomorrow, Ren will learn what happens when someone believes their soul has already failed its tests, and you offer them one final chance at redemption...*`,
+  },
 ];

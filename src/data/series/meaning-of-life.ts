@@ -4908,4 +4908,62 @@ The Keeper laughed, understanding flooding his ancient features. "All these year
 
 **Tomorrow:** *The Keeper will discover that even his newfound understanding of surrender might be another subtle form of spiritual ambition...*`,
   },
+  {
+    day: 82,
+    title: "The Sovereign Will",
+    date: "2026-05-20",
+    image: "images/meaning-of-life/day-82.jpg",
+    audio: "audio/meaning-of-life/day-82",
+    sonnet: `**🪶 Sonnet LXXXII: The Sovereign Will**
+
+What force moves rivers carving through the stone?
+Not struggle 'gainst the earth, but dance with weight,
+As gravity and water, flesh and bone,
+Align to craft what neither could create.
+
+The artist's hand that flows without design
+Knows not if brush commands or paint leads way,
+When mastery dissolves the owned from mine,
+And skill becomes what wants itself to say.
+
+So too the heart that ceases to demand
+What life should give discovers power strange:
+To will what is, and find at will's command
+The universe itself desires change.
+
+*True sovereignty flows when we understand*
+*Our wanting is life's will taking our hand.*`,
+    standard: `🌌 Day 82: The Sovereign Will
+
+🧱 **The Concept**
+True sovereignty emerges when our personal will aligns so completely with life's deeper intelligence that we can no longer distinguish between what we want and what wants to happen through us.
+
+❓ **Why It Matters**
+Most of our suffering comes from the exhausting battle between our small will trying to control outcomes and the larger forces moving through existence. When we discover that surrendering our agenda doesn't diminish our power but reveals a more authentic form of agency, we begin to act with the full force of reality behind us rather than against it.
+
+⚙️ **How It Works**
+This alignment begins when we notice that our most fulfilling actions arise spontaneously rather than through forcing. A parent instinctively knows how to comfort their child not through technique but through love moving naturally. An artist creates their masterpiece not by following rules but by becoming transparent to inspiration. A leader makes decisions that serve everyone not through calculation but through wisdom that emerges when personal agenda dissolves. The more we trust this deeper intelligence, the more we discover that what we thought was "our" will was actually universal will expressing itself through the unique filter of our individual perspective.
+
+🎯 **Existential Wisdom**
+Sovereignty is not about getting what we want, but discovering that what we are is itself the wanting behind all wanting.
+
+❓ **Tomorrow's Question** — If discovering our sovereign will reveals that individual desire and universal intelligence are one movement, what happens when we realize that our very longing for this alignment might be the last way we maintain separation from the wholeness that is already choosing through us in this very moment?`,
+    parable: `Solen found The Keeper standing before a peculiar mirror that seemed to reflect not their appearance, but their intentions. "I have spent countless moments trying to bend my will to yours," Solen confessed, "and other moments demanding that you bend to mine. Both feel like warfare."
+
+The Keeper smiled, placing a weathered hand on an ancient tome. "Watch," they said simply, and opened the book. The pages turned themselves, as if moved by an invisible breeze, stopping at exactly the passage The Keeper had intended to find. "Did I will the pages to turn, or did they turn according to what needed to be revealed? Did the wind obey me, or did I trust what the wind was already doing?"
+
+Solen stared as The Keeper began to write, their hand flowing across the page without pause or correction. "When I write, am I choosing the words, or are the words choosing themselves through this hand that has learned to get out of their way?"
+
+"But surely you decide what to write about," Solen protested.
+
+"Do I?" The Keeper asked, gesturing to their conversation. "Did you decide to ask that question, or did the question arise naturally from what you needed to understand? Did I decide to answer in this way, or did wisdom simply speak itself?"
+
+Solen felt something shift in their understanding. "So sovereign will is not about controlling outcomes..."
+
+"It is about discovering that what you are and what wants to happen are not two separate things," The Keeper finished. "The river doesn't fight its banks—it carves canyons through perfect cooperation with gravity, stone, and time."
+
+**Moral**: True power emerges when we discover that our deepest will and life's intelligence are one movement expressing itself through countless forms.
+
+*Tomorrow, Solen will discover what remains when even the desire for alignment dissolves...*`,
+  },
 ];

@@ -5241,4 +5241,80 @@ Lila watched the fire rage. "How do you know when healing becomes harm?"
 
 **Tomorrow:** *Discover why some people become unconsciously invested in staying metabolically broken...*`,
   },
+  {
+    day: 85,
+    title: "The Recovery Rebellion",
+    date: "2026-05-20",
+    image: "images/nutrition-science/day-85.jpg",
+    audio: "audio/nutrition-science/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Recovery Rebellion**
+
+Within the healing flame, a shadow dwells,
+A part that fears the light of wellness true,
+For in the struggle's pain, identity swells—
+To lose the fight would mean to lose what's "you."
+
+The medicine that soothes becomes a threat,
+Each remedy that works breeds strange alarm,
+The self sabotages what might beget
+The very peace that shields from deeper harm.
+
+Like kindling soaked in oil of stubborn pride,
+The soul resists its own recovery,
+Though flames of healing dance on every side,
+The ego clings to pain's false sovereignty.
+
+*Yet when at last we dare to be made whole,*
+*We find not loss, but birth of our true soul.*`,
+    standard: `🍎 Day 85: The Recovery Rebellion
+
+When your identity becomes dependent on heroically overcoming metabolic problems, healing itself becomes a threat to your sense of self—creating an unconscious rebellion against every intervention that might actually work. Your psyche sabotages recovery because being "healthy" would mean losing the narrative that gives your life meaning, the community that understands your struggle, and the heroic identity that makes you feel special and significant.
+
+🧱 **The Concept**
+Your unconscious mind can sabotage metabolic healing when recovery threatens your core identity, creating invisible resistance to interventions that would otherwise work.
+
+❓ **Why It Matters**
+This hidden psychological resistance explains why some people cycle through endless health protocols without lasting success—not because the interventions don't work, but because part of them fears what would happen if they actually got completely well. Understanding this dynamic is essential for anyone whose healing journey has become mysteriously stuck despite having access to effective tools and information.
+
+⚙️ **How It Works**
+Recovery rebellion manifests as subtle self-sabotage: "forgetting" to take supplements that were helping, unconsciously choosing stressful situations during healing phases, or finding reasons to abandon protocols just as they begin working. Your nervous system may interpret healing progress as an identity threat, triggering familiar patterns of metabolic disruption to restore the "normal" state of struggle. This rebellion often intensifies during periods of genuine improvement, creating the paradox where you feel worst precisely when your body is responding best to treatment. The sabotage can be so unconscious that you genuinely believe external factors are preventing your healing, while internally your psyche orchestrates the very obstacles you're fighting against. Recovery rebellion particularly targets interventions that work too well or too quickly, because rapid healing doesn't allow time for psychological identity adjustment.
+
+🎯 **Science Wisdom**
+True metabolic healing requires healing the parts of your psyche that have become addicted to the struggle itself.
+
+❓ **Tomorrow's Question** — *If your unconscious mind can sabotage healing to preserve identity, what happens when you become so aware of this tendency that you begin second-guessing every health decision, wondering whether your choices are motivated by genuine body wisdom or psychological resistance—and why might this meta-level awareness create an even more paralyzing form of analysis that prevents any decisive action toward healing?*`,
+    parable: `Lila found Maren sitting before her cold hearth, staring at a pile of unlit kindling. "I've brought the healing herbs you asked for," Lila said, setting down her basket. "The ones for the merchant who's been suffering from digestive troubles for months."
+
+Maren nodded but didn't move to light the fire. "Tell me, child, what do you notice about how he responds to treatment?"
+
+"It's strange," Lila admitted. "Every remedy seems to help initially, but then he finds reasons to stop taking it. Last week he said the tea made him too energetic to sleep, even though he'd been complaining of fatigue for years."
+
+"And before that?"
+
+"He said the digestive tonic was too expensive, though I know he spends twice as much on wine each month. And before that, he claimed the dietary changes made him feel isolated from his friends."
+
+Maren finally reached for the kindling, arranging it with deliberate care. "Watch closely as I light this fire, Lila. See how the flame wants to catch, but some pieces of wood seem to resist?"
+
+As the fire began, Lila noticed that certain pieces of kindling seemed to pull away from the flame, creating gaps that prevented the fire from spreading evenly.
+
+"That wet piece there," Maren pointed. "It's not truly wet from rain—it's been soaked in something that makes it resist burning. The wood fights against its own nature."
+
+"But why would wood resist fire?"
+
+"Why indeed?" Maren smiled sadly. "Now imagine that this merchant has spent so many years being 'the sick one' that he no longer knows who he would be if he were well. His suffering has become his identity, his way of connecting with others, his excuse for not pursuing dreams that frighten him."
+
+Lila watched the resistant piece of wood finally catch flame, but only after it had delayed the entire fire. "So his healing threatens who he thinks he is?"
+
+"Precisely. Part of him rebels against recovery because being well would mean losing the story that gives his life meaning. He would have to face the dreams he's been avoiding, take responsibility he's been postponing, become vulnerable in ways that chronic illness has protected him from."
+
+The fire now burned steadily, but Maren pointed to the charred spot where the resistant wood had been. "See how even when healing finally happens, it leaves its mark? The rebellion against wellness creates its own kind of scarring."
+
+"How do we help someone whose very identity fights against their healing?"
+
+Maren stirred the herbs thoughtfully. "We must help them discover who they might become beyond their suffering—not by taking away their pain, but by offering them a richer story worth healing for."
+
+**Moral:** *The greatest obstacle to healing often lies not in the body's resistance to treatment, but in the psyche's resistance to releasing the identity that suffering has created.*
+
+**Tomorrow:** *Lila learns why awareness of this tendency can create its own paralyzing trap...*`,
+  },
 ];

@@ -1685,4 +1685,69 @@ He stood, placing his hand gently on the stone. "The difference between a gratef
 
 Tomorrow, Hana will discover why claiming this sovereignty feels more threatening than liberating...`,
   },
+  {
+    day: 28,
+    title: "The Freedom We Fear",
+    date: "2026-05-20",
+    image: "images/gratitude/day-28.jpg",
+    audio: "audio/gratitude/day-28",
+    sonnet: `**🪶 Sonnet XXVIII: The Freedom We Fear**
+
+We cry for liberation from our chains,
+Yet shrink when handed keys to unlock doors—
+For freedom asks what slavery never dares:
+To choose our thoughts through all of life's fierce wars.
+
+The victim's role feels lighter than the crown
+Of consciousness that weighs on grateful minds,
+Where every moment asks: look up or down?
+Appreciate or let resentment bind?
+
+The complainers cluster in their sweet despair,
+Like children clutching blankets made of blame,
+While those who rule their thoughts with sovereign care
+Carry the glory and the weight of choice's flame.
+
+*True gratitude's no gentle, easy art—*
+*It's iron keys that free the willing heart.*`,
+    standard: `🙏 Day 28: The Freedom We Fear
+
+We resist attention sovereignty because ruling our own minds requires constant choice and responsibility—exhausting work compared to the familiar ease of reacting to whatever captures us. Being attention's victim feels safer because we can blame circumstances for our experience, while taking charge means owning both our gratitude and our suffering. The comfort of mental passivity runs so deep that freedom itself can feel like a burden.
+
+🧱 **The Concept**
+True gratitude mastery means accepting the weight of mental freedom—the responsibility to choose your focus moment by moment, even when it feels easier to surrender control to habit, emotion, or circumstance.
+
+❓ **Why It Matters**
+Most people say they want more gratitude but unconsciously resist the daily discipline of directing their attention toward appreciation. This resistance reveals that we often prefer the familiar prison of reactive thinking to the unfamiliar territory of conscious choice. Understanding this paradox helps us recognize that gratitude isn't just a feeling—it's a form of psychological liberation that requires courage.
+
+⚙️ **How It Works**
+When you notice your mind automatically focusing on problems, you have a choice: follow that mental momentum or consciously redirect toward something worthy of appreciation. This redirection feels unnatural at first because your brain interprets the effort as unnecessary work. For example, stuck in traffic, your default mode might spiral into frustration, but choosing to appreciate your car's reliability, the podcast you're hearing, or simply having time to breathe requires actively overruling your mental autopilot. This override becomes easier with practice, but it never becomes effortless—freedom always costs attention. The weight of this responsibility is exactly why many people unconsciously sabotage their own gratitude practice, preferring to complain about their circumstances rather than take charge of their experience.
+
+🎯 **Gratitude Wisdom**
+True appreciation isn't found in perfect moments—it's forged in the daily choice to claim sovereignty over your own mind. The freedom to be grateful anywhere, anytime, comes with the responsibility to actually exercise that freedom.
+
+❓ **Tomorrow's Question**
+If gratitude mastery requires embracing the weight of mental freedom rather than seeking the lightness of positive emotions, why do most spiritual and self-help approaches promise that appreciation should feel easy and natural rather than acknowledging it as one of the most demanding practices a human being can undertake?`,
+    parable: `Hana stood at the edge of the monastery garden, staring at the massive iron key Elder Thorn had placed in her palm. "This opens every gate in the compound," he said quietly. "You can go anywhere, see anything, learn from any teacher. Complete freedom."
+
+The weight surprised her. "It's so heavy," she whispered.
+
+"Freedom always is," Thorn replied. "Watch." He pointed to a group of novices sitting in the courtyard, complaining bitterly about their assigned chores. "They could choose gratitude for their work, for their health, for this beautiful day. But see how they grip their resentment? It requires no effort. No choice."
+
+Hana noticed how the complainers seemed almost comfortable in their misery, like children wrapped in familiar blankets. "Why don't they choose appreciation?"
+
+"Because choosing requires this," Thorn lifted the key from her hand, its weight making his arm dip. "Every moment of gratitude is a choice to carry responsibility for your own experience. Every moment of complaint is a choice to set that weight down and blame the world instead."
+
+A novice approached them, face bright with joy. "Elder Thorn! I spent the morning cleaning the latrines, and I discovered such gratitude for running water, for soap, for the privilege of serving others!" His eyes sparkled with genuine delight.
+
+As he walked away, Hana noticed something profound: his joy didn't look effortless. She could see the conscious choice behind his appreciation, the deliberate act of lifting his attention toward blessing rather than burden. "He's carrying the key too, isn't he?"
+
+"Every moment," Thorn confirmed. "And see how different his freedom looks from their imprisonment? They think gratitude should be light and easy. He knows it's heavy and precious."
+
+Hana closed her fingers around the iron key, feeling its honest weight. For the first time, she understood why so few people claimed their birthright of mental sovereignty—not because they couldn't, but because freedom itself required the courage to carry its magnificent burden.
+
+**Moral:** True gratitude isn't the absence of effort but the embrace of conscious choice, heavy with responsibility and radiant with possibility.
+
+**Tomorrow:** Hana will discover why the hardest spiritual teaching to accept isn't about finding light, but about honoring the sacred difficulty of transformation itself.`,
+  },
 ];

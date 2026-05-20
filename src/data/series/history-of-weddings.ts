@@ -370,4 +370,62 @@ She showed Celeste a Victorian magazine advertisement. "See how De Beers transfo
 
 **Tomorrow**: We'll discover how love found a way when the law said no.`,
   },
+  {
+    day: 7,
+    title: "Underground Altars — When Love Defied Law",
+    date: "2026-05-20",
+    image: "images/history-of-weddings/day-7.jpg",
+    audio: "audio/history-of-weddings/day-7",
+    sonnet: `**🪶 Sonnet VII: Underground Altars**
+
+When law's cold gates were barred to lovers true,
+They built their altars in the hidden shade,
+With rings exchanged in rooms where friendship grew,
+And vows that time nor hate could ever fade.
+
+No church would bless, no state would recognize
+The sacred bonds they forged in secret space,
+Yet in their eyes burned love's most holy prize—
+A union blessed by truth, not law's embrace.
+
+In basement chapels, garden groves, and halls
+Where chosen families gathered, tears were shed,
+As couples answered love's most urgent calls
+With promises that blessed what law left dead.
+
+*These underground altars blazed more bright and true
+Than gilded churches ever witnessed through.*`,
+    standard: `💒 Day 7: Underground Altars — When Love Defied Law
+
+When traditional wedding systems excluded marginalized communities, they created powerful counter-rituals that revealed marriage's deepest truth: it's fundamentally about witnessed commitment, not legal recognition. LGBTQ+ couples developed handfasting ceremonies, commitment rings, and chosen family celebrations, while interracial partners found clergy willing to perform secret ceremonies or traveled to jurisdictions where their love was legal, proving that the human need to declare love publicly transcends any society's attempt to control it.
+
+🧱 **The Concept**
+Excluded communities created underground wedding traditions that often captured marriage's spiritual essence more purely than mainstream ceremonies.
+
+❓ **Why It Matters**
+These alternative traditions reveal that the core human drive to publicly commit isn't about legal benefits or social approval—it's about transformation through witnessed vows. When stripped of legal protection, marginalized couples focused on the ritual's true power: creating sacred space where two people become something new together.
+
+⚙️ **How It Works**
+Gay couples in the 1950s exchanged matching rings and held private ceremonies with chosen families, creating bonds that lasted decades without legal recognition. Interracial couples traveled from states where their marriage was felony to places like Michigan or California where love trumped law. These ceremonies often featured elements absent from mainstream weddings: explicit discussions of sacrifice, deeper community involvement as protection networks, and vows acknowledging the hostile world they'd face together. Many incorporated traditions from both cultures or created entirely new rituals, like unity candles representing the light they'd carry through darkness.
+
+🎯 **Wedding History Wisdom**
+The most authentic wedding traditions emerged not from privilege, but from communities forced to distill marriage to its essential meaning.
+
+❓ **Tomorrow's Question** — If marginalized communities created more spiritually authentic wedding rituals by being excluded from mainstream traditions, what does this suggest about whether the legal institutionalization of marriage strengthens or weakens the transformative power of the commitment ceremony itself?`,
+    parable: `"But Elder Maren," Celeste said, her research notes scattered like fallen petals, "if these beautiful traditions existed in the shadows, why didn't they influence mainstream weddings more?"
+
+The old historian's eyes grew distant. "Come, child. Let me tell you of the Underground Altars."
+
+She led Celeste to a hidden alcove in the library, where photographs showed couples whose joy blazed despite—or perhaps because of—society's rejection. "In 1952, two women named Dorothy and Phyllis exchanged rings in a tiny apartment, witnessed only by three friends who risked their careers to attend. They had no white dress, no church, no legal protection. Yet their vows lasted sixty years, while countless 'legitimate' marriages crumbled."
+
+Celeste studied the faces—radiant, fierce, uncompromising.
+
+"These couples couldn't rely on tradition's empty pageantry," Maren continued. "They had to create meaning from nothing. Their ceremonies became laboratories of love's truest expression. They wrote vows that acknowledged the world's hostility. They created rituals where communities pledged protection. They transformed ordinary spaces into sacred ground through sheer intention."
+
+"But the irony," the elder whispered, "is that by being excluded from marriage's legal shell, they discovered its spiritual core. Their underground altars burned brighter than any cathedral candle."
+
+**Moral**: *The purest traditions often emerge not from inclusion in power, but from exclusion that forces us to discover what truly matters.*
+
+*Tomorrow, we'll explore whether legal recognition strengthens love's sacred fire—or extinguishes it.*`,
+  },
 ];

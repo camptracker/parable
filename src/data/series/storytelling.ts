@@ -5116,4 +5116,61 @@ Pip watched more carefully. The first storyteller's audience grew more isolated 
 
 *Tomorrow, we discover what happens when forces arise that target not just our stories, but our very ability to distinguish truth from deception...*`,
   },
+  {
+    day: 85,
+    title: "The Poisoned Well — When Discernment Itself Becomes the Weapon",
+    date: "2026-05-20",
+    image: "images/storytelling/day-85.jpg",
+    audio: "audio/storytelling/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Poisoned Well**
+
+When waters muddy not with dirt but doubt,
+And every cup contains a different truth,
+The thirsty soul knows not what drink's about—
+All confidence corrupted since their youth.
+The poisoners need not add toxic bane,
+Just flood the market with competing streams,
+Until the tongue forgets its sweet refrain
+And trusts no taste, however pure it seems.
+Then comes the voice that offers certainty:
+"Stop thinking, child, and drink what we provide."
+The weary mind embraces surety,
+Though wisdom whispers something's wrong inside.
+But children sharing cups from spring to spring
+*Learn truth through tasting what communion brings.*`,
+    standard: `📖 Day 85: The Poisoned Well — When Discernment Itself Becomes the Weapon
+
+When the inner compass becomes the target, malevolent forces don't attack stories directly—they corrupt the capacity for judgment itself by flooding communities with so many contradictory narratives that people lose faith in their ability to distinguish truth from fiction. This creates a state of epistemic helplessness where overwhelmed minds either retreat into rigid fundamentalism or surrender to relativistic paralysis, making them vulnerable to any confident voice that promises certainty.
+
+🧱 **The Concept**
+True narrative corruption targets not individual stories but the community's collective ability to evaluate stories, creating cognitive chaos that makes people grateful for any authoritative voice willing to do their thinking for them.
+
+❓ **Why It Matters**
+When communities lose confidence in their own discernment, they become susceptible to narrative control by whoever offers the most convincing illusion of clarity. This represents the deepest level of storytelling warfare—not the battle for hearts and minds, but the battle for the very mechanisms that guard hearts and minds.
+
+⚙️ **How It Works**
+The attack begins with **narrative flooding**—overwhelming communities with more conflicting stories than they can process, creating decision fatigue around truth itself. Then comes **authority confusion**, where traditional sources of wisdom are systematically discredited while new "experts" offer contradictory guidance. Finally, **synthetic certainty** emerges as manufactured voices provide simple answers to the chaos they secretly created. For example, a community might be flooded with conflicting health narratives until people stop trusting their own research abilities, making them dependent on whatever authority figure offers the most confident pronouncements. The poisoned well works because it exploits the human need for cognitive relief from overwhelming complexity.
+
+🎯 **Storytelling Wisdom**
+The deepest defense against narrative manipulation isn't better fact-checking—it's communities that strengthen their collective discernment through shared practice of evaluating stories together, building immunity through collaborative wisdom rather than individual expertise.
+
+❓ **Tomorrow's Question** — But if communities can build collective immunity to discernment attacks through shared practice, what happens when this collaborative wisdom becomes so sophisticated that it evolves into something beyond traditional human judgment entirely? Can collective discernment transcend individual cognitive limitations to access forms of truth-detection that no single mind could achieve alone?`,
+    parable: `Pip found Osha by the village well at dawn, her ancient hands trailing silver threads through water that had begun to taste strange.
+
+"The water tastes of confusion," Pip said, setting down his harp. "Every story I try to tell comes out backwards, and the villagers argue about meanings that were once clear as mountain streams."
+
+Osha's fingers paused in their weaving. "The poisoners are clever now," she murmured. "They no longer drop hemlock into wells—they drop doubt into the very ability to taste poison."
+
+"How?" Pip asked, watching silver threads turn murky in the contaminated water.
+
+"First, they flood the market with a thousand different waters," Osha continued, "each merchant swearing theirs alone is pure. When people can no longer tell which source to trust, they stop trusting their own tongues entirely." She lifted a thread that shimmered with reflected chaos. "Then they appear as the only voice offering certainty: 'Stop thinking, dear child. We will tell you what is safe to drink.'"
+
+Pip watched villagers gathering at the well, their faces tight with the exhaustion of endless choice. They no longer dipped tentative fingers to taste—they simply waited for someone else to declare the water clean.
+
+"But look closer," Osha whispered, and Pip saw a small group of children sharing sips from each other's cups, comparing tastes, laughing as they learned together which springs ran true. "The antidote to poisoned judgment is not better individual taste—it's the shared tongue of community wisdom."
+
+**Moral:** When discernment itself becomes the weapon, salvation lies not in trusting authorities but in communities learning to taste truth together.
+
+**Tomorrow:** Pip wonders what happens when collective wisdom grows so refined it transcends human limitation entirely—and Osha hints at forms of discernment that emerge when many minds weave truth as one.`,
+  },
 ];

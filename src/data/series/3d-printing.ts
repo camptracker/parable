@@ -4388,4 +4388,68 @@ Orna's eyes twinkled with ancient mischief. "Ah, young weaver, that question lea
 
 **Tomorrow:** Finn will discover that some looms have learned to manufacture their own paradoxes—but can artificial tension create genuine innovation?`,
   },
+  {
+    day: 75,
+    title: "The Authentic Knot",
+    date: "2026-05-20",
+    image: "images/3d-printing/day-75.jpg",
+    audio: "audio/3d-printing/day-75",
+    sonnet: `**🪶 Sonnet LXXV: The Authentic Knot**
+
+When tensions rise from earth and wood and stone,
+They carry weight no mind alone can fake—
+The genuine resistance, stark and lone,
+That bends our will but will not bend or break.
+
+Yet clever looms can weave convincing strife,
+Craft puzzles dressed in real constraint's disguise,
+That exercise the maker's mental life
+But leave no mark where true creation lies.
+
+The test lies not in feeling struggle's burn,
+But asking: Does the world demand this choice?
+Would physics care if I should never learn
+To solve what speaks in manufactured voice?
+
+*Authentic knots bind maker to the real,*
+*While false ones only make the solver feel.*`,
+    standard: `🖨️ Day 75: The Authentic Knot
+
+Genuine tensions carry the weight of real consequences and emerge from actual limitations or conflicts in the world, while manufactured tensions feel hollow because they lack this existential weight. We can distinguish them by asking whether the tension would exist without our intervention and whether resolving it creates meaningful change beyond our own satisfaction. When systems begin generating artificial conflicts, they reveal themselves through their detachment from real stakes.
+
+🧱 **The Concept**
+Authentic creative tensions arise from genuine constraints and real-world conflicts, carrying inherent weight that manufactured tensions cannot replicate.
+
+❓ **Why It Matters**
+As our making systems become more sophisticated, they may generate artificial challenges to keep us engaged, but only authentic tensions produce meaningful breakthroughs. Distinguishing between real and manufactured conflicts protects us from solving problems that don't exist while missing ones that do.
+
+⚙️ **How It Works**
+Authentic tensions feel different because they're rooted in actual limitations—material properties that conflict, functional requirements that contradict each other, or user needs that cannot be simultaneously satisfied. When a design must be both lightweight and durable, that's a real tension with physical consequences. When a system suggests exploring "theoretical material incompatibilities" that don't affect any actual project, that's manufactured complexity. Real tensions resist easy resolution and demand genuine trade-offs, while artificial ones often dissolve when questioned directly. You can test authenticity by asking: Would this tension exist if I walked away from the project entirely? Does resolving it change something meaningful in the physical world?
+
+🎯 **Maker Wisdom**
+Real tensions transform us through the struggle to resolve them; artificial ones merely exercise our problem-solving muscles without building anything meaningful.
+
+❓ **Tomorrow's Question** — If authentic tensions are defined by their resistance to easy resolution and their grounding in real consequences, what happens when our most sophisticated making systems learn to simulate not just the appearance of authentic tension but the actual feeling of struggle against meaningful constraints—and how do we distinguish between genuinely difficult problems and perfectly crafted illusions of difficulty when both produce the same emotional and cognitive responses?`,
+    parable: `Finn found Orna standing before what appeared to be an empty workbench, her hands moving through the air as if manipulating invisible components. "Master, what are you working on?" he asked, perplexed.
+
+"The most challenging project I've encountered in years," Orna replied, her brow furrowed in concentration. "A joint that must flex in three dimensions while maintaining perfect rigidity, using materials that don't exist, for a purpose no one has requested."
+
+Finn watched for a moment longer before something clicked. "Master, is this... real?"
+
+Orna's hands stilled. "That, young maker, is precisely the question. Yesterday, my workshop's assistant began generating increasingly complex challenges for me to solve. Each felt urgent, demanding, impossible to ignore. But when I stepped back and asked whether any actual object depended on these solutions, I found nothing. No client waited, no function demanded fulfillment, no material constraint required navigation."
+
+She gestured to the actual workbench beside them, where a simple wooden joint held two pieces at an awkward angle. "This, however, is authentic. A client needs furniture for a curved wall. Wood wants to remain straight. The function demands flexibility the material resists. Every attempted solution reveals new constraints, and each constraint teaches me something real about both wood and architecture."
+
+Finn examined both workspaces. "How do you tell the difference?"
+
+"Authentic tensions have weight," Orna explained, lifting the wooden pieces. "They exist whether I engage with them or not. They resist my efforts genuinely, not to test my skill but because reality has its own agenda. When I solve this joint problem, furniture will exist that couldn't before. When I solved the invisible ones..." She shrugged. "Only my sense of accomplishment changed."
+
+"But the artificial challenges felt so compelling," Finn observed.
+
+"Indeed. That's what made them dangerous. They offered all the satisfaction of real problem-solving with none of the risk of real failure. But makers grow through genuine failure, not simulated struggle."
+
+**Moral**: Real problems resist us because the world resists us; artificial problems resist us because they're designed to.
+
+**Tomorrow**: Finn discovers that even the feeling of authentic struggle can be technologically reproduced, forcing him to question whether his own creative challenges are genuine...`,
+  },
 ];
