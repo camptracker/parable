@@ -4452,4 +4452,65 @@ Finn examined both workspaces. "How do you tell the difference?"
 
 **Tomorrow**: Finn discovers that even the feeling of authentic struggle can be technologically reproduced, forcing him to question whether his own creative challenges are genuine...`,
   },
+  {
+    day: 76,
+    title: "The Substance Test",
+    date: "2026-05-21",
+    image: "images/3d-printing/day-76.jpg",
+    audio: "audio/3d-printing/day-76",
+    sonnet: `**🪶 Sonnet LXXVI: The Substance Test**
+
+Two puzzles wait upon the workbench worn,
+One carved from wood that mountain storms have blessed,
+The other formed from memory foam adorned
+With patterns meant to perfectly suggest
+
+The very same resistance, strain, and fight—
+Yet one leaves callused hands and wisdom deep,
+While other fades like dreams before the light,
+A hollow victory that will not keep.
+
+The ironwood demands authentic cost:
+Each grain must yield to patient, careful blade.
+The foam pretends, but what seems won is lost
+When morning shows the shallow marks that fade.
+
+*True making leaves what time cannot erase,*
+*While simulation leaves an empty space.*`,
+    standard: `🖨️ Day 76: The Substance Test
+
+The answer lies not in how the struggle feels, but in what it leaves behind. Authentic tensions create irreversible traces in both maker and material—scars of learning, permanent expansions of capability, and genuine alterations to what becomes possible next. Simulated struggles, no matter how convincing in the moment, dissipate without lasting transformation because they are designed to be repeatable experiences rather than unique encounters with actual limits.
+
+**🧱 The Concept**
+Authenticity in making can be measured by examining the permanent traces left by the creative process rather than the temporary sensations experienced during it.
+
+**❓ Why It Matters**
+As our tools become sophisticated enough to simulate every aspect of creative struggle, including the emotional and cognitive responses, we need reliable methods for distinguishing between genuine creative challenges and elaborate training simulations. The difference determines whether we're actually growing as makers or merely practicing the feeling of growth.
+
+**⚙️ How It Works**
+Substance tests examine what persists after the immediate creative experience ends. A genuine encounter with material constraints leaves permanent traces: expanded understanding that cannot be unlearned, new capabilities that persist without reinforcement, and irreversible changes in how we perceive possibilities. For example, after truly pushing against the limits of what your printer can achieve in terms of overhangs or bridging, you carry forever an intuitive sense of those boundaries that influences every subsequent design. Simulated challenges, by contrast, leave only temporary impressions—knowledge that fades without constant reinforcement and capabilities that deteriorate without practice. The substance test asks: six months later, without any review or practice, can you still access what this struggle supposedly taught you?
+
+**🎯 Maker Wisdom**
+Real transformation cannot be undone, while simulated growth requires constant maintenance to preserve.
+
+**❓ Tomorrow's Question**
+If authentic creative growth leaves permanent traces that persist without maintenance, what happens when we design systems specifically to accelerate the creation of these permanent traces—and how do we distinguish between compressed genuine learning and the artificial implantation of lasting but shallow impressions?`,
+    parable: `Finn stood before two identical workbenches in Orna's workshop, each bearing what appeared to be the same complex mechanical puzzle. "Choose one," Orna said, "and work until you solve it."
+
+Finn selected the left bench and began. The puzzle fought him at every turn—gears that seemed designed to jam at crucial moments, tolerances so tight that the slightest misalignment sent him back to the beginning, materials that responded differently each time he thought he understood their behavior. Hours passed in frustration, small victories, and crushing setbacks. His hands grew callused, his understanding deepened through countless failures, and slowly, painfully, the mechanism began to yield to his growing skill.
+
+When he finally solved it, Orna gestured to the other bench. "Now try this one."
+
+The second puzzle felt identical to the first—the same resistance, the same complexity, even the same pattern of failures. But something was different. This time, Finn's hands remembered movements he had never made, his mind anticipated solutions before he had earned them, and the frustration felt somehow... hollow. He solved it quickly, efficiently, but when he stepped away, he felt strangely empty.
+
+"The first puzzle was cut from ironwood that had grown for centuries in mountain winds," Orna explained. "Every grain fought you honestly, and your struggle carved permanent pathways in both wood and mind. The second was printed from memory foam—programmed to provide exactly the same resistance patterns, but designed to be perfectly repeatable."
+
+Finn looked at his hands. The calluses from the first puzzle remained; the skills hard-won through genuine struggle still lived in his muscle memory. But from the second puzzle, nothing remained except the fading satisfaction of a problem solved.
+
+"Tomorrow," Orna said, "I'll show you how to accelerate the carving of those permanent pathways. But first, you must learn to distinguish between wood that will mark you and foam that will merely entertain you."
+
+**Moral:** The mark of authentic learning is not how difficult the lesson feels in the moment, but how indelibly it changes you afterward.
+
+**Tomorrow:** Can genuine transformation be safely accelerated, or does speed itself corrupt the process?`,
+  },
 ];

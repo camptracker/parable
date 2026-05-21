@@ -5016,4 +5016,65 @@ Dove felt something shift inside her chest—a sense of expansion, of purpose be
 
 *Tomorrow, we discover what truth awaits in the final moment before "I do"—and what it reveals about the difference between thinking you're ready for marriage and actually being ready for it.*`,
   },
+  {
+    day: 81,
+    title: "The Sacred Threshold",
+    date: "2026-05-21",
+    image: "images/wedding-planning/day-81.jpg",
+    audio: "audio/wedding-planning/day-81",
+    sonnet: `**🪶 Sonnet LXXXI: The Sacred Threshold**
+
+Upon the bridge between what was and is,
+Two lovers pause before their sacred door,
+Their separate hearts now learning what love's quiz
+Demands: to be, yet be themselves no more.
+The aisle becomes a pathway through the mist
+Of all they were toward all they might become,
+While vows transform from words to alchemist
+That melts two souls into a single sum.
+The ring's bright circle marks not ending's call
+But doorway opened to uncharted ground,
+Where "I" and "you" dissolve, and from their fall
+A "we" emerges, newly born and crowned.
+*This wedding day's not love's final refrain,*
+*But threshold crossed where two become one's gain.*`,
+    standard: `💍 Day 81: **The Sacred Threshold**
+
+The truth you'd hope to receive in that final moment might be this: marriage isn't the destination you've been planning toward—it's the doorway into becoming people you've never been before. What you think you know about marriage comes from observing it from the outside; what you're about to experience is the alchemical transformation that happens when two separate lives become one shared story.
+
+🧱 **The Concept**
+Your wedding day is less an ending and more a threshold—the precise moment when everything you've been becomes the foundation for everything you're becoming together.
+
+❓ **Why It Matters**
+Most couples plan their wedding as the culmination of their love story, but it's actually the opening chapter of an entirely new book. Understanding this shift changes everything about how you approach not just the ceremony, but the mindset you bring to your first day as married people.
+
+⚙️ **How It Works**
+Think of your wedding day as crossing a bridge—behind you lies everything that brought you to this moment, ahead lies territory you've never explored. The ceremony itself is that bridge, suspended between who you were and who you're becoming. When you walk down the aisle as individuals, you're carrying your entire history; when you walk back up as a married couple, you're carrying a shared future. The vows aren't just promises about what you'll do—they're declarations about who you're willing to become. The exchange of rings isn't just symbolic—it's transformational, marking the moment when "I" becomes "we" in ways you can't fully comprehend until you live them.
+
+🎯 **Wedding Wisdom**
+Design your ceremony to honor both who you've been and who you're becoming, creating a sacred bridge between your separate stories and your shared story.
+
+❓ **Tomorrow's Question** — If you discovered that your honeymoon would be less about celebrating what you've accomplished and more about practicing what you've promised, what specific aspects of being married would you most want to rehearse during those first precious days together?`,
+    parable: `Dove stood at the edge of Nana Rose's garden, watching the morning sun paint golden pathways across the dewy grass. Tomorrow was her wedding day, and something about this threshold moment felt both terrifying and sacred.
+
+"I keep thinking about doorways," Dove said as Nana Rose approached with two steaming cups of tea. "Like I'm about to walk through one, but I can't see what's on the other side."
+
+"That's because you're not meant to see it yet," Nana Rose replied, settling onto the garden bench beside her. "Every bride thinks she's planning the perfect conclusion to her love story. But really, she's designing the opening ceremony for a story that hasn't been written yet."
+
+Elm joined them, still slightly rumpled from sleep but drawn by their conversation. "I've been having the strangest dreams," he admitted. "About becoming someone I've never been before."
+
+"Ah," Nana Rose smiled knowingly. "Your dreams are wiser than your plans. Tomorrow, when you walk down that aisle, you'll be carrying everything that made you who you are. But when you walk back up it together, you'll be carrying everything you're about to become."
+
+Dove felt a shiver of recognition. "So the ceremony isn't the destination—it's the doorway?"
+
+"Precisely, dear one. The vows you speak tomorrow aren't just promises about your future behavior—they're declarations about your willingness to be transformed. The rings you exchange aren't just symbols—they're tools of alchemy, marking the moment when two separate stories become one shared adventure."
+
+Elm reached for Dove's hand. "I used to worry about losing myself in marriage. Now I'm curious about who we might discover together."
+
+"And that," Nana Rose said softly, "is the difference between fearing change and embracing metamorphosis."
+
+**Moral:** A wedding ceremony is not the conclusion of courtship but the commencement of transformation, where two individuals cross the sacred threshold from separate stories into shared becoming.
+
+**Tomorrow:** Dove and Elm consider how their honeymoon might serve as their first practice in the art of being married...`,
+  },
 ];

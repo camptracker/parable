@@ -5666,4 +5666,60 @@ The stream continued its ancient song, carrying away leaves and stories with equ
 
 **Tomorrow**: Idris will discover what happens when even the distinction between story and reality dissolves...`,
   },
+  {
+    day: 84,
+    title: "The Undivided Attention",
+    date: "2026-05-21",
+    image: "images/emotional-intelligence/day-84.jpg",
+    audio: "audio/emotional-intelligence/day-84",
+    sonnet: `**🪶 Sonnet LXXXIV: The Undivided Attention**
+
+When watching merges wholly with the watched,
+No separate self remains to guide the way;
+The observer's careful boundaries are lost
+In pure attention's undivided play.
+
+No fragment stands apart to calculate,
+No witness hovers distant from the scene;
+The heart responds before it can debate,
+Intelligence flows where no gap's between.
+
+Like flame that knows no difference from its light,
+Or river flowing seamless to the sea,
+Emotion moves through consciousness so bright
+That wisdom acts with perfect honesty.
+
+*When attention burns away the watching mind,*
+*What's left responds with grace both true and kind.*`,
+    standard: `🧭 Day 84: **The Undivided Attention**
+
+🧱 **The Concept**
+Our most profound emotional responses emerge not from managing attention but from attention becoming so complete that there's no observer left to manage it.
+
+❓ **Why It Matters**
+We spend enormous energy trying to "pay attention" to our emotions, but this very effort of monitoring creates a subtle division between the one watching and what's being watched. True emotional intelligence flows when attention becomes so total that the watcher dissolves into pure witnessing.
+
+⚙️ **How It Works**
+When we're completely absorbed in listening to someone's pain, there's no separate "me" calculating the right response—compassion flows naturally. When we're fully present to our own anger, without trying to manage or understand it, the emotion reveals its wisdom without resistance. This undivided attention doesn't require effort; it emerges when we stop fragmenting our awareness into observer and observed. Like a master musician who disappears into the music, emotional mastery appears when the emotionally intelligent "self" dissolves into pure responsiveness.
+
+🎯 **EQ Wisdom**
+The highest emotional intelligence operates through such complete attention that there's no one left to be intelligent.
+
+❓ **Tomorrow's Question** — If our most wise emotional responses emerge through this quality of undivided attention, what happens when we realize that even our attempts to cultivate "complete presence" might be creating the very division between meditator and meditation that prevents genuine absorption—and how do we distinguish between practicing attention and being attention itself?`,
+    parable: `Idris arrived at The Veil's chamber to find the elder sitting motionless before a single candle flame. No greeting, no acknowledgment—just perfect stillness. Hours passed. Idris fidgeted, planned questions, analyzed The Veil's technique. Still nothing.
+
+As afternoon light faded, Idris's restlessness dissolved into something deeper. He found himself simply watching the flame, not studying The Veil watching it, not preparing wise responses, not even watching himself watch. The boundaries between observer and observed began to blur.
+
+Suddenly The Veil spoke, though the voice seemed to come from the flame itself: "Where did Idris go?"
+
+Idris started to answer, then realized the profound truth—for those moments of complete absorption, there had been no separate Idris monitoring the experience. No diplomat calculating responses, no student trying to learn, no personality patterns running their familiar programs. Just pure attention, undivided and effortless.
+
+"When attention becomes total," The Veil continued, "who is left to have emotional intelligence? When the watcher dissolves into watching, what remains to manage or be managed?"
+
+Idris understood with startling clarity. All his training in emotional skills had been preparing him for this—the moment when technique dissolves into pure responsiveness, when the emotionally intelligent self disappears into intelligence itself.
+
+**Moral:** *The highest emotional mastery appears when there's no one left to be masterful—only pure attention responding with perfect naturalness.*
+
+*Tomorrow, Idris will discover what happens when even the desire to maintain this undivided attention becomes another subtle division...*`,
+  },
 ];

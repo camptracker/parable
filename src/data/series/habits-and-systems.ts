@@ -5112,4 +5112,58 @@ Cairn smiled, tapping gently at a stubborn edge. "Watch the stone carefully, Roo
 
 **Tomorrow:** Even Cairn's patient method holds its own seductive trap...`,
   },
+  {
+    day: 84,
+    title: "The Calibrated Heart",
+    date: "2026-05-21",
+    image: "images/habits-and-systems/day-84.jpg",
+    audio: "audio/habits-and-systems/day-84",
+    sonnet: `**🪶 Sonnet LXXXIV: The Calibrated Heart**
+
+The rose that overwhelms untrained delight
+Can teach the heart to hold increasing grace,
+If we but practice with one petal's sight
+Before we dare approach its full embrace.
+
+Like muscles learning weights they cannot bear
+Without the slow progression, rep by rep,
+Our souls must train to hold what's rich and rare—
+Each beauty taken as a measured step.
+
+The master doesn't feel less than the fool;
+His vessel simply holds what theirs would spill.
+Refinement builds capacity as its tool,
+Not intensity of rapture or of thrill.
+
+*For those who'd drink from beauty's deepest well*
+*Must learn to hold what breaks the heart that's frail.*`,
+    standard: `🧘 Day 84: The Calibrated Heart
+
+Overwhelming appreciation signals not spiritual luxury but uncalibrated sensitivity—we need practices that gradually expand our capacity to receive beauty without being destabilized by it. True refinement isn't about feeling everything more intensely, but about developing the container to hold increasingly subtle experiences with stability and grace.
+
+🧱 **The Concept**
+Sustainable sensitivity requires building our capacity to receive beauty gradually, like strengthening muscles that can hold heavier weights without strain.
+
+❓ **Why It Matters**
+Without proper calibration, heightened awareness becomes a liability rather than a gift. We either shut down to protect ourselves or become so overwhelmed by ordinary pleasures that we can't function in daily life.
+
+⚙️ **How It Works**
+Like physical training, we build our appreciation capacity incrementally. A person learning to taste wine starts with obvious flavors before detecting subtle notes. Someone developing musical sensitivity begins with clear melodies before hearing complex harmonies. We practice with small doses of beauty—a single flower, a brief piece of music, one perfect bite—and gradually extend our exposure time. The key is staying present with pleasure without grasping or amplifying it, learning to let beauty flow through us rather than trying to capture or intensify the experience.
+
+🎯 **Systems Wisdom**
+True refinement creates capacity for deeper reception, not more dramatic reaction.
+
+❓ **Tomorrow's Question** — If building capacity for beauty requires us to practice non-attachment to the very experiences that bring us the most joy, what happens when we become so skilled at letting go that we stop allowing ourselves to be genuinely moved by anything—does this represent spiritual mastery or a subtle form of emotional anesthesia?`,
+    parable: `Rook discovered a meadow where every wildflower seemed to pulse with impossible color, where each bird's song pierced him with such exquisite beauty that he wept. "I've found paradise," he declared, but within hours he was overwhelmed, unable to focus on anything but the crushing intensity of so much perfection. He fled, convinced that such sensitivity was a curse.
+
+Cairn had walked this same meadow for decades. "The first time I came here," he told Rook when they met on the path, "I could barely stand to look at a single daisy without feeling shattered. So I practiced." He explained how he'd spent minutes, then gradually hours, simply sitting with one flower, learning to let its beauty fill him without drowning him.
+
+"Each day I expanded my capacity slightly—two flowers, then three. Not to feel them more intensely, but to hold more beauty without losing my balance." Cairn's eyes sparkled as he gestured toward the meadow. "Now I can walk here and receive the whole field's gift without being overwhelmed. The beauty is no less profound; my container has simply grown to match it."
+
+Rook watched as Cairn moved through the meadow with peaceful appreciation, present to each wonder without being destabilized by any. "Beauty isn't meant to break us," Cairn said softly. "It's meant to expand us. But expansion, like all growth, happens gradually."
+
+**Moral:** Sustainable sensitivity is built through practice, not intensity.
+
+**Tomorrow:** Rook must learn the difference between spiritual mastery and emotional numbness...`,
+  },
 ];

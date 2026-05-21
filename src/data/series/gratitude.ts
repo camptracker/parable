@@ -1750,4 +1750,60 @@ Hana closed her fingers around the iron key, feeling its honest weight. For the 
 
 **Tomorrow:** Hana will discover why the hardest spiritual teaching to accept isn't about finding light, but about honoring the sacred difficulty of transformation itself.`,
   },
+  {
+    day: 29,
+    title: "The Gratitude Lineage",
+    date: "2026-05-21",
+    image: "images/gratitude/day-29.jpg",
+    audio: "audio/gratitude/day-29",
+    sonnet: `**🪶 Sonnet XXIX: The Gratitude Lineage**
+
+From ancient hearts that chose to bless their days,
+A golden thread of thanks winds through all time,
+Each grateful soul who walked appreciation's ways
+Adds to the song, extends the sacred rhyme.
+
+The grandmother who found joy in simple bread,
+The teacher who blessed curious young minds,
+The stranger who smiled though his heart had bled—
+All wove the tapestry that now binds.
+
+Your daily practice honors every link,
+Those who taught you how to see the light,
+While planting seeds for souls not yet born to think
+In gratitude's transforming, healing sight.
+
+*You are the bridge 'tween past and future's call,*
+*Your grateful heart the gift that blesses all.*`,
+    standard: `🙏 Day 29: **The Gratitude Lineage**
+
+🧱 **The Concept**
+True gratitude mastery isn't just personal transformation—it's becoming a link in an ancient chain of appreciation that extends backward to those who blessed you and forward to those you'll bless.
+
+❓ **Why It Matters**
+When you realize that your capacity for gratitude was shaped by countless others who chose appreciation over bitterness, you understand that your practice serves something larger than personal happiness. Every moment of genuine appreciation honors those who taught you how to see blessings and plants seeds for future generations to harvest.
+
+⚙️ **How It Works**
+Gratitude lineage operates through recognition, responsibility, and legacy. You recognize the teachers, mentors, friends, and even strangers whose appreciation shaped your ability to find meaning in life's experiences. You accept responsibility for nurturing this gift rather than taking it for granted. You consciously model gratitude for those watching—children, colleagues, communities—understanding that your daily practice of appreciation ripples forward through time. A grandmother's thankfulness for small mercies teaches her daughter resilience, who passes patient appreciation to her son, who brings that same grateful presence to his workplace and friendships. Each link strengthens the chain.
+
+🎯 **Gratitude Wisdom**
+Your gratitude practice honors every person who chose appreciation over resentment before you, and becomes the foundation for every person who will learn to see blessings after you.
+
+❓ **Tomorrow's Question** — If your gratitude practice is actually your contribution to humanity's collective capacity for appreciation, why might the moments when you feel least grateful be precisely when this ancestral responsibility becomes most important, and what does this reveal about gratitude as a form of stewardship rather than self-improvement?`,
+    parable: `Elder Thorn led Hana to the monastery's ancient archives, where scrolls and journals filled endless shelves. "Every master who walked these halls left something behind," he said, pulling down a weathered volume. "Not rules or techniques, but the living energy of their gratitude practice."
+
+Hana opened the book to find pressed flowers between pages of handwritten reflections. "Master Chen was grateful for morning mist," she read aloud. "Brother Samuel found blessing in shared silence. Sister Maya discovered joy in students' questions."
+
+"And here," Thorn showed her a newer section, "are the gratitude practices of those they taught, and those their students taught." Page after page revealed how appreciation had been passed down like a sacred flame, each generation adding their own light while preserving the original fire.
+
+"But Elder Thorn," Hana whispered, "what if I'm not worthy of this lineage? What if my gratitude isn't deep enough?"
+
+The old guardian smiled, taking out fresh parchment. "Write one thing you appreciated today," he instructed. When she finished, he carefully placed her words alongside the ancient masters'. "Your gratitude doesn't need to be perfect, child. It only needs to be honest. Someone, somewhere in the future, will need exactly the kind of appreciation you can offer."
+
+Hana understood then that she wasn't just learning gratitude—she was becoming a keeper of humanity's capacity for blessing, responsible for both honoring what came before and nurturing what would come after.
+
+**Moral:** *Your gratitude practice is never just about you—it's your contribution to humanity's ongoing capacity for appreciation.*
+
+*Tomorrow, Hana will discover why the weight of this sacred responsibility might feel heaviest precisely when gratitude feels most difficult...*`,
+  },
 ];
