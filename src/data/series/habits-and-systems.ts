@@ -5166,4 +5166,62 @@ Rook watched as Cairn moved through the meadow with peaceful appreciation, prese
 
 **Tomorrow:** Rook must learn the difference between spiritual mastery and emotional numbness...`,
   },
+  {
+    day: 85,
+    title: "The Moving Balance",
+    date: "2026-05-22",
+    image: "images/habits-and-systems/day-85.jpg",
+    audio: "audio/habits-and-systems/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Moving Balance**
+
+To feel without the fear of being crushed,
+To love without the need to hold it tight,
+To grieve without our spirit being hushed—
+This marks the path from shadow into light.
+
+The heart that's armored against every pain
+Has also barred the door to every joy,
+While those who let life's tempests flood their vein
+Find peace that nothing temporal can destroy.
+
+Not numbness dressed in robes of sacred thought,
+Nor detachment worn like spiritual crown,
+But presence fierce with all that can't be caught—
+The courage to let walls come tumbling down.
+
+*When feeling flows but grasping finds no ground,*
+*The moving heart knows stillness most profound.*`,
+    standard: `🧘 Day 85: The Moving Balance
+
+When we become so skilled at letting go that nothing moves us, we've traded emotional aliveness for spiritual performance—true non-attachment enhances our capacity to be moved, not eliminates it. The difference lies in whether we're protecting ourselves from feeling or allowing ourselves to feel without clinging to the experience.
+
+🧱 **The Concept**
+Authentic non-attachment increases rather than decreases our capacity for deep feeling, while spiritual bypassing uses detachment as emotional armor.
+
+❓ **Why It Matters**
+Many spiritual practitioners mistake emotional numbness for equanimity, creating a subtle form of dissociation that disconnects them from the very aliveness they seek. True mastery involves feeling everything fully while grasping nothing, not feeling nothing while grasping concepts about freedom.
+
+⚙️ **How It Works**
+When we practice healthy non-attachment, we notice that joy becomes more vivid because we're not frantically trying to make it permanent, grief becomes cleaner because we're not resisting its flow, and love deepens because we're not suffocating it with need. A master gardener feels profound delight in each bloom while understanding that seasons change. Conversely, when we use spiritual concepts to avoid feeling, we might intellectually appreciate beauty while remaining emotionally flat, or speak eloquently about love while keeping our hearts carefully guarded. The test is simple: does your practice make you more alive to what's happening, or more removed from it?
+
+🎯 **Systems Wisdom**
+Design practices that cultivate emotional courage alongside spiritual wisdom—the goal is fearless feeling, not sophisticated numbness.
+
+❓ **Tomorrow's Question** — If authentic non-attachment makes us more emotionally available rather than less, what happens when we try to manufacture this availability through effort and technique rather than allowing it to emerge naturally from genuine acceptance of our current emotional capacity?`,
+    parable: `Rook discovered meditation and threw himself into the practice with his characteristic intensity, collecting insights about non-attachment like rare coins. "I've transcended desire," he announced to Cairn after three weeks of retreat, his voice carefully modulated to demonstrate his newfound equanimity. "Nothing moves me anymore. I am beyond the petty emotions that once controlled me."
+
+Cairn continued his patient carving, shaping a stone that would become part of a memorial for a friend's recently deceased child. Tears fell steadily onto the granite as his hands worked. "This is beautiful," Rook observed clinically. "You're attached to grief. I no longer experience such disturbances."
+
+The old craftsman paused, meeting Rook's eyes. "Yesterday, I watched a butterfly emerge from its chrysalis in my garden. I wept with joy for ten minutes." He returned to his carving. "Last week, I held my neighbor's newborn grandson and felt love so fierce it nearly stopped my heart. This morning, I learned of a young mother's cancer diagnosis and rage shook my entire body."
+
+"But how can you call that mastery?" Rook asked, genuinely confused. "You're completely at the mercy of your emotions."
+
+Cairn smiled through his tears. "I am at the mercy of nothing and everything simultaneously. I feel without drowning, love without grasping, grieve without breaking. You have built a fortress to keep life out. I have built a heart strong enough to let life in."
+
+Rook watched the old man work, noticing for the first time how each strike of the chisel was both technically precise and emotionally present—skill married to feeling, mastery wedded to vulnerability.
+
+**Moral:** True non-attachment doesn't protect us from feeling—it gives us the courage to feel everything without being destroyed by anything.
+
+**Tomorrow:** Rook must discover the difference between manufacturing emotional availability and allowing it to bloom naturally from acceptance...`,
+  },
 ];

@@ -5704,4 +5704,68 @@ Maxima smiled sadly. "Then you practice loving without attachment to outcome—t
 
 **Tomorrow**: Maxima will reveal why the most profound intimacy requires us to distinguish between loving someone's potential and enabling their patterns.`,
   },
+  {
+    day: 88,
+    title: "The Practice of Philosophical Boundaries",
+    date: "2026-05-22",
+    image: "images/stoic-philosophy/day-88.jpg",
+    audio: "audio/stoic-philosophy/day-88",
+    sonnet: `**🪶 Sonnet LXXXVIII: The Practice of Philosophical Boundaries**
+
+As rivers need their banks to flow with grace,
+So love requires the limits we maintain;
+Without such bounds, affection loses place
+And drowns the very fields it would sustain.
+
+The gardener who tends each growing shoot
+Must prune away what threatens healthy growth;
+Compassion that abandons its firm root
+Betrays the very ground of sacred oath.
+
+To hold another's pain without being held
+By patterns that would drag both spirits down—
+This asks that our own center stay unshelled
+While offering love that won't let others drown.
+
+*For boundaries are not the walls of fear,*
+*But banks that let true intimacy flow clear.*`,
+    standard: `🏛️ Day 88: The Practice of Philosophical Boundaries
+
+Loving someone's potential means holding space for their growth while maintaining your own integrity; enabling their patterns means sacrificing your boundaries to accommodate their unconscious repetitions. True love requires the courage to stay present without becoming complicit, to offer support without absorbing dysfunction. This distinction reveals that the deepest intimacy emerges not from unlimited accommodation but from the conscious maintenance of healthy limits.
+
+🧱 **The Concept**
+Philosophical boundaries are the conscious limits we establish to preserve our capacity for virtue while remaining open to genuine connection.
+
+❓ **Why It Matters**
+Without clear boundaries, our desire to help others can become a form of spiritual self-betrayal that ultimately serves neither party. We mistake boundary-setting for lack of love, when actually boundaries are what make sustainable love possible. The absence of limits leads to resentment, exhaustion, and the corruption of our own character.
+
+⚙️ **How It Works**
+Boundaries operate like the banks of a river—they don't stop the flow but direct it constructively. When someone repeatedly violates your time, you might say: "I care about you, and I'm available for conversation between 7-9pm." When someone projects their anger onto you, you might respond: "I understand you're upset, and I won't accept being spoken to that way." When someone expects you to solve problems they need to address themselves, you offer support without taking responsibility. These limits aren't punishments but containers that allow authentic relationship to flourish. The key is maintaining compassion while refusing to participate in dynamics that diminish either person.
+
+🎯 **Stoic Wisdom**
+As Epictetus taught, we are responsible for our own choices and responses, never for changing others—boundaries simply make this wisdom practical in relationships.
+
+❓ **Tomorrow's Question** — If the people who most consistently violate your boundaries are actually teaching you exactly where you need to develop stronger internal authority, what does this reveal about why we often blame others for patterns that we unconsciously enable through our own lack of clarity?`,
+    parable: `The legions had made camp near a plague-stricken village, and against all protocol, young soldiers kept sneaking out to help the afflicted. Each morning, more men fell ill, their compassion becoming the very mechanism of their destruction.
+
+"General," Caius approached Maxima with troubled eyes, "surely we cannot simply ignore their suffering? How can virtue require such coldness?"
+
+Maxima watched another fevered soldier being carried to the medical tent. "Tell me, Caius—is the captain who forbids his men to enter that village cruel or kind?"
+
+"Cruel, surely. He denies aid to those who need it most."
+
+"And when his entire legion lies dead from plague, having helped no one while destroying their own capacity to serve—what then?"
+
+Caius fell silent, understanding dawning.
+
+"The village will recover or perish by its own fate," Maxima continued. "But a legion that maintains its boundaries can serve a thousand villages over decades. The captain who seems hardest shows the deepest love—he preserves the very resource that makes all future service possible."
+
+"But how do we distinguish between necessary boundaries and selfish withdrawal?"
+
+"By asking not 'What feels most caring in this moment?' but 'What preserves my capacity to be truly useful over time?' The river that respects its banks nourishes the land. The river that floods destroys the very fields it meant to water."
+
+**Moral**: *True compassion requires the wisdom to preserve our capacity for service rather than depleting it through unlimited accommodation.*
+
+*Tomorrow, we explore how the very people who challenge our boundaries most persistently may be our greatest teachers in developing inner authority...*`,
+  },
 ];

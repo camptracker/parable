@@ -5230,4 +5230,64 @@ Pip watched in wonder as the villagers dispersed, each carrying their thread but
 
 **Tomorrow**: But what happens when two such truth-weaving communities reach opposite conclusions about the same tale?`,
   },
+  {
+    day: 87,
+    title: "The Tribunal of Stories — When Truth Tests Itself",
+    date: "2026-05-22",
+    image: "images/storytelling/day-87.jpg",
+    audio: "audio/storytelling/day-87",
+    sonnet: `**🪶 Sonnet LXXXVII: The Tribunal of Stories**
+
+When villages claim their tales alone are true,
+And wise men argue through the endless night,
+Which story holds the sacred, pure, and right—
+The tales themselves reveal what each will do.
+
+No judge need weigh which narrative rings clear,
+For authentic stories bear consistent fruit:
+They heal the broken heart, inspire the mute,
+And plant in barren souls what they hold dear.
+
+But poisoned tales, though dressed in wisdom's gold,
+Will poison every garden where they're sown,
+Leaving behind what time will soon unfold:
+The bitter harvest that corruption's grown.
+
+*Let stories prove themselves through what they birth—*
+*True tales create more heaven here on earth.*`,
+    standard: `📖 Day 87: The Tribunal of Stories — When Truth Tests Itself
+
+When awakened communities reach contradictory conclusions about a story's authenticity, the stories themselves become the final arbiters—authentic narratives consistently generate life-affirming outcomes across all sincere communities, while corrupted stories reveal their poison through the bitter fruits they produce over time. The ultimate test isn't what any group believes about a story, but what that story actually creates in the world when lived.
+
+🧱 **The Concept**
+Stories prove their authenticity not through community consensus but through their sustained capacity to generate wisdom, healing, and growth wherever they take root.
+
+❓ **Why It Matters**
+In an age where every narrative claims truth and every community believes its discernment is perfect, we need objective criteria that transcend group opinion. The fruits of a story—what it actually produces when lived—provide the most reliable measure of its authentic worth.
+
+⚙️ **How It Works**
+Authentic stories create consistent patterns across cultures: they inspire courage without recklessness, compassion without enabling, wisdom without arrogance. When the same narrative generates similar positive transformations in completely different communities over extended time periods, it reveals its archetypal authenticity. Corrupted stories, regardless of how wise they sound, eventually produce recognizable poisons: cynicism masquerading as sophistication, relativism that paralyzes moral action, or rigid fundamentalism that destroys nuance. The story of **redemption through sacrifice**, for instance, has inspired genuine heroism across millennia and cultures—while its corrupted version promotes martyrdom complexes and victim worship that ultimately serve no one.
+
+🎯 **Storytelling Wisdom**
+Let your stories prove themselves through the lives they touch rather than the arguments they win.
+
+❓ **Tomorrow's Question** — But if stories ultimately prove themselves through their fruits over time, what happens when storytellers become so focused on creating measurable positive outcomes that they lose the courage to tell difficult truths that might initially disturb before they heal? How do you distinguish between stories that challenge us toward growth from those that simply comfort our existing limitations?`,
+    parable: `Pip stood at the crossroads where three villages met, each claiming to possess the One True Tale that would save the world. The Northern village insisted their Story of Sacred Sacrifice was authentic—hadn't it inspired their greatest heroes? The Southern village scoffed, proclaiming their Tale of Eternal Joy as the only real truth—look how happy their people were! The Eastern village dismissed both, declaring their Chronicle of Perfect Balance the sole genuine narrative—observe their harmony!
+
+Each village sent their wisest storytellers to debate, their voices rising in passionate argument as twilight fell. Pip watched, overwhelmed, his own half-finished tales seeming pitiful beside such certainty.
+
+Then Osha emerged from the forest, her ancient eyes twinkling. "Come," she whispered, leading him to a hidden grove where three streams converged.
+
+"Long ago," she began, "three gardeners found the same magical seed. The first planted it in rich soil and it grew into a tree bearing sweet fruit that nourished the hungry. The second planted it in rocky ground where it became a sturdy shrub whose bark healed the sick. The third planted it in sandy earth and it spread into a flowering vine that brought beauty to the barren.
+
+"Each gardener claimed their plant was the 'true' form of the seed. They argued fiercely, while travelers passing through simply gathered fruit, medicine, and flowers as they needed them. The seed cared nothing for the arguments—it gave what each soil allowed, asking only to grow and serve."
+
+Pip watched the three streams merge into a single river. "The villages..."
+
+"Will argue forever," Osha smiled. "But watch what their stories actually create. True tales bear fruit that feeds souls, regardless of which garden grows them. False tales produce only the sound of their own praise."
+
+**Moral:** Stories prove their worth not by winning debates but by the harvest they yield in human hearts.
+
+**Tomorrow:** Pip discovers that the most nourishing fruits sometimes grow from the most challenging soil...`,
+  },
 ];

@@ -5077,4 +5077,69 @@ Elm reached for Dove's hand. "I used to worry about losing myself in marriage. N
 
 **Tomorrow:** Dove and Elm consider how their honeymoon might serve as their first practice in the art of being married...`,
   },
+  {
+    day: 82,
+    title: "The Sacred Return",
+    date: "2026-05-22",
+    image: "images/wedding-planning/day-82.jpg",
+    audio: "audio/wedding-planning/day-82",
+    sonnet: `**🪶 Sonnet LXXXII: The Sacred Return**
+
+No stage lights now, no audience to please,
+Just morning light and coffee shared for two,
+The gentle art of learning how to ease
+Into the rhythms marriage offers you.
+
+Not grand romance but small negotiations—
+Which side of bed, how long to read alone,
+The quiet dance of daily conversations
+That build a life from love's foundation stone.
+
+Here practice blooms in moments unobserved:
+How patience grows when travel plans go wrong,
+How tenderness, not passion, is preserved
+In choosing kindness when the day grows long.
+
+*Your honeymoon's true gift lies not in flight,*
+*But learning married love in morning light.*`,
+    standard: `💍 Day 82: The Sacred Return
+
+The aspects of marriage most worth rehearsing during a honeymoon are the intimate rhythms of daily partnership: how you make decisions together without an audience, how you handle each other's morning moods, and how you navigate the tiny negotiations that create either harmony or friction. These aren't the grand romantic gestures, but the quiet practices of sharing space, attention, and mundane choices that will form the foundation of your actual married life.
+
+**🧱 The Concept**
+Your honeymoon is not an escape from real life but a laboratory for practicing married life without the pressures and distractions that usually surround you.
+
+**❓ Why It Matters**
+Most couples treat their honeymoon as a fantasy finale to their wedding celebration, but the couples who use it as a gentle rehearsal for partnership often find themselves better prepared for the transition into married life. The skills you practice in this protected time—listening without agenda, making decisions collaboratively, being present without performance—become the muscle memory of your marriage.
+
+**⚙️ How It Works**
+Instead of planning every moment, leave space for the small negotiations: Where should we eat breakfast? How long do you need to yourself this morning? What time should we head back to the room? Notice how you each approach decisions, handle disappointment when plans change, or respond to each other's different energy levels. Practice the art of checking in—not just "Are you having fun?" but "How are you feeling right now? What do you need? How can we make this work for both of us?" These micro-moments of attunement become the foundation for decades of partnership. Pay attention to how you naturally divide responsibilities, how you each recharge, and how you can support each other's different rhythms without losing yourselves.
+
+**🎯 Wedding Wisdom**
+Your honeymoon is your first chance to practice being married without an audience—use it to discover your natural partnership rhythm rather than performing romance.
+
+**❓ Tomorrow's Question**
+If you discovered that your transition from engaged couple to married couple would require you to consciously release one specific expectation or fantasy about what marriage would provide for you, what would you most need to let go of to allow space for what marriage actually wants to give you?`,
+    parable: `After the last guest departed and the flowers were cleared away, Dove found herself sitting in their hotel room, suddenly quiet after months of wedding chaos. "Is it strange that I feel more nervous now than I did walking down the aisle?" she asked Elm, who was attempting to fold his rumpled tuxedo.
+
+"What kind of nervous?" he asked, abandoning the shirt and sitting beside her.
+
+"Like... we don't know how to be married yet. We know how to be engaged, how to plan a wedding, how to perform being a couple for everyone else. But married? I have no idea what that looks like on a Tuesday morning."
+
+Nana Rose had anticipated this moment during their final planning session. "Your honeymoon isn't a vacation from your new life," she had told them. "It's your first laboratory for learning what married life actually feels like. Pay attention to the small things—how you negotiate where to eat breakfast, how you handle it when one of you needs space, how you make decisions without consulting Pinterest or your mothers."
+
+Now, as they sat together in the gentle aftermath of their celebration, Elm reached for Dove's hand. "So what do you want for breakfast tomorrow?" he asked, grinning.
+
+"I have no idea," Dove laughed. "I've been so focused on the wedding menu that I forgot I actually have preferences about food again."
+
+"Perfect," Elm said. "Let's figure it out together. And then maybe we can practice all those other things we've never had to negotiate before—like how to share a bathroom counter and whether we're morning conversation people or morning quiet people."
+
+Dove felt something release in her chest. "You mean we get to learn how to be us, without anyone watching?"
+
+"Exactly. No performance required. Just... practice being married to each other."
+
+The moral whispered itself into the quiet room: *A honeymoon's greatest gift is not escape from married life, but gentle entry into it—a chance to discover your natural rhythms without the world watching.*
+
+Tomorrow, they would begin to understand what marriage asks them to surrender in order to receive what it truly offers.`,
+  },
 ];

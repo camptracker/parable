@@ -5372,4 +5372,67 @@ Lila took a tentative bite, then another. Her shoulders relaxed as genuine nouri
 
 **Tomorrow**: *When does trusting the process become another trap that keeps you from hearing your body's changing needs?*`,
   },
+  {
+    day: 87,
+    title: "The Discernment Edge",
+    date: "2026-05-22",
+    image: "images/nutrition-science/day-87.jpg",
+    audio: "audio/nutrition-science/day-87",
+    sonnet: `**🪶 Sonnet LXXXVII: The Discernment Edge**
+
+When healing hurts, how shall we know the way
+Between the pain that cleanses and destroys?
+The body speaks in whispers every day,
+Yet rigid minds mistake its subtle voice.
+True wisdom reads the currents running deep
+Beneath the surface chaos of sensation,
+Knowing when to hold and when to leap
+From practices that promised transformation.
+The trembling hand, the sleep that will not come,
+The growing void where once was gentle peace—
+These signals call the discerning to become
+Students of when commitment should release.
+For trust includes the courage to discern
+*When sacred paths require a different turn.*`,
+    standard: `🍎 Day 87: The Discernment Edge
+
+When devotion to "trusting the process" becomes rigid dogma, it transforms from metabolic wisdom into spiritual bypassing—using the language of surrender to avoid the responsibility of discernment. True process trust includes the willingness to recognize when the process itself has become the problem, requiring the courage to change course even when it threatens your identity as someone who "trusts their body."
+
+**🧱 The Concept**
+Metabolic discernment is the ability to distinguish between temporary discomfort that signals healing and persistent dysfunction that indicates your approach needs adjustment.
+
+**❓ Why It Matters**
+Without discernment, any metabolic approach can become a prison disguised as wisdom. Your body provides constant feedback about whether your current path serves your biology, but interpreting this feedback requires the skill to separate healing responses from harm signals. The most dangerous metabolic trap is continuing a harmful practice because you've labeled it "healing" or "natural."
+
+**⚙️ How It Works**
+True discernment operates through multiple feedback loops: energy trends over weeks rather than daily fluctuations, sleep quality patterns that persist despite adequate recovery time, digestive function that worsens rather than adapts, and emotional states that become increasingly unstable rather than more regulated. For example, someone following a strict elimination diet might experience initial improvement followed by increasing anxiety, social isolation, and obsessive food thoughts—signals that the approach has shifted from therapeutic to harmful. Similarly, an intermittent fasting protocol that initially boosted energy but now consistently disrupts sleep and increases stress responses requires honest reassessment, not deeper commitment to "trusting the process."
+
+**🎯 Science Wisdom**
+Metabolic discernment develops through the willingness to hold your favorite health approaches lightly enough to let them go when your biology asks for something different.
+
+**❓ Tomorrow's Question** — *If developing metabolic discernment requires this ongoing willingness to question even your most successful approaches, what happens when you become so skilled at changing course that you never stay with any practice long enough to experience its deeper benefits—and why might this "advanced" flexibility actually represent a more subtle form of avoiding the discomfort of true commitment?*`,
+    parable: `Lila found Maren sitting beside the middle hearth, which burned with an unusual green flame that seemed to flicker between warmth and coolness.
+
+"Teacher," Lila began hesitantly, "I've been following the moon-fasting ritual you taught me for three full cycles, trusting the process as you said. But my dreams have turned restless, and my hands shake when I tend the garden. Yet I thought commitment meant continuing regardless of discomfort?"
+
+Maren smiled knowingly. "Show me your palms, child."
+
+Lila extended her hands, revealing a subtle tremor and pale coloring. Maren studied them with the same attention she gave to reading herb preparations.
+
+"There is wisdom in the old saying, 'Trust the river, but learn to read its currents,'" Maren said, touching the green flame with her finger. "This fire burns with foxglove essence—healing in precise measure, poison in excess. The flame itself tells me when to add fuel and when to let it diminish."
+
+She turned to face Lila directly. "True trust includes trusting your ability to discern. The moon-fasting served its purpose in clearing old stagnation from your system. But see how your body now speaks differently? The tremor, the pallor, the restless sleep—these are not healing responses but signals that this particular medicine has completed its work."
+
+"But how do I know the difference?" Lila asked. "Between healing discomfort and harm?"
+
+"Healing discomfort moves toward resolution," Maren replied, adjusting the green flame to burn more steadily. "Like the burn of a wound cleaning itself, or the ache of a muscle growing stronger. Harm signals persist and worsen, creating new problems rather than resolving old ones. Your commitment should be to your body's wisdom, not to any single practice."
+
+Lila nodded slowly, feeling both relief and uncertainty. "So discernment means being willing to change course?"
+
+"Discernment means developing the skill to read the deeper currents beneath surface turbulence," Maren said. "Tomorrow, I'll teach you about the opposite danger—the restless mind that changes course so frequently it never experiences the deeper gifts that only emerge through sustained practice."
+
+**Moral:** True metabolic wisdom lies not in rigid adherence to any protocol, but in developing the discernment to recognize when beneficial practices have transformed into harmful habits.
+
+**Tomorrow:** Lila will discover why some seekers become so addicted to changing their approach that they never allow any practice to reveal its deeper transformative potential.`,
+  },
 ];

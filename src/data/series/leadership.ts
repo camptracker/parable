@@ -5335,4 +5335,59 @@ Senna approached afterward, eyes bright with discovery. "Captain, when we couldn
 
 *Tomorrow, Tova will discover something troubling about the moments when her crew performs at their absolute peak...*`,
   },
+  {
+    day: 85,
+    title: "The Solitude of Strength",
+    date: "2026-05-22",
+    image: "images/leadership/day-85.jpg",
+    audio: "audio/leadership/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Solitude of Strength**
+
+When eagles teach their young the art of flight,
+They do not soar beside them wing to wing,
+But push them from the nest toward the light
+That they might find what courage they can bring.
+So leaders wise know when to step away,
+To let their teams discover hidden strength,
+For constant guidance, though well-meant, can stay
+The growth that comes from going the full length.
+The boldest choices bloom in solitude,
+When safety nets are folded out of sight,
+And minds must wrestle with each interlude
+Of doubt until they claim their birthright.
+*For in the space where help cannot be found,*
+*The strongest voices finally make their sound.*`,
+    standard: `👥 Day 85: The Solitude of Strength
+
+When your team makes their most confident decisions in your absence, it reveals that your presence may be inadvertently creating a safety net that prevents them from fully engaging their own judgment muscles. True leadership development requires periods of deliberate unavailability where people must rely entirely on their own wisdom and live with the full weight of their choices.
+
+🧱 **The Concept**
+The most powerful leadership development happens when people are forced to make important decisions without access to external validation or guidance.
+
+❓ **Why It Matters**
+When leaders are constantly available, team members can develop a subtle dependency that weakens their decision-making muscles rather than strengthening them. The security of knowing they can always check with you becomes a crutch that prevents them from fully trusting their own judgment.
+
+⚙️ **How It Works**
+Consider a manager who always responds immediately to every question versus one who establishes specific "thinking windows" where team members must work through challenges independently before seeking input. The first creates decision-makers who are excellent at gathering approval; the second develops decision-makers who are skilled at weighing options and living with consequences. A sales director might discover that her highest-performing representatives are those who learned to read client situations and make pricing decisions during the months when she was unavailable due to maternity leave. An executive could find that the department that thrived during his extended business trip developed a collaborative decision-making process that actually outperformed the centralized approach they used when he was present.
+
+🎯 **Leadership Wisdom**
+Sometimes the greatest gift you can give your team is the temporary withdrawal of your safety net, forcing them to discover they were already capable of flying.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most innovative breakthroughs consistently happened during the exact periods when you were least involved in their day-to-day work, what would this reveal about the relationship between your need to add value and their need to discover their own creative capabilities?`,
+    parable: `Tova found Greymane studying the harbor from his usual perch, watching fishing vessels navigate the morning swells without assistance from the lighthouse keepers.
+
+"Admiral, my crew struggles when I'm not there to guide every decision. Yesterday, while I was in port meetings, they made three critical calls about weather routing. All three were perfect—better than choices I might have made myself. But when I returned and praised them, they seemed almost surprised by their own competence."
+
+Greymane smiled, pointing to a lone fishing boat expertly threading between two merchant vessels. "See that captain? Last month, his mentor retired after forty years of sailing these waters together. For weeks, the young man radioed constantly—asking about wind patterns, current readings, safe passages. His mentor, wise beyond his years, began responding slower and slower to each call."
+
+"Eventually, the old sailor stopped responding altogether for days at a time, claiming radio troubles. The young captain, forced to trust his own reading of wind and wave, discovered he had absorbed decades of wisdom through observation. His confidence soared—not from external validation, but from the undeniable proof of his own successful navigation."
+
+Tova watched the distant boat move with graceful certainty through waters that would have seemed treacherous to untrained eyes. "You're saying my constant availability might be preventing them from trusting what they already know?"
+
+"A lighthouse guides ships safely to harbor," Greymane replied, "but it doesn't sail the ship. Your crew has been watching you navigate these waters long enough to have internalized your wisdom. Perhaps what they need now is not more guidance, but the sacred solitude where they can discover they've become navigators themselves."
+
+**Moral:** *The strongest decision-makers are forged not in the comfort of constant guidance, but in the crucible of necessary solitude where they must trust their own judgment.*
+
+*Tomorrow, Tova will discover what happens when the crew's greatest innovations emerge not from her direction, but from her strategic absence...*`,
+  },
 ];

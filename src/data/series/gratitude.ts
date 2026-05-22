@@ -1806,4 +1806,67 @@ Hana understood then that she wasn't just learning gratitude—she was becoming 
 
 *Tomorrow, Hana will discover why the weight of this sacred responsibility might feel heaviest precisely when gratitude feels most difficult...*`,
   },
+  {
+    day: 30,
+    title: "The Eternal Flame",
+    date: "2026-05-22",
+    image: "images/gratitude/day-30.jpg",
+    audio: "audio/gratitude/day-30",
+    sonnet: `**🪶 Sonnet XXX: The Eternal Flame**
+
+Within the darkness of the human heart,
+A sacred flame burns bright through joy and pain,
+Tended by souls who play the keeper's part,
+Who guard this light through loss and worldly gain.
+
+When storms of sorrow shake the very ground,
+And grateful thoughts seem distant as the stars,
+These faithful guardians stand their holy ground,
+Their steady practice healing ancient scars.
+
+For every moment spent in true thanksgiving,
+Ignites a spark in someone else's night,
+Proof that appreciation keeps on living
+Even when the world has lost its sight.
+
+*So tend your gratitude with sacred care—*
+*You keep alive the light that all must share.*`,
+    standard: `🙏 Day 30: The Eternal Flame
+
+When we feel least grateful, we're experiencing precisely the conditions where our practice serves its highest purpose—holding steady appreciation when the world needs it most, like tending a sacred flame during the darkest nights. This transforms gratitude from a personal wellness tool into a form of spiritual stewardship, where our consistent practice becomes a lighthouse for others navigating their own storms.
+
+**🧱 The Concept**
+Gratitude mastery isn't about achieving perfect appreciation—it's about becoming a keeper of the eternal flame that burns regardless of circumstances.
+
+**❓ Why It Matters**
+Just as lighthouse keepers must tend their beacon especially during storms, your gratitude practice serves others most when you maintain it through your own darkness. This perspective transforms every moment of practice into an act of service that extends far beyond personal benefit.
+
+**⚙️ How It Works**
+When you practice gratitude during loss, you prove that appreciation can coexist with grief. When you find blessings amid failure, you demonstrate that worth isn't conditional on success. When you appreciate ordinary moments, you model that joy doesn't require extraordinary circumstances. This steady practice creates permission for others to access gratitude even when their own circumstances feel impossible. Like a lighthouse that guides ships safely through treacherous waters, your consistent gratitude becomes a beacon that others can follow home to their own capacity for appreciation.
+
+**🎯 Gratitude Wisdom**
+You are not just practicing gratitude—you are keeping alive humanity's capacity to find light in darkness. Your practice is a sacred trust passed down through generations and forward to those who will need this light long after you're gone.
+
+**❓ Tomorrow's Question**
+As you complete this gratitude journey, what does it mean to recognize that every moment you've spent learning to appreciate has been simultaneously preparing you to become a teacher of gratitude, whether through words or simply through the way you move through the world?`,
+    parable: `On the final day of her year-long apprenticeship, Hana found Elder Thorn standing before the ancient shrine where a single flame had burned for countless generations.
+
+"This fire has never been extinguished," Elder Thorn said, his weathered hands cupping the small flame protectively. "Not during the great floods, not during the years of famine, not even during the wars that raged across these mountains. Do you know why?"
+
+Hana studied the simple flame dancing in its stone bowl. "Because someone always tended it?"
+
+"Because someone understood that they were not keeping a fire for themselves," Elder Thorn replied. "Each keeper knew that travelers lost in the darkness would need this light to find their way home. Mothers would need this flame to cook for hungry children. Communities would need this beacon to gather around during the coldest nights."
+
+He gestured toward the village below, where lanterns twinkled like earthbound stars. "Every light you see was lit from this flame. Every hearth, every lamp, every candle that has brought comfort to a frightened child—all of them carry this same light forward."
+
+Elder Thorn turned to face his apprentice. "Your gratitude practice is the same sacred trust. When you appreciate beauty during ugliness, when you find blessings amid loss, when you choose thankfulness over bitterness, you keep alive humanity's capacity to see light in darkness. Others will kindle their own gratitude from the flame you've tended."
+
+As if summoned by his words, a young couple approached the shrine, their faces etched with worry. Without speaking, Elder Thorn lit a small candle from the eternal flame and placed it in their trembling hands. Their faces immediately softened as they gazed into the light.
+
+"The flame passes from hand to hand, heart to heart, generation to generation," Elder Thorn whispered to Hana. "You are not just learning gratitude—you are becoming a keeper of the eternal flame that lights the world."
+
+**Moral**: True gratitude practice is not self-improvement but sacred stewardship—keeping alive the light that others need to find their way home to appreciation.
+
+**Tomorrow**: The apprentice becomes the teacher, and the circle completes itself.`,
+  },
 ];

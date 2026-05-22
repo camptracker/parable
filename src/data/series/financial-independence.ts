@@ -5938,4 +5938,67 @@ Kael looked between the paths—one glittering with the promise of endless learn
 
 **Tomorrow's Preview:** As Kael faces the final choice between perpetual preparation and practical application, he must confront why simple truths are hidden behind complex explanations.`,
   },
+  {
+    day: 91,
+    title: "The Simplicity Suppression Complex",
+    date: "2026-05-22",
+    image: "images/financial-independence/day-91.jpg",
+    audio: "audio/financial-independence/day-91",
+    sonnet: `**🪶 Sonnet XCI: The Simplicity Suppression Complex**
+
+When simple truths threaten the expert's trade,
+Complexity becomes the sacred shield,
+And basic wisdom must be overlaid
+With jargon dense that makes the simple yield.
+The priests of finance guard their temple door
+With formulas that mystify the plain,
+While charging fees for knowledge at the core
+That anyone with patience could obtain.
+They sell elaborate maps for well-known roads,
+And complicated tools for simple tasks,
+Creating artificial episode
+Of need for help that no one really asks.
+But truth remains though buried under art:
+*What works is simple, felt within the heart.*`,
+    standard: `💰 Day 91: The Simplicity Suppression Complex
+
+The financial industry has evolved to make simple wealth-building appear complex because complexity creates dependency, justifies high fees, and maintains artificial scarcity around basic knowledge that anyone could master. When the truth threatens profitable business models, institutions systematically elevate complexity as a marker of authority, creating a professional priesthood around concepts that could otherwise democratize wealth-building.
+
+🧱 **The Concept**
+The Simplicity Suppression Complex is the systematic institutional effort to obscure simple truths with unnecessary complexity to maintain profitable information asymmetries.
+
+❓ **Why It Matters**
+Recognizing this pattern helps you identify when complexity serves the seller rather than the buyer. Most financial "innovation" exists to extract fees from simple strategies that work, not to improve your returns.
+
+⚙️ **How It Works**
+Institutions take simple concepts like "buy and hold index funds" and layer on complex jargon, sophisticated analysis, and expensive products that essentially do the same thing. A robo-advisor charges 0.25% annually to automatically invest in index funds—something you could do yourself in ten minutes. Financial planners create elaborate Monte Carlo projections when the core advice is "save more, spend less, invest in diversified funds." The complexity theater makes you feel like you need professional help for decisions you're perfectly capable of making yourself. This creates a self-perpetuating cycle where people doubt their ability to handle simple strategies and pay for complexity they don't need.
+
+🎯 **Buffett Wisdom**
+"There seems to be some perverse human characteristic that likes to make easy things difficult."
+
+❓ **Tomorrow's Question** — If recognizing the Simplicity Suppression Complex reveals how institutions profit from artificial complexity, what does this suggest about other fields where simple solutions might be deliberately obscured by professional gatekeepers, and why might the most transformative insights in any domain often come from outsiders who haven't been trained to see complexity as sophistication?`,
+    parable: `Kael found Sable examining a weathered stone tablet covered in intricate diagrams and flowing script. "What wisdom does this ancient text contain?" Kael asked, studying the elaborate symbols.
+
+Sable smiled knowingly. "This tablet was created by the Guild of Royal Mathematicians to explain how farmers should plant their crops. Look at these complex calculations for soil moisture, lunar phases, and geometric planting patterns."
+
+Kael traced the ornate formulas with his finger. "It must contain profound secrets."
+
+"Indeed," Sable nodded. "After decades of study, the Guild's apprentices learn to decipher this wisdom. They charge farmers handsomely for consultations, claiming that only those trained in these sacred mathematics can achieve successful harvests."
+
+Just then, Tobren approached, dirt under his fingernails and a broad smile on his weathered face. "Good morning, friends. Just finished planting my fields using the old way—plant in spring after the last frost, tend regularly, harvest in fall. Same method my grandfather used."
+
+Sable gestured to the tablet. "But what of the Royal Mathematicians' advanced techniques? Surely their scholarly methods produce superior yields?"
+
+Tobren chuckled. "My neighbor hired them last season. Spent a fortune on their consultations and special soil treatments based on their calculations. His harvest was identical to mine, but he had hardly any profit left after paying their fees."
+
+Kael's eyes widened with understanding. "The complex tablet and the simple method produce the same result?"
+
+"The Guild takes something every farmer already knows—how to grow crops—and wraps it in mystery to justify their existence," Sable explained. "They create dependency on knowledge that should belong to everyone."
+
+Tobren nodded sagely. "When people make simple things complicated, ask who profits from the confusion."
+
+**Moral**: *Those who profit from complexity will always present simple truths as inadequate, creating artificial sophistication around wisdom that belongs to everyone.*
+
+*Tomorrow, Sable will reveal why outsiders often see solutions that experts cannot...*`,
+  },
 ];
