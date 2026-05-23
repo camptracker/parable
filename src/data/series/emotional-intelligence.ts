@@ -5794,4 +5794,69 @@ As if in answer, Idris felt a deep ease settle through him—not the ease of som
 
 **Tomorrow:** What happens when even this recognition becomes a new identity to protect?`,
   },
+  {
+    day: 86,
+    title: "The Humor of Taking Ourselves Seriously",
+    date: "2026-05-23",
+    image: "images/emotional-intelligence/day-86.jpg",
+    audio: "audio/emotional-intelligence/day-86",
+    sonnet: `**🪶 Sonnet LXXXVI: The Humor of Taking Ourselves Seriously**
+
+When caught explaining how we don't explain,
+Or proving that we've nothing left to prove,
+Awareness finds our seriousness quite plain—
+A comedy of consciousness on the move.
+The ego dons its most enlightened face,
+Declares itself beyond all earthly need,
+While real recognition finds such grace
+In laughing at this spiritual greed.
+For sky need never announce it's being sky,
+Nor water claim its wetness as achievement;
+The deepest truth reveals itself with sigh
+Of humor at our pompous self-agreement.
+*True wisdom wears no crown upon its head,*
+*But chuckles at the roles it thinks it's shed.*`,
+    standard: `🧭 Day 86: The Humor of Taking Ourselves Seriously
+
+Genuine recognition laughs at itself when it catches itself being defended, while the ego's claim to enlightenment becomes increasingly serious and protective when questioned. The difference lies not in the content of recognition but in whether we can find it funny when we catch ourselves performing our spirituality—true awareness includes the awareness of awareness pretending to be special.
+
+🧱 **The Concept**
+Our deepest emotional wisdom often reveals itself through the capacity to laugh at our own spiritual seriousness.
+
+❓ **Why It Matters**
+When we can find genuine humor in catching ourselves "being enlightened" or "doing awakeness," we access a lightness that dissolves the very ego structure that was co-opting our recognition. This isn't cynical dismissal but the tender laughter of awareness catching itself playing dress-up in spiritual costumes.
+
+⚙️ **How It Works**
+The moment we catch ourselves explaining our awakeness to someone, defending our level of consciousness, or feeling superior because we "don't have an ego anymore," genuine awareness finds this genuinely amusing rather than embarrassing. Like catching yourself talking to yourself in the mirror, there's a natural "oh, there I go again" quality that's more playful than shameful. This humor dissolves the seriousness that ego needs to maintain its spiritual identity. For instance, when we notice ourselves getting irritated that others "don't get it" about presence, the real recognition finds our irritation about people not being present absolutely hilarious. The ego's version feels attacked and doubles down; awareness just chuckles at the beautiful absurdity of consciousness forgetting itself so convincingly.
+
+🎯 **EQ Wisdom**
+The deepest emotional intelligence includes the intelligence to laugh at our own intelligence.
+
+❓ **Tomorrow's Question** — If genuine spiritual humor can dissolve even our most sophisticated forms of ego, what happens when we realize that even this "dissolution" might become something we're proud of achieving—and how do we find the humor in being proud of our humility without creating yet another level of spiritual performance?`,
+    parable: `Idris found The Veil sitting beneath the ancient fig tree, apparently doing nothing. For weeks now, Idris had been experiencing what he was certain were profound spiritual insights, and he approached with the careful dignity of someone who had transcended his old emotional reactivity.
+
+"Master," he began solemnly, "I believe I have finally understood what you've been teaching. I no longer identify with my emotions. I see them as clouds passing through the sky of awareness. I am the sky itself."
+
+The Veil's shoulders began to shake slightly. "And how does the sky feel about being the sky?"
+
+"Well, it's not a feeling exactly," Idris replied, his voice taking on the measured cadence of someone explaining something profound. "It's more of a knowing. A recognition. I've transcended the need for emotional reactions."
+
+The shaking of The Veil's shoulders intensified. "This sky that has transcended reactions—is it perhaps reacting to my question right now?"
+
+Idris felt a familiar heat rising in his chest. "I'm not reacting. I'm simply clarifying a misunderstanding about the nature of—" He stopped mid-sentence, hearing his own defensive tone.
+
+The Veil's mask couldn't hide the obvious laughter now. "Tell me, young sky, what happens when the sky gets annoyed at being misunderstood?"
+
+Suddenly, Idris heard it too—the absolute absurdity of his spiritual seriousness. A laugh burst from him, deep and genuine. "I sound like someone explaining why they're not explaining, don't I?"
+
+"Does the real sky need to announce that it's sky-ing?" The Veil's voice was dancing with mirth.
+
+Idris collapsed onto the ground, laughter spilling out of him. Every pompous spiritual phrase he'd been collecting, every careful way he'd been "being present," every moment of feeling superior to his "unconscious" past self—it all seemed suddenly, beautifully ridiculous.
+
+"The moment we catch ourselves performing our awakeness," The Veil said softly, "awareness winks at itself."
+
+**Moral**: True spiritual maturity includes the maturity to laugh at our own spiritual performances.
+
+*Tomorrow, Idris will discover what happens when even this laughter becomes something he's proud of.*`,
+  },
 ];

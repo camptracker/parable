@@ -5317,4 +5317,68 @@ As they walked toward the mill together, Dara realized she was witnessing someth
 
 *Tomorrow, Dara discovers what happens when even this convergence reveals its limitations...*`,
   },
+  {
+    day: 86,
+    title: "The Beginner's Resurrection — Trading Mastery for Mystery",
+    date: "2026-05-23",
+    image: "images/real-estate/day-86.jpg",
+    audio: "audio/real-estate/day-86",
+    sonnet: `**🪶 Sonnet LXXXVI: The Beginner's Resurrection**
+
+When mastery becomes a gilded cage that holds
+The very wisdom we have fought to gain,
+And proven methods, like ancient scrolls,
+Obscure the truths that fresh eyes might attain—
+
+Then courage calls us to release our grip
+On certainties that served us well before,
+To let familiar frameworks softly slip
+And open to what we've not known of lore.
+
+The expert's burden weighs heavy on the heart:
+To know so much yet miss what lies beneath
+The surface of each deal, each counterpart,
+Each property wrapped in mystery's wreath.
+
+*For in the death of all we think we know,*
+*New intelligence begins its perfect flow.*`,
+    standard: `🏠 Day 86: The Beginner's Resurrection — Trading Mastery for Mystery
+
+**The courage to become a beginner again requires dying to everything you think you know about investing, recognizing that your greatest expertise may be your greatest limitation. True mastery isn't accumulating knowledge but maintaining such fluid intelligence that you can abandon any approach the moment it stops serving life's unfolding possibilities.** When comfort with your methods becomes more important than optimal outcomes, you've traded evolution for ego.
+
+🧱 **The Concept**
+Beginner's resurrection involves deliberately releasing attachment to proven strategies in order to access intelligence that can only emerge through fresh exploration.
+
+❓ **Why It Matters**
+Every expert approach, no matter how successful, eventually becomes a filter that prevents you from seeing opportunities outside its framework. The most profitable investors are often those willing to abandon their most reliable methods when circumstances demand new responses. Your greatest strength can become your greatest blindness.
+
+⚙️ **How It Works**
+A master investor who built wealth through fix-and-flip properties encounters a market where traditional renovation models fail completely, forcing them to explore seller financing they'd never considered. A commercial specialist discovers that their analytical expertise prevents them from sensing the energetic qualities that determine which retail locations thrive. A residential expert realizes their tenant screening systems miss the intuitive factors that create long-term tenancy success. **Beginner's resurrection** means approaching each deal as if you've never done real estate before, allowing the situation to teach you rather than forcing it into familiar categories. The most sophisticated investors regularly practice **methodical ignorance**—systematically forgetting their expertise to discover what they couldn't see from inside their knowledge.
+
+🎯 **Real Estate Wisdom**
+**The investor who knows the least about how things "should" work often sees opportunities that escape the experts. True mastery is the willingness to be perpetually surprised.**
+
+❓ **Tomorrow's Question** — If beginner's resurrection consistently reveals hidden opportunities by releasing attachment to proven methods, what happens when this practice of "not-knowing" becomes so natural that you lose the ability to accumulate expertise at all? When perpetual beginner's mind prevents you from building any stable knowledge base, does this create a different kind of limitation, and how do you balance fluid intelligence with the practical need to remember what actually works?`,
+    parable: `Dara had become renowned throughout the region for her ability to transform any property into profitable abundance. Investors traveled from distant villages seeking her counsel, and her methods had been studied and copied by dozens of apprentices. Yet standing before a peculiar cottage that defied every principle she'd mastered, she felt the uncomfortable stirring of something her expertise couldn't penetrate.
+
+"The foundation should be condemned," she muttered, reviewing her calculations for the third time. "The location violates every rule of profitable placement. The previous owner's modifications make no architectural sense." But something about the property hummed with possibility that her knowledge couldn't explain.
+
+Hallam found her there at sunset, still staring at the cottage with frustrated confusion. "Thirty years I've watched you solve impossible properties," he observed. "What makes this one different?"
+
+"I know too much," Dara admitted, surprising herself with the words. "Every time I look at this place, I see violations of principles that have served me perfectly. My expertise keeps showing me why it won't work, but something deeper keeps whispering that it will."
+
+The old landlord nodded thoughtfully. "I remember when you first arrived here, barely more than a girl with carpenter's tools and wild dreams. You saw possibilities in properties I'd dismissed for decades. Your ignorance was your greatest asset."
+
+"Are you suggesting I become ignorant again?"
+
+"I'm suggesting you remember that your knowledge, however valuable, is still just a map. And maps, no matter how detailed, can never capture the full territory." Hallam gestured toward the cottage. "What if you approached this property as if you'd never seen real estate before? What if you let it teach you something your expertise hasn't learned yet?"
+
+Dara felt resistance rise in her chest—the accumulated pride of decades of successful investing. But underneath that resistance, she recognized something else: the same hunger for discovery that had driven her as a young woman with nothing to lose.
+
+The next morning, she returned to the cottage with empty hands and an empty mind. Instead of analyzing, she simply listened. Instead of calculating, she felt. And in that space of not-knowing, the property began revealing secrets that her expertise had been too loud to hear.
+
+**Moral**: *The master's greatest skill is the courage to become a student again when mastery becomes a cage.*
+
+Tomorrow, we discover what happens when this practice of intentional not-knowing becomes so natural that accumulated wisdom itself transforms into something unprecedented...`,
+  },
 ];

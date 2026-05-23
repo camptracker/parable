@@ -1869,4 +1869,58 @@ As if summoned by his words, a young couple approached the shrine, their faces e
 
 **Tomorrow**: The apprentice becomes the teacher, and the circle completes itself.`,
   },
+  {
+    day: 31,
+    title: "The Gratitude Legacy",
+    date: "2026-05-23",
+    image: "images/gratitude/day-31.jpg",
+    audio: "audio/gratitude/day-31",
+    sonnet: `**🪶 Sonnet XXXI: The Gratitude Legacy**
+
+What grateful hearts have sown in secret earth
+Shall bloom in gardens we will never see,
+Each thankful breath gives future joy its birth,
+Each moment's grace unlocks eternity.
+
+The mother's patience with her tearful child
+Teaches tomorrow how to weather storms,
+The stranger's smile, authentic and mild,
+Reminders that true kindness still warms.
+
+No grateful act dissolves in passing time—
+It seeds itself in consciousness unknown,
+Each appreciation, sacred and sublime,
+Becomes the harvest others call their own.
+
+*For gratitude's true measure isn't felt,*
+*But in the grateful world where love is dwelt.*`,
+    standard: `🙏 Day 31: **The Gratitude Legacy**
+
+🧱 **The Concept**
+True gratitude mastery isn't measured by how grateful you feel, but by the grateful world you leave behind.
+
+❓ **Why It Matters**
+After thirty days of practice, the question isn't whether gratitude has changed you—it's whether your gratitude will outlive you. Every moment of appreciation you've cultivated becomes part of humanity's expanding capacity for joy. Your practice joins an unbroken chain of grateful hearts stretching back through history and forward into futures you'll never see.
+
+⚙️ **How It Works**
+Legacy gratitude operates through invisible transmission—the way your appreciation-trained attention naturally notices what others miss, the way your grateful presence gives others permission to find beauty in ordinary moments, the way your thankful responses to life's challenges models resilience for those watching. A mother's grateful response to spilled milk teaches her child that mistakes aren't catastrophes. A colleague's appreciation for difficult feedback shows others that growth is worth celebrating. A stranger's genuine thanks to a cashier reminds everyone present that service deserves recognition. Each grateful act plants seeds in consciousness you may never see bloom.
+
+🎯 **Gratitude Wisdom**
+The greatest gratitude practice is living so appreciatively that others catch your joy like a beneficial contagion. Your legacy isn't what you accomplished, but how much beauty you helped others see.
+
+❓ **Tomorrow's Question** — If your gratitude practice is destined to become your legacy long after you're gone, why might the imperfections and struggles in your journey actually be the most important parts to include, and what does this reveal about the difference between performing gratitude and embodying it authentically for future generations?`,
+    parable: `On the final day of Hana's formal training, Elder Thorn led her to the monastery's ancient gratitude garden—a place where generations of practitioners had planted seeds while speaking their deepest appreciations.
+
+"Look closely," Elder Thorn whispered, kneeling beside a magnificent oak whose roots had intertwined with cherry blossoms, herbs, and wildflowers. "Sister Willow planted this tree three centuries ago while giving thanks for her first glimpse of inner peace. Brother Stone added these healing herbs while appreciating his recovery from great illness. And these wildflowers?" He smiled. "They seeded themselves from the bouquets of grateful pilgrims who found hope here."
+
+Hana traced the bark with wondering fingers. "But Elder Thorn, Sister Willow never saw this oak's full glory. Brother Stone never knew his herbs would heal thousands. How could they practice gratitude for harvests they'd never witness?"
+
+"Ah, young one, that is the deepest teaching," Elder Thorn's eyes sparkled. "True gratitude doesn't need to see its own fruit ripen. Every moment of appreciation you've cultivated—every bitter memory transformed to wisdom, every ordinary blessing truly seen—becomes part of the world's growing capacity for joy. Your grateful heart doesn't end with your last breath; it becomes the soil from which future generations learn to see beauty."
+
+As they sat in the dappled shade, Hana understood that her thirty days of practice were not a destination but a beginning—not just her own transformation, but her contribution to the endless garden of human appreciation.
+
+**Moral**: *The highest gratitude is planting appreciation you'll never fully see harvest, trusting that your grateful heart enriches the world's capacity for joy long after you're gone.*
+
+*Tomorrow, Elder Thorn will reveal why the struggles and imperfections in Hana's journey may be the most precious gifts she can leave behind...*`,
+  },
 ];

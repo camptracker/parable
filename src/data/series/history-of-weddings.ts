@@ -558,4 +558,62 @@ Celeste closed the magazine, troubled. "Then what we call 'traditional' weddings
 
 Tomorrow, Elder Maren would reveal how these commercial pressures fundamentally altered not just wedding ceremonies, but the very psychology of marriage itself.`,
   },
+  {
+    day: 10,
+    title: "The Anxiety Altar — When Perfection Replaced Presence",
+    date: "2026-05-23",
+    image: "images/history-of-weddings/day-10.jpg",
+    audio: "audio/history-of-weddings/day-10",
+    sonnet: `**🪶 Sonnet X: The Anxiety Altar — When Perfection Replaced Presence**
+
+Where once the bride would fast and pray in peace,
+Now couples drown in lists of things to do,
+Their hearts consumed with vendors' grand increase,
+While sacred moments slip beyond their view.
+
+The ancient altar knew no flower's name,
+No photographer to capture every tear,
+Yet souls were joined in love's eternal flame,
+With presence pure and spirits crystal clear.
+
+But now we chase perfection's gilded dream,
+With stress and worry clouding wedding day,
+The ceremony becomes a staged scene,
+While transformation quietly slips away.
+
+*For in our quest to make the perfect show,*
+*We miss the miracle our hearts should know.*`,
+    standard: `💒 Day 10: The Anxiety Altar — When Perfection Replaced Presence
+
+The wedding industry's equation of expense with love created a psychological paradox: while ancestors focused on the sacred transition into marriage, modern couples often become so consumed with orchestrating the perfect day that they miss the transformative moment itself. This shift from spiritual preparation to logistical perfection has left many couples emotionally exhausted rather than spiritually prepared for marriage, suggesting that elaborate ceremonies may actually hinder rather than enhance the profound inner work that marriage requires.
+
+🧱 **The Concept**
+The commercialization of weddings fundamentally altered the psychological experience of getting married, shifting focus from inner transformation to external performance.
+
+❓ **Why It Matters**
+This change reveals how consumer culture can corrupt even the most sacred human experiences. When couples spend months obsessing over flowers and favors instead of preparing their hearts and minds for lifelong partnership, the ceremony becomes theater rather than transformation.
+
+⚙️ **How It Works**
+Modern wedding planning creates what psychologists call "event anxiety" — a state where the couple becomes so focused on executing a flawless performance that they disconnect from the spiritual significance of their commitment. Ancient couples might fast, meditate, or undergo ritual purification for weeks before their ceremony, preparing their souls for the transition. Today's couples spend equivalent time choosing between ivory and champagne linens, arguing with vendors, and managing guest lists. The result is couples who arrive at their altar stressed, depleted, and spiritually unprepared. Studies show that couples who spend more on their weddings actually have higher divorce rates, suggesting that the industry's promises are not just empty but actively harmful to marriage success.
+
+🎯 **Wedding History Wisdom**
+The most sacred ceremonies require the least performance — true transformation happens in stillness, not spectacle.
+
+❓ **Tomorrow's Question** — If modern wedding culture has created more anxiety than spiritual preparation, and if simpler ceremonies might actually be more transformative, why do couples continue to choose elaborate productions even when they know it causes stress — and what does this reveal about how consumer culture exploits our deepest insecurities about love being "enough"?`,
+    parable: `Celeste sat in Elder Maren's study, surrounded by wedding magazines that seemed to mock her with their glossy perfection. "I can't sleep," she confessed, her voice trembling. "I keep thinking about whether the flowers will match the napkins, whether Aunt Sarah will approve of the menu, whether the photographer will capture the right moments. I dreamed about my grandmother last night — she married during the war with just a borrowed dress and wildflowers. She looked so peaceful in that old photo, so... present. But here I am, six months before my wedding, and I feel like I'm drowning in details that somehow became more important than the actual marriage."
+
+Elder Maren nodded knowingly, her weathered hands folding over an ancient text. "Your grandmother understood something we've forgotten, child. She prepared her heart, not her decorations. In medieval times, couples would fast and pray for weeks before their ceremony, purifying their spirits for the sacred transition ahead. They understood that marriage was a death of the individual self and a birth of something new — a transformation so profound it required spiritual preparation, not party planning."
+
+"But everyone expects—" Celeste began.
+
+"The industry has convinced you that love must be proven through expense, that commitment requires performance," Maren interrupted gently. "But anxiety cannot coexist with presence. When you're worried about centerpieces, you cannot receive the sacred energy of your vows. The ancient couples who married with nothing but witnesses and wildflowers often had stronger unions because they focused on the only thing that mattered — the spiritual alchemy happening between their souls."
+
+Celeste felt tears of recognition. "So all this stress is actually moving me away from what matters?"
+
+"The most transformative ceremonies happen in stillness, not spectacle," Maren smiled. "Your ancestors knew this. Perhaps it's time to remember."
+
+**Moral:** True transformation requires presence, not performance — and the heart that seeks perfection in externals often misses the miracle happening within.
+
+**Tomorrow:** We'll discover how couples throughout history navigated the tension between personal desires and social expectations in their wedding choices.`,
+  },
 ];

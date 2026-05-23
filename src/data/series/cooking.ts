@@ -5382,4 +5382,68 @@ As if to demonstrate, Ember reached for a delicate herb, and without conscious t
 
 **Tomorrow:** But what happens when this fluency becomes so natural that we forget we're still students?`,
   },
+  {
+    day: 87,
+    title: "The Vigilance of Mastery - How Success Creates Blindness",
+    date: "2026-05-23",
+    image: "images/cooking/day-87.jpg",
+    audio: "audio/cooking/day-87",
+    sonnet: `**🪶 Sonnet LXXXVII: The Vigilance of Mastery**
+
+When skilled hands move with practiced certainty,
+And every dish emerges as we planned,
+Success may bind us with its sorcery—
+We cannot see beyond our knowing hand.
+
+The sauce that never breaks, the perfect rise,
+The seasoning that always finds its mark:
+These victories, though sweet, may close our eyes
+To flavors hidden in the unexplored dark.
+
+For mastery that fears to risk its crown
+Becomes a prison built of our success,
+While those who dare to tear perfection down
+Find treasures in the ruins of their prowess.
+
+*The highest skill is knowing how to fall—*
+*To lose our grip and thus transcend it all.*`,
+    standard: `🍳 Day 87: The Vigilance of Mastery - How Success Creates Blindness
+
+The cook who remains aware of their own mastery stays open to growth by maintaining what Zen practitioners call "don't-know mind"—a conscious cultivation of curiosity even about techniques they've perfected. This vigilance against the seductive comfort of expertise requires regularly questioning our most successful methods and deliberately seeking situations that reveal the limits of our current understanding.
+
+**🧱 The Concept**
+True mastery includes the meta-skill of recognizing when our competence has become a cage that prevents further learning.
+
+**❓ Why It Matters**
+Our greatest successes often become invisible prisons, creating neural pathways so automatic that we stop noticing subtleties that could elevate our cooking to entirely new levels. The chef who never burns a sauce may never discover the complex flavors that emerge just before the burning point, while the baker whose bread always rises may never explore the profound textures possible through controlled failure.
+
+**⚙️ How It Works**
+Mastery creates blindness through three mechanisms: **pattern automation** (we stop seeing variations in familiar situations), **success addiction** (we avoid techniques that might fail), and **identity calcification** (we become attached to being "the cook who always does X"). The antidote requires deliberate practices like **technique rotation** (temporarily abandoning our best methods), **failure seeking** (intentionally attempting dishes at the edge of our ability), and **naive questioning** (asking beginner-level questions about expert-level processes). A master sauce cook might spend a month using only wooden spoons instead of whisks, discovering new textures they never knew were possible. A expert baker might deliberately under-knead bread to explore how gluten develops differently, revealing flavor profiles hidden by their perfect technique.
+
+**🎯 Culinary Wisdom**
+The highest level of mastery is the mastery of remaining unmastered—maintaining the student's eagerness to discover what we don't yet know we don't know.
+
+**❓ Tomorrow's Question** — If deliberately maintaining ignorance about our own expertise can unlock hidden dimensions in familiar techniques, what fundamental paradox explains why the most profound culinary breakthroughs often come not from perfecting what we do well, but from consciously cultivating incompetence in areas where we've never allowed ourselves to fail?`,
+    parable: `Ember sat motionless at her station, her weathered hands poised above ingredients she had transformed countless times before. For weeks, Sage had watched the old chef prepare her signature butternut squash soup—a dish so perfected that even without taste, Ember could craft it by pure instinct, each movement flowing like water finding its course.
+
+"Master," Sage ventured carefully, "your soup feeds souls. Every bowl emerges exactly as the last, perfect in every measure. Yet..."
+
+"Yet you wonder why I've begun using my left hand to stir?" Ember's clouded eyes crinkled with knowing amusement. "Why I've started crushing the squash by hand instead of using the immersion blender that serves me so faithfully?"
+
+Sage nodded, confused by these seemingly inefficient changes.
+
+"Child, there is a danger that lurks in the shadow of every success," Ember continued, deliberately fumbling with her unfamiliar grip. "When our hands know exactly where to go, our minds stop asking where else they might wander. When our techniques flow like rivers carved deep by repetition, we forget that water can find new channels."
+
+She gestured to the roughly textured soup, so different from her usual silk-smooth creation. "This clumsy stirring has taught my hands about pockets of sweetness that my perfect technique had been blending away for decades. This manual crushing releases oils I never knew existed because my efficient blender was too thorough, too quick, too... perfect."
+
+Sage tasted both versions side by side. The new soup carried depths of flavor—concentrated pockets of intensity, surprising textures that made the tongue explore rather than simply receive.
+
+"But Master, won't customers expect your signature smoothness?"
+
+Ember smiled sadly. "And there lies the trap, young one. The moment we become known for something, we begin to repeat rather than create. Our success becomes our cage." She deliberately spilled a bit of soup, watching how differently it behaved with its new, imperfect consistency. "I have spent forty years perfecting this recipe. Only by deliberately unlearning my perfection have I discovered what I never allowed it to become."
+
+**Moral**: The greatest enemy of mastery is not failure, but success that stops questioning itself.
+
+**Tomorrow**: Sage will learn why the path to transcendent cooking sometimes requires the courage to fail spectacularly at techniques we've already conquered.`,
+  },
 ];
