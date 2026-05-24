@@ -5206,4 +5206,66 @@ Dove squeezed back. "Or maybe you could teach me to like it stronger."
 
 *Tomorrow, we explore what it means to become someone new while remaining essentially yourself...*`,
   },
+  {
+    day: 84,
+    title: "The Sacred Expansion",
+    date: "2026-05-24",
+    image: "images/wedding-planning/day-84.jpg",
+    audio: "audio/wedding-planning/day-84",
+    sonnet: `**🪶 Sonnet LXXXIV: The Sacred Expansion**
+
+Not loss of self, but fuller bloom we find
+When witnessed by a love that sees complete
+The hidden chambers of the heart and mind
+That solitude could never make replete.
+
+Independence softens to connection deep,
+Reserve dissolves to show authentic grace,
+The guarded soul learns when it's safe to leap,
+And finds new courage in love's warm embrace.
+
+Through partnership's sweet mirror we perceive
+Dimensions of ourselves we never knew—
+More tender, brave, more willing to believe
+In parts of us that only love made true.
+
+*Marriage births not different souls, but whole—*
+*The fullest flowering of each sacred soul.*`,
+    standard: `💍 Day 84: The Sacred Expansion
+
+The aspects of identity most ready for evolution in marriage are often those that have kept us safe but small—the protective independence that prevents deep intimacy, the need to always be right that blocks learning from a partner, or the fear of vulnerability that limits authentic connection. True readiness for marital transformation reveals itself not in what we're willing to sacrifice, but in what we're genuinely excited to become when witnessed and challenged by unconditional love.
+
+**🧱 The Concept**
+Marriage doesn't diminish your individual identity—it creates the conditions for your fullest self to emerge through the sacred mirror of partnership.
+
+**❓ Why It Matters**
+Many couples approach marriage trying to preserve exactly who they are now, fearing that change means loss. But the most profound marriages are laboratories for becoming more authentically yourself than you could ever be alone. When you resist this expansion, you limit not just your marriage's potential but your own soul's growth.
+
+**⚙️ How It Works**
+Your partner becomes a loving witness to parts of yourself you've never fully expressed—perhaps your playfulness emerges through their humor, your courage grows through their faith in you, or your capacity for tenderness deepens through their vulnerability. This isn't about changing to please them; it's about having safe space to explore dimensions of yourself that single life never demanded. For example, a naturally independent person might discover they actually enjoy interdependence when it's chosen rather than forced, or someone who's always been the 'responsible one' might find permission to be spontaneous when their partner provides stability.
+
+**🎯 Wedding Wisdom**
+Plan your wedding as practice for this expansion—let the experience of creating something beautiful together reveal new capacities you didn't know you possessed.
+
+**❓ Tomorrow's Question** — If you discovered that your wedding day would require you to access and demonstrate a quality you've never fully embodied before (courage, patience, grace under pressure, or unconditional acceptance), which quality would you most need to cultivate, and what does that reveal about how marriage itself will demand you to grow beyond your current emotional range?`,
+    parable: `Dove sat in Nana Rose's garden studio, watching the afternoon light filter through ancient oak leaves. "I keep thinking about what you said—about becoming different people. It terrifies me," she confessed, twisting her engagement ring.
+
+Nana Rose smiled, her weathered hands steady as she arranged white roses. "Tell me, child, what part of yourself are you most afraid to lose?"
+
+"My independence, I suppose. My... completeness. I've worked so hard to be whole on my own." Dove's voice carried years of careful self-construction.
+
+"And what if," Nana Rose mused, selecting a particularly full bloom, "wholeness wasn't a fortress to be defended, but a foundation to be built upon?"
+
+Elm appeared in the doorway, having heard the last exchange. "You know what I've noticed?" he said gently, settling beside Dove. "You're more yourself with me than you've ever been. More funny, more tender, more brave. Not different—just... more."
+
+Nana Rose nodded knowingly. "True marriage doesn't subtract from who you are, my dears. It creates the safety for parts of yourself that have been hiding to finally step into the light. The independent woman discovers she can be interdependent without losing her strength. The careful man finds he can be spontaneous without losing his wisdom."
+
+"Like how I never knew I could be silly until I met you," Dove realized, looking at Elm with wonder. "Or how you started writing poetry after we got together."
+
+"Exactly," Nana Rose smiled. "Your wedding day will be practice for this sacred expansion. Every moment will invite you to access parts of yourselves that only emerge in deep partnership—grace under chaos, patience with imperfection, joy that isn't dependent on everything going right."
+
+**Moral**: Marriage doesn't diminish your identity; it provides the loving witness that allows your fullest self to emerge.
+
+**Tomorrow**: The couple will discover what new capacity their wedding day will demand of them.`,
+  },
 ];

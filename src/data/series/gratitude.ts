@@ -1923,4 +1923,66 @@ As they sat in the dappled shade, Hana understood that her thirty days of practi
 
 *Tomorrow, Elder Thorn will reveal why the struggles and imperfections in Hana's journey may be the most precious gifts she can leave behind...*`,
   },
+  {
+    day: 32,
+    title: "The Imperfect Teacher",
+    date: "2026-05-24",
+    image: "images/gratitude/day-32.jpg",
+    audio: "audio/gratitude/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Imperfect Teacher**
+
+The master wears their scars with quiet grace,
+Not hiding wounds that mark their journey's cost,
+For in each flaw, students can find their place—
+To see that growth emerges from what's lost.
+
+The polished teacher, gleaming and complete,
+Inspires awe but offers little hope,
+While one who stumbles, rises, and repeats
+Shows others how mere mortals learn to cope.
+
+Your gratitude need not be picture-pure
+To light the way for seekers yet to come,
+Your honest struggles make your wisdom sure,
+Your failures teach what victories never can sum.
+
+*The broken teacher heals through being seen,*
+*Their imperfection makes the sacred real and keen.*`,
+    standard: `🙏 Day 32: The Imperfect Teacher
+
+The imperfections and struggles in your gratitude journey become the most important parts of your legacy because they reveal the messy, human process of transformation that others can actually relate to and learn from. When we share only our polished moments of appreciation, we create an impossible standard that discourages others, but when we include our failures and doubts, we give permission for authentic growth. This difference between performing gratitude and embodying it authentically lies in our willingness to be witnessed in our becoming, not just in our achievements.
+
+🧱 **The Concept**
+The teacher who admits their failures creates more transformation than the one who claims perfection.
+
+❓ **Why It Matters**
+Your gratitude struggles aren't obstacles to your teaching—they are your teaching. When others see how you wrestle with ingratitude, comparison, and doubt while still choosing appreciation, they learn that transformation is possible for ordinary humans. Perfect gratitude teachers create disciples; imperfect gratitude teachers create other teachers.
+
+⚙️ **How It Works**
+Authentic gratitude teaching happens when you stop hiding your process. Instead of posting only your breakthrough moments, you share the Tuesday when gratitude felt impossible but you practiced anyway. Rather than claiming you never compare yourself to others, you admit how social media still triggers your envy—and how you're learning to use that trigger as a gratitude reminder. When you mess up and spend a whole day complaining, you don't pretend it didn't happen; you explore what you learned about yourself in that valley. This vulnerable honesty creates a different kind of inspiration—one that says "you can do this too" rather than "look how enlightened I am."
+
+🎯 **Gratitude Wisdom**
+Your imperfect practice gives others permission to begin their own.
+
+❓ **Tomorrow's Question** — If the most powerful gratitude teachers are those who remain students themselves, why do we often feel pressure to have "figured it out" before we can help others, and what does this reveal about our misunderstanding of wisdom as a destination rather than a way of traveling?`,
+    parable: `Hana found Elder Thorn sitting by the garden wall, carefully tending to a plant whose leaves bore scars from frost and wind. "Master," she said, approaching with hesitation, "the young ones from the village have been asking me to teach them what I've learned about gratitude. But I feel like a fraud—just yesterday I spent hours bitter about the merchant who cheated me."
+
+Elder Thorn smiled, his weathered hands continuing their gentle work. "Tell me, child, which plant would teach a seedling better—this scarred survivor that has weathered many storms, or a perfect greenhouse flower that has never known hardship?"
+
+"The scarred one, of course," Hana replied. "It knows how to endure."
+
+"Precisely." Thorn gestured to the damaged leaves. "See how each scar tells a story of survival? This plant doesn't hide its wounds—it wears them as evidence of its strength. When young plants see these marks, they learn that beauty can emerge from struggle, that growth continues after damage."
+
+Hana touched one of the scarred leaves gently. "But shouldn't a teacher have mastered what they teach?"
+
+"A master," Thorn said, his eyes twinkling, "is simply someone who has failed more times than the student has tried. Your anger at the merchant yesterday—did it teach you nothing?"
+
+"It taught me how quickly I can lose my center," Hana admitted. "And how hard it is to find gratitude when I feel wronged."
+
+"Then you have something precious to offer," Thorn said. "Not the pretense of perfect peace, but the honest struggle of becoming. The villagers don't need another flawless teacher—they need a fellow traveler willing to admit the path is difficult."
+
+**Moral:** The teacher's greatest gift is not their perfection, but their willingness to remain a student.
+
+**Tomorrow:** Elder Thorn reveals why the most profound wisdom often comes not from those who claim to know, but from those who confess they're still learning.`,
+  },
 ];

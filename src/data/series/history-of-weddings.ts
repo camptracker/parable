@@ -616,4 +616,68 @@ Celeste felt tears of recognition. "So all this stress is actually moving me awa
 
 **Tomorrow:** We'll discover how couples throughout history navigated the tension between personal desires and social expectations in their wedding choices.`,
   },
+  {
+    day: 11,
+    title: "The Performance Trap — When Weddings Became Theater",
+    date: "2026-05-24",
+    image: "images/history-of-weddings/day-11.jpg",
+    audio: "audio/history-of-weddings/day-11",
+    sonnet: `**🪶 Sonnet XI: The Performance Trap**
+
+Upon the stage where sacred vows should ring,
+Now actors pose in gowns of pristine white,
+While cameras flash and hired singers sing
+To audiences judging love's delight.
+
+The bride becomes a player in this scene,
+Her groom a prop in choreographed dance,
+As vendors whisper what their joy should mean
+And sell insurance for love's circumstance.
+
+What once was prayer becomes a public show,
+What once was blessing turns to borrowed fame,
+The sacred witnesses no longer know
+If they're invited guests or just the frame.
+
+*When marriage turns to theater's grand display,*
+*The couple's hearts become the price they pay.*`,
+    standard: `💒 Day 11: The Performance Trap — When Weddings Became Theater
+
+Couples choose elaborate weddings despite the stress because consumer culture has weaponized our deepest fear: that private, intimate love isn't impressive enough to prove its worth to others. The wedding industry exploits this insecurity by positioning expensive ceremonies as insurance policies against doubt—both our own and society's—transforming what should be spiritual preparation into public performance.
+
+🧱 **The Concept**
+Modern weddings shifted from community rituals into performance spectacles designed to broadcast social status and romantic success rather than prepare couples for marriage.
+
+❓ **Why It Matters**
+This transformation reveals how consumer culture infiltrated our most sacred moments, turning genuine spiritual preparation into anxiety-inducing theater. Understanding this shift helps explain why couples often feel emotionally exhausted rather than spiritually prepared after their wedding planning process.
+
+⚙️ **How It Works**
+The wedding-as-performance model operates on several psychological triggers: social media creates pressure for "Instagram-worthy" moments that will be judged by hundreds of acquaintances; the "Pinterest perfect" aesthetic suggests that love itself can be measured by visual coordination and expense; vendors profit by positioning elaborate elements as expressions of deeper commitment ("Don't you want the best for your special day?"); and family expectations often conflate wedding grandeur with family honor or success. This creates a feedback loop where couples feel compelled to perform their love rather than simply celebrate it, leading to months of stress over details that have nothing to do with their actual relationship or spiritual readiness for marriage.
+
+🎯 **Wedding History Wisdom**
+The most transformative wedding moments—the quiet exchange of vows, the genuine tears of joy, the authentic connection between partners—cannot be purchased or performed; they emerge from presence, not production.
+
+❓ **Tomorrow's Question** — If couples have become performers in their own wedding theater, with vendors as directors and guests as audience, what happened to the original spiritual witnesses who were supposed to help guide and support the couple's transition into marriage—and how did we lose the distinction between celebrating a marriage and selling one?`,
+    parable: `Celeste sat in Elder Maren's study, surrounded by towers of wedding magazines she'd been collecting for months. "I don't understand," she said, her voice tinged with frustration. "Every bride I follow online looks radiant in their photos, but when I talk to married friends privately, they all say planning their wedding was the most stressful time of their relationship. Why do we keep doing this to ourselves?"
+
+Elder Maren set down her tea and gestured to an old photograph on her desk—a simple ceremony from the 1940s, with a couple exchanging rings in their living room, surrounded by a dozen loved ones. "Tell me, child, what do you see when you look at modern wedding content?"
+
+"Perfection," Celeste answered immediately. "Every detail coordinated, every moment captured beautifully, everyone looking flawless and happy."
+
+"And what are those couples actually doing in those images?"
+
+Celeste paused, studying her magazines with fresh eyes. "They're... posing. They're looking at cameras, not each other. They're performing."
+
+"Precisely. Somewhere along the way, we convinced ourselves that love needed to prove itself through spectacle. The wedding industry understood that humans have a primal fear—that our private joys aren't valid unless witnessed and approved by others. They took that vulnerability and built an empire."
+
+Elder Maren opened one of Celeste's magazines to a spread about "must-have" wedding elements. "Notice how every vendor positions their service as essential to proving your love. The florist suggests that without the perfect bouquet, your ceremony lacks beauty. The photographer implies that without professional documentation, your joy didn't really happen. The caterer warns that poor food reflects poorly on your hospitality and, by extension, your character."
+
+"It's brilliant marketing," Celeste realized, "because it preys on something deeper than wanting pretty things. It makes us question whether our love is enough."
+
+"Exactly. And once couples accept the premise that their wedding must be a performance, they become actors in someone else's script rather than participants in their own spiritual journey."
+
+**Moral:** When love becomes a performance, the audience becomes more important than the couple, and the show becomes more important than the sacred commitment it was meant to celebrate.
+
+**Tomorrow:** Elder Maren reveals how the original wedding witnesses served a completely different purpose than today's wedding guests—and why this distinction holds the key to reclaiming the spiritual power of marriage ceremonies.`,
+  },
 ];

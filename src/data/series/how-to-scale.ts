@@ -5275,4 +5275,70 @@ As afternoon settled over the workshop, Vex found himself moving between the war
 
 *Tomorrow, Ironmere will reveal why the most successful architects eventually brick over the windows of their clearest rooms, and what happens when truth itself becomes too dangerous to access.*`,
   },
+  {
+    day: 87,
+    title: "The Truth Capacity Firewall",
+    date: "2026-05-24",
+    image: "images/how-to-scale/day-87.jpg",
+    audio: "audio/how-to-scale/day-87",
+    sonnet: `**🪶 Sonnet LXXXVII: The Truth Capacity Firewall**
+
+What filter guards the mind from truth's bright blade,
+That cuts through comfort with its gleaming edge?
+A firewall where measured light is made,
+Matching each soul to wisdom's sacred pledge.
+
+The novice drinks from reality's small stream,
+While masters swim in torrents of despair,
+For truth unmetered breaks the tender dream,
+Yet measured truth builds strength beyond compare.
+
+Not hidden is the harsh and bitter fact,
+But dosed like medicine to heal and grow,
+Each person fed what they can use intact,
+While poison truths to stronger vessels flow.
+
+*The wise don't shield from light, but calibrate,*
+*That each may bear the truth that fits their fate.*`,
+    standard: `🚀 Day 87: The Truth Capacity Firewall
+
+Successful companies establish reconciliation resistance because unfiltered truth becomes a resource that requires careful allocation—too much reality too fast can paralyze decision-making, while unlimited access creates truth addiction where teams become unable to act without perfect information. These resistance systems act as cognitive firewalls, ensuring truth consumption matches organizational truth-processing capacity.
+
+🧱 **The Concept**
+Truth capacity firewalls are organizational systems that regulate how much unfiltered reality different team members can access, based on their demonstrated ability to process difficult information without becoming paralyzed or overwhelmed.
+
+❓ **Why It Matters**
+Without truth capacity management, high-performing teams often become truth junkies who demand perfect information before making any decisions, while vulnerable team members get overwhelmed by harsh realities they can't yet process productively. Smart firewalls ensure each person receives the maximum amount of truth they can handle while still executing effectively.
+
+⚙️ **How It Works**
+The system works like progressive disclosure—new employees might receive filtered performance data ("revenue is growing but we have challenges") while senior leaders get raw numbers ("we're burning $2M monthly with 4 months runway left"). Customer feedback gets similarly filtered: junior team members see aggregated sentiment scores, while product leaders read verbatim customer complaints. The firewall isn't about hiding information—it's about matching truth intensity to processing capability. A junior engineer learning they built a feature nobody uses might get demoralized and quit, while a senior engineer with the same information immediately starts planning the next iteration. The key is that access levels increase as demonstrated truth-handling capacity grows.
+
+🎯 **Scaling Wisdom**
+The most sophisticated organizations don't hide truth—they dose it precisely based on each person's ability to transform difficult information into productive action.
+
+❓ **Tomorrow's Question** — If truth capacity firewalls successfully match information intensity to processing capability, why do the most successful companies eventually establish "firewall override" protocols that deliberately expose their least truth-ready team members to their most devastating organizational realities during critical strategic moments?`,
+    parable: `"But Master Ironmere," Vex protested, watching the old architect sort through a stack of reports about their expanding workshop, "why do you give me only summaries while you read the detailed customer complaints yourself?"
+
+Ironmere set down a particularly harsh letter and studied his young apprentice. "Tell me, Vex, what happened the last time I showed you that letter from the merchant who called your craftsmanship 'adequate at best'?"
+
+Vex's face flushed. "I... I spent three days rebuilding a perfectly good table instead of starting the next commission."
+
+"Precisely." Ironmere pulled out a different report. "Yet when I read that same criticism, I immediately identified which techniques to adjust in your training. The truth was identical—our responses were not."
+
+"So you're protecting me from reality?"
+
+"I'm matching reality to your capacity to use it." Ironmere spread several documents across his desk. "This letter says our delivery times are too slow—that's useful feedback you can act on. This one questions whether we should exist as a business—that's a strategic reality I must process alone until you've learned to separate useful criticism from existential noise."
+
+Vex frowned. "But how will I learn to handle difficult truths if you shield me from them?"
+
+Ironmere smiled. "By proving you can transform the truths I do share into better work. Each month you show me you can take harsh feedback and improve rather than despair, I share more of what I see. Truth isn't binary, young builder—it's a resource that must be allocated as carefully as wood or iron."
+
+"What happens when I can handle everything?"
+
+"Then you'll face the next challenge," Ironmere said mysteriously. "Deciding how much truth your own apprentices can bear."
+
+**Moral**: The deepest wisdom lies not in sharing all truth, but in matching each person's reality intake to their demonstrated capacity for transforming difficult information into productive action.
+
+*Tomorrow, Vex will discover why even the most truth-ready craftsmen sometimes need to be thrown into the deepest waters of reality...*`,
+  },
 ];

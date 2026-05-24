@@ -1672,4 +1672,64 @@ Riven watched as other wanderers gravitated toward the shadowy vendors, their fa
 
 **Tomorrow:** When our biology and our values are at war, what kind of faith does healing require?`,
   },
+  {
+    day: 28,
+    title: "The Faith Frequency",
+    date: "2026-05-24",
+    image: "images/relationship-games/day-28.jpg",
+    audio: "audio/relationship-games/day-28",
+    sonnet: `**🪶 Sonnet XXVIII: The Faith Frequency**
+
+When ancient warnings flood the modern heart,
+And safety feels like danger to the soul,
+Faith whispers truths that set old fears apart—
+To trust expansion over control's tight hold.
+
+The primitive brain speaks in urgent code:
+"Retreat from love that asks no painful price!"
+While consciousness points toward the untold road
+Where growth requires the ultimate sacrifice.
+
+To tune beyond survival's fearful static,
+And hear the frequency of higher choice,
+Requires a faith both tender and dramatic—
+To follow wisdom's still, small, certain voice.
+
+*When biology and spirit disagree,*
+*Faith becomes the bridge to who we're meant to be.*`,
+    standard: `🎭 Day 28: The Faith Frequency
+
+Relationship faith becomes the practice of trusting our evolved consciousness over our primitive wiring—choosing growth over comfort, expansion over familiarity, and love over survival. This faith isn't blind; it's the cultivated ability to act from our highest understanding even when our nervous system is screaming warnings based on outdated data. It requires us to become scientists of our own experience, testing new hypotheses about love despite our biology's resistance to the experiment.
+
+**The Concept**
+Faith in relationships operates on a different frequency than our survival-based impulses, requiring us to tune into signals our primitive brain cannot detect.
+
+**Why It Matters**
+When we operate solely from biological programming, we make choices that prioritized survival in dangerous environments but sabotage thriving in safe ones. Our nervous system's "better safe than sorry" approach treats every unfamiliar relationship dynamic as a potential threat, causing us to reject precisely the experiences that could heal us. This creates a tragic irony: our protection mechanisms become our prison.
+
+**How It Works**
+The faith frequency operates through conscious override systems that require daily practice. When someone shows consistent care, our survival brain might interpret this as "too good to be true" and generate anxiety or suspicion. Faith means acknowledging these signals while choosing to respond from our values rather than our fears. For example, when a partner gives us space without drama, our abandonment wounds might scream "they're losing interest," but faith allows us to appreciate their respect for our autonomy. When someone communicates directly instead of playing games, our trauma-bonded brain might find them "boring," but faith helps us recognize the gift of emotional safety. This frequency requires tuning out the static of our conditioning to hear the clear signal of genuine connection.
+
+**Relationship Strategy Wisdom**
+Faith in love isn't about blind trust—it's about conscious choice to act from your highest wisdom rather than your deepest wounds.
+
+**Tomorrow's Question** — If we accept that operating on the faith frequency requires us to essentially become translators between our primitive survival responses and our evolved relationship goals, what happens to the concept of "natural" chemistry when we realize that our most "natural" attractions might actually be our most programmed responses?`,
+    parable: `Riven stood at the edge of a vast canyon, watching two bridges span the chasm. One was ancient, worn smooth by countless footsteps—the path of familiar patterns, well-traveled and seemingly safe. The other shimmered with an ethereal light, newer and untested.
+
+"Your survival mind will always choose the old bridge," The Mirror observed, materializing beside them. "It has carried your ancestors through dangers you cannot imagine. But notice how it only leads back to where you started."
+
+Riven's body pulled toward the familiar path. Every instinct screamed that the glowing bridge was dangerous, untrustworthy. "But what if I fall?"
+
+"What if you fly?" The Mirror's reflection showed not Riven as they were, but as they could become—radiant, expanded, free. "Faith is not about certainty. It is about choosing to step forward when your body begs you to step back."
+
+A figure appeared on the shimmering bridge—someone who had shown Riven consistent kindness, who communicated clearly, who offered love without games. Riven's nervous system recoiled, labeling this person as "too good to be true," generating a thousand reasons to retreat.
+
+"Your biology sees threat where your spirit sees gift," The Mirror whispered. "Faith is the frequency that allows you to receive what you've always claimed to want."
+
+Riven took a trembling step onto the bridge of light. With each step, the old bridge faded, until there was only the choice to trust their highest wisdom over their deepest programming.
+
+**Moral:** Faith in love is the courage to trust your conscious evolution over your unconscious conditioning.
+
+**Tomorrow:** Riven discovers that what they thought was "natural" attraction might be their most artificial response...`,
+  },
 ];

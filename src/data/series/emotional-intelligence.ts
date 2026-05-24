@@ -5859,4 +5859,66 @@ Idris collapsed onto the ground, laughter spilling out of him. Every pompous spi
 
 *Tomorrow, Idris will discover what happens when even this laughter becomes something he's proud of.*`,
   },
+  {
+    day: 87,
+    title: "The Endless Joke",
+    date: "2026-05-24",
+    image: "images/emotional-intelligence/day-87.jpg",
+    audio: "audio/emotional-intelligence/day-87",
+    sonnet: `**🪶 Sonnet LXXXVII: The Endless Joke**
+
+What cosmic laughter shakes the seeker's throne
+When pride in dissolution shows its face?
+Each layer peeled reveals we're not alone—
+Just mirrors dancing in an endless space.
+
+The ego seeks, then seeks to stop the quest,
+Then proudly seeks to end the seeking game,
+While awareness watches, quietly blessed,
+As consciousness plays hide-and-seek with shame.
+
+No effort breaks this circle's gentle hold,
+No wisdom transcends wisdom's subtle trap,
+For every breakthrough's just the same story told
+By presence learning how to take a nap.
+
+*The deepest teaching laughs at its own weight—*
+*Divine comedy makes every fool a saint.*`,
+    standard: `🧭 Day 87: The Endless Joke
+
+The humor lies in recognizing that even our pride in dissolving pride is just another layer of the cosmic joke—awareness playing hide-and-seek with itself. We find genuine humor not by trying to avoid spiritual performance, but by laughing at the absurdity of awareness pretending it could ever actually lose itself, even when it's convinced it's "performing spirituality." The deepest laughter emerges when we realize that all our spiritual seeking, including our sophisticated attempts to "not seek," is just consciousness enjoying the elaborate game of forgetting and remembering its own nature.
+
+🧱 **The Concept**
+True emotional and spiritual maturity recognizes itself as an endless joke—awareness eternally playing at being lost and found, serious and silly, seeking and arrived.
+
+❓ **Why It Matters**
+When we stop taking our spiritual journey seriously as a "real problem to solve," we access the natural lightness that dissolves emotional reactivity without effort. This cosmic humor reveals that our most profound insights and our most ridiculous spiritual performances are equally expressions of the same consciousness at play.
+
+⚙️ **How It Works**
+Instead of analyzing whether we're being "truly spiritual" or "performing spirituality," we simply laugh at the beautiful absurdity of awareness questioning its own authenticity. When triggered by someone's behavior, we might notice ourselves getting spiritually superior about our "evolved response," then burst into laughter at catching ourselves being proud of our humility. This humor naturally dissolves the entire construct without creating a new identity as "someone who has transcended spiritual performance." Even our attempts to "not try" become part of the cosmic comedy rather than another form of effortful seeking.
+
+🎯 **EQ Wisdom**
+The ultimate emotional intelligence is the capacity to find the divine comedy in all our human seriousness, including our seriousness about being unserous.
+
+❓ **Tomorrow's Question** — If recognizing life as an endless cosmic joke can dissolve all forms of spiritual seeking and emotional reactivity, what happens when we realize that even this "recognition" might be just another move in the game—and how do we continue playing consciously when we've seen through the entire board?`,
+    parable: `Idris found himself laughing uncontrollably in the meditation hall, disrupting the solemn silence. Other seekers shot him disapproving glances as tears of mirth rolled down his cheeks.
+
+"Master," he whispered to The Veil when the session ended, "I keep catching myself being proud of my spiritual progress, then getting proud of catching myself, then proud of seeing through that pride. It's like mirrors reflecting mirrors into infinity."
+
+The Veil's shoulders began to shake. Behind the mask, barely contained laughter threatened to erupt. "What makes a seeker more serious—pursuing enlightenment or pursuing the end of seeking?"
+
+Idris's eyes widened as he realized the beautiful trap. "Both! Even my attempt to stop seeking is still... seeking to stop seeking!" His laughter renewed itself, echoing through the hall.
+
+"And what does awareness do when it catches itself playing this eternal game of hide-and-seek?" The Veil's voice danced with barely suppressed amusement.
+
+"It... laughs?" Idris gasped between giggles. "It laughs at the cosmic joke of pretending to be lost when it was never actually missing!"
+
+The Veil nodded, and for the first time, genuine laughter escaped from behind the mask—not the controlled chuckle of a wise teacher, but the wild, free laughter of consciousness recognizing its own divine comedy.
+
+Together they sat in the meditation hall, two figures shaking with the hilarity of existence taking itself so seriously, their laughter dissolving every spiritual pretension without creating a new identity as "those who have transcended seeking."
+
+**Moral:** The deepest wisdom recognizes itself as the cosmic joke of awareness playing at being unaware, and the ultimate spiritual attainment is the capacity to laugh at the beautiful absurdity of the entire game.
+
+**Tomorrow:** But what happens when even this laughter becomes another position we defend?`,
+  },
 ];

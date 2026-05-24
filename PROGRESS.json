@@ -1,6 +1,6 @@
 {
   "financial-independence": {
-    "latestDay": 91,
+    "latestDay": 92,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -15,7 +15,7 @@
     }
   },
   "nutrition-science": {
-    "latestDay": 87,
+    "latestDay": 88,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -30,7 +30,7 @@
     }
   },
   "negotiation": {
-    "latestDay": 87,
+    "latestDay": 88,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -40,7 +40,7 @@
     }
   },
   "stoic-philosophy": {
-    "latestDay": 88,
+    "latestDay": 89,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -50,26 +50,6 @@
     }
   },
   "music-theory": {
-    "latestDay": 86,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 14
-      }
-    }
-  },
-  "real-estate": {
-    "latestDay": 85,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 14
-      }
-    }
-  },
-  "storytelling": {
     "latestDay": 87,
     "recipients": {
       "jon": {
@@ -79,8 +59,28 @@
       }
     }
   },
-  "cooking": {
+  "real-estate": {
     "latestDay": 86,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 14
+      }
+    }
+  },
+  "storytelling": {
+    "latestDay": 88,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 14
+      }
+    }
+  },
+  "cooking": {
+    "latestDay": 87,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -90,7 +90,7 @@
     }
   },
   "building-relationships": {
-    "latestDay": 84,
+    "latestDay": 85,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -105,7 +105,7 @@
     }
   },
   "meaning-of-life": {
-    "latestDay": 84,
+    "latestDay": 85,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -115,7 +115,7 @@
     }
   },
   "how-to-scale": {
-    "latestDay": 85,
+    "latestDay": 86,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -125,7 +125,7 @@
     }
   },
   "machine-learning": {
-    "latestDay": 82,
+    "latestDay": 83,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -135,7 +135,7 @@
     }
   },
   "emotional-intelligence": {
-    "latestDay": 85,
+    "latestDay": 86,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -145,7 +145,7 @@
     }
   },
   "habits-and-systems": {
-    "latestDay": 85,
+    "latestDay": 86,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -155,7 +155,7 @@
     }
   },
   "leadership": {
-    "latestDay": 85,
+    "latestDay": 86,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -165,7 +165,7 @@
     }
   },
   "health-and-longevity": {
-    "latestDay": 85,
+    "latestDay": 86,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -175,7 +175,7 @@
     }
   },
   "wedding-planning": {
-    "latestDay": 82,
+    "latestDay": 83,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -190,7 +190,7 @@
     }
   },
   "history-of-israel": {
-    "latestDay": 81,
+    "latestDay": 82,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -200,7 +200,7 @@
     }
   },
   "3d-printing": {
-    "latestDay": 77,
+    "latestDay": 78,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -210,7 +210,7 @@
     }
   },
   "gratitude": {
-    "latestDay": 30,
+    "latestDay": 31,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -225,7 +225,7 @@
     }
   },
   "stock-market-origins": {
-    "latestDay": 30,
+    "latestDay": 31,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -235,7 +235,7 @@
     }
   },
   "us-bond-market": {
-    "latestDay": 30,
+    "latestDay": 31,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -245,7 +245,7 @@
     }
   },
   "goldman-sachs-trust-funds": {
-    "latestDay": 28,
+    "latestDay": 29,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -265,7 +265,7 @@
     }
   },
   "relationship-play": {
-    "latestDay": 25,
+    "latestDay": 26,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -280,7 +280,7 @@
     }
   },
   "history-of-weddings": {
-    "latestDay": 9,
+    "latestDay": 10,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -290,7 +290,7 @@
     }
   },
   "raising-kids": {
-    "latestDay": 21,
+    "latestDay": 22,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",

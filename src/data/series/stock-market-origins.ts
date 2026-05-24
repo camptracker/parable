@@ -1841,4 +1841,64 @@ Willem considered this. "Then how does true market memory survive?"
 
 *Tomorrow, we explore whether wisdom can be taught or must be earned through personal trial.*`,
   },
+  {
+    day: 32,
+    title: "The Wisdom of Market Humility",
+    date: "2026-05-24",
+    image: "images/stock-market-origins/day-32.jpg",
+    audio: "audio/stock-market-origins/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Wisdom of Market Humility**
+
+When merchants boast of knowledge vast and sure,
+And claim to read the market's every turn,
+The wise investor knows no forecast pure
+Can shield from lessons we are bound to learn.
+
+For markets mock the proudest trader's art,
+And humble those who think they've mastered chance,
+While humble souls who know they play their part
+In larger schemes survive each circumstance.
+
+The storm that sinks the confident ship's crew
+May lift the vessel built for uncertainty,
+Where cautious sails catch winds both false and true
+And navigate by known fragility.
+
+*Thus market wisdom teaches those who hear:
+*The greatest strength is knowing what to fear.`,
+    standard: `📈 Day 32: The Wisdom of Market Humility
+
+🧱 **The Concept**
+Market humility is the recognition that markets are fundamentally unknowable systems that will always surprise even the most experienced participants.
+
+❓ **Why It Matters**
+The greatest market disasters often befall those who become overconfident in their ability to predict or control market outcomes. Humility protects investors from the hubris that destroys capital and careers. It transforms uncertainty from an enemy to be defeated into a partner to be respected.
+
+⚙️ **How It Works**
+Humble investors position-size conservatively, always assuming they could be wrong about timing, direction, or magnitude. They diversify not because they lack conviction, but because they understand that even correct analysis can be derailed by unforeseen events. Warren Buffett, despite his legendary success, regularly admits his mistakes and limitations. The most successful traders often say "I don't know" more than "I'm certain." They build portfolios that can survive being wrong about individual positions while still capturing long-term market growth. Market humility manifests as curiosity rather than certainty, preparation rather than prediction.
+
+🎯 **Market Wisdom**
+The market's greatest teacher is failure, but only humble students learn its lessons.
+
+❓ **Tomorrow's Question** — If humility requires accepting that we cannot predict markets, but investing requires making decisions based on our best judgment about the future, does this create a fundamental paradox where successful investing demands both confidence in our analysis and acceptance that we're probably wrong, or does true market wisdom lie in finding ways to profit from uncertainty itself rather than trying to eliminate it?`,
+    parable: `The morning mist hung heavy over Amsterdam's canals as Willem found Van der Meer seated alone in their familiar coffeehouse corner, staring into his cup with uncharacteristic stillness. The old merchant's usual confidence seemed diminished, his shoulders carrying an invisible weight.
+
+"Master," Willem ventured, "you seem troubled. Has the VOC brought bad news from the East?"
+
+Van der Meer looked up with tired eyes. "Ah, young Willem. Sit. Let me tell you of pride's price." He gestured to the empty chairs around them. "Yesterday, this table was surrounded by merchants celebrating my latest coup—I had predicted the timing of the Batavia fleet's return within days, profited handsomely on pepper futures, and boasted of my superior knowledge of wind patterns and monsoons."
+
+Willem noticed the past tense. "And today?"
+
+"Today I learn that three ships were lost in an unexpected typhoon, my calculations proved worthless, and my confident wagers nearly ruined me." Van der Meer's voice carried no self-pity, only contemplation. "Twenty years of success had convinced me I understood forces that remain forever beyond mortal comprehension."
+
+A younger merchant at a nearby table was loudly proclaiming his certainty about upcoming grain prices. Van der Meer nodded toward him. "Watch that one, Willem. He speaks with the same certainty I possessed yesterday. The market will teach him, as it taught me, that our greatest enemy is not ignorance but the illusion of knowledge."
+
+"Then how do we proceed?" Willem asked. "If we cannot know, how do we act?"
+
+"We act with humility," Van der Meer replied, his voice gaining strength. "We prepare for what we expect while positioning for what we cannot imagine. We bet small when uncertain, which is always. We remember that the market's greatest fortunes go not to those who are never wrong, but to those who are wrong gracefully and learn quickly."
+
+The moral echoed in the coffeehouse air: **The market's greatest enemy is the investor's greatest friend—humility transforms uncertainty from a weakness into wisdom.**
+
+Tomorrow, Van der Meer would share the deepest paradox of all: how to maintain the confidence necessary to act while embracing the uncertainty that makes action dangerous.`,
+  },
 ];
