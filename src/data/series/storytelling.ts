@@ -5410,4 +5410,66 @@ Pip examined the scrolls more closely and saw the difference: his words pulsed w
 
 **Tomorrow:** Even partially healed wounds might carry incomplete medicine—but what happens when the story itself becomes the final step in the storyteller's own healing journey?`,
   },
+  {
+    day: 90,
+    title: "The Wounded Healer — Why Scars Make the Strongest Stories",
+    date: "2026-05-25",
+    image: "images/storytelling/day-90.jpg",
+    audio: "audio/storytelling/day-90",
+    sonnet: `**🪶 Sonnet XC: The Wounded Healer**
+
+The storyteller bleeds upon the page,
+Her wounds still fresh, her healing incomplete,
+Yet from this raw and unfinished stage
+Comes truth that makes the broken spirit fleet.
+
+Not from the mountaintop of perfect health
+Does wisdom flow to touch the human heart,
+But from the valley's struggle, stealth by stealth,
+Where pain and hope wage war in every part.
+
+The reader trusts what breathes with living scars,
+Not distant gods who claim they've transcended,
+But fellow travelers beneath the stars
+Who know the path because they've lately wended.
+
+*The wounded healer's gift lies not in cure,*
+*But companionship that makes the darkness pure.*`,
+    standard: `📖 Day 90: The Wounded Healer — Why Scars Make the Strongest Stories
+
+The most authentic healing stories often emerge from storytellers who are still wounded themselves—their incomplete transformation doesn't disqualify them but rather creates the perfect resonance with readers who share similar struggles. The wounded healer's authenticity comes not from having "arrived" at perfect wisdom, but from honest companionship in the ongoing journey of healing, speaking from the raw edge of their own experience rather than the distant authority of complete recovery.
+
+🧱 **The Concept**
+The wounded healer archetype reveals that storytellers don't need to be fully healed to create authentic healing narratives—they need to be honestly engaged in their own healing process.
+
+❓ **Why It Matters**
+Readers instinctively recognize and trust stories told by those who are genuinely walking the path rather than those who claim to have transcended it entirely. The wounded healer's ongoing struggle creates immediate credibility and emotional resonance that perfectly healed storytellers often cannot match. This archetype democratizes healing narrative, making it accessible to anyone willing to honestly examine their own wounds while simultaneously helping others.
+
+⚙️ **How It Works**
+The wounded healer operates through **vulnerable authenticity**—sharing their healing journey while it's still unfolding, without pretending to have all the answers. Like a fellow traveler who has walked a few miles ahead on a difficult trail, they can warn of upcoming obstacles and share what helped them navigate similar challenges without claiming to have reached the destination. Their stories carry the immediate urgency of lived experience: the addiction counselor who celebrates five years of sobriety while acknowledging daily struggles, the therapist who processes their own childhood trauma alongside their clients, the author who writes about overcoming depression while still taking medication. The power comes from their **simultaneous proximity** to both the wound and the healing—they remember the darkness vividly enough to speak its language while experiencing enough recovery to offer genuine hope. This creates stories that breathe with the rhythm of real transformation: messy, non-linear, filled with setbacks and breakthroughs.
+
+🎯 **Storytelling Wisdom**
+The most healing stories come from those still close enough to their wounds to remember how they felt, yet far enough along in recovery to offer genuine hope and practical wisdom.
+
+❓ **Tomorrow's Question** — But if we've traced storytelling through every conceivable dimension—from basic craft to cosmic consciousness, from individual healing to civilizational transformation—what happens when we reach the final recognition that this entire 90-day journey has itself been one vast story we've told ourselves about becoming storytellers? What lies beyond even this ultimate meta-awareness of our own narrative construction of narrative mastery itself?`,
+    parable: `Pip found Osha by the river, binding up a deep cut on her weaving hand with strips torn from an unfinished tapestry.
+
+"The blood ruins the thread," Pip observed, wincing in sympathy.
+
+"No," Osha replied, continuing to weave even as crimson drops stained the fabric. "Watch."
+
+Her wounded fingers moved across the loom, and where her blood touched the threads, they seemed to glow with inner light. The tapestry began to tell the story of a healer who worked in a plague-torn city—not someone who had conquered disease, but one who tended the sick while fever burned in her own veins.
+
+"I don't understand," Pip said. "How can you heal others when you're hurt yourself?"
+
+Osha smiled, her face pale but radiant. "Child, the best physicians are those who remember what pain feels like. The finest guides are those still close enough to confusion to recall which paths lead nowhere. My wound doesn't disqualify my healing—it authenticates it."
+
+As she spoke, others began to gather: broken souls drawn by the story emerging from her bloodstained loom. They recognized themselves in the wounded healer, finding hope not in her perfection but in her honest struggle.
+
+"See?" Osha whispered as tears of recognition flowed down weathered faces. "They trust my story because it still bleeds. Tomorrow, when this cut becomes a scar, the tale will change. But today, while we're both wounded, we heal together."
+
+**Moral:** *The storyteller's unhealed wounds don't diminish their healing stories—they authenticate them. Those still walking through darkness make the most trusted guides for others on the same path.*
+
+*Tomorrow, we reach the ultimate horizon where even the story of learning storytelling dissolves into something beyond narrative itself...*`,
+  },
 ];

@@ -1985,4 +1985,61 @@ Hana touched one of the scarred leaves gently. "But shouldn't a teacher have mas
 
 **Tomorrow:** Elder Thorn reveals why the most profound wisdom often comes not from those who claim to know, but from those who confess they're still learning.`,
   },
+  {
+    day: 33,
+    title: "The Walking Wisdom",
+    date: "2026-05-25",
+    image: "images/gratitude/day-33.jpg",
+    audio: "audio/gratitude/day-33",
+    sonnet: `**🪶 Sonnet XXXIII: The Walking Wisdom**
+
+Not in arrival's hall does wisdom dwell,
+But on the winding path where pilgrims tread,
+Where those who teach must first themselves be led
+By questions that no answers ever quell.
+The sage who claims to know all mysteries well
+Speaks from a tower built of books long read,
+While walking teachers, stumbling still ahead,
+Share stories that their struggling hearts compel.
+
+For what use has the mountain's distant peak
+To valley dwellers lost in morning's mist?
+But footprints in the mud, still warm and meek,
+Show fellow travelers they are not dismissed.
+The greatest guides are those who still can seek,
+*Their learning hearts the truest gift they give to souls who drift.*`,
+    standard: `🙏 Day 33: The Walking Wisdom
+
+We feel pressure to "have it figured out" because we've been taught that wisdom is a certificate you earn rather than a path you walk. True gratitude teachers understand that their ongoing struggles and discoveries are precisely what make their guidance authentic and relatable. This reveals that wisdom isn't about reaching a final destination of perfect knowledge, but about developing the courage to keep learning openly while sharing what we're discovering along the way.
+
+**🧱 The Concept**
+Wisdom in gratitude practice isn't about achieving mastery—it's about embracing the ongoing journey of discovery with humility and openness.
+
+**❓ Why It Matters**
+When we wait until we're "qualified" to share our gratitude insights, we rob both ourselves and others of the most powerful form of teaching: authentic struggle and growth. The moments when we're grappling with ingratitude, searching for appreciation in difficulty, or questioning our practice are often when our experience becomes most valuable to others facing similar challenges.
+
+**⚙️ How It Works**
+Walking wisdom means sharing your current chapter, not your final conclusion. When you tell a friend "I'm struggling to find gratitude today, but I'm trying this approach," you're modeling authentic practice rather than perfect performance. When you say "I used to think gratitude meant being happy all the time, but I'm learning it's more about finding meaning," you're teaching through transparency. This approach creates connection rather than intimidation, invitation rather than inadequacy. Your questions become as valuable as your answers, your struggles as instructive as your successes.
+
+**🎯 Gratitude Wisdom**
+The most profound gratitude teachers are those who say "I'm still learning" rather than "I have learned." Their ongoing journey becomes the very medicine others need.
+
+**❓ Tomorrow's Question**
+If walking wisdom makes our gratitude practice more authentic and helpful to others, why do we often feel most disconnected from our practice precisely when we're helping someone else find theirs, and what does this paradox reveal about the difference between sharing gratitude and performing it?`,
+    parable: `Elder Thorn found Hana sitting beneath the teaching tree, her head buried in her hands. "I cannot lead tomorrow's gratitude circle," she whispered. "Yesterday I felt angry at my sister, jealous of my friend's good fortune, and ungrateful for this very garden. How can I teach what I do not possess?"
+
+The old guardian settled beside her, his weathered hands still bearing scars from his own bitter years. "Child, do you see this path we walk each morning?" He gestured to the worn stones leading through the garden. "Does it ever reach a place called 'arrival'?"
+
+Hana looked up, confused. "No, Elder. It winds through every part of the garden, but it continues always."
+
+"And yet," Thorn smiled, "each step upon it teaches. Each stone worn smooth by countless feet becomes wisdom for those who follow. Your anger, your jealousy, your struggle—these are not signs you have failed the path. They are the very stones being worn smooth by your walking."
+
+He stood, extending his hand to help her rise. "When you lead tomorrow's circle, do not speak from the mountain peak you have never climbed. Speak from the path you are walking. Tell them of yesterday's jealousy and how you are learning to transform it. Share your questions alongside your insights. For it is not the arrived who teach best, but the arriving."
+
+As they walked toward the village together, Hana realized her footsteps were steady and sure—not because she had reached wisdom's destination, but because she had found the courage to keep walking.
+
+**Moral:** The greatest teachers are eternal students who share their journey rather than their achievements.
+
+**Tomorrow:** Hana discovers why helping others find gratitude can sometimes make her feel more lost than found.`,
+  },
 ];

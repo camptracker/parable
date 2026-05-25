@@ -6129,4 +6129,78 @@ Sable picked up one particularly ornate scroll. "This master has studied markets
 
 *Tomorrow, Sable will reveal why the most valuable learning might actually be the art of forgetting what we think we know...*`,
   },
+  {
+    day: 94,
+    title: "The Beginner's Mind",
+    date: "2026-05-25",
+    image: "images/financial-independence/day-94.jpg",
+    audio: "audio/financial-independence/day-94",
+    sonnet: `**🪶 Sonnet XCIV: The Beginner's Mind**
+
+The scholar's burden weighs upon his sight,
+With theories dense that cloud the simple truth,
+While novice eyes perceive with clearer light
+What expertise obscures with learned proof.
+
+The master's web of knowledge, finely spun,
+Can trap the very wisdom it was meant
+To capture—till the student, knowledge-shun,
+Sees opportunities the learned prevent.
+
+In markets where the simple question thrives—
+"What does this business do, and does it pay?"—
+The beginner's curiosity survives
+While expert frameworks lead the wise astray.
+
+*Fresh eyes see gold where scholars see but lead,*
+*The empty cup receives what knowledge flees.*`,
+    standard: `💰 Day 94: The Beginner's Mind
+
+Expert knowledge becomes a liability because it creates rigid mental frameworks that filter out contradictory evidence, while true learning requires maintaining the flexibility to abandon previous conclusions when reality presents new information. The most valuable education teaches us to hold knowledge lightly—as provisional tools rather than permanent truths—so we can systematically discard what no longer serves us.
+
+🧱 **The Concept**
+Beginner's mind (Shoshin in Zen) is the practice of approaching familiar subjects with fresh curiosity, free from preconceptions and expert assumptions.
+
+❓ **Why It Matters**
+In investing, beginner's mind prevents the overconfidence that destroys returns and keeps us open to simple truths that experts often dismiss. The most profitable insights frequently appear obvious in hindsight but were invisible to those trapped in sophisticated frameworks.
+
+⚙️ **How It Works**
+Buffett approaches each investment decision as if encountering it for the first time, asking basic questions like "What does this business actually do?" and "Would I want to own this entire company?" He deliberately ignores complex financial models and industry jargon that might obscure fundamental realities. Professional investors often miss obvious opportunities because their expertise prevents them from seeing what any intelligent outsider would immediately notice. The beginner asks "Does this make sense?" while the expert asks "How does this fit my model?" This difference in questioning reveals why novices sometimes outperform professionals who have become prisoners of their own sophistication.
+
+🎯 **Buffett Wisdom**
+"The business schools reward difficult complex behavior more than simple behavior, but simple behavior is more effective."
+
+❓ **Tomorrow's Question** — If maintaining beginner's mind is so powerful for making better decisions, yet our entire culture rewards and celebrates the accumulation of expertise and specialization, what does this reveal about whether society is actually designed to produce wise decision-makers or to create impressive credentials that justify institutional hierarchies, and why might the most dangerous moment in any field be when you finally feel like you know what you're doing?`,
+    parable: `The morning mist clung to the valley as Kael found Sable seated by the ancient oak, watching a spider weave its web with methodical precision. The elder's weathered hands held a simple wooden cup, steam rising from herbal tea that filled the air with the scent of mountain herbs.
+
+"Master Sable," Kael began, settling beside him on the moss-covered ground, "yesterday you spoke of how expert knowledge can blind us. But surely learning and experience must count for something?"
+
+Sable's eyes remained fixed on the spider, which had paused in its work, seemingly sensing a disturbance in the web's structure. "Watch," he whispered.
+
+The spider suddenly abandoned an entire section of carefully constructed web, beginning anew with different anchor points. "She could have continued with the flawed design," Sable observed. "Her previous work was not wasted—she learned from it. But she did not become imprisoned by it."
+
+Tobren approached through the morning light, his face troubled. "Elder, I've been thinking about our grain storage methods. My grandfather's techniques have served our family for generations, yet young merchants from the eastern provinces speak of new approaches that seem... simpler."
+
+"And what does your experience tell you?" Sable asked.
+
+"That I should trust proven methods," Tobren replied. "But my eyes tell me that some of these young merchants' granaries show less spoilage than ours."
+
+Sable nodded thoughtfully. "In the monastery, we had a saying: 'In the beginner's mind there are many possibilities, but in the expert's mind there are few.' The master gardener knows which plants cannot grow in rocky soil—and therefore never tries. The novice, ignorant of such impossibilities, plants anyway and sometimes discovers new possibilities."
+
+Kael frowned. "But surely knowledge prevents costly mistakes?"
+
+"Indeed," Sable agreed. "Yet it also prevents profitable discoveries. The wealthy merchant who taught me about compound interest was not a scholar of mathematics. He was a simple man who asked simple questions: 'If I save this amount each month, what will I have in ten years?' The financial scholars of his time were debating complex theories while he grew quietly rich through basic arithmetic."
+
+The spider had now completed a new section of web, stronger and more elegant than before. "Watch how she works," Sable continued. "She uses her instincts and experience, but remains responsive to present conditions. Each web is unique, adapted to this specific morning, this particular breeze, these exact branches."
+
+Tobren's eyes brightened with understanding. "So I should examine these new storage methods with fresh eyes, neither dismissing them for their simplicity nor my grandfather's methods for their age."
+
+"Precisely," Sable smiled. "The beginner's mind is not ignorance—it is the wisdom to hold knowledge lightly. When I evaluate an investment, I try to forget everything I think I know about that industry and ask myself: 'If I were a child, would this business make sense to me?' Sometimes the most profitable insights hide behind the simplest questions."
+
+As the spider completed its masterwork, Kael realized that true wisdom lay not in accumulating certainties, but in maintaining the courage to question everything, even one's own expertise.
+
+**Moral**: The expert's curse is seeing the world through the filter of what they already know, while the beginner's blessing is seeing what actually is.
+
+*Tomorrow, we explore why the moment you feel like you truly know what you're doing might be the most dangerous point in your financial journey.*`,
+  },
 ];

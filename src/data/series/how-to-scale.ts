@@ -5341,4 +5341,66 @@ Ironmere smiled. "By proving you can transform the truths I do share into better
 
 *Tomorrow, Vex will discover why even the most truth-ready craftsmen sometimes need to be thrown into the deepest waters of reality...*`,
   },
+  {
+    day: 88,
+    title: "The Capacity Forging Protocol",
+    date: "2026-05-25",
+    image: "images/how-to-scale/day-88.jpg",
+    audio: "audio/how-to-scale/day-88",
+    sonnet: `**🪶 Sonnet LXXXVIII: The Capacity Forging Protocol**
+
+When comfort wraps the craftsman's knowing hand,
+And skill flows smooth through paths already worn,
+The master seeks what cannot be commanded—
+The forge where greater capabilities are born.
+
+Throw mason into glasswork's crystal maze,
+Force carpenter to bend unyielding steel,
+Let terror teach what comfort never pays—
+That breaking points make strongest spirits real.
+
+The protected soul grows only to its cage,
+While those thrust beyond their limits' edge
+Discover powers hidden by safe age,
+And climb impossible mountain's highest ledge.
+
+*For in the furnace of what can't be done,*
+*The scattered self becomes a unified one.*`,
+    standard: `🚀 Day 88: The Capacity Forging Protocol
+
+Companies establish firewall override protocols because they discover that protecting people from overwhelming truth creates learned helplessness, while strategic exposure to intense reality forges unprecedented capability. The most devastating truths, when survived, become the foundation for breakthrough performance that would never emerge from gradual, protected development.
+
+🧱 **The Concept**
+Capacity forging protocols deliberately expose teams to challenges beyond their current capability to create rapid capability evolution.
+
+❓ **Why It Matters**
+Gradual skill development creates linear improvement, but breakthrough capabilities require exposure to challenges that exceed current capacity. Organizations that protect their teams from overwhelming situations never discover their hidden potential for extraordinary performance.
+
+⚙️ **How It Works**
+The protocol identifies team members showing plateau performance, then deliberately assigns them responsibilities that require capabilities they haven't yet developed. A marketing team might be given 48 hours to launch a product in a completely unfamiliar market. An engineering team might be asked to solve a technical challenge using tools they've never touched. The key is providing just enough support to prevent complete failure while maintaining genuine impossibility. Success comes not from having the right skills, but from developing them under pressure.
+
+🎯 **Scaling Wisdom**
+The fastest capability development happens when survival requires abilities you don't yet possess.
+
+❓ **Tomorrow's Question** — If capacity forging protocols create such powerful breakthrough development, why do the most successful companies eventually establish "forging recovery" systems that prevent their highest performers from ever experiencing the sustained impossible pressure that created their breakthrough capabilities in the first place?`,
+    parable: `Vex had grown comfortable in his workshop, his skills sharp and his projects predictable. When Ironmere arrived that morning, he found the young builder crafting yet another familiar design with practiced ease.
+
+"Your hands know their work too well," Ironmere observed, watching Vex's fluid motions. "Tell me, what would happen if I asked you to build something you've never seen, with tools you've never used, for people you've never met?"
+
+"I'd probably fail," Vex replied honestly.
+
+"Yes," Ironmere smiled. "And in that failure, you'd discover capabilities you didn't know existed." He gestured toward the corner where dust-covered tools lay unused. "When I built my city, I regularly assigned my best craftsmen to tasks that terrified them. The mason who had perfected stone archways was suddenly required to work with glass. The carpenter who knew every joint by heart was told to build with metal he'd never touched."
+
+"But surely they struggled?"
+
+"They did more than struggle—they transformed." Ironmere picked up an unfamiliar tool, its purpose mysterious. "The mason who survived glass work could later combine materials in ways no pure stoneworker could imagine. The carpenter who conquered metal became an artist of impossible structures."
+
+Vex felt his comfortable certainty wavering. "It sounds terrifying."
+
+"The forge that creates the strongest steel burns hottest," Ironmere said. "Comfort creates competence. Only impossibility creates mastery."
+
+**Moral:** True capability emerges not from protected practice, but from surviving challenges that demand abilities you don't yet possess.
+
+*Tomorrow, we'll explore why even the most powerful forging systems eventually create their own protection mechanisms...*`,
+  },
 ];

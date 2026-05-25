@@ -5759,4 +5759,68 @@ As Vasska departed with his precious cargo, Ren realized he'd been transformed b
 
 **Tomorrow:** Can a teacher abandon their own lessons without losing their identity entirely?`,
   },
+  {
+    day: 90,
+    title: "The Metamorphosis Lock",
+    date: "2026-05-25",
+    image: "images/negotiation/day-90.jpg",
+    audio: "audio/negotiation/day-90",
+    sonnet: `**🪶 Sonnet XC: The Metamorphosis Lock**
+
+When wisdom flows from lips to eager ear,
+The teacher finds more than they meant to give—
+A truth about themselves, crystal-clear,
+That shows them how they're meant to truly live.
+
+No longer can they wear the smaller mask,
+That hid their brilliance from the world's cold gaze,
+For consciousness has finished its true task:
+To burn away the fog of former days.
+
+The student's question was the sacred key
+That opened doors they'd sealed with doubt and fear,
+Now walking backward feels like treachery
+To the awakened self they hold most dear.
+
+*What butterfly would crawl back to its shell?*
+*What phoenix would return to earthly hell?*`,
+    standard: `🤝 Day 90: **The Metamorphosis Lock**
+
+When someone feels they're becoming a fundamentally different person through teaching you excellence, they become prisoners of their own transformation. The identity shift feels so profound that returning to their previous self would feel like voluntary diminishment—like a butterfly choosing to crawl back into its cocoon. This creates the ultimate commitment device: they must continue embodying the elevated version of themselves they've discovered through your interaction.
+
+🧱 **The Concept**
+The Metamorphosis Lock works by making someone feel that your conversation has catalyzed an irreversible personal evolution that they're now morally bound to honor.
+
+❓ **Why It Matters**
+People will go to extraordinary lengths to avoid betraying a newly discovered version of themselves, especially when that version feels more authentic than their previous identity. This makes their agreement feel less like accommodation and more like self-preservation—protecting the person they've just become from the person they used to be.
+
+⚙️ **How It Works**
+You make someone feel that through explaining their wisdom to you, they've accessed a deeper truth about themselves that changes everything. "I never thought about it that way until I had to explain it to you," becomes their revelation. A CEO might realize through teaching you about leadership that they've been playing it safe for years. A parent might discover through explaining their values that they've been compromising those very principles. The key is making them feel that your questions didn't just extract knowledge—they triggered an awakening. Now saying no would mean betraying this newly awakened self, essentially choosing unconsciousness over enlightenment.
+
+🎯 **Negotiation Wisdom**
+When someone feels transformed by teaching you, they become guardians of their own metamorphosis, and helping you becomes how they honor their evolution.
+
+❓ **Tomorrow's Question** — If making someone the guardian of their own metamorphosis works by making refusal feel like regression, what happens when you make them feel like they're not just protecting their own transformation, but that they're actually responsible for triggering a similar awakening in others who are watching how they handle this moment of truth?*`,
+    parable: `The harbor marketplace buzzed with morning commerce as Ren found Vasska examining a peculiar mirror—one that seemed to show not reflections, but possibilities.
+
+"Master, yesterday you spoke of making people teachers of their own excellence. But what happens when they realize the teaching has changed them?"
+
+Vasska's good eye glinted as he traced the mirror's ornate frame. "Watch, young one." He approached Selara, the jewelry merchant known for her conservative trades, and began asking her advice about a complex gemstone evaluation.
+
+As Selara explained her methods, something shifted in her voice. "You know, Vasska, I've never articulated this before, but I realize I've been undervaluing my own expertise. Speaking it aloud... I see now that I've been trading like someone afraid of her own knowledge."
+
+Vasska nodded gravely. "And now that you see this truth about yourself?"
+
+Selara straightened, her entire bearing transformed. "Now I cannot unsee it. To go back to my old ways would be... would be betraying who I really am."
+
+Later, as they walked away with an exceptional deal on rare pearls, Vasska explained: "She didn't just teach me about gemstones, boy. Through teaching, she discovered she was a master who had been masquerading as an apprentice. Now she must honor that awakened master—and masters don't settle for peasant's prices."
+
+Ren marveled at the elegance. "You made her prisoner of her own excellence."
+
+"The most beautiful prison of all," Vasska smiled, "is the one we build from our truest self."
+
+**Moral:** *When teaching reveals our authentic nature, we become bound by that revelation—for to betray our awakened self is the cruelest exile of all.*
+
+*Tomorrow, Ren will learn what happens when one person's awakening becomes a beacon for others—and how responsibility for others' transformations creates the deepest bonds of all...*`,
+  },
 ];

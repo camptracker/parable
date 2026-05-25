@@ -5554,4 +5554,64 @@ She touched Lila's wrist, feeling her pulse. "Your body knows the difference bet
 
 *Tomorrow, Maren will reveal why some people's inner compass points toward destruction, mistaking harm for healing...*`,
   },
+  {
+    day: 90,
+    title: "The Recalibration Journey",
+    date: "2026-05-25",
+    image: "images/nutrition-science/day-90.jpg",
+    audio: "audio/nutrition-science/day-90",
+    sonnet: `**🪶 Sonnet XC: The Recalibration Journey**
+
+When fire has scorched the garden of the soul,
+Each drop of kindness feels like burning rain,
+The wounded roots recoil from what makes whole,
+Mistaking healing touch for searing pain.
+
+The traumatized system learns to crave
+The familiar chaos that once kept it safe,
+While gentle nourishment it will not have,
+Preferring storms to peace's tender chafe.
+
+But patient drops of water, soft and slow,
+Can teach the frightened seedling how to drink,
+As nervous systems learn again to know
+The difference 'tween the cliff and safety's brink.
+
+*Recalibration comes through micro-care,*
+*Where wounded hearts learn gentleness can dare.*`,
+    standard: `🍎 Day 90: The Recalibration Journey
+
+When trauma dysregulates your stress detection systems, your nervous system can begin reading safety as danger and danger as familiar comfort, creating a metabolic paradox where harmful practices feel "right" because they match your baseline activation level. This dysregulation explains why people with complex trauma often gravitate toward extreme protocols, high-stress environments, or punitive health practices that mirror their internal chaos rather than soothe it.
+
+🧱 **The Concept**
+Metabolic recalibration is the gradual process of restoring your nervous system's ability to accurately detect biological truth after trauma has scrambled your internal compass.
+
+❓ **Why It Matters**
+Without functional stress detection systems, even perfect nutritional knowledge becomes useless because you can't distinguish between interventions that genuinely serve your biology and those that simply feel familiar. This recalibration process determines whether your healing journey leads to authentic wellness or sophisticated forms of self-harm disguised as health optimization.
+
+⚙️ **How It Works**
+Recalibration begins not with changing what you eat, but with micro-doses of genuine safety that gradually teach your nervous system to recognize true regulation. This might mean starting with just five minutes of actual rest without productivity guilt, eating one meal without distraction, or breathing deeply without immediately rushing to the next task. As your system learns to tolerate these small doses of authentic care, your metabolic responses begin shifting—suddenly sugar cravings decrease not because you restricted them, but because your nervous system no longer needs the quick energy surge to cope with constant activation. The process requires tremendous patience because dysregulated systems often rebel against genuine nourishment, interpreting kindness as weakness and rest as laziness until new neural pathways establish.
+
+🎯 **Science Wisdom**
+True metabolic healing happens not when you force your body into compliance, but when you create enough nervous system safety for your natural wisdom to resurface.
+
+❓ **Tomorrow's Question** — *If recalibration requires such patient micro-doses of safety and authentic care, what happens when someone becomes so invested in this gentle healing process that they begin using "nervous system health" as another form of perfectionism—and why might the pursuit of optimal regulation create the very stress patterns that prevent genuine recalibration from occurring?*`,
+    parable: `Lila found Maren tending to a withered herb garden behind the healing house, her weathered hands moving slowly through plants that seemed to flinch away from touch.
+
+"These seedlings came from a burned forest," Maren explained, watching Lila's curious gaze. "The fire scarred them so deeply that they now mistake water for flame and gentle sun for scorching heat. See how they curl away from my caring hands?"
+
+Lila knelt beside a trembling mint plant that recoiled even from her shadow. "But surely they need water to live?"
+
+"Yes, but their roots have forgotten how to drink without drowning, how to grow without burning." Maren's voice carried the weight of understanding. "I've seen people arrive at these hearths with the same confused terror—their bodies so accustomed to chaos that my gentlest remedies feel like attacks, my nourishing broths like poison."
+
+The healer demonstrated with a dropper, placing single drops of water near the mint's base, never directly on its leaves. "Recalibration begins with drops, not floods. One taste of true safety at a time, until the system remembers its original nature."
+
+Days passed as Lila watched Maren tend the traumatized garden with microscopic patience. The healer would sit for hours, simply breathing near the plants, allowing them to sense her calm presence without demand. Gradually, imperceptibly, the seedlings began to uncurl.
+
+"The strangest thing," Maren mused one evening, "is that people with the most wounded systems often seek the harshest treatments, mistaking punishment for healing because it feels familiar. They come asking for bitter medicines and extreme fasts, recoiling from the gentle broths that could actually restore them."
+
+**Moral:** *Healing happens not through forcing compliance, but through patient recalibration that teaches wounded systems to trust genuine nourishment again.*
+
+**Tomorrow:** *What happens when the pursuit of perfect nervous system regulation becomes another source of the very stress it seeks to heal?*`,
+  },
 ];

@@ -1432,4 +1432,58 @@ Asha watched Maya zip her jacket without being asked, a small scientist applying
 
 **Tomorrow:** Elder Mira reveals why making choices for our children can rob them of something more valuable than comfort...`,
   },
+  {
+    day: 24,
+    title: "The Ecosystem of Extended Support",
+    date: "2026-05-25",
+    image: "images/raising-kids/day-24.jpg",
+    audio: "audio/raising-kids/day-24",
+    sonnet: `**🪶 Sonnet XXIV: The Ecosystem of Extended Support**
+
+No single tree can shelter all the ground,
+Nor one star light the vastness of the night;
+So parents need not fear when love is found
+In grandmother's arms or teacher's gentle sight.
+
+The child who knows but one voice, one embrace,
+May never learn the symphony complete
+Of human wisdom, each soul's special grace
+That makes the chorus of their growth replete.
+
+Let uncles share their passion for the stars,
+Let friends model new ways to weather storms;
+Each caring heart that genuinely cares
+Adds strength to love's foundation and its forms.
+
+*For in this village where the child belongs,
+*Your love remains the deepest of all songs.*`,
+    standard: `👶 Day 24: **The Ecosystem of Extended Support**
+
+🧱 **The Concept** Modern parenting often operates in isolation, yet children thrive best within a broader ecosystem of caring adults who provide different perspectives, skills, and relationships.
+
+❓ **Why It Matters** When parents try to be everything to their child—teacher, coach, friend, disciplinarian, and confidant—they often burn out while inadvertently limiting their child's exposure to diverse ways of being in the world. Children benefit from multiple secure relationships that offer various models of problem-solving, communication styles, and life approaches.
+
+⚙️ **How It Works** This doesn't mean delegating parenting responsibilities, but rather creating intentional connections with grandparents, aunts, uncles, family friends, teachers, and mentors who can offer unique gifts to your child's development. A grandmother might have endless patience for teaching crafts that a busy parent lacks time for. An uncle might share a passion for nature that opens new worlds. A family friend might model a different approach to handling stress. These relationships provide children with a richer tapestry of human experience while giving parents valuable perspective and support. The key is cultivating relationships where adults genuinely care about the child's wellbeing, not just utilizing them as convenient childcare.
+
+🎯 **Parenting Wisdom** You don't have to be perfect at everything—you just need to be genuinely present and willing to let others contribute their strengths to your child's village.
+
+❓ **Tomorrow's Question** — If we know that children benefit from multiple caring relationships and diverse perspectives, why do we often feel threatened when other adults in our child's life offer different approaches or when our children seem to prefer certain activities or conversations with them, and what does our territorial response reveal about our own need for validation as parents?`,
+    parable: `Asha watched nervously as her eighteen-month-old son reached for Elder Mira's weathered hands, babbling excitedly at the older woman. Since Mira had moved to the neighborhood, she'd become a regular presence in their lives, often stopping by with herbs from her garden or stories from her homeland.
+
+"He seems to really connect with you," Asha said, unable to hide the slight tension in her voice. "Sometimes I worry I'm not enough for him."
+
+Elder Mira smiled as the child settled into her lap, his restless energy immediately calming. "Child, do you think a tree grows strong with only one root? Or does it spread many roots deep and wide, each finding different nutrients in the soil?"
+
+"But I'm his mother," Asha protested softly. "Shouldn't I be able to give him everything he needs?"
+
+"You give him the deepest root—the one that reaches the very heart of love and security," Mira replied, gently bouncing the child. "But see how he explores my wrinkles with such wonder? How he listens when I hum the old songs? These are gifts I can offer that complement, never replace, your irreplaceable love."
+
+As Asha watched her son's face light up at Mira's melodic humming—a sound so different from her own voice—she began to understand. "You mean it's not about being everything to him, but about being his anchor while others add richness to his world?"
+
+"Exactly. I raised seven children, but they all needed their teachers, their aunts, their grandfather's patience when mine ran thin. A child who knows many forms of love becomes a person who can give many forms of love."
+
+**Moral:** A child's village doesn't diminish a parent's importance—it amplifies the love and wisdom available for their growth.
+
+**Tomorrow's teaser:** Why do we sometimes guard our parenting role so fiercely that we rob our children of the gift of multiple loving perspectives?`,
+  },
 ];

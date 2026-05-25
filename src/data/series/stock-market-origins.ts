@@ -1901,4 +1901,66 @@ The moral echoed in the coffeehouse air: **The market's greatest enemy is the in
 
 Tomorrow, Van der Meer would share the deepest paradox of all: how to maintain the confidence necessary to act while embracing the uncertainty that makes action dangerous.`,
   },
+  {
+    day: 33,
+    title: "The Architecture of Antifragility",
+    date: "2026-05-25",
+    image: "images/stock-market-origins/day-33.jpg",
+    audio: "audio/stock-market-origins/day-33",
+    sonnet: `**🪶 Sonnet XXXIII: The Architecture of Antifragility**
+
+When storms assault the merchant's careful plan,
+The wise investor builds with different stone—
+Not walls that break when chaos strikes the land,
+But structures fed by winds they've never known.
+
+For every small loss planted in the ground
+May yield a harvest worth a thousand fold,
+While those who seek sure gains are often found
+With empty hands when market tales are told.
+
+The antifragile soul doesn't fight the storm
+But sets a thousand sails to catch its power,
+Knowing that in chaos lies the form
+Of fortune's most magnificent flower.
+
+*In uncertainty's wild and raging sea,*
+*The strongest swimmers learn to ride waves free.*`,
+    standard: `📈 Day 33: The Architecture of Antifragility
+
+True market wisdom doesn't resolve the paradox between confidence and humility—it embraces it by building positions that benefit from volatility itself. The most successful investors don't try to predict uncertainty; they construct portfolios that grow stronger when stressed, gaining more from being right than they lose from being wrong.
+
+🧱 **The Concept**
+Antifragile investing creates asymmetric returns where small, frequent losses are overwhelmed by occasional massive gains.
+
+❓ **Why It Matters**
+While most investors try to avoid volatility, antifragile strategies use market chaos as fuel for growth. This approach transforms uncertainty from an enemy into an ally, allowing investors to profit regardless of whether their specific predictions prove correct.
+
+⚙️ **How It Works**
+Antifragile positions typically involve owning assets with unlimited upside and strictly limited downside—like buying call options on revolutionary technologies while keeping most capital in safe instruments. When venture capitalists invest small amounts in many startups, they're being antifragile: each failure costs little, but one success can return 100x the entire portfolio's value. Similarly, holding small positions in volatile growth stocks while maintaining large cash reserves creates a structure where market crashes create buying opportunities rather than disasters. The key is ensuring that your worst-case scenario is merely inconvenient while your best-case scenario is life-changing.
+
+🎯 **Market Wisdom**
+The strongest investment strategies don't fight uncertainty—they feed on it.
+
+❓ **Tomorrow's Question** — If antifragile investing requires accepting many small losses to capture rare massive gains, but human psychology naturally focuses more intensely on frequent small pains than on infrequent large pleasures, does this mean that the most mathematically sound investment approach is also the most psychologically difficult to execute, or can we train ourselves to find satisfaction in a strategy that feels wrong most of the time?`,
+    parable: `Willem found Van der Meer in the Amsterdam coffeehouse, studying a peculiar ledger filled with strange calculations. "Master, I see you've recorded dozens of small losses this month. Are we failing?"
+
+Van der Meer smiled, pointing to a massive entry at the bottom. "Look closer, young Willem. Each small loss was the price of a lottery ticket—but this lottery is rigged in our favor."
+
+"How so?" Willem asked, tracing the numbers with his finger.
+
+"I buy small stakes in many uncertain ventures," Van der Meer explained. "The spice route that might discover new islands, the inventor claiming to improve compass accuracy, the merchant planning to trade with distant Cathay. Most fail, costing me a few guilders each. But when one succeeds..." He pointed to the large entry. "That single success pays for all failures and leaves us wealthy."
+
+Willem frowned. "But how do you bear losing so often?"
+
+"Because I've built a structure that makes losing small amounts feel like planting seeds," Van der Meer replied. "Each failure teaches me something and eliminates one path, bringing me closer to the successes that matter. The market's chaos doesn't frighten me—it feeds my profits."
+
+Just then, a breathless messenger burst through the door with news of Van der Meer's latest venture: a new route to the Indies had returned with holds full of precious cargo worth ten times the investment.
+
+Van der Meer winked at Willem. "You see? I don't predict which ship will succeed—I simply ensure that when one does, it pays for all the others."
+
+**Moral**: True market mastery lies not in avoiding uncertainty but in creating structures that transform volatility into profit.
+
+**Tomorrow**: Willem discovers why the most rational investment strategy often feels emotionally unbearable.`,
+  },
 ];

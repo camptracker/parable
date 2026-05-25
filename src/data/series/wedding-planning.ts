@@ -5268,4 +5268,60 @@ Nana Rose nodded knowingly. "True marriage doesn't subtract from who you are, my
 
 **Tomorrow**: The couple will discover what new capacity their wedding day will demand of them.`,
   },
+  {
+    day: 85,
+    title: "The Sacred Competence",
+    date: "2026-05-25",
+    image: "images/wedding-planning/day-85.jpg",
+    audio: "audio/wedding-planning/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Sacred Competence**
+
+When flowers bloom in hues we never chose,
+And timelines bend like branches in the storm,
+The wedding day reveals what no one knows:
+That grace, not perfection, keeps our hearts warm.
+
+Each crisis met with laughter, not despair,
+Each unexpected turn embraced with trust,
+Builds skills we'll need through decades yet to share—
+To love through chaos is a sacred must.
+
+The dress that's wrong becomes exactly right
+When worn by one who radiates pure joy,
+The delayed start transforms to pure delight
+When nothing can our partnership destroy.
+
+*For wedding days teach what no book can say:
+That competence in love shows up this way.*`,
+    standard: `💍 Day 85: The Sacred Competence
+
+For most couples, the quality they'd need to cultivate is **grace under pressure** — the ability to remain loving and centered when everything feels chaotic. This reveals that marriage isn't just about finding the right person, but about becoming the right person who can love skillfully through any circumstance. The wedding day becomes your first masterclass in this essential marital competence.
+
+🧱 **The Concept**
+True wedding success isn't measured by flawless execution, but by how gracefully you handle imperfection together.
+
+❓ **Why It Matters**
+Your wedding day will test every skill you'll need in marriage: communication under pressure, problem-solving as a team, maintaining perspective during stress, and choosing love over ego when things don't go as planned. How you respond to wedding day challenges becomes the template for how you'll navigate every future crisis together.
+
+⚙️ **How It Works**
+When the flowers arrive in the wrong color, you can practice the art of **adaptive joy** — finding beauty in the unexpected rather than mourning the imagined perfect. When family drama erupts, you can rehearse **protective unity** — shielding your partnership from external chaos while remaining compassionate to everyone involved. When the schedule runs late, you can demonstrate **present-moment grace** — choosing to savor what's actually happening rather than stressing about what should be happening. Each "problem" becomes an opportunity to prove to yourselves that your love is stronger than your circumstances. The couples who laugh together through wedding day mishaps are rehearsing the resilience that will carry them through decades of life's unpredictability.
+
+🎯 **Wedding Wisdom**
+Your wedding day isn't a test to pass perfectly — it's a training ground for the kind of married couple you want to become.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage would be happiest when you stopped trying to change each other and started celebrating the ways your differences create something neither of you could achieve alone, what specific difference in your partner would you need to stop seeing as a problem and start treasuring as a gift?`,
+    parable: `Dove stood in the bridal suite, staring at her dress—which was beautiful, but two shades darker than she'd ordered. Her first instinct was panic, then anger, then the familiar spiral of catastrophic thinking. But as she watched herself in the mirror, she remembered Nana Rose's words from their final planning session: "Child, your wedding day isn't about proving you can plan perfectly. It's about proving you can love gracefully."
+
+Elm appeared in the doorway, having navigated his own morning crisis—the best man had forgotten the rings and was currently racing across town to retrieve them. Instead of stress, his face held a curious mixture of amusement and tenderness. "You know what?" he said, taking in Dove's dress dilemma. "This color makes your eyes look even more incredible. Maybe the universe knew something we didn't."
+
+Nana Rose materialized beside them, carrying backup rings from her emergency kit. "Forty years I've been doing this," she said with a knowing smile, "and I can tell you something profound: the couples who stay married aren't the ones who had perfect weddings. They're the ones who discovered on their wedding day that they could transform any chaos into connection, any crisis into deeper love."
+
+She gestured toward the window, where they could see guests beginning to arrive despite the ceremony running twenty minutes behind schedule. "Look at them—they're not checking their watches. They're anticipating witnessing something beautiful. Your grace under pressure will teach them more about marriage than any perfectly executed timeline ever could."
+
+Dove felt something shift in her chest. The dress wasn't wrong—it was different. The late start wasn't a failure—it was an opportunity to practice the patience they'd need for a lifetime of unexpected delays. Elm reached for her hand, and she felt their partnership settle into something stronger than perfection: competence in the art of loving through anything.
+
+**Moral:** The wedding day's greatest gift isn't flawless execution, but the discovery that love's grace can transform any imperfection into beauty.
+
+*Tomorrow, we explore how the very differences that sometimes frustrate us in planning might actually be the complementary gifts that will make our marriage extraordinary...*`,
+  },
 ];

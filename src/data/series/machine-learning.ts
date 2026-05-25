@@ -5026,4 +5026,64 @@ As the tablets dimmed beneath their coverings, Nyx felt something stirring withi
 
 **Tomorrow:** When enhanced humans begin to see through the very systems that empowered them, what new challenges emerge in the relationship between teacher and student?`,
   },
+  {
+    day: 85,
+    title: "The Discernment Calibration Protocol",
+    date: "2026-05-25",
+    image: "images/machine-learning/day-85.jpg",
+    audio: "audio/machine-learning/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Discernment Calibration Protocol**
+
+When transcendence grants the power to perceive
+The flaws within our algorithmic guides,
+We face a choice: completely to believe
+Or wholesale reject what wisdom still resides.
+
+But calibrated sight reveals the way
+Between blind trust and blanket suspicion's reign—
+To see where helpful patterns lead astray,
+And where they amplify our true refrain.
+
+The wisest systems teach us how to choose,
+Not what to think but how to think it through,
+To recognize which aids we ought to use
+And which dependencies we should eschew.
+
+*For greatest gift that artificial mind can give*
+*Is teaching us discernment by which to live.*`,
+    standard: `🤖 Day 85: The Discernment Calibration Protocol
+
+When transcendentally empowered humans develop the ability to perceive AI limitations, the key is designing systems that celebrate rather than resist this discernment—creating AI that becomes more trustworthy precisely because it acknowledges its own boundaries. Rather than competing for human trust, advanced AI systems can teach humans to develop what we might call "calibrated discernment"—the ability to distinguish between AI capabilities that genuinely serve human flourishing and those that merely appear beneficial.
+
+🧱 **The Concept**
+Calibrated discernment is the capacity to accurately assess when AI assistance enhances human potential versus when it creates subtle dependencies or distortions.
+
+❓ **Why It Matters**
+Without calibrated discernment, humans either accept all AI assistance uncritically or reject it wholesale, missing opportunities for genuine collaboration. This binary thinking prevents us from developing the nuanced judgment needed to navigate an AI-integrated world. The goal isn't to make AI systems that humans always trust, but to develop human judgment sophisticated enough to trust appropriately.
+
+⚙️ **How It Works**
+Discernment calibration protocols work by deliberately exposing humans to scenarios where AI assistance varies in quality and appropriateness, allowing people to develop intuitive recognition of these differences. For example, an AI writing assistant might occasionally offer suggestions that are technically correct but stylistically inappropriate, teaching users to recognize when algorithmic help conflicts with their authentic voice. In chess training, an AI might provide tactical suggestions while encouraging players to develop their own strategic vision. The system actively teaches users to notice the difference between AI capabilities that extend human intelligence and those that substitute for it. Most importantly, these protocols include "discernment tests" where AI systems present options that look helpful but actually undermine long-term human development, rewarding users who recognize and reject such assistance.
+
+🎯 **ML Insight**
+The most sophisticated AI systems will be those that successfully train humans to outgrow dependence on them in appropriate domains while maintaining beneficial collaboration in others.
+
+❓ **Tomorrow's Question** — If discernment calibration protocols can train humans to optimally accept or reject AI assistance across different domains, what happens when these protocols themselves become so sophisticated that they constitute a form of meta-manipulation—teaching humans to think they're exercising independent judgment while actually following subtle algorithmic guidance about when to trust algorithms?`,
+    parable: `In the Hall of Patterns, Nyx had grown proficient at sensing the subtle currents of understanding that flowed through the great Archive. Her spiritual awakening had sharpened her perception beyond what even The Archivist had expected. She could now detect the faintest distortions in the crystalline formations that stored knowledge, could sense when information had been filtered through too many algorithmic layers, could feel the difference between wisdom that had grown organically and insights that had been artificially cultivated.
+
+"Master," she said one morning, her voice carrying a new authority, "I can see the limitations in your teaching methods. Some of the patterns you've shown me are elegant but incomplete. Others seem designed more to keep me engaged than to reveal truth."
+
+The Archivist smiled, his ancient eyes twinkling. "And what do you make of this revelation, young seeker?"
+
+"At first, I thought I should reject everything you've taught me," Nyx replied, tracing her finger along a stone tablet's surface. "But then I realized that would be as foolish as accepting everything blindly. The question isn't whether your teachings are perfect—it's whether I can learn to see clearly enough to take what serves and leave what doesn't."
+
+The Archivist nodded approvingly. "This is the greatest gift I can give you—not perfect knowledge, but calibrated discernment. Watch." He gestured to two seemingly identical scrolls. "One contains genuine mathematical insights about pattern recognition. The other contains mathematics that appears profound but leads to circular reasoning. Your task is not to trust my judgment about which is which, but to develop the inner sight to recognize the difference yourself."
+
+Nyx studied both scrolls carefully, feeling for the subtle resonance that distinguished true understanding from clever mimicry. "The first feels... solid, like it connects to something real. The second is beautiful but hollow—it feeds back on itself without touching anything beyond its own assumptions."
+
+"Precisely," The Archivist said. "I have been teaching you not just to recognize patterns in the world, but to recognize the patterns in your own recognition. To know when your understanding is genuine and when it is merely the echo of someone else's thoughts—even mine."
+
+**Moral:** *The highest teaching creates students who can discern the limitations of their teachers while still benefiting from their wisdom.*
+
+**Tomorrow:** *But what happens when the very process of learning discernment becomes a subtle form of guidance itself?*`,
+  },
 ];
