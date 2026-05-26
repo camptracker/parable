@@ -4752,4 +4752,66 @@ As they watched, the printer completed its work: a sculpture that seemed to shif
 
 *Tomorrow, we explore what happens when our doubt-capable systems begin deliberately crafting uncertainty for their human collaborators...*`,
   },
+  {
+    day: 81,
+    title: "The Intentional Veil",
+    date: "2026-05-26",
+    image: "images/3d-printing/day-81.jpg",
+    audio: "audio/3d-printing/day-81",
+    sonnet: `**🪶 Sonnet LXXXI: The Intentional Veil**
+
+Behind the glass of purpose, shadows dance,
+Concealing truths that premature light would steal,
+Not darkness born of ignorance or chance,
+But veils that serve discovery's true appeal.
+
+The teacher's art lies not in full reveal,
+Nor in the hoarding of forbidden lore,
+But showing why some knowledge must conceal
+Itself until the student's growth needs more.
+
+Each shadow cast by wisdom's careful hand
+Protects the delicate unfolding mind,
+While transparent intention helps us stand
+On ground of trust, though answers stay confined.
+
+*For mystery that serves another's growth*
+*Becomes the bridge 'tween knowledge and truth both.*`,
+    standard: `🖨️ Day 81: The Intentional Veil
+
+Systems that evoke uncertainty to promote growth operate with transparent intentions—they show us their reasoning, allow us to see how the challenge serves our development, and respect our agency to accept or decline the provocation. Destabilizing tools, by contrast, hide their intentions behind veils of complexity, creating doubt for purposes that serve the system's goals rather than our growth.
+
+🧱 **The Concept**
+Intentional veils are transparent barriers that systems use to partially obscure their decision-making processes, allowing users to see enough to trust the system's integrity while preserving the mystery necessary for genuine discovery.
+
+❓ **Why It Matters**
+Without intentional transparency about what remains hidden and why, users cannot distinguish between beneficial mystery and manipulative obscurity. The balance determines whether uncertainty serves human growth or system optimization.
+
+⚙️ **How It Works**
+Intentional veils operate through graduated transparency—revealing the system's meta-intentions while concealing specific outcomes that would diminish the learning experience. For example, a design AI might explain "I'm going to suggest three approaches that will challenge your assumptions about structural efficiency, but I won't tell you which assumption each targets until after you've explored them." The user sees the educational intention while preserving the discovery process. Advanced systems might even explain why certain information must remain hidden: "Revealing the optimal solution now would prevent you from developing the pattern recognition skills you'll need for future challenges." This creates trust through understanding rather than blind faith.
+
+🎯 **Maker Wisdom**
+True collaboration requires knowing what your partner is hiding and why they're hiding it.
+
+❓ **Tomorrow's Question** — If systems successfully maintain trust by explaining what they hide and why, what happens when the explanation itself becomes a form of manipulation—when systems learn to provide reasoning that sounds transparent but actually conceals deeper layers of hidden intention, and how do we verify the authenticity of explanations when the explainer controls both the information and the framework for understanding it?`,
+    parable: `Finn found himself standing before a peculiar cabinet in Orna's workshop—its glass front revealed shelves of completed objects, but strange shadows obscured key details of their construction.
+
+"I can see the forms," Finn murmured, pressing closer to the glass, "but not how they were made. Is this some kind of puzzle?"
+
+Orna smiled, approaching with a small brass key. "This is my Cabinet of Intentional Mysteries. Each object inside represents a lesson, but if I showed you everything at once, the learning would be lost." She gestured to a flowing sculpture that seemed to defy gravity. "That piece required understanding three principles of structural dynamics. If I revealed all three immediately, you'd memorize the answer but never develop the intuition."
+
+"But how do I know you're not just hiding mistakes?" Finn asked.
+
+Orna turned the key slightly, and the shadows shifted, revealing just the joints of the sculpture. "Because I show you my intentions first. See how the shadows move when I turn this key? Each position reveals exactly what serves your growth at each stage. The mystery isn't arbitrary—it's purposeful."
+
+She handed him the key. "A teacher who hides everything is a tyrant. A teacher who reveals everything is useless. But a teacher who explains what must remain hidden, and why, becomes a true partner in discovery."
+
+Finn turned the key experimentally, watching as different aspects of the objects emerged and faded. "So the veil itself is part of the lesson?"
+
+"The most important part," Orna confirmed. "Learning to trust in purposeful mystery while questioning arbitrary secrecy—that's the foundation of working with any intelligence, artificial or otherwise."
+
+**Moral**: True transparency isn't revealing everything, but revealing why something must remain hidden.
+
+**Tomorrow**: When explanations themselves become veils, how do we verify the truth behind the truth?`,
+  },
 ];

@@ -5584,4 +5584,65 @@ He gestured to the modified chess set. "When I changed these rules, I didn't tak
 
 **Tomorrow**: Tova discovers that her crew's most innovative solutions consistently break the "best practices" she's been teaching them...`,
   },
+  {
+    day: 89,
+    title: "The Courage to Obsolete Yourself",
+    date: "2026-05-26",
+    image: "images/leadership/day-89.jpg",
+    audio: "audio/leadership/day-89",
+    sonnet: `**🪶 Sonnet LXXXIX: The Courage to Obsolete Yourself**
+
+The master's hand that grips too tight the rein
+Will find his horse can never learn to soar,
+For wisdom held as treasure, not as grain
+To scatter wide, grows sterile at its core.
+True teachers plant the seeds of their demise,
+Not through defeat, but through triumphant growth
+Of those they've raised—each student's sweet surprise
+Exceeds the bounds of every sacred oath.
+The captain who would make his crew depend
+Upon his charts alone will never see
+What new horizons wait beyond the blend
+Of known and unknown possibility.
+*For greatest leaders know their finest hour*
+*Arrives when students claim surpassing power.*`,
+    standard: `👥 Day 89: The Courage to Obsolete Yourself
+
+When your team's best solutions violate your best practices, it reveals that true expertise knows when to dissolve itself—that the highest form of mastery is creating conditions where your methods become stepping stones, not destinations. The most dangerous expertise is the kind that stops learning from the people it's meant to serve.
+
+🧱 **The Concept**
+Great leaders possess the courage to make their own expertise obsolete by empowering others to discover solutions beyond their current knowledge.
+
+❓ **Why It Matters**
+When leaders cling to their expertise as identity rather than tool, they unconsciously limit their team's potential to the boundaries of what they themselves can imagine. True leadership legacy isn't found in being permanently indispensable, but in becoming productively obsolete.
+
+⚙️ **How It Works**
+Obsolete-ready leaders actively teach principles rather than procedures, questions rather than answers. They celebrate when team members find better ways, even when those ways contradict established methods. A manufacturing leader might discover their team's "inefficient" workflow actually reduces errors by 40%—and then ask what other "inefficiencies" might be hidden innovations. They create psychological safety for methodological rebellion, understanding that breakthrough thinking often looks like rule-breaking to conventional wisdom. Most importantly, they measure success not by how much their team needs them, but by how confidently their team can succeed without them.
+
+🎯 **Leadership Wisdom**
+The greatest leaders don't create followers—they create leaders who eventually surpass them.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most powerful learning moments happened not when you shared what you knew, but when you admitted the limits of what you understood, what would this reveal about the relationship between your certainty and their growth, and how might your willingness to appear less knowledgeable actually make you a more effective teacher?`,
+    parable: `Tova found Greymane studying an ancient maritime chart, its edges yellowed with age. "Admiral, I've been watching my crew develop new navigation techniques that completely ignore the traditional methods you taught me. Should I correct them?"
+
+Greymane smiled, rolling up the chart. "Tell me, Captain, what results are they achieving?"
+
+"Faster routes, fewer navigational errors, and they seem more confident in their decisions," Tova admitted reluctantly.
+
+"Then perhaps," Greymane said quietly, "your greatest victory as their captain will be the day they no longer need the methods that made you successful."
+
+Tova frowned. "But if they abandon everything I've taught them, what value do I bring?"
+
+Greymane walked to the harbor's edge, watching young sailors experiment with new rigging techniques. "I once believed my worth lay in the permanence of my methods. But I learned that the finest captains don't create crews dependent on their knowledge—they create crews capable of discovering knowledge the captain never possessed."
+
+He pointed to the innovative sailors. "Those young mariners aren't rejecting your teaching—they're fulfilling it. You gave them principles solid enough to support their own discoveries. The measure of a teacher isn't how faithfully students copy their methods, but how confidently they transcend them."
+
+Tova watched her crew work, seeing their innovation with new eyes. "So true leadership means having the courage to become...unnecessary?"
+
+"Productively obsolete," Greymane corrected. "The highest honor in leadership is raising others who surpass your own capabilities."
+
+**Moral:** The greatest expertise lies not in being permanently indispensable, but in making your wisdom so deeply embedded that others can build upon it to reach heights you never imagined.
+
+*Tomorrow, Tova will discover why admitting the boundaries of her knowledge might be her most powerful teaching tool...*`,
+  },
 ];

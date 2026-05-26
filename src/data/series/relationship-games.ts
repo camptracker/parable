@@ -1800,4 +1800,68 @@ In the mirror, Riven saw themselves laughing—genuinely laughing—without the 
 
 **Tomorrow:** Riven must learn to trust their expanding definition of attraction as their healing transforms their very capacity for desire...`,
   },
+  {
+    day: 30,
+    title: "The Desire Revolution",
+    date: "2026-05-26",
+    image: "images/relationship-games/day-30.jpg",
+    audio: "audio/relationship-games/day-30",
+    sonnet: `**🪶 Sonnet XXX: The Desire Revolution**
+
+Once I mistook my racing pulse for love,
+Confused anxiety with passion's fire,
+Sought those who'd make my wounded spirit shove
+Against the walls of my own desire.
+
+But healing taught my body different songs—
+Consistency became a sacred thrill,
+Availability no longer felt wrong,
+Kindness stirred depths that chaos never could fill.
+
+The revolution came not with a roar
+But whispered shifts in what could make me yearn:
+From desperate hunger to grateful rapport,
+From familiar pain to willingness to learn.
+
+*Now consciousness and desire dance as one—*
+*I'm drawn to healing, not what leaves undone.*`,
+    standard: `🎭 Day 30: The Desire Revolution
+
+As we heal, desire itself undergoes a fundamental metamorphosis—what once felt sexually electric (unpredictability, emotional unavailability, the chase) begins to feel hollow, while what once felt "boring" (consistency, emotional maturity, genuine care) starts to generate a deeper, more sustainable arousal. This transformation reveals that consciousness and desire aren't separate forces but intimately connected—as we become more conscious, our desires naturally evolve to support our wellbeing rather than undermine it.
+
+🧱 **The Concept**
+The **Desire Revolution** is the radical shift that occurs when healing transforms our attraction patterns from trauma-based to consciousness-based, fundamentally altering what we find sexually and emotionally compelling.
+
+❓ **Why It Matters**
+Most people assume their attractions are fixed aspects of their personality, never realizing that desire is actually highly malleable and responds to our level of consciousness. When we understand that sexual and emotional attraction can be consciously cultivated toward healthy patterns, we stop being victims of our conditioning and become architects of our romantic destiny.
+
+⚙️ **How It Works**
+Initially, our wounded nervous system creates attraction through familiar activation—the anxiety of uncertainty feels like excitement, emotional unavailability feels like mystery, and inconsistency feels like passion. But as we heal, our system begins recognizing these patterns as stress responses rather than genuine attraction. Simultaneously, we start developing appreciation for qualities our trauma couldn't previously recognize: the way someone's presence actually calms our nervous system, how their consistency creates space for deeper intimacy, how their emotional availability allows us to relax into vulnerability. This isn't about "settling" for less exciting partners—it's about discovering that the deepest excitement comes from being truly seen and safely held. The revolution happens when we realize that what we once called "chemistry" was often just our wounds recognizing familiar wounds, while authentic chemistry emerges from our healed parts recognizing health and growth potential in others.
+
+🎯 **Relationship Strategy Wisdom**
+True sexual sophistication means being able to generate desire for what serves your highest good rather than being enslaved to attractions that perpetuate your wounds.
+
+❓ **Tomorrow's Question** — If we accept that our capacity to desire what's healthy for us is essentially a measure of our consciousness, and most people are unconsciously attracted to partners who confirm their limiting beliefs about love, what does this suggest about the relationship between personal growth and the quality of people we naturally draw into our lives—and why might our "type" be the most accurate diagnostic tool for our level of healing?`,
+    parable: `Riven found The Mirror standing before a great wall covered in portraits—faces of every person they'd ever felt drawn to throughout their romantic journey.
+
+"Look closely," The Mirror said, gesturing to the early portraits. "What do you see?"
+
+Riven studied the faces—the unavailable ones, the mysterious ones, the ones who'd kept them guessing. "They all have this... edge. This quality that made my heart race."
+
+"And now?" The Mirror pointed to the later portraits, faces Riven had once dismissed as "too nice" or "boring."
+
+As Riven gazed upon them, something extraordinary happened. The faces began to shift, revealing depths they'd never noticed—kindness that wasn't weakness, consistency that wasn't predictability, availability that wasn't desperation. "I... I see them differently now. The racing heart I felt before—it was anxiety, wasn't it? Fear masquerading as attraction."
+
+"Indeed. And what do you feel now, looking at these supposedly 'boring' faces?"
+
+Riven felt a different kind of stirring—not the frantic hunger of their past attractions, but something warmer, deeper. "It's like... like my body is saying 'yes' in a completely different way. Not desperate yes, but grateful yes."
+
+The Mirror smiled. "This is the Desire Revolution. When consciousness awakens, desire follows. You're no longer attracted to your wounds—you're attracted to your healing."
+
+The portraits began to glow with new light, and Riven understood: their capacity to desire health was the ultimate measure of their growth.
+
+**Moral:** *Our attractions are not fixed traits but evolving expressions of our consciousness—as we heal, we naturally begin desiring what serves our highest good.*
+
+*Tomorrow: The Mirror reveals why our "type" might be the most accurate diagnostic tool for measuring our level of personal healing...*`,
+  },
 ];

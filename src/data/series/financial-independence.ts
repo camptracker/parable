@@ -6203,4 +6203,70 @@ As the spider completed its masterwork, Kael realized that true wisdom lay not i
 
 *Tomorrow, we explore why the moment you feel like you truly know what you're doing might be the most dangerous point in your financial journey.*`,
   },
+  {
+    day: 95,
+    title: "The Mastery Trap",
+    date: "2026-05-26",
+    image: "images/financial-independence/day-95.jpg",
+    audio: "audio/financial-independence/day-95",
+    sonnet: `**🪶 Sonnet XCV: The Mastery Trap**
+
+The master's chair becomes a gilded cage,
+Where expertise transforms to rigid pride,
+Each hard-won skill inscribed upon the page
+Of reputation that will not subside.
+
+Yet markets shift like seasons, ever new,
+And yesterday's great wisdom turns to dust,
+While those who cling to what they always knew
+Find golden knowledge crumbling into rust.
+
+The beginner's eye sees what the expert missed,
+Unburdened by the weight of what should be,
+While mastery, by its own brilliance kissed,
+Grows blind to possibility set free.
+
+*True wisdom keeps the student's humble heart,*
+*Where endings become each new learning's start.*`,
+    standard: `💰 Day 95: The Mastery Trap
+
+Society rewards expertise and specialization precisely because credentialed hierarchies are easier to control and monetize than distributed wisdom—institutions need predictable gatekeepers, not independent thinkers. The most dangerous moment in any field is when expertise becomes identity, because then protecting our knowledge becomes more important than questioning it.
+
+🧱 **The Concept**
+Mastery can become a psychological prison that prevents continued learning and adaptation to changing realities.
+
+❓ **Why It Matters**
+True mastery in investing requires remaining perpetually curious and humble, not defending accumulated knowledge. The markets constantly evolve, and yesterday's expertise can become tomorrow's liability if we cling to it too tightly.
+
+⚙️ **How It Works**
+The mastery trap occurs when we become so invested in our expertise that we stop questioning our assumptions. A master carpenter who refuses to learn new techniques because "I've been doing this for 30 years" may find his skills obsolete when new materials emerge. Similarly, investors who mastered value investing in the 1980s but refuse to adapt to technological disruption may miss the greatest wealth-creation opportunities of our time. The trap is psychological: our identity becomes tied to being "the expert," making it emotionally costly to admit we might be wrong or need to learn something new. Warren Buffett avoided this trap by constantly reading, questioning his assumptions, and famously saying "It's better to be approximately right than precisely wrong."
+
+🎯 **Buffett Wisdom**
+"What we learn from history is that people don't learn from history." Even masters must remain students of changing circumstances.
+
+❓ **Tomorrow's Question** — If the mastery trap is so psychologically seductive that even brilliant people fall into it repeatedly, what does this suggest about the relationship between confidence and competence, and why might the people who feel most certain about their financial decisions be the most likely to make catastrophic mistakes?`,
+    parable: `The morning mist clung to the village as Sable found Kael practicing sword forms behind his cottage, movements fluid and precise after months of training.
+
+"Your technique improves daily," Sable observed, settling onto a weathered stump. "But tell me, what happens when you perfect these forms?"
+
+Kael paused mid-swing. "Then I become a master, like the old weapons instructor who visits from the capital. He knows every traditional form by heart."
+
+"Ah," Sable smiled knowingly. "And what happened when Tobren's son challenged that very instructor with techniques he learned from traveling merchants?"
+
+Kael's brow furrowed. "The instructor lost. He said the boy's methods were 'improper,' but they worked."
+
+"The instructor fell into the mastery trap," Sable explained. "His expertise became his identity. To admit these new techniques had merit would mean admitting his mastery was incomplete—a psychological cost too high to bear."
+
+They watched as Tobren worked his fields with a new plow design, ignoring the scoffs of neighboring farmers who insisted the old methods were superior.
+
+"True mastery," Sable continued, "is like Tobren's approach to farming. He's been working this land for decades, yet every season he experiments, questions, adapts. His expertise serves his results, not his ego."
+
+Kael lowered his sword. "So mastery isn't about knowing everything?"
+
+"Mastery is about remaining curious enough to know you don't know everything. The moment you stop learning is the moment you start declining, even if your reputation continues to grow."
+
+**Moral:** True masters remain perpetual students; false masters become prisoners of their own expertise.
+
+*Tomorrow, we discover why confidence and competence often move in opposite directions...*`,
+  },
 ];

@@ -1486,4 +1486,71 @@ As Asha watched her son's face light up at Mira's melodic humming—a sound so d
 
 **Tomorrow's teaser:** Why do we sometimes guard our parenting role so fiercely that we rob our children of the gift of multiple loving perspectives?`,
   },
+  {
+    day: 25,
+    title: "The Village of Many Voices",
+    date: "2026-05-26",
+    image: "images/raising-kids/day-25.jpg",
+    audio: "audio/raising-kids/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Village of Many Voices**
+
+No single heart can hold all wisdom's light,
+Nor one embrace contain all forms of care.
+The child who learns to trust beyond our sight
+Finds strength in bonds that multiply and share.
+
+The grandmother's patience, teacher's guiding hand,
+The neighbor's stories from a distant shore—
+Each relationship helps the young soul stand
+More firmly rooted than it was before.
+
+Our jealous hearts may fear they love us less
+When children seek comfort in others' arms,
+But trust blooms wide when we learn to bless
+The village that protects them from all harms.
+
+*For love divided grows, not weak but strong,*
+*And secure children learn where they belong.*`,
+    standard: `👶 Day 25: The Village of Many Voices
+
+We feel threatened when others connect with our children because parenting can feel like our most vulnerable identity - when someone else seems to reach our child in ways we cannot, it triggers our deepest fears about whether we're enough. This territorial response reveals that we're seeking validation through our children's exclusive attachment rather than celebrating their capacity to form rich, diverse relationships that will serve them throughout life.
+
+**The Concept**
+Children thrive when they experience multiple caring relationships that offer different strengths, perspectives, and ways of connecting.
+
+**Why It Matters**
+No single parent can meet every developmental need or provide every type of wisdom a child requires. When we try to be everything to our children, we not only exhaust ourselves but also deprive them of the rich tapestry of relationships that build resilience, social skills, and diverse ways of seeing the world.
+
+**How It Works**
+A child might find comfort in grandmother's patient listening while also thriving under a teacher's structured expectations and an uncle's playful adventure spirit. Each relationship teaches different aspects of trust, communication, and being human. Rather than competing with these connections, secure parents recognize that their child's ability to bond with others actually reflects the secure foundation they've provided. The coach who teaches perseverance, the neighbor who shares gardening wisdom, the friend's parent who models different family rhythms - all become part of the child's developmental village.
+
+**Parenting Wisdom**
+Our job isn't to be our child's everything, but to be their secure home base from which they can safely explore relationships with others.
+
+**Tomorrow's Question**
+If we know that children need to develop their own problem-solving capabilities and learn to advocate for themselves, why do we often find ourselves jumping in to solve their social conflicts or speak for them in challenging situations, and what does our compulsion to rescue them from interpersonal difficulties reveal about our trust in their ability to navigate relationships?`,
+    parable: `Asha watched from the kitchen window as her three-year-old son played in the garden with Elder Mira, their laughter floating through the afternoon air like music. But instead of joy, she felt a knot forming in her stomach. When her son scraped his knee and ran to Mira instead of her, the knot tightened into something sharper.
+
+"He always goes to her first now," Asha confessed when Mira came inside, her voice barely masking the hurt. "Yesterday he told me he wished you were his real grandmother. It feels like I'm losing him."
+
+Mira settled into her chair, understanding flickering in her ancient eyes. "Ah, child. I remember feeling the same when my eldest grew close to his teacher, when my daughter preferred her aunt's bedtime stories to mine. The heart of a mother is tender ground where love and fear grow side by side."
+
+"But what if he stops needing me?" Asha whispered.
+
+Mira smiled, pulling out an old photograph of a magnificent oak tree surrounded by smaller trees and flowering bushes. "Tell me, dear one, does this great oak seem diminished by the garden that surrounds it? Does the rose bush threaten its strength, or the berry vines weaken its roots?"
+
+Asha studied the image, seeing how each plant seemed to enhance the others, creating a ecosystem of beauty and support.
+
+"A child's heart is not a pie to be divided," Mira continued, "but a garden to be cultivated. Each loving relationship doesn't take from you - it adds richness to the soil of his spirit. When he runs to me with a scraped knee, it's not because he loves you less, but because he has learned from you that the world contains safe harbors. You taught him to trust love wherever he finds it."
+
+"The grandmother offers patience shaped by decades of watching seasons change. The teacher brings structured wisdom. The neighbor shares stories from different cultures. Each relationship gifts him something unique, but none can replace the irreplaceable - the mother who carried him, who knows his first cry, who will always be his original home."
+
+Asha felt her shoulders soften as she watched her son through the window, now contentedly building a fort with blocks. "So when I feel threatened..."
+
+"You're feeling the ancient mother-fear that your love isn't enough," Mira said gently. "But love multiplied is love magnified. The village that raises your child doesn't diminish your place in it - it honors the foundation you've built by trusting it to hold strong."
+
+**Moral:** The parent who builds a secure foundation enables their child to form rich relationships with others, and these connections enhance rather than threaten the primary bond.
+
+**Tomorrow:** Mira will teach Asha about the delicate balance between protecting our children and allowing them to develop their own voice in the world.`,
+  },
 ];

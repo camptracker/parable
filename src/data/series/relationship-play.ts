@@ -1757,4 +1757,76 @@ Quinn and River looked at each other with new eyes, seeing not an opponent to de
 
 *Tomorrow, Elder Joy will reveal why couples resist building these bridges even when they desperately need them...*`,
   },
+  {
+    day: 29,
+    title: "The Security of Certainty",
+    date: "2026-05-26",
+    image: "images/relationship-play/day-29.jpg",
+    audio: "audio/relationship-play/day-29",
+    sonnet: `**🪶 Sonnet XXIX: The Security of Certainty**
+
+When morning brings its harsh and brittle light,
+And coffee cups stand empty, cold, and bare,
+We choose the armor of being always right
+Over the tender nakedness of care.
+
+For certainty wraps round us like a shield,
+Protecting us from truth's uncertain ground,
+Where two hearts might together softly yield
+To mysteries that make no settled sound.
+
+But in the space where neither wrong nor right
+Holds court above the other's whispered need,
+Love finds its home beyond the endless fight
+Of who remembers and who fails to heed.
+
+*The brave who dare to hold both truths as one*
+*Find intimacy where the war is done.*`,
+    standard: `🎮 Day 29: The Security of Certainty
+
+Partners resist the Both/And Bridge because binary thinking feels safer—it creates the illusion of control and clear resolution in an inherently uncertain world. When emotions run high, our nervous system craves the false security of "I'm right, you're wrong" over the vulnerable complexity of "we're both experiencing something true."
+
+🧱 **The Concept**
+We unconsciously choose the familiar discomfort of conflict over the unfamiliar terrain of collaborative truth-seeking.
+
+❓ **Why It Matters**
+This preference for certainty over curiosity keeps couples stuck in repetitive cycles where they defend positions rather than explore possibilities. The very moments that could deepen intimacy become battlegrounds for who gets to be "right."
+
+⚙️ **How It Works**
+When your partner suggests you've been distant lately, instead of immediately defending ("I've been working hard for us!") or counter-attacking ("Well, you've been critical!"), try: "I can see how my focus on work might feel like distance to you, and I also know I've been genuinely trying to provide for us. Can we explore both of these truths?" This acknowledges their experience without erasing your own reality. Similarly, when planning a vacation and you want adventure while they want relaxation, instead of each lobbying for your preference, explore: "What if we need both rejuvenation and stimulation? How might we design something that honors both desires?"
+
+🎯 **Playful Connection Wisdom**
+Certainty is the enemy of intimacy—when we stop being curious about our partner's inner world, we stop growing together.
+
+❓ **Tomorrow's Question** — If emotional courage is what transforms conflict into connection, why do so many couples unconsciously choose the familiar safety of surface-level peace over the vulnerable work of addressing underlying patterns, even when they know that avoided conversations eventually become relationship-defining conversations?`,
+    parable: `Quinn stared at the empty coffee mug, frustration radiating from their rigid shoulders. "You never remember to start the coffee in the morning," they said to River, who was rushing to find clean socks.
+
+"Never?" River shot back. "I made coffee three times last week!"
+
+The familiar dance began—Quinn's catalog of forgotten mornings versus River's defensive inventory of remembered ones. Each retreated to their corner of certainty, armed with evidence.
+
+Later, at Elder Joy's cottage, they recounted the morning's skirmish with the weary tone of soldiers reporting from a battlefield that never changed.
+
+"Ah," Elder Joy nodded, arranging wildflowers in a mason jar. "You're both seeking the comfort of being right rather than the adventure of being understood."
+
+Quinn shifted uncomfortably. "But River really doesn't—"
+
+"And Quinn always—" River interrupted.
+
+Elder Joy held up a gentle hand. "When we grasp for certainty, we lose our grip on curiosity. Quinn, you experience mornings differently than River. River, you remember coffee-making differently than Quinn. Both experiences are real."
+
+"But someone has to be right," Quinn protested.
+
+"Why?" Elder Joy asked simply. "What if the truth is larger than either of your perspectives? What if Quinn feels uncared for in the mornings, AND River shows care in ways Quinn doesn't always notice?"
+
+The cottage grew quiet except for bees humming in the garden. River reached for Quinn's hand tentatively. "I do forget sometimes. And I also try more often than you see."
+
+Quinn squeezed back. "I want to notice when you do remember. I just... feel so alone when I'm fumbling around for caffeine."
+
+Elder Joy smiled. "Uncertainty is where love grows. Certainty is where it stops."
+
+**Moral:** The false security of being right costs us the real security of being seen.
+
+**Tomorrow:** We'll discover why couples often choose familiar distance over unfamiliar intimacy, and how emotional courage transforms conflict into connection.`,
+  },
 ];
