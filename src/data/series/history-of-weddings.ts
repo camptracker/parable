@@ -820,4 +820,70 @@ Celeste deleted the "Why?" column and started again with "How will you support o
 **Moral:** Sacred invitations call witnesses; social invitations call audiences.
 **Tomorrow:** Discover how the pressure to perform belonging has transformed wedding ceremonies into elaborate theater productions.`,
   },
+  {
+    day: 14,
+    title: "The Guest List Gamble — When Witnesses Became Customers",
+    date: "2026-05-27",
+    image: "images/history-of-weddings/day-14.jpg",
+    audio: "audio/history-of-weddings/day-14",
+    sonnet: `**🪶 Sonnet XIV: The Guest List Gamble**
+
+Once sacred circles held the faithful few,
+Who pledged their souls to guard love's tender start,
+But now we count the many we pursue
+To witness theater more than joining hearts.
+
+The spreadsheet grows with names we barely know,
+While kitchen tables hold our truest friends,
+Yet obligation's weight makes guest lists grow
+Until the blessing breaks where pressure bends.
+
+Medieval witnesses took vows to stay,
+To counsel, celebrate, and hold love true,
+But modern crowds just come to drink and play,
+Then disappear when marriage trials ensue.
+
+*The strongest unions need the smallest rings—*
+*Of those who'll stay through all that marriage brings.*`,
+    standard: `💒 Day 14: The Guest List Gamble — When Witnesses Became Customers
+
+The pressure to invite the "right" people has indeed transformed weddings from intimate ceremonies of belonging into elaborate performances of social status, where couples exhaust themselves managing relationships instead of deepening them. This shift reveals how modern wedding culture has inverted the original purpose: rather than gathering those who would support the marriage, couples now feel obligated to invite people they hope will validate their choices.
+
+🧱 **The Concept**
+Wedding guest lists evolved from carefully chosen spiritual witnesses into complex social equations balancing obligation, expectation, and financial capacity.
+
+❓ **Why It Matters**
+This transformation fundamentally changed what weddings accomplish—shifting from community-building ceremonies that strengthened social bonds into networking events that often strain them. Understanding this evolution reveals why many couples feel more stressed about their guest list than excited about their marriage.
+
+⚙️ **How It Works**
+Historically, wedding witnesses were selected based on their spiritual authority and commitment to supporting the couple's union—think village elders, religious leaders, and close family members who would provide ongoing guidance. Medieval ceremonies typically included 12-20 people who each played specific roles in blessing and protecting the marriage. Victorian society expanded this to include business associates and distant relatives as marriages became tools for social advancement, introducing the first "obligation invitations." The 20th century wedding industry then monetized these social pressures, convincing couples that larger guest lists proved greater love and success. Modern couples now navigate complex algorithms of workplace politics, extended family dynamics, social media relationships, and budget constraints, often spending more time managing guest list drama than preparing for married life.
+
+🎯 **Wedding History Wisdom**
+The most supported marriages throughout history featured the smallest, most intentionally chosen witness circles.
+
+❓ **Tomorrow's Question** — If couples historically chose witnesses based on who would strengthen their marriage, but modern guest lists are often filled with people who might actually undermine or stress the relationship, what does this suggest about whether we're building marriages or building image—and how did we become more afraid of disappointing acquaintances than honoring our most important commitment?`,
+    parable: `Celeste stared at her laptop screen, a spreadsheet of names glowing before her like an altar of anxiety. "Elder Maren," she called across the archive room, "I've been working on this guest list for weeks, and I think I understand what you meant about modern weddings becoming performances."
+
+The historian looked up from a medieval manuscript depicting a small wedding circle. "What troubles you, child?"
+
+"Look at this." Celeste turned her screen toward Elder Maren. "Column one: people I love and want to celebrate with. Column two: people my parents expect me to invite. Column three: people my fiancé's family expects. Column four: work colleagues I feel obligated to include. Column five: friends-of-friends who invited us to their weddings."
+
+Elder Maren studied the spreadsheet with grave eyes. "And which column is largest?"
+
+"Everything except the first one," Celeste whispered. "I realized I'm planning a party for people who barely know us, while the ceremony I actually want would fit around my kitchen table."
+
+Elder Maren opened the manuscript to an illuminated page showing twelve figures in a circle around a bride and groom. "Medieval witnesses took vows too," she explained. "They promised to support the marriage through difficulty, to offer counsel when asked, to celebrate anniversaries and hold the couple accountable to their promises. Each witness was chosen specifically for their wisdom and commitment."
+
+"But my spreadsheet..." Celeste scrolled through rows of names. "Half these people I haven't spoken to in months. Some I've never had a real conversation with. And I'm spending thousands of dollars to feed them while stressing about whether they'll judge my choices."
+
+"The transformation began when weddings became social capital," Elder Maren said gently. "Guest lists grew from circles of support into displays of network size. Couples started measuring love by attendance numbers rather than witness quality."
+
+Celeste closed her laptop with a decisive snap. "What if I just invited the people in column one?"
+
+Elder Maren smiled. "Then you'd be planning a wedding instead of a networking event."
+
+*Moral: The strength of a marriage is measured not by how many people attend the wedding, but by how few are needed to hold it sacred.*
+
+*Tomorrow, Elder Maren will reveal how the guest list revolution exposed an even deeper question: whether modern couples fear disappointing strangers more than honoring their commitment.*`,
+  },
 ];

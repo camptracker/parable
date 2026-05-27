@@ -2021,4 +2021,62 @@ Willem studied the careful annotations, the diagrams of trade winds and politica
 
 *Tomorrow, we shall discover whether sharing market wisdom creates or destroys competitive advantage...*`,
   },
+  {
+    day: 35,
+    title: "The Network Effects of Shared Knowledge",
+    date: "2026-05-27",
+    image: "images/stock-market-origins/day-35.jpg",
+    audio: "audio/stock-market-origins/day-35",
+    sonnet: `**🪶 Sonnet XXXV: The Network Effects of Shared Knowledge**
+
+When merchants hoard their secrets like a miser's gold,
+The market shrinks to whispers in the dark,
+But wisdom shared creates stories yet untold,
+As knowledge spreads like fire from spark to spark.
+
+The teacher's gift seems lost in giving light,
+Yet pupils bring new capital and trade,
+Transforming narrow lanes to highways bright,
+Where greater fortunes than before are made.
+
+Each lesson multiplies the market's reach,
+Draws foreign wealth to Amsterdam's exchange,
+As educated hands create and teach
+New instruments of profitable change.
+
+*For knowledge shared builds empires from the start—*
+*The wisest traders play the longest part.*`,
+    standard: `📈 Day 35: The Network Effects of Shared Knowledge
+
+Sharing market knowledge strengthens the entire ecosystem, creating network effects that ultimately benefit even the teachers. When experienced investors educate others, they build deeper, more liquid markets that generate better opportunities for everyone—the pie grows larger even if individual slices become more competitive.
+
+🧱 **The Concept**
+Markets become more efficient and create greater total value when knowledge spreads widely, even though this sharing may reduce any individual's temporary advantage.
+
+❓ **Why It Matters**
+The paradox of market education reveals a fundamental truth: hoarding knowledge creates shallow, inefficient markets, while sharing it builds the deep, sophisticated markets where the greatest fortunes are ultimately made. Historical evidence shows that periods of widespread financial education coincide with periods of greatest market innovation and wealth creation.
+
+⚙️ **How It Works**
+When the Dutch East India Company began publishing regular financial reports in the 1600s, it didn't diminish returns for informed investors—it created the world's first modern capital market. Similarly, when Benjamin Graham published "The Intelligent Investor," he didn't eliminate value investing opportunities; he created a generation of sophisticated investors who built deeper, more efficient markets. Modern examples include Warren Buffett's annual letters, which have educated millions while Berkshire Hathaway continued generating exceptional returns. The network effect works because educated participants create more liquid markets, better price discovery, and ultimately more opportunities for everyone.
+
+🎯 **Market Wisdom**
+True competitive advantage comes not from hoarding secrets, but from continuously learning faster than knowledge spreads.
+
+❓ **Tomorrow's Question** — If market knowledge creates the most value when it's widely shared, but the incentive to discover new knowledge depends on the possibility of gaining temporary advantages from it, does this create a fundamental tension between innovation and education that could eventually slow the pace of financial discovery, or does competition for the respect and influence that comes from teaching others provide sufficient motivation for continued research and sharing?`,
+    parable: `Willem found Van der Meer in the Café Hoop op de Beurs, sketching diagrams on parchment for a small circle of younger merchants. "Master," Willem whispered, "why do you share your methods so freely? Surely this makes your own trades less profitable?"
+
+Van der Meer smiled, continuing his explanation of risk management to his eager pupils. "Watch, young Willem. Today I taught these men how to read weather patterns for spice ship arrivals. Next week, they will bid more intelligently at auction." He gestured toward the bustling exchange beyond the café windows. "See how thin the trading has become? Only three or four of us old foxes still participate in the complex contracts."
+
+"But with more competitors—" Willem began.
+
+Van der Meer held up a weathered hand. "With more educated participants, the market grows. These young men will trade larger volumes, create new contracts, attract foreign capital. The Amsterdam exchange will expand beyond anything we old traders could achieve alone." He pointed to his ledger. "I make less on each individual trade, yes. But I make far more trades, in a market ten times larger."
+
+Over the following months, Willem watched the transformation. The café pupils became sophisticated traders, bringing friends and capital. New financial instruments emerged. Foreign merchants arrived, drawn by the market's depth and fairness. Van der Meer's profits soared—not from any single brilliant trade, but from participation in a vastly expanded ecosystem.
+
+"You see," Van der Meer explained one evening as they counted the day's substantial earnings, "a secret shared with one person remains fragile. A secret shared with many becomes a foundation upon which empires are built."
+
+**Moral:** The greatest market fortunes come not from hoarding knowledge like a miser hoards gold, but from sowing wisdom like a farmer sows seeds—for knowledge, unlike gold, multiplies when shared.
+
+Tomorrow, Willem discovers why the very act of competing for the privilege to teach others drives the relentless pursuit of new market insights.`,
+  },
 ];

@@ -5386,4 +5386,55 @@ Dove looked at Elm with new eyes, seeing not the man who dampened her dreams but
 
 **Tomorrow:** *Nana Rose will reveal how the deepest intimacy emerges not from perfect agreement but from the graceful space between two sovereign souls.*`,
   },
+  {
+    day: 87,
+    title: "The Sacred Devotion",
+    date: "2026-05-27",
+    image: "images/wedding-planning/day-87.jpg",
+    audio: "audio/wedding-planning/day-87",
+    sonnet: `**🪶 Sonnet LXXXVII: The Sacred Devotion**
+
+Not butterflies nor passion's burning flame
+Sustains the bonds that time and trial test,
+But quiet choice that whispers love's true name
+When feelings fade and hearts have lost their zest.
+The coffee brought though morning feels like night,
+The gentle word when irritation grows,
+The turning toward when distance dims love's light—
+These daily acts are how devotion shows.
+For love that lives by feeling's shifting tide
+Will perish when the storm clouds gather near,
+But choice-built love weathers what feelings hide,
+Grows stronger through each ordinary year.
+*In vows we pledge not how our hearts will feel,*
+*But what our will shall choose to make love real.*`,
+    standard: `💍 Day 87: The Sacred Devotion
+
+🧱 **The Concept**
+True devotion in marriage isn't about romantic feelings or dramatic gestures—it's about the quiet, daily choice to remain faithful to your shared vision even when emotions fluctuate.
+
+❓ **Why It Matters**
+Marriage will test your commitment not through grand trials but through ordinary moments when love feels like work rather than magic. The couples who thrive are those who understand that devotion is a practice, not a feeling—a conscious decision renewed each day regardless of mood, circumstance, or temporary disconnection.
+
+⚙️ **How It Works**
+Devotion shows up in the mundane: choosing to speak kindly when you're irritated, prioritizing your partner's needs when yours feel more urgent, and returning to connection after inevitable periods of distance. It's the mechanic who still brings his wife coffee every morning after thirty years, not because he feels butterflies, but because he's devoted to being the kind of husband who remembers what brings her joy. It's the couple who sits down for their weekly check-in even when they'd rather watch TV, because they're devoted to the practice of staying emotionally current with each other. Devotion transforms marriage from a feeling-dependent relationship into a choice-driven partnership that can weather any storm.
+
+🎯 **Wedding Wisdom**
+Your wedding vows aren't promises about how you'll feel—they're commitments to what you'll choose, regardless of feeling.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage's greatest test would be not whether you can love your partner when they're wonderful, but whether you can remain devoted to them during the seasons when they're struggling to be their best selves, what would that require you to understand about the difference between conditional love and unconditional commitment?`,
+    parable: `The morning after their venue visit, Dove found herself overwhelmed again—this time not by choices, but by the weight of what she was promising. "How can I vow to love Elm forever when some days I don't even love myself?" she confessed to Nana Rose.
+
+Nana Rose set down her tea and smiled. "Child, let me tell you about Marcus and Elena, married forty-three years. When Elena developed depression in year fifteen, there were months when she couldn't feel love for anyone—not Marcus, not their children, not herself. But Marcus had made a choice that went deeper than feeling."
+
+She gestured toward her photo wall. "Every morning, he brought her coffee in the blue cup she loved. Every evening, he told her one thing he appreciated about her that day. Not because he felt romantic butterflies—those had long since settled into something steadier. He did it because he was devoted to being Elena's husband, whether she could receive his love or not."
+
+Elm took Dove's hand. "I'm not promising to always feel overwhelmed with passion for you," he said quietly. "I'm promising to always choose you, to always come back to us, to always tend to what we're building together."
+
+"That," said Nana Rose, "is the difference between infatuation and devotion. One depends on favorable conditions. The other creates them."
+
+**Moral:** True devotion is not about the intensity of feeling, but the consistency of choosing.
+
+*Tomorrow, Nana Rose will help them understand that marriage's greatest test comes not when love is absent, but when it requires more strength than they thought they possessed...*`,
+  },
 ];

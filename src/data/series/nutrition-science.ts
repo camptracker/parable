@@ -5682,4 +5682,72 @@ Lila noticed how she'd been holding her own breath, listening. She exhaled natur
 
 **Tomorrow:** Lila discovers that accepting dysfunction can become its own trap...`,
   },
+  {
+    day: 92,
+    title: "The Sacred Discomfort",
+    date: "2026-05-27",
+    image: "images/nutrition-science/day-92.jpg",
+    audio: "audio/nutrition-science/day-92",
+    sonnet: `**🪶 Sonnet XCII: The Sacred Discomfort**
+
+When comfort becomes cage and safety, snare,
+The soul grows numb within familiar walls,
+While sacred discomfort, sharp beyond compare,
+Awakes the heart that to expansion calls.
+
+Not all unease signals danger's approach—
+Some tension speaks of growing, stretching wide,
+Like bark that asks the hand to not encroach
+But learn to flex and strengthen by its side.
+
+The stone of false acceptance deadens all,
+While rough-edged truth demands we learn to feel,
+To distinguish growth's uncertain call
+From harm that makes our wounded spirits reel.
+
+*In sacred discomfort, wisdom finds its voice—*
+*The growing edge where souls make conscious choice.*`,
+    standard: `🍎 Day 92: The Sacred Discomfort
+
+Passive acceptance that avoids action becomes spiritual bypassing in metabolic clothing—a way to feel enlightened about dysfunction while avoiding the vulnerable uncertainty that real change requires. True healing acceptance includes the willingness to act despite not knowing the outcome, recognizing that the discomfort of change is often the very medicine your system needs to break free from familiar patterns that no longer serve.
+
+🧱 **The Concept**: True metabolic healing requires embracing sacred discomfort—the specific type of unease that signals growth rather than harm.
+
+❓ **Why It Matters**: Your nervous system can distinguish between the discomfort of expansion and the distress of damage, but modern comfort-seeking has atrophied this crucial discrimination. Without this ability to embrace sacred discomfort, you remain trapped in metabolic patterns that feel safe but keep you small.
+
+⚙️ **How It Works**: Sacred discomfort has distinct qualities: it feels uncertain but not dangerous, challenging but not overwhelming, activating but not depleting. When you try a new eating pattern, the initial awkwardness of changed routines creates sacred discomfort—your system stretching into new territory. When you address emotional eating patterns, the vulnerability of feeling emotions without numbing them generates sacred discomfort. When you establish boundaries around food with family, the social tension creates sacred discomfort. Each feels uncomfortable but alive, unlike the deadening comfort of familiar dysfunction.
+
+🎯 **Science Wisdom**: Sacred discomfort activates your sympathetic nervous system in service of growth rather than survival, creating the optimal arousal state for lasting metabolic adaptation.
+
+❓ **Tomorrow's Question** — *If sacred discomfort is so essential for metabolic growth, what happens when someone becomes addicted to this growth sensation and begins seeking out discomfort for its own sake rather than in service of genuine healing—and why might this spiritual materialism around suffering actually prevent the very expansion it appears to cultivate?*`,
+    parable: `Lila found Maren sitting quietly by the eastern hearth, her weathered hands resting on her knees, eyes closed. The apprentice had come seeking guidance about a patient who claimed to accept her sugar cravings as "just how she was made," yet seemed miserable in this resignation.
+
+"Teacher," Lila whispered, "she speaks of acceptance, but something feels wrong about it."
+
+Maren opened her eyes slowly. "Show me your hands, child."
+
+Lila extended her palms, puzzled. Maren placed a smooth river stone in one hand and a piece of rough bark in the other.
+
+"Which is more comfortable?" Maren asked.
+
+"The stone, obviously."
+
+"Now close your fists around both. Hold them firmly for as long as you can."
+
+Lila gripped both objects. The stone felt pleasant at first, but as minutes passed, her palm grew stiff and cramped. The bark felt uncomfortable immediately, but somehow her hand found ways to adjust, to work with its texture.
+
+"The stone provides false comfort," Maren said, watching Lila's face change. "Your hand grows dead around it. The bark offers sacred discomfort—it asks your hand to grow stronger, more flexible, more alive."
+
+Lila opened her hands, flexing her fingers. The palm that held the stone was numb and stiff. The one that gripped the bark was warm and supple.
+
+"Your patient mistakes the stone for acceptance," Maren continued. "She grips her familiar patterns so tightly that her spirit grows numb. True acceptance would mean feeling the bark—letting her cravings teach her something new about hunger, about comfort, about growth."
+
+"But the bark hurts," Lila protested.
+
+"Yes," Maren smiled. "It hurts in the way that strengthens. Like a muscle that grows through resistance, your soul grows through sacred discomfort—the kind that asks you to expand rather than contract."
+
+**Moral**: True acceptance embraces growth's discomfort rather than hiding in comfort's numbness.
+
+**Tomorrow**: Maren will reveal what happens when seeking discomfort becomes another form of avoiding life's deeper teachings.`,
+  },
 ];

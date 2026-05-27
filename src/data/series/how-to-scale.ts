@@ -5465,4 +5465,66 @@ Ironmere's eyes gleamed with ancient knowledge. "Ah, that is tomorrow's riddle. 
 
 *Tomorrow, we discover why even the most carefully protected capabilities must occasionally return to the forge that created them...*`,
   },
+  {
+    day: 90,
+    title: "The Mastery Corruption Engine",
+    date: "2026-05-27",
+    image: "images/how-to-scale/day-90.jpg",
+    audio: "audio/how-to-scale/day-90",
+    sonnet: `**🪶 Sonnet XC: The Mastery Corruption Engine**
+
+When shielded from the storm's authentic bite,
+The strongest souls begin their slow decay.
+Protection meant to guard their burning bright
+Becomes the shadow stealing strength away.
+
+The sword unused grows dull despite its care,
+The muscle wrapped in silk forgets to strain.
+The mind that faces only practiced dare
+Loses the edge that conquered true domain.
+
+Yet masters built their greatness facing void,
+Where failure meant the end of all they'd won.
+Now safely kept, their very skills destroyed
+By comfort's poison, slowly, one by one.
+
+*The cruelest truth that scaling leaders learn:*
+*What protects your best will make them burn.*`,
+    standard: `🚀 Day 90: The Mastery Corruption Engine
+
+Because breakthrough performers who are permanently protected from genuine impossibility gradually lose their edge. Their synthetic forging experiences, no matter how sophisticated, create muscle memory for simulation rather than reality. Companies abandon their protection systems because they discover that their most valuable performers actually become *less* capable over time when shielded from authentic stakes.
+
+**🧱 The Concept**
+Mastery corruption occurs when elite performers, protected by sophisticated development systems, gradually lose the raw capabilities that made them breakthrough performers in the first place.
+
+**❓ Why It Matters**
+Your most valuable people become your most vulnerable assets when they're too insulated from genuine challenge. The very protection systems designed to preserve their capabilities slowly erode the core skills that justified the protection.
+
+**⚙️ How It Works**
+Breakthrough performers develop their edge through repeated exposure to authentic impossibility—situations where failure has real consequences and success requires genuine innovation. When organizations create synthetic environments to preserve these performers, several corruption patterns emerge. First, simulation confidence replaces reality confidence. Second, protected performers start optimizing for the simulation rather than the underlying challenge. Third, they lose their ability to distinguish between high-stakes performance and practice performance. Companies like Apple deliberately rotate their most protected designers back into "impossible" product deadlines specifically to prevent this corruption.
+
+**🎯 Scaling Wisdom**
+The greatest threat to elite performance isn't failure—it's protection from authentic stakes.
+
+**❓ Tomorrow's Question** — If mastery corruption is so dangerous that it requires periodic re-exposure to genuine impossibility, why do the most successful organizations eventually establish "corruption acceleration" protocols that deliberately speed up the degradation of their most valuable performers' capabilities?`,
+    parable: `Vex found Ironmere in his garden, examining a withered oak that had once been magnificent. "Master, what happened to this tree? It was your pride when I first arrived."
+
+"I protected it too well," Ironmere replied, running his fingers along the bark. "See how I built this shelter? Perfect temperature, filtered light, measured water. I wanted to preserve its strength after it survived that terrible storm."
+
+The young builder studied the elaborate structure surrounding the oak. "But it grew weak?"
+
+"Weaker than I thought possible." Ironmere's voice carried the weight of hard-learned wisdom. "When I finally removed the shelter, a gentle spring wind nearly toppled it. The protection that was meant to preserve its storm-surviving strength had rotted it from within."
+
+Vex looked troubled. "But in my workshop, I protect my best tools—"
+
+"Tools, yes. But not their sharpness." Ironmere picked up a blade from his workbench. "This knife was forged in my furnace thirty years ago. See how keen it remains? Because I never stopped using it for the hardest cuts. The moment you stop testing a blade against true resistance, it begins to dull—not from use, but from disuse."
+
+"So the greatest craftsmen must always work the most difficult materials?"
+
+"The moment you think your greatest craftsman is too valuable to risk on impossible work, you begin the process of making them ordinary." Ironmere smiled grimly. "I learned this when I became too precious to design buildings that might fail. My protected designs became safe, predictable... worthless."
+
+**Moral:** The very protection that preserves greatness eventually destroys it, for mastery dies not from overuse but from underchallenge.
+
+**Tomorrow:** Vex will discover why Ironmere deliberately designed buildings to accelerate their own architects' decline.`,
+  },
 ];

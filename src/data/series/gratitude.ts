@@ -2042,4 +2042,62 @@ As they walked toward the village together, Hana realized her footsteps were ste
 
 **Tomorrow:** Hana discovers why helping others find gratitude can sometimes make her feel more lost than found.`,
   },
+  {
+    day: 34,
+    title: "The Anonymous Gift",
+    date: "2026-05-27",
+    image: "images/gratitude/day-34.jpg",
+    audio: "audio/gratitude/day-34",
+    sonnet: `**🪶 Sonnet XXXIV: The Anonymous Gift**
+
+In darkness comes the tender, unnamed hand
+That leaves fresh flowers by the village well,
+No signature upon her generous stand,
+No witness but the dawn to grateful tell.
+
+She asks no thanks for beauty freely given,
+Seeks not the praise that daylight might bestow,
+Her gift complete when morning light has risen
+On blossoms that will make the water glow.
+
+What pure devotion moves the heart that serves
+With no desire for recognition's song?
+The soul that gives because the world deserves
+To find small mercies as it moves along.
+
+*In anonymity, love's truest face appears—*
+*Gratitude flowing silent through the years.*`,
+    standard: `🙏 Day 34: **The Anonymous Gift**
+
+🧱 **The Concept**
+The most profound gratitude often flows through acts of anonymous appreciation — giving thanks or creating positive impact without any possibility of recognition or return.
+
+❓ **Why It Matters**
+Anonymous gratitude purifies appreciation from ego, expectation, and social performance. When we practice gratitude knowing we'll never be thanked or acknowledged, we discover whether our appreciation is genuine service or subtle self-interest.
+
+⚙️ **How It Works**
+Anonymous gratitude takes many forms: leaving encouraging notes for strangers to find, paying for someone's coffee without staying to see their reaction, sending appreciation letters to people who influenced you years ago without expecting a response, or quietly maintaining something beautiful that others use. The key is releasing attachment to outcome, recognition, or reciprocation. This practice reveals gratitude's true nature — not as emotional transaction, but as pure gift. When you can feel genuinely grateful knowing no one will ever know or thank you for it, you've touched the essence of appreciation itself.
+
+🎯 **Gratitude Wisdom**
+Gratitude without witnesses reveals gratitude without ego. In anonymity, appreciation becomes prayer.
+
+❓ **Tomorrow's Question** — If anonymous gratitude reveals the purest form of appreciation, why do we often feel more motivated to help or express thanks when others might notice our generosity, and what does this preference for witnessed virtue reveal about whether we're seeking to serve love or to be loved for serving?`,
+    parable: `Hana discovered the village well adorned with fresh wildflowers each morning, though no one knew who placed them there. "Who tends this beauty in darkness?" she wondered aloud to Elder Thorn.
+
+"Perhaps the flowers know," the elder smiled. "But they never tell."
+
+Intrigued, Hana rose before dawn and hid among the trees. In the pre-dawn darkness, she watched an ancient woman approach the well with trembling hands, arranging blossoms with infinite care. When the woman finished, she simply vanished into the forest, her gift complete.
+
+"Grandmother Willow has done this for forty years," Elder Thorn later revealed. "No one has ever thanked her. No one knows but you and me. Yet she rises each day to give beauty to water that gives life to all."
+
+Hana felt something shift within her chest. "But why? What does she receive?"
+
+"Everything," Elder Thorn whispered. "When gratitude becomes pure gift, the giver receives the gift of giving itself. Grandmother Willow doesn't tend the well for thanks — she tends it because appreciation flows through her like water through stone, seeking its natural expression."
+
+That evening, Hana began leaving small stones painted with encouraging words along the forest paths, never signing them, never staying to watch who found them.
+
+**Moral:** *The purest gratitude flows like water — seeking no applause, only expression.*
+
+**Tomorrow:** *What happens when our need for recognition competes with our desire to serve?*`,
+  },
 ];

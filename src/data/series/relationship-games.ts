@@ -1864,4 +1864,62 @@ The portraits began to glow with new light, and Riven understood: their capacity
 
 *Tomorrow: The Mirror reveals why our "type" might be the most accurate diagnostic tool for measuring our level of personal healing...*`,
   },
+  {
+    day: 31,
+    title: "The Magnetic Mirror",
+    date: "2026-05-27",
+    image: "images/relationship-games/day-31.jpg",
+    audio: "audio/relationship-games/day-31",
+    sonnet: `**🪶 Sonnet XXXI: The Magnetic Mirror**
+
+We walk through life with signals we can't see,
+Broadcasting wounds through posture, tone, and glance,
+Our damaged parts call out unconsciously
+To those who'll join our familiar dance.
+
+The anxious heart sings songs of desperate need,
+While avoidant souls emit cold, distant light,
+Each frequency attracts its matching creed—
+The broken seeking broken feels just right.
+
+But healing shifts the energy we send,
+Our golden glow repels what once felt true,
+As consciousness and frequency blend,
+We magnetize what mirrors our breakthrough.
+
+*The mirror shows what we cannot yet see:*
+*Change your signal, change your destiny.*`,
+    standard: `🎭 Day 31: The Magnetic Mirror
+
+Our romantic attractions function as precise diagnostic instruments for our consciousness level because we unconsciously emit energetic signals that match our internal state—wounded parts attract wounded parts, while healed aspects naturally resonate with wholeness. As we evolve, our "type" literally transforms because we're no longer vibrating at frequencies that activate dysfunctional patterns in others or feel drawn to theirs.
+
+🧱 **The Concept**
+We unknowingly broadcast our psychological state through micro-expressions, energy, and behavioral patterns, creating an invisible selection mechanism that draws people operating at similar consciousness levels.
+
+❓ **Why It Matters**
+This magnetic principle explains why personal growth often precedes relationship transformation, and why trying to "fix" our dating life without addressing our internal landscape rarely produces lasting change. The quality of people we attract shifts automatically as our inner frequency changes.
+
+⚙️ **How It Works**
+Someone operating from abandonment wounds unconsciously sends signals (anxious texting, people-pleasing, emotional intensity) that activate avoidant responses in others, creating the very rejection they fear. Meanwhile, someone who has processed their attachment trauma naturally communicates with security and boundaries, which repels people seeking drama and attracts those capable of stability. This isn't conscious manipulation—it's energetic resonance. A person radiating self-worth through posture, tone, and choices literally becomes invisible to predatory types who rely on insecurity for control, while becoming magnetic to those who appreciate authentic confidence.
+
+🎯 **Relationship Strategy Wisdom**
+Your dating struggles are often symptoms of internal patterns that need healing rather than evidence that "good people don't exist." Change your frequency, change your options.
+
+❓ **Tomorrow's Question** — If we accept that we're constantly participating in an unconscious energetic matching system that pairs us with people at similar healing levels, what does this suggest about the phenomenon of "bad timing" in relationships—and might what we call timing actually be a mismatch between our stated readiness for love and our energetic broadcast of our actual capacity for it?`,
+    parable: `Riven stood at the crossroads again, watching the same types of people approach him with the same devastating patterns. "Why do I keep attracting the emotionally unavailable ones?" he asked The Mirror, who materialized beside him like smoke given form.
+
+"Look closer," The Mirror whispered, and suddenly Riven could see invisible threads of light extending from every person in the square. Some pulsed with anxious amber, others flickered with avoidant blue, while a rare few glowed with the steady golden warmth of security.
+
+"You see," The Mirror explained, "each person broadcasts their internal state like a radio frequency. Those amber threads of yours?" Riven looked down to see anxious energy radiating from his chest. "They're singing a song of 'please don't leave me' so loudly that only people allergic to commitment can hear it clearly. Your wounds are calling to their wounds."
+
+As they watched, Riven noticed how the golden-glowing people seemed completely invisible to him—not unattractive, just... irrelevant. Their steady energy didn't activate anything in him. "But those people seem so... boring," he admitted.
+
+"Boring to your wounded parts," The Mirror smiled. "Your trauma bonds have convinced you that love should hurt. But watch." The Mirror touched Riven's chest, and suddenly his amber threads shifted to soft silver. Immediately, different people began approaching—calmer, more centered souls who had previously seemed to look right through him.
+
+"The most profound magic," The Mirror said as they faded, "is that you don't have to hunt for the right person. Heal yourself, and they become magnetically drawn to you while the wrong ones lose interest entirely."
+
+**Moral**: We are walking advertisements for our level of consciousness, attracting those who match our energetic frequency.
+
+**Tomorrow**: The Mirror reveals why perfect timing might be an illusion masking the gap between our conscious desires and unconscious broadcasts.`,
+  },
 ];
