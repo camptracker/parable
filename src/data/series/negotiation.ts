@@ -5943,4 +5943,74 @@ Vasska nodded approvingly. "The woman didn't sell fabric, young one. She made th
 
 **Tomorrow:** Ren learns what happens when responsibility extends beyond honoring the past to preventing future suffering.`,
   },
+  {
+    day: 93,
+    title: "The Suffering Switch",
+    date: "2026-05-28",
+    image: "images/negotiation/day-93.jpg",
+    audio: "audio/negotiation/day-93",
+    sonnet: `**🪶 Sonnet XCIII: The Suffering Switch**
+
+Behold the lever gleaming in their hand,
+That turns the wheel of others' joy or pain,
+While conscience whispers of a moral stand
+And mercy calls through suffering's cold refrain.
+
+The negotiator speaks of distant tears,
+Of burdens borne by those who cannot choose,
+Of families fractured by their mounting fears,
+And children who have everything to lose.
+
+What rational mind can weigh its gain
+Against the cries of innocents unknown?
+The heart rebels at causing others' strain
+When stopping it requires but word alone.
+
+*Thus switches flip when suffering's in sight—*
+*For none can choose the darkness over light.*`,
+    standard: `🤝 Day 93: The Suffering Switch
+
+When you make someone feel responsible for either ending or perpetuating others' suffering, you transform them from negotiator into moral architect of collective fate. This technique works by making refusal feel like choosing to inflict pain on innocent people, while agreement feels like liberating them from unnecessary hardship.
+
+🧱 **The Concept**
+The Suffering Switch makes your counterpart feel like they hold the power to turn off others' pain with a single decision.
+
+❓ **Why It Matters**
+Most people can rationalize their own inconvenience but struggle to justify causing others to suffer. When someone believes their choice determines whether others experience pain, the moral weight becomes almost unbearable, overriding their rational self-interest.
+
+⚙️ **How It Works**
+You position your request as the key that either locks people into ongoing suffering or releases them from it. "If we can't reach an agreement today, my team will have to work through the holidays again—and their families have already sacrificed so much this year." The technique works because it transforms a business decision into a moral choice between mercy and cruelty. You're not asking for personal gain; you're asking them to stop the suffering they now feel responsible for continuing. The more vivid you make others' pain, and the more directly you connect their decision to either relieving or prolonging it, the stronger their compulsion to agree.
+
+🎯 **Negotiation Wisdom**
+When someone holds the switch that controls others' suffering, throwing it becomes a moral imperative, not a business decision.
+
+❓ **Tomorrow's Question** — If making someone the controller of others' suffering works by transforming business decisions into moral imperatives, what happens when you make them feel like they're not just controlling current suffering, but that their decision will determine whether they become the kind of person who causes suffering or the kind who prevents it—essentially making them choose their fundamental moral identity?`,
+    parable: `Ren found Vasska in the marketplace's shadow, watching a group of porters struggle with impossibly heavy loads. Their backs bent like broken reeds, sweat streaming despite the cool morning air.
+
+"Master," Ren whispered, "why do you watch their pain?"
+
+Vasska's silver tongue caught the light as he smiled. "I'm waiting for the merchant who hired them. Watch."
+
+A well-dressed trader approached, counting coins. Vasska intercepted him with practiced ease.
+
+"Good sir," Vasska began, his voice heavy with concern, "I couldn't help but notice your workers. They've been laboring since dawn, and I fear... well, surely you see their condition?"
+
+The merchant glanced at the struggling men, then back at Vasska. "They're paid fairly."
+
+"Oh, I'm sure they are," Vasska nodded. "But here's what troubles me—I have a dozen fresh workers, rested and strong. For just a small additional fee, you could spare these poor souls another day of agony. Imagine their relief... their gratitude to finally rest."
+
+The merchant's eyes darted between Vasska and the suffering porters. "How much?"
+
+"Consider this," Vasska continued, "every moment you deliberate, they suffer. You hold in your hands the power to end their pain or... continue it. What kind of man chooses to perpetuate suffering when mercy is so easily within reach?"
+
+The coins changed hands swiftly.
+
+Later, Ren marveled at the transaction. "You made him pay extra to hire different workers?"
+
+"I made him feel like a god," Vasska replied, "holding the switch that controls suffering. No one wants to be the person who chooses cruelty when kindness costs so little."
+
+**Moral:** When someone believes they control others' pain, mercy becomes their only path to self-respect.
+
+**Tomorrow:** Ren will discover what happens when the choice isn't just about ending suffering, but about what kind of person that choice reveals you to be.`,
+  },
 ];

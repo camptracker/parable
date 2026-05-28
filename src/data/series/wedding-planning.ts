@@ -5437,4 +5437,63 @@ Elm took Dove's hand. "I'm not promising to always feel overwhelmed with passion
 
 *Tomorrow, Nana Rose will help them understand that marriage's greatest test comes not when love is absent, but when it requires more strength than they thought they possessed...*`,
   },
+  {
+    day: 88,
+    title: "The Sacred Endurance",
+    date: "2026-05-28",
+    image: "images/wedding-planning/day-88.jpg",
+    audio: "audio/wedding-planning/day-88",
+    sonnet: `**🪶 Sonnet LXXXVIII: The Sacred Endurance**
+
+When passion fades to embers in the night,
+And stress transforms your beloved into stone,
+When words cut deep and nothing feels quite right,
+And you must choose to love or stand alone—
+This is the hour that tests the marriage vow,
+Not wedding day when all the world looks bright,
+But Tuesday when your partner can't somehow
+Remember how to hold you soft and light.
+True love endures beyond the sweet beginning,
+Through seasons when the heart forgets to sing,
+When one soul struggles, barely even winning
+The daily fight that ordinary days bring.
+*For marriage thrives not on perpetual bliss,*
+*But choosing love when love feels hard as this.*`,
+    standard: `💍 Day 88: The Sacred Endurance
+
+If your marriage's greatest test lies in loving your partner during their struggling seasons, you'd need to understand that unconditional commitment means choosing devotion as a daily practice rather than a feeling-dependent response. This requires seeing your partner's worst moments not as failures of character but as invitations for you to embody the kind of love that heals rather than judges.
+
+🧱 **The Concept**
+True marital love is not sustained by continuous affection but by the decision to remain present and caring even when emotions fluctuate.
+
+❓ **Why It Matters**
+Every marriage will encounter seasons of stress, depression, illness, career setbacks, or personal growth that temporarily diminish one partner's capacity to be their most lovable self. How you respond during these valleys determines whether your marriage becomes a sanctuary of healing or a source of additional pressure.
+
+⚙️ **How It Works**
+Enduring love requires developing emotional stamina—the ability to maintain kindness when your partner is anxious, patience when they're overwhelmed, and faith in their essential goodness when they're behaving badly. This means learning to separate your partner's temporary struggles from their permanent worth, offering comfort without trying to fix them, and holding space for their healing without taking their pain personally. For example, when your partner goes through a difficult work period and becomes irritable at home, enduring love responds with extra gentleness rather than defensiveness, understanding that their behavior reflects their stress, not their feelings about you.
+
+🎯 **Wedding Wisdom**
+Plan your wedding as practice for this endurance—notice how you treat each other during planning stress, and let that become your template for handling all future difficulties together.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage would be strongest not when you're both happy simultaneously, but when you can take turns being the strong one while the other heals, what would that change about your expectations for emotional reciprocity, and what does that reveal about the difference between parallel happiness and complementary support?`,
+    parable: `Dove sat among wilted wedding flowers, tears streaming down her face. "I can't do this anymore, Nana Rose," she whispered. "Yesterday I snapped at Elm over the napkin colors. This morning I cried because the baker changed our cake consultation time. I'm becoming someone I don't recognize."
+
+Nana Rose settled beside her, gathering the drooping blooms. "Tell me, child, what did Elm do when you snapped at him?"
+
+"He..." Dove paused, remembering. "He made me tea. Sat with me quietly until I could explain what was really wrong. He didn't defend himself or get angry back. He just... stayed."
+
+"And this morning, when the tears came over something small?"
+
+"He held me. Didn't tell me I was overreacting. Just said, 'You're carrying so much right now.'" Dove's voice softened. "I keep waiting for him to get frustrated with this version of me."
+
+Nana Rose smiled, reviving a wilted rose with gentle water. "Do you know what I've learned from a thousand weddings? The couples who make it aren't the ones who never struggle—they're the ones who learn to love each other through the struggling."
+
+Elm appeared in the doorway, carrying fresh flowers. "I thought these might help," he said simply, his eyes full of understanding rather than judgment.
+
+Nana Rose watched as Dove melted into his arms, both of them imperfect, both of them choosing love anyway. "This, my dear ones, is your real vow—not to be perfect, but to endure together."
+
+**Moral:** Enduring love is not the absence of difficult seasons, but the presence of unwavering care through them all.
+
+*Tomorrow, we discover why strength in marriage comes not from both partners being strong simultaneously, but from their willingness to hold each other up in turn...*`,
+  },
 ];

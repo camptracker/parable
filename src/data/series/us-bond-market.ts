@@ -2183,4 +2183,64 @@ Maya looked out at the bustling trading floor, seeing it now as Garrison did—n
 
 *Tomorrow, Maya would discover that the machine's greatest defense isn't complexity—it's the moral argument that its destruction might harm the very system it feeds upon...*`,
   },
+  {
+    day: 36,
+    title: "The Moral Market",
+    date: "2026-05-28",
+    image: "images/us-bond-market/day-36.jpg",
+    audio: "audio/us-bond-market/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Moral Market**
+
+Beneath the yields and spreads that traders chase,
+Lie choices etched in code and auction rules,
+That favor some while others lose their place—
+A moral framework hidden from most fools.
+
+Each basis point extracted, spread maintained,
+Reflects decisions made in boardroom halls,
+Where access rights and privileges are chained
+To power structures that ignore fair calls.
+
+The Treasury's primary dealer syndicate,
+The repo market's opacity and speed,
+Embed an ethic few dare articulate:
+That sophistication justifies its greed.
+
+*Though markets pose as neutral, cold machines,*
+*They're moral systems working behind scenes.*`,
+    standard: `📊 Day 36: The Moral Market
+
+The pensioner's dilemma reveals a fundamental truth: markets are not morally neutral mechanisms but systems that embed ethical choices about who bears costs and who receives benefits. Individual welfare need not be subordinated to systemic efficiency—this false choice assumes markets are natural phenomena rather than human constructs that can be redesigned to serve multiple stakeholders simultaneously.
+
+🧱 **The Concept**
+Financial markets embed moral frameworks that determine how wealth, risk, and responsibility are distributed across society.
+
+❓ **Why It Matters**
+Every bond market structure—from auction mechanisms to clearinghouse rules to fee schedules—represents implicit moral choices about fairness, efficiency, and who deserves protection. These embedded ethics shape outcomes more powerfully than explicit regulations because they operate invisibly within seemingly neutral market mechanics.
+
+⚙️ **How It Works**
+When Treasury auctions favor primary dealers over direct bidders, the market embeds a moral choice that institutional intermediation deserves compensation even when it adds no economic value. When credit rating agencies are paid by issuers rather than investors, the system embeds an ethic that prioritizes issuer convenience over analytical integrity. When repo markets operate with minimal oversight while enjoying Fed backstops, the structure embeds a belief that sophisticated institutions deserve socialized risk without socialized oversight. These design choices create moral hazard not through individual bad behavior but through systemic incentive structures that reward certain values while penalizing others. The bond market's apparent objectivity—yields, spreads, duration—disguises subjective moral frameworks about who deserves what level of protection, information, and opportunity.
+
+🎯 **Bond Wisdom**
+Markets are moral systems disguised as mathematical ones. Understanding bond markets means recognizing the ethical frameworks embedded in their structures.
+
+❓ **Tomorrow's Question** — If bond markets embed moral frameworks through their structural design rather than explicit rules, and these embedded ethics often contradict the stated values of democratic societies that create them, does this suggest that technocratic market design is inherently anti-democratic, or that democracy itself requires citizens to become sophisticated enough to participate in technical market governance?`,
+    parable: `Maya stared at the settlement reports scattered across her desk, each document telling the same story in different numbers. Pension funds paying basis points to intermediaries who added no economic value. Retail investors locked out of Treasury auctions that their tax dollars guaranteed. Small municipalities paying higher rates than hedge funds for identical credit risk.
+
+"The math works perfectly," she told Garrison, "but something feels fundamentally wrong."
+
+Garrison set down his coffee and pulled up a chart showing forty years of dealer spreads. "You're seeing what most analysts miss—markets aren't just pricing mechanisms, they're moral systems. Every rule, every structure, every seemingly neutral process embeds choices about fairness."
+
+He traced the widening spreads with his finger. "When we designed electronic trading, we could have built systems that gave everyone equal access. Instead, we created advantages for those who could afford the fastest connections. When we structured repo markets, we could have required full transparency. Instead, we allowed opacity that benefits sophisticated players at everyone else's expense."
+
+Maya pulled up the primary dealer system. "So when Treasury auctions exclude direct participation..."
+
+"We're not just creating market efficiency," Garrison nodded. "We're making a moral statement that institutional intermediation deserves compensation even when it serves no economic purpose. The bond market isn't morally neutral—it's a system of embedded ethics disguised as mathematical optimization."
+
+The late afternoon sun cast long shadows across their screens, and Maya realized she was looking at more than yield curves and duration calculations. Every data point represented a choice about who deserved protection, who earned profits, and who bore risks in the vast machinery of American finance.
+
+**Moral:** Markets are moral systems masquerading as mathematical ones; understanding finance requires recognizing the ethical frameworks embedded in seemingly neutral structures.
+
+**Tomorrow:** Maya and Garrison explore whether technocratic market design can ever truly serve democratic values...`,
+  },
 ];

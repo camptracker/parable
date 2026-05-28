@@ -1615,4 +1615,69 @@ Asha watched her daughter's concentrated face, suddenly seeing the profound inte
 
 **Tomorrow:** The weight of comparison and the courage to trust individual timing.`,
   },
+  {
+    day: 27,
+    title: "The Mirror of Our Own Childhood",
+    date: "2026-05-28",
+    image: "images/raising-kids/day-27.jpg",
+    audio: "audio/raising-kids/day-27",
+    sonnet: `**🪶 Sonnet XXVII: The Mirror of Our Own Childhood**
+
+In tiny hands we see our childhood pain,
+The wounds that shaped us, raw and unresolved,
+We push our children toward what we couldn't gain—
+Love conditional on problems quickly solved.
+
+Each milestone missed becomes our own defeat,
+Each struggle theirs reflects our hidden shame,
+We cannot bear to watch them incomplete,
+For in their growth we play our childhood game.
+
+The anxious parent sees through fractured lens,
+Where worth was earned through achievement and through speed,
+But children bloom when pressure finally ends,
+And love flows free from any desperate need.
+
+*When we heal ourselves, our children too find peace,*
+*For broken chains mean generational release.*`,
+    standard: `👶 Day 27: The Mirror of Our Own Childhood
+
+Our urgency to push our children toward milestones often stems from our own unresolved childhood experiences—where we learned that love was conditional on performance, or where we internalized the message that worth was measured by achievement. When we catch ourselves comparing or pushing, we're usually trying to heal our own childhood wounds by giving our children what we thought we needed: external validation of being "good enough."
+
+**🧱 The Concept**
+Our parenting triggers often reveal where our own childhood left us feeling inadequate, unloved, or unsafe.
+
+**❓ Why It Matters**
+Until we recognize how our own childhood experiences shape our parenting reflexes, we may unconsciously pass down patterns that served us poorly. Our children become mirrors, reflecting back the parts of ourselves that still need healing and integration.
+
+**⚙️ How It Works**
+When your child struggles with something you excelled at as a child, you might feel anxious that others will judge your parenting. When they excel at something you found difficult, you might feel vicarious pride that has more to do with your own validation than their accomplishment. If you were criticized for being "too sensitive," you might rush to toughen up your sensitive child. If you were praised for being "the good kid," you might panic when your child acts out, fearing it reflects poorly on you. These responses reveal where our own inner child still seeks approval or fears abandonment.
+
+**🎯 Parenting Wisdom**
+The most transformative parenting happens when we use our children's behavior as information about our own unfinished emotional business.
+
+**❓ Tomorrow's Question**
+If we know that children naturally model what they see rather than what we tell them, why do we often find ourselves lecturing about character traits like honesty, kindness, and integrity while simultaneously demonstrating contradictory behaviors in our daily interactions, and what does this gap between our stated values and lived example teach them about authenticity?`,
+    parable: `Asha watched her eighteen-month-old daughter Maya toddle unsteadily across the playground, arms outstretched for balance. Nearby, another child the same age was already running with confidence, and Asha felt a familiar knot of anxiety form in her stomach. "She should be running by now," she murmured, reaching to steady Maya's wobbling steps.
+
+Elder Mira observed quietly from the bench beside her. "Tell me," she said gently, "what do you remember about learning to walk?"
+
+"I don't remember learning," Asha replied, still focused on Maya. "But my mother always said I was an early walker. She was proud that I hit milestones ahead of schedule."
+
+"Ah," Mira nodded knowingly. "And how did that pride feel?"
+
+Asha paused, considering. "Good, I suppose. It meant I was... worthy of her attention. Her love felt conditional on me being ahead, being better."
+
+"And now?"
+
+The realization hit Asha like a gentle wave. She was trying to earn her own mother's approval through Maya's achievements. Her anxiety wasn't about Maya's development—it was about her own childhood hunger for unconditional love.
+
+Mira watched as understanding dawned in Asha's eyes. "When we parent from our wounds," she said softly, "we see our children through the lens of our own unfinished healing. But when we parent from our wisdom, we see them as they truly are—perfect in their own timing, worthy of love simply for being."
+
+Asha released her steadying hand and watched Maya navigate the uneven ground alone, wobbling but determined. In that moment, she wasn't seeing a delayed child—she was seeing a complete little being, learning at exactly the pace that served her growth.
+
+**Moral:** Our children become our greatest teachers when we recognize that our parenting triggers are often invitations to heal our own childhood wounds.
+
+**Tomorrow:** Asha discovers that the values she preaches don't always align with the example she models, leading to a deeper understanding of authentic teaching.`,
+  },
 ];

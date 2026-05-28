@@ -2079,4 +2079,59 @@ Over the following months, Willem watched the transformation. The café pupils b
 
 Tomorrow, Willem discovers why the very act of competing for the privilege to teach others drives the relentless pursuit of new market insights.`,
   },
+  {
+    day: 36,
+    title: "The Virtuous Circle of Knowledge Creation",
+    date: "2026-05-28",
+    image: "images/stock-market-origins/day-36.jpg",
+    audio: "audio/stock-market-origins/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Virtuous Circle of Knowledge Creation**
+
+The miser hoards his gold and dies alone,
+While teachers plant their wisdom and reap friends;
+In sharing what we've learned, we've always grown—
+For knowledge given freely never ends.
+The master who reveals his trading art
+Attracts the brightest minds to share their skill;
+Each student brings fresh insight to impart,
+And partnerships that no lone work can fill.
+Thus Buffett speaks, and brilliant people come;
+Thus scholars publish, building networks vast;
+The echo of shared wisdom finds its sum
+In future gains that dwarf advantages passed.
+*What seems like giving secrets all away*
+*Returns as compound interest every day.*`,
+    standard: `📈 Day 36: The Virtuous Circle of Knowledge Creation
+
+The tension between innovation and education resolves itself through the very nature of financial discovery—knowledge that can be taught creates lasting influence and respect, while knowledge that must be hoarded loses value as markets evolve. The most successful knowledge creators understand that today's proprietary insight becomes tomorrow's basic principle, and their competitive advantage comes not from hiding what they know, but from continuously discovering what others haven't yet seen.
+
+🧱 **The Concept**
+Financial knowledge follows a virtuous circle where sharing insights attracts talented collaborators, creates reputational capital, and generates new opportunities for discovery that more than compensate for any temporary advantage surrendered.
+
+❓ **Why It Matters**
+This cycle explains why the most influential investors and researchers often become teachers, mentors, and thought leaders rather than secretive hoarders. They understand that knowledge shared strategically multiplies rather than diminishes their competitive position.
+
+⚙️ **How It Works**
+When Warren Buffett shares his investment philosophy publicly, he doesn't lose his edge—he attracts better deal flow, smarter partners, and deeper insights from others who want to engage with his thinking. Similarly, when Renaissance Technologies publishes academic papers on mathematical finance, they're not giving away their secrets but demonstrating their intellectual superiority to attract the world's best quantitative minds. The sharing process itself often reveals new questions and connections that lead to breakthrough insights. Academic researchers who publish openly build networks that provide access to data, ideas, and opportunities that isolated researchers could never obtain. Even day traders who teach courses often find that explaining their methods to students forces them to codify and improve their own thinking.
+
+🎯 **Market Wisdom**
+The highest form of competitive advantage is not what you know, but how quickly you can learn what you don't know—and this speed increases dramatically when you're connected to networks of other knowledge creators.
+
+❓ **Tomorrow's Question** — If the most valuable market insights come from synthesizing knowledge across different fields and time periods, but specialization continues to deepen in every profession, does this mean that the future belongs to generalists who can connect disparate ideas, or to specialists who can dig so deeply into narrow areas that they discover universal principles that apply everywhere?`,
+    parable: `Willem found Van der Meer in the coffeehouse's back corner, surrounded by younger merchants who hung on his every word as he sketched trading strategies on parchment. "Master," Willem whispered during a break, "why do you share your methods so freely? Don't you fear they'll steal your profits?"
+
+Van der Meer chuckled, watching as several listeners began animated discussions about his ideas. "Watch, young apprentice. See how Jan there questions my assumption about spice routes? And how Pieter adds his knowledge of Portuguese shipping schedules? Each challenge sharpens my thinking, each addition reveals new possibilities I couldn't see alone."
+
+Over the following weeks, Willem observed the phenomenon unfold. The younger merchants who learned from Van der Meer began bringing him the best opportunities first, seeking his partnership on ventures they would never have attempted alone. Ships' captains shared intelligence with him because they respected his wisdom. Even competitors began approaching him with proposals, preferring to share profits with a master than risk losses alone.
+
+"But master," Willem pressed one evening, "surely some secrets must be kept?"
+
+"Indeed," Van der Meer nodded, "but the secret is not the method—it's the ability to see what others cannot. Teaching my old insights forces me to discover new ones. Those who hoard yesterday's knowledge find it worthless tomorrow, while those who share it freely are rewarded with tomorrow's opportunities today."
+
+A merchant approached their table with news of a promising venture in the Indies, seeking Van der Meer's counsel and partnership. Willem understood: knowledge shared had become knowledge multiplied.
+
+**Moral**: *The teacher's wisdom grows through teaching, for in giving away knowledge, one attracts greater knowledge in return.*
+
+*Tomorrow: We explore whether the future belongs to those who know everything about something, or something about everything...*`,
+  },
 ];

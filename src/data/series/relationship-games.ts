@@ -1922,4 +1922,66 @@ As they watched, Riven noticed how the golden-glowing people seemed completely i
 
 **Tomorrow**: The Mirror reveals why perfect timing might be an illusion masking the gap between our conscious desires and unconscious broadcasts.`,
   },
+  {
+    day: 32,
+    title: "The Frequency Mismatch",
+    date: "2026-05-28",
+    image: "images/relationship-games/day-32.jpg",
+    audio: "audio/relationship-games/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Frequency Mismatch**
+
+Two towers stand upon the hills of mind,
+One broadcasts hope with static-laden fear,
+While deep below, old wounds their signals bind
+To frequencies that make the wrong love near.
+
+We say we're ready, speak of perfect timing,
+Yet draw the very chaos that we've known,
+Our conscious wants and deeper wounds combining
+To plant familiar pain where love has grown.
+
+The universe responds not to our words
+But to the energy our hearts transmit—
+That silent song beneath our pretty verbs
+That tells the truth our minds won't yet admit.
+
+*When inner frequency meets outer voice as one,*
+*Love's timing shifts—the perfect match is won.*`,
+    standard: `🎭 Day 32: **The Frequency Mismatch**
+
+What we call "bad timing" is often our unconscious energetic broadcast operating on a completely different frequency than our conscious declarations of readiness. When someone says they're "ready for love" but keeps attracting emotionally unavailable partners, their energy is likely still transmitting the unhealed patterns that make unavailable people feel familiar and safe.
+
+🧱 **The Concept**
+Our energetic frequency—determined by our deepest beliefs about love, worthiness, and safety—acts like a radio station that attracts people operating on the same wavelength, regardless of what we consciously think we want.
+
+❓ **Why It Matters**
+Understanding frequency mismatch explains why positive affirmations and dating strategies often fail while deeper emotional patterns remain unchanged. It reveals that "working on yourself" isn't just about behavior modification—it's about literally changing the energetic signal you broadcast to potential partners.
+
+⚙️ **How It Works**
+Imagine Sarah who says she wants a committed relationship but unconsciously believes she's "too much" for anyone to truly love. Her energy broadcasts self-doubt and people-pleasing, attracting partners who confirm this belief by being inconsistent or withdrawing when she shows authentic needs. Meanwhile, David who has healed his abandonment wounds naturally draws people who are consistent and emotionally available because his energy communicates self-worth and healthy boundaries. The "timing" isn't external—it's the internal readiness that creates the energetic match. When someone ghosts you after seeming interested, they may have sensed an energetic incongruence between your stated confidence and your underlying fear patterns.
+
+🎯 **Relationship Strategy Wisdom**
+Your energetic frequency is your most honest dating profile—it broadcasts your true beliefs about love, and people respond to that signal more than your conscious words or actions.
+
+❓ **Tomorrow's Question** — If we accept that our energetic frequency is constantly revealing our deepest unconscious beliefs about relationships, what does this suggest about the phenomenon of "instant chemistry" versus relationships that "grow on you"—and might our preference for one over the other be diagnostic of whether we're still addicted to the familiar chaos of our wounds versus genuinely ready for sustainable love?`,
+    parable: `Riven stood before The Mirror in the ethereal space between consciousness and dream, still reeling from yesterday's revelation about energetic matching. "But why does it feel like such terrible timing?" Riven asked. "I meet someone perfect when I'm supposedly 'not ready,' or I'm completely available but only attract people who aren't."
+
+The Mirror's surface shimmered, revealing two radio towers on distant hills. "Watch," it whispered. "What you call timing is frequency."
+
+The first tower pulsed with erratic signals—bright declarations of readiness interrupted by static bursts of fear, unworthiness, and old protective patterns. "This is your conscious mind," The Mirror explained, "broadcasting 'I want love' on one frequency."
+
+The second tower emitted a steady, deeper signal—the accumulated resonance of every wound, every defensive pattern, every unconscious belief about love's safety or danger. "And this is your nervous system, broadcasting your true capacity on an entirely different wavelength."
+
+Riven watched as people approached the towers like moths to flame, but they were drawn to the second signal—the deeper frequency—while remaining confused by the mixed messages from the first.
+
+"The 'perfect' person who shows up at the 'wrong time' is often someone whose frequency would require you to upgrade your entire emotional operating system," The Mirror continued. "Your nervous system, sensing this requirement for transformation, creates what feels like external obstacles but is actually internal resistance."
+
+"So there's no such thing as bad timing?" Riven asked.
+
+"There's only frequency mismatch," The Mirror replied. "When your stated readiness aligns with your energetic broadcast, timing becomes irrelevant—the right people appear precisely when your signal calls them."
+
+**Moral**: What we call timing is often the gap between our conscious desires and our unconscious frequency—healing happens when both stations broadcast the same signal.
+
+*Tomorrow, Riven discovers why instant chemistry might be the nervous system's way of recognizing familiar wounds, while slow-building attraction could signal genuine compatibility...*`,
+  },
 ];

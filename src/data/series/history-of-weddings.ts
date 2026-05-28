@@ -886,4 +886,62 @@ Elder Maren smiled. "Then you'd be planning a wedding instead of a networking ev
 
 *Tomorrow, Elder Maren will reveal how the guest list revolution exposed an even deeper question: whether modern couples fear disappointing strangers more than honoring their commitment.*`,
   },
+  {
+    day: 15,
+    title: "The Mirror's Edge — When Weddings Reflect More Than They Create",
+    date: "2026-05-28",
+    image: "images/history-of-weddings/day-15.jpg",
+    audio: "audio/history-of-weddings/day-15",
+    sonnet: `**🪶 Sonnet XV: The Mirror's Edge**
+
+In chambers lined with silver-backed glass,
+The bride beholds her form in endless rows,
+While sacred spaces of the distant past
+Once held transforming shadows, none knows.
+
+Each vendor sells reflection, not rebirth,
+Each photograph preserves but cannot change,
+The ceremony mirrors present worth
+But lacks the power to spiritually arrange.
+
+Where ancient chambers birthed a soul anew,
+Now polished surfaces repeat the same,
+The couple enters as they always knew
+Themselves to be, despite the wedding's claim.
+
+*The mirrors multiply our present face,*
+*But transformation needs a sacred space.*`,
+    standard: `💒 Day 15: The Mirror's Edge — When Weddings Reflect More Than They Create
+
+The shift from marriage-strengthening witnesses to image-building guest lists reveals that modern weddings have become elaborate mirrors reflecting our social insecurities rather than sacred ceremonies creating spiritual bonds. We've become more afraid of disappointing acquaintances because consumer culture has trained us to measure love's worth through others' approval, transforming the most intimate commitment into a public performance where the audience's reaction matters more than the couple's transformation.
+
+🧱 **The Concept**
+Modern weddings function as elaborate mirrors that reflect couples' anxieties about social status, family dynamics, and cultural expectations rather than creating the spiritual foundation needed for marriage.
+
+❓ **Why It Matters**
+When weddings become reflective rather than transformative, couples invest more energy in managing others' perceptions than in preparing for their actual marriage. This mirror-like quality explains why so many couples feel disconnected from their own ceremony and why wedding planning often damages relationships rather than strengthening them.
+
+⚙️ **How It Works**
+Historic ceremonies were designed to transform participants—rituals purified the couple, vows bound their souls, and community integration changed their social identity. Modern weddings reverse this: they reflect existing relationships (who gets invited), display current financial status (venue and decor choices), and mirror family dynamics (seating charts and vendor negotiations). Instead of creating something new, they showcase what already exists. For example, couples often choose venues that reflect their aesthetic preferences rather than spiritual significance, select photographers to capture their image rather than document their transformation, and plan receptions that mirror their social circle rather than integrate their new family unit.
+
+🎯 **Wedding History Wisdom**
+When ceremonies reflect rather than transform, they become performances that exhaust rather than energize the couple for marriage.
+
+❓ **Tomorrow's Question** — If modern weddings have become mirrors that reflect our current selves rather than rituals that transform us into something new, what does this suggest about why so many couples feel like strangers to each other after the wedding despite having planned it together for months—and how did we lose the technologies of transformation that once turned two individuals into a unified partnership?`,
+    parable: `Celeste stood before the ornate mirror in the bridal boutique, her reflection multiplied infinitely in the opposing glass walls. "Elder Maren," she whispered, "I feel like I'm drowning in my own image. Every decision seems to be about how things will look rather than what they mean."
+
+Elder Maren approached, her weathered hands touching the silvered surface. "Child, you have discovered the great deception of our age. These mirrors were not always here." She gestured to the endless reflections surrounding them. "Ancient brides prepared in sacred spaces designed for transformation—caves, groves, temple chambers where shadows danced and identity shifted. They emerged changed."
+
+"But I feel exactly the same," Celeste murmured, watching her white-clad figure repeat endlessly. "Just... performed."
+
+"Because mirrors preserve," the elder replied, "while sacred spaces transform. Your ancestors entered ceremonies to become someone new. You enter to display who you already are." She pointed to Celeste's reflection. "Tell me, dear one, when you choose flowers, do you ask 'What will transform this space?' or 'What will look beautiful in photos?'"
+
+Celeste's silence spoke volumes. Every vendor meeting, every Pinterest board, every family consultation had focused on reflection—how things would appear, what others would think, which choices would photograph well.
+
+"The mirrors multiplied slowly," Elder Maren continued. "First social media, then professional photographers at every event, then the pressure to curate every moment. Soon, couples forgot they were the ones being married and became convinced they were the ones being watched." She touched Celeste's shoulder gently. "But transformation requires stepping away from the mirror, child. It demands darkness before dawn."
+
+**Moral:** *When we seek to reflect our image rather than transform our essence, we trap ourselves in endless repetition rather than sacred evolution.*
+
+**Tomorrow:** *What happened to the ancient technologies of transformation, and why do modern couples emerge from elaborate ceremonies feeling unchanged?*`,
+  },
 ];

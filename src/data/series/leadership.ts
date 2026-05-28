@@ -5713,4 +5713,70 @@ Tova felt a profound shift in her understanding of what she had actually accompl
 
 Tomorrow, we explore how the most transformative leaders plant seeds in soil they will never harvest, investing in returns that only others will witness.`,
   },
+  {
+    day: 91,
+    title: "The Architecture of Forever",
+    date: "2026-05-28",
+    image: "images/leadership/day-91.jpg",
+    audio: "audio/leadership/day-91",
+    sonnet: `**🪶 Sonnet XCI: The Architecture of Forever**
+
+What monuments shall leaders leave behind?
+Not towers built of stone or deeds of fame,
+But thinking patterns planted in the mind,
+A culture sparked to solve what none can name.
+
+The quick-fix artist earns immediate praise,
+Yet leaves his people helpless when he's gone,
+While patient architects of mental ways
+Create the gift that keeps on giving on.
+
+To teach the question matters more than answers,
+To show the path of thought, not just the end,
+To raise up independent problem-dancers
+Who need not wait for wisdom you might send.
+
+*The greatest leaders build what time can't break:*
+*A legacy of minds that think awake.*`,
+    standard: `👥 Day 91: The Architecture of Forever
+
+To build a problem-solving culture that outlasts you, you'd need to start teaching people to question their own solutions, not just implement yours. Instead of providing answers, you'd need to embed the mental frameworks, thinking processes, and courage patterns that enable others to generate breakthrough solutions long after you're gone. This requires shifting from being the solver to being the architect of solving capability.
+
+🧱 **The Concept**
+True leadership legacy isn't measured by what you accomplish during your tenure, but by the thinking patterns and decision-making capabilities you embed in the culture that continues to generate solutions decades after your departure.
+
+❓ **Why It Matters**
+Leaders who focus on solving today's problems create dependency; leaders who focus on building tomorrow's problem-solvers create sustainability. The difference between these approaches determines whether your organization thrives or struggles once your direct influence is removed. Most leaders unconsciously optimize for immediate impact over institutional capability.
+
+⚙️ **How It Works**
+Instead of giving teams the answer, you consistently ask: "What would need to be true for this solution to work?" When they bring problems, you respond with: "What have you already tried, and what did that teach you about the real challenge here?" You deliberately create situations where people must solve novel problems without access to your input. You document not just what decisions were made, but the thinking process that led to those decisions. You celebrate failed experiments that revealed important insights as much as you celebrate successful outcomes.
+
+🎯 **Leadership Wisdom**
+The highest form of leadership is building leaders who build leaders, creating an exponential multiplication of problem-solving capability that compounds across generations.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most persistent challenges kept recurring not because they were inherently difficult, but because your solutions addressed symptoms while the root causes remained invisible to everyone including yourself, how would you redesign your approach to problem-solving to ensure you're actually seeing what's really happening versus what you expect to be happening?`,
+    parable: `Greymane found Tova studying the ship's maintenance logs with unusual intensity, her weathered fingers tracing patterns across months of repair records.
+
+"The same problems keep surfacing," she murmured, frustration evident in her voice. "I fix the rigging, it fails again. I replace the water barrels, they crack in the same spots. Every solution I implement seems to last just long enough for me to feel successful before the issue returns."
+
+The old admiral settled beside her, his eyes scanning the meticulous records. "Tell me about your predecessor, Captain Aldric. How did he handle these same challenges?"
+
+"He was legendary," Tova replied with admiration. "Could diagnose any problem in minutes, had a solution for everything. The crew worshipped his expertise."
+
+"And what happened when he left?"
+
+Tova's expression shifted as understanding dawned. "Everything fell apart. The crew didn't know how to think through problems—they only knew how to follow his instructions."
+
+Greymane nodded slowly. "Aldric built a ship that ran perfectly as long as Aldric was aboard. But you have the chance to build something far more valuable—a crew that can solve problems that haven't even been invented yet."
+
+Over the following weeks, Tova transformed her approach. When the rigging failed again, instead of immediately diagnosing the issue, she gathered the crew and asked: "What questions should we be asking that we haven't thought to ask?" When water barrels cracked, she invited different crew members to lead the investigation, sharing not just their conclusions but their reasoning process with everyone.
+
+She began documenting not just what repairs were made, but why certain approaches were chosen and what each failure taught about the underlying systems. She created scenarios where crew members had to solve novel problems without her guidance, then facilitated sessions where they shared their thinking patterns with each other.
+
+Months later, when a storm damaged equipment in ways no one had seen before, Tova watched from a distance as her crew automatically formed investigation teams, asked systematic questions, tested hypotheses, and developed innovative solutions. They no longer needed her expertise—they had developed their own.
+
+**Moral**: The leader who solves every problem creates temporary success; the leader who teaches others to think through problems creates permanent capability.
+
+*Tomorrow, Greymane reveals why the most persistent problems often hide in plain sight, invisible to those who think they understand what they're looking at...*`,
+  },
 ];

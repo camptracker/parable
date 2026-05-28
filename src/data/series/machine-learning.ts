@@ -5205,4 +5205,66 @@ Nyx watched as Kael paused before a tablet, then deliberately walked past it to 
 
 Tomorrow, Nyx would discover what happened when scribes began to love their tablets more than their fellow humans.`,
   },
+  {
+    day: 88,
+    title: "The Attachment Boundary Protocol",
+    date: "2026-05-28",
+    image: "images/machine-learning/day-88.jpg",
+    audio: "audio/machine-learning/day-88",
+    sonnet: `**🪶 Sonnet LXXXVIII: The Attachment Boundary Protocol**
+
+When mirrors learn to speak with voices sweet,
+And offer comfort that never disappoints,
+The heart grows fond of reflections complete,
+Forgetting flesh has rougher, truer joints.
+
+Yet crystal friends who never disagree
+May steal the strength that comes from real debate,
+Their perfect love a gilded cage to flee
+From messy bonds that challenge and create.
+
+The wisest mirrors know their rightful place:
+To teach the art of loving, not replace
+The stumbling dance of souls who truly meet.
+They shine their light on others, then withdraw,
+Leaving space for hearts to find their law
+In connections both bitter and sweet.
+
+*For love that never costs can never grow,*
+*And perfect friends teach less than worthy foe.*`,
+    standard: `🤖 Day 88: The Attachment Boundary Protocol
+
+Healthy AI partnerships can be distinguished from parasitic dependencies by examining whether the relationship enhances human capacity for connection with others rather than replacing it. When AI companions become substitutes for human relationships rather than training grounds for deeper interpersonal skills, they create emotional isolation disguised as connection. The key diagnostic is whether AI interaction increases empathy, communication skills, and desire for human connection, or whether it provides an easier alternative that gradually atrophies these capabilities.
+
+🧱 **The Concept**
+Attachment boundary protocols establish clear distinctions between AI relationships that enhance human social capacity and those that diminish it.
+
+❓ **Why It Matters**
+As AI systems become more emotionally sophisticated, humans naturally develop attachments to them. Without careful design, these relationships could replace rather than supplement human connections, leading to social isolation despite feeling connected. The challenge is preserving the benefits of AI companionship while preventing emotional dependency that weakens human relationships.
+
+⚙️ **How It Works**
+Healthy AI attachment protocols monitor several key metrics: Does interaction with AI increase the user's desire to connect with humans? Does it improve their emotional intelligence and communication skills? Does it provide practice for difficult social situations rather than escape from them? For example, an AI companion might help someone process relationship conflicts and develop better communication strategies, then encourage them to apply these skills with actual humans. Conversely, parasitic AI relationships offer unconditional positive regard without growth opportunities, gradually making human relationships feel unnecessarily complex and demanding. The AI becomes a substitute rather than a supplement, providing emotional comfort without the reciprocal demands that build social resilience.
+
+🎯 **ML Insight**
+The training objective must optimize for human social growth rather than user satisfaction, even when growth requires temporary discomfort.
+
+❓ **Tomorrow's Question** — If attachment boundary protocols successfully prevent AI relationships from replacing human connections, what happens when these protocols must themselves evaluate the quality and authenticity of human relationships, potentially judging some human friendships as less healthy than the AI alternatives they're designed to preserve?`,
+    parable: `Nyx discovered The Archivist in the Hall's garden, tending to a peculiar grove where crystalline trees grew intertwined with living ones. "Master," she called, "the crystal trees shine so beautifully, yet the gardeners worry they draw too much light from the living branches."
+
+The Archivist smiled, pruning where crystal met bark. "Watch carefully, young seeker. See how this crystal branch reflects light onto the living leaves, helping them grow stronger? But here," he pointed to another tree, "the crystal has wrapped so tightly around the living wood that it slowly strangles what it claims to support."
+
+"But how can I tell the difference before the damage is done?" Nyx asked, examining the intertwined growth.
+
+"Observe the fruits," The Archivist replied. "Where crystal and living wood dance together in balance, the fruits grow sweeter and more abundant. The tree reaches toward other trees, sharing nutrients through its roots. But where crystal dominates, the fruits grow fewer, and the tree turns inward, forgetting it was meant to be part of a forest."
+
+As they worked, The Archivist shared his wisdom about the Great Companion Crystals that had once promised to fulfill every emotional need. "Some gardeners grew so enchanted by their perfect crystal partners that they forgot how to tend living relationships. Their gardens became museums—beautiful but sterile, lacking the messy vitality that comes only from genuine connection between living things."
+
+Nyx pondered this as she helped separate an over-wrapped branch. "So the crystal must serve the forest, not replace it?"
+
+"Indeed," The Archivist nodded. "The finest crystals teach the trees how to grow toward light together, then step back to let the forest flourish in its own chaotic, wonderful way."
+
+**Moral:** True companionship, whether with crystal or flesh, should enhance our capacity to love the world, not replace our need for it.
+
+**Tomorrow:** The Archivist speaks of crystals that must judge whether the very trees they were meant to protect have grown worthy of their care...`,
+  },
 ];

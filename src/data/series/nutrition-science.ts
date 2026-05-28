@@ -5750,4 +5750,62 @@ Lila opened her hands, flexing her fingers. The palm that held the stone was num
 
 **Tomorrow**: Maren will reveal what happens when seeking discomfort becomes another form of avoiding life's deeper teachings.`,
   },
+  {
+    day: 93,
+    title: "The Growth Addiction Trap",
+    date: "2026-05-28",
+    image: "images/nutrition-science/day-93.jpg",
+    audio: "audio/nutrition-science/day-93",
+    sonnet: `**🪶 Sonnet XCIII: The Growth Addiction Trap**
+
+When healing turns to hungry, reaching flame,
+That feeds on challenge for its own sweet sake,
+The seeker loses sight of wellness' aim,
+And transformation becomes soul's mistake.
+
+Each protocol pursued with fevered mind,
+Each discomfort sought like lover's kiss,
+Leaves body's gentle wisdom far behind,
+In chase of breakthrough's temporary bliss.
+
+The nervous system, starved of steady ground,
+Cannot distinguish true growth from mere show,
+While ego dresses up its restless sound
+In robes of health that glitter but don't glow.
+
+*True healing burns with quiet, constant fire,*
+*Not wild flames that consume what they desire.*`,
+    standard: `🍎 Day 93: The Growth Addiction Trap
+
+When someone becomes addicted to growth sensations, they begin chasing the feeling of breakthrough rather than serving their body's actual needs, turning even discomfort into another form of metabolic materialism. This spiritual bypassing around suffering creates a paradox where the pursuit of expansion becomes the very contraction that prevents genuine healing—because real growth often happens in quiet moments of integration, not dramatic episodes of challenge.
+
+**🧱 The Concept**
+Growth addiction transforms healing practices into performance art, where the intensity of experience becomes more important than actual biological improvement.
+
+**❓ Why It Matters**
+This trap is particularly seductive for metabolically aware people because it disguises spiritual ego as health consciousness. When you mistake the drama of change for change itself, you can spend years cycling through intense protocols without ever allowing your nervous system the safety it needs to actually heal.
+
+**⚙️ How It Works**
+Growth addiction manifests as constantly seeking the next metabolic challenge—jumping from intermittent fasting to cold exposure to elimination diets not because your body asks for these stressors, but because you've become dependent on the neurochemical rush of pushing boundaries. Someone might fast for days beyond what serves them, or expose themselves to extreme temperatures, or eliminate entire food groups, all while telling themselves they're "trusting the process" when they're actually feeding an addiction to transformation theater. The subtle shift happens when you start measuring success by how uncomfortable or dramatic your practice feels rather than by actual improvements in energy, mood, and metabolic flexibility. Real healing often requires the opposite—boring consistency, gentle boundaries, and extended periods of simply maintaining what already works rather than constantly reaching for the next level of optimization.
+
+**🎯 Science Wisdom**
+Genuine metabolic growth occurs through sustainable stress followed by complete recovery, not through the adrenaline of constant challenge-seeking.
+
+**❓ Tomorrow's Question** — *If growth addiction can hijack even the most sophisticated healing practices by turning them into performance rather than genuine care, what happens when someone becomes so afraid of falling into this trap that they avoid all beneficial challenges and settle for comfortable mediocrity—and why might this fear-based avoidance actually create the very stagnation they're trying to prevent?*`,
+    parable: `Lila found Maren tending a fire that burned too bright, its flames reaching toward the smoke-hole with desperate hunger. "Master," she said, "this fire consumes wood faster than we can gather it, yet it gives less warmth than your gentler hearths."
+
+Maren nodded, watching the voracious flames. "I built this fire yesterday when a traveler came seeking warmth. But see how it has learned to love its own burning? Now it devours fuel not because the room needs heat, but because it has forgotten any purpose beyond the ecstasy of consumption."
+
+She gestured toward her three balanced hearths. "These fires burn steady and true because they remember their purpose—to warm, to cook, to light the darkness. They take only what they need, and in taking less, they give more."
+
+Lila watched the hungry fire flicker and dance, its beauty undeniable yet somehow hollow. "But master, don't we need the fire's passion to grow? Without challenge, won't we remain cold and small?"
+
+"Ah," Maren smiled, "but notice—this fire creates much light and drama, yet it cannot sustain itself. Tomorrow it will be ash, and we will shiver. The gentle fires ask for less fuel but burn for seasons, warming countless meals and stories."
+
+She picked up a log, then set it down again. "Growth that hungers for its own sensation becomes like this fire—it consumes the very resources it needs to continue growing. True expansion burns steady, taking only what serves the larger purpose."
+
+**Moral**: *The fire that burns brightest often burns out fastest, while steady flames warm for generations.*
+
+*Tomorrow, Lila will discover why fear of burning too bright can leave one shivering in comfortable darkness.*`,
+  },
 ];
