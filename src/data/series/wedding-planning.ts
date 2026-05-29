@@ -5496,4 +5496,66 @@ Nana Rose watched as Dove melted into his arms, both of them imperfect, both of 
 
 *Tomorrow, we discover why strength in marriage comes not from both partners being strong simultaneously, but from their willingness to hold each other up in turn...*`,
   },
+  {
+    day: 89,
+    title: "The Sacred Rhythm",
+    date: "2026-05-29",
+    image: "images/wedding-planning/day-89.jpg",
+    audio: "audio/wedding-planning/day-89",
+    sonnet: `**🪶 Sonnet LXXXIX: The Sacred Rhythm**
+
+When winter winds blow fierce through love's domain,
+One heart grows strong while other learns to rest,
+Not forcing spring to bloom through frost and pain,
+But trusting seasons know what serves love best.
+
+The dance of souls requires no perfect pace,
+Sometimes she leads while he follows her call,
+Sometimes he anchors her with steady grace
+While storms of change around their union fall.
+
+No marriage thrives on matching beat for beat,
+But flows like rivers finding their own course,
+Where strength and vulnerability meet
+In rhythms that reveal love's truest source.
+
+*For those who learn to surf love's changing tide*
+*Find deeper peace than those who try to hide.*`,
+    standard: `💍 Day 89: The Sacred Rhythm
+
+When you understand that marriage is about taking turns being each other's anchor rather than maintaining identical emotional states, you release the exhausting expectation that both partners must always be "up" at the same time. This reveals that true partnership operates more like a dance than a march—sometimes one leads while the other follows, creating a rhythm of mutual support that's far more sustainable than parallel performance.
+
+🧱 **The Concept**
+Healthy marriages operate on natural rhythms where partners flow between seasons of strength and vulnerability, creating a dynamic equilibrium rather than static balance.
+
+❓ **Why It Matters**
+Most couples exhaust themselves trying to maintain constant harmony instead of learning to surf the natural waves of relationship energy. When you understand that emotional reciprocity happens over time rather than in every moment, you can stop keeping score and start creating flow. This awareness transforms marriage from a performance of perpetual happiness into a sustainable dance of mutual support.
+
+⚙️ **How It Works**
+Instead of expecting your partner to match your energy level, you learn to read and respond to your relationship's natural rhythms. When one partner is struggling with work stress, the other doesn't try to fix or match their mood—they simply hold steady, offering presence without pressure. When someone is excited about a new project, their partner doesn't have to manufacture equal enthusiasm—they can provide grounding support that allows the excitement to flourish. During wedding planning, this might mean one partner handles vendor communications while the other manages family dynamics, or alternating who takes the lead on different decisions based on energy and capacity rather than rigid role assignments.
+
+🎯 **Wedding Wisdom**
+Your wedding planning process is the perfect laboratory for practicing this rhythm—notice when to lead, when to follow, and when to simply hold space for each other's experience.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage's greatest intimacy would come not from sharing every feeling as it arises but from learning when to speak and when to offer loving silence, what would that change about your current communication patterns, and what does that reveal about the difference between emotional transparency and emotional wisdom?`,
+    parable: `Dove stood at the kitchen table, vendor contracts spread before her like fallen leaves, her shoulders carrying the weight of a thousand tiny decisions. The florist needed an answer by morning, the caterer was pushing for menu confirmation, and three family members had called with "helpful" suggestions that contradicted everything she and Elm had already decided.
+
+Elm entered quietly, noting the familiar furrow in her brow. Six months ago, he would have rushed to help, adding his own stress to hers, creating a storm of shared anxiety. Now he simply filled the kettle, set it to boil, and began clearing space on the counter—not touching her papers, just making room for calm.
+
+"I can't figure out why this feels so overwhelming," Dove said, not looking up.
+
+"Because you're trying to solve everything at once," Elm replied, placing a warm mug beside her elbow. "What if you just handled the florist tonight? Everything else can wait until tomorrow."
+
+Dove's shoulders softened slightly. This was what Nana Rose had meant when she spoke about marriage as a dance rather than a competition. Last week, when Elm had panicked about his vows, Dove had been the steady one, listening without trying to fix, offering presence without pressure. Tonight, he was returning that gift.
+
+"Nana Rose was right," Dove murmured, reaching for the tea. "We don't both have to be strong at the same time."
+
+Elm smiled, settling into the chair beside her. "Thank goodness. I was exhausted trying to match your energy all the time."
+
+As Dove focused on just the florist decision, she felt her breathing deepen. In three months, when wedding stress gave way to life stress, when one of them faced loss or disappointment or simply a terrible Tuesday, they would remember this: strength shared is not strength divided, but strength multiplied through rhythm.
+
+**Moral:** The strongest marriages are built not by two people being strong simultaneously, but by two people taking turns holding each other steady.
+
+*Tomorrow, Nana Rose would teach them about the profound intimacy that emerges when couples learn not just what to say, but when silence speaks louder than words.*`,
+  },
 ];

@@ -1984,4 +1984,64 @@ Riven watched as people approached the towers like moths to flame, but they were
 
 *Tomorrow, Riven discovers why instant chemistry might be the nervous system's way of recognizing familiar wounds, while slow-building attraction could signal genuine compatibility...*`,
   },
+  {
+    day: 33,
+    title: "The Chemistry Preference Diagnostic",
+    date: "2026-05-29",
+    image: "images/relationship-games/day-33.jpg",
+    audio: "audio/relationship-games/day-33",
+    sonnet: `**🪶 Sonnet XXXIII: The Chemistry Preference Diagnostic**
+
+When lightning strikes and hearts begin to race,
+We call it chemistry and chase the flame,
+Not knowing that familiar wounds embrace
+In patterns that replay our childhood's pain.
+
+The steady love that grows through patient days
+Feels wrong to systems trained on feast and famine,
+For chaos taught us love's most sacred ways
+Were found in emotional contraband.
+
+Yet what we name as boring, safe, or tame
+Might be the very healing we've denied,
+While chemistry that sets our souls aflame
+Keeps wounded parts forever unsatisfied.
+
+*The diagnostics of our heart's desire*
+*Reveal if we seek healing or familiar fire.*`,
+    standard: `🎭 Day 33: The Chemistry Preference Diagnostic
+
+Our preference for instant chemistry versus slow-burn connection reveals whether we're still unconsciously seeking the activation patterns of our original wounds or genuinely ready for the steady nourishment of healthy love. Instant chemistry often signals recognition between wounded parts, while relationships that "grow on you" tend to develop as our nervous system gradually learns to trust unfamiliar safety.
+
+🧱 **The Concept**: Your relationship chemistry preferences function as an unconscious diagnostic tool, revealing whether you're attracted to wound activation or genuine compatibility.
+
+❓ **Why It Matters**: Most people mistake the biochemical rush of wound recognition for "true love," while dismissing the gentle unfoldment of actual compatibility as "boring." This preference keeps us cycling through relationships that feel intense but ultimately recreate our childhood emotional environment rather than healing it.
+
+⚙️ **How It Works**: When you meet someone who triggers instant chemistry, your nervous system is often recognizing familiar patterns—the emotionally unavailable parent, the inconsistent caregiver, the charming but unreliable authority figure. Your body floods with stress hormones and dopamine, creating the illusion of "passion." Conversely, when you meet someone genuinely compatible, your nervous system might initially register them as "boring" because they don't activate your hypervigilance systems. The absence of familiar chaos feels flat to a system trained to equate love with emotional roller coasters. Someone who consistently shows up, communicates clearly, and respects boundaries might actually feel "wrong" to your conditioned responses.
+
+🎯 **Relationship Strategy Wisdom**: Use your chemistry preferences as data about your healing level rather than gospel about romantic compatibility.
+
+❓ **Tomorrow's Question** — If we accept that what we call "settling" might actually be our wounded self's resistance to receiving the consistent love we've never experienced, how might our entire framework of "knowing your worth" be backwards when applied to relationships—especially if our sense of worth was calibrated by people who were incapable of seeing or valuing us accurately?`,
+    parable: `Riven sat in the garden where he'd first encountered The Mirror, his latest heartbreak still fresh. "I don't understand," he said to the shimmering presence. "Sarah felt so right at first. The chemistry was electric. But then..."
+
+"Tell me about the electricity," The Mirror's voice rippled through the air. "What did it feel like in your body?"
+
+Riven closed his eyes, remembering. "Like lightning. My heart racing, this urgent need to win her over. Every text felt like life or death. When she pulled away, I felt more alive trying to get her back than I ever did when she was actually present."
+
+"And what about Emma?" The Mirror asked. "The one you said was 'too nice'?"
+
+Riven shifted uncomfortably. "With Emma... I felt calm. Safe. She always texted back. Never played games. But I kept waiting for the other shoe to drop, you know? It felt too easy. I kept thinking there must be something wrong with her because she actually wanted to be with me."
+
+The Mirror's surface rippled with recognition. "Your chemistry compass was calibrated by chaos, young one. What you called 'electric' was your nervous system recognizing the familiar dance of pursuit and withdrawal that defined your earliest relationships. What you called 'boring' was your first taste of actual safety."
+
+"But shouldn't love feel exciting?" Riven protested.
+
+"There is the excitement of familiar wounds being activated," The Mirror reflected, "and the excitement of unfamiliar healing being offered. Your chemistry has been trained to recognize only one as 'real love.' But which chemistry serves your becoming?"
+
+Riven stared at his reflection, beginning to understand. His body had learned to associate love with the adrenaline of uncertainty, the dopamine of intermittent reinforcement. Consistent care felt wrong not because it was wrong, but because it was foreign.
+
+**Moral**: What we call chemistry is often our wounds recognizing familiar wounds. True attraction may require learning to find safety sexy.
+
+**Tomorrow**: The Mirror reveals why our deepest beliefs about deserving love might be the very barriers preventing us from receiving it.`,
+  },
 ];

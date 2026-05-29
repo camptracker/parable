@@ -1680,4 +1680,62 @@ Asha released her steadying hand and watched Maya navigate the uneven ground alo
 
 **Tomorrow:** Asha discovers that the values she preaches don't always align with the example she models, leading to a deeper understanding of authentic teaching.`,
   },
+  {
+    day: 28,
+    title: "The Currency of Time and Attention",
+    date: "2026-05-29",
+    image: "images/raising-kids/day-28.jpg",
+    audio: "audio/raising-kids/day-28",
+    sonnet: `**🪶 Sonnet XXVIII: The Currency of Time and Attention**
+
+In busy days of lessons, sports, and play,
+We fill their hours with activities bright,
+Yet wonder why they seem so far away
+Despite our efforts morning, noon, and night.
+
+The phone demands, the schedule pulls us through,
+While little voices call for our regard.
+We answer "yes" but never really view
+The treasures that they offer from their heart.
+
+But when we pause and truly see their face,
+When presence trumps productivity's call,
+We offer them attention's sacred grace—
+The gift that means much more than gifts at all.
+
+*For children spell love T-I-M-E, it's true,*
+*And undivided moments make them new.*`,
+    standard: `👶 Day 28: **The Currency of Time and Attention**
+
+🧱 **The Concept**
+Time and focused attention are the most valuable currencies we can offer our children, worth more than any material gift or elaborate experience.
+
+❓ **Why It Matters**
+In our achievement-oriented culture, we often substitute activities, purchases, and experiences for the simple gift of presence. Children's sense of worth and security comes not from what we do for them, but from our genuine availability and interest in their inner world.
+
+⚙️ **How It Works**
+Quality attention means being fully present without agenda—listening to their rambling stories without redirecting, sitting quietly while they work through a puzzle, or simply being available when they want to share something important. It's the difference between a distracted "uh-huh" while checking our phone and putting the device away to make eye contact and truly hear them. This undivided attention during small moments builds a foundation of trust that makes children more likely to come to us during big moments. Even ten minutes of focused connection can fill a child's emotional tank more than hours of parallel activity where we're physically present but mentally elsewhere.
+
+🎯 **Parenting Wisdom**
+The gift of your full attention teaches children that they are worthy of being truly seen and heard, which becomes the foundation for how they value themselves and expect to be treated by others.
+
+❓ **Tomorrow's Question** — If we know that children spell love T-I-M-E, why do we often find ourselves filling their schedules with activities and experiences while simultaneously feeling like we never have enough time for meaningful connection, and what does this pattern reveal about our own definitions of good parenting and success?`,
+    parable: `Asha found herself constantly busy—piano lessons, soccer practice, educational outings, playdates carefully orchestrated to maximize her daughter's development. Yet despite all this activity, she felt a growing distance between them.
+
+"Look at my tower!" four-year-old Maya called excitedly one evening, but Asha was already mentally planning tomorrow's schedule. "That's nice, sweetheart," she replied absently, not even glancing up from her phone.
+
+Maya's shoulders drooped as she quietly dismantled her creation.
+
+Elder Mira, visiting for tea, had witnessed the exchange. "You know," she said gently, "when my children were small, we had very little money for extras. No classes, no elaborate outings. But every evening after dinner, I would sit on the floor and ask each child to show me something—a drawing, a dance, a story. Nothing else mattered in those moments."
+
+"But I want to give Maya opportunities," Asha protested. "Experiences that will help her grow."
+
+"The greatest opportunity you can give her is the experience of being truly seen," Mira replied. "When we offer our full attention, we're saying 'You matter. Your thoughts matter. You are worth my time.' No lesson can teach that."
+
+That evening, Asha put her phone in another room and sat beside Maya as she rebuilt her tower. She asked questions, marveled at the engineering, and listened to the elaborate story behind each block's placement. Maya's face glowed with a light Asha hadn't seen in weeks.
+
+**Moral:** The most precious gift we can give our children is not found in stores or schedules, but in the simple offering of our undivided presence.
+
+*Tomorrow, we explore why our culture of constant enrichment sometimes impoverishes the very connection we seek to build.*`,
+  },
 ];

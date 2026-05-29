@@ -5779,4 +5779,66 @@ Months later, when a storm damaged equipment in ways no one had seen before, Tov
 
 *Tomorrow, Greymane reveals why the most persistent problems often hide in plain sight, invisible to those who think they understand what they're looking at...*`,
   },
+  {
+    day: 92,
+    title: "The Archaeology of Truth",
+    date: "2026-05-29",
+    image: "images/leadership/day-92.jpg",
+    audio: "audio/leadership/day-92",
+    sonnet: `**🪶 Sonnet XCII: The Archaeology of Truth**
+
+Beneath the surface symptoms that we see,
+Lie buried truths that patient minds unearth,
+Where hasty judgments miss what came to be
+When deeper currents gave the problem birth.
+
+The archaeologist with careful brush
+Sweeps dust of assumption from each clue,
+While those who solve in hurried, fevered rush
+Miss artifacts that could their vision renew.
+
+Each layer tells a story left untold,
+Each fragment speaks of forces yet unknown,
+As leaders dig through narratives grown old
+To find the seeds from which their troubles grown.
+
+*For truth lies buried 'neath our quick reply—*
+*The deeper that we dig, the clearer why.*`,
+    standard: `👥 Day 92: The Archaeology of Truth
+
+To see what's really happening rather than what we expect, we must become archaeologists of our own assumptions—systematically excavating the layers of interpretation that have accumulated over time until we reach the bedrock of actual evidence. This requires creating structured processes for gathering unfiltered data from multiple perspectives, especially from those closest to the problems we're trying to solve, and then resisting the urge to immediately categorize that information through our existing mental frameworks.
+
+🧱 **The Concept**
+True problem-solving requires archaeological thinking—the patient excavation of reality from beneath layers of assumption, interpretation, and wishful thinking.
+
+❓ **Why It Matters**
+Most leadership failures stem not from choosing wrong solutions, but from solving the wrong problems entirely. When we mistake symptoms for root causes, we create endless cycles of temporary fixes that drain energy while the underlying issues continue to fester and multiply.
+
+⚙️ **How It Works**
+Archaeological leaders approach problems like excavation sites, carefully brushing away layers of assumption to reveal what's actually beneath. Instead of immediately diagnosing based on surface symptoms, they gather raw data from multiple sources—especially from those experiencing the problem firsthand. They ask "What would someone completely outside our organization notice that we can't see?" and "What patterns would emerge if we tracked this issue for three months without trying to fix it?" They create safe spaces for people to share observations that contradict official narratives, and they resist the urge to solve problems before fully understanding their true scope and nature.
+
+🎯 **Leadership Wisdom**
+The deepest problems are often invisible to those with the power to solve them, requiring leaders to become students of their own blind spots.
+
+❓ **Tomorrow's Question** — If you discovered that the people who could most accurately diagnose your organization's underlying problems were those you've never thought to consult because they seem too removed from the decision-making process, what would this reveal about the relationship between proximity to power and proximity to truth?`,
+    parable: `Captain Tova stood before the ship's manifest, her frustration mounting. For weeks, supplies had been disappearing—food stores dwindling faster than consumption records suggested, tools vanishing from their designated places. She had implemented stricter inventory controls, assigned guards to the storage areas, even rationed supplies more severely. Yet the problem persisted.
+
+"You're treating the fever, not the disease," Greymane observed, finding her in the supply hold at dawn. "Tell me, what have you discovered about why things disappear?"
+
+"Theft, obviously," Tova replied curtly. "Someone's taking what isn't theirs."
+
+Greymane picked up a water barrel, noting how one side was worn smooth while the other remained rough. "This barrel has been moved frequently, but always rolled in the same direction. Curious for stolen goods, don't you think?"
+
+He led her deeper into the hold, pointing to scratches on the floor, oil stains in unexpected places, rope wear patterns that told stories. "These marks aren't random. They follow a path—from storage to... where?"
+
+Following the subtle trail, they discovered a hidden chamber where several crew members had been secretly repairing damaged equipment with 'stolen' supplies. The disappearing food was being used to supplement the rations of injured sailors who were too proud to report their injuries and too afraid of being declared unfit for duty.
+
+"I was so focused on stopping theft that I never asked why loyal crew members would risk punishment," Tova realized. "I never excavated deep enough to find the real problem."
+
+"The surface tells us what happened," Greymane nodded. "But only the depths reveal why. A true captain becomes an archaeologist of truth, brushing away assumptions until reality emerges."
+
+*Moral: The deepest problems hide beneath layers of interpretation, requiring leaders to excavate truth with the patience of archaeologists.*
+
+*Tomorrow: When those closest to power are farthest from truth...*`,
+  },
 ];

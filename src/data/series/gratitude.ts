@@ -2163,4 +2163,68 @@ Hana felt tears of recognition. In seeking to be known for her gratitude, she ha
 
 *Tomorrow, Hana will discover what happens when appreciation becomes your most treasured possession rather than others' approval.*`,
   },
+  {
+    day: 36,
+    title: "The Gratitude Compass",
+    date: "2026-05-29",
+    image: "images/gratitude/day-36.jpg",
+    audio: "audio/gratitude/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Gratitude Compass**
+
+Amid the clamor of a thousand voices,
+Each promising their path will lead to gold,
+The soul grows weary of external choices
+And longs for wisdom that will never grow old.
+
+But deep within, a compass softly turns,
+Not toward magnetic north or distant fame,
+But toward the quiet truth for which heart yearns—
+The simple gifts that kindle joy's bright flame.
+
+This needle points where gratitude runs deep,
+To morning light through kitchen window cast,
+To gentle words that help the lonely sleep,
+To present moments freed from future's vast.
+
+*Trust not the crowd's loud maps to happiness—*
+*Your thankful heart knows true north's sweet address.*`,
+    standard: `🙏 Day 36: **The Gratitude Compass**
+
+🧱 **The Concept**
+True gratitude becomes an internal navigation system that points toward what genuinely matters, cutting through the noise of endless options and artificial urgencies to guide you toward authentic fulfillment.
+
+❓ **Why It Matters**
+In a world of infinite distractions and manufactured desires, most people drift through life reactive to whatever demands their attention loudest. Without a gratitude compass, you remain lost in the wilderness of other people's priorities, mistaking busyness for purpose and accumulation for progress.
+
+⚙️ **How It Works**
+Your gratitude compass works by consistently asking: "What am I genuinely thankful for right now?" This question reveals your true values beneath social conditioning. When faced with decisions, the compass points toward choices that align with what you already appreciate rather than what you think you should want. For example, if you feel grateful for quiet morning conversations with your partner, this compass guides you to protect that time rather than filling it with productivity hacks or social obligations. The compass doesn't eliminate challenges but ensures you're facing difficulties that matter to your authentic self rather than manufactured problems that serve someone else's agenda.
+
+🎯 **Gratitude Wisdom**
+Your appreciation reveals your true north—trust it to guide you home to yourself.
+
+❓ **Tomorrow's Question** — If your gratitude compass consistently points toward what genuinely fulfills you, why do we often ignore its guidance in favor of external measures of success, and what does this resistance reveal about our fear of living according to our own authentic values rather than society's expectations?`,
+    parable: `Elder Thorn found Hana at the crossroads, staring at the weathered signposts pointing in seven different directions. Each bore the name of a distant city, and merchants' voices echoed from multiple paths, calling out promises of fortune and fame.
+
+"I don't know which way to go," Hana confessed, her voice tight with frustration. "Everyone says their path leads to happiness, but they all contradict each other."
+
+Elder Thorn smiled and pulled an ancient compass from his robes. Unlike ordinary compasses, this one's needle shimmered with an inner light. "This doesn't point north," he said, placing it in Hana's palm. "It points toward gratitude."
+
+Hana watched the needle spin, then settle, pointing not toward any of the marked paths but toward a narrow trail she hadn't noticed—one that wound through a grove where wildflowers grew.
+
+"But that path isn't on any map," Hana protested.
+
+"The merchants' maps only show roads to their destinations," Elder Thorn replied. "The gratitude compass shows the way to yours. Tell me, when you think of moments that filled your heart with genuine appreciation, what do you remember?"
+
+Hana closed her eyes. "Sunrise from my grandmother's garden. The weight of my sister's hand in mine. The satisfaction of helping someone learn to read."
+
+"And when you imagine walking that flower-lined path, how does your heart respond?"
+
+A warmth spread through Hana's chest. "It feels... like coming home to something I'd forgotten I was looking for."
+
+Elder Thorn nodded. "Your gratitude reveals your true direction. Others' compasses point toward their treasures, not yours."
+
+**Moral**: *Authentic fulfillment comes not from following others' maps to happiness, but from using gratitude as your compass to navigate toward what genuinely honors your heart.*
+
+Tomorrow, Hana will discover why following her gratitude compass requires courage to disappoint those who profit from her confusion...`,
+  },
 ];
