@@ -5808,4 +5808,68 @@ She picked up a log, then set it down again. "Growth that hungers for its own se
 
 *Tomorrow, Lila will discover why fear of burning too bright can leave one shivering in comfortable darkness.*`,
   },
+  {
+    day: 94,
+    title: "The Stagnation Loop",
+    date: "2026-06-07",
+    image: "images/nutrition-science/day-94.jpg",
+    audio: "audio/nutrition-science/day-94",
+    sonnet: `**🪶 Sonnet XCIV: The Stagnation Loop**
+
+The fire that fears to burn grows weak and small,
+Its appetite for fuel forever shrunk,
+Once mighty flames now barely rise at all,
+In safety's shallow waters, nearly sunk.
+
+What started as protection from the heat
+Becomes the very weakness it would cure,
+Each avoided challenge marks retreat
+From strength that only struggle can ensure.
+
+The muscles that are never asked to strain
+Grow soft and fail when called to bear life's load,
+The heart that knows no effort feels the pain
+When normal stress blocks every neural road.
+
+*In shunning growth's discomfort and its call,*
+*We craft the very fragile we forestall.*`,
+    standard: `🍎 Day 94: The Stagnation Loop
+
+When fear of growth addiction leads to avoidance of all challenge, the nervous system interprets this static comfort as a threat to survival itself—your biology is designed for adaptation, and without regular metabolic challenges, your systems begin to atrophy. This fear-based avoidance creates a metabolic feedback loop where decreased capacity leads to increased sensitivity to normal stressors, which reinforces the need to avoid challenge, ultimately creating the very fragility and stagnation the person was trying to prevent.
+
+🧱 **The Concept**
+Your metabolism requires regular, appropriate challenges to maintain optimal function, and prolonged avoidance of beneficial stress creates a downward spiral of decreasing resilience and increasing sensitivity.
+
+❓ **Why It Matters**
+Many people, after recognizing patterns of growth addiction or perfectionism, swing to the opposite extreme of avoiding all discomfort. This creates a metabolic environment where normal life stressors become overwhelming because your adaptive systems have weakened from disuse.
+
+⚙️ **How It Works**
+When you consistently choose comfort over appropriate challenge, your mitochondria reduce energy production capacity, your stress response systems become hypersensitive, and your digestive fire weakens from processing only familiar foods. For example, someone who stops all exercise to avoid "perfectionism" may find that climbing stairs becomes difficult, or someone who only eats "safe" foods may develop increasing food sensitivities. Your nervous system interprets this declining capacity as evidence that the world is becoming more dangerous, creating anxiety that further reinforces avoidance behaviors. The metabolic cost of maintaining readiness for challenges you never face drains energy from essential functions.
+
+🎯 **Science Wisdom**
+**Metabolic vitality emerges from the dynamic tension between challenge and recovery, not from the static safety of perpetual comfort.**
+
+❓ **Tomorrow's Question** — *If your metabolism requires this dynamic tension between challenge and recovery to maintain vitality, what happens when modern life provides endless micro-stressors that never allow complete recovery but also never provide the intense, time-limited challenges that actually build resilience—and why might this chronic medium-stress environment be more metabolically damaging than either intense challenges or complete rest?*`,
+    parable: `Lila found Maren tending a fire that barely flickered, its flames so weak they could hardly warm the small pot above. "Master, why do you keep this fire so low? Surely it would cook faster with more heat?"
+
+Maren smiled knowingly. "This fire has been fed only the smallest, safest twigs for many moons. Watch what happens when I add this modest branch." She placed a piece of wood no larger than her thumb onto the coals. The flames sputtered and nearly died.
+
+"I don't understand," Lila said. "That wood isn't even large."
+
+"Ah, but this fire has grown weak from eating only whispers of fuel," Maren explained. "Its appetite has diminished, its capacity shrunk. Once, this hearth could consume great logs and roar with magnificent heat. But the fire-keeper grew afraid—afraid of the smoke, afraid of the crackling, afraid of burns. So he fed it less and less, always choosing safety over strength."
+
+Lila watched as the tiny flame struggled with the modest addition. "But surely keeping a fire small is better than letting it rage out of control?"
+
+"There is wisdom in your question," Maren nodded, "but observe the third hearth." She led Lila to where a robust fire danced with controlled power. "This flame eats substantial wood because it has been gradually trained to handle such fuel. It burns hot when needed, banks to coals when not. It has maintained its capacity through regular, appropriate feeding."
+
+Maren returned to the weak fire. "This poor flame cannot even digest what it once consumed easily. The fire-keeper's fear of excess created the very fragility he sought to prevent. Now even small demands overwhelm it, and winter approaches with needs this fire cannot meet."
+
+As if summoned by her words, a cold wind swept through the dwelling, and the weak fire nearly extinguished while the robust fire merely danced more vibrantly.
+
+"Your metabolism, dear one, is much like these fires," Maren said softly. "Feed it only the safest, easiest challenges, and it will lose its capacity to handle life's necessary demands. The very protection becomes the poison."
+
+**Moral:** *The fire that fears all fuel becomes too weak to warm even itself.*
+
+*Tomorrow, Maren would show Lila something that would challenge everything she thought she knew about stress and recovery...*`,
+  },
 ];

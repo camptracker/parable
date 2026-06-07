@@ -1008,4 +1008,64 @@ Celeste looked at her vendor contracts with new eyes, suddenly understanding why
 
 **Tomorrow:** Discover why modern wedding culture abandoned these fusion practices and whether we actually want marriages to succeed.`,
   },
+  {
+    day: 17,
+    title: "The Spectacle Shift — When Weddings Became Shows",
+    date: "2026-06-07",
+    image: "images/history-of-weddings/day-17.jpg",
+    audio: "audio/history-of-weddings/day-17",
+    sonnet: `**🪶 Sonnet XVII: The Spectacle Shift — When Weddings Became Shows**
+
+Where once stood altars built for souls to meet,
+Now stages rise for audiences to see,
+With vendors circling like wolves complete,
+To harvest gold from love's anxiety.
+
+The ancient arts of union they erased,
+Replaced with lights and flowers, wine and song,
+While couples, by their own wedding disgraced,
+Perform their vows to cheering, clapping throng.
+
+No time for fasting, prayer, or wisdom's voice,
+Just stress and debt and timeline's cruel demand,
+The industry made profit from poor choice,
+And weak foundations built on shifting sand.
+
+*When sacred rites become a merchant's show,*
+*The marriage dies before the couple know.*`,
+    standard: `💒 Day 17: The Spectacle Shift — When Weddings Became Shows
+
+Contemporary wedding culture abandoned transformative practices because consumer capitalism discovered that anxiety and insecurity generate far more profit than genuine spiritual preparation—couples who feel confident in their relationship don't need to prove it with expensive displays. This shift reveals that modern wedding culture profits from marriages being uncertain enough to require constant validation through material excess, suggesting we've unconsciously chosen impressive weddings over lasting marriages because the industry makes more money from doubt than from confidence.
+
+🧱 **The Concept**
+The wedding industry systematically dismantled transformative marital technologies and replaced them with entertainment-focused spectacles that prioritize guest experience over couple preparation.
+
+❓ **Why It Matters**
+This transformation represents one of history's most successful corporate manipulations of human ritual, converting ceremonies designed to strengthen marriages into events that often weaken them through stress and debt. Understanding this shift reveals how profit motives infiltrated and corrupted sacred processes, leaving couples less prepared for marriage despite spending exponentially more money.
+
+⚙️ **How It Works**
+The industry created artificial urgency around aesthetic perfection while eliminating practices that built actual marital skills—meditation periods became "engagement stress," community blessing circles became photo opportunities, and ritual fasting became diet culture pressure. Wedding planners replaced spiritual guides, vendors replaced wise elders, and timeline management replaced transformative experiences. The focus shifted from "How can this ceremony prepare us for lifelong partnership?" to "How can this event impress our guests and look good on social media?" Modern couples spend months perfecting centerpieces but zero time learning conflict resolution, budgeting together, or discussing life goals.
+
+🎯 **Wedding History Wisdom**
+When ceremonies prioritize audience entertainment over participant transformation, they become performances that prepare couples for applause rather than marriage.
+
+❓ **Tomorrow's Question** — If the wedding industry profits from keeping couples focused on everything except the actual skills needed for successful marriage, what does this suggest about whether other major life transitions—like parenthood, career changes, or aging—have been similarly colonized by industries that profit from our unpreparedness rather than our growth?`,
+    parable: `Celeste found Elder Maren in the university's archives, surrounded by thick volumes on ceremonial anthropology. "I've been thinking about your question," Celeste began, settling into the worn leather chair across from the historian. "If ancient wedding technologies actually worked, why did we abandon them?"
+
+Elder Maren closed the book she'd been reading—a comparative study of marriage rituals across cultures. "Ah, child, you're asking about the great spectacle shift. Come, let me show you something." She pulled out two photographs: one from 1920 showing a simple church ceremony with a small gathering, another from 2020 displaying an elaborate outdoor production with professional lighting, multiple vendors, and hundreds of guests.
+
+"Notice what's missing from the modern image," Maren said quietly. "Where are the elders guiding the couple through months of preparation? Where are the ritual elements designed to forge spiritual and practical unity? Where is the focus on the couple themselves?"
+
+Celeste studied both images. "The modern one looks like... a show. Everyone's watching the couple perform rather than supporting their transformation."
+
+"Precisely. The wedding industry discovered something profound: anxious, unprepared couples spend far more money than confident, spiritually prepared ones. Why sell a couple one meaningful ceremony when you can sell them twelve months of anxiety-driven purchases?" Maren's voice carried a note of sadness. "They dismantled the technologies of transformation and replaced them with technologies of consumption."
+
+"But surely couples notice they're more stressed than strengthened by modern weddings?"
+
+Maren nodded gravely. "They do. Yet they continue because the industry has convinced them that expensive spectacles prove deeper love. It's a brilliant manipulation—turning the very anxiety caused by wedding planning into evidence that the couple cares deeply enough to suffer for their 'perfect day.'"
+
+**Moral:** When sacred rituals become profit centers, they transform from technologies of growth into performances of insecurity.
+
+**Tomorrow:** Elder Maren will reveal how this same pattern of commercializing life transitions has spread far beyond weddings, colonizing every major milestone in human development.`,
+  },
 ];

@@ -1738,4 +1738,64 @@ That evening, Asha put her phone in another room and sat beside Maya as she rebu
 
 *Tomorrow, we explore why our culture of constant enrichment sometimes impoverishes the very connection we seek to build.*`,
   },
+  {
+    day: 29,
+    title: "The Sanctuary of Unscheduled Time",
+    date: "2026-06-07",
+    image: "images/raising-kids/day-29.jpg",
+    audio: "audio/raising-kids/day-29",
+    sonnet: `**🪶 Sonnet XXIX: The Sanctuary of Unscheduled Time**
+
+In rush to fill each moment with design,
+We pack their days with lessons, games, and art,
+Believing busy schedules prove our heart
+And structured time will make their spirits shine.
+Yet children bloom in spaces undefined,
+Where silence holds the room for thoughts to start,
+Where wandering minds can play their truest part,
+And presence speaks what schedules cannot find.
+
+The sweetest moments come unplanned, unscheduled—
+A question asked while walking, hand in hand,
+A story shared when evening light grows cool,
+The laughter that no activity commanded.
+*In empty hours, love's truest gifts unfold:*
+*The treasure of a heart that feels held, whole.*`,
+    standard: `👶 Day 29: The Sanctuary of Unscheduled Time
+
+We fill our children's schedules because we've confused activity with love and busyness with good parenting, believing that providing experiences equals providing presence. This pattern reveals that we've internalized cultural messages equating parental worth with how much we can give our children, rather than recognizing that our calm, unhurried presence is often the greatest gift we can offer.
+
+**The Concept**
+Unscheduled time creates space for spontaneous connection, deep play, and the kind of unhurried presence that allows children to feel truly seen and valued for who they are, not what they accomplish.
+
+**Why It Matters**
+Children don't need constant stimulation or endless activities to thrive—they need spaciousness to process their experiences, develop their inner world, and connect authentically with the people they love. When we overschedule, we inadvertently teach them that their worth comes from productivity rather than from simply being.
+
+**How It Works**
+Unscheduled time might look like lazy Saturday mornings where conversations unfold naturally, afternoon walks with no destination, or simply sitting together while they draw and you read. It's the spaces between activities where children often share their deepest thoughts, ask their most important questions, and feel most connected to us. These moments can't be planned—they emerge from the fertile ground of unhurried togetherness. When we protect time for nothing in particular, we create opportunities for everything that matters most.
+
+**Parenting Wisdom**
+The greatest gift we can give our children isn't another experience—it's the experience of being fully present with them in the ordinary moments of life.
+
+**Tomorrow's Question** — If children naturally learn through imitation and absorption rather than instruction, why do we often feel compelled to turn every moment into a teaching opportunity rather than trusting that they're already learning from simply living alongside us, and what does this urge to constantly educate reveal about our trust in their innate capacity to grow?`,
+    parable: `Asha found herself frantically scrolling through activity options on her phone while her toddler played quietly with wooden blocks on the living room floor. "Music class, swimming lessons, story time at the library," she murmured, checking off mental boxes of good parenting. "Maybe we should do the zoo today, or that new children's museum..."
+
+Elder Mira, visiting for the afternoon, watched the peaceful scene with knowing eyes. "What are you searching for, dear one?"
+
+"I want to make sure she's getting enough stimulation, enough experiences," Asha replied, still scrolling. "All the parenting articles say how important early childhood enrichment is."
+
+Mira smiled and settled onto the floor beside the child, who immediately began stacking blocks in front of her. "Tell me about this tower you're building," Mira said softly. The little one launched into an elaborate story about a castle for brave dragons, her eyes bright with imagination.
+
+For twenty minutes, Asha watched in wonder as her daughter and Mira built castles, told stories, and laughed together—no agenda, no learning objectives, just pure presence and connection.
+
+"But we're not doing anything," Asha whispered.
+
+"Child," Mira replied, her hands gentle as they helped stack another block, "this is everything. This unhurried time, this space for her imagination to unfold, this feeling of being heard and seen—this is where love lives. Not in the rushing from place to place, but in the spaciousness that says 'you are enough, exactly as you are, right here, right now.'"
+
+Asha put her phone away and joined them on the floor. In the sanctuary of unscheduled time, she discovered that the greatest adventures happen not in destinations, but in the journey of simply being together.
+
+**Moral:** Love is not measured by how many experiences we provide, but by how present we are in each moment we share.
+
+**Tomorrow:** Mira will help Asha understand why her instinct to turn every moment into a lesson might be getting in the way of her daughter's natural learning.`,
+  },
 ];

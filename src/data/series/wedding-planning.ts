@@ -5558,4 +5558,68 @@ As Dove focused on just the florist decision, she felt her breathing deepen. In 
 
 *Tomorrow, Nana Rose would teach them about the profound intimacy that emerges when couples learn not just what to say, but when silence speaks louder than words.*`,
   },
+  {
+    day: 90,
+    title: "The Sacred Completion",
+    date: "2026-06-07",
+    image: "images/wedding-planning/day-90.jpg",
+    audio: "audio/wedding-planning/day-90",
+    sonnet: `**🪶 Sonnet XC: The Sacred Completion**
+
+Not endings mark this day but wholeness found,
+As scattered lessons weave their golden thread.
+Each trial faced and every truth hard-won
+Now builds the altar where two souls are wed.
+
+The planning taught what marriage would require:
+To choose connection over being right,
+To tend the flame when passion's bright desire
+Meets ordinary Tuesday's dimming light.
+
+No longer strangers to love's deeper art,
+You've practiced grace through stress and found your way.
+Each compromise has strengthened each brave heart
+For all the choices marriage brings each day.
+
+*This completion births what's yet to be:*
+*From preparation springs eternity.*`,
+    standard: `💍 Day 90: The Sacred Completion
+
+Emotional wisdom teaches us that the most profound intimacy emerges when we learn to hold space for each other's unspoken depths, recognizing that not every feeling needs immediate expression and not every silence needs filling. This transforms our communication from reactive sharing to intentional communion, where timing becomes an act of love itself.
+
+**The Concept**
+Your wedding day marks not an ending but the sacred completion of one chapter and the conscious beginning of another—the moment when all your preparation crystallizes into a living commitment.
+
+**Why It Matters**
+Completion differs fundamentally from conclusion; while conclusions close possibilities, completion integrates everything you've learned into a foundation for what's next. Understanding this distinction transforms your wedding from a finish line into a launching pad, ensuring you enter marriage with accumulated wisdom rather than mere relief that planning is over.
+
+**How It Works**
+True completion requires conscious integration of every lesson learned during your engagement—about each other, about love, about partnership. Instead of rushing past your wedding day toward marriage, you pause to recognize how much you've both grown through this process. You acknowledge the fears you've faced, the compromises you've navigated, the moments when you chose each other over easier paths. This integration transforms scattered experiences into coherent wisdom. For example, remembering how you learned to prioritize connection over perfection when wedding stress threatened your peace helps you enter marriage knowing you can navigate future pressures together.
+
+**Wedding Wisdom**
+Your wedding day becomes sacred when you recognize it as the moment all your practice becomes promise, all your preparation becomes presence.
+
+**Tomorrow's Question** — If you discovered that the person walking down the aisle toward marriage is fundamentally different from (yet built upon) the person who first said yes to the proposal, what would you want to honor about who you're leaving behind and what would you want to celebrate about who you're becoming?`,
+    parable: `As the final week arrived, Dove found herself sitting in Nana Rose's garden one last time, watching Elm arrange the chairs they'd use for tomorrow's ceremony. The months of planning had transformed them both in ways she was only beginning to understand.
+
+"I keep thinking I should feel more... complete," Dove confessed to Nana Rose. "Like I should have all the answers by now."
+
+Nana Rose smiled, her weathered hands gentle on Dove's shoulders. "Child, completion isn't about having all the answers. It's about integrating all the questions into wisdom."
+
+Elm looked up from his work, catching the conversation. "Remember when we first started planning? We thought the wedding was about the party. Then we thought it was about the guests, then the budget, then the traditions."
+
+"And now?" Nana Rose prompted.
+
+"Now I see it was always about this," Dove said, gesturing between herself and Elm. "Every stress, every choice, every moment we had to choose each other over the easier path—it was all practice for marriage itself."
+
+Nana Rose nodded approvingly. "You've learned the secret that takes some couples years to discover. Your wedding isn't the end of becoming ready for marriage—it's the moment when all your becoming crystallizes into being."
+
+Elm joined them, grass stains on his knees, contentment in his eyes. "I feel like we're different people than when we started this journey, but more ourselves than ever."
+
+"That," said Nana Rose, "is what sacred completion looks like. Tomorrow, you won't just be promising to love each other—you'll be embodying everything you've already learned about how to do it."
+
+**Moral**: Sacred completion transforms all your preparation into presence, all your practice into promise.
+
+**Tomorrow**: As you stand on the threshold of forever, what final truth about love will your wedding day reveal?`,
+  },
 ];

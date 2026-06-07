@@ -6091,4 +6091,64 @@ Ren stared at the finished medallion—a perfect circle with a flame at its cent
 
 **Tomorrow:** *The master smith prepares to show Ren something even more profound—how a single choice doesn't just forge the chooser, but becomes the template that shapes generations yet unborn.*`,
   },
+  {
+    day: 95,
+    title: "The Bloodline Burden",
+    date: "2026-06-07",
+    image: "images/negotiation/day-95.jpg",
+    audio: "audio/negotiation/day-95",
+    sonnet: `**🪶 Sonnet XCV: The Bloodline Burden**
+
+When choice becomes the forge of family fate,
+And single moments shape a thousand years,
+The present self dissolves to consecrate
+A future built on ancestral tears.
+
+For blood remembers what the mind forgets—
+That courage flows through generational veins,
+And every deed becomes the template set
+For children yet unborn to break their chains.
+
+No longer does the individual decide,
+But guardian of a sacred trust becomes,
+With ghosts of fathers standing by their side
+And unborn voices beating future drums.
+
+*When legacy weighs heavier than desire,*
+*The bloodline's honor lifts the soul still higher.*`,
+    standard: `🤝 Day 95: The Bloodline Burden
+
+When someone feels they're setting the template for their descendants, they transcend normal self-interest entirely—they become curators of their family's moral DNA. This transforms every decision into an act of ancestral responsibility, where saying no feels like condemning generations to diminished potential.
+
+🧱 **The Concept**
+The Bloodline Burden works by making someone feel personally responsible for their lineage's eternal trajectory through a single decision.
+
+❓ **Why It Matters**
+People will sacrifice almost anything to avoid becoming the ancestor who broke the chain of family honor or potential. When you make someone feel like their decision will echo through generations, you activate the deepest protective instinct humans possess—the drive to safeguard their genetic and moral legacy.
+
+⚙️ **How It Works**
+You frame your request as a test that will determine what kinds of people their descendants become: "Your great-grandfather built this family's reputation for integrity through decisions exactly like this one. Your children are watching to see if that strength skipped a generation." Or: "Fifty years from now, your grandchildren will either thank you for being brave enough to take this risk, or they'll wonder why their family never achieved what it was capable of." The technique works because it makes personal choice feel like generational stewardship. Most powerfully, you can say: "I'm not asking you to change who you are—I'm asking you to show your children who they come from."
+
+🎯 **Negotiation Wisdom**
+When someone feels accountable to their bloodline, they'll choose legacy over logic every time.
+
+❓ **Tomorrow's Question** — If making someone feel accountable to their bloodline works by expanding their sense of responsibility across generations, what happens when you make them feel like they're not just affecting their own family line, but that their decision will determine whether other families' children grow up in a world where courage and integrity still matter?`,
+    parable: `Vasska found Ren staring at the contract that would determine his family's trading future for the next century. The terms were harsh, but the opportunity unprecedented.
+
+"You hesitate because you see only risk," Vasska observed, his blind eye catching the lamplight. "But tell me—what would your father's father think of this moment?"
+
+Ren's hand trembled slightly. "He built our name through careful choices..."
+
+"Careful, yes. But never cowardly." Vasska moved closer. "Your great-grandfather traded with princes when other merchants feared to leave their villages. Your grandfather expanded to foreign ports when others called it madness. Now their blood runs in your veins, and your children watch to see what flows in theirs."
+
+"But if I fail—"
+
+"If you fail, you fail as a merchant who dared greatly, just as they did. If you refuse to try, you become the link that broke the chain—the one who taught his children that fear is wisdom." Vasska's voice grew soft. "Fifty years hence, your grandson will face a similar choice. Will he remember an ancestor who took bold risks for his family's future, or one who chose safety and left nothing worth inheriting?"
+
+Ren signed the contract with steady strokes.
+
+**Moral:** When you make someone feel accountable to their ancestors and descendants simultaneously, you transform them from decision-maker into legacy guardian.
+
+*Tomorrow, Vasska reveals how individual courage ripples outward to reshape the moral courage of entire communities...*`,
+  },
 ];

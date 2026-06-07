@@ -5841,4 +5841,66 @@ Following the subtle trail, they discovered a hidden chamber where several crew 
 
 *Tomorrow: When those closest to power are farthest from truth...*`,
   },
+  {
+    day: 93,
+    title: "The Perspective of the Periphery",
+    date: "2026-06-07",
+    image: "images/leadership/day-93.jpg",
+    audio: "audio/leadership/day-93",
+    sonnet: `**🪶 Sonnet XCIII: The Perspective of the Periphery**
+
+From gilded halls where power makes its stand,
+The view grows narrow, filtered, and constrained,
+While those who dwell beyond authority's hand
+See truths that leadership has never gained.
+
+The janitor observes the working late,
+The newest hire asks questions no one dares,
+The distant witness marks each small debate
+That reveals the weight of unacknowledged cares.
+
+In boardrooms high, the echo chamber rings
+With voices trained to speak what ears want told,
+But from the edges, clarity still sings
+Of patterns that the powerful can't behold.
+
+*The wisest ruler seeks the outer eye,*
+*Where truth lives free from need to justify.*`,
+    standard: `👥 Day 93: The Perspective of the Periphery
+
+The distance between power and truth reveals that those closest to decisions often become blind to their consequences, while those who live with the results daily develop the clearest vision of what's actually happening. Power creates insulation that prevents leaders from seeing reality, while those on the periphery maintain unfiltered access to the truth that matters most.
+
+🧱 **The Concept**
+The most accurate insights about organizational health often come from people who seem furthest from the center of authority—the maintenance staff who overhear frustrated conversations, the newest employees who haven't yet learned what "can't" be discussed, the support teams who witness the ripple effects of every decision.
+
+❓ **Why It Matters**
+Leaders naturally gravitate toward feedback from those who share their perspective, education, and proximity to decisions. This creates an echo chamber where problems are filtered, sanitized, and often completely invisible until they become crises. The periphery sees what the center cannot.
+
+⚙️ **How It Works**
+The janitor notices which departments consistently work late, revealing productivity problems leadership never sees. The receptionist observes which clients seem frustrated before they voice complaints. The newest team member asks questions that expose flawed assumptions everyone else has stopped questioning. These observers lack the context that would teach them to dismiss warning signs as "normal." Their distance from decision-making pressure allows them to see patterns without the bias of having to defend or justify existing approaches. They witness outcomes without the need to protect reputations or validate past choices.
+
+🎯 **Leadership Wisdom**
+The wisest leaders deliberately seek perspectives from the organizational periphery, understanding that truth flows more freely where there's less to lose and less to prove.
+
+❓ **Tomorrow's Question** — If you discovered that your most important decisions were being unconsciously influenced by the need to validate past choices rather than optimize for future outcomes, how would this change your approach to evaluating new information that contradicts your previous judgments?`,
+    parable: `Tova stood at her cabin window, watching Greymane speak quietly with Joren, the ship's youngest sailor. She'd been puzzled when the old admiral had requested this meeting with someone who seemed so removed from the ship's real challenges.
+
+"But what do you see, lad, when you're up in the rigging?" Greymane was asking. "Not what you're supposed to see—what do you actually notice?"
+
+Joren hesitated, glancing toward Tova's cabin. "Well, sir... the senior crew always adjusts our heading just before dawn, when they think no one's watching. And the cook throws food overboard every third day—good food, not scraps. The bosun's been favoring his left leg for weeks, but he snaps at anyone who mentions it."
+
+Greymane nodded thoughtfully. "And what do you make of these observations?"
+
+"The officers don't trust the course they're charting in daylight," Joren said, his confidence growing. "We're carrying too many provisions—someone miscalculated badly. And our best bosun is injured but afraid to report it because he thinks he'll be replaced."
+
+Tova felt her breath catch. Each observation revealed problems her senior staff had either hidden from her or failed to recognize themselves. The boy who cleaned the rigging and swabbed the decks had diagnosed issues that her experienced officers couldn't see.
+
+Later, as Greymane joined her on deck, Tova shook her head in amazement. "How did you know to ask him?"
+
+"Because he has the rarest gift in any organization," Greymane replied. "He can still see what's actually happening instead of what everyone agrees should be happening. Distance from power is often proximity to truth."
+
+**Moral:** The clearest view of reality often belongs to those who have no investment in maintaining comfortable illusions.
+
+**Tomorrow:** Tova learns why her attempts to make better decisions might actually be preventing her from making the right ones.`,
+  },
 ];

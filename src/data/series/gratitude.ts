@@ -2227,4 +2227,64 @@ Elder Thorn nodded. "Your gratitude reveals your true direction. Others' compass
 
 Tomorrow, Hana will discover why following her gratitude compass requires courage to disappoint those who profit from her confusion...`,
   },
+  {
+    day: 37,
+    title: "The Authentic Path",
+    date: "2026-06-07",
+    image: "images/gratitude/day-37.jpg",
+    audio: "audio/gratitude/day-37",
+    sonnet: `**🪶 Sonnet XXXVII: The Authentic Path**
+
+When others' gardens gleam with perfect rows,
+And every flower stands in measured place,
+Why does my heart sing where the wildflower grows,
+In untamed beauty, free of formal grace?
+
+The world declares what blooms deserve our praise—
+The roses pruned, the lawns of emerald green.
+Yet something stirs within my grateful gaze
+At dandelions dancing in between.
+
+To thank the life that moves my very core
+Requires courage others may not understand.
+Their judgment cannot dim what I adore
+When truth blooms freely from my honest hand.
+
+*For gratitude that flows from authentic ground*
+*Creates the only garden truly sound.*`,
+    standard: `🙏 Day 37: The Authentic Path
+
+We ignore our gratitude compass because following external measures feels safer than trusting our inner wisdom—society's approval seems more reliable than our own uncertain heart. This resistance reveals our deep fear that living authentically might mean disappointing others, losing status, or discovering we're not who we thought we should be.
+
+🧱 **The Concept**
+Authentic gratitude requires the courage to appreciate what genuinely matters to you, even when it doesn't impress others.
+
+❓ **Why It Matters**
+When we align our appreciation with our authentic values rather than external expectations, gratitude becomes a pathway to genuine fulfillment rather than performance. This alignment creates lasting satisfaction because we're finally thanking life for what actually nourishes our soul.
+
+⚙️ **How It Works**
+Authentic gratitude asks you to notice what brings you genuine joy versus what you think should bring you joy. You might discover you're more grateful for quiet morning coffee than career achievements, for deep conversations than networking events, or for creative expression than financial accumulation. This practice requires distinguishing between gratitude that seeks approval and gratitude that seeks truth. When you appreciate what authentically moves you—regardless of whether others understand or value it—you begin living from your core rather than your performance.
+
+🎯 **Gratitude Wisdom**
+True appreciation flows toward what feeds your authentic self, not what feeds your image.
+
+❓ **Tomorrow's Question** — If authentic gratitude reveals what truly matters to you, why do we often feel guilty about appreciating simple pleasures or unconventional paths, and what does this guilt reveal about the stories we've inherited about what deserves appreciation versus what actually deserves it?`,
+    parable: `Hana found Elder Thorn sitting by the garden's edge, watching a patch of wildflowers that had grown beyond the cultivated borders. "Master," she said, "the villagers say these flowers are weeds that spoil the garden's beauty. Should we remove them?"
+
+Elder Thorn smiled, his weathered hands gentle on a dandelion's golden head. "Tell me, child, what do you see when you look at them?"
+
+"They're... bright," Hana admitted reluctantly. "And the bees seem to love them. But everyone says they're worthless."
+
+"Ah," Elder Thorn nodded. "And what does your heart say when you watch that bee gather nectar from what others call a weed?"
+
+Hana watched the busy bee, feeling an unexpected warmth. "It makes me happy. It seems... right, somehow."
+
+"Then you understand the choice every soul must make," Elder Thorn said. "We can cultivate gratitude for what others have deemed worthy, or we can trust our own capacity to recognize what truly nourishes life. I spent decades tending a garden that looked perfect to visitors while my heart yearned for the wild beauty they called chaos."
+
+He stood, brushing soil from his hands. "The bravest gratitude, young one, is appreciation for what feeds your authentic self, even when the world calls it weedy."
+
+**Moral:** True appreciation blooms when we honor our authentic response to beauty, regardless of external judgment.
+
+*Tomorrow, Hana will learn why appreciating simple joys often feels like betraying some unspoken rule...*`,
+  },
 ];

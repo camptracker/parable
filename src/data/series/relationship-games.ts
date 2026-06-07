@@ -2044,4 +2044,68 @@ Riven stared at his reflection, beginning to understand. His body had learned to
 
 **Tomorrow**: The Mirror reveals why our deepest beliefs about deserving love might be the very barriers preventing us from receiving it.`,
   },
+  {
+    day: 34,
+    title: "The Worth Recalibration",
+    date: "2026-06-07",
+    image: "images/relationship-games/day-34.jpg",
+    audio: "audio/relationship-games/day-34",
+    sonnet: `**🪶 Sonnet XXXIV: The Worth Recalibration**
+
+When broken scales weigh gold as if 'twere lead,
+And wounded eyes see love as something earned,
+The heart rejects the peace for which it's yearned,
+Seeking familiar pain and chaos instead.
+
+For worth learned through abandonment's sharp sting
+Demands that love arrive in forms of lack,
+While consistency feels like holding back—
+Too quiet for the storm-accustomed wing.
+
+But gentle hands that never disappear,
+And steady voices speaking without guile,
+Can teach the heart to trust what doesn't fear,
+To recognize love's more enduring style.
+
+*True worth recalibration asks us learn*
+*That peace, not pain, is what our souls should earn.*`,
+    standard: `🎭 Day 34: The Worth Recalibration
+
+When our sense of worth was calibrated by people who couldn't see us clearly, "knowing your worth" becomes a directive to demand the same familiar dysfunction that originally wounded us. True worth recalibration means learning to value ourselves through the eyes of people who are actually capable of love—which often feels like accepting "less" because it lacks the dramatic intensity our wounded parts mistake for passion.
+
+🧱 **The Concept**
+Our relationship standards are often unconsciously designed to recreate familiar wounds rather than attract genuine care.
+
+❓ **Why It Matters**
+When we "know our worth" based on trauma-bonded relationships, we end up screening out healthy partners as "not good enough." This creates a paradox where our standards become barriers to the very love we claim to seek.
+
+⚙️ **How It Works**
+Someone raised by emotionally unavailable parents might "know their worth" means demanding grand gestures and dramatic declarations, automatically rejecting partners who show love through consistency and presence. They'll feel more "valued" by someone who gives them expensive gifts after disappearing for weeks than by someone who texts good morning every day. Their worth-meter was calibrated by chaos, so stability doesn't register as love. A person whose worth was established through performing for conditional approval will unconsciously seek partners who withhold validation until they "prove" themselves, mistaking this familiar struggle for being "seen" and "appreciated."
+
+🎯 **Relationship Strategy Wisdom**
+True worth recalibration means learning to recognize love in forms our wounded self doesn't understand yet.
+
+❓ **Tomorrow's Question** — If we accept that our "standards" are often unconscious loyalty tests to our original wounders, requiring potential partners to recreate familiar relationship dynamics to "prove" their love, what does this suggest about the difference between having boundaries and having walls—and why might our most protective mechanisms be the very things preventing us from receiving the protection we actually need?`,
+    parable: `Riven stood before The Mirror, their reflection fractured into a thousand shards, each piece showing a different version of themselves—the child who was never quite good enough, the teenager who learned to equate love with pain, the adult who had built walls so high they'd forgotten what they were protecting.
+
+"I know my worth," Riven declared, their voice echoing in the chamber. "I won't settle for someone who doesn't appreciate me."
+
+The Mirror's surface rippled like disturbed water. "Tell me, child, who taught you to measure gold with a scale made of lead?"
+
+"What do you mean?"
+
+"Your father showed love through absence—so you learned that missing someone means they matter. Your mother showed care through criticism—so you learned that someone who doesn't challenge you doesn't see you. Now you carry these broken instruments of measurement, rejecting the very currency you claim to seek."
+
+Riven watched as the reflection shifted, showing them with various partners. In one shard, they pushed away someone whose eyes held genuine warmth. In another, they chased someone whose attention felt like capturing lightning.
+
+"But the one who stayed felt too easy," Riven whispered. "Like I didn't have to earn it."
+
+"And there lies the trap," The Mirror replied, its voice impossibly gentle. "You learned that love must be earned through suffering, that care must be proven through chaos. So when someone offers you the very consistency you claim to want, your wounded self recoils—not because they're wrong for you, but because they're right for the person you're becoming, not the person you've been."
+
+The shards began to merge, showing Riven a new reflection—one learning to recognize love in its quieter forms, to value presence over presents, to see worth through eyes unclouded by old wounds.
+
+**Moral:** Our standards are often unconscious demands that love repeat familiar patterns, causing us to mistake healthy consistency for lack of passion.
+
+**Tomorrow:** The Mirror reveals how our most protective mechanisms might be our greatest vulnerabilities...`,
+  },
 ];
