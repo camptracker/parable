@@ -1068,4 +1068,64 @@ Maren nodded gravely. "They do. Yet they continue because the industry has convi
 
 **Tomorrow:** Elder Maren will reveal how this same pattern of commercializing life transitions has spread far beyond weddings, colonizing every major milestone in human development.`,
   },
+  {
+    day: 18,
+    title: "The Transition Trap — When Industries Harvest Our Unpreparedness",
+    date: "2026-06-07",
+    image: "images/history-of-weddings/day-18.jpg",
+    audio: "audio/history-of-weddings/day-18",
+    sonnet: `**🪶 Sonnet XVIII: The Transition Trap**
+
+Where once the village raised each trembling bride,
+Now industries feast on our unpreparedness,
+Selling solutions while true wisdom hides
+Beneath the weight of manufactured distress.
+
+The baby shower brings a thousand things,
+But not the lullabies that mothers knew,
+Career fairs promise what apprentice brings—
+Yet leave us lost when Monday's work is due.
+
+Retirement parties celebrate the end,
+While elders once taught how to age with grace,
+Each passage that our ancestors would tend
+Now generates profit in wisdom's place.
+
+*Where transformation once was freely shared,*
+*We buy what cannot heal what won't be cared.*`,
+    standard: `💒 Day 18: The Transition Trap — When Industries Harvest Our Unpreparedness
+
+The wedding industry's profit model has indeed colonized nearly every major life transition, from baby shower registries that focus on products rather than parenting skills, to retirement planning that sells financial products while ignoring the psychological preparation for identity shifts. Industries discovered they could generate more revenue by keeping us perpetually underprepared, selling solutions to crises they helped create rather than preventing the crises themselves.
+
+🧱 **The Concept**
+Modern consumer culture systematically undermines our ability to navigate life transitions by replacing traditional preparation rituals with product consumption and entertainment.
+
+❓ **Why It Matters**
+When we lose the technologies of transformation that once helped humans successfully navigate major life changes, we become dependent on industries that profit from our ongoing struggles. This creates a cycle where each generation becomes less equipped to handle natural life transitions, requiring more professional intervention and consumer products to manage what previous generations handled through community wisdom and ritual preparation.
+
+⚙️ **How It Works**
+Historically, cultures developed elaborate preparation systems for major transitions: apprenticeships before careers, mentorship circles for new parents, elder councils for aging, and intensive premarital training for marriage. These systems taught practical skills, emotional regulation, and community integration. Modern industries replaced these with consumption-based solutions: career coaching instead of apprenticeships, parenting classes that sell products instead of wisdom transfer, anti-aging products instead of elder preparation, and wedding planning instead of marriage preparation. The pattern is consistent: replace free community knowledge with paid professional services, replace ritual transformation with product consumption, and replace long-term preparation with crisis intervention.
+
+🎯 **Wedding History Wisdom**
+The wedding industry's colonization of marriage preparation revealed the blueprint that other industries now use to monetize human vulnerability during major life transitions.
+
+❓ **Tomorrow's Question** — If consumer culture has systematically dismantled the traditional technologies of transformation that once prepared humans for major life changes, what does this suggest about whether the rising rates of divorce, career dissatisfaction, parenting anxiety, and midlife crisis are actually symptoms of cultural amnesia rather than individual failures—and who benefits from keeping us convinced that our struggles are personal rather than systemic?`,
+    parable: `Celeste found Elder Maren in her study, surrounded by photographs from different eras—baby showers from the 1950s, career celebrations, retirement parties spanning decades.
+
+"I've been thinking about what you said yesterday," Celeste began, "about the wedding industry keeping couples unprepared. But it's everywhere, isn't it? My friend just had a baby shower where she got seventeen different gadgets but no one taught her how to calm a crying infant."
+
+Elder Maren nodded gravely. "You've discovered the great harvesting, child. Once, when a woman was with child, the elder mothers would gather her for months of preparation—teaching her the songs that soothe, the holds that comfort, the signs that signal trouble. She entered motherhood surrounded by wisdom."
+
+"Now we give her a registry and a party," Celeste observed.
+
+"And when she struggles with sleepless nights and postpartum anxiety, we sell her sleep consultants, therapy, and specialized products," Elder Maren continued. "The same pattern appears everywhere—we eliminated the apprentice system and created career coaching. We dismantled elder circles and created retirement planning services. We replaced coming-of-age rituals with consumer milestones."
+
+Celeste studied a photograph of a 1920s retirement celebration—the honored worker surrounded by younger colleagues, clearly passing down knowledge. "They look... prepared. Confident."
+
+"Because they were. The community invested in their success before the transition, not after the crisis." Elder Maren's voice grew soft with sadness. "We convinced ourselves that professional services were more sophisticated than community wisdom, that products were more reliable than relationships. But wisdom cannot be purchased, child—only received and given."
+
+**Moral**: Industries profit most when we are least prepared for life's natural transitions.
+
+**Tomorrow**: Celeste will discover how this systematic unpreparedness has created a crisis of competence that affects entire generations.`,
+  },
 ];

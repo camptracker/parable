@@ -2208,4 +2208,64 @@ Sterling felt something shift in his understanding. "This means revolution isn't
 
 **Tomorrow:** Sterling will discover what happens when the very concept of equality must be reconsidered in a world where liberation requires concentration...`,
   },
+  {
+    day: 36,
+    title: "The Temporal Sovereignty Protocol",
+    date: "2026-06-07",
+    image: "images/goldman-sachs-trust-funds/day-36.jpg",
+    audio: "audio/goldman-sachs-trust-funds/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Temporal Sovereignty Protocol**
+
+Through archives deep where purchased histories sleep,
+The dynasties weave tales of how things came,
+While future-forecasts in their vaults they keep,
+Controlling time's great narrative and frame.
+
+No coin can match the wealth of stolen past,
+Nor bond compare to owning what men dream,
+When memory itself becomes contrast
+Between the real and their constructed scheme.
+
+The textbooks sing of natural evolution,
+Of wealth that flows like rivers to the sea,
+While erasing each systematic solution
+That might have set humanity more free.
+
+*When time itself becomes a dynasty's art,*
+*What future lives beyond their scripted part?*`,
+    standard: `💎 Day 36: **The Temporal Sovereignty Protocol**
+
+🧱 **The Concept**
+The ultra-wealthy can engineer control over humanity's relationship with time itself, determining which events are remembered, how history is interpreted, and what futures are considered possible.
+
+❓ **Why It Matters**
+By controlling temporal perception—the stories about past, present, and future—wealth dynasties can shape human consciousness at its most fundamental level. When societies lose authentic connection to their own history and genuine agency over their future trajectory, they become dependent on curated narratives that serve dynastic interests.
+
+⚙️ **How It Works**
+Through strategic funding of historical research, educational curricula, and future-forecasting institutions, wealthy families create "authorized versions" of reality that span centuries. They commission historians to emphasize certain events while minimizing others, fund think tanks that predict futures requiring their continued dominance, and establish cultural institutions that celebrate narratives supporting wealth concentration. Goldman Sachs clients understand that controlling temporal perception means controlling human possibility itself—when people lose connection to authentic history, they cannot imagine authentic alternatives to current power structures. The most sophisticated families maintain "temporal assets"—archives, research institutions, and narrative-shaping organizations that operate across generations to ensure their version of reality becomes humanity's accepted timeline.
+
+🎯 **Private Wealth Wisdom**
+True dynastic power lies not in controlling present resources, but in programming how humans understand their past and envision their future.
+
+❓ **Tomorrow's Question** — If the ultra-wealthy can successfully program humanity's temporal consciousness so that alternative histories become literally unthinkable and alternative futures appear impossible, what happens to the concept of human potential itself when the very capacity to imagine different realities becomes dependent on permission from those who control the narrative infrastructure of civilization?`,
+    parable: `Sterling found Aurelius in the vault's deepest level, surrounded by leather-bound volumes that seemed to pulse with accumulated authority. The air itself felt heavy with the weight of curated centuries.
+
+"History," Aurelius said without looking up, "is the ultimate asset class. Not stocks, not bonds, not even land—but time itself." He gestured to the archives surrounding them. "Every family we serve understands this. They don't just preserve their wealth; they preserve their version of how that wealth came to exist."
+
+Sterling examined a shelf labeled 'Educational Endowments.' "These are curriculum grants?"
+
+"Temporal engineering," Aurelius corrected. "Watch." He pulled a thick folder. "This foundation has funded American history textbooks for sixty years. Notice what's emphasized—entrepreneurial innovation, market solutions, the natural evolution of wealth concentration. Notice what's minimized—systematic exploitation, regulatory capture, the role of inheritance in perpetuating inequality."
+
+The young advisor felt a chill. "They're rewriting the past?"
+
+"They're *writing* the past," Aurelius said. "The past doesn't exist—only stories about it do. And stories determine what people believe is possible in the future." He opened another volume. "Future-forecasting institutes, think tanks, academic research centers—all funded to ensure that every credible prediction of humanity's trajectory requires our clients' continued dominance."
+
+Sterling stared at the endless shelves. "When people can't imagine authentic alternatives..."
+
+"They become grateful for managed ones," Aurelius finished. "The most profound wealth isn't measured in dollars, Sterling—it's measured in the boundaries of human imagination itself."
+
+**Moral**: *Those who control the narrative of time control the possibilities of existence.*
+
+**Tomorrow**: *The final protocols reveal themselves as humanity faces the ultimate choice between authentic agency and comfortable servitude.*`,
+  },
 ];

@@ -5903,4 +5903,64 @@ Later, as Greymane joined her on deck, Tova shook her head in amazement. "How di
 
 **Tomorrow:** Tova learns why her attempts to make better decisions might actually be preventing her from making the right ones.`,
   },
+  {
+    day: 94,
+    title: "The Compass of Courage",
+    date: "2026-06-07",
+    image: "images/leadership/day-94.jpg",
+    audio: "audio/leadership/day-94",
+    sonnet: `**🪶 Sonnet XCIV: The Compass of Courage**
+
+When stubborn will makes prisoners of choice,
+And pride transforms good judgment into chains,
+The wise leader learns to trust a deeper voice
+That whispers truth despite what ego feigns.
+
+To change direction when the path proves wrong
+Requires a courage greater than staying straight,
+For crews respect the captain brave and strong
+Who serves the journey more than saving face.
+
+The compass needle trembles, then finds north,
+Not bound by where it pointed yesterday,
+So leaders must be willing to step forth
+From yesterday's decision to today's way.
+
+*True strength lies not in paths we won't forsake,*
+*But in the wisdom to choose truth for voyage's sake.*`,
+    standard: `👥 Day 94: The Compass of Courage
+
+When we realize our decisions are trapped by the need to justify past choices, we must create systematic processes for evaluating new information as if we had no history to defend. This requires building decision-making frameworks that deliberately separate "what we've learned" from "what we've committed to," allowing wisdom to accumulate while keeping us free from the prison of consistency.
+
+🧱 **The Concept**
+True leadership courage isn't found in making bold decisions, but in the willingness to change direction when reality contradicts our plans.
+
+❓ **Why It Matters**
+Leaders who lack the courage to pivot become prisoners of their own past judgments, leading teams down paths that everyone can see aren't working. The most dangerous leadership failures aren't dramatic explosions—they're the slow deterioration that happens when leaders choose consistency over correctness.
+
+⚙️ **How It Works**
+Courageous leaders establish "decision review points" where they systematically examine whether their current direction still serves their ultimate purpose. They separate their ego from their strategy, asking "What would we do if we were starting fresh today?" rather than "How do we justify what we've already invested?" They create safe spaces for team members to challenge existing directions without appearing disloyal. Most importantly, they model intellectual humility by publicly changing course when evidence demands it, showing their team that adaptation is strength, not weakness.
+
+🎯 **Leadership Wisdom**
+The leader who never changes direction isn't showing strength—they're advertising their inability to learn.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most valuable contributions were being automatically filtered out before they reached you, not by any formal process but by people's assumptions about what you wanted to hear, what would this reveal about the invisible editorial process that shapes your access to reality, and how might your predictable reactions be unconsciously training others to curate truth rather than deliver it?`,
+    parable: `The storm had passed, but Tova stood at her charts with trembling hands. For three days, she had insisted on the northern route—the same path that had brought her early victories as captain. Now, with supplies running low and the crew exhausted, even she could see the southern passage would have been wiser.
+
+"Captain," her first mate approached carefully, "the crew wonders if we might reconsider our heading."
+
+Tova's jaw tightened. To change course now would mean admitting error before the entire crew. "We stay our course," she declared, her voice carrying more force than conviction.
+
+Greymane, observing from the corner, said nothing until the first mate had left. Then, quietly: "I once knew an admiral who sailed his entire fleet into a three-week delay because he couldn't bear to admit his initial course was wrong."
+
+"What happened to him?" Tova asked, still staring at her charts.
+
+"He learned that the crew didn't remember him for his mistake," Greymane replied. "They remembered him for how long he let pride keep them sailing in the wrong direction. True courage isn't never being wrong, Tova. It's being wrong and changing course anyway."
+
+Tova looked up at the old admiral, then at her charts, then out at the horizon where the southern winds beckoned with promise. She walked to the helm and called out new orders, her voice clear and strong. The crew's relief was immediate—not because she had changed direction, but because she had chosen truth over consistency.
+
+**Moral:** *The compass of courage points not toward unwavering direction, but toward unwavering commitment to truth, even when that truth demands we abandon our original path.*
+
+*Tomorrow, Greymane will help Tova discover why the most important information never seems to reach the captain's quarters...*`,
+  },
 ];

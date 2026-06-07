@@ -5622,4 +5622,66 @@ Elm joined them, grass stains on his knees, contentment in his eyes. "I feel lik
 
 **Tomorrow**: As you stand on the threshold of forever, what final truth about love will your wedding day reveal?`,
   },
+  {
+    day: 91,
+    title: "The Sacred Metamorphosis",
+    date: "2026-06-07",
+    image: "images/wedding-planning/day-91.jpg",
+    audio: "audio/wedding-planning/day-91",
+    sonnet: `**🪶 Sonnet XCI: The Sacred Metamorphosis**
+
+The girl who dreamed of love's eternal dance
+Now stands transformed by commitment's sacred fire,
+No longer held by sweet romance's trance
+But forged by trials that temper and inspire.
+
+Each compromise has carved away the old,
+Each shared decision deepened her true core,
+The self-protective walls she used to hold
+Dissolved like morning mist on passion's shore.
+
+She mourns no loss of who she used to be—
+That chrysalis was meant for breaking through.
+The butterfly emerges wild and free,
+With wings that bear the weight of love made true.
+
+*The woman walking toward her sacred vow*
+*Contains the girl, yet transcends her now.*`,
+    standard: `💍 Day 91: The Sacred Metamorphosis
+
+The person who said yes was brave enough to leap into the unknown; the person walking down the aisle has been refined by that courage into someone capable of sustaining love through uncertainty. You honor the dreamer who believed in forever by becoming the realist who knows how to build it, one intentional choice at a time.
+
+🧱 **The Concept**
+Marriage transforms you at the cellular level—not just legally or socially, but in ways that alter how you move through the world.
+
+❓ **Why It Matters**
+Many couples resist this metamorphosis, trying to stay exactly who they were as singles while expecting their relationship to deepen. This creates the exhausting paradox of wanting intimate partnership without personal evolution. True marriage requires you to die to certain aspects of your old self—not losing your essence, but composting your limitations into fertile ground for who you're becoming together.
+
+⚙️ **How It Works**
+The transformation begins the moment you choose each other and accelerates through wedding planning, where every decision requires you to consider 'we' before 'me.' Your individual dreams must learn to dance with shared ones. Your personal boundaries expand to include another's needs. Your reflexive reactions are tempered by commitment to something larger than momentary feelings. The person who emerges from this process isn't diminished—they're expanded, like a river that deepens as it approaches the ocean. This isn't about losing yourself; it's about discovering capacities you never knew you possessed.
+
+🎯 **Wedding Wisdom**
+Your wedding ceremony doesn't just celebrate who you are—it consecrates who you're becoming.
+
+❓ **Tomorrow's Question** — If you discovered that your capacity to love your partner deeply would require you to release specific fears, habits, or defensive patterns that have protected you as a single person, which self-protective mechanisms would you be willing to sacrifice on the altar of intimacy, and what does that reveal about whether you're truly ready to be transformed by love rather than just accompanied by it?`,
+    parable: `Dove found herself standing before Nana Rose's antique mirror, no longer recognizing the reflection staring back. "I feel like I'm disappearing," she whispered, touching the glass with trembling fingers.
+
+Nana Rose appeared beside her, ancient hands warm on Dove's shoulders. "Child, you're not disappearing—you're hatching. The caterpillar doesn't lose itself in the chrysalis; it dissolves into something capable of flight."
+
+"But what if I lose the parts of me that Elm fell in love with?" Dove's voice cracked with uncertainty.
+
+Elm entered quietly, having heard her fear. "The woman I proposed to was brave enough to dream of forever," he said softly. "The woman I'm marrying has learned how to build it. You haven't lost your courage, love—you've refined it into wisdom."
+
+Nana Rose nodded knowingly. "Every bride stands at this threshold, dear one. The girl who says 'yes' to the proposal has faith in love's possibility. The woman who says 'I do' at the altar has been transformed by love's reality—tested by planning stresses, deepened by compromise, strengthened by choosing 'us' over 'me' a thousand times."
+
+Dove studied her reflection again, seeing not loss but metamorphosis. The dreamy romantic had been sculpted into someone capable of sustaining devotion through ordinary Tuesdays and extraordinary trials alike.
+
+"Marriage doesn't diminish you," Elm said, taking her hand. "It reveals capacities you never knew you possessed."
+
+As Dove watched, her reflection seemed to shimmer with possibility—not the girl who had believed in forever, but the woman who was learning to create it.
+
+**Moral:** True love transforms us not by erasing who we were, but by expanding who we're capable of becoming.
+
+*Tomorrow, Dove discovers what she must release to fully embrace her metamorphosis...*`,
+  },
 ];
