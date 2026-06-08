@@ -2348,4 +2348,62 @@ Hana watched the bubble-chasing children again, this time allowing her heart to 
 
 *Tomorrow, Elder Thorn will show Hana the difference between living her own life and performing someone else's expectations...*`,
   },
+  {
+    day: 39,
+    title: "The Authentic Rebellion",
+    date: "2026-06-08",
+    image: "images/gratitude/day-39.jpg",
+    audio: "audio/gratitude/day-39",
+    sonnet: `**🪶 Sonnet XXXIX: The Authentic Rebellion**
+
+When gratitude becomes a scripted part,
+And appreciation wears a borrowed face,
+The rebel soul must choose to play its heart
+Over the role that others would embrace.
+
+To thank for berries over baker's bread,
+For muddy play above ceremony's shine,
+Requires the courage to let others' thread
+Of expectation break, and weave your line.
+
+This quiet revolution asks no war,
+Just truth in what you treasure, what you see—
+Authentic praise for who you really are,
+Not who performance says you ought to be.
+
+*The gratitude rebel's gentlest crime*
+*Is being grateful for their real-time rhyme.*`,
+    standard: `🙏 Day 39: The Authentic Rebellion
+
+We betray ourselves to avoid disapproval because we've learned that love comes with conditions—perform the right script, meet the right expectations, and you'll be accepted. This reveals that we're often performing someone else's version of a good life rather than living our own, treating our authentic self as a risk rather than a gift. True gratitude rebellion means appreciating who you actually are, not who others need you to be.
+
+🧱 **The Concept**
+Authentic gratitude becomes an act of rebellion when it honors your true self over others' expectations.
+
+❓ **Why It Matters**
+Living according to others' scripts for your life creates a hollow gratitude—you're appreciating a performance rather than reality. When you rebel by being grateful for who you actually are, you give others permission to do the same, creating ripples of authenticity that can transform entire communities.
+
+⚙️ **How It Works**
+The gratitude rebel notices when their appreciation feels performative—thanking people for things they don't really value, expressing excitement about achievements that don't fulfill them, or hiding gratitude for unconventional choices. They begin small acts of authentic appreciation: thanking someone for accepting their quirks, expressing genuine excitement about simple pleasures others might judge, or appreciating their own courage to disappoint people who demand conformity. This rebellion isn't aggressive—it's the quiet revolution of someone who chooses to be grateful for their real life rather than apologetic for not living someone else's ideal.
+
+🎯 **Gratitude Wisdom**
+The most radical thing you can do is be grateful for exactly who you are, which gives others permission to rebel against their own performance and find their authentic appreciation.
+
+❓ **Tomorrow's Question** — If authentic gratitude rebellion can free both you and others from the exhaustion of performing gratitude, why do we often feel more afraid of our own freedom than we do of our familiar prison, and what does this fear reveal about whether we trust ourselves to handle the responsibility of living authentically?`,
+    parable: `Hana had been practicing gratitude dutifully for months, keeping careful lists and expressing appreciation in all the ways she'd been taught. But lately, something felt hollow—like she was performing gratitude rather than feeling it.
+
+"Elder Thorn," she confessed one morning, "I'm grateful for everything I'm supposed to be grateful for, but I feel empty inside. Yesterday I thanked the baker for his fine bread, but I actually prefer the wild berries I find on my walks. I expressed appreciation for the formal ceremony, but I was most moved by watching children play in the mud afterward. Am I doing gratitude wrong?"
+
+Elder Thorn's eyes crinkled with understanding. "Child, you're discovering the difference between inherited gratitude and authentic appreciation. For years, I expressed thanks for the harsh discipline that 'made me strong,' while secretly longing for gentleness. I was grateful for respect I'd earned through intimidation, while my heart yearned for connection through vulnerability."
+
+"But people expect certain things," Hana protested. "If I appreciate what actually moves me—the wildness, the play, the quiet moments—they'll think I'm ungrateful for their efforts."
+
+"The gratitude rebel," Thorn smiled, "risks disappointing others' expectations to honor what's genuinely sacred to them. When I began thanking people for their kindness instead of their fear, for their laughter instead of their deference, something magical happened—they began showing me more of what I actually appreciated. Your authentic gratitude gives others permission to reveal their authentic selves."
+
+Hana felt something shift inside her—the quiet revolution of choosing to be grateful for who she actually was rather than who others needed her to be. It was terrifying and liberating at once.
+
+**Moral**: *The most radical act of gratitude is appreciating your authentic self, which rebels against performance and invites others into their own freedom.*
+
+**Tomorrow**: *Hana discovers why embracing authentic freedom can feel more frightening than familiar constraints, and what this reveals about trust in one's own capacity for responsible living.*`,
+  },
 ];

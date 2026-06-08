@@ -2168,4 +2168,66 @@ The fortress in the Mirror began to transform, walls becoming gardens with gates
 
 *Tomorrow, Riven will discover that his most logical choices might be his most unconscious reactions...*`,
   },
+  {
+    day: 36,
+    title: "The Rational Irrationality Trap",
+    date: "2026-06-08",
+    image: "images/relationship-games/day-36.jpg",
+    audio: "audio/relationship-games/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Rational Irrationality Trap**
+
+Our clever minds craft rules for love's selection,
+With lists of traits and logical demands,
+Yet filter out each offer of affection
+That doesn't match our wounded heart's commands.
+
+We call it wisdom when we turn away
+From those who show us kindness without games,
+While chasing those who make our spirits fray—
+Their mystery sets our reasoning aflame.
+
+The rational becomes our best defense
+Against the healing we profess to seek,
+As intellect builds walls around our sense
+Of who deserves the love that makes us weak.
+
+*What sounds most wise oft serves to keep us bound—*
+*Our smartest thoughts are traps our wounds have found.*`,
+    standard: `🎭 Day 36: The Rational Irrationality Trap
+
+Our most "rational" relationship decisions are often our most irrational because true safety assessment requires conscious override of unconscious programming that mistakes healing for harm. When we rely purely on logical analysis to evaluate partners, we're essentially asking our wounded mind to judge what would heal it—like asking a depressed person to rationally evaluate why they should feel joy.
+
+🧱 **The Concept**
+Our logical mind, when unexamined, becomes a sophisticated defense system that rationalizes our unconscious compulsions to avoid genuine intimacy.
+
+❓ **Why It Matters**
+What we call "being smart about dating" often means being smart about avoiding exactly what we say we want. Our rational mind creates elaborate frameworks—compatibility lists, red flag inventories, timing requirements—that sound wise but actually function as intellectual barriers to receiving love.
+
+⚙️ **How It Works**
+The process operates through rationalization cascades where our protective system generates logical-sounding reasons to reject healthy partners. Someone shows consistent interest? "They must be desperate or hiding something." Someone communicates directly? "They're too intense or moving too fast." Someone treats us well? "It feels too good to be true." Meanwhile, someone who triggers our wounds gets labeled as "mysterious," "challenging," or having "depth." We create sophisticated philosophies about "earning" love, "natural timing," and "organic development" that systematically filter out people capable of offering what we consciously claim to want. The most dangerous part is how logical these filters sound—even to ourselves.
+
+🎯 **Relationship Strategy Wisdom**
+True relationship intelligence requires us to question not just our emotional reactions, but our rational justifications for those reactions.
+
+❓ **Tomorrow's Question** — If we accept that our rational mind often serves as the PR department for our unconscious relationship agenda, what does this suggest about the role of intuition versus analysis in mate selection—and might our most profound relationship decisions require us to act on what feels right despite our inability to logically explain why?`,
+    parable: `Riven sat across from The Mirror in the ancient library, surrounded by towering shelves of relationship wisdom they'd never quite applied. "I've been making such smart choices lately," Riven said, consulting a detailed list. "I turned down Marcus because he was too available—obviously desperate. I rejected Sarah because she communicated too directly—clearly hasn't learned the art of mystery. And David? He treated me too well right away—definitely love-bombing."
+
+The Mirror's reflection shimmered, showing not Riven's face but a courtroom where Riven sat as both judge and prosecutor. "Tell me about the last person who truly captured your interest," The Mirror requested.
+
+"Alex," Riven said immediately, brightening. "So intriguing. Never quite sure where I stood. Made me work for every text back. Had this edge, this complexity. Very smart—a real intellectual."
+
+"And how did that end?"
+
+Riven's face fell. "Turns out they were seeing three other people and couldn't commit to any of us. But at least I felt alive with them."
+
+The Mirror's surface rippled, revealing a new scene: Riven's rational mind as a sophisticated security system, complete with guards checking clipboards. "Watch how your logical mind processes potential partners," The Mirror instructed. In the vision, every healthy candidate was turned away for failing elaborate tests—too kind, too direct, too available, too stable. Meanwhile, the guards waved through anyone who triggered familiar wounds, stamping their applications "APPROVED: SUFFICIENTLY COMPLEX."
+
+"Your rational mind has become the most sophisticated defense against the very love you seek," The Mirror observed. "You've created intellectual frameworks that sound wise but systematically reject healing while embracing harm."
+
+Riven stared at their reflection, seeing clearly for the first time how their smartest dating decisions had been their most self-sabotaging ones.
+
+**Moral**: The mind that was wounded in relationship cannot be trusted to rationally evaluate what would heal it.
+
+**Tomorrow**: Riven discovers the paradox of intuitive knowing versus analytical paralysis in matters of the heart.`,
+  },
 ];

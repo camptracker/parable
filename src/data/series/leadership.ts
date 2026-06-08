@@ -5963,4 +5963,69 @@ Tova looked up at the old admiral, then at her charts, then out at the horizon w
 
 *Tomorrow, Greymane will help Tova discover why the most important information never seems to reach the captain's quarters...*`,
   },
+  {
+    day: 95,
+    title: "The Currency of Uncomfortable Truth",
+    date: "2026-06-08",
+    image: "images/leadership/day-95.jpg",
+    audio: "audio/leadership/day-95",
+    sonnet: `**🪶 Sonnet XCV: The Currency of Uncomfortable Truth**
+
+When sailors learn to soften hard-won news,
+And wrap their warnings in gentler speech,
+The captain's ears hear only what won't bruise,
+While reality stays just beyond reach.
+For truth requires a harbor safe from storm,
+Where messengers need not fear their fate,
+Where difficult reports meet grateful form,
+And wisdom flows through honesty's straight gate.
+The leader who rewards the bearer's call
+Of troubling news and inconvenient sight
+Builds trust that will not crumble, will not fall
+When darkness challenges their guiding light.
+*For influence flows where courage finds its voice,
+And truth becomes each follower's free choice.*`,
+    standard: `👥 Day 95: The Currency of Uncomfortable Truth
+
+This invisible editorial process reveals that people have learned to prioritize your emotional comfort over organizational effectiveness, creating an information bubble that protects your feelings while endangering your decisions. Your predictable reactions have inadvertently taught others that being a messenger of difficult truths carries personal risk, so they've learned to package reality in ways that feel manageable rather than accurate.
+
+**🧱 The Concept**
+True leadership influence is measured not by how comfortable people feel telling you what you want to hear, but by how safe they feel telling you what you need to hear.
+
+**❓ Why It Matters**
+Leaders who only receive pre-filtered information make decisions based on edited reality. When teams learn that difficult truths create tension while pleasant fiction creates harmony, they unconsciously choose the path that protects relationships over the path that protects outcomes.
+
+**⚙️ How It Works**
+Influential leaders create psychological safety specifically around difficult conversations by responding to unwelcome news with curiosity rather than defensiveness. They thank people for bringing problems to light before addressing the problems themselves. When someone reports a failure, they ask "What can we learn from this?" before asking "How do we fix this?" They deliberately reward truth-telling even when the truth is inconvenient, understanding that today's uncomfortable reality is tomorrow's manageable challenge. Most importantly, they recognize that their initial emotional reaction to difficult news teaches others whether honesty will be met with gratitude or punishment.
+
+**🎯 Leadership Wisdom**
+The quality of your decisions is directly proportional to the quality of information people feel safe bringing you.
+
+**❓ Tomorrow's Question** — If you discovered that your most important leadership legacy would be determined not by how well you handled success, but by how you responded in the thirty seconds immediately after receiving devastating news about something you cared deeply about, what would this reveal about which version of yourself actually defines your influence, and how might your immediate reactions in moments of crisis be unconsciously programming others to either trust you with truth or protect you from it?`,
+    parable: `Tova found Greymane examining the ship's manifest, his weathered fingers tracing entries with unusual attention. "Something troubles you, Admiral?" she asked.
+
+"Tell me, Captain," Greymane said without looking up, "when did your crew last bring you news that made your stomach drop?"
+
+Tova paused, realizing she couldn't remember. "They... they keep me informed of our progress."
+
+"Progress, yes. But what of the problems they solve before you hear about them? The concerns they discuss only among themselves?" Greymane set down the manifest. "I've been listening to your crew's conversations when they think no one important is watching."
+
+He led her to where the night watch gathered, speaking in hushed tones about a developing storm system and concerns about the ship's readiness. The moment they spotted Tova, the conversation shifted to updates about routine maintenance and positive observations about improved morale.
+
+"You see?" Greymane whispered. "They've learned to protect you from reality. Your reactions to difficult news have taught them that your comfort matters more than your knowledge."
+
+Tova felt a chill deeper than the sea wind. "But I want them to tell me everything."
+
+"Wanting and creating safety for truth-telling are different things entirely. Watch." Greymane approached the sailors. "Gentlemen, I heard mention of weather concerns. Tell me more."
+
+The crew exchanged glances before one sailor spoke hesitantly about the storm and their doubts about the rigging's condition. Greymane listened without interruption, asked clarifying questions, and thanked them for their vigilance before dismissing them to make preparations.
+
+"Notice," he told Tova as they walked away, "I didn't solve their problem or question their judgment. I simply received their truth as a gift and treated their concerns as valuable intelligence rather than criticism of our readiness."
+
+Tova realized that in her eagerness to appear competent, she had inadvertently taught her crew that bringing problems to her attention might result in being seen as pessimistic or doubting her leadership.
+
+**Moral:** The courage to speak truth to power is directly proportional to how power has historically received truth.
+
+Tomorrow, Greymane would teach Tova about the moments when her true character would be revealed—not in calm seas, but in the critical seconds after disaster strikes.`,
+  },
 ];

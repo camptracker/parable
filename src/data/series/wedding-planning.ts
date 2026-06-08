@@ -5684,4 +5684,64 @@ As Dove watched, her reflection seemed to shimmer with possibility—not the gir
 
 *Tomorrow, Dove discovers what she must release to fully embrace her metamorphosis...*`,
   },
+  {
+    day: 92,
+    title: "The Sacred Disarmament",
+    date: "2026-06-08",
+    image: "images/wedding-planning/day-92.jpg",
+    audio: "audio/wedding-planning/day-92",
+    sonnet: `**🪶 Sonnet XCII: The Sacred Disarmament**
+
+The shields we carried through our single days—
+Perfection's mask, control's defending wall,
+The wit that turns all earnest truth to praise,
+The smile that never lets our armor fall—
+These guardians served when hearts stood alone,
+Protected tender places from the world,
+But now they block the love we've always known
+Was waiting past where fear had us unfurled.
+To marry means to lay our weapons down,
+Not in defeat, but in triumphant trust,
+To stand before our love without a crown
+Of false protection, vulnerable as dust.
+*Yet in this sacred disarmament, we find*
+*Two naked souls can shelter heart and mind.*`,
+    standard: `💍 Day 92: The Sacred Disarmament
+
+The self-protective mechanisms we must release are often our most sophisticated defenses: the perfectionism that keeps us from being truly seen, the emotional walls that prevent deep vulnerability, and the control patterns that limit spontaneous intimacy. These defenses served us well in protecting our hearts as single people, but they now stand between us and the profound connection marriage offers. Being ready for transformation rather than mere companionship means recognizing that love's greatest gift isn't safety—it's the courage to be completely known.
+
+**🧱 The Concept**
+Marriage requires a sacred disarmament—the conscious laying down of the emotional weapons we've used to protect ourselves from potential hurt.
+
+**❓ Why It Matters**
+Every defense mechanism that once kept us safe also keeps us separate. The walls that protect us from pain also prevent us from experiencing love's full depth. True intimacy is impossible when we're still armed for battle.
+
+**⚙️ How It Works**
+This disarmament happens gradually and with discernment—we don't become defenseless, but we become selectively vulnerable with our chosen partner. For example, if you've protected yourself by never admitting mistakes, marriage requires the courage to say "I was wrong" and trust your partner's response. If you've used busyness to avoid emotional conversations, you must create space for stillness together. If you've maintained independence by never expressing needs, you must risk asking for support. The process involves identifying which protective patterns no longer serve your relationship and consciously choosing connection over safety. This doesn't mean eliminating all boundaries—it means transforming defensive walls into permeable membranes that can let love flow freely while still maintaining your essential self.
+
+**🎯 Wedding Wisdom**
+Your wedding day marks the moment you formally lay down your arms and step into love's sacred vulnerability—not as defeat, but as the ultimate victory over fear.
+
+**❓ Tomorrow's Question**
+If you discovered that your wedding ceremony would literally strip away every mask, pretense, and performance you've ever used to manage how others perceive you, leaving you completely exposed as exactly who you are beneath all the trying, what would you most fear your guests would see, and what does that fear reveal about the difference between being loved for who you appear to be versus being loved for who you actually are?`,
+    parable: `Dove sat in her childhood bedroom, surrounded by old journals and photo albums, as if preparing for an archaeological dig through her own defenses. "I've been thinking about what you said, Nana Rose—about releasing what no longer serves us."
+
+Nana Rose settled into the window seat, her weathered hands folding like origami. "And what have you discovered in your excavation, dear one?"
+
+"I think I've been wearing armor I didn't even know I had," Dove confessed. "I'm so used to being the one who has everything together, who never needs help, who smiles through everything. But with Elm..." She paused, touching a photo of herself looking genuinely happy but unguarded. "With him, I want to put down the shield."
+
+Elm appeared in the doorway, having overheard. "I've been doing my own inventory," he said softly. "I realized I use humor to deflect whenever things get too real. It's like I'm afraid if I'm serious for too long, people will see I don't actually have all the answers."
+
+Nana Rose nodded knowingly. "The great paradox of love—the very defenses that brought you safely to each other now stand between you and the deeper intimacy you crave. But disarmament isn't surrender, children. It's courage."
+
+"What if we're too vulnerable?" Dove whispered. "What if without our protective patterns, we're... fragile?"
+
+"Oh, my dear," Nana Rose smiled, "you'll discover that two people who choose to be defenseless together are not fragile—they're formidable. Your combined vulnerability becomes your greatest strength."
+
+Elm reached for Dove's hand. "Maybe our wedding isn't just about promising to love each other. Maybe it's about promising to keep choosing connection over protection, even when we're scared."
+
+Moral: The shields that protect us from pain also protect us from love's transformative power. True intimacy begins when we're brave enough to lay down our arms.
+
+Tomorrow, Dove will face the ultimate question of authentic presence.`,
+  },
 ];

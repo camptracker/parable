@@ -5708,4 +5708,62 @@ The master builder touched the window glass. "True mastery isn't choosing betwee
 
 *Tomorrow, Ironmere will reveal why he eventually built walls between his fastest and deepest teams...*`,
   },
+  {
+    day: 94,
+    title: "The Choice Architecture Principle",
+    date: "2026-06-08",
+    image: "images/how-to-scale/day-94.jpg",
+    audio: "audio/how-to-scale/day-94",
+    sonnet: `**🪶 Sonnet XCIV: The Choice Architecture Principle**
+
+When every path seems equally wise to take,
+And depth and speed blur into middle ground,
+The paralysis of choice makes progress break—
+No clear direction can in blend be found.
+
+So architects of decision build constraint:
+Two benches, not one table for all work.
+Choose depth with patience, speed without complaint,
+But never let between the two paths lurk.
+
+The clockwork needs precision's careful hand,
+While rough-hewn furniture wants rapid test.
+Forced choice reveals what each task does demand—
+Committed focus serves each purpose best.
+
+*When synthesis becomes the common way,*
+*Pure choice cuts through the comfortable gray.*`,
+    standard: `🚀 Day 94: The Choice Architecture Principle
+
+Separating depth from speed isn't about rejecting synthesis—it's about creating **choice architecture** that forces teams to consciously decide which type of thinking each decision requires. When everything can be both deep and fast, teams lose the ability to recognize when a decision truly deserves their most careful consideration versus when rapid iteration will reveal answers faster than extended analysis.
+
+🧱 **The Concept**
+Choice architecture deliberately constrains teams to use either deep thinking or fast execution for critical decisions, forcing conscious selection of the appropriate cognitive approach rather than defaulting to a blended middle ground.
+
+❓ **Why It Matters**
+Without forced choice constraints, teams develop "synthesis addiction"—the comfortable belief that every important decision can and should combine depth with speed. This prevents them from recognizing when rapid experimentation would be more valuable than careful analysis, or when certain decisions require genuine depth that can't be rushed. The constraint forces intentional cognitive resource allocation.
+
+⚙️ **How It Works**
+Successful companies establish "decision typing" protocols that categorize critical choices as either "depth required" or "speed required" before any analysis begins. For product feature decisions, teams must choose: spend three weeks researching user behavior patterns, or ship three variants in one week and measure actual usage. For hiring decisions, they choose: conduct extensive culture-fit interviews over multiple rounds, or use rapid trial projects to observe actual work compatibility. The key is eliminating the option to do both—forcing teams to bet on their decision-typing judgment rather than hedging with hybrid approaches.
+
+🎯 **Scaling Wisdom**
+The highest-performing teams don't try to optimize every decision—they get exceptional at quickly choosing the right type of optimization for each situation.
+
+❓ **Tomorrow's Question** — If choice architecture creates such powerful decision-making clarity by forcing teams to choose between depth and speed, why do the most successful companies eventually establish "choice override" protocols that allow their most critical decisions to completely bypass their own decision-typing constraints during breakthrough moments?`,
+    parable: `Vex stood before two workbenches in her expanded workshop, tools scattered between them in confusion. "Master Ironmere, I've been trying to work on both the delicate clockwork commission and the urgent furniture repair simultaneously. I keep switching between them, but nothing gets done well."
+
+Ironmere examined the half-finished projects. "You've discovered the burden of choice without constraint, young builder. When every task feels equally urgent and equally important, you exhaust yourself in the middle ground between precision and speed."
+
+He gestured to the workbenches. "Choose. This bench becomes your precision station—fine tools, perfect light, work that cannot be rushed. That bench becomes your speed station—sturdy tools, quick materials, work that teaches through doing. But here's the rule: when you approach a new project, you must decide which bench it belongs to before you touch a single tool. No switching. No hedging."
+
+"But what if I choose wrong?" Vex asked.
+
+"Then you'll learn faster than if you choose nothing at all," Ironmere replied. "The clockwork taught you patience through precision. The furniture repairs taught you confidence through iteration. But trying to do both simultaneously taught you only confusion."
+
+Weeks later, Vex moved between her stations with purpose. Each project received the type of attention it truly needed, and both her precision work and her rapid prototyping improved dramatically.
+
+**Moral:** *Forcing choice between approaches creates better outcomes than attempting to blend all approaches into comfortable compromise.*
+
+*Tomorrow, Ironmere will reveal why even the most disciplined choice constraints must sometimes be deliberately broken...*`,
+  },
 ];
