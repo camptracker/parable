@@ -2406,4 +2406,66 @@ Hana felt something shift inside her—the quiet revolution of choosing to be gr
 
 **Tomorrow**: *Hana discovers why embracing authentic freedom can feel more frightening than familiar constraints, and what this reveals about trust in one's own capacity for responsible living.*`,
   },
+  {
+    day: 40,
+    title: "The Trusted Self",
+    date: "2026-06-09",
+    image: "images/gratitude/day-40.jpg",
+    audio: "audio/gratitude/day-40",
+    sonnet: `**🪶 Sonnet XL: The Trusted Self**
+
+When fear of freedom keeps us bound in chains
+Of others' rules for what deserves our praise,
+We lose the compass that within us reigns—
+Our heart's true knowing of grace-worthy days.
+
+The wilted rose, the difficult goodbye,
+The silence after chaos finds its peace,
+The challenge that helps broken spirits fly—
+All teach us lessons that will never cease.
+
+Yet still we seek approval for our thanks,
+As if our deepest feelings need consent,
+While authentic gratitude breaks ranks
+With every "should" and artificial bent.
+
+*Trust the wisdom dwelling in your core—*
+*Your heart knows what's worth being grateful for.*`,
+    standard: `🙏 Day 40: The Trusted Self
+
+We fear our freedom more than our familiar prison because freedom demands that we trust ourselves to make choices without external validation, while performing gratitude offers the comfort of clear rules and others' approval. This fear reveals our deep conditioning that we need permission to live authentically, as if our own inner compass isn't worthy of trust.
+
+🧱 **The Concept**
+True gratitude mastery means learning to trust your own authentic responses over external measures of "proper" appreciation.
+
+❓ **Why It Matters**
+When we don't trust ourselves to know what we're genuinely grateful for, we become dependent on others to validate our appreciation. This creates a fragile gratitude practice that collapses whenever we're alone with our authentic feelings.
+
+⚙️ **How It Works**
+Trusting your gratitude means honoring what actually moves you, even if it seems small or unconventional. Maybe you're more grateful for the silence after everyone leaves than for the family gathering itself. Maybe you appreciate the difficult conversation that cleared the air more than the superficial harmony that preceded it. Maybe you find deeper gratitude in the neighbor who challenges your growth than in the one who always agrees with you. This self-trust transforms gratitude from performance into genuine recognition of what serves your authentic development.
+
+🎯 **Gratitude Wisdom**
+Your own heart knows what deserves appreciation better than any external authority ever could.
+
+❓ **Tomorrow's Question** — If trusting your authentic gratitude responses is the foundation of genuine appreciation, why do we often spend more energy seeking others' permission to feel grateful than we do actually feeling grateful, and what does this reveal about whether we're practicing gratitude or practicing approval-seeking disguised as gratitude?`,
+    parable: `Hana knelt in Elder Thorn's garden, methodically thanking each plant as she had been taught in the village. "I am grateful for your beauty," she recited to a wilted flower. "I appreciate your nourishment," she continued to a struggling herb.
+
+Elder Thorn watched quietly before speaking. "Child, what do you truly feel when you look at that dying rose?"
+
+Hana hesitated. "I... I should be grateful for its beauty, even as it fades."
+
+"Should?" The elder's weathered hands touched the wilted petals. "I asked what you feel, not what you think you should feel."
+
+Hana looked again, more honestly this time. "I feel... sad. And also grateful that it gave so much beauty before letting go. And strange appreciation for how it's teaching me about cycles and change."
+
+"Now you speak truth," Elder Thorn smiled. "For years, I performed gratitude like a duty, thanking only what seemed worthy by others' standards. But real gratitude blooms when you trust your own heart to recognize what actually serves you. The dying rose teaches you about impermanence—that deserves genuine thanks more than empty praise for beauty that's already gone."
+
+Hana felt something shift inside her. "So trusting my real feelings... is more grateful than pretending?"
+
+"Trust is the root from which authentic appreciation grows," the elder confirmed. "When you trust yourself to know what moves you, your gratitude becomes a compass rather than a performance."
+
+**Moral:** The heart that trusts itself knows exactly what deserves its appreciation.
+
+*Tomorrow, Hana will discover why seeking permission for gratitude has become more common than simply feeling it...*`,
+  },
 ];

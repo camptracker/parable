@@ -6028,4 +6028,68 @@ Tova realized that in her eagerness to appear competent, she had inadvertently t
 
 Tomorrow, Greymane would teach Tova about the moments when her true character would be revealed—not in calm seas, but in the critical seconds after disaster strikes.`,
   },
+  {
+    day: 96,
+    title: "The Unguarded Moment",
+    date: "2026-06-09",
+    image: "images/leadership/day-96.jpg",
+    audio: "audio/leadership/day-96",
+    sonnet: `**🪶 Sonnet XCVI: The Unguarded Moment**
+
+When crisis strikes and shatters careful plans,
+The leader's truest nature stands revealed—
+Not in rehearsed responses, but the span
+Between the blow received and reaction sealed.
+
+Those thirty seconds forge tomorrow's trust,
+As watchers learn if truth can safely land,
+Or if their leader's fragile ego must
+Be shielded by a protective, filtering hand.
+
+The wise pause in that crucible of time,
+Breathing space between the wound and word,
+Asking not "Who's to blame for this dark crime?"
+But "What truth needs to now be clearly heard?"
+
+*In unguarded moments, character shows through—*
+*The leader you become when shock breaks you.*`,
+    standard: `👥 Day 96: The Unguarded Moment
+
+Those thirty seconds reveal that our truest leadership character emerges not in our prepared responses but in our instinctive reactions—and these unguarded moments teach our teams whether we can be trusted with their hardest truths or whether they need to manage our emotions along with everything else. When leaders react to devastating news with blame, defensiveness, or emotional volatility, they unconsciously train others to become editors rather than truth-tellers, creating an information filter that ultimately isolates them from reality.
+
+🧱 **The Concept**
+The most defining moments of leadership happen in the space between hearing difficult news and choosing our response.
+
+❓ **Why It Matters**
+Your instinctive reactions to crisis create the template others use to decide how much truth you can handle in the future. These split-second responses either build trust that encourages radical honesty or create fear that promotes protective silence.
+
+⚙️ **How It Works**
+When devastating news hits, the first thirty seconds reveal whether you're someone who can be trusted with reality. If your immediate reaction is to find someone to blame, people learn to come prepared with scapegoats rather than solutions. If you lash out or become defensive, they learn to soften bad news or delay reporting it. If you ask "What do we need to understand?" before "Who is responsible?" you demonstrate that truth is more valuable than comfort. Leaders who breathe deeply, ask clarifying questions, and focus on understanding rather than judging create psychological safety that transforms their access to critical information.
+
+🎯 **Leadership Wisdom**
+Your unguarded reactions in crisis moments either expand or contract your team's willingness to trust you with truth.
+
+❓ **Tomorrow's Question** — If you discovered that your team's biggest victories consistently happened during the exact periods when you stopped trying to control the outcome and started trusting their judgment completely, what would this reveal about whether your involvement enhances their performance or constrains it, and which situations might require you to choose faith over oversight even when the stakes feel too high to let go?`,
+    parable: `The storm struck without warning, tearing the mainsail and flooding the lower decks. A breathless sailor burst into Tova's cabin: "Captain, we've lost the cargo hold—everything's underwater, and the hull breach is spreading fast!"
+
+In that instant, Tova felt her stomach drop and her mind race toward blame and panic. But she remembered Greymane's teaching about the space between hearing and responding. She took a slow breath.
+
+"How many crew are safe?" she asked first.
+
+"All accounted for, Captain."
+
+"Good. What's our current assessment of the damage, and what options do we have?"
+
+The sailor, expecting anger or desperation, straightened with relief. "Harken thinks we can patch the breach if we can reach port within six hours. The wind's with us, but we'll need to lighten the ship significantly."
+
+Within minutes, the crew was working with focused efficiency, jettisoning non-essential cargo and reinforcing the patch. Later, as they limped into harbor, the sailor who'd brought the news approached Tova.
+
+"Captain, I've served under captains who would have screamed for someone's head when I delivered that news. I would have spent half my energy managing their panic instead of focusing on solutions. Your calmness made all the difference."
+
+Greymane, observing from the dock, nodded knowingly. The young captain had learned that the moment between crisis and response is where trust is either built or broken.
+
+**Moral**: The space between hearing devastating news and reacting to it is where leadership character is truly revealed and where teams learn whether they can trust their leader with hard truths.
+
+**Tomorrow**: Tova discovers that her greatest victories come not from directing every detail, but from stepping back when stakes are highest...`,
+  },
 ];

@@ -1920,4 +1920,68 @@ As Asha's daughter knelt to hug Elder Mira goodbye—a gesture of pure affection
 
 *Tomorrow, we explore what it means to measure parenting success by our children's capacity to contribute rather than their personal achievements...*`,
   },
+  {
+    day: 32,
+    title: "The Legacy of Service",
+    date: "2026-06-09",
+    image: "images/raising-kids/day-32.jpg",
+    audio: "audio/raising-kids/day-32",
+    sonnet: `**🪶 Sonnet XXXII: The Legacy of Service**
+
+We plant our gardens not for blooms alone,
+But seeds that scatter on tomorrow's breeze,
+Where children learn that worth is never shown
+By standing tall while others bend their knees.
+The child who shares her bread though hunger calls,
+Who lifts the fallen though she too might fall,
+Builds bridges high while others build their walls,
+And finds in service her most sacred call.
+For those who measure worth by what they take
+Will find their treasures crumble into dust,
+While those who give for love and mercy's sake
+Leave legacies in which the world can trust.
+*The child who learns to serve will lead with grace,*
+*And light the world, not just claim their place.*`,
+    standard: `👶 Day 32: The Legacy of Service
+
+We measure success by individual achievement because our culture has confused accomplishment with contribution, mistaking the accumulation of credentials, wealth, or status for the deeper fulfillment that comes from meaningful service to others. This reveals that we've internalized a scarcity-based view of human worth—where value comes from what we can get rather than what we can give—inadvertently teaching our children that their significance depends on outperforming others rather than uplifting them.
+
+🧱 **The Concept**
+True parenting success lies not in raising children who excel above others, but in nurturing humans who naturally seek to contribute to the wellbeing of their communities and world.
+
+❓ **Why It Matters**
+Children who are raised with a service orientation develop deeper resilience, stronger relationships, and more sustainable happiness than those focused solely on personal achievement. When we model and encourage contribution over competition, we help them discover that their greatest strength lies in lifting others up. This shift from "What can I get?" to "What can I give?" fundamentally changes how they move through the world.
+
+⚙️ **How It Works**
+Service-oriented parenting begins with involving children in family contributions from an early age—not as chores to be rewarded, but as natural ways family members care for each other. When a four-year-old helps set the table, we frame it as "helping our family have a nice dinner together" rather than "being a good helper." We look for opportunities to serve together: preparing meals for new neighbors, participating in community clean-up days, or simply holding the door for strangers. Most importantly, we celebrate acts of kindness and contribution as enthusiastically as we do academic or athletic achievements, showing them that how they treat others matters as much as what they accomplish for themselves. We also model this by speaking positively about our own work and volunteer efforts in terms of service rather than just personal gain.
+
+🎯 **Parenting Wisdom**
+Children who learn early that their worth comes from their capacity to contribute become adults who naturally create positive change in the world.
+
+❓ **Tomorrow's Question**
+If we want to raise children who can think critically and make wise decisions in an increasingly complex world, why do we often give them answers instead of teaching them to ask better questions, and what does our discomfort with their uncertainty reveal about our own relationship with not knowing?`,
+    parable: `Asha found Elder Mira in her garden, teaching her great-grandson to tend the community herb plot they maintained for neighbors who couldn't grow their own. "But Mira," Asha said, settling beside them, "shouldn't he be focusing on his studies? The other children his age are in advanced classes, learning skills that will help them succeed."
+
+Elder Mira watched as the boy carefully watered each plant. "What do you see when you look at him right now?" she asked.
+
+"I see time that could be spent on homework or practice," Asha admitted.
+
+"I see a child learning that his hands can nurture life, that his care makes a difference to people he may never meet," Mira replied. "Tell me, which children in your childhood do you remember most fondly?"
+
+Asha thought carefully. "The ones who shared their lunch when I forgot mine. The boy who always picked me for his team even though I wasn't the best player. The girl who sat with me when I was sad."
+
+"And which ones achieved the most academically?"
+
+Asha paused, realizing she couldn't recall. "I... I don't remember."
+
+Elder Mira smiled as her great-grandson proudly showed them a handful of herbs he'd picked for Mrs. Chen next door. "A child who learns early that their worth comes from what they can give rather than what they can get becomes an adult who changes the world not through what they achieve, but through how they serve."
+
+The boy ran off to deliver his gift, his face glowing with purpose. "But what about his future?" Asha asked. "What about college, career success?"
+
+"A child who knows their value lies in contribution will pursue excellence not to prove their worth, but to increase their capacity to serve," Mira said gently. "That kind of motivation creates leaders, healers, and builders of bridges. The other kind creates only competitors."
+
+**Moral**: The greatest legacy we can leave is not children who outshine others, but children who naturally seek to illuminate the path for those around them.
+
+*Tomorrow, Elder Mira will show Asha why the most important skill we can teach our children isn't finding the right answers, but asking the right questions...*`,
+  },
 ];

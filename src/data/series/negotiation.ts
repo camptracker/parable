@@ -6276,4 +6276,64 @@ Later, Ren discovered the truth: three other merchants maintained identical ledg
 
 **Tomorrow**: When suffering becomes a crown, what price will people pay to keep wearing it?`,
   },
+  {
+    day: 98,
+    title: "The Martyr's Crown",
+    date: "2026-06-09",
+    image: "images/negotiation/day-98.jpg",
+    audio: "audio/negotiation/day-98",
+    sonnet: `**🪶 Sonnet XCVIII: The Martyr's Crown**
+
+When burden becomes badge and pain turns pride,
+The sufferer transforms to sacred saint,
+Each trial endured proves virtue justified,
+While lesser souls would surely break or faint.
+
+The martyr wears their thorns like golden crown,
+Each sacrifice a testament to worth,
+Refusing aid that might pull glory down,
+For suffering has given second birth.
+
+No comfort can they take, no respite find,
+Lest easing pain should dim their holy light,
+Their noble agony has so defined
+Their sense of self, relief becomes their blight.
+
+*Thus trapped within their self-created shrine,*
+*They worship at the altar of decline.*`,
+    standard: `🤝 Day 98: **The Martyr's Crown**
+
+When someone's suffering becomes proof of their superiority, they transform from burden-bearer into willing martyr — someone who derives identity and worth from their noble sacrifice. This creates the Martyr's Crown: a psychological trap where refusing help or easier paths becomes essential to maintaining one's elevated self-image. The person becomes addicted to their own pain because it validates their specialness.
+
+🧱 **The Concept**
+The Martyr's Crown works by making someone's willingness to suffer become their primary source of identity and moral authority.
+
+❓ **Why It Matters**
+Once someone wears the martyr's crown, they cannot accept relief without losing their special status. Their suffering becomes sacred, their burden becomes their badge of honor, and any attempt to help them feels like an attack on their identity.
+
+⚙️ **How It Works**
+First, acknowledge their extraordinary sacrifice: "I can't imagine how difficult this must be for someone with your standards." Then, elevate their suffering to virtue: "Only someone with your integrity would carry this burden without compromising their principles." Next, make their martyrdom visible: "People don't realize what you give up to maintain this level of excellence." Finally, make relief feel like betrayal: "I suppose most people would take the easy way out, but that's not who you are." The martyr now cannot accept help without admitting they're not as special as they believed.
+
+🎯 **Negotiation Wisdom**
+When someone wears the martyr's crown, offering solutions threatens their identity — instead, offer ways to martyr themselves for your cause.
+
+❓ **Tomorrow's Question** — If making someone a martyr for your cause works by redirecting their need to suffer toward your goals, what happens when you make them feel like their current martyrdom is actually selfish — that they're hoarding all the moral glory while others who need that same validation are left empty-handed?*`,
+    parable: `The morning mist clung to the harbor like secrets to a guilty conscience when Ren found Vasska standing motionless before a mountain of rotting cargo. The old trader's silver tongue had gone silent, his weathered hands trembling as he surveyed the ruins of what had once been his greatest venture.
+
+"Master," Ren whispered, "the other merchants say you could salvage something if you acted quickly. They offer help—"
+
+"Help?" Vasska's laugh was bitter as winter wind. "Do they think me weak? Do they imagine I need their pity?" His blind eye seemed to weep in the pale light. "No, boy. I have carried burdens that would break lesser men. This cargo represents my honor, my word given in distant ports. Others would cut their losses and run, but I am not others."
+
+Ren watched in fascination as his master's despair transformed into something almost radiant. The heavier the burden grew, the straighter Vasska stood. Each rotting crate became a testament to his character, each loss a proof of his nobility.
+
+"You see, young merchant," Vasska continued, his voice gaining strength from his suffering, "anyone can profit when the winds are favorable. But only those of true character can bear loss with dignity. My competitors sleep soundly tonight because they lack the conscience that keeps me awake. This pain you see? It is the price of integrity."
+
+Days passed, and Ren noticed how Vasska began to wear his martyrdom like a crown. He refused all assistance, rejected every compromise, and spoke endlessly of the sacrifices others could never understand. The worse his situation became, the more superior he felt to those who offered solutions.
+
+"Strange," Ren mused, "how master has made his suffering into his greatest treasure. He cannot let it go, for without it, who would he be?"
+
+**Moral:** *When suffering becomes identity, relief becomes enemy — for the martyr's crown is made of thorns they dare not remove.*
+
+*Tomorrow, young merchant, we shall learn what happens when martyrs discover they are not the only ones worthy of sacrifice...*`,
+  },
 ];

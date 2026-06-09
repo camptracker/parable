@@ -5744,4 +5744,63 @@ Moral: The shields that protect us from pain also protect us from love's transfo
 
 Tomorrow, Dove will face the ultimate question of authentic presence.`,
   },
+  {
+    day: 93,
+    title: "The Sacred Honesty",
+    date: "2026-06-09",
+    image: "images/wedding-planning/day-93.jpg",
+    audio: "audio/wedding-planning/day-93",
+    sonnet: `**🪶 Sonnet XCIII: The Sacred Honesty**
+
+Beneath the mask of who we think we are,
+Lies trembling truth we've learned to keep concealed—
+The fears that wake us underneath each star,
+The needs we've never dared to have revealed.
+Yet marriage asks for more than polished gold;
+It calls for copper ore with all its stains,
+For stories that we've never fully told,
+For showing scars beneath love's gentle reins.
+The paradox of intimacy's art:
+We must risk losing love to truly find
+The courage to reveal our hidden heart,
+To trust another with our secret mind.
+*For only when we dare to be completely known,*
+*Can love take root in soil that is our own.*`,
+    standard: `💍 Day 93: The Sacred Honesty
+
+**🧱 The Concept**
+True marital intimacy requires the courage to reveal not just your best self but your most authentic self, including the parts you've kept hidden.
+
+**❓ Why It Matters**
+Many relationships fail not because people stop loving each other, but because they realize they've been loving a carefully curated version rather than the whole person. The wedding transition offers a final opportunity to step out of performance and into radical authenticity before making promises that will only be sustainable if they're made to who you actually are.
+
+**⚙️ How It Works**
+Sacred honesty means revealing the fears you've been hiding ("I'm terrified I'll become boring in marriage"), the needs you've been minimizing ("I actually need more alone time than I've admitted"), and the dreams you've been downplaying ("Part of me still wants to live abroad someday"). It means admitting when wedding planning has triggered old wounds or revealed new incompatibilities. It requires saying "I don't know" instead of pretending certainty about forever. Most importantly, it means creating space for your partner to be equally honest without punishment or withdrawal of love.
+
+**🎯 Wedding Wisdom**
+A marriage built on carefully managed impressions will require a lifetime of exhausting maintenance, while a marriage built on courageous honesty creates the foundation for genuine intimacy.
+
+**❓ Tomorrow's Question** — If you discovered that your partner's ability to love you fully would depend entirely on knowing the one thing about yourself you've been most afraid to reveal, what would that thing be, and what does your fear of sharing it reveal about whether you believe love is conditional on being perfect or strengthened by being real?`,
+    parable: `Dove sat in Nana Rose's sunlit office, fidgeting with her engagement ring as late afternoon shadows stretched across the hardwood floor. "I keep having this terrible thought," she confessed, her voice barely above a whisper. "What if Elm doesn't really know me? What if I've been... performing this whole time?"
+
+Nana Rose set down her tea cup with the gentle precision of someone who had heard this confession in countless variations. "Tell me about the performing, dear one."
+
+"I always agree when he wants to go hiking, but I actually prefer staying home with books. I laugh at his engineering jokes even when I don't understand them. I've never told him how much I worry about money, or how sometimes I feel overwhelmed by his family's expectations." Dove's words tumbled out like water through a broken dam. "I've been so afraid of not being enough that I became someone else entirely."
+
+Just then, Elm appeared in the doorway, his face flushed from climbing three flights of stairs. "Sorry I'm late, the subway was—" He stopped mid-sentence, reading the weight in the room. "What's wrong?"
+
+Dove looked at Nana Rose, who nodded encouragingly. "I need to tell you something," Dove began, her heart hammering. "Actually, several somethings. And they might change how you see me."
+
+Elm settled into the chair beside her, his expression growing serious. "Okay. I'm listening."
+
+What followed was the most honest conversation of their relationship. Dove revealed her secret anxieties about their financial future, her introversion that she'd been masking with forced sociability, her occasional doubts about whether she was ready for marriage. To her amazement, Elm didn't recoil. Instead, he began sharing his own hidden truths—his fears about becoming like his workaholic father, his occasional need for complete solitude, his own moments of uncertainty about their timeline.
+
+Nana Rose watched this sacred unraveling with the satisfaction of someone who understood that real love requires real people. "This," she said softly, "is what I call pre-marital archaeology. You're excavating the foundations to see if they can support the weight of forever."
+
+As they walked home that evening, Dove felt simultaneously vulnerable and liberated. The person Elm was now choosing to marry wasn't a performance—it was her, completely and courageously revealed.
+
+**Moral:** Love cannot root in soil that isn't real; only truth creates the ground where authentic intimacy can grow.
+
+**Tomorrow:** Dove and Elm must decide what to do with their newfound honesty—and whether perfect understanding is possible or even necessary.`,
+  },
 ];

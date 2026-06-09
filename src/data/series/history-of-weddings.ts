@@ -1189,4 +1189,58 @@ Celeste stared at the photographs with new understanding. "So the wedding indust
 
 **Tomorrow:** Celeste discovers how modern couples are beginning to reclaim ancient practices, but questions whether commercialized 'wellness' represents authentic rediscovery or clever repackaging.`,
   },
+  {
+    day: 20,
+    title: "The Wisdom Market — When Ancient Knowledge Became Premium Products",
+    date: "2026-06-09",
+    image: "images/history-of-weddings/day-20.jpg",
+    audio: "audio/history-of-weddings/day-20",
+    sonnet: `**🪶 Sonnet XX: The Wisdom Market**
+
+What grandmothers gave through patient years of care
+Now sells in weekend workshops, neatly priced,
+The sacred arts of union, once so rare,
+Packaged like products, marketed and diced.
+
+The sage still cleanses, crystals still hold light,
+And ancient vows retain their binding force,
+But wisdom torn from relationship's sight
+Becomes a thing consumed, not lived discourse.
+
+Where elders walked beside through seasons long,
+Now coaches offer sessions by the hour,
+The knowledge real, but stripped of community's song,
+Authentic truth, but severed from its power.
+
+*Though wisdom markets thrive on what we've lost,*
+*The deepest teachings can't be bought—just tossed.*`,
+    standard: `💒 Day 20: The Wisdom Market — When Ancient Knowledge Became Premium Products
+
+The wellness industry represents both authentic rediscovery and sophisticated repackaging—genuine ancient practices are being recovered, but they're often stripped of their community context and sold as individual consumer experiences. What once required lifelong integration within supportive communities now gets condensed into weekend workshops and monthly subscriptions, creating a cycle where people buy temporary access to wisdom rather than building the relationships that sustained it.
+
+🧱 **The Concept**: Modern wedding wellness culture—from mindfulness ceremonies to spiritual officiants—repackages ancient marriage wisdom as premium products rather than community practices.
+
+❓ **Why It Matters**: This commodification transforms sacred marriage preparation from sustained community support into purchased services, fundamentally altering how couples approach their transition into married life. Instead of developing long-term relationships with mentors and elders, couples increasingly hire temporary guides who disappear after the ceremony.
+
+⚙️ **How It Works**: Ancient cultures embedded marriage preparation within ongoing community relationships—elderly couples mentored young ones, religious leaders provided years of guidance, and extended families offered continuous support. Modern couples instead purchase pre-marital counseling sessions, hire spiritual wedding planners, book couples retreats, and attend marriage preparation workshops. While these services often contain genuine wisdom, they're delivered as transactions rather than relationships. A weekend retreat might teach communication techniques that traditionally took months of community observation to learn, and spiritual officiants offer ceremony designs that once emerged organically from deep knowledge of the couple's journey. The wisdom itself may be authentic, but its delivery mechanism has shifted from sustained relationship to purchased experience.
+
+🎯 **Wedding History Wisdom**: The packaging of marriage wisdom as products rather than relationships reveals how market forces reshape even our most sacred transitions.
+
+❓ **Tomorrow's Question**: If the commodification of wedding wisdom has created a generation of couples who know techniques but lack mentors, what does this suggest about whether the rising demand for marriage advice, relationship therapy, and divorce mediation represents the natural consequence of treating life's most important transition as a market transaction rather than a community investment?`,
+    parable: `Celeste found Elder Maren arranging crystals and sage bundles in what looked suspiciously like a wellness boutique display. "I thought you might judge me for this," Celeste admitted, "but I've been booking sessions with spiritual wedding planners, couples coaches, even a retreat focused on 'sacred union preparation.'" She gestured at her phone, filled with appointments. "Is this real wisdom, or am I just buying what communities used to give freely?"
+
+Elder Maren smiled knowingly. "Both, dear child. Watch." She picked up a beautifully packaged sage bundle. "This plant carries the same purifying properties your great-grandmother's sage carried. The wisdom is authentic—sage still cleanses space, meditation still calms minds, ancient blessing rituals still hold power." She paused, turning the expensive bundle in her hands. "But your great-grandmother's sage came from her own garden, blessed by her own hands, shared within relationships built over decades."
+
+"So I'm buying real wisdom, just... differently?"
+
+"You're buying access to wisdom that once came through belonging," Maren replied gently. "Your spiritual wedding planner might teach you a beautiful Celtic handfasting ritual—but she won't be there when you need guidance six months into marriage. Your couples retreat might give you powerful communication tools—but the retreat leaders won't know your personal struggles or family history. The techniques are often genuine recoveries of ancient practices, but they're delivered as products rather than relationships."
+
+Celeste looked at her appointment calendar with new eyes. "No wonder I feel like I'm collecting experiences instead of building connections."
+
+"The market has learned to package what community once provided freely," Maren observed. "The irony is that many of these modern teachers genuinely want to serve—they're often trying to bridge the gap that market forces created in the first place."
+
+**Moral**: Authentic wisdom can survive commercialization, but its transformative power depends on the relationships that sustain it, not the transactions that deliver it.
+
+**Tomorrow**: Celeste begins to understand why purchased wisdom often feels hollow compared to inherited knowledge...`,
+  },
 ];

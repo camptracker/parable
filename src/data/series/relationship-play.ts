@@ -2198,4 +2198,74 @@ Later, without anyone asking, River returned with sugar, honey, and fresh mint�
 
 **Tomorrow:** We'll explore why couples often ration their praise, saving their best appreciation for special occasions rather than recognizing it as the daily nourishment that makes extraordinary love possible.`,
   },
+  {
+    day: 36,
+    title: "The Investment Reversal",
+    date: "2026-06-09",
+    image: "images/relationship-play/day-36.jpg",
+    audio: "audio/relationship-play/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Investment Reversal**
+
+When lovers hoard their praise like precious gold,
+Awaiting perfect change before they spend,
+They starve the very growth they wish to mold,
+And wonder why their beloved won't transcend.
+
+But those who pour appreciation free
+Before the transformation is complete,
+Discover how their generosity
+Makes every small attempt feel like defeat
+
+Transformed to victory through loving eyes
+That see potential blooming in each try.
+The heart that's celebrated as it tries
+Finds courage to reach ever toward the sky.
+
+*For change grows best in appreciation's light—*
+*Love's investment makes the future bright.*`,
+    standard: `🎮 Day 36: The Investment Reversal
+
+Couples withhold praise because they unconsciously treat appreciation like a limited currency that must be earned through completed achievements rather than recognizing it as renewable energy that fuels the very transformation they seek. This backwards investment strategy—demanding results before providing the emotional resources that make change possible—reflects a scarcity mindset that treats love like a transaction rather than a creative collaboration.
+
+**The Concept**
+The Investment Reversal transforms relationships by front-loading appreciation and celebration, creating emotional abundance that naturally inspires growth rather than demanding change from a place of emotional poverty.
+
+**Why It Matters**
+When we appreciate our partner's efforts and intentions before seeing complete transformation, we create psychological safety that makes risk-taking feel possible. Most people resist change when they feel criticized or insufficient, but flourish when they feel valued and supported throughout the messy process of becoming.
+
+**How It Works**
+Instead of saying "I'll appreciate you more when you're more organized," try "I love watching you experiment with new systems—your willingness to try different approaches inspires me." Rather than waiting for perfect communication skills, celebrate small attempts: "Thank you for pausing to think before responding—I can feel how much care you put into choosing your words." When your partner takes emotional risks, acknowledge the courage it required: "It must have been vulnerable to share that with me—I'm honored by your trust." This approach creates an upward spiral where appreciation fuels effort, effort builds confidence, and confidence enables further growth.
+
+**Playful Connection Wisdom**
+Investment reversal means believing so deeply in your partner's potential that you celebrate the journey as enthusiastically as the destination.
+
+**Tomorrow's Question** — If celebrating our partner's growing edges and emerging strengths creates momentum for positive change, why do so many couples unconsciously focus their attention and energy on documenting what's wrong or missing rather than amplifying what's working and emerging, essentially becoming archaeologists of problems instead of gardeners of possibility?`,
+    parable: `Quinn found River organizing the closet—again. Clothes lay in neat piles, a measuring tape stretched across shelves, and three different organizing systems competed for space. It was River's fourth attempt this month, and Quinn felt the familiar twinge of frustration.
+
+"They'll give up by tomorrow," Quinn muttered, heading to Elder Joy's garden where the old counselor was transplanting seedlings.
+
+"Ah," Elder Joy smiled, "the investment reversal strikes again."
+
+"The what?"
+
+"You're withholding your appreciation until River succeeds, yes? Like paying a contractor only after the house is completely finished—but expecting them to work without materials."
+
+Quinn frowned. "I don't want to encourage something that won't last."
+
+Elder Joy held up a tender seedling. "Should I withhold water and sunlight until this becomes a mighty oak? Or does the oak grow because of consistent nourishment during the vulnerable stages?"
+
+That evening, Quinn found River still wrestling with the closet system. Instead of eye-rolling, Quinn knelt beside them. "I love watching your brain work through problems. You never give up—you just keep refining until you find what works."
+
+River looked up, surprised. "Really? Even though I keep changing systems?"
+
+"Especially because you keep changing systems. You're not afraid to experiment. That's amazing."
+
+Something shifted in River's posture—a straightening, a brightening. Within days, they'd not only organized the closet but had begun tackling the garage with renewed enthusiasm.
+
+Elder Joy chuckled when Quinn reported back. "Appreciation is like morning sun on a garden—it doesn't guarantee every plant will thrive, but it creates the conditions where growth becomes natural and joyful."
+
+**Moral:** The seeds of transformation are watered by present appreciation, not future rewards.
+
+**Tomorrow:** Quinn and River discover that focusing on problems versus possibilities creates entirely different relationship realities...`,
+  },
 ];
