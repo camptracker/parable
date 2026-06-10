@@ -1243,4 +1243,64 @@ Celeste looked at her appointment calendar with new eyes. "No wonder I feel like
 
 **Tomorrow**: Celeste begins to understand why purchased wisdom often feels hollow compared to inherited knowledge...`,
   },
+  {
+    day: 21,
+    title: "The Sacred Marketplace — When Wisdom Became Commodity",
+    date: "2026-06-10",
+    image: "images/history-of-weddings/day-21.jpg",
+    audio: "audio/history-of-weddings/day-21",
+    sonnet: `**🪶 Sonnet XXI: The Sacred Marketplace**
+
+What once flowed freely from grandmother's tongue
+Now bears a price tag, wisdom up for sale,
+The sacred songs that generations sung
+Repackaged in some guru's costly tale.
+
+The herbs that blessed unions in the field
+Become "artisanal botanicals" dear,
+While ancient rites that love was meant to yield
+Transform to products only wealth can hear.
+
+The river's teaching becomes bottled stream,
+The elder's gift a premium-priced course,
+As sacred knowledge serves commercial scheme
+And spiritual hunger drives market force.
+
+*Thus wisdom, once our common heritage shared,*
+*Becomes commodity for those who've fared.*`,
+    standard: `💒 Day 21: The Sacred Marketplace — When Wisdom Became Commodity
+
+🧱 **The Concept**
+What was once freely shared community knowledge has been repackaged and sold back to us as premium spiritual products.
+
+❓ **Why It Matters**
+The transformation of ancestral wisdom into consumer goods has created artificial scarcity around knowledge that communities once considered birthright. This shift reveals how modern culture profits from disconnection while appearing to offer reconnection.
+
+⚙️ **How It Works**
+Ancient marriage preparation involved elders freely sharing hard-won wisdom about partnership, conflict resolution, and life transitions. Today's wedding industry offers "relationship coaching packages" and "spiritual ceremony design" at premium prices for knowledge that grandmothers once passed down over kitchen tables. Meditation practices that monks taught freely become "mindfulness workshops" costing hundreds. Sacred herbs used in blessing ceremonies are sold as "artisanal wedding botanicals" at markup rates exceeding 1000%. The same community rituals that once bound generations together are now "curated experiences" available only to those who can afford them, creating artificial hierarchies of spiritual access.
+
+🎯 **Wedding History Wisdom**
+When wisdom becomes commodity, community becomes customer base, and the very knowledge meant to unite us becomes another way to divide us.
+
+❓ **Tomorrow's Question** — If the commercialization of ancient wisdom has created spiritual inequality where access to transformative knowledge depends on economic privilege rather than human need, what does this suggest about whether the rising popularity of "authentic" and "intentional" weddings represents genuine spiritual awakening or simply another luxury market for those wealthy enough to buy back what their ancestors received as birthright?`,
+    parable: `Celeste found Elder Maren in the monastery's ancient library, surrounded by scrolls and texts that seemed to pulse with accumulated centuries of human understanding. "I've been researching spiritual wedding ceremonies," Celeste began, "and I'm confused. Every 'authentic' option costs thousands of dollars. Tibetan singing bowls for $500, sage bundles for $50 each, handfasting cords blessed by Celtic priestesses for $200. How did spiritual wisdom become so expensive?"
+
+Elder Maren's weathered hands traced the spine of a leather-bound volume. "Come, child. Let me show you something." She opened a book of photographs from the 1920s, revealing images of wedding celebrations in various cultures. "See this grandmother here? She's teaching the bride how to brew the ceremonial tea that will bless the marriage. This elder is explaining the meaning of each flower in the bouquet. This wise woman is sharing the songs that have been sung at weddings for a thousand years."
+
+Celeste leaned closer, studying the intimate gatherings. "They look so... natural. So connected."
+
+"Because the wisdom flowed freely," Maren replied. "Knowledge was considered sacred precisely because it belonged to everyone. A grandmother would no more charge for teaching you about love than a river would charge for flowing to the sea." She turned to a modern magazine advertisement showing a $3,000 "Authentic Celtic Handfasting Experience." "But watch what happened. The same cord that grandmothers braided from hemp they grew in their gardens became a trademarked product. The same blessings that elders whispered freely became copyrighted ceremonies."
+
+"So the wellness industry didn't discover ancient wisdom," Celeste realized slowly. "It harvested it."
+
+"More than that," Maren said, her voice heavy with centuries of observation. "It created artificial scarcity around what was once abundant. Now couples believe they need to purchase spiritual authenticity, when their own grandmothers possessed more transformative wisdom than any expensive retreat could provide."
+
+Celeste felt a chill of recognition. "We've been convinced to buy back our own inheritance."
+
+Elder Maren nodded solemnly. "And in the process, we've forgotten that the most powerful magic was never the objects or ceremonies themselves, but the loving intention of the community that freely shared them."
+
+**Moral**: When we commodify the sacred, we lose not just access to wisdom, but understanding of its true source—the generous hearts that share it freely.
+
+*Tomorrow, Celeste will discover how this spiritual marketplace creates new forms of inequality that determine who gets access to transformative experiences.*`,
+  },
 ];

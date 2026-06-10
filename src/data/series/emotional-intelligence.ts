@@ -6549,4 +6549,69 @@ Watching his reflection fragment and reform in the flowing stream, Idris began t
 
 **Tomorrow:** But what happens when this natural wisdom encounters the distortions of past wounds?`,
   },
+  {
+    day: 97,
+    title: "The Wounded Healer's Body",
+    date: "2026-06-10",
+    image: "images/emotional-intelligence/day-97.jpg",
+    audio: "audio/emotional-intelligence/day-97",
+    sonnet: `**🪶 Sonnet XCVII: The Wounded Healer's Body**
+
+The frightened heart that pounds in moments dire
+Was once a guardian, fierce and wise and true,
+That learned to shield us from the burning fire
+Of wounds that threatened all we thought we knew.
+
+The trembling hands, the breath that comes too fast,
+The voice that breaks when safety feels at stake—
+These aren't our failures, but our noble past
+Speaking protection for our future's sake.
+
+Each conditioned response, each triggered fear
+Contains the memory of love's fierce defense,
+A body's wisdom, ancient and severe,
+That kept our tender hearts from violence.
+
+*To heal is not to silence what we've learned,*
+*But love the guards until their gifts are earned.*`,
+    standard: `🧭 Day 97: The Wounded Healer's Body
+
+The distinction between natural wisdom and conditioned patterns lies not in the content of our responses, but in the quality of awareness witnessing them. True body wisdom includes the capacity to hold both our instinctual knowing and our learned protective strategies with equal compassion, recognizing that even our trauma responses were once intelligent adaptations. The healing happens when we can feel our conditioned reactions without being consumed by them, allowing space for deeper wisdom to emerge through the very wounds that seem to block it.
+
+🧱 **The Concept**
+Our body's innate wisdom operates through our wounds as much as through our wholeness, transforming past conditioning into present-moment intelligence when met with conscious awareness.
+
+❓ **Why It Matters**
+We often try to bypass or override our conditioned responses in pursuit of "authentic" feeling, not realizing that our trauma patterns contain essential information about our survival intelligence. When we learn to listen to our wounded places with the same respect we give our healthy instincts, they become gateways to deeper emotional wisdom rather than obstacles to overcome.
+
+⚙️ **How It Works**
+A triggered response—rapid heartbeat, shallow breathing, defensive posturing—initially appears as interference with our natural state. But conscious attention reveals layers: the immediate physiological reaction, the historical memory it carries, the protective intention behind it, and beneath all that, the original wholeness that learned to defend itself. Instead of fighting the trigger or surrendering to it, we can hold it with curious compassion: "What is this pattern trying to protect? What wisdom is hidden in this reactivity?" This doesn't mean indulging harmful responses, but rather feeling into the intelligence that created them. A person who freezes in conflict isn't broken—they're accessing a survival strategy that once preserved their safety. When we honor this intelligence while gently expanding our range of responses, the body begins to update its protective patterns naturally.
+
+🎯 **EQ Wisdom**
+The wounded healer's body teaches us that emotional mastery isn't about transcending our conditioning, but about loving our way through it until even our most defended places become sources of wisdom.
+
+❓ **Tomorrow's Question**
+If we can learn to love our conditioned responses as intelligent adaptations rather than emotional failures, what happens when this same compassionate attention reveals that our very desire to "heal" or "evolve" might itself be another protective pattern avoiding the radical acceptance of what's actually here—and how do we distinguish between genuine healing and the ego's sophisticated project of self-improvement disguised as spiritual growth?`,
+    parable: `Idris sat in The Veil's garden, his body rigid with frustration. "I've been practicing everything you've taught me," he said through gritted teeth. "But yesterday, when that minister questioned my competence in front of the entire council, I felt my chest tighten, my vision narrow, my voice rise. All my training disappeared. I became that angry child again."
+
+The Veil's mask remained perfectly still. "And what makes you believe this angry child is separate from your wisdom?"
+
+"Because—" Idris stopped, his automatic defense crumbling. "Because anger means I've failed. It means I'm not evolved enough."
+
+"Ah," The Veil said softly. "And who decided that the child who learned to fight for his dignity was unwise?"
+
+Idris felt something shift. The Veil continued, "This angry child—did he appear randomly, or was he responding to a real threat to your standing?"
+
+"He was... protecting me," Idris admitted slowly. "He always has."
+
+"Then perhaps," The Veil suggested, "the question is not how to silence this protector, but how to honor his intelligence while expanding his repertoire?"
+
+Idris placed his hand on his chest, feeling the familiar tightness there. But instead of pushing it away, he breathed into it. "You've served me well," he whispered to the sensation. "Thank you for keeping me safe. What else might be possible now?"
+
+The tightness didn't disappear—but something in it softened, as if an ancient guard had finally been acknowledged for his faithful service.
+
+**Moral:** *The body's wounded responses are not obstacles to wisdom but expressions of it, carrying intelligence that heals when met with compassionate recognition.*
+
+**Tomorrow:** *Idris will discover that his very quest for emotional healing might be another form of the protection he's learning to understand.*`,
+  },
 ];

@@ -6336,4 +6336,68 @@ Days passed, and Ren noticed how Vasska began to wear his martyrdom like a crown
 
 *Tomorrow, young merchant, we shall learn what happens when martyrs discover they are not the only ones worthy of sacrifice...*`,
   },
+  {
+    day: 99,
+    title: "The Glory Redistribution",
+    date: "2026-06-10",
+    image: "images/negotiation/day-99.jpg",
+    audio: "audio/negotiation/day-99",
+    sonnet: `**🪶 Sonnet XCIX: The Glory Redistribution**
+
+When martyrs clutch their suffering like gold,
+And hoard their noble burdens all alone,
+Suggest that others too deserve to hold
+The sacred weight that makes true strength be known.
+
+The selfish saint who guards his pain with pride
+Will sudden seek to share his hallowed cross,
+For none can bear to keep grace locked inside
+When told their hoarding brings another's loss.
+
+Thus individual resistance turns to zeal,
+As lonely sufferers become your choir,
+Each seeking others who might also feel
+The blessed burn of sacrificial fire.
+
+*What single martyr held becomes a flood,*
+*When glory shared flows thicker than lone blood.*`,
+    standard: `🤝 Day 99: The Glory Redistribution
+
+When you make someone feel their martyrdom is selfish hoarding of moral glory, they immediately seek to share that burden with others, transforming from lone sufferer into generous distributor of meaningful sacrifice. This redistribution impulse makes them eager to involve others in your cause, effectively turning your single negotiation into a movement.
+
+🧱 **The Concept**
+People who see themselves as martyrs can be compelled to "share the glory" by making others into co-martyrs for your cause.
+
+❓ **Why It Matters**
+Martyr complexes contain an inherent selfishness — the belief that one's suffering is uniquely meaningful. When you reframe this as hoarding, martyrs become desperate to prove their generosity by distributing the sacred burden. This transforms individual resistance into collective momentum.
+
+⚙️ **How It Works**
+Start by acknowledging their sacrifice, then suggest others deserve the same opportunity for meaningful suffering. "You've carried this burden alone, but think about Sarah — doesn't she deserve the chance to prove herself too?" Watch them immediately begin recruiting others to share their noble struggle. A CEO who sees himself as martyred by difficult decisions will suddenly want to "develop" other executives by giving them similar burdens. A parent who prides themselves on sacrifice will insist their children learn the same values through equivalent hardship. They transform from obstacle into evangelist, expanding your influence exponentially.
+
+🎯 **Negotiation Wisdom**
+Turn individual martyrs into movement leaders by making them feel generous rather than special.
+
+❓ **Tomorrow's Question** — If making martyrs share their glory transforms them into recruiters for your cause, what happens when you make someone feel like they're not worthy of joining the other martyrs — that their character isn't strong enough to handle the same sacred burden others carry so gracefully?`,
+    parable: `The morning sun cast long shadows across the marketplace as Ren watched Vasska approach the merchant guild's most notorious figure — Korrath the Iron-Willed, a man who wore his business struggles like badges of honor. Korrath had built his reputation on enduring hardships others couldn't bear, always speaking of the "noble burden" of leadership.
+
+"Your sacrifices are legendary," Vasska began, his blind eye gleaming with calculation. "But I wonder... don't you think others deserve the same chance at greatness?"
+
+Korrath's chest swelled with pride. "Few have the strength for such burdens."
+
+"Precisely my concern," Vasska replied softly. "Take young Marcus there — brilliant potential, but he'll never develop true character without facing real adversity. And Elena — she speaks of courage, but has she ever truly been tested? You've been so strong, so capable of bearing these weights alone... perhaps too generous in protecting others from the very struggles that forged your excellence."
+
+A shadow crossed Korrath's face. "You think I've been... selfish?"
+
+"Not selfish," Vasska corrected. "Protective. But protection can become a form of hoarding, can't it? Keeping all the meaningful challenges for yourself while others remain... undeveloped."
+
+Within the hour, Korrath was enthusiastically recruiting guild members for Vasska's most demanding venture, insisting they needed to "grow through adversity" just as he had. Each recruit he brought made him feel more generous, more noble — a distributor of sacred hardship rather than a hoarder of suffering.
+
+Ren marveled as he watched. "He's doing your recruiting for you."
+
+"The greatest martyrs," Vasska murmured, "are those who create other martyrs. They cannot bear to suffer alone once they believe their suffering serves a higher purpose."
+
+**Moral**: *Those who hoard glory become generous when made to feel selfish; transform individual sacrifice into collective mission.*
+
+*Tomorrow, we discover what happens when someone feels unworthy of joining the sacred circle of burden-bearers...*`,
+  },
 ];

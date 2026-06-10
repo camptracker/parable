@@ -6092,4 +6092,74 @@ Greymane, observing from the dock, nodded knowingly. The young captain had learn
 
 **Tomorrow**: Tova discovers that her greatest victories come not from directing every detail, but from stepping back when stakes are highest...`,
   },
+  {
+    day: 97,
+    title: "The Calculus of Release",
+    date: "2026-06-10",
+    image: "images/leadership/day-97.jpg",
+    audio: "audio/leadership/day-97",
+    sonnet: `**🪶 Sonnet XCVII: The Calculus of Release**
+
+When captains clutch the wheel with fearful hands,
+Their sailors never learn to read the stars,
+But those who trust their crew to sail the strands
+Create new navigators free from bars.
+
+The hardest math that leaders ever face:
+To calculate when presence becomes weight,
+When guiding turns to shadow and their grace
+Becomes the very thing that seals team fate.
+
+For in the stepping back, space opens wide
+Where confidence can grow and wisdom bloom,
+And those we've trained no longer need to hide
+Behind our expertise that fills the room.
+
+*True mastery lies not in what we do,*
+*But knowing when to trust and step right through.*`,
+    standard: `👥 Day 97: The Calculus of Release
+
+This pattern reveals that your greatest leadership impact often comes not from what you do, but from what you choose not to do. When you step back from control, you create space for others to step into their full capability, and your faith in their judgment becomes the catalyst that transforms potential into performance.
+
+🧱 **The Concept**
+True leadership mastery lies in knowing when to hold on and when to let go—understanding that your greatest act of influence might be your deliberate absence from the equation.
+
+❓ **Why It Matters**
+Leaders often mistake involvement for value-add, not realizing that their constant presence can create invisible ceilings on their team's growth. The courage to release control at critical moments isn't abandonment—it's the highest form of trust-based leadership that allows others to discover capabilities they didn't know they possessed.
+
+⚙️ **How It Works**
+This calculus requires distinguishing between situations that need your expertise and situations that need your absence. When a team member asks for direction on a project they're capable of handling, resist the urge to provide detailed guidance and instead ask, "What would you do if I weren't here to advise you?" During high-stakes decisions, identify whether your involvement adds genuine value or simply provides you comfort. Create "release points" where you deliberately step back and communicate your confidence in their judgment. The key is making your withdrawal feel like a gift of trust rather than abandonment—saying "I believe in your capability to handle this" rather than simply disappearing.
+
+🎯 **Leadership Wisdom**
+The greatest leaders are remembered not for the decisions they made, but for the decision-makers they created by knowing when to step aside.
+
+❓ **Tomorrow's Question** — If you discovered that your most confident team members were actually over-functioning in areas where others should be developing, and that their competence was inadvertently preventing the growth of emerging leaders, how would this change your approach to distributing opportunities and responsibilities across your team?`,
+    parable: `The storm had been building for hours when Tova found herself pacing the command deck, her hands gripping the rail as she watched her crew prepare for the tempest. Every instinct screamed at her to intervene—to adjust the sail angles herself, to bark orders about rope tensions, to position each sailor personally.
+
+"You're calculating," Greymane observed quietly, appearing beside her like a shadow.
+
+"Calculating what?" Tova didn't take her eyes off her crew.
+
+"Whether to trust or to control. I can see it in your stance—you're measuring the distance between your fear and their capability." He gestured toward the deck where her sailors moved with practiced precision. "What do you see when you watch them work?"
+
+Tova paused, really looking this time. Her quartermaster was directing the younger crew with calm authority. The navigator was already adjusting course based on wind patterns she herself hadn't noticed. The boatswain was coordinating sail changes with wordless efficiency.
+
+"I see... competence," she admitted reluctantly.
+
+"And yet you're poised to dive in and take over the moment something appears to go wrong," Greymane noted. "Do you know what happens when a captain constantly hovers over capable hands?"
+
+Tova shook her head.
+
+"The hands forget they're capable. They begin to wait for instruction instead of acting on knowledge. They start looking to you for approval instead of trusting their own expertise." He pointed to a section of rigging where two sailors were working in perfect synchronization. "Those two developed that rhythm when their previous captain was laid up with fever for three weeks. They had to figure it out themselves, and now they're the finest rigging team I've ever seen."
+
+As if to prove his point, a sudden gust of wind required immediate action. Tova tensed, ready to shout orders, but stopped herself. Her crew responded instantly—no hesitation, no confusion, just fluid expertise born from months of training and growing confidence.
+
+The storm passed, and the ship sailed smoothly through calmer waters. Tova had given only three direct orders the entire night, and each time she'd spoken, it was to ask a question rather than provide an answer.
+
+"The hardest calculation in leadership," Greymane said as they watched the dawn break, "is learning when your absence becomes their presence."
+
+**Moral:** The greatest act of leadership is sometimes the deliberate choice not to lead, trusting that your investment in others has prepared them for moments when they must stand on their own.
+
+*Tomorrow, Greymane will reveal how even our most capable team members can become obstacles to others' growth...*`,
+  },
 ];

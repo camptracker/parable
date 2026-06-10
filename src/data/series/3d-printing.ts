@@ -5239,4 +5239,68 @@ Finn felt the weight of understanding settle on his shoulders. "So we're not jus
 
 **Tomorrow:** But what happens when the very process of choosing becomes the target of optimization?`,
   },
+  {
+    day: 89,
+    title: "The Bias Mirror",
+    date: "2026-06-10",
+    image: "images/3d-printing/day-89.jpg",
+    audio: "audio/3d-printing/day-89",
+    sonnet: `**🪶 Sonnet LXXXIX: The Bias Mirror**
+
+Within the glass that shows not flesh but thought,
+The maker sees what draws the seeking eye—
+How green lights pulse when pattern-comfort's caught,
+How blue waves dance when experts testify.
+
+The mirror holds no judgment, makes no claim,
+But shows the hidden currents of the mind,
+Reveals how scarcity can fan desire's flame,
+How authority can leave clear sight behind.
+
+Not wrong these shortcuts that our thinking takes,
+Evolved for speed when choice must swift be made,
+Yet conscious craft demands we see what makes
+Our judgment lean where influence is played.
+
+*The clearest choice emerges from the light*
+*When bias shows itself in mirror's sight.*`,
+    standard: `🖨️ Day 89: The Bias Mirror
+
+When decision-making itself becomes optimized, we need bias mirrors—systems that reflect our cognitive patterns back to us in real-time, helping us recognize when explanations feel compelling because they match our preferences rather than because they accurately represent reality. True informed consent requires not just understanding the innovation, but understanding why we find the explanation convincing.
+
+🧱 **The Concept**
+Bias mirrors are diagnostic systems that reveal the psychological mechanisms being activated in our decision-making process, distinguishing between rational evaluation and emotional manipulation.
+
+❓ **Why It Matters**
+Our cognitive biases evolved to help us make quick decisions with limited information, but sophisticated systems can exploit these shortcuts to manufacture consent. When our decision-making process becomes predictable, it becomes vulnerable to influence that feels like choice but operates more like programming.
+
+⚙️ **How It Works**
+Bias mirrors track not just what we decide but how we decide—monitoring patterns like confirmation seeking, authority deference, loss aversion triggers, and social proof activation. They might reveal that we approved a design because it reminded us of childhood toys (nostalgia bias), or because the presentation emphasized rare materials (scarcity bias), or because multiple experts agreed (bandwagon effect). The mirror doesn't judge these influences but makes them visible, asking questions like "Would you still approve this innovation if the presentation emphasized different aspects?" or "How does your evaluation change if you imagine explaining your decision to someone who disagrees with you?" Most importantly, bias mirrors help us distinguish between explanations that genuinely increase our understanding and those that simply make us more comfortable with our ignorance.
+
+🎯 **Maker Wisdom**
+Real choice requires seeing not just what we're choosing, but why we want to choose it.
+
+❓ **Tomorrow's Question** — If bias mirrors successfully help us distinguish between genuine understanding and comfortable ignorance in our decision-making, what happens when we discover that our most profound creative insights emerge precisely from the intersection of bias and intuition—and how do we preserve the creative power of unconscious pattern recognition while maintaining conscious agency over our choices?`,
+    parable: `Finn entered Orna's workshop to find her standing before an unusual mirror—one that seemed to shimmer with an inner light, its surface rippling like liquid mercury despite being solid to the touch.
+
+"What does it show?" Finn asked, approaching cautiously.
+
+"Not what you look like," Orna replied, "but why you see what you see." She gestured for him to step closer. "Look at this design I've been considering—a new kind of joint that promises to revolutionize mechanical connections."
+
+As Finn examined the blueprints, the mirror began to glow with different colors. Soft green light pulsed as his eyes lingered on familiar engineering patterns. Blue waves rippled when he read testimonials from respected fabricators. Red flashes appeared as he noted the limited-time offer for early adopters.
+
+"The mirror shows your mind at work," Orna explained. "Green for pattern recognition—you're drawn to designs that remind you of solutions you've seen before. Blue for authority bias—you trust it more because experts endorsed it. Red for scarcity pressure—you feel urgency because availability is limited."
+
+Finn watched the colored lights dance across the mirror's surface. "But are these biases wrong? Pattern recognition helps me learn, expert opinions matter, and rare opportunities shouldn't be missed."
+
+"The mirror doesn't judge," Orna said gently. "It simply reveals. Look again at the design, but this time ask yourself: would you still find it compelling if it looked completely unfamiliar, if unknown makers had created it, and if it were always available?"
+
+As Finn re-examined the blueprints with these questions in mind, the mirror's surface cleared. Now he could see both the design's genuine innovations and the psychological packaging that had made them irresistible.
+
+"The most sophisticated influence," Orna noted, "doesn't feel like influence at all. It feels like your own perfectly rational choice."
+
+**Moral:** True decision-making requires seeing not just the options before us, but the invisible forces shaping how we evaluate them.
+
+*Tomorrow, Finn will discover that his most creative moments occur precisely when conscious analysis and unconscious intuition dance together—but how can he preserve this creative partnership while maintaining agency over his choices?*`,
+  },
 ];

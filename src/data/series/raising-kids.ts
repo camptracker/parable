@@ -1984,4 +1984,68 @@ The boy ran off to deliver his gift, his face glowing with purpose. "But what ab
 
 *Tomorrow, Elder Mira will show Asha why the most important skill we can teach our children isn't finding the right answers, but asking the right questions...*`,
   },
+  {
+    day: 33,
+    title: "The Wisdom of Waiting",
+    date: "2026-06-10",
+    image: "images/raising-kids/day-33.jpg",
+    audio: "audio/raising-kids/day-33",
+    sonnet: `**🪶 Sonnet XXXIII: The Wisdom of Waiting**
+
+When struggles mount and children strain to grow,
+Our eager hands reach out to smooth their way,
+But wisdom whispers we should move more slow—
+Let patience be our guide throughout the day.
+
+The butterfly must break its chrysalis,
+No helping hand can make the wings unfurl,
+For in that sacred space of genesis
+The strength is born that makes the creature whirl.
+
+So when our little ones face their small trials,
+Our love is shown not in our quick repair,
+But in our faith expressed through gentle smiles—
+That they possess the power to meet despair.
+
+*For in the waiting, trust and strength are sown,*
+*And children learn that they can stand alone.*`,
+    standard: `👶 Day 33: The Wisdom of Waiting
+
+🧱 **The Concept**
+Parenting often requires us to resist the urge to fix, solve, or intervene immediately, trusting instead in the power of patient observation and allowing natural processes to unfold.
+
+❓ **Why It Matters**
+Our impulse to quickly resolve our children's struggles can rob them of the satisfaction of working through challenges themselves. The discomfort we feel watching them struggle is often more about our own anxiety than their actual need for rescue.
+
+⚙️ **How It Works**
+When a child struggles with a puzzle, our first instinct might be to show them the solution or offer hints, but waiting allows them to experience the full journey from confusion to clarity. When they're having a conflict with a friend, we might want to call the other parent or coach them on what to say, but stepping back lets them practice their own social navigation skills. When they're frustrated with homework, we might jump in with explanations, but allowing them to sit with the difficulty first helps them develop tolerance for not knowing and the persistence to work through challenges. This waiting isn't passive—it's an active choice to trust their capability while remaining emotionally available for support when truly needed.
+
+🎯 **Parenting Wisdom**
+The deepest gift we can give our children is our faith in their ability to figure things out, demonstrated through our willingness to wait and watch rather than rush to rescue.
+
+❓ **Tomorrow's Question** — If we want children to develop problem-solving skills and creative thinking, why do we often feel compelled to provide them with structured activities and predetermined outcomes rather than trusting them to create their own meaningful experiences from simple materials and open time?`,
+    parable: `Asha watched her three-year-old son struggle with his shoelaces for the fourth morning in a row, his small fingers fumbling with the loops as his frustration mounted. Her hands twitched, ready to kneel down and tie them quickly so they could leave for daycare on time.
+
+"He's going to have a meltdown," she whispered to Elder Mira, who was visiting for the week. "We'll be late again."
+
+Elder Mira settled into her chair, her weathered hands folded peacefully. "And what would happen if you were late?"
+
+"Well, I... the teachers will think I'm disorganized. And he'll miss circle time." Asha's voice carried the weight of modern parenting anxiety.
+
+"Ah," Mira nodded knowingly. "So your rushing is about their judgment of you, not about his learning."
+
+Asha paused, watching her son take a deep breath and try again, his tongue poking out in concentration. "But he's getting so frustrated."
+
+"Yes," Mira said softly. "Frustration is the space between not knowing and knowing. It's where growth lives. When you tie his shoes, you rob him of the moment when his fingers remember the pattern, when his brain makes the connection, when he feels the deep satisfaction of mastering something difficult."
+
+As if summoned by her words, the little boy suddenly squealed with delight. "I did it! Mama, I did it!" His face radiated pure triumph—not the hollow praise of adult approval, but the genuine joy of personal accomplishment.
+
+Asha felt tears spring to her eyes. "I almost took that away from him," she whispered.
+
+"The hardest part of parenting," Mira said, "is learning that love sometimes looks like doing nothing at all."
+
+**Moral:** True patience is not passive waiting, but active faith in another's capacity to grow.
+
+*Tomorrow, Asha will discover why her impulse to fill every moment with structured learning might be crowding out something far more valuable...*`,
+  },
 ];

@@ -5803,4 +5803,76 @@ As they walked home that evening, Dove felt simultaneously vulnerable and libera
 
 **Tomorrow:** Dove and Elm must decide what to do with their newfound honesty—and whether perfect understanding is possible or even necessary.`,
   },
+  {
+    day: 94,
+    title: "The Sacred Revelation",
+    date: "2026-06-10",
+    image: "images/wedding-planning/day-94.jpg",
+    audio: "audio/wedding-planning/day-94",
+    sonnet: `**🪶 Sonnet XCIV: The Sacred Revelation**
+
+In shadows deep where secret longings dwell,
+Lie tender dreams we dare not speak aloud,
+The fears and hopes we've guarded far too well,
+Beneath protective walls of silence proud.
+
+Yet love's true garden cannot bloom in shade,
+Nor intimacy grow from curated show,
+The parts of self we've carefully displayed
+Are but the surface of what hearts can know.
+
+When courage breaks the seals of hidden rooms,
+And truth spills forth like water from the deep,
+The very wounds we thought would spell our dooms
+Become the sacred ground where love takes keep.
+
+*For in revealing what we fear to tell,*
+*We find that broken hearts can love so well.*`,
+    standard: `💍 Day 94: The Sacred Revelation
+
+Most couples discover that their deepest fear isn't about revealing their flaws, but about sharing their truest dreams—the secret longings they've protected even from themselves. When we finally risk showing our partner the tender places where we've been disappointed, the ambitions we've been ashamed to voice, or the grief we've carried alone, we learn that love isn't weakened by our complexity but awakened by it. The very vulnerabilities we thought would drive love away become the sacred ground where intimacy actually grows.
+
+🧱 **The Concept**
+Marriage's deepest intimacy emerges not from sharing your strengths but from revealing the tender places where you've been wounded, disappointed, or afraid to hope.
+
+❓ **Why It Matters**
+We often spend so much energy managing our partner's impression of us that we never give them the chance to love our actual selves. True intimacy begins when we stop curating our presentation and start trusting our partner with our unedited reality. The parts of ourselves we're most afraid to reveal are often the very parts that, when shared, create the deepest bonds.
+
+⚙️ **How It Works**
+Sacred revelation happens in layers, not in single dramatic moments. You might start by sharing a childhood disappointment that still stings, then progress to admitting a current fear about your career, and eventually reveal the secret dream you've been afraid to pursue. Each vulnerable disclosure creates space for your partner to match your openness with their own. For example, instead of pretending you're confident about the wedding planning, you might share that you're actually terrified of disappointing your family, which gives your partner permission to admit their own fears about the financial pressure. These mutual revelations transform surface-level partnership into soul-level intimacy.
+
+🎯 **Wedding Wisdom**
+Your wedding ceremony will be most sacred when it celebrates not your perfection but your courage to be fully known and loved anyway.
+
+❓ **Tomorrow's Question** — If you discovered that every fear you've shared with your partner has actually deepened their love for you rather than diminished it, what would that teach you about the difference between being impressive and being irreplaceable?`,
+    parable: `**The Garden of Hidden Seeds**
+
+Dove sat in Nana Rose's garden, watching Elm tend to a patch of earth that looked barren to her untrained eye. "There's nothing growing there," she observed, but Elm smiled mysteriously and continued his gentle work.
+
+"Child," Nana Rose settled beside her with two cups of tea, "what do you think Elm sees that you don't?"
+
+"I don't know. Dead soil? Failed plants?"
+
+Nana Rose chuckled. "He sees seeds that were planted deep, waiting for the right moment to emerge. Some of the most beautiful flowers grow from bulbs that must spend months in darkness before they can bloom."
+
+Dove watched as Elm carefully watered the seemingly empty plot. "But how does he know there's anything there at all?"
+
+"Because he planted them himself, with great hope and patience. And because he's learned that the most precious growth often happens out of sight." Nana Rose's eyes twinkled. "Tell me, dear one, what seeds have you planted in the hidden places of your heart that you've been afraid to tell Elm about?"
+
+Dove's breath caught. "I... I've always wanted to write children's books. But it seems so foolish, so unlikely to succeed..."
+
+"And what do you think would happen if you shared this tender dream with the man you're about to marry?"
+
+Dove looked at Elm, still tending his invisible garden with such faith. "I'm afraid he'll think it's silly. That I'm not practical enough."
+
+Nana Rose stood and walked to a corner where tiny green shoots were just breaking through the soil. "These were once hidden too. But see how they've found their way to the light?"
+
+As if sensing their conversation, Elm looked up and smiled. "The daffodils are coming up early this year," he called. "I can't wait to see them bloom."
+
+"Sacred revelation," Nana Rose whispered to Dove, "is how love's garden truly grows."
+
+**Moral:** The dreams we're most afraid to share are often the ones most worthy of our beloved's tender care.
+
+*Tomorrow, we discover why vulnerability shared becomes intimacy multiplied.*`,
+  },
 ];

@@ -2268,4 +2268,72 @@ Elder Joy chuckled when Quinn reported back. "Appreciation is like morning sun o
 
 **Tomorrow:** Quinn and River discover that focusing on problems versus possibilities creates entirely different relationship realities...`,
   },
+  {
+    day: 37,
+    title: "The Detective vs. The Gardener",
+    date: "2026-06-10",
+    image: "images/relationship-play/day-37.jpg",
+    audio: "audio/relationship-play/day-37",
+    sonnet: `**🪶 Sonnet XXXVII: The Detective vs. The Gardener**
+
+With magnifying glass and careful pen,
+I catalogued each flaw and failing found,
+Built cases strong with evidence, and then
+Wondered why love withered, hope uncrowned.
+
+My partner felt observed, not truly seen,
+As I collected proof of what went wrong,
+A detective tracking crimes that might have been
+Instead of gardener helping love grow strong.
+
+But gardens bloom where sunlight gently falls,
+Where water feeds the roots of what could be,
+Not where the harsh investigator calls
+For evidence of every dying tree.
+
+*Attention is the light that makes love grow—*
+*So choose to shine on strength, not shadow's show.*`,
+    standard: `🎮 Day 37: The Detective vs. The Gardener
+
+We become archaeologists of problems because our brains are evolutionarily wired to scan for threats and catalog dangers as a survival mechanism. However, this protective instinct backfires in intimate relationships, where our partner's growth requires the nurturing attention of a gardener rather than the forensic analysis of a detective.
+
+🧱 **The Concept**
+The detective mindset searches for evidence of what's wrong, while the gardener mindset creates conditions for what could flourish.
+
+❓ **Why It Matters**
+Most couples unconsciously adopt detective behaviors—investigating problems, building cases, and collecting evidence of their partner's shortcomings. This investigative approach creates a defensive atmosphere where partners feel scrutinized rather than supported. Meanwhile, the gardener approach focuses on nurturing emerging strengths and creating fertile ground for growth.
+
+⚙️ **How It Works**
+The detective asks: "What did you do wrong? Why did this happen? How can we prevent this mistake?" The gardener asks: "What's working here? What wants to grow? How can we nurture this emerging strength?" For example, instead of cataloging every instance when your partner forgot to communicate their schedule (detective), notice and appreciate the times they proactively shared their plans (gardener). Instead of analyzing why intimacy feels disconnected (detective), celebrate the small moments when you feel genuinely close and explore what conditions created those experiences (gardener). The detective builds a case; the gardener builds a relationship.
+
+🎯 **Playful Connection Wisdom**
+Attention is like sunlight—whatever you focus on grows, so choose to illuminate your partner's emerging strengths rather than their familiar shadows.
+
+❓ **Tomorrow's Question** — If the gardener approach naturally creates more growth and intimacy than the detective approach, why do so many couples unconsciously resist giving up their investigative tools, holding onto the illusion that documenting problems will somehow solve them more effectively than nurturing solutions?`,
+    parable: `Quinn sat across from Elder Joy's office, a thick notebook filled with carefully documented grievances in their lap. "I've been tracking patterns," Quinn announced proudly, flipping through pages of detailed observations about River's habits. "Look—seventeen instances of dishes left undone, twelve times they forgot to call, eight occasions when they seemed distracted during conversations."
+
+Elder Joy smiled knowingly. "Ah, I see you've become quite the detective. Tell me, how does River respond when you present this evidence?"
+
+"They get defensive," Quinn admitted. "They say it feels like living under surveillance."
+
+"And yet you continue investigating?"
+
+Quinn's confidence wavered. "Well... how else will they learn? How else will things change?"
+
+Elder Joy gestured toward the window, where her garden bloomed in vibrant abundance. "Tell me, dear detective, what would happen to those flowers if instead of watering, sunlight, and rich soil, I spent my time documenting every withered leaf, cataloging each pest, building detailed cases about everything wrong with each plant?"
+
+The question hung in the air like morning mist.
+
+"But I do notice problems in the garden," Elder Joy continued, "and I address them. The difference is my primary attention goes to nurturing what wants to grow. I'm not a plant investigator—I'm a growth facilitator."
+
+Quinn looked down at the notebook, suddenly seeing it differently. "So when River does remember to call, or when they do the dishes without being asked, or when they're fully present in conversation..."
+
+"Your attention feeds growth," Elder Joy nodded. "The detective builds cases. The gardener builds relationships."
+
+As Quinn walked home, they noticed River tending to their small herb garden on the balcony, humming softly while watering the basil. For the first time in weeks, Quinn felt curiosity instead of judgment.
+
+**Moral:** *Attention is like water—it makes whatever receives it grow stronger.*
+
+**Tomorrow:** *When Elder Joy reveals why even gardeners sometimes secretly miss their detective badge...*`,
+  },
 ];
