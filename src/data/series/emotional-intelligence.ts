@@ -6614,4 +6614,70 @@ The tightness didn't disappear—but something in it softened, as if an ancient 
 
 **Tomorrow:** *Idris will discover that his very quest for emotional healing might be another form of the protection he's learning to understand.*`,
   },
+  {
+    day: 98,
+    title: "The Untreated Wound",
+    date: "2026-06-11",
+    image: "images/emotional-intelligence/day-98.jpg",
+    audio: "audio/emotional-intelligence/day-98",
+    sonnet: `**🪶 Sonnet XCVIII: The Untreated Wound**
+
+The scar that mars my palm will never fade,
+Though years of healing arts have passed it by;
+I thought that wholeness meant all marks would die,
+That peace required each broken place be stayed.
+
+But sitting with this tender, wounded pride,
+I find within its depths a stranger gift:
+The ache that will not heal, the persistent rift
+Becomes the doorway where love's light can hide.
+
+For in my trembling hand that knows the cost
+Of rage unleashed, of boundaries torn apart,
+I recognize when others fear they're lost,
+And offer shelter to each breaking heart.
+
+*The wound that teaches rather than destroys*
+*Transforms our deepest pain to sacred joys.*`,
+    standard: `🧭 Day 98: The Untreated Wound
+
+Genuine healing naturally dissolves the self-improvement project because authentic restoration happens to us, not by us—when the wound itself becomes our teacher rather than something we need to fix. The ego's spiritual improvement project maintains a subtle violence toward our brokenness, while true healing embraces our cracks as sacred openings where light enters.
+
+🧱 **The Concept**
+Our deepest emotional wounds often contain our greatest gifts, but only when we stop treating them as problems to be solved and start receiving them as gateways to compassion.
+
+❓ **Why It Matters**
+Most emotional intelligence approaches focus on managing or transcending difficult feelings, but this can inadvertently create a war against our own tender places. When we learn to tend our wounds with the same reverence we'd show a sacred site, they begin teaching us wisdom we couldn't access any other way.
+
+⚙️ **How It Works**
+Instead of trying to heal our childhood abandonment, we learn to sit with the part of us that still feels left behind, discovering that this tender child-self has an exquisite sensitivity to when others feel alone. Rather than fixing our social anxiety, we recognize it as a finely tuned instrument that detects authentic connection versus performance in every interaction. The places where we've been broken become the places where we can meet others' brokenness with profound understanding. Our greatest emotional wounds transform from obstacles into doorways when we stop medicating them and start honoring them as sacred teachers.
+
+🎯 **EQ Wisdom**
+The wound that won't heal is often the gift that's trying to give itself through us.
+
+❓ **Tomorrow's Question** — If our deepest wounds can become our greatest sources of wisdom and compassion, what happens when we realize that our attempts to "integrate" or "work through" these sacred injuries might actually be preventing them from fully flowering into the gifts they're meant to become—and how do we distinguish between psychological healing that serves wholeness and therapeutic processing that keeps us trapped in the story of being damaged?`,
+    parable: `Idris traced the scar that ran along his palm—a reminder of the night he'd shattered a window in rage, years before he'd learned to pause between trigger and response. The mark had never fully faded, and lately he'd been wondering if there was something wrong with his healing.
+
+"It should be gone by now," he said to The Veil as they walked through the embassy gardens. "I've done the work—meditation, therapy, emotional regulation techniques. But this scar remains, and sometimes when I'm negotiating, my hand still trembles when I remember that night."
+
+The Veil paused beside a rosebush where the gardener had left the thorns intact. "What if the scar were not a sign of incomplete healing, but of complete teaching?"
+
+"I don't understand."
+
+"When you feel that trembling now, what happens?"
+
+Idris considered. "I... I notice when others are holding back rage. I can sense when someone's about to break. Yesterday, during the trade negotiations, I saw the ambassador from Kelaria gripping his pen so tightly I thought it might snap. I was able to call a recess before he said something that would have destroyed months of progress."
+
+"And this knowing—where does it live?"
+
+Idris looked down at his scarred palm. "In the trembling. In the memory of being out of control." He paused, understanding dawning. "The wound taught me to recognize the wound in others."
+
+The Veil touched a thorn gently, drawing no blood. "The rose does not heal by removing its thorns. It learns to bloom because of them—each sharp point teaching it where protection is needed, where tenderness must be guarded, where strength must be cultivated."
+
+That evening, Idris received word of a diplomat who'd been caught in a scandal, his career destroyed by a moment of poor judgment. Instead of feeling superior, Idris felt a deep recognition—the trembling in his scarred hand becoming an compass pointing toward compassion. He understood now that his wound had not failed to heal; it had healed into wisdom.
+
+**Moral:** Our deepest injuries become our greatest instruments of service when we stop trying to erase them and start learning their sacred purpose.
+
+**Tomorrow:** Idris discovers that even this understanding might become another way of making his wounds "useful," and learns the difference between healing that serves love and healing that serves the ego's need to transform pain into spiritual capital.`,
+  },
 ];

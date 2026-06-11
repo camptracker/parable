@@ -1303,4 +1303,70 @@ Elder Maren nodded solemnly. "And in the process, we've forgotten that the most 
 
 *Tomorrow, Celeste will discover how this spiritual marketplace creates new forms of inequality that determine who gets access to transformative experiences.*`,
   },
+  {
+    day: 22,
+    title: "The Authenticity Auction — When Sacred Becomes Status Symbol",
+    date: "2026-06-11",
+    image: "images/history-of-weddings/day-22.jpg",
+    audio: "audio/history-of-weddings/day-22",
+    sonnet: `**🪶 Sonnet XXII: The Authenticity Auction**
+
+When sacred wisdom wears a price tag's crown,
+And ancient rituals require credit scores,
+The marketplace has turned our longing down
+To products stacked on spiritual stores.
+
+They sell us back what ancestors held free—
+The simple truth of love in community,
+Now packaged as "authentic" luxury,
+With premium rates for authenticity.
+
+The sage burns dear, the handfasting costs more,
+While "intentional" becomes a brand to buy.
+We purchase what our bloodlines knew before,
+And call consumption our spiritual high.
+
+*When authenticity's auctioned to the rich,*
+*The sacred becomes another market niche.*`,
+    standard: `💒 Day 22: The Authenticity Auction — When Sacred Becomes Status Symbol
+
+The rising popularity of "authentic" weddings reveals a troubling paradox: what markets as spiritual awakening often functions as another form of economic exclusion, where genuine sacred practices become luxury experiences available only to those wealthy enough to purchase what their ancestors received freely through community inheritance. This creates a two-tiered system where the privileged can buy back ancient wisdom while others remain trapped in commercialized ceremonies, suggesting that "intentional" weddings may be less about universal spiritual transformation and more about class-based access to meaning.
+
+🧱 **The Concept**
+Authentic wedding movements have created luxury markets around simplicity, where "returning to traditional values" requires premium pricing and exclusive access.
+
+❓ **Why It Matters**
+This commodification of authenticity reveals how consumer culture co-opts even anti-consumer movements, turning spiritual rebellion into status consumption. When "simple" ceremonies cost more than traditional ones, we've created economic barriers to spiritual practices that were once community birthrights.
+
+⚙️ **How It Works**
+Intentional wedding planners charge premium rates for "authentic" experiences like handfasting ceremonies, sage cleansing rituals, or "ancestral blessing" packages that cost thousands of dollars. Couples pay extra for "unplugged" ceremonies, organic flowers, locally-sourced foods, and spiritual officiants who offer "ancient wisdom" at consultant rates. Venues market "sacred spaces" at luxury prices, while "authentic" photographers charge more for documentary-style coverage than traditional posed portraits. These movements create new categories of wedding debt while positioning themselves as alternatives to commercialization, effectively turning anti-materialism into another material purchase.
+
+🎯 **Wedding History Wisdom**
+When authenticity becomes a luxury product, we've simply created more expensive ways to avoid the real work of spiritual transformation.
+
+❓ **Tomorrow's Question** — If the wedding industry has successfully monetized both materialism and anti-materialism, creating profitable markets from every possible approach to marriage ceremonies, what does this suggest about whether any wedding format can truly escape commercial influence—and are couples actually seeking spiritual transformation or simply seeking to feel superior to other couples' choices?`,
+    parable: `"I don't understand," Celeste said, scrolling through her laptop screen filled with "intentional wedding" packages. "These authentic ceremonies cost twice as much as the traditional ones. How is paying $15,000 for a 'simple' ceremony more spiritual?"
+
+Elder Maren set down her tea and smiled knowingly. "Tell me, child, what drew you to these 'authentic' options?"
+
+"Well, I want something meaningful. Not all the commercial nonsense. Something real, you know? Like how our ancestors did it." Celeste clicked through photos of couples in flowing white dresses standing in expensive meadow venues.
+
+"And yet," Maren observed gently, "your ancestors' ceremonies were free because the community provided everything—the space, the food, the flowers, the music, even the wisdom. No one paid consultants to teach them how to be authentic."
+
+Celeste paused, her finger hovering over a $3,000 "Sacred Union Coaching" package. "But these planners understand the old ways. They're bringing back lost traditions."
+
+"Are they?" Maren asked. "Or have they discovered that people will pay even more for the feeling of authenticity than for obvious luxury? Notice how 'simple' weddings now require specialized vendors, how 'natural' ceremonies need professional coordination, how 'traditional' rituals come with instruction manuals and certification programs."
+
+"So what are you saying? That there's no escape from commercialization?"
+
+"I'm saying that when sacred becomes a selling point, when authenticity becomes a brand, when simplicity requires a premium price tag, then the market has simply found new ways to monetize your spiritual longing." Maren gestured to the screen. "Your ancestors didn't buy authenticity—they lived it. They didn't purchase simplicity—they practiced it. They didn't invest in intentionality—they embodied it."
+
+Celeste closed her laptop slowly. "Then how do we find what they had?"
+
+"Perhaps," Maren said softly, "by remembering that the most sacred things have never been for sale."
+
+**Moral:** When authenticity becomes a luxury product, we've simply created more expensive ways to avoid the real work of spiritual transformation.
+
+*Tomorrow, Elder Maren will reveal how the wedding industry profits from every approach to marriage ceremonies, and whether any format can truly escape commercial influence.*`,
+  },
 ];

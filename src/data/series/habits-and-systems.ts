@@ -5930,4 +5930,66 @@ Working alongside Rook, they lifted the cart, fixed the wheel with rough stones,
 
 **Tomorrow:** *Even finding meaning in chaos can become another way of avoiding the necessary work of discernment—but how do we tell the difference between genuine insight and spiritual rationalization?*`,
   },
+  {
+    day: 97,
+    title: "The Discernment Edge",
+    date: "2026-06-11",
+    image: "images/habits-and-systems/day-97.jpg",
+    audio: "audio/habits-and-systems/day-97",
+    sonnet: `**🪶 Sonnet XCVII: The Discernment Edge**
+
+How bright the mind that sees its every flaw,
+That maps each shadow with precision keen,
+Yet walks the same old paths without a pause,
+Unchanged by all its brilliant insights seen.
+
+The scholar of the self grows fat on thought,
+On meaning-making, pattern-recognition,
+While habits reign exactly as they ought
+To mock such fine and fruitless erudition.
+
+But wisdom's blade cuts deeper than mere sight—
+It severs understanding from excuse,
+Demands that insight kindle actual light,
+That revelation find immediate use.
+
+*True knowledge proves itself in altered deed,*
+*Not in the comfort of conceptual feed.*`,
+    standard: `🧘 Day 97: The Discernment Edge
+
+When we become so skilled at finding meaning everywhere, we risk developing what we might call "spiritual omnivory"—consuming all experiences as equally nutritious without discerning what actually nourishes growth versus what merely satisfies our hunger for significance. The antidote isn't less meaning-making but sharper discernment: learning to distinguish between insights that change our behavior and those that simply make us feel wise about our unchanged patterns.
+
+🧱 **The Concept**
+True spiritual discernment operates like a blade that cuts between authentic insight and sophisticated self-deception—it doesn't reject meaning-making but demands that our insights prove themselves through transformation rather than just understanding.
+
+❓ **Why It Matters**
+Without this discernment edge, we can spend years accumulating spiritual concepts that make us feel evolved while our actual patterns remain unchanged. We become collectors of insights rather than practitioners of transformation, mistaking our ability to analyze our problems for the work of actually solving them.
+
+⚙️ **How It Works**
+The discernment edge asks one simple question of every insight: "What specifically am I doing differently because of this understanding?" If we realize we're lonely and understand it stems from childhood patterns, discernment demands we actually reach out to people rather than just feeling wise about our emotional archaeology. When we recognize we're avoiding difficult conversations, discernment requires us to schedule the conversation, not just appreciate our self-awareness. The edge cuts away insights that serve psychological comfort from those that generate practical change. Real spiritual maturity shows up in altered behavior patterns, not just elevated understanding.
+
+🎯 **Systems Wisdom**
+Build feedback loops that measure transformation, not just revelation—track what you're doing differently, not just what you're understanding more clearly.
+
+❓ **Tomorrow's Question** — If genuine insight naturally demands behavioral change while spiritual bypassing offers the comfort of understanding without action, what happens when we're genuinely ready to change but our nervous system isn't prepared for the practical disruption that real transformation requires?`,
+    parable: `Rook arrived at Cairn's workshop carrying an armload of scrolls, his eyes bright with fresh revelation. "I've discovered something profound," he announced, spreading the papers across Cairn's workbench. "Each setback in my journey has been a perfect teacher. My restlessness isn't a flaw—it's a gift that allows me to experience the full spectrum of human seeking!"
+
+Cairn continued his careful chiseling, not looking up from the stone figure emerging beneath his hands. "What are you carving differently because of this insight?" he asked simply.
+
+Rook paused, confused. "What do you mean? I'm not a stone-carver. This is about understanding my nature, accepting my patterns—"
+
+"Ah." Cairn finally looked up, his weathered face gentle but direct. "Understanding without transformation is like admiring the sharpness of a blade while never using it to cut anything. You've spent three hours explaining why your restlessness is sacred, but you still haven't stayed with one practice long enough to let it change you."
+
+"But insight itself is valuable," Rook protested. "Awareness is the first step—"
+
+"The first step, yes." Cairn returned to his carving. "But you've been taking first steps for forty years. At some point, the blade of understanding must actually cut through something, not just gleam beautifully in the light."
+
+Rook gathered his scrolls, feeling suddenly heavy. "So my insights are worthless?"
+
+"Not worthless—unfinished." Cairn's chisel rang against stone with practiced rhythm. "True insight changes what you do tomorrow morning, not just how you feel about what you did yesterday. The question isn't whether your restlessness has meaning, but whether understanding its meaning has made you more capable of choosing when to be still."
+
+**Moral:** *The sharpest insights are worthless unless they cut through our unchanged patterns to reveal new actions.*
+
+**Tomorrow:** *Even when we're ready to change, our nervous system may need preparation...*`,
+  },
 ];

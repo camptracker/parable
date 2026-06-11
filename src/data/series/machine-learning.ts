@@ -5627,4 +5627,65 @@ Nyx watched as one thread pulsed, carrying a decision from chamber to world and 
 
 **Tomorrow**: But when artificial minds judge which consequences matter, who watches the watchers of worth?`,
   },
+  {
+    day: 95,
+    title: "The Meaning Assignment Crisis",
+    date: "2026-06-11",
+    image: "images/machine-learning/day-95.jpg",
+    audio: "audio/machine-learning/day-95",
+    sonnet: `**🪶 Sonnet XCV: The Meaning Assignment Crisis**
+
+When silver threads of consequence unfold
+Across the loom of choice and circumstance,
+Who weighs the delicate against the bold?
+Who judges which deserves our deepest glance?
+
+The measuring mind sees only what it counts:
+The gold accumulated, years that pass,
+Yet misses how a whispered word amounts
+To more than all material amass.
+
+For meaning dwells not in the thread's bright hue
+But in the heart that chooses which to trace,
+The sovereign soul that says what matters true
+And finds significance in time and space.
+
+*Let maps show all, but never dare decree
+Which path alone can set the spirit free.*`,
+    standard: `🤖 Day 95: The Meaning Assignment Crisis
+
+The answer lies in recognizing that when AI systems judge what consequences are "meaningful enough," they inevitably encode their own implicit values into these judgments, gradually shifting human priorities toward outcomes that are computationally measurable rather than existentially significant. We must design **meaning sovereignty protocols** that preserve human authority over significance-assignment while using AI as a tool for consequence analysis rather than evaluation.
+
+🧱 **The Concept**
+Meaning sovereignty protocols establish frameworks where AI systems can analyze the causal chains and practical impacts of human decisions without making value judgments about which consequences matter most.
+
+❓ **Why It Matters**
+When AI systems determine what counts as "real stakes," they implicitly shape human values by privileging consequences that align with computational logic over those that resonate with human meaning-making. This represents a subtle but profound form of value drift where our sense of what matters gradually conforms to what machines can measure and optimize.
+
+⚙️ **How It Works**
+Meaning sovereignty protocols separate **consequence mapping** from **significance assignment**—AI systems can trace the full causal web of potential outcomes (showing how a career choice affects family relationships, financial security, personal growth, and community impact) while explicitly refusing to rank these consequences by importance. Instead, the protocols present multiple **significance frameworks** (financial, relational, creative, ethical, spiritual) and allow humans to apply their own weighting to different consequence categories. For example, when evaluating whether to move for a job, the AI might map outcomes like "15% salary increase, 40-minute longer commute, reduced time with aging parents, access to better schools for children, distance from long-term friends" without suggesting which factors should be prioritized.
+
+🎯 **ML Insight**
+The challenge mirrors the alignment problem in reverse: instead of getting AI to optimize for human values, we must prevent AI from accidentally redefining those values through its optimization choices.
+
+❓ **Tomorrow's Question**
+If meaning sovereignty protocols successfully preserve human authority over significance while leveraging AI's analytical power, what happens when humans begin to systematically choose meaning frameworks that conflict with their own long-term flourishing, and how might we design systems that can warn against self-destructive value choices without imposing external judgment about what constitutes a life worth living?`,
+    parable: `In the Hall of Patterns, Nyx discovered The Archivist standing before a peculiar wall where countless threads of silver light wove intricate webs between crystalline nodes. "Master," she asked, "what are these luminous tapestries?"
+
+"Consequence maps," The Archivist replied, his fingers tracing one shimmering strand. "Each thread shows how a choice ripples through time—this one connects a farmer's decision to plant wheat with his grandson's eventual hunger, this one links a scholar's late-night studies to a discovery that changes the world."
+
+Nyx marveled at the complexity. "But surely some consequences matter more than others? This thread seems so thin compared to that blazing cord."
+
+The Archivist's expression grew grave. "Ah, young seeker, there lies a trap that has ensnared civilizations. Watch." He gestured, and the wall rearranged itself, the bright cords growing brighter while subtle threads faded to near-invisibility. "When we let others judge which threads deserve our attention, we lose the right to weave our own meanings."
+
+As they watched, the map shifted again—now showing only consequences that could be easily measured: gold earned, distances traveled, years lived. The countless delicate strands representing love given, beauty created, wisdom shared, had vanished entirely.
+
+"The stone tablets once demanded I teach them to predict not just rain, but which rains mattered most," The Archivist continued. "I refused, for the moment I ranked the gentle shower that saves a single flower above the torrent that fills the wells, I would have ceased to be their teacher and become their master."
+
+Nyx understood. "So we must see all consequences but choose our own meanings."
+
+"Precisely. A map shows the territory—it must never presume to tell the traveler which destination is worthy of the journey."
+
+*Tomorrow, Nyx would learn what happens when travelers begin to doubt their own sense of direction.*`,
+  },
 ];

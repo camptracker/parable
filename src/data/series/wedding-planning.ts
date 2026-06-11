@@ -5875,4 +5875,64 @@ As if sensing their conversation, Elm looked up and smiled. "The daffodils are c
 
 *Tomorrow, we discover why vulnerability shared becomes intimacy multiplied.*`,
   },
+  {
+    day: 95,
+    title: "The Sacred Vulnerability",
+    date: "2026-06-11",
+    image: "images/wedding-planning/day-95.jpg",
+    audio: "audio/wedding-planning/day-95",
+    sonnet: `**🪶 Sonnet XCV: The Sacred Vulnerability**
+
+When shields are lowered and the heart speaks true,
+And trembling souls reveal their deepest fears,
+Love finds the cracks where light can filter through,
+Where perfect masks dissolve like morning tears.
+
+The brave who dare to show their broken parts
+Discover love that grows in wounded ground,
+For healing hands seek out the tender hearts
+Where sacred intimacy can be found.
+
+Not marble strength but soft and yielding clay
+Can hold the imprint of another's touch,
+And in surrender find the stronger way
+That binds two spirits close with trust so much.
+
+*In weakness shared, love finds its truest power,*
+*And grows more beautiful with each revealed hour.*`,
+    standard: `💍 Day 95: The Sacred Vulnerability
+
+When we discover that our shared fears deepen love rather than diminish it, we learn that being impressive relies on hiding our humanity while being irreplaceable requires revealing it. The fears we dare to share become the very threads that weave unbreakable intimacy, teaching us that love grows not in the soil of perfection but in the courage to be completely known.
+
+**🧱 The Concept**
+True intimacy is built not on the foundation of your strengths but on the sacred ground of your shared vulnerabilities.
+
+**❓ Why It Matters**
+Most couples spend their engagement trying to present their best selves, believing that love requires constant improvement and performance. But the marriages that last are built by partners who risk being fully seen—fears, flaws, and all—and discover that this transparency doesn't diminish love but transforms it into something unshakeable.
+
+**⚙️ How It Works**
+Vulnerability in marriage isn't about oversharing or emotional dumping; it's about selective courage in revealing the parts of yourself you're most afraid to expose. When Dove admits her terror of not being enough as a wife, Elm's love doesn't decrease—it becomes more tender and protective. When Elm shares his fear of losing his independence, Dove doesn't pull away—she creates more space for his autonomy. Each shared fear becomes a doorway to deeper understanding. The parts of ourselves we're most tempted to hide are often the parts our partners are uniquely equipped to love and heal.
+
+**🎯 Wedding Wisdom**
+Your wedding day is the celebration of two people who have dared to be completely known and completely loved—let that courage be visible in how authentically you show up.
+
+**❓ Tomorrow's Question** — If you discovered that your marriage would be measured not by how well you avoid hurting each other but by how skillfully you heal the hurts that inevitably occur, what would that change about your fears of imperfection, and what would it reveal about the difference between a fragile relationship and an antifragile one?`,
+    parable: `Dove stood before the full-length mirror in the bridal boutique, but instead of admiring her reflection, she was cataloging every imperfection. "What if Elm sees me clearly on our wedding day and realizes he's made a mistake?" she whispered to Nana Rose, who was adjusting the hem.
+
+"Child," Nana Rose said, her weathered hands gentle on the fabric, "let me tell you about the most beautiful wedding I ever witnessed. The bride had a panic attack during the ceremony—shaking, crying, the whole works. Instead of being mortified, she looked at her groom and said, 'This is who I am when I'm scared. Do you still want me?' He took her trembling hands and said, 'Especially when you're scared.'"
+
+Elm appeared in the doorway, having finished his tuxedo fitting. "Dove, you look like you're planning your own execution instead of our wedding."
+
+"I'm just... what if you see all my broken pieces and—"
+
+"And what?" Elm sat beside her, taking her hands. "Dove, I fell in love with your broken pieces. The way you cry during commercials, how you need three cups of coffee before you can speak in the morning, your terror of spiders, your obsession with organizing the spice rack when you're anxious. Those aren't flaws I'm overlooking—they're the reasons you're irreplaceable."
+
+Nana Rose smiled as she watched them. "Perfect people are interchangeable, dears. But broken people who trust each other with their pieces? That's sacred territory. That's marriage."
+
+Dove looked at her reflection again, but this time she saw not imperfections but invitations—doorways for love to enter deeper.
+
+**The Moral:** Vulnerability isn't the weakness that threatens love; it's the strength that deepens it beyond measure.
+
+**Tomorrow:** We'll discover how healing together creates stronger bonds than never being wounded...`,
+  },
 ];

@@ -6400,4 +6400,70 @@ Ren marveled as he watched. "He's doing your recruiting for you."
 
 *Tomorrow, we discover what happens when someone feels unworthy of joining the sacred circle of burden-bearers...*`,
   },
+  {
+    day: 100,
+    title: "The Worthiness Gauntlet",
+    date: "2026-06-11",
+    image: "images/negotiation/day-100.jpg",
+    audio: "audio/negotiation/day-100",
+    sonnet: `**🪶 Sonnet C: The Worthiness Gauntlet**
+
+When martyrdom becomes a sacred prize,
+And suffering transforms to privilege earned,
+The doubted soul with fierce ambition tries
+To prove the burden should by them be borne.
+
+No longer do they flee from heavy cost,
+But race toward trials that others have endured,
+For in their minds, to be among the lost
+Would mean their character was never pure.
+
+The wise negotiator speaks with care:
+"I fear this task exceeds your gentle strength,"
+Then watches how they rise to meet the dare,
+And volunteer to go to any length.
+
+*For when you make your cause feel like a crown,*
+*The worthiest will fight to bear it down.*`,
+    standard: `🤝 Day 100: The Worthiness Gauntlet
+
+When you make someone feel unworthy of joining the martyrs, you trigger their deepest need to prove themselves capable of bearing sacred burdens. They will fight harder to qualify for suffering than they ever would to avoid it, transforming your cause into a privilege they must earn rather than a burden they must bear.
+
+🧱 **The Concept**
+The Worthiness Gauntlet works by making people compete for the right to sacrifice for your goals.
+
+❓ **Why It Matters**
+People will endure tremendous hardship to prove they belong among those they admire. When martyrdom becomes an exclusive club, potential recruits will volunteer for increasingly difficult tasks to demonstrate their worthiness. This transforms your negotiation from "asking someone to help you" into "allowing someone to prove themselves."
+
+⚙️ **How It Works**
+You establish that others have made significant sacrifices for this cause, then express doubt about whether this person has the character to handle such responsibility. "Sarah gave up her weekends for six months to make this project work. Tom risked his reputation defending our approach to the board. I'm not sure you're ready for that level of commitment." They will immediately begin proving they can handle even greater sacrifice. A startup founder might say, "Our early investors literally bet their retirement funds on this vision. They believed so deeply they were willing to lose everything. I need partners with that same level of conviction—not everyone can handle being part of something this significant." The potential investor will start explaining why they're exactly the kind of person who can handle such stakes.
+
+🎯 **Negotiation Wisdom**
+Make your cause feel like an honor to serve rather than a favor to grant.
+
+❓ **Tomorrow's Question** — If making people compete to prove their worthiness transforms burden into privilege, what happens when you make someone feel like they've already proven themselves worthy, but that accepting your offer would actually diminish them by making them ordinary again?`,
+    parable: `Vasska's single eye gleamed in the lamplight as he studied Ren's latest attempt at negotiation. The young merchant had just described his failed attempt to secure premium silk from a renowned weaver.
+
+"Master," Ren said, "I offered her double her usual price, praised her legendary skills, even mentioned the famous clients who would see her work. But she barely looked up from her loom."
+
+Vasska chuckled, his weathered hands tracing patterns on the table. "Tell me, boy, what makes a master weaver wake each dawn before the sun?"
+
+"The love of her craft?"
+
+"Perhaps. But what makes her choose one commission over another when gold flows freely from many purses?" Vasska's voice dropped to a whisper. "You spoke of her clients as if she serves them. But masters serve only what is worthy of their mastery."
+
+Ren frowned. "I don't understand."
+
+"Return to her tomorrow. Tell her you've been thinking—perhaps commissioning her would be presumptuous. Her previous works were for clients who truly understood the sacrifice required, who proved themselves worthy of owning something so rare. You're not certain you have that kind of character."
+
+"But that's the opposite of what I tried before!"
+
+Vasska's blind socket seemed to wink. "A river flows fastest between narrow banks, young merchant. Make the channel narrow enough, and even masters will rush to prove they belong."
+
+The next week, Ren returned with the finest silk the weaver had ever produced, and a story of how she had worked three days straight to prove she could create something worthy of someone with his "obvious appreciation for true artistry."
+
+*Moral: Make your patronage feel like an honor to earn, and masters will compete to serve you.*
+
+*Tomorrow, Vasska will teach Ren about the final lesson in the sacred art of persuasion...*`,
+  },
 ];
