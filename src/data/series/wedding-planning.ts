@@ -5935,4 +5935,67 @@ Dove looked at her reflection again, but this time she saw not imperfections but
 
 **Tomorrow:** We'll discover how healing together creates stronger bonds than never being wounded...`,
   },
+  {
+    day: 96,
+    title: "The Sacred Forgiveness",
+    date: "2026-06-12",
+    image: "images/wedding-planning/day-96.jpg",
+    audio: "audio/wedding-planning/day-96",
+    sonnet: `**🪶 Sonnet XCVI: The Sacred Forgiveness**
+
+Not in perfection does true love reside,
+But in the grace that mends what breaks apart;
+When harsh words wound or trust begins to slide,
+Forgiveness weaves new strength within the heart.
+The couples blessed with joy that will not fade
+Are those who heal each hurt with tender care,
+Who see in every wound a path well-made
+To deeper knowing, love beyond compare.
+For marriage is not armor 'gainst all pain,
+But sacred skill to tend what has been torn;
+In choosing mercy over pride's dark stain,
+Two souls find love more beautiful reborn.
+*What seemed to threaten love's sweet, sacred art*
+*Becomes the very healing of the heart.*`,
+    standard: `💍 Day 96: The Sacred Forgiveness
+
+When we realize that marriage's strength comes from our ability to heal rather than our ability to avoid all wounds, it transforms our fear of imperfection into a skill-building opportunity—each small hurt becomes practice for deeper repair. This reveals that fragile relationships shatter under pressure while antifragile ones actually grow stronger through the act of conscious healing and mutual forgiveness.
+
+**🧱 The Concept**
+True intimacy is built not in the absence of hurt, but in the presence of radical forgiveness—the willingness to repair, restore, and even strengthen love after it has been wounded.
+
+**❓ Why It Matters**
+Every marriage will face moments of disappointment, misunderstanding, and unintentional harm. The couples who thrive are not those who never wound each other, but those who become masters at the sacred art of forgiveness—transforming breaks into breakthrough intimacy.
+
+**⚙️ How It Works**
+Forgiveness in marriage operates on multiple levels: the immediate choice to release resentment, the deeper work of understanding what created the hurt, and the collaborative effort to prevent similar wounds in the future. When your partner forgets an important date, true forgiveness doesn't just overlook the oversight—it explores what stress or distraction caused the lapse and creates better systems together. When harsh words are spoken in exhaustion, sacred forgiveness addresses not just the words but the unmet needs beneath them. The most powerful marriages treat every hurt as an invitation to know each other more deeply and love each other more skillfully.
+
+**🎯 Wedding Wisdom**
+As you prepare for marriage, practice forgiveness as a daily spiritual discipline, not an emergency response to crisis.
+
+**❓ Tomorrow's Question** — If you discovered that your ability to ask for forgiveness would matter more to your marriage's longevity than your ability to grant it, what would that change about how you handle the moments when you know you've wounded your partner, and what does that reveal about the difference between defensive love and humble love?`,
+    parable: `Dove sat in Nana Rose's garden, her engagement ring catching the late afternoon sun as tears traced silver paths down her cheeks. "I snapped at Elm yesterday over something so small," she whispered. "What if I'm not good enough at this? What if I keep hurting him?"
+
+Nana Rose's weathered hands continued their gentle work among the roses, each movement deliberate and loving. "Child, come see this bush," she said, beckoning Dove to a magnificent climbing rose whose trunk bore several deep scars. "Last winter's ice storm nearly destroyed her. See these marks? Each one could have killed her."
+
+Dove traced the healed wounds with her finger, amazed at how the rose had grown around and through its injuries, creating new strength.
+
+"The first year I planted this garden," Nana Rose continued, "I tried to protect every bloom from every possible harm. I covered them, sheltered them, watched them like a nervous mother. And you know what happened? They grew weak. Brittle. One small wind would snap them."
+
+Elm appeared at the garden gate, his face showing the remnants of yesterday's tension but his eyes soft with concern for Dove. Nana Rose smiled and handed him a pair of pruning shears.
+
+"The roses that survive aren't the ones that never get wounded," she said to them both. "They're the ones that know how to heal. Watch." She demonstrated how to cut cleanly, how to seal the wound, how to tend the plant as it recovered. "Marriage is this garden, and forgiveness is this care. Not the absence of cutting, but the presence of healing."
+
+Dove reached for Elm's hand. "I'm sorry about yesterday," she said simply.
+
+He squeezed her fingers gently. "I'm sorry too. I was tired and took it out on you."
+
+Nana Rose nodded approvingly. "The couples who last aren't the ones who never hurt each other. They're the ones who become gardeners of the heart, tending each wound with such skill that the love grows back stronger than before."
+
+As the sun set, painting the garden in golden light, the scarred roses bloomed more magnificently than any others, their beauty born not despite their wounds, but because of how lovingly they had been healed.
+
+Moral: The strongest marriages are not built in the absence of hurt, but in the presence of sacred forgiveness that transforms wounds into deeper intimacy.
+
+Tomorrow, we discover why learning to ask for forgiveness may be even more crucial than learning to give it...`,
+  },
 ];

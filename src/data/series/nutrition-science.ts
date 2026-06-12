@@ -6179,4 +6179,74 @@ The fire crackled, sending sparks into the darkness. "But notice—the flame bur
 
 *Tomorrow, Lila will discover what fills the space left by departed chaos...*`,
   },
+  {
+    day: 100,
+    title: "The Zero Point Return",
+    date: "2026-06-12",
+    image: "images/nutrition-science/day-100.jpg",
+    audio: "audio/nutrition-science/day-100",
+    sonnet: `**🪶 Sonnet C: The Zero Point Return**
+
+When inner wars at last lay down their arms,
+And hunger speaks in whispers, not in screams,
+The sudden peace brings unexpected harms—
+This quiet breaks the fabric of old dreams.
+
+No more the daily battle with desire,
+No bargaining with body's ancient needs,
+The metabolic drama that inspired
+Your identity now silently recedes.
+
+The zero point feels empty, not fulfilled,
+This seamless function lacks the struggle's thrill,
+You mourn the chaos that your healing killed,
+Mistaking peace for some forgotten skill.
+
+*Yet in this stillness lies the greater art:*
+*A body freed to serve a larger heart.*`,
+    standard: `🍎 Day 100: The Zero Point Return
+
+**The inner peace that comes with metabolic healing often feels more foreign than the chaos it replaced because your identity was built around managing internal conflicts—the constant negotiation between what you wanted and what you "should" do, the endless metabolic bargaining and compensation strategies. When these internal wars suddenly cease, the profound silence can feel like emptiness rather than fulfillment, because you've never experienced your authentic self without the familiar static of metabolic dysfunction.**
+
+🧱 **The Concept**
+True metabolic mastery eventually leads to a **zero point**—a state of such complete internal alignment that the dramatic health journey that consumed years of your life becomes invisible background functioning.
+
+❓ **Why It Matters**
+Most people expect metabolic healing to feel like victory, but the zero point often feels like anticlimax. After years of intense focus on food, timing, supplements, and biohacking, suddenly none of it requires conscious attention—your body simply works. This transition from metabolic drama to metabolic invisibility can trigger an identity crisis that sabotages the very balance you worked so hard to achieve.
+
+⚙️ **How It Works**
+The zero point emerges when your **metabolic operating system** becomes so refined that it handles complex decisions automatically—you eat when hungry, stop when satisfied, crave exactly what you need, sleep deeply, and wake refreshed without conscious management. Your nervous system has integrated all the lessons from your healing journey into seamless biological intelligence. However, this integration often coincides with a profound **meaning crisis**, because the health journey that provided purpose, community, and identity suddenly becomes irrelevant. Many people unconsciously sabotage their zero point state by creating new metabolic problems to solve, returning to familiar optimization cycles, or becoming obsessed with maintaining their effortless state through effortful monitoring—all because the simplicity feels too empty compared to the complexity they're used to.
+
+🎯 **Science Wisdom**
+The zero point isn't the end of your metabolic journey—it's the beginning of using your optimized biology in service of something greater than personal health.
+
+❓ **Tomorrow's Question** — *After 100 days of exploring metabolism from calories to cultural healing, from macronutrients to meaning-making, what does it mean that your body's most sophisticated achievement—this seamless metabolic mastery—might actually be preparing you for challenges that have nothing to do with food, exercise, or health optimization at all?*`,
+    parable: `Lila found Maren sitting motionless beside the central hearth, her hands resting empty in her lap. The fire burned steady and low, requiring no tending. The brewing vessels sat clean and unused. The herb gardens grew wild but healthy, needing no intervention.
+
+"Master," Lila whispered, "are you ill? You haven't touched your medicines in days."
+
+Maren's eyes opened slowly, reflecting the firelight. "Child, do you remember when you first came to me? How you watched every flame, measured every herb, wrote down every instruction?"
+
+"Of course. I was so afraid of making mistakes."
+
+"And now?"
+
+Lila paused, realizing she had been preparing remedies all morning without conscious thought, her hands knowing exactly which herbs to blend for each villager's needs. "Now... it just happens."
+
+"Yes. And how does it feel?"
+
+"Strange," Lila admitted. "Empty, somehow. Like I've lost something important."
+
+Maren smiled. "What you've lost is the drama of not knowing. The excitement of discovery. The identity of being someone who struggles with the craft." She gestured to the perfectly balanced hearth. "This fire no longer needs my attention. These herbs grow themselves. My body heals without my management. I have reached the zero point—where mastery becomes invisible."
+
+"But what's the purpose then? If healing becomes automatic, what are we here for?"
+
+"Ah," Maren rose, her movement fluid and effortless. "Now you understand why the greatest healers often feel the most lost. We spent so many years learning to tend our own flames that we forgot why we wanted them burning in the first place."
+
+She walked to the window where the village spread below them. "The zero point isn't the destination, child. It's the launchpad. When your own fire tends itself, you're finally free to help others light theirs."
+
+**Moral**: *True mastery feels like emptiness because it frees you from the familiar weight of struggle, preparing you for service beyond self-improvement.*
+
+**Tomorrow**: *The apprentice asks what lies beyond the zero point, and Maren reveals the ultimate purpose of metabolic mastery.*`,
+  },
 ];

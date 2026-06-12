@@ -2424,4 +2424,74 @@ Riven looked again at the gentle vendor, and for the first time, allowed themsel
 
 **Moral:** The love that heals us often begins as the love that doesn't immediately intoxicate us. **Tomorrow:** Why our healing often masquerades as our enemy, and our enemy often masquerades as our healing.`,
   },
+  {
+    day: 40,
+    title: "The Chaos Comfort Zone",
+    date: "2026-06-12",
+    image: "images/relationship-games/day-40.jpg",
+    audio: "audio/relationship-games/day-40",
+    sonnet: `**🪶 Sonnet XL: The Chaos Comfort Zone**
+
+When love arrives without its jagged edge,
+And peace extends beyond familiar pain,
+Our wounded hearts recoil from such a pledge—
+Too strange, this sun that shines without the rain.
+
+We manufacture storms where none exist,
+Create the chaos that we know by heart,
+For calm feels wrong to souls that learned to twist
+In turmoil's arms—we tear ourselves apart.
+
+The dishes become wars, the silence, threat,
+We sabotage the very thing we crave,
+Because our nervous system can't forget
+That peace, in childhood, meant we weren't safe.
+
+*Yet recognizing this ancestral fear*
+*Can free us from the chaos we hold dear.*`,
+    standard: `🎭 Day 40: The Chaos Comfort Zone
+
+Yes, our self-sabotage in healthy relationships is precisely our trauma system's attempt to restore the familiar chaos it mistakes for "home." When love feels too stable, our wounded parts create conflict to return to the emotional frequency they know how to navigate, preferring familiar pain over unfamiliar peace.
+
+🧱 **The Concept**
+We unconsciously manufacture relationship turbulence when genuine peace triggers our deepest fear — that we don't deserve sustained happiness.
+
+❓ **Why It Matters**
+Most people destroy their healthiest relationships not through malice, but through an unconscious compulsion to return to emotional chaos whenever stability feels too foreign to their nervous system. Understanding this pattern is crucial because it reveals why willpower alone cannot override our sabotage impulses — we need to actively rewire our comfort zone to include peace.
+
+⚙️ **How It Works**
+When someone treats us consistently well, our trauma-conditioned system interprets this as "too good to be true" and begins scanning for threats that don't exist. We might start fights over trivial issues, create relationship "tests" to prove their love, or suddenly become attracted to other people when our partner is being most loving. For example, someone might pick a fight about dishes when their partner surprises them with a romantic dinner, unconsciously needing to "balance" the unfamiliar goodness with familiar conflict. Another person might suddenly find themselves fantasizing about their ex precisely when their current relationship reaches new levels of intimacy and security. The chaos addiction runs so deep that we'll literally sabotage our own happiness to maintain our emotional homeostasis.
+
+🎯 **Relationship Strategy Wisdom**
+Recognizing your sabotage patterns allows you to pause and choose peace over the familiar comfort of chaos.
+
+❓ **Tomorrow's Question** — If we accept that our sabotage impulses are actually our system's misguided attempt to protect us from the "danger" of unprecedented happiness, what does this suggest about the relationship between our capacity to receive love and our willingness to exist in emotional states we've never experienced before — and might our fear of sustained joy be the ultimate intimacy barrier?`,
+    parable: `Riven sat in the garden behind their cottage, watching the sunset paint the sky in impossible shades of gold. For the first time in years, their heart felt... quiet. Marcus had been consistently kind for three months now — no games, no hot-and-cold dynamics, no mysteries to solve. Just steady, reliable affection.
+
+It felt wrong.
+
+"You look troubled for someone whose prayers have been answered," came the familiar voice. The Mirror materialized from the evening shadows, their form shimmering like heat waves.
+
+"That's just it," Riven said, pulling at the grass. "I prayed for this exact thing — someone who wouldn't play games, who would just... love me simply. And now I have it, and I keep waiting for the other shoe to drop. I actually started a fight with him yesterday about nothing. About how he loads the dishwasher."
+
+The Mirror sat beside them, their presence both comforting and unsettling. "Tell me, child — when you lived in your childhood home, was peace the dominant frequency?"
+
+"No," Riven whispered. "There was always tension. Always some crisis or argument or emotional storm. But at least I knew how to navigate that. This... this feels like I'm in a foreign country where I don't speak the language."
+
+"Ah," The Mirror nodded. "So when Marcus offers you the very peace you claimed to want, your system interprets it as..."
+
+"Danger," Riven realized, the word tasting bitter. "Because if peace was dangerous in my family — if it meant someone was about to explode or leave — then my nervous system thinks peace now means the same thing."
+
+The Mirror gestured to the tranquil evening around them. "Your trauma-trained mind cannot distinguish between the peace that preceded pain and the peace that simply is. So when genuine calm enters your life, your protective mechanisms activate, creating the chaos that feels like home."
+
+Riven felt tears prick their eyes. "So I'm destroying the thing I want most because my body thinks it's trying to save me?"
+
+"Your sabotage is not malice, child. It is misguided loyalty — to the wounded parts of you that learned chaos meant survival. The question becomes: will you honor this old programming, or will you teach your system that peace can be permanent?"
+
+As the first stars appeared, Riven understood. Their self-sabotage wasn't a character flaw — it was their trauma trying to protect them from a happiness it had never learned to trust.
+
+**Moral:** *We destroy our healthiest relationships not from cruelty, but from a wounded system's attempt to return love to the familiar frequency of chaos it knows how to survive.*
+
+**Tomorrow:** *The Mirror will reveal why our fear of sustained joy might be the ultimate barrier to true intimacy.*`,
+  },
 ];
