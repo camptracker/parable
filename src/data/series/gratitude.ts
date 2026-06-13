@@ -2667,4 +2667,64 @@ That evening, Hana finally entered the meditation garden alone. In the silence, 
 
 **Tomorrow:** Hana discovers that her deepening practice makes her surprisingly selective about what truly deserves appreciation...`,
   },
+  {
+    day: 44,
+    title: "The Discerning Heart",
+    date: "2026-06-13",
+    image: "images/gratitude/day-44.jpg",
+    audio: "audio/gratitude/day-44",
+    sonnet: `**🪶 Sonnet XLIV: The Discerning Heart**
+
+No longer do I praise each passing thing
+With equal fervor, scattered thin and wide;
+My gratitude has learned to choose, to bring
+Its depth to what deserves love as my guide.
+
+The shallow stream that touches every stone
+Leaves none enriched by its hurried flow;
+But rivers carve their channels, claim their own,
+And nurture all the valleys down below.
+
+This selectivity is not unkind—
+It's wisdom knowing where to spend my heart,
+Which moments merit my attentive mind,
+Which blessings earn appreciation's art.
+
+*For mature love must choose its sacred ground,*
+*Where fewer seeds yield harvests more profound.*`,
+    standard: `🙏 Day 44: The Discerning Heart
+
+As solitary gratitude deepens your capacity for appreciation, you naturally become more selective because authentic gratitude requires truth—and truth distinguishes between what genuinely nourishes versus what merely performs wellness. This increasing discernment isn't criticism but wisdom: the mature heart appreciates fewer things but appreciates them more deeply, choosing substance over surface, meaning over mere positivity.
+
+🧱 **The Concept**
+Mature gratitude practices discernment—the ability to distinguish between authentic appreciation and performative positivity.
+
+❓ **Why It Matters**
+Shallow gratitude accepts everything as equally "blessed," while mature gratitude recognizes that some experiences, relationships, and choices genuinely deserve deeper appreciation than others. This discernment protects your energy and attention for what truly matters, preventing gratitude burnout and spiritual bypassing.
+
+⚙️ **How It Works**
+Discerning gratitude asks deeper questions: Does this bring genuine nourishment or just temporary pleasure? Does this relationship reciprocate appreciation or drain it? Does this opportunity align with my authentic values or just social expectations? For example, you might stop forcing gratitude for a toxic job while deepening appreciation for meaningful work, even if it pays less. Or you might release performative thankfulness for every social media interaction while savoring genuine appreciation for one deep conversation. This isn't ungrateful—it's wise allocation of your finite capacity for appreciation.
+
+🎯 **Gratitude Wisdom**
+The discerning heart appreciates fewer things but loves them more deeply, choosing quality over quantity in the realm of gratitude.
+
+❓ **Tomorrow's Question** — If mature gratitude requires saying "no" to some experiences to fully appreciate others, why do we often feel guilty about this selectivity, and what does this guilt reveal about our fear of being perceived as ungrateful versus actually being ungrateful?`,
+    parable: `Hana wandered through Elder Thorn's garden, overwhelmed by the abundance of flowers, herbs, and fruit trees. "I want to appreciate everything equally," she declared, rushing from plant to plant, offering hurried thanks to each one. "Every blessing deserves the same gratitude!"
+
+Elder Thorn watched as Hana scattered her attention like seeds in the wind, her appreciation becoming thinner with each rushed acknowledgment. By evening, she was exhausted and strangely empty despite having "practiced gratitude" all day.
+
+"Come," Elder Thorn said gently, leading her to a single ancient oak. "Sit with this tree. Really sit with it."
+
+"But what about all the others?" Hana protested. "Won't they feel ignored?"
+
+"Watch," Elder Thorn replied, settling into meditation beneath the oak's canopy. For an hour, he simply breathed with the tree, feeling its presence, witnessing its strength, appreciating its decades of patient growth. His gratitude was singular but profound, like a deep well rather than a shallow stream.
+
+When they rose, Hana noticed something miraculous: the single tree seemed to glow with appreciation received, while her scattered morning gratitude had left the garden feeling strangely untouched.
+
+"True appreciation," Elder Thorn explained, "is not about quantity but depth. The discerning heart chooses where to pour its finite love, knowing that shallow gratitude feeds nothing while deep appreciation nourishes everything it touches."
+
+**Moral:** Mature gratitude practices holy discernment, choosing depth over breadth in the sacred art of appreciation.
+
+*Tomorrow, we discover why selectivity in gratitude feels like betrayal of the abundance mindset...*`,
+  },
 ];

@@ -6292,4 +6292,68 @@ Tova watched Henrik's vessel glide smoothly from the harbor, understanding dawni
 
 **Tomorrow:** Greymane reveals why the most successful movements often fail when their founders depart, and what this teaches us about building lasting change versus building impressive monuments to individual charisma.`,
   },
+  {
+    day: 100,
+    title: "The Eternal Flame",
+    date: "2026-06-13",
+    image: "images/leadership/day-100.jpg",
+    audio: "audio/leadership/day-100",
+    sonnet: `**🪶 Sonnet C: The Eternal Flame**
+
+What mark remains when captains sail away?
+Do vessels drift or chart their destined course?
+The legacy of leaders lives each day
+In systems built with principle as source.
+
+Not monuments to genius do they leave,
+But frameworks teaching others how to lead,
+Where wisdom flows through channels that receive
+And multiply each transformative seed.
+
+The strongest ships survive their builders' flight,
+With crews who navigate by shared starlight,
+Their compass points not toward a single name
+But principles that burn through storm and calm.
+
+*True leadership transcends its mortal frame—*
+*The eternal flame that lights each passing claim.*`,
+    standard: `👥 Day 100: **The Eternal Flame**
+
+This revelation would expose that we've been building monuments to individuals rather than movements of principles—creating systems that require specific personalities to function rather than frameworks that thrive through shared values and distributed leadership. True sustainability comes not from irreplaceable leaders but from reproducible leadership development that creates more leaders at every level. When initiatives collapse without their founders, it signals we've been investing in charisma over culture, in individual brilliance over institutional wisdom.
+
+🧱 **The Concept**
+Sustainable leadership creates systems that grow stronger, not weaker, when the original leader steps away.
+
+❓ **Why It Matters**
+Leadership that depends on any single person—no matter how capable—is inherently fragile and ultimately selfish. The highest form of leadership success is measured not by what you accomplish while present, but by what continues to flourish in your absence. Organizations that thrive beyond their founders have embedded leadership principles so deeply that the culture itself becomes the leader.
+
+⚙️ **How It Works**
+Sustainable leadership distributes decision-making authority rather than concentrating it, teaches principles rather than prescribing processes, and develops leaders at every level rather than creating followers who wait for direction. Instead of being the irreplaceable problem-solver, the sustainable leader becomes the replaceable problem-solving teacher. They create systems where good decisions emerge from shared frameworks rather than individual genius, where innovation comes from cultural values rather than personal vision, and where the organization's mission transcends any single leader's tenure. The goal is to become so successful at developing others that your own departure signals the organization's readiness for its next phase of growth.
+
+🎯 **Leadership Wisdom**
+The ultimate leadership achievement is building something that doesn't need you to succeed.
+
+❓ **Tomorrow's Question** — If you discovered that your leadership journey had come full circle, and you were now being measured by the same standards you once used to evaluate the leaders who came before you, what would this reveal about whether you've become the kind of leader you once wished you had, or whether you've unconsciously perpetuated the very patterns you once promised yourself you would change?`,
+    parable: `The harbor was quiet as Tova walked the docks one final time before her promotion to fleet commander. Three years had passed since Greymane first challenged her understanding of leadership, and now her former crew was preparing for their next voyage—without her.
+
+"Nervous?" Greymane appeared beside her, his weathered hands clasped behind his back.
+
+"About leaving them? No," Tova replied, surprising herself with the certainty in her voice. "I'm proud of what we've built together."
+
+They watched as her former crew moved with practiced efficiency, each member knowing not just their role but understanding the principles behind every decision. When young Marcus faced a dilemma about resource allocation, he didn't look toward shore for guidance—he gathered his team and applied the frameworks they'd developed together.
+
+"I used to believe," Tova continued, "that great leadership meant being indispensable. That my worth was measured by how much they needed me."
+
+Greymane nodded slowly. "And what do you believe now?"
+
+"That true leadership means building something that grows stronger without you. Look at them—they're not following my orders or trying to guess what I would do. They're navigating by the same stars we learned to read together, using principles that belong to all of us now, not just to me."
+
+A month later, word reached Tova that her former crew had achieved their most successful voyage yet, setting new standards that other ships were beginning to adopt. They had become not just followers who executed her vision, but leaders who extended and improved upon the foundation they had built together.
+
+"The greatest captains," Greymane had once told her, "are not remembered for the voyages they completed, but for the navigators they taught to find their own way to undiscovered shores."
+
+**Moral**: *Sustainable leadership creates movements that transcend the leader, embedding principles so deeply that the organization's mission outlives any individual's tenure.*
+
+*Tomorrow, we explore what happens when leadership comes full circle, and we must face the mirror of our own transformation...*`,
+  },
 ];

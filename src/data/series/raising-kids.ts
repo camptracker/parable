@@ -2172,4 +2172,62 @@ Asha realized she'd been viewing sibling conflict as a failure to prevent rather
 
 *Tomorrow, we explore how children learn generosity not through obligation, but through discovering the joy of giving.*`,
   },
+  {
+    day: 36,
+    title: "The Theater of Peer Learning",
+    date: "2026-06-13",
+    image: "images/raising-kids/day-36.jpg",
+    audio: "audio/raising-kids/day-36",
+    sonnet: `**🪶 Sonnet XXXVI: The Theater of Peer Learning**
+
+In sandbox kingdoms where the young ones play,
+No parent's wisdom guides their small debates,
+Yet here they learn what lectures cannot say—
+How friendship forms and how cooperation waits.
+
+With equal voices raised in grand design,
+They build and bargain, share and sometimes fight,
+Discovering boundaries that are yours and mine,
+And learning compromise without adult might.
+
+The red truck passes hand to eager hand,
+Not from instruction but from felt desire
+To keep the magic of their play so grand
+That sharing serves what both hearts most require.
+
+*In peer-born lessons, truth reveals its face—*
+*That equals teach what hierarchy can't replace.*`,
+    standard: `👶 Day 36: **The Theater of Peer Learning**
+
+🧱 **The Concept**
+Children learn profound social and emotional lessons through peer interaction that cannot be taught through adult guidance alone.
+
+❓ **Why It Matters**
+While we focus intensively on our parent-child relationship, children discover essential truths about reciprocity, negotiation, and authentic self-expression through relationships with equals. Peer interactions teach them how to navigate conflict without a power differential, how to advocate for themselves with someone who isn't invested in protecting their feelings, and how to experience genuine friendship based on mutual interest rather than obligation.
+
+⚙️ **How It Works**
+When children play together, they practice skills that can't be developed in adult-child relationships: learning to share without being told, resolving disputes without arbitration, and discovering their authentic preferences when no adult is guiding the experience. A child who is gentle and compliant with adults might discover their competitive spirit with peers, while one who is defiant at home might learn cooperation when playing with friends. These peer laboratories reveal aspects of their personality and teach social skills that emerge only in relationships between equals. The conflicts, negotiations, and natural consequences that arise in peer groups provide irreplaceable learning about how relationships actually work in the real world.
+
+🎯 **Parenting Wisdom**
+Our role is to facilitate peer connections while resisting the urge to manage or mediate every interaction, trusting that children learn essential life skills through the natural dynamics of equal relationships.
+
+❓ **Tomorrow's Question** — If we want our children to develop genuine empathy and social awareness, why do we often orchestrate their social interactions and smooth over conflicts rather than allowing them to experience the natural messiness and resolution that comes from navigating peer relationships independently?`,
+    parable: `Asha watched anxiously as her three-year-old son played in the sandbox with two other children, his small hands clutching a coveted red truck. When another child reached for it, she instinctively moved forward to intervene, but Elder Mira's gentle hand on her shoulder held her back.
+
+"Watch," the grandmother whispered, her eyes twinkling with the wisdom of having observed countless such moments. "See how he looks at the other child's face, reading the intention? Notice how he's learning to gauge desire against his own attachment to the toy?"
+
+Indeed, Asha's son was engaged in a complex negotiation entirely of his own making. He held the truck closer, then glanced at a pile of blocks nearby. The other child followed his gaze, and suddenly both children were building a garage together, the truck temporarily forgotten in service of their shared creation.
+
+"But what if he had refused to share?" Asha asked, still tense with the urge to guide the interaction toward kindness.
+
+Elder Mira smiled. "Then he would have learned what happens when we hoard joy—how quickly playmates lose interest, how lonely it becomes to play alone with all the toys. And the other child would have learned that not everyone will give them what they want, simply because they want it."
+
+As the afternoon unfolded, Asha witnessed a masterclass in organic social learning. The children navigated turns without adult intervention, created elaborate games with rules that evolved minute by minute, and resolved a brief conflict over sandbox boundaries through a combination of dramatic gestures and creative compromise that no adult would have conceived.
+
+"They're teaching each other things we never could," Mira observed, watching one child show another how to make the perfect sand castle moat. "Equal to equal, they discover who they are when no grown-up is watching, when no one is invested in making them be 'good' or 'nice.' This is where authentic character develops."
+
+**Moral**: In the theater of peer relationships, children rehearse for the social realities of their future, learning through trial and natural consequence what cannot be taught through instruction.
+
+*Tomorrow, we explore why our instinct to orchestrate smooth social experiences might actually deprive our children of the very skills they need to navigate real relationships...*`,
+  },
 ];

@@ -6249,4 +6249,66 @@ She walked to the window where the village spread below them. "The zero point is
 
 **Tomorrow**: *The apprentice asks what lies beyond the zero point, and Maren reveals the ultimate purpose of metabolic mastery.*`,
   },
+  {
+    day: 101,
+    title: "The Service Preparation",
+    date: "2026-06-13",
+    image: "images/nutrition-science/day-101.jpg",
+    audio: "audio/nutrition-science/day-101",
+    sonnet: `**🪶 Sonnet CI: The Service Preparation**
+
+When hunger's voice no longer rules the day,
+And energy flows steady, clean, and true,
+The body's wisdom shows another way—
+To serve as sanctuary for others too.
+
+No more the constant tending of the flame,
+No more the vigilant watch for sugar's fall,
+This freedom births a purpose far from fame:
+To be the regulated calm for all.
+
+The nervous system, trained through years of care,
+Now reads the rhythms of another's need,
+Offering presence, stable and aware,
+Where dysregulation finds the space to feed.
+
+*From self-absorption's necessary start,*
+*Metabolic mastery births the servant's heart.*`,
+    standard: `🍎 Day 101: The Service Preparation
+
+Metabolic mastery becomes the foundation for service because it creates the stability, sensitivity, and surrender required to hold space for others' healing without being destabilized by their chaos. When your body no longer demands constant attention through symptoms, cravings, or energy crashes, your consciousness becomes available for purposes beyond self-optimization. This biological freedom transforms into spiritual capacity.
+
+**The Concept**
+True metabolic mastery shifts from self-focused optimization to other-focused service, preparing your nervous system to handle the complex demands of supporting others' healing journeys.
+
+**Why It Matters**
+People who achieve genuine metabolic balance often discover their deepest fulfillment comes not from perfecting their own health but from using their stability to serve others. This transition from receiver to giver represents the natural evolution of healing wisdom. Without this shift, even perfect metabolic function can become a beautiful prison of self-absorption.
+
+**How It Works**
+Metabolic mastery creates three essential capacities for service: **nervous system resilience** that can absorb others' dysregulation without being triggered, **energetic surplus** that allows you to give without depletion, and **embodied wisdom** that communicates through presence rather than words. For example, someone with true metabolic flexibility can sit with a person experiencing food anxiety without their own eating patterns being disrupted. Their regulated nervous system provides a co-regulating influence that helps the other person's system settle. This isn't about giving advice—it's about being a living example of what's possible when the body feels safe.
+
+**Science Wisdom**
+The nervous system that has learned to trust its own metabolic signals develops the sensitivity to read and respond appropriately to others' biological distress.
+
+**Tomorrow's Question** — *If metabolic mastery naturally prepares you for service, what happens when someone becomes so skilled at holding space for others that they begin attracting people who are specifically drawn to their stability rather than committed to their own healing—and why might this codependent dynamic actually corrupt the very metabolic mastery that made the service possible in the first place?*`,
+    parable: `After one hundred days of learning at Maren's hearth, Lila had begun to notice something strange. Her body no longer demanded her constant attention—no more afternoon energy crashes that required strategic snacking, no more morning stomach churns that dictated her mood, no more evening food thoughts that kept her awake. The three hearths had taught her body to burn clean and steady.
+
+"I feel... empty," Lila confessed to Maren one morning, then quickly corrected herself. "Not empty like hungry. Empty like... available."
+
+Maren smiled, her weathered hands continuing to grind herbs. "And what fills available space?"
+
+Before Lila could answer, a knock came at the door. A young mother entered, her baby fussing inconsolably, her own face drawn with exhaustion. "Please," she whispered. "Nothing I eat seems to give me enough milk, and I haven't slept properly in weeks."
+
+Maren gestured for Lila to sit beside the woman. "Hold the baby," she instructed. "Just breathe."
+
+Lila took the infant, and something remarkable happened. Her steady heartbeat, her calm breathing, her regulated nervous system—all of it seemed to transfer to the child. Within minutes, the baby settled into peaceful sleep. The mother's shoulders dropped, and she began to weep with relief.
+
+"This is what your body was preparing for," Maren said softly. "Not just to be well, but to be a source of wellness for others. Your metabolic mastery has created space for service."
+
+Lila understood then that all her learning—about calories and macronutrients, about timing and flexibility, about stress and recovery—had been building toward this moment of simple presence. Her body had become not just a vessel for her own thriving, but a sanctuary others could rest in.
+
+**Moral**: True mastery reveals itself not in personal perfection, but in the capacity to serve others from a place of overflow.
+
+*Tomorrow, we discover what happens when this beautiful service becomes contaminated by the helper's unhealed need to be needed.*`,
+  },
 ];

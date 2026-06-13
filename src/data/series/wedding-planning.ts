@@ -5998,4 +5998,63 @@ Moral: The strongest marriages are not built in the absence of hurt, but in the 
 
 Tomorrow, we discover why learning to ask for forgiveness may be even more crucial than learning to give it...`,
   },
+  {
+    day: 97,
+    title: "The Sacred Humility",
+    date: "2026-06-13",
+    image: "images/wedding-planning/day-97.jpg",
+    audio: "audio/wedding-planning/day-97",
+    sonnet: `**🪶 Sonnet XCVII: The Sacred Humility**
+
+When pride stands guard at love's most tender door,
+Defending ego's brittle, hollow throne,
+The heart grows small and love can bloom no more—
+Two fortresses where intimacy's unknown.
+But humble love kneels down when it has erred,
+Says "I was wrong" without a single "but,"
+Chooses the healing balm of whispered word
+Over the sword that keeps connection shut.
+For marriages are built on holy ground
+Where two souls risk the terror of being seen,
+Where "I'm sorry" is love's most sacred sound
+And vulnerability reigns as sovereign queen.
+*The strongest unions are not free from pain,*
+*But brave enough to love through pride's refrain.*`,
+    standard: `💍 Day 97: The Sacred Humility
+
+Learning to ask for forgiveness skillfully would transform those wounded moments from defensive explanations into vulnerable confessions—"I hurt you and I'm deeply sorry" instead of "Here's why what I did wasn't really that bad." This reveals that humble love prioritizes healing the relationship over protecting the ego, understanding that true strength lies in admitting fault rather than avoiding responsibility.
+
+**The Concept**
+True marital strength emerges not from being right but from being humble enough to be wrong gracefully.
+
+**Why It Matters**
+Every marriage will contain moments of hurt, misunderstanding, and failure—but only marriages built on genuine humility can transform these inevitable wounds into deeper intimacy. Pride kills more relationships than any external force because it prevents the vulnerability required for authentic repair.
+
+**How It Works**
+Humble love says "I was wrong" without adding "but you were wrong too." It offers specific acknowledgment ("I dismissed your feelings when you tried to tell me about the venue") rather than vague apologies ("I'm sorry you're upset"). Humility chooses curiosity over defensiveness, asking "Help me understand how that affected you" instead of explaining why the hurt wasn't intended. When your partner expresses pain, humble love's first instinct is to move closer and listen, not to step back and justify.
+
+**Wedding Wisdom**
+The couple who can say "I was wrong" with genuine tenderness will build a marriage that grows stronger through conflict rather than weaker.
+
+**Tomorrow's Question** — If you discovered that your wedding would reveal whether you're marrying someone who brings out your best self or someone who requires you to diminish yourself to keep peace, which category does your relationship honestly fall into, and what does that reveal about whether you're about to enter a marriage that will expand your soul or contract it?`,
+    parable: `Dove sat in the café, staring at the apology text she'd drafted and deleted seventeen times. Last night's argument about the rehearsal dinner had escalated badly—she'd accused Elm of not caring about her family's traditions, and he'd responded by questioning whether anything about this wedding was actually about them anymore.
+
+"Child, you look like you're trying to solve world peace through that phone," Nana Rose observed, settling into the chair across from her.
+
+"I said terrible things to Elm last night," Dove confessed. "I was stressed about my mother's demands, and I took it out on him. Now I don't know how to fix it without looking weak."
+
+Nana Rose's weathered hands wrapped around her teacup. "I've watched a thousand couples navigate their first real fights during wedding planning. The ones who last aren't the ones who never wound each other—they're the ones who can tend each other's wounds without pride getting in the way."
+
+"But what if admitting I was wrong makes him think he can just dismiss my feelings whenever we disagree?"
+
+"Oh, honey," Nana Rose smiled sadly. "That's fear talking. True strength in love isn't proving you're never wrong—it's being brave enough to be wrong beautifully. When you can say 'I hurt you and I'm deeply sorry' without adding 'but here's why,' that's when your partner learns they're safe with your love even when you're struggling."
+
+Dove deleted her defensive draft and wrote simply: "I was completely wrong last night. Can we talk? I want to understand how I hurt you."
+
+Elm's response came immediately: "Thank you for saying that. I love you. Yes, let's talk."
+
+**Moral:** The marriages that endure are built by two people brave enough to be wrong gracefully, understanding that humility in love is not weakness but the highest form of strength.
+
+**Tomorrow:** Dove and Elm discover that their relationship's true nature will be revealed not by how they handle success, but by whose influence makes them more authentically themselves.`,
+  },
 ];

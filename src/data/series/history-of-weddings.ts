@@ -1431,4 +1431,67 @@ Celeste sat quietly, absorbing this. "So the ultimate wedding freedom is invisib
 
 **Tomorrow:** *But if couples can create profound marriages outside all institutional systems, what does this reveal about the systems themselves?*`,
   },
+  {
+    day: 24,
+    title: "The Institution Question — When Marriage Becomes the Problem",
+    date: "2026-06-13",
+    image: "images/history-of-weddings/day-24.jpg",
+    audio: "audio/history-of-weddings/day-24",
+    sonnet: `**🪶 Sonnet XXIV: The Institution Question**
+
+When love must fit in boxes made by law,
+And hearts conform to what the church demands,
+The institution becomes the master's claw
+That shapes the clay with predetermined hands.
+Yet those who dared to craft their own design—
+Elena's moonlit vows, James' yearly rite—
+Found partnership in freedom's pure shrine,
+Unbound by others' rules of wrong and right.
+The strongest bonds grow wild outside the gate,
+Where two souls write their own sacred text,
+No legal frame to dictate love's true fate,
+No doctrine saying what must happen next.
+*For marriage serves the world's stability,*
+*While partnership serves love's infinity.*`,
+    standard: `💒 Day 24: The Institution Question — When Marriage Becomes the Problem
+
+[The previous lesson ended with this question: "If couples can successfully create transformative wedding ceremonies that operate completely outside commercial and social systems, what does this suggest about whether marriage itself—as a legal, religious, and social institution—actually helps or hinders the deep partnership these couples are trying to create?" The evidence suggests that institutional marriage often becomes a container too rigid for the organic growth of partnership—when couples must conform their relationship to legal definitions, religious doctrines, and social expectations, the institution can actually constrain the very intimacy it claims to protect. The most transformative partnerships throughout history have often thrived despite institutional marriage, not because of it.
+
+🧱 **The Concept**
+Marriage as an institution creates standardized frameworks that may fundamentally conflict with the unique needs of individual partnerships.
+
+❓ **Why It Matters**
+When relationships must conform to institutional requirements—legal contracts, religious doctrine, social roles—the institution begins serving itself rather than the couple. This creates a paradox where the very system designed to support partnership actually limits its potential for growth and authenticity.
+
+⚙️ **How It Works**
+Institutional marriage operates through standardization: legal marriage requires specific documentation, tax implications, and property rights that treat all relationships identically regardless of their unique dynamics. Religious marriage imposes theological frameworks that may conflict with couples' personal spiritual beliefs or practices. Social marriage creates performance expectations—anniversary celebrations, role conformity, public displays—that prioritize external validation over internal connection. **The most successful partnerships in history often created their own frameworks**: Virginia Woolf and Leonard Woolf maintained separate bedrooms and independent creative lives while sharing deep intellectual intimacy. Frida Kahlo and Diego Rivera divorced and remarried, refusing to let legal definitions constrain their complex bond. Many indigenous cultures recognized multiple forms of partnership that couldn't be reduced to a single institutional model.
+
+🎯 **Wedding History Wisdom**
+The institution of marriage often becomes more invested in perpetuating itself than in serving the couples within it.
+
+❓ **Tomorrow's Question** — If marriage as an institution can actually constrain the partnerships it claims to protect, what does this suggest about whether the current movement toward marriage equality is expanding freedom or simply extending a flawed system to more people—and are LGBTQ+ couples gaining access to liberation or to a beautiful prison?`,
+    parable: `Celeste sat in Elder Maren's study, surrounded by towering shelves of wedding histories, her notebook filled with weeks of discoveries about ceremonies, commerce, and community. "I've learned so much about creating meaningful rituals," she said slowly, "but I keep wondering—what if the problem isn't the ceremony at all? What if it's marriage itself?"
+
+Elder Maren nodded thoughtfully, her weathered hands tracing the spine of an ancient text. "You've reached the question that scholars have whispered about for centuries," she replied. "Come, let me show you something."
+
+She pulled down a leather-bound journal filled with pressed flowers and handwritten notes. "This belonged to a woman named Elena, who lived in the 18th century. She and her beloved Maria created their own form of union—they exchanged rings made from melted-down family heirlooms, planted a garden together that would bloom each spring, and wrote vows that they renewed every full moon. They lived as partners for forty years, caring for each other through illness, supporting each other's dreams, raising Maria's sister's children when she died. Yet legally, religiously, socially—they were spinsters. Nothing more."
+
+Celeste leaned forward, captivated. "But they had something deeper than marriage."
+
+"Exactly. Now consider Elena's sister Catherine, who married properly—church ceremony, legal contracts, social approval. Her husband controlled her money, her movements, her friendships. The law gave him rights over her body and her children. The church told her to submit. Society praised her for her sacrifice. She was 'successfully married' and utterly trapped."
+
+Elder Maren opened another journal, this one more recent. "Or consider James and David, who lived together for thirty years in the 20th century, building a business together, caring for aging parents, weathering every storm side by side. They couldn't marry legally, so they created their own rituals—annual commitment ceremonies, shared bank accounts despite legal complications, wills that protected each other despite social hostility. Their partnership was more resilient than most marriages precisely because they had to consciously choose it every day, without institutional pressure or legal safety nets."
+
+"So the institution can actually work against partnership?" Celeste asked.
+
+"Think of it this way," Elder Maren said gently. "Marriage as an institution must serve many masters—the state needs tax categories and inheritance laws, religions need theological consistency, society needs role definitions. But your partnership serves only two people: you and your beloved. When those needs conflict, which do you choose?"
+
+Celeste felt something shift inside her understanding. "The couples who created their own ceremonies outside all systems—they weren't just avoiding commercialization. They were avoiding institutional constraints entirely."
+
+"And their partnerships often showed remarkable strength and creativity because of it," Elder Maren confirmed. "They had to develop their own communication skills, their own conflict resolution, their own definitions of commitment. The institution couldn't save them or trap them—they had only each other and their conscious choices."
+
+**Moral**: The strongest partnerships often grow despite institutional frameworks, not because of them.
+
+**Tomorrow**: Elder Maren will explore whether the fight for marriage equality represents true freedom or simply access to a flawed system.`,
+  },
 ];
