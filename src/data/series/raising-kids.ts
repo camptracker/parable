@@ -2230,4 +2230,58 @@ As the afternoon unfolded, Asha witnessed a masterclass in organic social learni
 
 *Tomorrow, we explore why our instinct to orchestrate smooth social experiences might actually deprive our children of the very skills they need to navigate real relationships...*`,
   },
+  {
+    day: 37,
+    title: "The Courage to Stay in Your Lane",
+    date: "2026-06-14",
+    image: "images/raising-kids/day-37.jpg",
+    audio: "audio/raising-kids/day-37",
+    sonnet: `**🪶 Sonnet XXXVII: The Courage to Stay in Your Lane**
+
+When children clash in playground's sacred space,
+Our hearts compel us forth to smooth each fight,
+To orchestrate each gesture, word, and place,
+And shield them from relationship's hard bite.
+
+Yet in our haste to mend each social tear,
+We rob them of their power to repair,
+Our own old wounds make every conflict fear
+A repetition of our childhood's snare.
+
+But watching from the sideline takes such grace,
+To trust their growing strength to find their way,
+To let them stumble, learn, and find their place
+Without our rescue coming to the fray.
+
+*The courage to stay back and let them grow*
+*Teaches them that they're stronger than they know.*`,
+    standard: `👶 Day 37: The Courage to Stay in Your Lane
+
+We orchestrate our children's social interactions because we mistake our discomfort with conflict for our children's inability to handle it. Our impulse to smooth over their peer struggles often stems from our own unresolved social wounds and our fear that they'll experience the rejection or misunderstanding we once felt.
+
+**The Concept**: Learning to distinguish between when our children genuinely need our intervention versus when our own anxiety is driving us to interfere.
+
+**Why It Matters**: Children develop authentic social skills through trial and error, not through choreographed interactions. When we consistently step in to manage their relationships, we rob them of the opportunity to build confidence in their own ability to navigate social challenges and repair relationships independently.
+
+**How It Works**: This requires developing what therapists call "differentiation" — the ability to separate our emotional experience from our child's. When your child comes home upset about a friend excluding them, the urge to call the other parent or orchestrate a playdate solution comes from your pain watching them hurt, not from their inability to handle the situation. Instead, we can offer empathy ("That sounds really disappointing") while trusting their resilience ("What do you think you might do about it?"). We intervene only when there's genuine harm or when they specifically ask for help problem-solving. This teaches them that we believe in their capacity to handle relationship challenges.
+
+**Parenting Wisdom**: Our job is not to eliminate our children's social struggles but to help them develop the emotional muscle to navigate them with integrity and self-respect.
+
+**Tomorrow's Question**: If we know that children learn best when they feel capable and competent, why do we often find ourselves doing emotional labor for them — interpreting other people's behavior, managing their disappointments, and explaining away their social challenges — rather than helping them develop their own emotional intelligence and social intuition?`,
+    parable: `Asha watched through the kitchen window as her four-year-old son played in the backyard with the neighbor children. When one child grabbed a toy from another and tears followed, every fiber of her being wanted to rush outside and orchestrate a solution. "He took the truck! Make him give it back!" she imagined herself saying, smoothing over the conflict with adult logic and fairness.
+
+But Elder Mira, visiting for tea, placed a gentle hand on Asha's arm. "Watch," she whispered. "See what unfolds."
+
+Asha forced herself to stay put, though her heart raced as she watched her son's face crumple. But then something remarkable happened. Her son approached the other child and said, "Can I have a turn when you're done?" The toy-taker, perhaps moved by the direct request, handed it over almost immediately.
+
+"I raised seven children," Mira said softly, "and I learned that my discomfort with their conflicts was often louder than their actual distress. They were building muscles I couldn't see — learning to advocate for themselves, to read social cues, to repair small hurts before they became big ones."
+
+Asha realized that her impulse to intervene came not from her son's incapacity, but from her own memory of childhood helplessness, her own fear of being excluded or treated unfairly. "So when do we step in?" she asked.
+
+"When there's real harm," Mira replied, "or when they ask for help thinking through a problem. But most of the time, they're more capable than we imagine. Our anxiety about their social struggles often says more about our unhealed places than their actual needs."
+
+**Moral**: The courage to stay in our lane as parents means trusting our children's capacity to navigate their own social world while managing our own emotional responses to their temporary struggles.
+
+**Tomorrow**: Asha will discover why her instinct to explain away her child's disappointments might actually be undermining the very emotional intelligence she hopes to cultivate.`,
+  },
 ];

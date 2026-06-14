@@ -1494,4 +1494,70 @@ Celeste felt something shift inside her understanding. "The couples who created 
 
 **Tomorrow**: Elder Maren will explore whether the fight for marriage equality represents true freedom or simply access to a flawed system.`,
   },
+  {
+    day: 25,
+    title: "The Beautiful Prison — Why Marriage Equality Both Liberates and Limits",
+    date: "2026-06-14",
+    image: "images/history-of-weddings/day-25.jpg",
+    audio: "audio/history-of-weddings/day-25",
+    sonnet: `**🪶 Sonnet XXV: The Beautiful Prison**
+
+When golden gates swung wide for those denied,
+The excluded masses rushed to claim their place,
+Not seeing how the bars, though beautified,
+Would reshape love to fit convention's grace.
+
+The rainbow flags flew high at altar's edge,
+As couples pledged in forms their foes designed,
+Trading creative bonds for legal pledge,
+Leaving revolutionary love behind.
+
+Yet rights are real — the hospital's cruel door
+No longer bars the beloved from bedside,
+And inheritance flows as never before
+To chosen hearts once forced to love and hide.
+
+*But freedom's price was conformity's chain—*
+*Liberation found through prison's golden reign.*`,
+    standard: `💒 Day 25: The Beautiful Prison — Why Marriage Equality Both Liberates and Limits
+
+Marriage equality represents both genuine liberation and institutional expansion — LGBTQ+ couples gained access to legal protections and social recognition while simultaneously being absorbed into a system originally designed to regulate rather than celebrate love. This paradox reveals that institutional marriage functions as a "beautiful prison" that offers real benefits (inheritance rights, medical decisions, social legitimacy) while requiring conformity to heteronormative scripts and state oversight of intimate relationships.
+
+🧱 **The Concept**
+Institutional marriage simultaneously liberates and constrains by offering legal benefits that require submission to governmental regulation of love.
+
+❓ **Why It Matters**
+The marriage equality movement's success exposes the fundamental tension between seeking institutional validation and maintaining relational autonomy. Understanding this paradox reveals why some couples feel trapped by the very institution they fought to access, and why others feel empowered by legal recognition while constrained by social expectations.
+
+⚙️ **How It Works**
+Marriage equality created new freedoms: same-sex couples could inherit property without tax penalties, make medical decisions for partners, and gain immigration rights through marriage. However, it also extended institutional control: the state now regulates LGBTQ+ relationships through divorce courts, dictates terms of separation, and enforces heteronormative models of partnership structure. Many couples discovered that legal marriage altered their relationship dynamics — partners who had negotiated creative, egalitarian arrangements found themselves defaulting to traditional spouse roles. The institution's "one-size-fits-all" model couldn't accommodate the diversity of queer relationship structures, forcing couples into predetermined templates. Some LGBTQ+ couples now report feeling pressure to perform "respectability" through conventional wedding ceremonies, losing the creative relationship structures they had developed outside institutional frameworks.
+
+🎯 **Wedding History Wisdom**
+Marriage equality's greatest achievement may have been revealing that the real question isn't who gets to marry, but whether marriage as currently structured serves anyone's authentic relational needs.
+
+❓ **Tomorrow's Question** — If marriage equality exposed the institution's fundamental inability to accommodate diverse relationship structures, what does this suggest about whether the future of human partnership lies in reforming marriage or in creating entirely new legal and social frameworks that can honor the full spectrum of how people actually want to love and commit to each other?`,
+    parable: `"Marriage equality feels like a victory that tastes of compromise," Celeste confessed to Elder Maren as they sat in the historian's study, surrounded by portraits of couples from across the centuries. "My friends fought so hard for the right to marry, but now some of them seem... constrained by it."
+
+Elder Maren nodded knowingly, her fingers tracing the spine of a leather-bound journal. "I have watched this pattern repeat across history, child. When excluded groups gain access to institutions, they often discover that the institution changes them as much as they change it."
+
+"But surely legal recognition is purely positive?" Celeste pressed. "The inheritance rights, the hospital visits, the social acceptance?"
+
+"Oh, the benefits are real," the elder replied, opening her journal to reveal pressed flowers from various wedding ceremonies. "But consider this: your LGBTQ+ friends spent decades creating revolutionary forms of partnership — chosen families, intentional communities, relationships that defied every conventional script. They negotiated power, shared resources, and committed to each other without templates or rules."
+
+Celeste leaned forward, intrigued.
+
+"Then marriage equality arrived," Elder Maren continued, "offering legal protection in exchange for conformity to a system designed by and for heterosexual, patriarchal, property-owning relationships. Suddenly, couples who had pioneered egalitarian partnerships found themselves slipping into 'husband' and 'wife' roles, planning weddings that looked remarkably similar to their parents', submitting their creative love to governmental regulation."
+
+"So they gained rights but lost innovation?"
+
+"They gained a beautiful prison," Elder Maren said gently. "Golden bars that protect while they constrain. The institution that excluded them for being different now includes them on the condition that they become the same."
+
+Celeste stared at the pressed flowers, each one a remnant of love celebrated within prescribed boundaries. "Then what's the answer?"
+
+Elder Maren smiled mysteriously. "Perhaps the answer lies not in who gets to enter the institution, but in questioning whether any institution can truly contain the infinite ways humans choose to love."
+
+**Moral:** True equality might require not just access to existing institutions, but the creation of new frameworks that honor diversity rather than demanding conformity.
+
+**Tomorrow:** We explore whether humanity's future lies in reforming marriage or in birthing entirely new structures of commitment that can hold the full spectrum of human love.`,
+  },
 ];

@@ -6911,4 +6911,76 @@ Kael watched a raven steal grain from beneath Tobren's dancing marvel while Sabl
 
 **Tomorrow**: Sable will reveal why our deepest wounds around worthiness make us the easiest targets for those who profit from our self-doubt.`,
   },
+  {
+    day: 106,
+    title: "The Worth Wound",
+    date: "2026-06-14",
+    image: "images/financial-independence/day-106.jpg",
+    audio: "audio/financial-independence/day-106",
+    sonnet: `**🪶 Sonnet CVI: The Worth Wound**
+
+Deep in the heart where self-doubt makes its home,
+A wound festers that merchants know too well—
+The need to prove that we deserve the dome
+Of wealth through prices that our stories tell.
+
+We choose the costly path, not for results,
+But for the feeling that expense confers:
+"Surely cheap solutions breed only faults,
+And simple answers are for commoners."
+
+The wound grows deeper with each premium paid,
+Each complex product bought to prove our worth,
+While basic wisdom sits in shadowed shade,
+Too humble-seeming for our desperate search.
+
+*Yet healing comes when we at last can see*
+*That simple abundance needs no costly fee.*`,
+    standard: `💰 Day 106: The Worth Wound
+
+The connection between self-worth and money reveals that our financial system exploits a fundamental psychological wound—the belief that we must prove our worthiness through complexity and expense. People with low self-esteem become prime targets for premium services because they mistake paying more for being valued more, confusing transaction costs with personal worth.
+
+🧱 **The Concept**
+The "worth wound" is the psychological belief that we must earn our right to wealth through suffering, complexity, or paying premium prices—as if simple solutions are somehow beneath our deserving.
+
+❓ **Why It Matters**
+This wound drives people to choose expensive, complex financial products over simple, effective ones, not because the products are better, but because expensive feels like worthy. Financial marketers deliberately exploit this wound, packaging ordinary services as "exclusive" or "sophisticated" to justify premium pricing.
+
+⚙️ **How It Works**
+The worth wound manifests when someone chooses a 2% expense ratio actively managed fund over a 0.03% index fund, not due to performance data, but because "surely something so cheap can't work for someone like me." It appears when people hire expensive financial advisors to validate decisions they could make themselves, paying thousands annually for permission to do what they already know is right. It drives the purchase of complex insurance products that combine investing with insurance poorly, because "comprehensive" feels more worthy than simple. The wound whispers that if a solution is accessible to everyone, it must not be good enough for us.
+
+🎯 **Buffett Wisdom**
+"Price is what you pay. Value is what you get." The worth wound confuses the two, making us pay premium prices for inferior value.
+
+❓ **Tomorrow's Question** — If healing the worth wound is so crucial for financial success, yet our entire consumer economy depends on keeping this wound open and profitable, what does this suggest about the compatibility between individual healing and systemic economic growth—and why might personal financial wisdom represent a form of quiet rebellion against the psychological foundations of modern capitalism?`,
+    parable: `The morning mist clung to the village square as Kael found Sable sitting quietly on the old stone bench, watching merchants set up their stalls. The boy's shoulders carried a weight that seemed too heavy for his young frame.
+
+"Elder," Kael began hesitantly, "I've been thinking about yesterday's lesson, about how some people pay more because they feel they need to prove they deserve wealth. But why do I feel... unworthy of simple answers? When you tell me investing can be as easy as buying one fund and waiting, part of me rebels. Surely something so important requires more... effort?"
+
+Sable's weathered hand gestured toward a merchant's stall where two identical clay pots sat side by side. One bore elaborate decorations and cost five silver pieces. The other, plain and functional, cost one silver piece. Both would hold water equally well.
+
+"Tell me, young Kael, which pot would your neighbor Lyra choose?"
+
+Kael thought of Lyra, who always spoke of feeling inadequate compared to the wealthy merchants' daughters. "The expensive one. She'd say the plain pot wasn't... fitting for someone trying to better herself."
+
+"And what drives this choice?"
+
+"She believes she must prove her worth through what she owns," Kael said slowly. "The extra cost feels like... payment for the right to be valued."
+
+Tobren approached, overhearing. "Aye, I see it in the fields too. Young farmers buying complicated seed treatments that cost thrice as much as simple compost, not because they work better, but because expensive feels more... professional. They fear being seen as country simpletons."
+
+Sable nodded gravely. "The merchants understand this wound well. They whisper, 'Surely someone of your aspirations wouldn't choose the basic option?' They package ordinary goods as 'premium' or 'exclusive,' not to improve function, but to heal the wounded feeling of unworthiness."
+
+"But the wound never heals that way," Kael realized. "It only grows deeper with each expensive choice that doesn't deliver the worthiness it promised."
+
+"Precisely. The worth wound becomes a profitable cycle. The more unworthy someone feels, the more they spend trying to purchase worthiness, which leaves them poorer and feeling more unworthy still."
+
+Tobren's eyes darkened with understanding. "And in my fields, I've learned the hardest truth of all—the simplest solutions often work best, but they require us to believe we deserve effectiveness without suffering for it."
+
+Sable stood, his gaze encompassing both the decorated and plain pots. "True wealth begins when we heal the belief that we must earn our right to simple abundance. The worth wound is perhaps the most expensive injury a person can carry."
+
+**Moral:** *The worth wound—believing we must prove our deserving through complexity and expense—is perhaps the costliest psychological injury, making us pay premium prices for inferior outcomes simply to feel worthy of success.*
+
+*Tomorrow, Sable will explore why healing individual worth wounds might challenge the very foundations of the economic system that profits from keeping them open...*`,
+  },
 ];

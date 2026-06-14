@@ -6057,4 +6057,68 @@ Elm's response came immediately: "Thank you for saying that. I love you. Yes, le
 
 **Tomorrow:** Dove and Elm discover that their relationship's true nature will be revealed not by how they handle success, but by whose influence makes them more authentically themselves.`,
   },
+  {
+    day: 98,
+    title: "The Sacred Expansion",
+    date: "2026-06-14",
+    image: "images/wedding-planning/day-98.jpg",
+    audio: "audio/wedding-planning/day-98",
+    sonnet: `**🪶 Sonnet XCVIII: The Sacred Expansion**
+
+When love demands that you make yourself small,
+Trimming dreams to fit another's fear,
+That is not partnership, but slow downfall—
+A gradual dimming year after year.
+
+True love creates the space where souls can grow,
+Like gardener tending wild and climbing vine,
+Providing structure so that you may show
+The fullest flowering of your design.
+
+Expansive hearts see potential, not just flaws,
+They celebrate the quirks that make you whole,
+They never ask for silence without cause,
+But fuel the fire that burns within your soul.
+
+*Choose love that makes you braver than before,*
+*Not smaller, but abundantly much more.*`,
+    standard: `💍 Day 98: The Sacred Expansion
+
+If your relationship genuinely brings out your best self, you've likely noticed that your partner's presence makes you braver, kinder, and more authentically yourself than you are alone. This expansion happens naturally when you're with someone who celebrates your growth rather than requiring you to shrink to fit their comfort zone. When love expands rather than contracts your soul, it's because you've found someone who sees your potential and creates space for it to flourish.
+
+🧱 **The Concept**
+True love acts as a catalyst for becoming more fully yourself rather than less.
+
+❓ **Why It Matters**
+Marriage either amplifies your authentic self or gradually erodes it through countless small compromises that serve fear rather than love. The trajectory you're on now—expansion or contraction—will only intensify after the wedding, making this the most crucial assessment you can make before saying "I do."
+
+⚙️ **How It Works**
+Expansive love shows up in specific ways: your partner encourages your dreams even when they're inconvenient, celebrates your quirks instead of trying to smooth them away, and creates safety for you to voice unpopular opinions or uncomfortable truths. They might challenge you to grow, but never demand you shrink. For example, if you've always been a people-pleaser, an expansive partner will gently encourage you to set boundaries rather than enabling your patterns. If you've always hidden your creativity, they'll create conditions where it can emerge rather than dismissing it as impractical. Contractive relationships, by contrast, require ongoing self-editing to maintain harmony—you find yourself automatically censoring thoughts, dreams, or aspects of your personality to avoid conflict or disappointment.
+
+🎯 **Wedding Wisdom**
+Your wedding planning process itself reveals whether this relationship expands or contracts you—notice whether you feel more authentically yourself or more performatively careful throughout the entire experience.
+
+❓ **Tomorrow's Question** — If you discovered that the truest test of whether you should marry someone is not whether you can imagine growing old together, but whether you can imagine growing into your fullest potential together, what dreams or aspects of yourself would you need to see flourishing five years into marriage to know you chose correctly?`,
+    parable: `Dove sat in the garden behind Nana Rose's cottage, watching Elm tend to the ancient climbing roses that had been growing wild for decades. "I've been thinking about what you said yesterday," she called to him. "About whether we bring out each other's best selves."
+
+Elm looked up from where he was carefully untangling a particularly stubborn vine from the trellis. "And?"
+
+"I realized something," Dove said, her voice growing stronger. "Before I met you, I was always apologizing for taking up space. Always making myself smaller so other people would be comfortable. But with you..." She paused, watching him work with patient precision. "With you, I feel like I can be the full version of myself."
+
+Nana Rose appeared in the doorway, carrying a tray of tea. "Ah," she said, settling beside Dove. "You've discovered the difference between love that requires dimming and love that provides fuel."
+
+"Fuel?" Dove asked.
+
+"Watch him with those roses," Nana Rose nodded toward Elm. "He could trim them into neat, predictable shapes. Instead, he's creating space for them to climb higher than they've ever climbed before. That's what expansive love does—it provides structure not to constrain, but to support wild growth."
+
+Elm returned, soil under his fingernails, grinning. "Found three new buds that were hidden under all that tangle. They just needed room to breathe."
+
+Dove felt something shift in her chest. "I used to be afraid that marriage would mean becoming half a person to make room for someone else. But that's not what's happening, is it?"
+
+"True partnership," Nana Rose said, "doesn't require subtraction. It multiplies."
+
+**Moral**: Love that demands you become smaller is not love—it's fear wearing love's costume. True love creates the conditions for your soul to expand beyond what you ever thought possible.
+
+*Tomorrow, Dove will discover what it means to choose a partner based not on who they are today, but on who they're brave enough to become together.*`,
+  },
 ];

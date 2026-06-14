@@ -6311,4 +6311,66 @@ Lila understood then that all her learning—about calories and macronutrients, 
 
 *Tomorrow, we discover what happens when this beautiful service becomes contaminated by the helper's unhealed need to be needed.*`,
   },
+  {
+    day: 102,
+    title: "The Energetic Drain",
+    date: "2026-06-14",
+    image: "images/nutrition-science/day-102.jpg",
+    audio: "audio/nutrition-science/day-102",
+    sonnet: `**🪶 Sonnet CII: The Energetic Drain**
+
+The healer's flame burns bright for all to see,
+Yet some approach not seeking inner fire,
+But vampires drawn to stolen energy,
+Who feed on peace while never climbing higher.
+
+Though service calls the metabolic heart,
+Beware the souls who drink but never give,
+For they can tear your sacred work apart
+By teaching you to die so they might live.
+
+The nervous system knows this subtle theft,
+Through fatigue that perfect food cannot heal,
+When boundaries dissolve, what strength is left?
+The body speaks what minds refuse to feel.
+
+*True service flows where mutual growth takes root,*
+*False charity bears only poisoned fruit.*`,
+    standard: `🍎 Day 102: **The Energetic Drain**
+
+When metabolic masters become skilled at holding space, they can unconsciously attract energy vampires—people who feed off stability without reciprocating growth energy. This parasitic dynamic slowly depletes the master's own reserves because they're constantly giving without receiving the energetic exchange that sustains healthy relationships. The corruption occurs when the master's nervous system begins chronically dysregulating from this one-way flow, eventually destroying the very metabolic balance that enabled their service capacity.
+
+🧱 **The Concept**
+True metabolic mastery creates an energetic field that can either attract genuine students or parasitic dependents. The difference determines whether service enhances or depletes your biological reserves.
+
+❓ **Why It Matters**
+Many healers and helpers burn out not from the work itself, but from failing to distinguish between energetically reciprocal relationships and draining ones. Your metabolic stability can become a magnet for people who unconsciously seek to stabilize themselves through your energy rather than developing their own capacity.
+
+⚙️ **How It Works**
+Healthy therapeutic relationships create an energetic exchange—even when you're giving more than receiving, there's a quality of aliveness and mutual growth that actually energizes both parties. Parasitic relationships feel different: they drain your reserves despite appearing successful on the surface. Your nervous system will signal this difference through persistent fatigue, irritability, or metabolic symptoms that appear despite perfect diet and lifestyle practices. For example, you might notice that certain clients leave you feeling depleted for hours afterward, while others energize you even when dealing with difficult material. The key is learning to recognize these energetic signatures and protect your capacity accordingly.
+
+🎯 **Science Wisdom**
+Your nervous system can detect energetic reciprocity through stress hormone patterns and autonomic responses that either enhance or degrade your metabolic function.
+
+❓ **Tomorrow's Question** — *If your nervous system can so precisely detect energetic vampirism through metabolic feedback, what happens when cultural conditioning teaches you to override these protective signals in the name of being helpful or spiritual—and why might your body's "selfish" boundaries actually be more aligned with genuine service than your mind's people-pleasing impulses?*`,
+    parable: `Lila found Maren sitting by her central hearth, staring into flames that seemed dimmer than usual. "Teacher, your fire burns low today."
+
+Maren nodded slowly. "I have been reflecting on the young woman who comes to me thrice weekly. She speaks of healing, but her eyes seek only my steadiness. Watch." She gestured to the hearth. "See how this flame draws all oxygen toward itself, yet gives nothing back? Soon, even the mightiest fire suffocates."
+
+"But surely helping others strengthens us?" Lila asked.
+
+"True exchange does," Maren replied, moving to her second hearth where flames danced vibrantly. "See this fire? It consumes wood, yes, but also creates warmth that draws people close. They bring stories, laughter, their own inner flames. This fire grows stronger through true connection."
+
+She led Lila to the third hearth, barely glowing. "But this one? I fed it all morning, yet it weakens. Why?" She pointed to a crack in the chimney. "It draws well, but all heat escapes. Like relationships where you pour yourself out endlessly without reciprocal nourishment."
+
+"How do we tell the difference?" Lila wondered.
+
+"Your body knows," Maren said, placing a hand over her heart. "True service makes this space expand, even when you give greatly. False service contracts it, leaving you hollow despite appearing full of purpose."
+
+As if summoned by their words, the young woman appeared at the door, her presence immediately dimming even Maren's brightest flame.
+
+**Moral:** *The body's energy responds to true reciprocity with expansion, to parasitic exchange with depletion—regardless of how noble the service appears.*
+
+*Tomorrow, Lila will discover why Maren's most powerful boundary is one that appears selfish to the seeking mind...*`,
+  },
 ];
