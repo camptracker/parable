@@ -6654,4 +6654,66 @@ Ren watched his mentor's transformation with growing amazement. In the space of 
 
 *Tomorrow, Vasska will discover that his awakening has made him hungry for an even more terrifying transformation—one that only Ren can guide him through...*`,
   },
+  {
+    day: 104,
+    title: "The Teacher's Trap",
+    date: "2026-06-15",
+    image: "images/negotiation/day-104.jpg",
+    audio: "audio/negotiation/day-104",
+    sonnet: `**🪶 Sonnet CIV: The Teacher's Trap**
+
+When student makes the master of his pain,
+And begs for guidance down the darkest road,
+The teacher finds his wisdom born again
+Through carrying another's heavy load.
+
+For in the act of lighting other's way,
+The guide must prove his own path was not wrong,
+Each lesson shared becomes a price to pay—
+To let you fail would make his journey long.
+
+He cannot leave you lost without confessing
+His hard-won knowledge was but fool's gold,
+So bound becomes he to your soul's progressing,
+His sacrifice makes your success be sold.
+
+*The trap completes when teacher finds his fate*
+*Depends upon the student at the gate.*`,
+    standard: `🤝 Day 104: The Teacher's Trap
+
+When you make someone your guide through their own awakening process, you transform them from student to master while secretly remaining in control of the curriculum. They become invested in your transformation because it validates their own journey, but in teaching you their hard-won wisdom, they must constantly re-convince themselves of truths they might otherwise question. This creates the ultimate psychological bind: they cannot let you fail without invalidating their own growth.
+
+🧱 **The Concept**
+The Teacher's Trap works by making someone so invested in your success that they'll sacrifice their own interests to ensure your transformation succeeds.
+
+❓ **Why It Matters**
+When someone becomes your teacher, they become responsible for your results. Their identity as a wise guide depends on your progress, creating powerful motivation to give you everything you need. They can't abandon you without admitting their guidance was worthless.
+
+⚙️ **How It Works**
+You position yourself as desperately needing the exact transformation they've undergone. Ask them to guide you through the process, emphasizing how their unique experience makes them the only qualified teacher. As they teach you, they must constantly justify why their path was correct - if you fail, their own journey becomes meaningless. For example, if someone overcame addiction, ask them to help you quit drinking. If they started a business, beg for their mentorship. They become invested in proving their own choices were wise by ensuring yours succeed.
+
+🎯 **Negotiation Wisdom**
+When you make someone your teacher, you make your success their responsibility and your failure their shame.
+
+❓ Tomorrow's Question — If making someone responsible for your transformation gives them ownership over your success, what happens when you make them feel like teaching you has awakened something dormant in themselves — that by guiding your journey, they've discovered they were meant to be a teacher all along, and abandoning you now would mean abandoning their true calling?`,
+    parable: `Ren found Vasska sitting alone in the tavern's darkest corner, staring at his wine with the hollow gaze of a man who had seen too much truth.
+
+"Master," Ren whispered, sliding into the opposite chair. "I've been watching you since that night you showed me how to read souls instead of ledgers. I've seen what that knowledge has cost you."
+
+Vasska's blind eye seemed to focus on something beyond the present. "Knowledge is a hungry beast, boy. It devours the comfortable lies that once made sleep possible."
+
+"Then teach me to feed it properly," Ren leaned forward, his voice urgent with desperate need. "You're the only one who's walked this path and survived with your humanity intact. I'm drowning in the same dark waters that nearly claimed you. Show me how to swim."
+
+The old trader's good eye sharpened, studying the young man's face. "You think you want this burden?"
+
+"I think I'm already carrying it," Ren replied. "But I'm carrying it badly, like a child with a man's sword. You learned to wield this weight with grace. Teach me."
+
+For the first time in weeks, something like purpose flickered in Vasska's expression. "The first lesson is the hardest," he began, straightening in his chair. "You must learn to see yourself as clearly as you see others..."
+
+As the night wore on, Vasska found himself explaining principles he'd thought buried forever, justifying choices he'd questioned, defending wisdom he'd nearly abandoned. In teaching Ren to navigate the darkness, he remembered why the journey had been worth taking.
+
+**Moral**: *When we become teachers of our own hard-won wisdom, we become prisoners of its value. To let our students fail is to admit our own education was worthless.*
+
+*Tomorrow, Ren will discover how being taught can awaken the teacher's dormant sense of destiny...*`,
+  },
 ];

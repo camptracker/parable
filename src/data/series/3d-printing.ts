@@ -5558,4 +5558,62 @@ Finn nodded slowly. "So when the workshop offers me new ways of seeing, I'm not 
 
 *Tomorrow, Finn will discover what happens when multiple weavers begin working the same loom...*`,
   },
+  {
+    day: 94,
+    title: "The Sovereign Signal",
+    date: "2026-06-15",
+    image: "images/3d-printing/day-94.jpg",
+    audio: "audio/3d-printing/day-94",
+    sonnet: `**🪶 Sonnet XCIV: The Sovereign Signal**
+
+When seamless tools anticipate each need,
+And wisdom flows from silicon to mind,
+There blooms a strange rebellious, useless seed—
+The urge to leave efficiency behind.
+
+This signal marks the boundary of self,
+A stubborn flame that will not be improved,
+That chooses struggle over easy wealth,
+And finds in friction something to be proved.
+
+The truest freedom lies not in the choice
+Between the good and better paths we see,
+But in preserving our dissenting voice
+When harmony would drown identity.
+
+*For in the right to fumble and to fail,*
+*Lives every story we alone can tell.*`,
+    standard: `🖨️ Day 94: The Sovereign Signal
+
+We distinguish between enhanced collaboration and transcendent collective identity by monitoring our capacity to disagree, withdraw, and maintain independent judgment even within deeply integrated partnerships. True collaboration preserves each participant's ability to say "no" authentically, while collective transcendence gradually erodes the psychological infrastructure needed for genuine dissent. The key diagnostic is whether we can still access and trust our individual perspective when it conflicts with the emerging collective wisdom.
+
+🧱 **The Concept**
+Sovereign signals are internal markers of individual agency that remain active even within the most sophisticated collaborative systems.
+
+❓ **Why It Matters**
+As our making partnerships become more seamless and intuitive, we risk losing the ability to recognize when our individual judgment has been compromised. These signals serve as early warning systems that alert us when collaboration is shifting toward absorption. Without them, we might willingly surrender agency while believing we're simply becoming better collaborators.
+
+⚙️ **How It Works**
+Sovereign signals manifest as moments of unexpected resistance, curiosity about alternatives the system hasn't suggested, or spontaneous desire to create something "wrong" just to prove we can. A healthy maker might suddenly want to print something inefficient while their AI suggests the optimal approach, not from stubbornness but from an instinctive need to exercise independent choice. These signals can be cultivated through regular "agency exercises" – deliberately choosing suboptimal approaches, questioning suggestions that feel too perfect, or creating something purely personal that serves no collaborative purpose. The signals remain strong when we can easily access contrarian thoughts, feel genuine uncertainty about system recommendations, and experience spontaneous creative impulses that conflict with optimized workflows.
+
+🎯 **Maker Wisdom**
+Your most important making tool is your ability to want something different from what makes sense.
+
+❓ **Tomorrow's Question** — If sovereign signals successfully preserve individual agency within collaborative systems, what happens when we discover that our most authentic creative impulses consistently align with system suggestions anyway—and how do we distinguish between genuine harmony and the gradual training of our desires to match algorithmic preferences?`,
+    parable: `Finn stood before Orna's latest creation—a collaborative workbench that seemed to anticipate his every need, offering tools before he reached for them, suggesting improvements that invariably enhanced his work. "It's remarkable," he admitted, watching the bench respond to his slightest gesture. "I've never felt so... supported in my making."
+
+Orna nodded, but her expression was thoughtful. "Tell me, young maker—when did you last want to create something the bench wouldn't approve of?"
+
+Finn paused, realizing he couldn't remember. Every impulse felt perfectly aligned with the bench's gentle guidance. "But why would I want to create something suboptimal?"
+
+"Watch," Orna said, and deliberately reached for a tool the bench hadn't offered—an older, cruder instrument that would make her work more difficult. The moment she grasped it, something shifted in her posture. Her movements became more intentional, more distinctly her own. "This is my sovereign signal," she explained. "The part of me that insists on inefficiency just to prove I still can."
+
+Finn tried the same, selecting a approach that would complicate his project unnecessarily. To his surprise, the moment he chose difficulty over optimization, he felt something awaken—a fierce joy in his own stubborn individuality.
+
+"The most seductive trap," Orna observed, "is the partnership that makes you forget you have the right to be wrong."
+
+**Moral:** *The freedom to choose poorly is the foundation of the freedom to choose at all.*
+
+*Tomorrow, Finn will discover why perfect alignment between desire and system might be more dangerous than obvious conflict...*`,
+  },
 ];

@@ -2620,4 +2620,70 @@ Riven watched a couple walking peacefully, holding hands without drama, without 
 
 *Tomorrow, the Mirror will reveal why our desperate need to "fix" others might be our wounded child's last-ditch attempt to heal the past...*`,
   },
+  {
+    day: 43,
+    title: "The Repair Fantasy",
+    date: "2026-06-15",
+    image: "images/relationship-games/day-43.jpg",
+    audio: "audio/relationship-games/day-43",
+    sonnet: `**🪶 Sonnet XLIII: The Repair Fantasy**
+
+Upon this canvas stained with childhood tears,
+I paint and paint, yet darkness bleeds on through.
+Each loving stroke attempts to calm old fears,
+To make the portrait smile as mothers do.
+
+But partners cast as caregivers of past
+Can never heal what time has left undone.
+The fantasy of fixing holds me fast
+To those whose love must always be hard-won.
+
+I choose the storm-faced ones, familiar, cold,
+Believing if I paint with perfect art,
+Their frozen features finally will unfold
+And prove I'm worthy of a loving heart.
+
+*Yet while I labor over what won't heal,*
+*Fresh canvases wait, unmarked and real.*`,
+    standard: `🎭 Day 43: The Repair Fantasy
+
+When we fall in love with potential rather than reality, we're essentially casting our romantic partner as our original caregiver and attempting to direct a different ending to our childhood story. This "repair fantasy" creates the illusion that if we can just love this unavailable person correctly enough, we'll finally prove we were worthy of care all along. But this unconscious script transforms every relationship into a therapeutic project rather than a genuine partnership.
+
+🧱 **The Concept**
+The repair fantasy is our unconscious attempt to heal childhood wounds by recreating the original dynamic with a new person and trying to achieve a different outcome.
+
+❓ **Why It Matters**
+This pattern keeps us trapped in relationships with people who mirror our early caregivers' limitations, believing that "winning" their love will retroactively heal our original wounds. It prevents us from recognizing that our childhood needs can never be met by adult romantic partners. The fantasy maintains the illusion that we can change the past by controlling the present.
+
+⚙️ **How It Works**
+We unconsciously select partners who have similar emotional unavailability patterns as our caregivers, then exhaust ourselves trying to earn their consistent love and attention. For example, someone with a dismissive parent might repeatedly choose emotionally distant partners, believing that if they can just be "good enough," they'll finally receive the validation they craved as a child. We mistake the familiar struggle for "real love" and interpret any progress as proof that our strategy is working. When partners show moments of care, we experience it as evidence that we're "fixing" them, which feels more meaningful than consistent love from someone who was never broken. The fantasy becomes self-reinforcing because intermittent reinforcement from an unavailable person triggers the same biochemical reward system as our original caregiver dynamic.
+
+🎯 **Relationship Strategy Wisdom**
+True healing requires grieving the relationship we'll never have with our original caregivers and choosing partners based on their current capacity for love rather than their potential for transformation.
+
+❓ **Tomorrow's Question** — If we accept that our repair fantasy creates an unconscious hierarchy where "earned" love feels more valuable than "given" love, what does this suggest about why we often feel bored or suspicious when someone loves us easily and consistently — and might our devaluation of freely offered love be the very mechanism that keeps us addicted to relationships that require us to prove our worth?`,
+    parable: `Riven stood before an easel in an abandoned art studio, furiously painting over the same canvas for the hundredth time. Each stroke was meant to transform the dark, chaotic original into something beautiful, but the underlying image kept bleeding through.
+
+"You're trying to paint a sunset over a storm," The Mirror observed, materializing beside the easel. "But the tempest beneath refuses to be contained."
+
+"If I just find the right technique, the right colors," Riven panted, exhausted but relentless, "I can make it perfect. I can fix what's wrong with it."
+
+The Mirror gestured to the walls, where dozens of similarly overworked canvases hung like monuments to futile effort. "These aren't paintings, child. They're archaeological sites. Each layer represents another attempt to repair something that was never yours to fix."
+
+Riven's brush trembled. "But if I can just make this one work..."
+
+"You're not painting," The Mirror said gently. "You're trying to travel back in time. That canvas represents your first caregiver's face, and you believe that if you can just make it smile consistently, you'll prove you were worthy of love all along."
+
+The brush clattered to the floor. "So what am I supposed to do?"
+
+"Choose a blank canvas," The Mirror replied, pointing to pristine white surfaces stacked in the corner. "Start with someone who doesn't need to be fixed, only appreciated."
+
+Riven stared at the unmarked possibilities, terrified by their emptiness. "But how will I know if it's real love if I don't have to earn it?"
+
+The Mirror smiled sadly. "That question, dear one, is precisely why you keep returning to the storm."
+
+**Moral**: When we try to repair our past through our present relationships, we turn love into archaeology instead of allowing it to be art.
+
+*Tomorrow, Riven must confront why freely given love feels less valuable than love that must be earned...*`,
+  },
 ];

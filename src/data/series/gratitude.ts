@@ -2787,4 +2787,63 @@ He gestured toward his thriving roses. "Gratitude without wisdom becomes mere se
 
 **Tomorrow:** Elder Thorn will reveal why the most spiritual-seeming choices often mask our deepest spiritual avoidance.`,
   },
+  {
+    day: 46,
+    title: "The Sacred Boundaries",
+    date: "2026-06-15",
+    image: "images/gratitude/day-46.jpg",
+    audio: "audio/gratitude/day-46",
+    sonnet: `**🪶 Sonnet XLVI: The Sacred Boundaries**
+
+A garden wild with every sprouting weed
+May seem more generous in its embrace,
+Yet tangled growth serves neither bloom nor seed—
+All beauty lost in chaos' frantic chase.
+
+The gardener's blade, though sharp, shows deeper care,
+For pruning clears the path for roses bright;
+Each careful cut makes room for what is rare,
+And boundaries birth the flower's truest light.
+
+So gratitude, when scattered thin and wide,
+Loses its power to transform the heart;
+But focused love, with wisdom as its guide,
+Makes sacred space where healing can restart.
+
+*The no that serves the deeper yes we seek*
+*Gives strength to those too overwhelmed to speak.*`,
+    standard: `🙏 Day 46: The Sacred Boundaries
+
+We feel more spiritual saying yes to everything because we've been taught that spiritual people are selfless and accommodating, but this often becomes spiritual bypass—using spiritual concepts to avoid the difficult work of discernment and healthy boundaries. True spiritual practice requires the courage to disappoint others when necessary to preserve your authentic capacity for love and gratitude.
+
+🧱 **The Concept**
+Authentic gratitude requires sacred boundaries—the wisdom to know what deserves your precious attention and what doesn't.
+
+❓ **Why It Matters**
+Without boundaries, your gratitude becomes diluted across countless obligations and distractions, leaving you depleted rather than nourished. Spiritual maturity means recognizing that saying yes to everything is actually saying no to depth, presence, and genuine appreciation.
+
+⚙️ **How It Works**
+Sacred boundaries in gratitude practice look like declining social events that drain your energy so you can fully appreciate quiet time with loved ones. It means limiting news consumption so you can notice the beauty in your immediate environment. It involves saying no to volunteer commitments that feel obligatory so you can wholeheartedly serve where you're genuinely called. These boundaries aren't selfish—they're necessary for maintaining the quality of presence that makes deep gratitude possible. When you protect your capacity for appreciation, you become more grateful, not less.
+
+🎯 **Gratitude Wisdom**
+Boundaries aren't walls against gratitude—they're the sacred space that allows authentic appreciation to flourish.
+
+❓ **Tomorrow's Question**
+If protecting your capacity for deep gratitude sometimes means disappointing people who expect constant availability, why do we often feel more guilty about setting healthy boundaries than we do about the resentment and superficial connections that result from having no boundaries at all?`,
+    parable: `Hana watched in amazement as Elder Thorn tended his gratitude garden, carefully pruning branches and removing weeds with deliberate precision. "Master," she asked, "why do you cut away so much? Wouldn't it be more loving to let everything grow?"
+
+Elder Thorn paused, his weathered hands gentle on a flowering branch. "Young one, observe this rose bush. See how it blooms magnificently?" Hana nodded, admiring the vibrant petals. "Last season, I allowed every shoot to grow, thinking abundance meant accepting all. The bush became tangled, weak, its energy scattered across countless small buds that never fully opened."
+
+He pointed to a wild vine creeping near the garden's edge. "That vine offers itself freely to any plant, promising connection. But look closer—everything it touches becomes strangled, unable to reach its true potential."
+
+"But isn't it selfish to refuse the vine's embrace?" Hana wondered aloud.
+
+Elder Thorn smiled knowingly. "The rose that blooms fully feeds the bees, delights the eye, and perfumes the air. The rose that tries to connect with every passing weed serves no one well. Sacred boundaries aren't barriers to love—they're the discipline that allows love to concentrate into its most potent form."
+
+As if summoned by his words, a bee landed on the carefully tended rose, its wings heavy with pollen. "The garden teaches us," Thorn continued, "that saying no to scattered growth allows us to say yes to deep blooming."
+
+**Moral:** True spiritual generosity requires the wisdom to know what deserves your energy and what doesn't—for only through sacred boundaries can your gratitude reach its full flowering.
+
+*Tomorrow, Hana will learn why the guilt of disappointing others often feels more comfortable than the freedom of authentic boundaries...*`,
+  },
 ];
