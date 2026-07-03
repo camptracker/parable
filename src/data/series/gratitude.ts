@@ -2846,4 +2846,80 @@ As if summoned by his words, a bee landed on the carefully tended rose, its wing
 
 *Tomorrow, Hana will learn why the guilt of disappointing others often feels more comfortable than the freedom of authentic boundaries...*`,
   },
+  {
+    day: 47,
+    title: "The Gratitude Frequency",
+    date: "2026-07-03",
+    image: "images/gratitude/day-47.jpg",
+    audio: "audio/gratitude/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Gratitude Frequency**
+
+The bell rings true when struck by its own hand,
+Not borrowed mallets shaped by others' need—
+Each soul contains a note that's wholly planned,
+A frequency born from authentic seed.
+
+We play the songs society deems right,
+While our true music withers in the dark,
+Performing gratitude with technical might,
+Yet never touching anyone's true heart.
+
+But when you dare to hum your native tone,
+The universe responds with matching sound—
+What once seemed scattered now finds its way home,
+And kindred spirits suddenly are found.
+
+*The courage lies not in the notes you choose,*
+*But ceasing to perform what you must lose.*`,
+    standard: `🙏 Day 47: The Gratitude Frequency
+
+🧱 **The Concept**
+Authentic gratitude operates at a specific frequency that can only be maintained when your practice aligns with your genuine values rather than others' expectations.
+
+❓ **Why It Matters**
+When your gratitude practice becomes synchronized with your authentic self, it creates a resonance that attracts experiences, relationships, and opportunities that genuinely serve your growth. Operating at the wrong frequency—practicing gratitude for what you think you should appreciate rather than what genuinely moves you—creates dissonance that drains energy rather than generating it.
+
+⚙️ **How It Works**
+Imagine two musicians: one plays notes they were told are beautiful, the other plays what genuinely resonates in their soul. The first creates technically correct but lifeless music; the second creates something that makes listeners weep. Your gratitude practice works the same way. When you force appreciation for achievements that society values but don't fulfill you, you create interference patterns that block genuine joy. When you allow yourself to feel deeply grateful for simple moments—the way morning light falls across your kitchen, a stranger's unexpected kindness, the quiet satisfaction of work that matters to you—you establish a frequency that naturally amplifies itself. This authentic frequency doesn't just make you feel better; it literally changes what you notice, what opportunities you recognize, and whom you attract into your life. The universe doesn't respond to performed gratitude; it responds to the genuine vibration of appreciation.
+
+🎯 **Gratitude Wisdom**
+Your authentic gratitude frequency is your soul's signature—when you stop trying to match others' notes and play your own, you finally create the music you were meant to make.
+
+❓ **Tomorrow's Question** — If operating at your authentic gratitude frequency naturally attracts experiences and people who resonate with your true self while repelling those who don't, why do we often panic when old relationships and opportunities fall away, and what does this panic reveal about whether we trust our own frequency to guide us toward what's genuinely meant for us?`,
+    parable: `Hana found Elder Thorn standing before a great bell in the temple courtyard, striking it with different mallets, listening intently to each tone.
+
+"Why do you test so many mallets?" Hana asked. "The bell always sounds the same."
+
+"Does it?" Elder Thorn handed her a wooden mallet. "Strike it."
+
+Hana did. The bell produced a deep, warm tone that seemed to vibrate in her chest.
+
+"Now this one." Elder Thorn offered a metal mallet.
+
+Hana struck again. The sound was sharper, brighter, but somehow left her feeling hollow.
+
+"The bell is unchanged," Elder Thorn said, "but the frequency it produces depends entirely on what strikes it. Your gratitude practice works the same way. You are the bell, apprentice. The question is: what are you allowing to strike you?"
+
+"I don't understand."
+
+Elder Thorn gestured toward the village below. "For years after my family died, I let bitterness strike my bell. Every morning, every interaction, every sunset—all produced the same hollow, sharp frequency. Then one day, I realized I could choose what struck my heart. I could let others' expectations strike me, producing the sounds they wanted to hear. Or I could let my authentic gratitude—even for my grief, my survival, my slow healing—strike me instead."
+
+"And the sound changed?"
+
+"Everything changed. When I started operating at my true frequency, people who thrived on my bitterness fell away. They couldn't tolerate the new resonance. But others appeared—people I'd never noticed before, who had been vibrating at a similar frequency all along, waiting for me to match their tone."
+
+Elder Thorn struck the bell with a mallet Hana hadn't noticed—one worn smooth by decades of use. The sound that emerged was unlike the others: complex, rich, full of overtones that seemed to continue long after the initial strike.
+
+"This is my mallet," Elder Thorn said. "Shaped by my own hand, my own journey. It produces my frequency. You cannot borrow it, Hana. You must carve your own."
+
+"But what if I carve it wrong? What if my frequency is... unpleasant?"
+
+"Then it will be authentically unpleasant, and that honesty will serve you better than the most beautiful borrowed tone." Elder Thorn smiled. "Besides, you cannot carve it wrong. Your authentic frequency is already humming in your bones, waiting for you to stop trying to match everyone else's song. The courage is not in creating your frequency—it's in finally allowing yourself to hear it."
+
+Hana picked up the worn mallet, feeling its unique weight, its particular balance. She understood now why Elder Thorn had tested so many others first—not to find the right one, but to demonstrate how wrong all the borrowed ones felt.
+
+**Moral**: *Your authentic gratitude frequency cannot be borrowed or performed—it must be discovered by releasing what no longer resonates and trusting the vibration that remains.*
+
+**Tomorrow**: *When operating at your true frequency causes certain people and opportunities to fall away, how do you distinguish between necessary losses and abandonment of relationship?*`,
+  },
 ];
