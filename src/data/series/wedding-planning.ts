@@ -6220,4 +6220,78 @@ Dove looked at her journal, at that question still unanswered: "Who do I want to
 
 **Tomorrow**: Dove faces the truth that flourishing sometimes requires choosing between comfort and calling—and discovers whether Elm will truly celebrate her growth when it demands sacrifice from them both.`,
   },
+  {
+    day: 100,
+    title: "The Sacred Arrival",
+    date: "2026-07-04",
+    image: "images/wedding-planning/day-100.jpg",
+    audio: "audio/wedding-planning/day-100",
+    sonnet: `**🪶 Sonnet C: The Sacred Arrival**
+
+One hundred days have sculpted hearts anew,
+Transforming those who sought a perfect day
+Into the souls whose promises ring true—
+Not polished vows, but truth they learned to say.
+
+The mirror shows not who first said "I will,"
+But warriors who've battled their own fear,
+Who chose the hard, the honest, and the real,
+And found that love grows deeper, not more sheer.
+
+No longer seeking weddings without flaw,
+But marriages that honor what is true,
+They've learned that every question that they saw
+Was not about the ceremony, but who—
+
+*Who they must become to truly stay,
+Beyond the vows, beyond the wedding day.*`,
+    standard: `💍 Day 100: The Sacred Arrival
+
+🧱 **The Concept**
+You have reached the threshold—not just of your wedding day, but of a completely transformed understanding of what marriage truly means and requires.
+
+❓ **Why It Matters**
+The journey from engagement to wedding has been far more than planning logistics and making decisions—it has been a spiritual pilgrimage that has prepared you not for a perfect ceremony, but for an honest marriage. Every question you've wrestled with, every fear you've confronted, every illusion you've released has been sculpting you into someone capable of sustaining genuine intimacy rather than just celebrating romantic love. The transformation that has occurred within you during these hundred days is the real wedding gift—everything else is just beautiful wrapping.
+
+⚙️ **How It Works**
+As you stand on the precipice of your wedding day, you now understand that **marriage is not a destination you arrive at but a practice you commit to**—a daily choice to remain devoted even when feelings fluctuate, to stay curious even when you think you know everything, to choose vulnerability even when armor feels safer. You've learned that **the healthiest marriages are built by two whole people** who don't need each other to feel complete but choose each other to create something beyond themselves. You've discovered that **authentic ceremonies emerge from honest conversations** about what truly matters versus what merely looks impressive. You've realized that **every tradition you keep or release is a statement** about whose marriage this will be—yours or everyone else's expectations. You've practiced **seeing conflict as an invitation to deeper understanding** rather than evidence of incompatibility. Most importantly, you've learned that **the person you've become through this process** is far more valuable than any detail of the celebration itself—because that person is who will actually be married, long after the last guest goes home.
+
+🎯 **Wedding Wisdom**
+Your wedding day will be perfect not because everything goes according to plan, but because you will show up as your most authentic, courageous, and loving self—and that self has been carefully cultivated through every lesson you've learned on this journey.
+
+❓ **Tomorrow's Question** — If you could send one message back in time to the person you were on the very first day of this journey (when you were just beginning to plan your wedding and didn't yet know everything you would learn), what single truth would you want to share that would have transformed your entire experience from the very beginning?`,
+    parable: `Dove stood before the mirror in her childhood bedroom, the morning light painting everything gold. In precisely three hours, she would walk down an aisle toward Elm. But unlike the anxious bride who had first sought Nana Rose's guidance one hundred days ago, the woman in the mirror radiated a different kind of beauty—the kind that comes from having been transformed by truth rather than merely decorated for display.
+
+Nana Rose appeared in the doorway, her eyes bright with recognition. "Do you remember," the old woman asked softly, "what you said to me on our first meeting? You said you wanted your wedding to be perfect."
+
+Dove laughed—a sound both tender and knowing. "I did. And I had no idea what I was asking for."
+
+"And what do you know now?"
+
+Dove turned from the mirror to face her guide. "That perfection was never the point. The point was becoming someone capable of sustaining what I'm about to promise. Every question you asked, every comfortable illusion you shattered—you weren't teaching me how to plan a wedding. You were teaching me how to be married."
+
+Elm knocked softly before entering, their tradition of not seeing each other before the ceremony having been one of the few they'd chosen to release. He carried two cups of tea and the kind of peace that comes from having weathered storms together. "I've been thinking," he said, handing Dove her cup, "about how terrified I was one hundred days ago. Not of marrying you—of whether I was actually ready to be married to anyone."
+
+"And now?" Dove asked.
+
+"Now I know that readiness isn't something you achieve—it's something you practice. Every hard conversation we've had, every moment we chose honesty over harmony, every time we navigated stress as partners instead of adversaries—we've been rehearsing marriage all along."
+
+Nana Rose smiled, her work nearly complete. "You've both learned what most couples take years to discover—that the wedding is not the culmination of your love story but the commencement of your marriage practice. Everything you've wrestled with during these hundred days has prepared you not for one perfect day, but for thousands of imperfect ones that will require exactly the skills you've been cultivating."
+
+She moved to the window, gazing out at the gathering guests. "When you walk down that aisle in a few hours, you won't be the same people who got engaged. You've been transformed—not by the planning, but by the becoming. You've learned to negotiate conflict, to honor individuality within unity, to distinguish between impressive performances and authentic expressions. You've practiced vulnerability when you wanted to hide, honesty when you wanted to please, and courage when you wanted to conform."
+
+Dove reached for Elm's hand, their fingers intertwining with practiced ease. "I used to think," she said quietly, "that the wedding would be the moment everything began. But it's not, is it? The marriage has already begun. Every choice we've made, every pattern we've established, every promise we've already kept—we've been married in spirit for a while now. The ceremony is just when we announce what we've already been becoming."
+
+"Precisely," Nana Rose confirmed. "Which is why your wedding will be perfect—not because the flowers will be flawless or the timeline precise, but because two people who have genuinely prepared for marriage will stand before their community and consecrate what they've already been practicing. The ceremony will be true because you have become true."
+
+Elm stood, pulling Dove to her feet. "Then let's go get married—not to the fantasy versions of each other we might have wanted one hundred days ago, but to the real, complicated, beautiful humans we've actually become."
+
+As they embraced, Nana Rose gathered her things, her role as guide complete. She had watched this transformation a thousand times, yet it never ceased to move her—the moment when two people stop performing love and start embodying it, when they release the wedding they thought they should have and claim the marriage they're actually ready for.
+
+"One last thing," Nana Rose said from the doorway. "The journey doesn't end today. Marriage will ask questions even harder than the ones you've answered. But you've learned the most important lesson: that love isn't about having all the answers—it's about staying curious, staying honest, and staying devoted even when you don't."
+
+**Moral:** *The wedding you arrive at is far less important than the person you've become by arriving—because that person is who will actually be married when the ceremony ends and the marriage begins.*
+
+**Tomorrow's teaser:** As Dove and Elm prepare to speak their vows before their gathered community, they will discover the final truth about what they're actually promising—and why the words matter far less than the heart that speaks them.`,
+  },
 ];
