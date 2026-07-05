@@ -6294,4 +6294,104 @@ As they embraced, Nana Rose gathered her things, her role as guide complete. She
 
 **Tomorrow's teaser:** As Dove and Elm prepare to speak their vows before their gathered community, they will discover the final truth about what they're actually promising—and why the words matter far less than the heart that speaks them.`,
   },
+  {
+    day: 101,
+    title: "The Sacred Compass",
+    date: "2026-07-05",
+    image: "images/wedding-planning/day-101.jpg",
+    audio: "audio/wedding-planning/day-101",
+    sonnet: `**🪶 Sonnet CI: The Sacred Compass**
+
+When every choice becomes a battlefield,
+And spreadsheets multiply like summer weeds,
+The overwhelmed heart cries out to be healed,
+To find one truth among a thousand needs.
+
+The compass points not north but to the heart,
+Asks one clear question through the anxious noise:
+Does this decision tear your truth apart,
+Or does it serve the love you've made your choice?
+
+Fear wears a thousand masks—what will they think?
+While love speaks plainly in a single voice:
+This honors us, this makes our spirits sing,
+This is the path that makes our souls rejoice.
+
+*No map can guide where only truth will do—*
+*The compass always points to what is true.*`,
+    standard: `💍 Day 101: The Sacred Compass
+
+The message I would send back is this: Your wedding will be perfect not when everything goes according to plan, but when every choice flows from asking "Does this serve our love or serve our fear?" That single question, asked consistently, would have saved me from a thousand anxious detours and brought me directly to what mattered. Everything else—every tradition debated, every budget wrestled, every family expectation navigated—becomes remarkably clear when filtered through that one sacred compass.
+
+🧱 **The Concept**
+
+Every wedding decision ultimately serves either love (authenticity, connection, joy) or fear (obligation, comparison, control). The clarity comes not from having all the answers, but from knowing which force is guiding each choice.
+
+❓ **Why It Matters**
+
+Most wedding stress stems from trying to satisfy contradictory masters—your authentic desires versus external expectations. Without a reliable compass, you'll exhaust yourself attempting to please everyone while losing sight of what you're actually celebrating. The question "Does this serve love or fear?" cuts through the confusion instantly, revealing whether a choice brings you closer to your truth or further from it.
+
+⚙️ **How It Works**
+
+When you're debating whether to invite your partner's difficult relative, ask: am I including them from genuine love and hope for reconciliation, or from fear of judgment and family drama? When you're considering an expensive floral arrangement, ask: does this choice emerge from loving beauty and creating atmosphere, or from fear that simple flowers will seem insufficient? When you're stressed about your ceremony length, ask: am I editing from love of presence and meaning, or from fear that guests will be bored? The answer isn't always to choose the "loving" option and reject the "fearful" one—sometimes honoring a tradition you don't personally love is itself an act of love toward family. But knowing which force drives you transforms obligation into conscious choice. A bride who realizes she's planning an elaborate cocktail hour from fear of seeming cheap might choose to keep it anyway—but now as a genuine gift to her guests rather than a defensive reaction. The compass doesn't make decisions for you; it reveals what's actually motivating them.
+
+🎯 **Wedding Wisdom**
+
+You don't need to eliminate all fear from your wedding planning—you just need to stop letting fear make your decisions while love watches helplessly from the sidelines.
+
+❓ **Tomorrow's Question**
+
+If you discovered that every moment of wedding-related anxiety is actually your soul's way of alerting you that you've temporarily forgotten what you're celebrating, what practice would you need to establish to remember your purpose whenever stress begins to overwhelm you, and what does that reveal about the difference between managing symptoms and addressing causes?`,
+    parable: `Dove sat surrounded by spreadsheets, seating charts, and seventeen different versions of her timeline, each color-coded and cross-referenced. Her shoulders curved inward like wilted petals. "I don't know how to choose anymore," she whispered to Elm. "Every option feels equally right and equally wrong."
+
+Nana Rose entered carrying not her usual planning binder, but a simple brass compass. She set it on the table between them, its needle spinning before settling north. "Tell me, child—what decision has you paralyzed today?"
+
+"The cake," Dove said, laughing bitterly. "It sounds ridiculous, but I've been staring at these options for an hour. My mother wants traditional fruitcake because it's what her mother served. Elm wants something simple and chocolate. I want these elaborate flavors that match our story—cardamom and rose for the trip where he proposed, lavender honey for my grandmother's garden where we first said 'I love you.' But that feels indulgent and expensive and maybe too precious, and I just... I don't know."
+
+Nana Rose tapped the compass. "What if I told you that every choice you've agonized over in the past hundred days has been a version of the same choice?"
+
+"Which choice?" Elm asked.
+
+"The choice between love and fear." Nana Rose turned the compass so it faced Dove. "Your mother's fruitcake—when you imagine serving it, are you moving toward connection with her, or running away from her disappointment?"
+
+Dove closed her eyes. "Running away. I don't even like fruitcake. Neither does she, actually. She just thinks it's what we're supposed to want."
+
+"And Elm's chocolate?"
+
+"That's... that's just Elm being Elm. He genuinely loves simple things." Dove smiled. "That one's from love."
+
+"And your story-flavors?"
+
+Dove's breath caught. "I'm afraid they're too much. Afraid people will think we're showing off or being overly sentimental. Afraid..."
+
+"Afraid of being fully yourselves," Nana Rose finished gently. "So the question becomes: does choosing cardamom and rose serve your love—for each other, for your story, for beauty itself—or does it serve your fear that being authentic is somehow wrong?"
+
+Elm reached for Dove's hand. "I vote for your flavors. The chocolate was just me not wanting to make things complicated. But if we're being honest about what we love..."
+
+Nana Rose lifted the compass, holding it up to the light. "This is the only tool you actually need for every remaining decision. Not my advice, not your mother's preferences, not the wedding magazines. Just this: does this choice flow from love or from fear? Love of beauty, love of tradition, love of simplicity, love of family, love of meaning—there are a thousand kinds of love, and they'll each guide you differently. But fear has only one voice, and it always sounds like 'what will they think?'"
+
+Dove took the compass, feeling its weight in her palm. "What about the choices where both are tangled together?"
+
+"Then you've found the most important decisions of all," Nana Rose said. "The ones that require you to look your fear directly in the eye and choose love anyway. Or the ones that teach you that sometimes honoring someone else's joy—even when it's not your preference—is itself the highest form of love. The compass doesn't make the choice simple. It makes the choice honest."
+
+Elm studied the seating chart. "So when I've been dreading the speeches because I'm afraid I'll cry in front of everyone..."
+
+"You're letting fear of vulnerability override love of expression," Nana Rose confirmed. "The question isn't whether to have speeches. It's whether you trust that your tears might be the most honest thing your guests witness all day."
+
+Dove looked at her seventeen timelines with new eyes. "I've been trying to engineer a day where nothing goes wrong. That's all fear, isn't it? Fear of judgment, fear of disappointment, fear of..."
+
+"Fear of being human," Nana Rose said. "And therefore fear of being loved as you actually are rather than as you perform yourselves to be."
+
+The compass needle turned slowly in Dove's hand, pointing not north but toward her own heart. "If I had known this on day one—if I had asked 'does this serve love or fear?' about every single decision..."
+
+"You would have arrived at day one hundred and one much lighter," Nana Rose said. "But you would not have learned why the compass matters. Some wisdom only comes from wandering lost for a while."
+
+Elm squeezed Dove's hand. "What if we go through every remaining decision together tonight, just asking that one question? Not changing everything—just knowing what's driving us."
+
+Dove nodded, and as she did, the weight of seventeen timelines seemed to lift like morning mist. The compass in her hand wasn't magic. It was simply truth, waiting to be consulted. And truth, she was learning, was the only planning tool that never failed.
+
+**Moral:** The wisest navigation requires not a thousand maps but one reliable compass—and for wedding planning as for life itself, the only question that matters is whether each choice serves love or serves fear.
+
+**Tomorrow:** Nana Rose will reveal why the practice of returning to your purpose might be the difference between a wedding that exhausts you and one that continually replenishes your soul.`,
+  },
 ];
