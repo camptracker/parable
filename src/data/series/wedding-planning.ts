@@ -6394,4 +6394,73 @@ Dove nodded, and as she did, the weight of seventeen timelines seemed to lift li
 
 **Tomorrow:** Nana Rose will reveal why the practice of returning to your purpose might be the difference between a wedding that exhausts you and one that continually replenishes your soul.`,
   },
+  {
+    day: 102,
+    title: "The Sacred Witness",
+    date: "2026-07-06",
+    image: "images/wedding-planning/day-102.jpg",
+    audio: "audio/wedding-planning/day-102",
+    sonnet: `**🪶 Sonnet CII: The Sacred Witness**
+
+They come not just to watch you speak your vows,
+But hold the memory of what you swear,
+When future storms obscure your sacred vows,
+These witnesses will testify to where
+You stood before the mystery and chose
+To bind yourself beyond what feeling knows.
+No private promise carries weight like this—
+A covenant proclaimed before the eyes
+Of those who'll never let you to dismiss
+The truth you spoke beneath these open skies.
+They are the living record of your love,
+The mirror when you can't recall your face,
+The holy ground you're standing far above,
+The keepers of this consecrated space.
+*So let them see you tremble, weep, and swear—*
+*Their witness is the weight your promise bears.*`,
+    standard: `💍 Day 102: The Sacred Witness
+
+🧱 The Concept
+Your wedding is not just about you saying "I do" to each other — it's about inviting witnesses to hold you accountable to the promises you're making, transforming private intention into public covenant.
+
+❓ Why It Matters
+Without witnesses, vows are merely personal resolutions that can be quietly abandoned when they become inconvenient. With witnesses, your promises become part of a larger web of accountability, support, and collective memory. Your guests aren't just spectators at your wedding — they're participants in a sacred contract, people who will remember what you promised and help you return to those promises when marriage becomes difficult.
+
+⚙️ How It Works
+Instead of treating your guests as an audience watching your performance, invite them explicitly into their role as witnesses. During your ceremony, you might have your officiant ask them directly: "Will you, as witnesses to these vows, support this marriage through prayer, encouragement, and honest counsel?" After your first dance, you might speak briefly about what witnessing means: "Your presence here isn't just to celebrate our love today, but to remind us of it when we forget." In your vows themselves, you might acknowledge: "Before these witnesses, I promise..." — naming the fact that you're making these promises not just to your partner but before a community that will hold you to them. Consider giving each guest a small card asking them to write one specific way they'll support your marriage in the coming year — transforming passive attendance into active participation.
+
+🎯 Wedding Wisdom
+The most powerful weddings are those where guests leave feeling not just entertained but enlisted — transformed from spectators into sacred witnesses who carry responsibility for what they've seen.
+
+❓ Tomorrow's Question — If you discovered that asking your guests to witness your vows means granting them permission to speak truth to you when your marriage struggles, which guests would you trust enough to actually want them in that role, and what does your answer reveal about the difference between inviting people to your wedding versus inviting them into your marriage?`,
+    parable: `Dove stood at the edge of the meadow where chairs were being arranged, her chest tight with an anxiety she couldn't name. "I keep thinking about all these people watching us," she said to Elm. "What if I cry? What if my voice shakes? What if I can't get through my vows without—"
+
+"What if they see you as human?" Elm finished gently.
+
+Nana Rose approached, her silver hair catching the morning light. "You're afraid of being witnessed," she said simply. "Most brides are. They think their guests are critics, judges, an audience that might find them lacking."
+
+"Aren't they?" Dove asked.
+
+"Only if you treat them that way." Nana Rose gestured toward the empty chairs. "Every person who will sit here has been where you are — or will be someday. They know what it costs to make promises before the mystery of the future. They're not here to evaluate your performance. They're here to become part of your story."
+
+Elm nodded slowly. "That's why we wanted them here. Not just to watch, but to... remember for us?"
+
+"More than remember," Nana Rose said. "To hold. There will come a day — perhaps many days — when you forget why you chose each other. When the promises you're about to make feel like chains rather than wings. On those days, these witnesses will remember what you've forgotten. They'll tell you the truth you can no longer see."
+
+Dove felt something shift in her chest. "So it's not about performing for them."
+
+"It's about letting them see you make a promise you might not always want to keep," Nana Rose said. "That's what makes it sacred. That's what transforms a declaration into a covenant. Without witnesses, we can revise our promises to suit our changing feelings. With witnesses, the promise holds even when the feeling doesn't."
+
+Elm reached for Dove's hand. "I want them to see us promise," he said quietly. "I want them to be able to say, 'I was there. I heard what you vowed.'"
+
+Nana Rose smiled. "Then your wedding ceremony isn't a performance. It's an invitation into your marriage itself — asking them to become the living memory of who you are on your best day, so they can help you return to that truth on your worst ones."
+
+Dove looked at the empty chairs with new eyes, seeing them not as seats for spectators but as stations for sentinels. "So when I'm afraid of being seen," she said slowly, "I'm actually afraid of being held accountable?"
+
+"And when you welcome being witnessed," Nana Rose said, "you welcome the gift of never having to carry your promises alone."
+
+**Moral:** A wedding without true witnesses is only a declaration; a wedding with sacred witnesses becomes a covenant written not just in two hearts but in the collective memory of a community that will help you remember who you promised to be.
+
+*Tomorrow, Dove will discover that not everyone who attends a wedding is qualified to witness a marriage, and that choosing whom to truly invite into that sacred role requires more discernment than she imagined.*`,
+  },
 ];
