@@ -6463,4 +6463,89 @@ Dove looked at the empty chairs with new eyes, seeing them not as seats for spec
 
 *Tomorrow, Dove will discover that not everyone who attends a wedding is qualified to witness a marriage, and that choosing whom to truly invite into that sacred role requires more discernment than she imagined.*`,
   },
+  {
+    day: 103,
+    title: "The Sacred Council",
+    date: "2026-07-07",
+    image: "images/wedding-planning/day-103.jpg",
+    audio: "audio/wedding-planning/day-103",
+    sonnet: `**🪶 Sonnet CIII: The Sacred Council**
+
+Three hundred names inscribed on ivory cards,
+Yet only eight would answer midnight's call,
+When marriage meets its tests and falls to shards—
+Those few who'd help us rise from every fall.
+
+The rest may feast and dance and wish us well,
+But witnesses are those who hold the vow,
+Who've earned the right our hardest truths to tell,
+Who'll speak with love when pride would disavow.
+
+Not bridesmaids chosen just for matching dress,
+But elders who have walked this path before,
+Whose wisdom born of their own marriages
+Can guide us back when we forget what for.
+
+*Let guest lists shrink but let the council grow—*
+*These few will matter more than all the show.*`,
+    standard: `💍 Day 103: The Sacred Council
+
+When you identify the guests you'd actually trust to speak into your marriage during difficult seasons, you're likely naming a small circle of people who have demonstrated wisdom, discretion, and genuine care for both of you as individuals and as a couple. These are the people who love you enough to tell you hard truths and humble enough to do so without judgment—and their presence at your wedding transforms them from spectators into spiritual guardians of your union.
+
+🧱 The Concept
+**Your wedding witnesses aren't just observers—they're your marriage's council of elders, the people you're inviting to hold you accountable to the promises you make.**
+
+❓ Why It Matters
+Most couples invite guests based on obligation, proximity, or tradition, creating audiences full of people who will celebrate the wedding but disappear during the marriage. **When you recognize that true witnesses are granted authority to speak into your relationship's future, you realize that your guest list should reflect not who deserves an invitation to your party, but who has earned a seat at your life's table.** This shifts wedding planning from social performance to spiritual community-building.
+
+⚙️ How It Works
+Identify the 5-10 people (not just bridesmaids and groomsmen) whose presence would genuinely strengthen your marriage because they embody the kind of love, wisdom, or partnership you aspire to. These might include the aunt who navigated her own marriage through crisis with grace, the mentor couple whose relationship you deeply respect, or the friend who has consistently shown both of you unconditional support without taking sides. **Consider explicitly asking these specific people to serve as your marriage's informal council**—not in any official capacity, but with the understanding that you value their perspective and may seek their wisdom during difficult seasons. During your reception, you might even create a quiet moment to acknowledge these particular witnesses, thanking them for agreeing to walk with you beyond the wedding day. This practice transforms your wedding from a celebration witnessed by many into a covenant supported by a few—and it ensures that when marriage gets hard (which it will), you'll know exactly who to turn to for guidance that's both loving and truthful.
+
+🎯 Wedding Wisdom
+**The guests who matter most aren't the ones who will make your wedding look impressive—they're the ones who will help your marriage become unshakeable.**
+
+❓ Tomorrow's Question
+If you discovered that the vows you write should promise not what you'll do when love feels easy but specifically what you'll do when it feels impossible, what concrete actions would you commit to during your worst moments together, and what does that reveal about the difference between romantic promises and operational commitments?`,
+    parable: `Dove sat at Nana Rose's kitchen table, surrounded by seating charts that looked like battle plans. "Three hundred guests," she murmured, moving name cards like chess pieces. "My mother's bridge club. Marc's college fraternity brothers. Cousins I haven't seen in fifteen years."
+
+Nana Rose poured tea with hands that had arranged a thousand wedding ceremonies. "Tell me, child—if your marriage hit troubled waters five years from now, which of these three hundred people would you call?"
+
+Dove's hands stilled over the cards. She touched perhaps eight names scattered across the chart. "These," she whispered. "Only these."
+
+"And yet you're spending sixty dollars per head to feed people whose names you won't remember at your anniversary."
+
+Elm appeared in the doorway, fresh from a frustrating phone call with his father about the guest list. "We can't uninvite people now. It would cause family wars."
+
+"No," Nana Rose agreed, "but you can recognize the difference between your audience and your council." She gathered the eight name cards Dove had touched. "These people—have you asked them to truly witness your marriage? Not just attend your wedding?"
+
+Dove looked confused. "What's the difference?"
+
+"Attending a wedding means showing up, eating cake, and wishing you well. Witnessing a marriage means receiving permission to speak truth when you're struggling—to remind you of these vows when you've forgotten them, to offer wisdom when you're lost, to love you enough to be honest when you're wrong."
+
+Elm pulled out a chair, suddenly interested. "Like... marriage referees?"
+
+"Like spiritual guardians," Nana Rose corrected. "In older traditions, witnesses weren't just legal signatures—they were elders who agreed to support the couple's union. When marriage grew difficult, you could return to them and say, 'You were there. You heard what we promised. Help us find our way back.'"
+
+Dove picked up the eight cards—her wise aunt who'd weathered her own marital storms, Elm's mentor couple whose partnership she admired, her friend who somehow loved them both without choosing sides. "We've never told these people that's what we want from them."
+
+"Then your wedding becomes a perfect opportunity." Nana Rose pulled out a beautiful leather-bound journal. "Some couples write letters to their true witnesses—not bridesmaids or groomsmen necessarily, but their marriage's council of elders. They give these letters during the rehearsal dinner or in quiet moments before the ceremony. They say: 'Your presence at our wedding means more than celebration. We're asking you to help us keep these promises when keeping them gets hard.'"
+
+Elm studied the eight names. "What about everyone else?"
+
+"You feed them, thank them, celebrate with them. They're your community, and community matters. But these eight?" Nana Rose tapped the cards. "These are your marriage's foundation. These are the people who transform your wedding from performance into covenant."
+
+Dove felt something shift in her chest. She'd been planning a wedding to impress three hundred people she barely knew, when what she actually needed was to deepen her bond with the eight who would help her marriage survive.
+
+"What if we created a moment during the reception," she said slowly, "where we acknowledged them specifically? Not making a big show, just... letting them know we see them as more than guests?"
+
+Nana Rose smiled. "Now you're understanding the difference between hosting a party and building a foundation."
+
+Elm reached for Dove's hand across the table. "We should write those letters tonight. Before we do anything else, we should tell these people what we're really asking of them."
+
+And as they began to write, the seating chart with its three hundred names seemed to fade in importance, overshadowed by eight profound relationships that would matter more than all the others combined.
+
+**Moral:** Your wedding's true power lies not in how many people attend, but in how deeply a few are invited to witness—and the difference between filling seats and building a council may determine whether your marriage weathers its inevitable storms.
+
+**Tomorrow:** Nana Rose will reveal what happens when Dove and Elm must write vows that promise not what they'll do when love feels easy, but what they'll do when love feels impossible.`,
+  },
 ];

@@ -6473,4 +6473,82 @@ Cairn's chisel rang against stone. "The only wrong choice is to keep choosing."
 
 **Tomorrow:** Cairn shows Rook the stone he abandoned after fourteen years—and what that particular failure taught him about the difference between misguided commitment and faithful discernment.`,
   },
+  {
+    day: 105,
+    title: "The Anchor Test",
+    date: "2026-07-07",
+    image: "images/habits-and-systems/day-105.jpg",
+    audio: "audio/habits-and-systems/day-105",
+    sonnet: `**🪶 Sonnet CV: The Anchor Test**
+
+For forty years the chisel met the stone,
+Each dawn renewing what the dusk erased,
+Until the carver questioned what he'd known—
+Does habit serve, or has it been misplaced?
+
+The test requires a temporary cease,
+A willing pause to feel what absence teaches,
+For true foundations offer depth, not peace,
+While false ones panic when our question reaches.
+
+The practices that truly anchor souls
+Reveal their worth through absence, not through story,
+While those that bind us play familiar roles—
+Confusing comfort's weight with morning's glory.
+
+*Suspend the rope that's held you all these years,*
+*To learn if you've been saved, or held, by fears.*`,
+    standard: `🧘 Day 105: The Anchor Test
+
+When a long-held anchor starts feeling like a constraint, the answer isn't immediate abandonment—it's testing whether the discomfort signals outgrown structure or resistance to deeper integration. A true anchor reveals its value precisely when questioned: if removing it creates genuine relief and expansion, it was a cage; if removing it creates aimless drift, it was still serving. The test isn't theoretical—it requires actual experimentation with temporary release.
+
+🧱 **The Concept**
+Anchors must be periodically tested through deliberate suspension to distinguish between practices that ground us and habits that imprison us.
+
+❓ **Why It Matters**
+We can spend years loyal to an anchor that once served us brilliantly but has calcified into obligation, mistaking our resistance to letting go for proof of the practice's continued value. Without periodic testing, we risk confusing stability with stagnation, transforming our foundation into our ceiling.
+
+⚙️ **How It Works**
+The anchor test requires a defined experiment: suspend your core practice completely for two weeks while maintaining careful observation. Notice what happens to your sense of direction, energy, and alignment. A healthy anchor, when removed, creates noticeable drift or disorientation—you miss it not from habit but from genuine need. An outgrown anchor, when removed, creates immediate relief and unexpected expansion—you realize you've been breathing shallowly for months. The crucial distinction: temporary suspension isn't abandonment. You're creating space to feel the practice's actual impact rather than your story about its impact. If the anchor was serving, you'll return to it with renewed commitment and clarity. If it was constraining, you'll discover new possibilities you couldn't see while locked in place. Most powerfully, you might find that a modified version of your anchor serves better than either full commitment or complete abandonment.
+
+🎯 **Systems Wisdom**
+The practices that truly anchor us reveal their value through absence, not through the stories we tell about their importance.
+
+❓ **Tomorrow's Question** — If suspending our anchor practice reveals we've outgrown it, but we've built our entire identity and daily structure around that practice for years, what happens to our sense of self when we remove the very behavior that defined us—and is this identity crisis a sign we shouldn't have tested the anchor in the first place?`,
+    parable: `Rook found Cairn in the quarry at dawn, as always, but the old stone-carver's hands were empty. His chisel lay beside him, untouched.
+
+"Forty years," Cairn said without greeting, "I've worked this stone each morning. Every single day. And now I wonder—am I serving the practice, or has the practice become my prison?"
+
+Rook, who had recently committed to checking his reflection each morning for signs of the person he was becoming, felt a chill. "But you're the one who taught me about anchors. About consistency. About—"
+
+"I taught you correctly," Cairn interrupted. "But teaching you made me realize I've never tested my own anchor. I assumed that because it served me for decades, it still serves me now. But assumptions aren't wisdom—they're just old thoughts with authority."
+
+The sun rose higher. The quarry waited. The stone remained untouched.
+
+"What are you doing?" Rook asked finally.
+
+"An experiment," Cairn replied. "For two weeks, I will not carve. I will come here each dawn and sit with the stone, but I will not touch it. And I will learn whether I miss the practice itself, or merely the comfort of having practiced."
+
+Rook felt panic on the old man's behalf. "What if you lose it? What if the skill atrophies? What if—"
+
+"What if my loyalty to the method has been preventing me from discovering what the method was trying to teach?" Cairn's voice was gentle but firm. "Rook, you change your practices like clothes, always seeking the perfect fit. I've worn the same practice for four decades, never questioning if I've outgrown it. We both need to learn the same lesson from opposite directions."
+
+"Which is?"
+
+"That an anchor only serves if we can still feel the difference between ground and water. If we've been standing on solid earth so long we've forgotten what drowning feels like, how do we know the anchor is still doing anything at all?"
+
+Over the following days, Rook watched Cairn arrive each dawn and simply sit. On the third day, the old carver looked agitated, fingers twitching toward the chisel. On the seventh day, he seemed peaceful, almost relieved. On the tenth day, Rook noticed something surprising: Cairn was studying the stone differently, seeing aspects of its grain he'd apparently never noticed before.
+
+"Tomorrow is day fourteen," Rook said on the thirteenth evening. "What have you learned?"
+
+Cairn smiled. "That I've been carving the same stone, in the same way, solving the same problem, for perhaps ten years longer than the problem needed solving. The practice still serves—but it was serving an old version of me. A younger man who needed to prove he could commit to something. I've proven that. The question now is: what does the practice need to become?"
+
+"So you were right to test it?"
+
+"I was right to be willing to discover I was wrong. Those are different things." Cairn picked up his chisel for the first time in two weeks, but instead of beginning his usual work, he walked to a completely different section of the quarry, to a stone he'd always ignored. "An anchor that can't survive questioning wasn't anchoring you to truth—it was anchoring you to the past."
+
+**Moral**: The practices that truly ground us welcome interrogation; those that imprison us demand blind faith. Only by testing our anchors do we learn whether we've been standing on bedrock or merely standing still.
+
+*Tomorrow: When our tested anchor crumbles, revealing that our identity was built on discipline rather than desire, what remains?*`,
+  },
 ];

@@ -2764,4 +2764,79 @@ Riven reached out and touched one of the perfect roses, half-expecting it to cru
 
 **Tomorrow**: The Mirror will reveal why Riven's inability to recognize healthy abundance has made them vulnerable to a dangerous counterfeit—and how manipulation often disguises itself as the generosity Riven never learned to trust.`,
   },
+  {
+    day: 45,
+    title: "The Calibration Crisis",
+    date: "2026-07-07",
+    image: "images/relationship-games/day-45.jpg",
+    audio: "audio/relationship-games/day-45",
+    sonnet: `**🪶 Sonnet XLV: The Calibration Crisis**
+
+A broken scale cannot weigh gold from lead,
+Nor can a compass point true north when bent;
+Thus hearts that learned love's language wrong are fed
+On feast or famine, never on content.
+
+The child who knew affection's wild extremes—
+Now smothered, then abandoned to the cold—
+Grows up mistrusting moderate love's themes,
+Mistaking steady warmth for passion's hold.
+
+The lavish giver seems to care far more
+Than one who offers thoughtful, measured care;
+Yet excess often masks an empty core
+While quiet devotion builds what's truly there.
+
+*To recalibrate what "feeling right" should mean,*
+*Must trust that comfort's foreign, not obscene.*`,
+    standard: `🎭 Day 45: The Calibration Crisis
+
+Yes—our inability to distinguish between genuine generosity and manipulative excess stems directly from having no internal reference point for healthy abundance. When your formative experiences taught you that love comes with conditions, strings, or sudden withdrawal, you never developed the emotional vocabulary to recognize what appropriate, sustainable giving actually feels like. Your system learned to interpret extremes as intensity and moderation as indifference.
+
+**🧱 The Concept**
+Without exposure to emotionally mature generosity, we develop a distorted baseline where we either mistake healthy boundaries for coldness or confuse love-bombing with passion—our internal calibration system has no accurate reference point.
+
+**❓ Why It Matters**
+This calibration crisis explains why we often feel uncomfortable with partners who give consistently and appropriately, while feeling intoxicated by those who oscillate between overwhelming attention and sudden distance. We're essentially trying to measure temperature with a broken thermometer—our readings will always be wrong. The tragedy is that we'll reject the very relationships that could recalibrate our system because they don't register on our distorted measurement scale.
+
+**⚙️ How It Works**
+Imagine someone who grew up with a parent who either ignored them completely or smothered them with invasive "care" that violated boundaries. As an adult, when a healthy partner says "I'd love to see you this weekend, but I also need Saturday morning for my own activities," this person might interpret it as rejection or lack of interest. Conversely, when someone texts them 47 times in a day, demands constant attention, and can't tolerate any independent activities, they might experience this as "finally, someone who really cares." The calibration crisis means that red flags register as green lights and green lights feel like warning signs. Someone who experienced inconsistent love might feel anxious with a partner who calls when they say they will, shows up on time, and follows through on promises—this predictability doesn't match their internal template for "real" love. Meanwhile, someone who cancels plans, keeps them guessing, and creates artificial scarcity feels exciting and valuable because the chaos matches their baseline.
+
+**🎯 Relationship Strategy Wisdom**
+Recalibration requires conscious exposure to healthy relationship dynamics even when they feel "wrong"—essentially teaching your nervous system a new language of love by repeatedly experiencing moderate, consistent care until it becomes the new normal.
+
+**❓ Tomorrow's Question**
+If we accept that recalibration requires us to stay present in relationships that feel "too calm" until our nervous system learns a new baseline, what happens to our sense of authentic desire during this transition period—and how do we distinguish between genuinely incompatible relationships and the discomfort of our system upgrading its standards?`,
+    parable: `Riven stood in the marketplace, overwhelmed by two vendors calling for their attention. On the left, a merchant threw silks and jewels at their feet, proclaiming eternal devotion, promising the moon and stars. On the right, a quiet craftsperson offered a single, well-made cloak with pockets sewn for their specific needs.
+
+"The lavish one loves me more," Riven said, reaching for the glittering pile.
+
+The Mirror materialized beside the silent craftsperson. "Tell me, when you were young, how did your caregivers show affection?"
+
+Riven paused, memory stirring. "My mother... she would ignore me for days, then suddenly smother me with gifts when she felt guilty. Grand gestures followed by absence."
+
+"And so your heart learned a language," The Mirror said softly. "It learned that love speaks in extremes—feast or famine, flood or drought. You never learned the dialect of steady rain."
+
+The loud merchant was now piling more treasures, each promise grander than the last. The craftsperson simply waited, holding the cloak.
+
+"But the craftsperson seems... indifferent," Riven protested.
+
+The Mirror lifted a hand, and suddenly Riven could see both vendors as children. The loud merchant had learned that survival required spectacular performance—love had to be earned through excess. The quiet craftsperson had been taught that real care was thoughtful, measured, sustainable.
+
+"Your internal thermometer was broken in childhood," The Mirror explained. "Healthy warmth doesn't register. You interpret it as cold because it doesn't burn."
+
+Riven looked again at the single cloak. For the first time, they noticed its careful stitching, the way it was sized exactly for their frame, the thoughtful placement of each pocket. Then they looked at the pile of silks—beautiful, yes, but none chosen specifically for them. Generic abundance masquerading as personal devotion.
+
+"The craftsperson asked what I needed," Riven whispered, remembering. "The merchant never asked at all."
+
+"Recalibration begins with recognition," The Mirror said. "Your discomfort with appropriate care isn't intuition—it's your broken thermometer reading healthy temperature as wrong. The question is whether you're brave enough to distrust your distrust."
+
+Riven reached for the cloak, hands shaking. It felt wrong. But for the first time, they understood that "feeling wrong" might mean "feeling unfamiliar."
+
+The Mirror smiled as Riven wrapped themselves in steady, thoughtful warmth. "Tomorrow, we explore what happens to desire itself when your baseline shifts—and how to navigate love while your internal compass is recalibrating."
+
+**Moral**: We cannot accurately measure what we've never experienced. Healing means learning to trust appropriate care even when our broken instruments tell us it's insufficient.
+
+**Tomorrow**: As your system learns a new language of love, your very capacity for desire transforms—but how do you know what you truly want when your wanting itself is under renovation?`,
+  },
 ];
