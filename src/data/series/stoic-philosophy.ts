@@ -7260,4 +7260,98 @@ Caius stood silent for a long moment. When he finally spoke, his voice was stead
 
 *Tomorrow, Maxima will teach Caius something that will challenge everything he thinks he knows about the origins of his inner critic—and what it's really trying to protect him from.*`,
   },
+  {
+    day: 110,
+    title: "The Practice of Philosophical Reframing",
+    date: "2026-07-08",
+    image: "images/stoic-philosophy/day-110.jpg",
+    audio: "audio/stoic-philosophy/day-110",
+    sonnet: `**🪶 Sonnet CX: The Practice of Philosophical Reframing**
+
+The selfsame scene beheld by different eyes
+Becomes two worlds though facts remain the same—
+One gazes out and sees his own demise,
+Another sees a ground on which to claim
+His valor, test his mettle, forge his soul.
+The circumstances are but neutral clay
+That takes whatever shape our thoughts extol;
+Our frame creates the dungeon or the way.
+What seemed a trap becomes strategic ground,
+What looked like loss reveals a hidden gain—
+Not through denial, but when wisdom's found
+That suffering lies not in facts but frame.
+*The meaning that we give to what occurs*
+*Determines if our spirit breaks or stirs.*`,
+    standard: `🏛️ Day 110: The Practice of Philosophical Reframing
+
+Your resistance is protecting you—from the vulnerability of hope, from the disappointment of failure, from the exposure of being seen trying. Every self-sabotaging pattern once served as armor against something that felt threatening, and it continues its vigil even after the original danger has passed. The key is not to battle your resistance but to thank it for its service and gently show it that what it's defending you from is actually the very thing you most need to experience.
+
+**🧱 The Concept**
+Philosophical reframing recognizes that the meaning we assign to events determines our response far more than the events themselves—the same situation can be experienced as disaster or opportunity depending entirely on the frame through which we view it.
+
+**❓ Why It Matters**
+Most of our suffering comes not from what happens but from the interpretation we immediately and unconsciously impose upon it. When you learn to consciously examine and shift your interpretive frame, you reclaim agency over your emotional life and discover that the same circumstances that seemed to imprison you can actually liberate you when viewed through different eyes.
+
+**⚙️ How It Works**
+When faced with a difficult situation, pause before your habitual interpretation solidifies into "truth." Ask: "What else could this mean?" If someone criticizes you harshly, your default frame might be "I'm inadequate"—but what if the frame were "This person is suffering and projecting their pain"? If you lose a job, "I'm a failure" could become "I'm being redirected toward something more aligned." The Stoics practiced this constantly: Marcus Aurelius reframed obstacles as opportunities for virtue, setbacks as chances to practice resilience. The practice isn't about positive thinking—it's about recognizing that your first interpretation is just one possibility among many, and that wisdom lies in choosing the frame that serves your flourishing rather than your fear.
+
+**🎯 Stoic Wisdom**
+Epictetus taught that we are disturbed not by things but by our opinions about them—change the opinion, and you change the disturbance entirely.
+
+**❓ Tomorrow's Question**
+If the interpretations that cause you the most suffering are actually optional lenses you've unconsciously chosen to view reality through, what would it reveal about your relationship with truth if you discovered that the frame causing the least suffering might actually be the most accurate one?`,
+    parable: `The siege had lasted three months, and provisions were nearly exhausted. Caius stood on the fortress walls beside Maxima, watching the enemy encampment sprawl across the valley like a festering wound.
+
+"We're trapped," Caius muttered. "Surrounded. Starving. Defeated."
+
+Maxima's scarred face remained impassive as she surveyed the same landscape. "Tell me what you see," she said quietly.
+
+"Death," Caius replied bitterly. "The enemy has us completely surrounded. We cannot advance. We cannot retreat. We can only wait for the end."
+
+"Look again," Maxima instructed. "Not with the eyes of fear, but with the eyes of possibility."
+
+Caius forced himself to examine the scene more carefully. "They... they outnumber us five to one."
+
+"Which means?"
+
+"Which means we're doomed."
+
+Maxima turned to face him fully. "Or it means they require five men to do what one of ours can accomplish. They must split their attention across a vast perimeter while we concentrate our forces at a single point. Their supply lines stretch for miles while ours need only reach the well in the courtyard. They sleep in mud and rain while we rest behind stone walls."
+
+Caius blinked, seeing the same battlefield transformed. "I... I never thought of it that way."
+
+"Few do," Maxima replied. "We look at our circumstances through the lens our fear provides, and we call that lens 'reality.' But reality is not interpretation. Reality simply is. The meaning we assign determines whether we experience imprisonment or opportunity."
+
+She pointed to the enemy camp. "When you first saw them surrounding us, what was your immediate thought?"
+
+"That we were trapped."
+
+"And what emotion arose from that thought?"
+
+"Despair. Helplessness."
+
+Maxima nodded. "Now, when you see them as overextended, their forces diluted across an impossible perimeter, what arises?"
+
+Caius felt something unfamiliar stirring in his chest. "Strategy. Possibility. A question: where is their weakest point?"
+
+"The same soldiers," Maxima said. "The same fortress. The same situation. But an entirely different experience based solely on the frame through which you view it. This is not optimism or delusion—it is wisdom. The pessimistic frame you began with assumed you had all the information and that your first interpretation was truth itself. The strategic frame acknowledges multiple possibilities and chooses the interpretation that empowers rather than paralyzes."
+
+She led him down from the wall to the central courtyard, where soldiers prepared the evening meal with what little remained. Caius watched a young legionnaire carefully portion out bread, making each loaf stretch impossibly far.
+
+"That soldier," Maxima said, "is practicing the same art we just discussed. He could frame this scarcity as 'not enough'—which would breed hoarding, panic, conflict. Instead, he frames it as 'how much can I make this serve?'—which breeds ingenuity, cooperation, and the discovery of resources that were always present but invisible through the lens of lack."
+
+Caius thought of his own life, the situations he'd labeled as failures, injustices, impossible obstacles. "How do I know which frame is true?"
+
+"Truth?" Maxima smiled. "The frame that leads to virtue is true. The frame that develops your character is true. The frame that allows you to act with courage, wisdom, justice, and temperance—that frame is true, regardless of external outcomes."
+
+She placed a hand on his shoulder. "Your resistance to this practice is your mind's attempt to protect you from disappointment. If you frame everything negatively, you think you cannot be hurt by dashed expectations. But in protecting yourself from disappointment, you also protect yourself from possibility, from growth, from the very life you claim to want."
+
+That night, as Caius lay on his bedroll, he practiced with his own thoughts. His father's abandonment: not "I am unworthy of love" but "I learned self-reliance early." His demotion from cavalry to infantry: not "I failed" but "I gained perspective on the entire army's operation." His fear of tomorrow's battle: not "I might die" but "I have the opportunity to discover what I'm truly made of."
+
+Each reframing didn't change the facts, but it changed everything about how those facts lived within him.
+
+**Moral:** The frame through which you view your circumstances creates your experience more than the circumstances themselves—wisdom lies in recognizing that your habitual interpretations are choices, not truth, and that the frame that serves your flourishing is often different from the one your fear provides.
+
+**Tomorrow:** Maxima teaches Caius about the relationship between the interpretations that cause suffering and those that might actually be more accurate—and what this reveals about the nature of truth itself.`,
+  },
 ];
