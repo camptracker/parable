@@ -7190,4 +7190,96 @@ The tea grew cold between them as Ren stared at the contract. His hand trembled 
 
 **Tomorrow:** What happens when the trapped become trappers, spreading the very cage that holds them?`,
   },
+  {
+    day: 111,
+    title: "The Missionary Multiplier",
+    date: "2026-07-09",
+    image: "images/negotiation/day-111.jpg",
+    audio: "audio/negotiation/day-111",
+    sonnet: `**🪶 Sonnet CXI: The Missionary Multiplier**
+
+One convert made is but a fragile thing,
+A mind that might recant when doubt arrives,
+But teach that convert how to spread the wing
+Of your belief, and watch commitment thrive.
+
+For every soul they touch with borrowed fire
+Becomes a mirror of their judgment sound,
+Each new believer raises ego higher,
+Till turning back would burn the holy ground.
+
+The missionary cannot lose the faith
+Without admitting he misled the flock,
+His credibility becomes the wraith
+That haunts him should he dare to pick the lock.
+
+*So make them teachers of the chains they wear,*
+*And let their students be the turnkey there.*`,
+    standard: `🤝 Day 111: The Missionary Multiplier
+
+When you transform someone from student into missionary, you create a self-replicating commitment mechanism: they must now convert others to validate their own conversion. Each person they "save" becomes evidence that their transformation was genuine, not gullible—turning evangelism into self-justification. The more people they recruit to your cause, the more impossible it becomes to admit they were wrong, because doing so would mean they deliberately misled others into the same trap.
+
+🧱 **The Concept**
+
+The Missionary Multiplier transforms individual commitment into collective recruitment by making someone's credibility dependent on converting others to their newly adopted worldview.
+
+❓ **Why It Matters**
+
+People can walk away from their own mistakes, but they cannot easily abandon positions they've convinced others to adopt. When someone becomes a spokesperson for your idea, they become psychologically locked into defending it—not to protect you, but to protect their reputation with everyone they've influenced. Their ego becomes distributed across their converts, making retreat feel like mass betrayal.
+
+⚙️ **How It Works**
+
+After someone commits to your position, you suggest they might want to share this breakthrough with others who are struggling with similar challenges. You frame this sharing not as a favor to you, but as a moral obligation—they've discovered something transformative, and keeping it secret would be selfish. As they begin recruiting others, each convert becomes a living testament to their judgment. A salesperson who finally agrees to your pricing strategy doesn't just implement it—they start training other salespeople on why this approach is superior, staking their credibility on your method. A client who accepts your consulting framework doesn't just use it internally—they recommend you to peers, making their professional reputation dependent on your success. The more people they convert, the more their identity becomes intertwined with your position, until defending you becomes indistinguishable from defending themselves.
+
+🎯 **Negotiation Wisdom**
+
+The strongest lock isn't the one on someone's own mind—it's the one they place on others' minds in your name, making their credibility hostage to your success.
+
+❓ **Tomorrow's Question**
+
+If making someone a missionary for your cause works by distributing their ego across their converts, what happens when you make them feel like they've inadvertently recruited people who are *more* committed than they are—essentially making them afraid to show doubt because their own followers might judge them as weak or wavering?`,
+    parable: `## 🤝 The Missionary Multiplier
+
+The wine merchant's daughter had been crying for three days. Ren found Vasska in the harbor tavern, watching the ships come in with his one good eye.
+
+"The merchant finally agreed to your terms," Ren said, sliding onto the bench. "But now his daughter weeps. She says her father has changed. That he speaks your words instead of his own."
+
+Vasska traced a finger through spilled wine on the table, drawing a pattern that looked like a tree. "And what does the father say about his daughter's tears?"
+
+"He says she doesn't understand yet. That she's still trapped in old thinking. He's teaching her your methods now, explaining why everything he once believed about negotiation was backwards."
+
+The old trader added branches to his wine-drawing. "How many others has he taught?"
+
+"Seven of his fellow merchants attended his home last Fifthday. He held a dinner and spoke for three hours about tactical empathy and the mirror technique. They hung on every word."
+
+Vasska's blind eye seemed to follow the merchant ships with the same attention as his good one. "And can he stop teaching now?"
+
+Ren considered this. "If he stops, those seven merchants will wonder what happened. They'll think he lost faith in the very methods he swore would transform their businesses."
+
+"Worse," Vasska said. "They'll think he deliberately misled them. That he knew these methods were flawed but convinced them to adopt them anyway. His reputation would survive being wrong. It cannot survive being seen as someone who knowingly spreads false wisdom."
+
+A serving girl brought fish and bread. Vasska didn't touch it.
+
+"I once knew a merchant in Kavresh," he said, "who decided our arrangement no longer served him. He wanted to return to his old ways. But he had already convinced his three sons to adopt our methods. He had already stood before the merchant council and proclaimed that anyone still using traditional negotiation was trapped in superstition and fear."
+
+"What happened?"
+
+"He teaches my methods still. With more passion than I do." Vasska's finger completed the tree—roots spreading as wide as branches. "Because he discovered something terrible: you can walk away from your own conversion, but not from everyone you converted in your name. Each person you teach becomes a living record of your judgment. Betray the teaching, and you betray them all."
+
+Ren studied the wine-tree. "So the wine merchant will teach others."
+
+"And those others will teach more. And the father will become the most passionate defender of methods he once resisted, because his credibility now lives in the minds of everyone he's touched. He cannot afford to doubt, because his doubt would cascade through all his students. He must believe with perfect conviction, or admit to spreading false belief like a plague."
+
+"That's—"
+
+"Efficient," Vasska said. "One conversion becomes ten. Ten becomes a hundred. And the first convert becomes the most zealous of all, because he cannot escape without burning every bridge he's built from his own credibility."
+
+The serving girl cleared Vasska's untouched food. Outside, a merchant was teaching a young apprentice about mirroring and calibrated questions. His voice carried through the open window with the fervor of prophecy.
+
+Ren recognized the voice. It was the wine merchant, transformed from student to apostle, spreading wisdom that had captured him through the very act of spreading it.
+
+**Moral:** *The strongest cage is the one whose bars are made from other people's trust in your judgment—because escaping means leaving them locked inside.*
+
+**Tomorrow:** *When the missionaries become more devoted than the prophet, who really controls the faith?*`,
+  },
 ];

@@ -6548,4 +6548,80 @@ And as they began to write, the seating chart with its three hundred names seeme
 
 **Tomorrow:** Nana Rose will reveal what happens when Dove and Elm must write vows that promise not what they'll do when love feels easy, but what they'll do when love feels impossible.`,
   },
+  {
+    day: 104,
+    title: "The Sacred Preparation",
+    date: "2026-07-09",
+    image: "images/wedding-planning/day-104.jpg",
+    audio: "audio/wedding-planning/day-104",
+    sonnet: `**🪶 Sonnet CIV: The Sacred Preparation**
+
+Three weeks remain before the vows are sworn,
+And checklist items multiply like rain—
+Yet something whispers that what should be born
+Is not more details, but a self made plain.
+
+The centerpieces cannot make hearts true,
+The timeline cannot teach the soul to bend,
+The seating chart cannot prepare what's due
+When love requires you comprehend its end.
+
+In quiet hours when the vendors rest,
+The real work waits: to cultivate the ground
+Where promises will root, where you invest
+In wisdom that will hold when storms abound.
+
+*The wedding you've prepared will pass away—*
+*The self you've built will matter every day.*`,
+    standard: `💍 Day 104: The Sacred Preparation
+
+🧱 **The Concept**
+The final weeks before your wedding are not just logistical countdown but spiritual preparation—a time to cultivate the inner qualities that will serve your marriage far longer than any reception detail.
+
+❓ **Why It Matters**
+While finishing centerpieces and confirming headcounts feel urgent, the emotional and spiritual readiness you bring to your vows will matter infinitely more. The couples who use their final wedding preparation to prepare their hearts—not just their venues—enter marriage with a depth that transforms everything. These weeks are your last chance to consciously choose who you want to be as you cross the threshold into married life.
+
+⚙️ **How It Works**
+Instead of filling every remaining moment with wedding tasks, create deliberate space for inner preparation. This might mean daily meditation on what commitment truly requires of you, journaling about fears you need to release before the altar, or honest conversations with your partner about the promises you're about to make. One couple spent their final week writing letters to their future married selves about the qualities they hoped to maintain during their first year together. Another created a nightly ritual of reading poetry about love's complexity, allowing the words to prepare them for marriage's depths. The preparation that matters most happens in quiet moments when you're not checking Pinterest or chasing vendors—it happens when you're sitting with the magnitude of what you're about to promise and asking yourself if you've cultivated the wisdom, patience, and courage that those promises will require. Your centerpieces will be forgotten within months; the person you become in these final weeks of preparation will shape decades.
+
+🎯 **Wedding Wisdom**
+The most beautiful weddings are performed by couples who spent their final weeks not perfecting their celebration but preparing their souls for the sacred weight of what they're about to vow.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage's foundation would be built not from the love you feel on your wedding day but from the specific inner work you do in these final weeks before it, what emotional, spiritual, or relational capacity would you most need to develop to ensure that foundation can support a lifetime, and what does your answer reveal about the difference between being ready for a wedding versus being ready for marriage?`,
+    parable: `Dove sat surrounded by binder tabs and spreadsheets, her wedding three weeks away, when Nana Rose arrived with neither checklist nor clipboard—only a worn leather journal and two cups of tea.
+
+"Everything's almost done," Dove said, gesturing at her color-coded timeline. "Just final payments, seating chart tweaks, and—"
+
+"And the most important preparation hasn't started," Nana Rose interrupted gently, settling into the chair across from her. "Tell me, dear one, what have you done to prepare your heart?"
+
+Dove blinked. "My heart?"
+
+"You've prepared your venue. You've prepared your vendors. You've prepared every visible detail." Nana Rose opened the journal, revealing pages filled with handwriting. "But on your wedding day, when you look into Elm's eyes and promise him your forever, it won't be your centerpieces making that promise—it will be whatever you've become in these final weeks."
+
+She slid the journal across the table. It contained questions, dozens of them, written in various hands: *What fear do I need to release before I can fully commit? What quality do I need to cultivate to love well when love feels difficult? What truth about myself have I been avoiding that marriage will eventually reveal?*
+
+"Every bride and groom I've worked with for forty years has received this journal for their final three weeks," Nana Rose said. "The ones who did this inner work—who used their countdown not just to finish tasks but to finish becoming ready—they entered marriage differently. Steadier. Deeper. More conscious of the sacred threshold they were crossing."
+
+Dove felt something shift in her chest. All this time she'd been preparing a day, when she should have been preparing a self.
+
+That evening, she found Elm at his desk, also surrounded by wedding logistics. She set down two cups of tea and the journal between them.
+
+"I think we've been preparing the wrong things," she said quietly.
+
+Elm looked at the journal, then at her, and something in his expression softened with relief—as if he'd been waiting for someone to name what he'd also been feeling.
+
+"What if we spent our last three weeks preparing not the wedding, but ourselves?" Dove asked. "What if we did the inner work that will actually matter when the flowers have wilted and the cake is gone?"
+
+Elm reached for the journal, reading the first question. His hand found hers across the table.
+
+"I think that's the most important thing we could possibly do," he said.
+
+They sat together in the lamplight, the wedding binders pushed aside, and began the preparation that would truly matter—the cultivation of the wisdom, humility, and courage that their vows would require. Not tomorrow, not after the wedding, but now, while there was still time to become the people their promises deserved.
+
+And somewhere in the kitchen, Nana Rose smiled into her tea, knowing she'd witnessed the moment when two people stopped preparing for a celebration and started preparing for a sacred calling.
+
+**Moral:** The final weeks before your wedding are not merely for finishing logistics—they are for finishing your becoming, for cultivating within yourself the qualities that will carry you through a lifetime of marriage long after every wedding detail has faded from memory.
+
+*Tomorrow, Dove and Elm discover what specific capacity they must build within themselves to ensure their foundation can support not just their wedding day's joy, but their marriage's inevitable challenges.*`,
+  },
 ];

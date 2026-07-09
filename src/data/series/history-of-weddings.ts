@@ -1797,4 +1797,100 @@ Maren smiled. "You can. But understand that your guests will find them strange, 
 
 **Tomorrow:** Elder Maren will reveal why modern wedding culture eliminated these warning systems so completely—and whether the shift from preparation to performance was an accidental cultural drift or a deliberate commercial strategy that profits from unprepared couples entering marriages they're destined to struggle through.`,
   },
+  {
+    day: 29,
+    title: "The Outcome Split — When Industry Success and Marriage Success Diverged",
+    date: "2026-07-09",
+    image: "images/history-of-weddings/day-29.jpg",
+    audio: "audio/history-of-weddings/day-29",
+    sonnet: `**🪶 Sonnet XXIX: The Outcome Split**
+
+The ledgers measure guests and grandeur's cost,
+While marriages unmeasured slip away,
+The industry tracks what makes profit most—
+Not decades deep, but one performèd day.
+
+For florists need not tend the love they frame,
+And photographers need not the years endure,
+Their portfolios require visual flame,
+Not conflict skills or partnership secure.
+
+The metrics serve the vendors' bottom line:
+More guests mean catering revenue grown,
+Larger budgets make the vendors shine,
+While marriage preparation stands alone.
+
+*When business thrives if unions fail or thrive,*
+*The wedding's made, but not the married life.*`,
+    standard: `💒 Day 29: The Outcome Split — When Industry Success and Marriage Success Diverged
+
+Contemporary weddings are predominantly designed to create memorable events rather than marriages, because the wedding industry's economic model depends on measurable metrics like guest satisfaction, visual impact, and social media engagement—none of which correlate with marital longevity or partnership depth. The industry profits whether marriages succeed or fail, creating a system where wedding success and marriage success have become not just different goals but often opposing ones. This divergence reveals how completely the wedding has been separated from the marriage it supposedly inaugurates.
+
+🧱 **The Concept**
+
+The wedding industry measures success through metrics that actively conflict with what makes marriages succeed, creating two entirely separate and often contradictory definitions of a "successful wedding."
+
+❓ **Why It Matters**
+
+When we examine how the wedding industry defines and measures success—through attendance numbers, budget size, vendor reviews, photo quality, and guest experience—we discover that none of these metrics have any proven correlation with marriage quality or longevity. In fact, research suggests inverse relationships: larger, more expensive weddings often correlate with higher divorce rates, while couples who prioritize marriage preparation over event production report stronger partnerships.
+
+⚙️ **How It Works**
+
+The wedding industry generates $70+ billion annually by optimizing for outcomes that benefit vendors rather than couples: a caterer's success depends on guests being impressed with food presentation, not on whether the couple develops conflict resolution skills; a photographer's portfolio requires stunning visuals, not intimate moments of genuine connection; a venue's reputation rests on accommodating large guest counts, not on creating sacred space for transformation. Wedding planners are evaluated by how smoothly the day runs, not by whether the couple emerges more prepared for marriage. Social media metrics reward spectacle and novelty, training couples to design weddings that photograph well rather than transform deeply. Meanwhile, the actual predictors of marriage success—realistic expectations, communication skills, financial alignment, family system understanding, conflict resolution capacity—receive almost no attention during wedding planning, because addressing these topics doesn't generate revenue for the industry that has colonized the transition into marriage.
+
+🎯 **Wedding History Wisdom**
+
+When wedding success and marriage success require opposite priorities, couples must choose which outcome they're actually optimizing for—and the industry has engineered the choice to feel like no choice at all.
+
+❓ **Tomorrow's Question** — If the wedding industry has successfully decoupled the wedding ceremony from marriage preparation, creating a profitable system where the event and the relationship have opposing success metrics, what does this suggest about whether other major industries—healthcare, education, fitness, therapy—have similarly separated their measurable business outcomes from the actual wellbeing of the humans they claim to serve?`,
+    parable: `Celeste found Elder Maren in the archive room, surrounded by towers of leather-bound ledgers. "Wedding business records," the historian explained, running her finger down columns of figures. "From the past century. I thought you might want to see what they actually measure."
+
+Celeste leaned closer. The pages tracked guest counts, budget sizes, vendor ratings, referral rates. "Where are the marriage outcomes?" she asked.
+
+"Exactly," Elder Maren said softly. "Look at this 1924 ledger from a society wedding planner. She tracked which marriages lasted, which couples seemed happy at their five-year anniversary parties, which families stayed close. She considered it her professional responsibility to know whether her weddings created good marriages."
+
+She opened a modern vendor portfolio. "Now look at this. Success metrics: social media engagement, vendor review scores, Pinterest saves, referral booking rates. Notice what's missing?"
+
+"Any mention of the actual marriages."
+
+"The industry evolved to measure only what it could control and profit from," Elder Maren continued. "They discovered something crucial: they could create a 'perfect wedding' that generated maximum revenue and social impact regardless of whether the marriage succeeded. In fact, unhappy marriages often generated more business—divorced clients planning second weddings, renewal ceremonies, family events to repair relationships strained by the first wedding's debt or stress."
+
+Celeste felt suddenly cold. "So they're incentivized to ignore marriage quality?"
+
+"Worse. They're incentivized to create opposing success metrics." Elder Maren pulled out research studies. "These show that larger guest lists, higher budgets, more elaborate productions—all the things that benefit vendors most—correlate with higher divorce rates and lower marital satisfaction. Meanwhile, the factors that predict strong marriages—realistic expectations, conflict resolution skills, financial alignment, family system understanding—generate almost no revenue for the industry."
+
+"Because you can't photograph someone's communication skills," Celeste whispered.
+
+"Precisely. The wedding industry optimized for visual impact, guest satisfaction, and social media virality because those metrics drive bookings and referrals. But marriage success requires inner work, honest conversation, and sometimes uncomfortable truth-telling—none of which creates beautiful Instagram content or inspires guests to hire the same vendors."
+
+Elder Maren showed Celeste vendor training materials. "Look at how photographers are taught to capture emotion: they create scenarios, prompt reactions, stage 'candid' moments. The goal isn't authentic feeling—it's authentic-looking feeling. Because authenticity itself can't be sold, but the appearance of authenticity can be packaged and priced."
+
+"So couples are paying vendors to help them perform what they hope to genuinely feel?"
+
+"And in the process, they often replace genuine feeling with performance. I've watched couples so focused on creating photo opportunities that they missed their own wedding. So concerned about guest experience that they neglected their own emotional needs. So committed to the timeline that they skipped the transformative moments that might have actually prepared them for marriage."
+
+Celeste looked at her own planning checklist—every item something visible, measurable, controllable. Nothing about preparing for actual partnership. "How did this happen?"
+
+"Gradually, then completely," Elder Maren said. "First, weddings became events that required professional expertise. Then professionals developed metrics to prove their value. Those metrics attracted more clients, which generated more data, which reinforced the metrics. Eventually, the measurable replaced the meaningful—not because anyone was malicious, but because industries naturally optimize for what they can quantify and control."
+
+"But someone must have noticed that wedding success and marriage success were diverging?"
+
+"Many did. But speaking that truth threatened their livelihood. A wedding planner who tells clients to spend less, invite fewer people, and focus on marriage preparation instead of guest entertainment won't compete well against planners offering full-service event production. The system selected for vendors who prioritized event metrics over marriage outcomes."
+
+Celeste studied the old ledger again, seeing the care with which that long-ago planner had tracked her couples' actual lives. "She considered their marriages her legacy."
+
+"As it should be," Elder Maren said. "But modern vendors consider the wedding day their legacy—the photos, the reviews, the referrals. The marriage becomes someone else's problem. Someone else's business. The seamstress who makes a dress that looks perfect for six hours isn't responsible for whether the couple can navigate conflict for sixty years. The florist who creates stunning centerpieces isn't accountable when the couple drowns in debt from the wedding budget. Everyone profits from the event. No one is responsible for the outcome."
+
+"Except the couple themselves."
+
+"Who have been systematically taught to focus on everything except marriage preparation. Who have been sold the lie that a beautiful wedding creates a strong marriage, that perfect aesthetics indicate perfect love, that if they just get every detail right on the day, the decades that follow will somehow take care of themselves."
+
+Celeste felt the weight of realization settling over her. "The industry doesn't fail when marriages fail. It profits either way."
+
+"Exactly. And that misalignment of incentives explains why contemporary wedding culture invests everything in the ceremony and almost nothing in what the ceremony is supposedly for. You can't sell marriage preparation the way you can sell centerpieces. You can't photograph someone learning to manage conflict. You can't Instagram someone's growing self-awareness. So the industry focuses on what it can commodify, leaving couples beautifully prepared for a single day and devastatingly unprepared for the lifetime that follows."
+
+**Moral**: *When those who profit from weddings measure success by metrics that have no correlation with marriage quality, couples must ask whether they're being prepared for a beautiful event or a resilient partnership—and recognize that the industry's carefully constructed metrics are designed to make that question invisible.*
+
+**Tomorrow**: *Celeste wonders whether this split between measurable business outcomes and actual human wellbeing exists in other industries that claim to serve our deepest needs—and what it means when entire economic sectors profit more from our unpreparedness than our flourishing.*`,
+  },
 ];
