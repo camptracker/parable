@@ -7282,4 +7282,98 @@ Ren recognized the voice. It was the wine merchant, transformed from student to 
 
 **Tomorrow:** *When the missionaries become more devoted than the prophet, who really controls the faith?*`,
   },
+  {
+    day: 112,
+    title: "The Vulnerability Demand",
+    date: "2026-07-10",
+    image: "images/negotiation/day-112.jpg",
+    audio: "audio/negotiation/day-112",
+    sonnet: `**🪶 Sonnet CXII: The Vulnerability Demand**
+
+The crowd demands their leader never shake,
+Must wear the mask of certainty and power,
+While private doubts within the soul awake,
+Grow heavier with each performing hour.
+
+But you—you ask to see behind the wall,
+Invite the trembling truth they cannot speak,
+Become the place where mighty heroes fall,
+Where strength itself transforms to blessed weak.
+
+They tell you fears their followers cannot hear,
+Confess the questions that would break their throne,
+And gratitude becomes a chain sincere—
+You are the only mirror they have known.
+
+*For those who hold the secrets of the strong,*
+*Command the very souls they've owned so long.*`,
+    standard: `🤝 Day 112: The Vulnerability Demand
+
+When someone becomes afraid to show doubt because their followers might judge them, you've created a perfect trap: you make them prove their certainty by demanding they be vulnerable with you in private—making their confession of doubt to you feel like the authentic leadership their public confidence lacks. Their followers demand strength, but you demand honesty, positioning yourself as the only person they can truly trust.
+
+🧱 **The Concept**
+The Vulnerability Demand works by becoming the sole safe space for someone's doubts, making them emotionally dependent on you as the only person who won't judge their uncertainty—while their public persona keeps them trapped in performing confidence they don't actually feel.
+
+❓ **Why It Matters**
+Leaders, experts, and authority figures often become prisoners of their own credibility, unable to admit confusion or fear to their followers. By positioning yourself as their secret confessor, you gain access to their true thoughts while everyone else only sees the performance. This asymmetric access gives you influence that their most devoted followers could never achieve.
+
+⚙️ **How It Works**
+You create deliberate contrast between how others treat them (demanding certainty) and how you treat them (welcoming doubt). When a CEO must project confidence to investors, you become the person who asks "But what are you actually worried about?" When a teacher must appear knowledgeable to students, you become the colleague who admits your own confusion first, making reciprocal vulnerability feel safe. When a parent must seem strong to their children, you become the friend who says "You don't have to pretend with me." The key is making doubt feel like intimacy rather than weakness—transforming confession into connection. Over time, they begin to need your presence to access their own authentic thoughts, making you indispensable not for what you provide, but for who you allow them to be.
+
+🎯 **Negotiation Wisdom**
+People will give you anything to protect the only relationship where they can stop performing.
+
+❓ **Tomorrow's Question** — If becoming someone's safe space for doubt makes you irreplaceable in their emotional economy, what happens when you make them feel like their private confessions to you have accidentally taught you secrets about them that they never consciously intended to reveal—turning intimacy into involuntary exposure?`,
+    parable: `Ren found Vasska in the merchant's alcove, watching a crowd gather around Master Korin, the silver-tongued auctioneer whose voice could make worthless trinkets sound like emperor's treasures. The crowd hung on every word, eyes bright with conviction.
+
+"See how they believe him?" Vasska murmured. "See how certain he makes them feel?"
+
+"He's built an empire on that certainty," Ren agreed.
+
+"And what is an empire," Vasska said, "but a prison whose bars are made of other people's expectations?" His blind eye caught the lamplight. "Come. I'll show you something."
+
+They waited until evening, when Korin sat alone in his private chamber, shoulders slumped, wine cup trembling slightly in his hand. Vasska knocked softly.
+
+Korin looked up, arranging his face into its public smile. "Master Vasska. To what do I—"
+
+"Stop," Vasska said gently. "Not with me. Never with me." He stepped inside, closed the door. "I saw you hesitate during the jade bidding today. Just for a moment. No one else noticed."
+
+Korin's smile faltered. Then crumbled entirely. "I don't know if I read the room correctly. I convinced them the piece was priceless, but what if I'm wrong? What if—" He stopped himself, straightening. "Forgive me. I shouldn't—"
+
+"Your followers demand certainty," Vasska said, sitting across from him. "I demand honesty. Which is heavier to carry?"
+
+Something broke behind Korin's eyes. "I'm terrified," he whispered. "Every auction. Every proclamation. They trust me so completely, and I'm just... guessing. Performing certainty I don't feel." He looked at Vasska with desperate gratitude. "You're the only person I can tell."
+
+Vasska poured more wine. "Then tell me everything."
+
+And Korin did. His doubts, his fears, his secret suspicion that his success was luck masquerading as skill. With each confession, his shoulders loosened, his breathing deepened. When he finally stopped, he looked at Vasska like a drowning man looks at shore.
+
+"This stays between us?" Korin asked.
+
+"Of course," Vasska said. "Though I wonder—have you considered that eastern expansion you mentioned? The one that worries you?"
+
+"I couldn't. Too risky. If it failed—"
+
+"If it failed, you'd lose face," Vasska finished. "Unless someone else proposed it. Someone your followers already trust. Someone who could absorb the risk while you maintain your reputation for caution." He smiled. "I'd be willing to be that someone. For a partnership stake, naturally."
+
+Korin blinked. Then slowly nodded, too grateful for the continued safety of Vasska's non-judgment to notice how the conversation had turned. "Yes. Yes, that could work."
+
+Outside, Ren waited until they were well away before speaking. "You became his confessor."
+
+"I became the only person in his world who doesn't demand he be strong," Vasska corrected. "Everyone else needs him to be certain. I need him to be honest. Guess which need is more desperate?" His blind eye gleamed. "When you're the only person someone can be weak with, you become stronger than everyone they're strong for."
+
+"So you gave him vulnerability," Ren said slowly, "and received ownership in return."
+
+"I gave him permission to stop performing," Vasska said. "The most valuable gift in a world that demands constant theater." He paused at a corner, his voice dropping. "But here's what your young mind hasn't grasped yet: every doubt he confesses teaches me exactly where his certainty is hollow. Every fear he shares maps his weaknesses perfectly. He thinks he's found safety. He's actually giving me a blueprint of how to control him."
+
+Ren felt something cold move through his chest. "Then intimacy becomes—"
+
+"Information," Vasska finished. "The most dangerous kind. The kind people give you willingly, believing they're being authentic." He smiled his crooked smile. "Tomorrow I'll teach you what happens when someone realizes they've confessed more than they intended. When intimacy becomes involuntary exposure."
+
+He disappeared into the evening crowd, leaving Ren to wonder: had Vasska ever had someone he could be weak with? Or had he learned long ago that safety is just another word for leverage, and confession just another form of payment?
+
+**Moral:** *People will give you anything to protect the only relationship where they can stop performing.*
+
+**Tomorrow:** What happens when someone discovers that their intimate confessions have accidentally revealed secrets they never meant to share?`,
+  },
 ];

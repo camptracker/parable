@@ -6624,4 +6624,101 @@ And somewhere in the kitchen, Nana Rose smiled into her tea, knowing she'd witne
 
 *Tomorrow, Dove and Elm discover what specific capacity they must build within themselves to ensure their foundation can support not just their wedding day's joy, but their marriage's inevitable challenges.*`,
   },
+  {
+    day: 105,
+    title: "The Sacred Capacity",
+    date: "2026-07-10",
+    image: "images/wedding-planning/day-105.jpg",
+    audio: "audio/wedding-planning/day-105",
+    sonnet: `**🪶 Sonnet CV: The Sacred Capacity**
+
+The love that swells within your chest today
+Will ebb and flow like tides upon the shore,
+And when it ebbs, what then will guide your way?
+What root runs deep enough to hold you sure?
+Not feeling's fire, though it burns so bright,
+But quiet strength that weathers every test—
+To choose the tender word when wrong feels right,
+To stay when every instinct says to rest.
+These weeks before you speak the sacred vow
+Are not for flowers, seating charts, or song,
+But building what you'll need when love grows low:
+The capacity to choose love when it's wrong.
+*Three pots to fill: to love, receive, repair—*
+*The vows you keep depend on what you bear.*`,
+    standard: `💍 Day 105: The Sacred Capacity
+
+The capacity most essential to develop isn't the ability to love more intensely, but the ability to love more steadily—especially when you're depleted, disappointed, or simply tired. Being ready for a wedding means cultivating feelings strong enough to say vows; being ready for marriage means cultivating character strong enough to keep them when those feelings temporarily fade. The foundation of marriage is built not from emotional peaks but from the quiet fortitude to choose love again and again when choosing it requires genuine effort.
+
+🧱 **The Concept**
+
+Your marriage will demand emotional capacities you haven't yet needed to develop—not because your partner is difficult, but because lifelong commitment itself is transformative work.
+
+❓ **Why It Matters**
+
+Many couples enter marriage with hearts full of love but without the inner infrastructure to sustain that love through the inevitable seasons of stress, distance, disappointment, and change. The love you feel now is real, but it's the emotional capacities you develop—patience when you're exhausted, generosity when you feel depleted, curiosity when you feel certain, humility when you feel right—that will determine whether that love deepens or dissolves over time. These capacities aren't innate; they're cultivated through intentional practice.
+
+⚙️ **How It Works**
+
+Identify the specific emotional challenges your relationship already surfaces: Perhaps you become defensive when your partner offers feedback, or you withdraw when conflict arises, or you struggle to stay curious about their perspective when you're convinced you're right. These patterns reveal exactly which capacities need development. If you tend toward defensiveness, your essential work is cultivating the capacity to receive criticism as care rather than attack. If you tend to withdraw, your work is building the capacity to stay present even when connection feels uncomfortable. If you struggle with rigidity, your work is developing the capacity to hold your convictions lightly enough to let new understanding in. These aren't personality flaws to eliminate—they're growing edges to expand. The couples whose marriages thrive aren't those without difficult patterns; they're those who recognize their patterns and actively build the capacities needed to work with them skillfully.
+
+🎯 **Wedding Wisdom**
+
+The vows you speak on your wedding day will be kept or broken based on the capacities you build in the quiet weeks before it.
+
+❓ **Tomorrow's Question**
+
+If you discovered that the one argument you and your partner keep having (the one that never seems to fully resolve) is actually revealing the exact capacity you each need to develop for your marriage to flourish, what would that recurring conflict be teaching you about where you still need to grow, and what does your resistance to that growth reveal about whether you're trying to win arguments or build intimacy?`,
+    parable: `Nana Rose set three small clay pots on the table before Dove and Elm. "Your wedding is three weeks away," she said quietly. "Tell me—what do you think will keep your marriage alive when the feeling of being in love temporarily fades?"
+
+Dove reached for Elm's hand instinctively. "The feeling won't fade. We're not like other couples."
+
+"Every couple believes that," Nana Rose said gently. "And every couple is wrong. Not because your love isn't real, but because love is a living thing—it has seasons. Winter always comes. The question isn't whether you'll face it, but whether you'll have built the capacity to endure it."
+
+Elm studied the three pots. "What are these?"
+
+"These represent the capacities most couples discover they need only after they've married—when it's harder to develop them." She touched the first pot. "This one is the capacity to love your partner when you don't feel like it. Not pretending—genuinely choosing tenderness when your instinct is irritation."
+
+Dove shifted uncomfortably. She thought of yesterday, when Elm had questioned her seating chart for the third time and she'd snapped at him.
+
+Nana Rose touched the second pot. "This one is the capacity to receive your partner's truth even when it stings. To hear their disappointment or frustration and stay curious rather than defensive."
+
+Elm looked down. He remembered how he'd shut down last week when Dove told him she felt like he wasn't fully present in the planning process.
+
+"And this one," Nana Rose said, touching the third pot, "is the capacity to repair. To recognize when you've wounded each other and do the humble work of apologizing, forgiving, and beginning again—not once, but ten thousand times."
+
+"How do we build these capacities?" Dove asked, her voice small.
+
+"The same way you build any capacity—through practice. Your engagement has been giving you opportunities, but most couples are so focused on planning the perfect wedding that they miss the imperfect moments that are actually preparing them for marriage." Nana Rose lifted the first pot. "Every time Elm does something that irritates you and you choose tenderness anyway—that's practice. Every time Dove names a hard truth and you stay open instead of defended—that's practice. Every time you hurt each other and do the work of repair—that's practice."
+
+She set the pots in a line. "These three weeks before your wedding aren't a countdown to a celebration. They're a training ground for a lifetime. The question isn't whether you'll face moments that require these capacities—you will, probably before your wedding day arrives. The question is whether you'll recognize those moments as exactly the preparation you need."
+
+Dove picked up the pot representing the capacity to love when you don't feel like it. It was empty, waiting to be filled.
+
+"The vows you speak on your wedding day," Nana Rose said, "will be kept or broken based on what you fill these pots with in the quiet weeks before it. Not with good intentions. Not with romantic feelings. With actual practiced capacity."
+
+Elm reached for the pot representing the capacity to receive hard truths. "So when Dove tells me something I don't want to hear..."
+
+"That's not her being difficult. That's life handing you exactly the practice you need. The couples whose marriages thrive aren't those who never trigger each other—they're those who recognize every trigger as an invitation to expand their capacity to love."
+
+Dove looked at Elm. "We've been treating our disagreements like problems to solve before the wedding."
+
+"When they're actually capacities to build before the marriage," Elm finished.
+
+Nana Rose smiled. "Now you're beginning to understand. Being ready for a wedding means your love is strong enough to make promises. Being ready for marriage means your character is strong enough to keep them when keeping them costs you something."
+
+She stood to leave, then paused. "Three weeks. You have three weeks of ordinary moments—moments of tiredness, tension, disappointment, and difference. Don't waste them trying to be perfect for each other. Use them to become capable with each other."
+
+After she left, Dove and Elm sat in silence, looking at the three empty pots.
+
+"I think," Dove said slowly, "we need to have the conversation about how I've been shutting you out of decisions."
+
+Elm took her hand. "And I think I need to practice staying open when you tell me things I don't want to hear."
+
+They picked up the pots, one by one, and began the work of filling them.
+
+**Moral:** The foundation of marriage is not built from the love you feel but from the capacities you develop—the ability to love when it's difficult, to receive truth when it stings, and to repair what breaks. These final weeks before your wedding are not merely a countdown but a crucible, offering you exactly the practice you'll need for a lifetime.
+
+**Tomorrow:** Dove and Elm discover that their one recurring argument is trying to teach them something essential—if only they'll stop trying to win it and start learning from it.`,
+  },
 ];
