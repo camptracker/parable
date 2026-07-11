@@ -6721,4 +6721,90 @@ They picked up the pots, one by one, and began the work of filling them.
 
 **Tomorrow:** Dove and Elm discover that their one recurring argument is trying to teach them something essential—if only they'll stop trying to win it and start learning from it.`,
   },
+  {
+    day: 106,
+    title: "The Sacred Inheritance",
+    date: "2026-07-11",
+    image: "images/wedding-planning/day-106.jpg",
+    audio: "audio/wedding-planning/day-106",
+    sonnet: `**🪶 Sonnet CVI: The Sacred Inheritance**
+
+What legacy of love do we bequeath
+To those who witness vows we speak aloud?
+For marriage is no private flower wreath—
+It blooms in public soil before the crowd.
+
+Each gesture speaks in tongues we don't intend,
+Each kindness writes a chapter others read,
+The way we break and how we later mend
+Becomes the text from which young lovers feed.
+
+Our children's children's dreams of partnership
+Will trace their roots back to this wedding day,
+When how we held each other, lip to lip,
+Revealed what we believed that love could say.
+
+*So let us build a marriage worth the taking,*
+*A legacy of love, not love's forsaking.*`,
+    standard: `💍 Day 106: The Sacred Inheritance
+
+🧱 The Concept
+The marriage you create will become a living legacy that influences not just your own future but the relationship templates your children, friends, and community carry forward.
+
+❓ Why It Matters
+Every couple at your wedding is unconsciously taking notes on what marriage looks like, how partners treat each other under stress, and what commitment actually means in practice. Your marriage becomes a reference point—for better or worse—in the lives of everyone who witnesses it. The way you love each other doesn't stay contained within your relationship; it ripples outward, teaching others what's possible (or what to avoid) in their own partnerships.
+
+⚙️ How It Works
+When your niece sees you and your partner laugh together after a small disaster at your reception, she learns that joy can coexist with imperfection. When your best friend watches how you handle a disagreement about seating arrangements, they're learning conflict resolution skills they might apply in their own relationship. When your parents observe how you and your partner make decisions together—whether you collaborate or one dominates—they're seeing either validation or contrast to their own marriage patterns. Your wedding day and the marriage that follows become a teaching text that people around you are constantly reading. The couple who struggles in their marriage but hides it teaches isolation; the couple who struggles but faces it together teaches resilience. The couple who prioritizes appearances over authenticity teaches performance; the couple who shows up genuinely teaches courage. You're not just building your own marriage—you're contributing to the collective understanding of what marriage can be in your entire community.
+
+🎯 Wedding Wisdom
+Your marriage will teach everyone around you what you believe about love, whether you intend to or not—make sure the lessons are ones you'd want your children or closest friends to learn.
+
+❓ Tomorrow's Question — If you discovered that your marriage would inevitably become the primary example your future children use to understand what committed love looks like, what specific daily interaction between you and your partner would you want them to witness most frequently, and what does that reveal about the difference between the marriage you're planning to project versus the one you need to actually embody?`,
+    parable: `Nana Rose stood in her sunlit office, surrounded by photographs spanning six decades of weddings. Dove and Elm had come for their final planning session, but the old woman seemed distracted, studying the images with unusual intensity.
+
+"Do you know what I see when I look at these?" she asked, not waiting for an answer. "I see genealogies. Not of blood, but of belief."
+
+She pointed to a photograph from 1962—a couple cutting their cake, the bride's hand trembling slightly as the groom's hand covered hers, steadying it. "Margaret and Jim. Married fifty-eight years before he passed. But look here"—she pulled out another photo from fifteen years later—"their daughter Sarah, and how her husband steadies her hand the exact same way. She learned what support looked like by watching them."
+
+Dove felt a chill run through her. "You mean... people are watching us? Learning from us?"
+
+"Not just watching, dear. Absorbing. Recording. Building their own relationship blueprints based on what they witness." Nana Rose selected another photograph—a couple from the 1980s, both turned slightly away from each other even as they smiled for the camera. "The Hendersons. They looked perfect, didn't they? But see the distance? How they're touching but not really connected?"
+
+She pulled out three more photographs, all from their family tree. "Their children. All divorced within five years. Each one told me they thought marriage was supposed to look happy, not feel happy. They'd learned from the masters of appearance."
+
+Elm leaned forward, his brow furrowed. "So every couple at our wedding is... taking notes?"
+
+"Not consciously. But yes. Your cousin who's afraid of commitment? He's watching to see if marriage means losing yourself. Your friend whose parents had a bitter divorce? She's looking for evidence that it can be different. Your younger siblings? They're building their entire template for what's possible between two people in love."
+
+Nana Rose moved to the window, where morning light caught the silver in her hair. "I once planned a wedding where everything went spectacularly wrong. The cake collapsed. The band's equipment failed. A summer storm flooded the garden venue, and we had to move everything inside at the last moment." She smiled at the memory. "But the couple? They laughed through all of it. They danced in the rain before we moved inside. When the cake fell, they fed each other the one surviving tier with their fingers, frosting on their noses, completely delighted."
+
+"What happened to them?" Dove asked.
+
+"Still married, forty-two years now. But more importantly? Seven couples who attended their wedding told me later that watching them handle chaos with such grace gave them permission to stop demanding perfection in their own relationships. One woman said it saved her marriage—she'd been so focused on having a perfect life that she'd forgotten to actually live with her husband."
+
+Dove felt the weight of this settling into her bones. "We're not just planning our wedding. We're... teaching something."
+
+"Exactly. And here's what matters most: you can't fake this lesson. People can sense authentic partnership versus performed partnership within moments. The way you look at Elm when something goes wrong matters more than the flowers. The way you speak to each other when you're stressed teaches more than your vows. The way you handle the inevitable imperfections shows people whether marriage is about maintaining an image or supporting a soul."
+
+Elm reached for Dove's hand, and she felt the familiar comfort of his presence. "So what do we do?"
+
+Nana Rose's eyes softened with ancient kindness. "You stop worrying about giving people a perfect wedding to watch, and you start focusing on being the kind of married couple you'd want someone you love to become. Because I promise you—someone you love is watching, learning, and building their dreams of partnership based on what they see in you."
+
+She pulled out one final photograph—a recent one, a couple in their thirties. "This is Emily. Her parents had one of those perfect-looking marriages that was hollow inside. She told me she almost didn't get married because she thought it was all a beautiful lie. Then she went to her best friend's wedding and watched that couple—how they checked in with each other constantly, how they laughed at their own mistakes, how they were clearly in love with each other and not just in love with being married." Nana Rose's voice grew thick with emotion. "Emily said it was the first time she'd seen marriage as something that could actually nurture two people instead of diminish them. That couple saved her faith in love without ever knowing it."
+
+Dove understood then. Her wedding wasn't just about celebrating her love for Elm—it was about demonstrating what love could look like to everyone who'd forgotten, everyone who'd never seen it modeled well, everyone who was still trying to believe it was possible.
+
+"What we do together becomes what others think is possible," she whispered.
+
+"Yes," Nana Rose confirmed. "Your marriage is your legacy, whether you have children or not. It teaches. It demonstrates. It either expands or contracts what people around you believe about love's possibilities."
+
+Elm squeezed Dove's hand. "Then I want ours to teach courage. And tenderness. And the kind of partnership that makes people think 'I want that too.'"
+
+"Then that's exactly what you'll practice," Nana Rose said, "starting on your wedding day, continuing through every ordinary Tuesday for the rest of your lives. Not for show. But because you understand that love at its best is never just personal—it's inevitably communal. It radiates. It teaches. It inherits."
+
+**Moral:** *Your marriage will teach everyone around you what you believe about love, whether you intend to or not—make sure the lessons are ones you'd want your children or closest friends to learn.*
+
+**Tomorrow:** Dove confronts an uncomfortable truth: the marriage she builds will become the primary template her future children use to understand love. But what if the way she wants to appear married is different from the way she needs to actually be married?`,
+  },
 ];
