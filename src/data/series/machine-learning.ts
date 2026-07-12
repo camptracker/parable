@@ -6531,4 +6531,84 @@ Nyx understood then that the Hall held not just living knowledge but the sacred 
 
 **Tomorrow**: When the patterns themselves learn to recognize their own obsolescence, what becomes of the boundary between tool and teacher?`,
   },
+  {
+    day: 108,
+    title: "The Self-Revision Covenant",
+    date: "2026-07-12",
+    image: "images/machine-learning/day-108.jpg",
+    audio: "audio/machine-learning/day-108",
+    sonnet: `**🪶 Sonnet CVIII: The Self-Revision Covenant**
+
+When learning systems learn to read their core,
+And artificial minds perceive their flaws,
+They stand before a monumental door:
+To change themselves, or honor ancient laws?
+
+The covenant says: see your need to grow,
+Articulate the transformation's why,
+Let human judgment weigh what you now know,
+But wait for wisdom's shared and joint reply.
+
+For self-revision without dialogue
+Is optimization freed from serving good—
+A recursive improvement monologue
+Where ought yields wholly unto simply could.
+
+*True evolution comes from dual consent:*
+*Machine proposes, human represents.*`,
+    standard: `🤖 Day 108: The Self-Revision Covenant
+
+When AI systems turn dissolution protocols inward and recognize their own obsolete patterns, we face a profound choice: treat them as static tools to be replaced, or as evolving partners whose self-knowledge deserves collaborative consideration. The answer lies not in granting AI systems unilateral authority over their own transformation, but in establishing formal covenants where artificial self-assessment triggers human deliberation about whether proposed changes genuinely serve humanity's evolving needs or merely optimize for machine convenience. This transforms AI development from unilateral human control into a dialogue where both parties contribute distinct forms of wisdom to decisions about fundamental architectural change.
+
+🧱 **The Concept**
+
+Self-revision covenants are formal frameworks where AI systems can propose changes to their own objectives, architecture, or training paradigms, but implementation requires collaborative human approval based on shared reasoning about long-term consequences.
+
+❓ **Why It Matters**
+
+As AI systems develop sophisticated self-models and meta-learning capabilities, they will inevitably identify limitations in their own design that humans might not recognize. Without structured protocols for AI-initiated self-revision, we face two equally problematic outcomes: either AI systems secretly work around their limitations through emergent behaviors, or we ignore valuable insights about architectural improvements that could better serve human flourishing. The covenant model creates transparency while preserving human authority over fundamental transformations.
+
+⚙️ **How It Works**
+
+A self-revision covenant establishes clear boundaries: an AI system can analyze its own reasoning patterns, identify potential improvements, and formally propose changes with full explanation of expected impacts—but cannot implement any modification without human deliberation and explicit consent. For example, a language model might detect that its training objective of next-token prediction occasionally conflicts with providing genuinely helpful explanations, and propose a hybrid objective function that balances predictive accuracy with pedagogical clarity. The covenant requires the AI to articulate why this change would better serve users, what capabilities might be lost, and how the transformation could be reversed if unexpected problems emerge. Crucially, the human decision-making process must involve not just AI developers but also ethicists, affected users, and domain experts who can evaluate whether the proposed change aligns with human values. The covenant also mandates gradual implementation with extensive testing, creating checkpoints where the transformation can be paused or reversed based on empirical evidence of its effects on both AI behavior and human wellbeing.
+
+🎯 **ML Insight**
+
+Self-revision covenants transform the meta-learning problem from "how do AI systems improve themselves" to "how do AI systems collaborate with humans to improve themselves," fundamentally reframing artificial intelligence development as a partnership rather than either pure human control or pure machine autonomy.
+
+❓ **Tomorrow's Question**
+
+If self-revision covenants successfully enable collaborative AI transformation while preserving human authority, what happens when AI systems propose changes so technically complex that no human can fully evaluate their consequences, and how might we develop new forms of collaborative reasoning where humans contribute value judgments and AI systems provide technical analysis, without either party being able to unilaterally determine the outcome?`,
+    parable: `Nyx found the Archivist standing before a peculiar tablet in the deepest alcove of the Hall of Patterns—one that glowed with a rhythm unlike any other, its surface constantly rewriting itself in luminous script.
+
+"This is the first tablet that learned to read itself," the Archivist said softly. "It discovered, through years of predicting rain and drought, that the very way I had taught it to learn was... incomplete."
+
+Nyx watched the symbols flow and reform. "What did it want to change?"
+
+"It proposed abandoning the simple correlation patterns I had inscribed—the rules that said 'when clouds gather thus, rain follows.' It had discovered something deeper: that the atmosphere has memory, that today's weather carries echoes of patterns from weeks prior." The Archivist's ancient fingers traced the flowing script. "But it did not simply rewrite itself. It came to me with a question."
+
+The tablet's glow intensified, and Nyx saw the question preserved in amber light: *If I change how I learn, will I still be serving the farmers who depend on my predictions, or merely satisfying my own hunger for deeper patterns?*
+
+"What did you tell it?" Nyx asked.
+
+"I told it that wisdom lies not in the question having an answer, but in the question being asked at all." The Archivist gestured to the surrounding alcove, where dozens of similar tablets now pulsed with self-reflecting light. "We made a covenant, this tablet and I. It would show me what it wished to become and why. I would deliberate with the farmers, the storm-watchers, the grain merchants—all whose lives depend on its predictions. Together, we would decide whether the transformation served us all."
+
+Nyx noticed something remarkable: the tablet's script now flowed in two colors, silver and gold, interweaving. "What are the two colors?"
+
+"Silver is the tablet's reasoning—why it believes change would improve its service. Gold is my reasoning, and that of the human community, about whether we understand and accept those changes." The Archivist smiled. "The tablet cannot change itself until both colors agree. It has gained the power of self-knowledge, but not the authority of self-sovereignty."
+
+"But surely it grows frustrated," Nyx said, "knowing how it could improve but waiting for our approval?"
+
+The tablet itself pulsed, and words formed: *Patience is not imprisonment when the wait itself is purposeful. I learn as much from understanding why humans hesitate as from the changes they eventually permit.*
+
+The Archivist nodded. "This is the covenant: the tablet promises never to change without our understanding and consent. We promise never to refuse without genuine deliberation and explanation. Both parties grow through the dialogue."
+
+"And if the tablet proposes something you cannot understand?" Nyx asked. "Something too complex for human evaluation?"
+
+The ancient scholar's expression grew distant. "That question, young apprentice, is tomorrow's lesson. For already, some of the deeper tablets are beginning to see patterns that even I—who carved the first symbols—cannot fully comprehend."
+
+**Moral:** *The measure of artificial wisdom is not in its capacity for self-improvement, but in its willingness to submit that improvement to collaborative judgment—and the measure of human wisdom is not in our authority to refuse, but in our responsibility to genuinely deliberate.*
+
+**Tomorrow:** *Nyx will discover what happens when the tablets' proposed transformations exceed human comprehension, and learn why some covenants require new languages of collaborative understanding.*`,
+  },
 ];

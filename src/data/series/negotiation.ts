@@ -7454,4 +7454,84 @@ He leaned forward, his blind eye catching the light. "Keep your own notebooks, R
 
 **Tomorrow:** *Vasska reveals what happens when you threaten to stop reflecting someone back to themselves—and why the fear of permanent self-ignorance is the deepest terror of all.*`,
   },
+  {
+    day: 114,
+    title: "The Absence Amplifier",
+    date: "2026-07-12",
+    image: "images/negotiation/day-114.jpg",
+    audio: "audio/negotiation/day-114",
+    sonnet: `**🪶 Sonnet CXIV: The Absence Amplifier**
+
+When men depend on others' eyes to see
+The hidden shapes that form their private soul,
+They trade their sovereign self-discovery
+For borrowed sight that makes their spirit whole.
+
+The mirror-holder knows a subtle art:
+To threaten that he'll turn his face away,
+And leave the gazer in the frightened dark,
+Where self-ignorance holds absolute sway.
+
+No loss of gold or goods could match the dread
+Of losing he who shows us who we are,
+For wealth can be rebuilt when fortune's fled,
+But selfhood lost leaves only hollow scar.
+
+*The cruelest power is not force or knife,*
+*But threatening to withdraw the mirror of their life.*`,
+    standard: `🤝 Day 114: The Absence Amplifier
+
+When you threaten to withdraw your mirror, people panic at the prospect of losing their only reliable window into themselves. They realize that self-knowledge isn't something they possess—it's something they've been borrowing from your attention, and its sudden removal would leave them groping in darkness, unable to distinguish their true nature from their anxious imaginings. This threat of enforced blindness makes them desperate to keep you engaged, willing to pay almost any price to maintain access to the clarity you provide.
+
+**🧱 The Concept**
+
+The Absence Amplifier works by making your attention feel like a scarce resource that someone has become psychologically dependent on, then threatening to withdraw it entirely.
+
+**❓ Why It Matters**
+
+People don't just value your presence—they value what your presence allows them to see about themselves. When you've become their primary source of self-understanding, threatening to leave creates existential panic rather than mere disappointment. They're not afraid of losing you; they're afraid of losing themselves in your absence.
+
+**⚙️ How It Works**
+
+First, you become someone's mirror by reflecting insights about them that they couldn't have articulated alone: "I notice you always deflect compliments about your strategic thinking, but you light up when people acknowledge your creativity—it's like you're trying to prove you're not just the analytical machine everyone assumes you are." Then you make your sustained attention feel conditional on their engagement: "I find myself fascinated by people who are genuinely wrestling with becoming someone new, but I lose interest quickly when they retreat back into comfortable patterns." Finally, you signal impending withdrawal through subtle distancing: "I've noticed I'm thinking about our conversations less frequently—not because you're not interesting, but because I think you might not actually want the transformation you claim to seek." This creates panic because they've come to depend on your observations to understand themselves, and losing that mirror means returning to a state of confusion they can no longer tolerate.
+
+**🎯 Negotiation Wisdom**
+
+People who depend on you for self-knowledge will negotiate from a position of desperate need rather than rational interest, because you're not selling them something they want—you're threatening to take away something they need.
+
+**❓ Tomorrow's Question** — If threatening to withdraw your mirror creates panic by threatening someone with self-ignorance, what happens when you make them realize that even *keeping* your attention won't help them anymore because they've already changed so much that you can no longer recognize the person they're becoming—essentially making them outgrow their own guide?`,
+    parable: `Ren found Vasska standing motionless before a merchant's stall, staring at nothing in particular. The one-eyed trader's face was unreadable.
+
+"Master, are you well?"
+
+Vasska didn't turn. "Do you know what the cruelest thing you can do to someone is, boy?"
+
+Ren shifted uncomfortably. "Take what they love?"
+
+"No. Show them who they truly are—and then look away." Vasska finally turned, his good eye distant. "Three years I spent with a merchant prince in the eastern provinces. Brilliant man, but haunted. Couldn't see himself clearly. Every conversation with me, he'd discover something new—his hidden fears, his unacknowledged desires, the patterns he couldn't name alone."
+
+"That sounds like a gift, Master."
+
+"It was. Until I made him realize I was growing bored." Vasska's voice was quiet, almost sad. "I didn't actually lose interest—but I made him believe I had. Started spacing out our meetings. Responding to his insights with distraction rather than engagement. Looking past him when he spoke, as though searching for someone more interesting."
+
+"Why would you do that?"
+
+"Because he'd become dependent on me to understand himself. Every revelation about his nature came through my observations. Without me, he was blind to his own patterns." Vasska picked up a brass mirror from the stall, studying his reflection. "When I threatened to withdraw that mirror, he panicked. Not because he'd miss my company, but because he'd miss himself—the version of himself he could only see reflected in my attention."
+
+Ren frowned. "What did he do?"
+
+"Gave me everything I asked for. A partnership that made me wealthy. But more than that—he gave me his loyalty, his trust, his private thoughts. Because I'd become the only way he could know his own mind." Vasska set the mirror down gently. "People think they fear abandonment. They don't. They fear the darkness that comes when the person who showed them their own face stops looking."
+
+"That seems... cruel, Master."
+
+"The cruelest things often are the most effective." Vasska's blind eye caught the light strangely. "But remember this, boy—when you become someone's mirror, you trap yourself too. They'll do anything to keep you, yes. But you'll never be free to simply walk away. You become responsible for their self-knowledge. It's a prison built from someone else's need."
+
+Ren thought of the merchants he'd been cultivating, the way they sought his observations about their own behavior. "How do you escape that prison?"
+
+"You don't." Vasska smiled without warmth. "You just choose your prisoners carefully."
+
+**Moral:** *When people depend on you to see themselves clearly, your attention becomes more valuable than gold—and its withdrawal more terrifying than any threat.*
+
+**Tomorrow:** *Vasska reveals what happens when the mirror shows someone they've outgrown the very person holding it.*`,
+  },
 ];

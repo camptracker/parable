@@ -7211,4 +7211,75 @@ Greymane found her at the rail that evening. "You're creating laboratories, not 
 
 **Tomorrow:** When the path forward offers no clearly right answer, and your team seeks certainty you cannot provide, how do you help them discover the courage to choose anyway?`,
   },
+  {
+    day: 111,
+    title: "The Inheritance of Decisions",
+    date: "2026-07-12",
+    image: "images/leadership/day-111.jpg",
+    audio: "audio/leadership/day-111",
+    sonnet: `**🪶 Sonnet CXI: The Inheritance of Decisions**
+
+Not answers but the art of asking well—
+This gift transcends the wisdom that we own,
+For truths we speak today cannot foretell
+The questions that tomorrow's world has sown.
+The leader who inscribes the perfect map
+May doom the ones who sail when currents shift,
+While she who teaches how to close the gap
+Between the known and strange bestows the gift.
+What use are solutions, crystalline and clear,
+When problems change their shape beyond our sight?
+The frameworks that we polish, hold most dear,
+May blind our heirs to necessary light.
+*Bequeath not what you knew, but how you learned—*
+*The flame of thought, not ashes that it burned.*`,
+    standard: `👥 Day 111: The Inheritance of Decisions
+
+🧱 **The Concept**
+True leadership succession isn't measured by who receives your title, but by who inherits your decision-making framework and the wisdom to know when to abandon it.
+
+❓ **Why It Matters**
+Most leaders focus on transferring knowledge and processes, but the real legacy lies in transferring the meta-skill of knowing how to think through unprecedented situations. Your successors will face challenges you never imagined—what they need isn't your answers, but your approach to finding answers when none exist.
+
+⚙️ **How It Works**
+Instead of documenting what you decided, document why you decided it and what alternatives you considered. When mentoring emerging leaders, don't just share your conclusions—walk them through the mental models you used to arrive at those conclusions, including the values that weighted your choices. Create opportunities for them to make consequential decisions while you're still present, not to approve their choices, but to help them articulate the reasoning behind their decisions and examine the assumptions they didn't realize they were making. The goal is to transfer not just competence but the capacity to develop new competencies when the world changes in ways you cannot predict.
+
+🎯 **Leadership Wisdom**
+Your greatest contribution isn't solving today's problems brilliantly—it's ensuring that tomorrow's leaders know how to solve problems that don't exist yet.
+
+❓ **Tomorrow's Question** — If you discovered that the decision-making frameworks you're teaching your successors were perfectly designed for the world as it exists today but completely inadequate for the world they'll actually inherit, how would you prepare them to recognize when your hard-won wisdom has become obsolete, and what permission would you need to give them to confidently abandon your methods in favor of approaches you might not even understand?`,
+    parable: `**The Inheritance of Decisions**
+
+Tova found Greymane in the cartography room, burning maps.
+
+Not carelessly—each chart was examined, certain markings copied into a worn journal, then fed methodically to the flames. The room smelled of paper and memory.
+
+"The old routes," Greymane said without looking up. "Currents have shifted. Sandbanks have moved. These maps would kill anyone who trusted them completely."
+
+"Then why copy parts of them?" Tova asked, watching a beautifully rendered coastline curl into ash.
+
+"Because the currents shifted for reasons. The sandbanks moved according to principles. Those reasons and principles—they persist even when the specifics change." He tapped his journal. "I'm not preserving where the dangers were. I'm preserving how to recognize where dangers form."
+
+Tova thought of her own crew, how she'd been teaching them the procedures that had saved her during her first storm, the formations that had worked in her most successful engagements.
+
+"I've been making maps," she said slowly. "Teaching them what I did."
+
+"And when they face situations you never encountered?" Greymane fed another chart to the fire. "I once knew a captain—brilliant navigator, perfect memory. Taught his first mate every route, every landmark, every timing. The mate could sail those courses blindfolded. Then the captain retired, and within a year, a volcanic eruption changed the entire archipelago. The mate was helpless. He'd inherited answers, not questions."
+
+"What should I be teaching them instead?"
+
+Greymane opened his journal, showing not maps but questions written in margins: *What does the water feel like before it turns dangerous? What do birds do when land is near but hidden? When does certainty become arrogance?*
+
+"Teach them how you think, not what you think. Show them the questions you ask yourself when everything you know proves insufficient. Let them watch you abandon your own expertise when the situation demands it." He smiled grimly. "The greatest gift you can give your successors is permission to be smarter than you, in ways you cannot imagine, for a world you will not see."
+
+Tova picked up one of the old maps, studying its confident lines, its declared certainties. How much of her own teaching had this same quality—beautiful, detailed, and increasingly irrelevant?
+
+"Tomorrow," she said, "I'm changing how we train. No more drills of 'correct' responses. We practice the thinking that finds responses when all the correct ones fail."
+
+Greymane nodded. "Now you're not just preparing them to sail. You're preparing them to navigate."
+
+**Moral:** *The leader who leaves behind procedures creates followers. The leader who leaves behind principles creates thinkers. The leader who leaves behind the permission to question those principles creates leaders.*
+
+*Tomorrow, Tova will discover that preparing her crew for an unknowable future requires teaching them to recognize when her own wisdom has expired—but can she truly give them permission to surpass her?*`,
+  },
 ];

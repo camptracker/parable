@@ -2998,4 +2998,84 @@ The child looked up, eyes bright with something that wasn't there after the prev
 
 *Tomorrow, Elder Mira will ask Asha about the difference between protecting children from consequences and preparing them to handle consequences—and what it means when our rescue becomes their handicap.*`,
   },
+  {
+    day: 47,
+    title: "The Inheritance of Self-Regard",
+    date: "2026-07-12",
+    image: "images/raising-kids/day-47.jpg",
+    audio: "audio/raising-kids/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Inheritance of Self-Regard**
+
+You teach them kindness with your bitter tongue,
+That speaks so soft to them, so harsh to you—
+They learn that love is something sung
+To others' ears, while self-contempt rings true.
+
+You say their worth is unconditional, whole,
+Then list your failures like a faithful scribe—
+They absorb the lesson: guard another's soul,
+But treat your own with systematic bribe.
+
+The words you speak are seeds upon the wind,
+But how you tend your garden—this they see:
+The mercy given freely, or rescinded,
+The space you claim, or yield apologetically.
+
+*They'll learn self-love not from your proud decrees,*
+*But watching how you treat yourself when no one sees.*`,
+    standard: `👶 Day 47: The Inheritance of Self-Regard
+
+**🧱 The Concept**
+Children don't just learn what we think about *them*—they learn what we think about *ourselves*, and these patterns of self-regard become the invisible template for how they'll treat themselves for decades to come.
+
+**❓ Why It Matters**
+We can tell our children a thousand times that they're worthy, capable, and deserving of kindness, but if they watch us speak harshly to ourselves, apologize for taking up space, or treat our own needs as perpetually negotiable, they learn that self-regard is conditional. The most powerful transmission isn't what we say about their worth—it's whether we embody our own.
+
+**⚙️ How It Works**
+A mother tells her daughter, "You're beautiful just as you are," then immediately criticizes her own appearance in the mirror. A father teaches his son about the importance of rest, then proudly announces he worked through his illness because "someone had to do it." A parent encourages their child to speak up for their needs, then models constant self-sacrifice and martyrdom. Children receive these mixed messages not as contradictions to sort out, but as revelations about how the world actually works: *self-kindness is for other people, not for me*. They learn that worthiness is something you grant others while withholding it from yourself. The most profound gift we can give our children isn't perfect self-esteem language—it's watching us practice genuine self-regard, make choices that honor our own humanity, and treat ourselves with the same dignity we insist they deserve.
+
+**🎯 Parenting Wisdom**
+The relationship your child develops with themselves will mirror the relationship you model with yourself more than any affirmations you offer them. Self-regard is caught, not taught.
+
+**❓ Tomorrow's Question** — If we want our children to develop genuine emotional resilience and the ability to recover from setbacks, why do we often find ourselves either minimizing their pain with reassurances that "it's not that bad" or amplifying it with our own distress, and what does our inability to simply witness their emotional experience without trying to fix or match it reveal about whether we truly believe emotions are safe to feel fully?`,
+    parable: `Asha found Elder Mira in the garden, methodically removing dead leaves from the jasmine vine. The older woman worked with unhurried attention, her movements neither harsh nor careless.
+
+"I tell Kavi every day that he's wonderful," Asha said, settling onto the stone bench. "That he's smart and kind and capable. But this morning he said something that stopped me cold. He asked why I always say nice things about him but mean things about myself."
+
+Elder Mira's hands stilled on the vine. "What mean things?"
+
+"I don't even remember all of them." Asha's voice was small. "Calling myself stupid when I forget something. Saying I look terrible. Apologizing constantly for everything. I thought I was just... being honest. Being humble."
+
+"Humble." Elder Mira returned to her pruning, but her tone carried weight. "When my daughter Priya was young, I did the same. I would praise her—her intelligence, her kindness, her strength. Then I would turn around and criticize myself mercilessly. I thought I was teaching her not to be vain, not to think too highly of herself."
+
+"What happened?"
+
+"She learned the lesson perfectly." Elder Mira set down her shears. "Not the lesson I intended, but the one I taught. By the time she was twenty, she could list her flaws with the same precision I had modeled, could dismiss compliments with the same deflection, could apologize for existing with the same automatic frequency. She treated herself exactly as she had watched me treat myself."
+
+Asha felt something tighten in her chest. "But you changed. Priya is so... she seems so confident now."
+
+"She did years of work to undo what I taught her." Elder Mira's voice held no self-pity, only clear-eyed acknowledgment. "And I had to do my own work—not just to stop criticizing myself in front of her, but to actually develop genuine self-regard. Children can smell performance. They know the difference between suppressed self-criticism and actual self-respect."
+
+"So when Kavi hears me call myself stupid..."
+
+"He learns that this is how people treat themselves. That the harsh voice is normal. That self-kindness is something you perform for children but abandon for adults." Elder Mira picked up a healthy branch, examining it in the sunlight. "You cannot give him something you do not possess yourself. You cannot teach him to honor his own humanity while you dishonor yours."
+
+"I don't even know where to start."
+
+"Start by noticing." Elder Mira's voice softened. "Notice the voice. Notice the pattern. You don't have to be perfect—perfection is just another form of self-punishment. But you can begin to treat yourself with the same basic dignity you want him to learn. Not because you've earned it, but because you're practicing the inheritance you want to pass down."
+
+Asha watched the older woman's hands move across the vine—firm but gentle, removing what was dead without damaging what lived. "He's watching everything, isn't he?"
+
+"Everything," Elder Mira confirmed. "The words matter. But the way you treat yourself in the thousand small moments between the words—that's the curriculum he's really studying."
+
+That afternoon, Asha caught herself about to apologize for asking her partner to watch Kavi while she took a bath. She felt the familiar words forming—*I'm sorry to bother you, I know I'm being selfish*—and stopped. From the doorway, Kavi was watching.
+
+"I'm going to take a bath," she said instead, her voice uncertain but clear. "I need some time to rest."
+
+Kavi nodded, as if this were the most natural thing in the world. As if people taking care of themselves required no apology. As if he was filing away this moment, learning what self-regard looked like in practice.
+
+**The Moral**: *Children inherit not our aspirations for them, but our relationship with ourselves. The most honest teaching happens in the moments we think no one is watching.*
+
+**Tomorrow**: *What happens when we examine how our comfort or discomfort with our children's full emotional experience shapes their ability to trust their own feelings?*`,
+  },
 ];

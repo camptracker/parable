@@ -6807,4 +6807,94 @@ Elm squeezed Dove's hand. "Then I want ours to teach courage. And tenderness. An
 
 **Tomorrow:** Dove confronts an uncomfortable truth: the marriage she builds will become the primary template her future children use to understand love. But what if the way she wants to appear married is different from the way she needs to actually be married?`,
   },
+  {
+    day: 107,
+    title: "The Sacred Apprenticeship",
+    date: "2026-07-12",
+    image: "images/wedding-planning/day-107.jpg",
+    audio: "audio/wedding-planning/day-107",
+    sonnet: `**🪶 Sonnet CVII: The Sacred Apprenticeship**
+
+Your marriage is a classroom built of days,
+Where silent students watch with careful eyes,
+And learn what love becomes through common ways—
+Not vows you speak, but patterns you disguise.
+
+The child who sees you snap in moments stressed
+Will think that love means sharpness when fatigued,
+The friend who sees you tender in distress
+Will know that intimacy can intrigue.
+
+You cannot hide the lessons that you teach
+Through every interaction, harsh or kind,
+For those who love you stand within the reach
+Of all the truths your daily life will find.
+
+*So practice well the marriage you would share—*
+*The watching world will learn from what you wear.*`,
+    standard: `💍 Day 107: The Sacred Apprenticeship
+
+The interaction you'd most want your children to witness is likely something simple yet profound: the moment when one partner notices the other's struggle and responds with immediate, unselfconscious tenderness—not grand gestures but the quiet reflex of care. This reveals that the marriage worth embodying isn't the one that looks impressive from the outside, but the one where love shows up in the small, unglamorous, everyday moments when no one is watching. The gap between what you want to project and what you need to embody is the gap between performance and practice.
+
+🧱 **The Concept**
+
+Your marriage will teach everyone around it—especially your children—what love actually is, making you not just partners but unintentional professors of the heart.
+
+❓ **Why It Matters**
+
+Whether you realize it or not, your marriage will shape how the next generation understands commitment, respect, conflict, forgiveness, and intimacy. Every interaction between you and your partner is a lesson someone is learning, consciously or unconsciously. The question isn't whether you'll teach—you will—but what you'll teach.
+
+⚙️ **How It Works**
+
+Children don't learn about love from what you tell them; they learn from what they observe when you think no one's paying attention. If they see you dismiss your partner's feelings, they learn that love involves hierarchy and dismissal. If they see you repair conflicts with genuine apology and changed behavior, they learn that love is resilient and humble. If they see you speak kindly about your partner to others even when frustrated, they learn that love protects dignity even during disagreement. If they see you prioritize presence over productivity when your partner needs connection, they learn that love values being over doing. Your daily micro-interactions create their internal template for what "normal" love looks like—and they'll unconsciously seek to replicate that template in their own relationships, for better or worse.
+
+🎯 **Wedding Wisdom**
+
+Your wedding day is the public declaration, but your daily marriage is the curriculum. Teach well.
+
+❓ **Tomorrow's Question**
+
+If you discovered that the version of yourself you become when your partner disappoints you is the version your children will unconsciously adopt when their future partners disappoint them, what would you need to change about how you handle frustration, and what does that reveal about whether you're breaking generational patterns or perpetuating them?`,
+    parable: `Dove sat at Nana Rose's kitchen table, her wedding just days away, watching the old woman knead bread with practiced hands. "I keep thinking about what kind of wife I'll be," Dove said quietly. "What kind of marriage Elm and I will have."
+
+"Mmm," Nana Rose hummed, not looking up from the dough. "And what kind do you want?"
+
+"One that's... good. Healthy. Happy." Dove's words felt hollow even as she spoke them.
+
+Nana Rose's hands stilled. "Child, let me tell you what I learned after planning a thousand weddings and living through fifty-three years of my own marriage." She dusted flour from her fingers. "Your marriage won't just belong to you and Elm. It will belong to everyone who witnesses it."
+
+Dove frowned. "I don't understand."
+
+"My granddaughter Maya—she's sixteen now. Last week she told me she doesn't want to get married because all marriages look miserable." Nana Rose's voice carried weight. "And I realized: she's been watching. Watching her parents, watching her aunts and uncles, watching me and her grandfather. We thought we were just living our lives, but we were teaching her what love is."
+
+Elm appeared in the doorway, and Nana Rose gestured him in. "Sit, both of you. This is important."
+
+They sat, hands finding each other across the worn wood.
+
+"Every couple who comes to me wants a beautiful wedding," Nana Rose continued. "But I've learned to ask a different question: What kind of marriage do you want to model? Because whether you have children or not, someone is watching. Someone is learning from you what commitment means, what respect looks like, how to handle disappointment, how to repair harm."
+
+She pointed to Dove with a knowing look. "I've seen how you snap at Elm when you're stressed about seating charts. I've seen how your voice changes—sharper, colder."
+
+Dove's cheeks flushed. "That's just... wedding stress. It's not real."
+
+"Oh, but it is real," Nana Rose said gently. "It's the realest thing about you. Stress doesn't create character—it reveals it. And whoever watches you in those moments is learning what love does under pressure."
+
+Elm squeezed Dove's hand. She turned to him, eyes glistening. "I don't want to teach people that love means taking your frustration out on whoever's closest."
+
+"Then don't," Nana Rose said simply. "You have these few days before your wedding to practice being the kind of married person you want to become. Not the version who looks good in photos, but the version who responds to difficulty with grace."
+
+"But what if I fail?" Dove whispered.
+
+"Then you repair," Elm said, his voice steady. "And whoever's watching learns that love isn't perfection. It's the willingness to acknowledge harm and do better."
+
+Nana Rose smiled, returning to her bread. "You're both becoming teachers whether you want to be or not. The only question is: what will you teach?"
+
+Dove looked at Elm—really looked at him. "I want to teach that love is kind even when it's tired. That it listens even when it's busy. That it stays soft even when the world is hard."
+
+"Then start now," Nana Rose said. "Not on your wedding day. Now. Every moment between now and then is a rehearsal for the marriage you'll model for the rest of your life."
+
+**Moral:** Your marriage is not a private affair—it is a living curriculum that will teach everyone around you what committed love looks like. Choose your lessons wisely, for they will echo far beyond your own relationship.
+
+**Tomorrow:** Dove must confront what happens when her own worst impulses emerge under stress—and what that means for the legacy she'll leave.`,
+  },
 ];
