@@ -6897,4 +6897,92 @@ Dove looked at Elm—really looked at him. "I want to teach that love is kind ev
 
 **Tomorrow:** Dove must confront what happens when her own worst impulses emerge under stress—and what that means for the legacy she'll leave.`,
   },
+  {
+    day: 108,
+    title: "\"The Sacred Rehearsal\"",
+    date: "2026-07-13",
+    image: "images/wedding-planning/day-108.jpg",
+    audio: "audio/wedding-planning/day-108",
+    sonnet: `**🪶 Sonnet CVIII: The Sacred Rehearsal**
+
+When flower girls forget their careful cue,
+And groomsmen stumble, missing practiced marks,
+The couple who can laugh at what's askew
+Rehearse the skill that lights a marriage's sparks.
+
+For walking aisles is but the smallest part
+Of what tomorrow's ceremony means—
+The greater test: can chaos find your heart
+Still reaching for your lover through the scenes?
+
+Each fumbled step, each moment gone awry
+Becomes a chance to practice sacred grace:
+To meet your partner's warm and knowing eye
+And find connection in the wrong-shaped space.
+
+*For marriage is not choreography well-planned,*
+*But learning how to find each other's hand.*`,
+    standard: `💍 Day 108: "The Sacred Rehearsal"
+
+🧱 **The Concept**
+Your wedding rehearsal is not a performance drill—it's a profound practice session for how you'll navigate every threshold moment in your marriage: with grace, humor, presence, and the ability to help each other through transitions.
+
+❓ **Why It Matters**
+Couples often treat the rehearsal as an annoying logistical necessity, but this moment reveals exactly how you handle pressure, support each other through unfamiliar situations, and recover from mistakes together—the same skills that will determine your marriage's resilience through every major life transition. The way you move through your wedding rehearsal becomes a template for how you'll move through becoming parents, changing careers, losing loved ones, and navigating every other threshold where familiar ground gives way to unknown territory.
+
+⚙️ **How It Works**
+Watch how you respond when someone forgets their cue or walks the wrong direction—do you laugh together or does tension spike? Notice whether you're focusing on perfecting the performance or staying emotionally connected to each other throughout the transitions. The couple who uses their rehearsal to practice remaining present with each other during chaos (rather than just memorizing positions) is actually rehearsing the marriage skill that matters most: the ability to find each other's eyes and remember what's real even when everything around you feels uncertain. **This is why the best wedding rehearsals include a moment where you deliberately practice recovering from something going wrong—because marriage isn't about executing a flawless ceremony, it's about learning to dance gracefully with imperfection together.** When your flower girl runs the wrong direction or your groomsman trips, and you both respond with warmth rather than irritation, you're not just preparing for tomorrow—you're practicing the fundamental posture that will carry you through decades.
+
+🎯 **Wedding Wisdom**
+The couple who uses their rehearsal to practice staying connected through transitions rather than perfecting their choreography is actually preparing for marriage itself—because marriage is one long series of thresholds where you have to walk into unknown territory together, and the only thing that matters is whether you can keep finding each other's hands in the dark.
+
+❓ **Tomorrow's Question** — If you discovered that the very last private conversation you have with your partner before you walk down the aisle would set the emotional tone for your entire marriage (determining whether you approach life's challenges as a team or as isolated individuals), what would you need to say or hear in that moment, and what does that reveal about the difference between preparing to look married versus preparing to be married?`,
+    parable: `Nana Rose arrived at the church early on Friday evening, her silver hair catching the late afternoon light streaming through the stained glass. She found Dove standing alone in the empty sanctuary, staring at the aisle with something close to dread.
+
+"It's just a practice," Dove said, though Nana Rose hadn't asked. "Why does it feel so terrifying?"
+
+Nana Rose smiled, settling into a pew. "Because you know, somewhere deep inside, that this isn't really about remembering where to stand."
+
+By the time the wedding party assembled, the nervous energy was palpable. Elm kept checking his phone. Dove's sister couldn't stop adjusting her dress. The groomsmen made too-loud jokes.
+
+Nana Rose positioned everyone and began walking them through the processional. On the first attempt, Dove's nephew—the ring bearer—ran straight down the aisle at full speed, prompting laughter from everyone except Dove, whose face immediately tightened with anxiety.
+
+Elm caught her eye from where he stood at the altar. Instead of looking concerned about the chaos, he grinned and shrugged—a gesture so filled with affectionate humor that Dove felt her shoulders drop.
+
+"Again," Nana Rose said quietly.
+
+The second attempt was worse. The flower girl stopped halfway down the aisle and refused to move. Dove's father forgot which side to stand on. One of the bridesmaids' heels caught her dress.
+
+Dove looked at Elm, and this time she was the one who smiled first. He mouthed something that looked like "perfect disaster" and she nearly laughed out loud.
+
+"Excellent," Nana Rose said, and everyone looked at her in confusion.
+
+"Excellent?" Dove's sister asked. "That was a mess."
+
+"No," Nana Rose replied. "That was real. Did you notice what happened when things went wrong?"
+
+She turned to Dove and Elm. "You found each other. You didn't tense up or try to control everything—you connected through the chaos. That's what tomorrow will require, but more importantly, that's what marriage will require every time you face something you can't control."
+
+"But shouldn't we try to get it right?" Dove asked.
+
+"Oh, we will," Nana Rose assured her. "But the 'right' we're practicing isn't walking in straight lines—it's staying connected while you walk through uncertainty together."
+
+She had them run through the ceremony two more times. Each time, something small went wrong. Each time, Dove watched Elm's face first, and each time, they silently communicated something that said *we're okay, this is funny, we've got this*.
+
+By the final run-through, when the flower girl once again stopped mid-aisle, Dove simply knelt down and whispered something that made the child giggle and continue walking. Elm's face when he saw this—pride mixed with tenderness—told Dove everything she needed to know about the man she was marrying.
+
+Afterward, as everyone headed to the rehearsal dinner, Nana Rose pulled Dove and Elm aside.
+
+"You just rehearsed something far more important than a ceremony," she said. "You rehearsed how you'll handle every moment in marriage when things don't go according to plan—when children are difficult, when careers shift, when life throws you curveballs. And what you rehearsed was this: you look for each other first. You find the humor or the grace or the connection before you try to fix the problem. That's the skill that will carry you through fifty years together."
+
+Elm took Dove's hand. "So all those mistakes were actually—"
+
+"Perfect practice," Nana Rose finished. "Marriage isn't a performance where everything goes smoothly. It's a dance where you learn to stay in rhythm with each other even when the music changes unexpectedly."
+
+As they walked out into the evening, Dove realized her dread had transformed into excitement. Tomorrow wouldn't be perfect, but that was exactly the point.
+
+**Moral**: *The wedding rehearsal that teaches you to stay connected through chaos is worth more than the one that achieves flawless choreography—because marriage is not a performance to perfect but a partnership to practice, and the greatest skill you can develop is the ability to find each other's eyes and remember what's real whenever life scripts something unexpected.*
+
+**Tomorrow**: The last conversation before the threshold—what you say to each other when no one else is listening and everything is about to change.`,
+  },
 ];
