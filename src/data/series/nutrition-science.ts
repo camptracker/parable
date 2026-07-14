@@ -7082,4 +7082,113 @@ Lila felt her shoulders drop, some unnamed tension releasing. "So I don't have t
 
 **Tomorrow**: But what happens when someone builds these metabolic reserves and attempts intimacy, only to discover that their nervous system has become so efficient at self-protection that they can no longer access the very vulnerability they've worked so hard to make possible?`,
   },
+  {
+    day: 111,
+    title: "The Capacity Threshold",
+    date: "2026-07-14",
+    image: "images/nutrition-science/day-111.jpg",
+    audio: "audio/nutrition-science/day-111",
+    sonnet: `**🪶 Sonnet CXI: The Capacity Threshold**
+
+The heart cries out for touch, for eyes that see,
+While body whispers: Wait, I am not whole.
+But loneliness drowns wisdom's quiet plea—
+We feast on scraps while starving at the soul.
+
+From borrowed energy we build our bonds,
+Robbing sleep and health to fund connection,
+And wonder why, when depth demands response,
+Our bodies choose survival over affection.
+
+The crash arrives without a warning bell—
+What felt like love becomes a cage too small,
+Your nervous system rings its urgent knell:
+Withdraw, retreat, or risk losing it all.
+
+*Not failure, this—but wisdom's fierce demand:*
+*To fill your cup before you lend your hand.*`,
+    standard: `🍎 Day 111: The Capacity Threshold
+
+When you force intimacy before your nervous system has metabolic reserves to sustain it, you create what researchers call "borrowed connection"—relationships built on emergency energy that your body will eventually demand back with interest. These premature bonds often collapse precisely when they deepen beyond surface interaction, leaving both parties confused about why something that felt so right initially became so exhausting or volatile. The real relational trauma isn't the eventual withdrawal—it's the metabolic debt accumulated while pretending you had capacity you didn't actually possess.
+
+🧱 **The Concept**
+Your nervous system has a measurable energetic capacity for relational presence, and exceeding this threshold creates a metabolic debt that manifests as physical illness, emotional volatility, or sudden relational collapse.
+
+❓ **Why It Matters**
+Understanding your current capacity threshold prevents the cycle of entering relationships with enthusiasm, then withdrawing in exhaustion and confusion. Most "commitment issues" aren't psychological problems—they're biological realities of nervous systems operating beyond their sustainable capacity. The pattern of intense connection followed by complete withdrawal that many people pathologize as "avoidant attachment" is often simply a depleted system cycling between borrowed energy and forced recovery.
+
+⚙️ **How It Works**
+Your autonomic nervous system allocates energy across survival, maintenance, and connection functions in a strict hierarchy. When baseline metabolic reserves are low, your system can still generate temporary "surge capacity" for connection through stress hormones—this feels like falling in love, experiencing instant chemistry, or feeling unusually open and vulnerable. But this borrowed energy comes from systems that need it for other functions: digestion slows, sleep quality drops, immune function decreases, and emotional regulation becomes increasingly fragile. A person might feel more alive than ever in a new relationship while simultaneously developing mysterious health issues or finding themselves unusually reactive to minor stressors. After weeks or months operating on this deficit, the nervous system forcibly redirects energy away from relational presence—what felt like natural connection suddenly feels like suffocating obligation, and the person themselves can't explain why they need to withdraw. The cruel irony is that this withdrawal often happens precisely when the relationship becomes safe enough to require genuine vulnerability rather than adrenaline-fueled intensity.
+
+🎯 **Science Wisdom**
+Your capacity for sustainable intimacy isn't about your desires or values—it's about your current metabolic reserves, and honoring this threshold is the most loving thing you can do for both yourself and potential partners.
+
+❓ **Tomorrow's Question**
+*If your nervous system's capacity threshold determines what relationships you can actually sustain regardless of how much you want them, what happens when you become so focused on "building capacity" through metabolic healing that you use this work as another sophisticated form of avoiding the very intimacy you claim to be preparing for—and why might some people actually need to practice intimacy at their current capacity level, mess and all, rather than waiting until they feel metabolically "ready" for connection that may never feel safe enough to pursue?*`,
+    parable: `Lila found Maren in the healing room, tending to a young woman who lay pale and trembling on the pallet. The woman's hands were clasped tightly, and her breathing came in shallow gasps.
+
+"Fever?" Lila whispered.
+
+Maren shook her head. "Heartbreak. Or what she calls heartbreak. Watch her pulse."
+
+Lila placed her fingers gently on the woman's wrist. The rhythm was erratic, fluttering like a trapped bird.
+
+"Three months ago," Maren said quietly, "she met someone who made her feel alive for the first time in years. She opened completely, shared everything, spent every evening together. She thought she'd finally learned to be vulnerable."
+
+"What happened?"
+
+"Her body happened." Maren gestured to the woman's gaunt frame. "She stopped sleeping well. Her digestion failed. She caught every illness that passed through the village. And then, about two weeks ago, she woke up one morning and couldn't bear to see him. The thought of his touch made her want to flee."
+
+The woman's eyes opened, brimming with tears. "I ruined everything. He did nothing wrong. I just... I couldn't anymore."
+
+Maren took the woman's hand. "You didn't ruin anything. You borrowed energy you didn't have."
+
+"I don't understand."
+
+"Come," Maren said, helping the woman to sit. She gestured for Lila to bring three cups from the shelf. "Imagine each of these cups represents a portion of your life force. This one"—she touched the first—"is for keeping your body alive. Breathing, heartbeat, digestion. This one"—the second—"is for daily living. Working, eating, sleeping. And this one"—the third—"is for connection. Genuine presence with another human being."
+
+She poured water into the cups from a pitcher, but the pitcher was only half full. The first cup filled completely, the second halfway, and the third remained empty.
+
+"When you met him, you had no water in your third cup. You'd been depleted for a long time, yes?"
+
+The woman nodded. "I'd been alone for two years. Working constantly. Barely eating."
+
+"So when this man appeared and you felt such intensity, such aliveness, where do you think that energy came from?" Maren poured water from the second cup into the third. "You borrowed it. From digestion"—she poured more—"from sleep, from healing, from the reserves meant to keep you well."
+
+The woman stared at the cups, understanding dawning. "And when there was nothing left to borrow..."
+
+"Your body demanded repayment. It shut down the connection to save your life."
+
+"But it felt so real," the woman whispered. "So right."
+
+"It was real," Maren said gently. "But it was built on borrowed time. Your withdrawal wasn't a failure of love or character. It was your body's wisdom saving you from further depletion."
+
+Lila watched the woman's face transform from shame to something like relief. "So what should she have done differently?"
+
+Maren smiled. "Not 'should have.' But what she might choose next time: fill the first two cups before attempting to fill the third. Or be honest about her capacity and build connection slowly, matching her actual reserves rather than her desperate hunger."
+
+"But I was so lonely," the woman said. "I wanted connection so badly."
+
+"Yes," Maren agreed. "And your hunger made you feast before your digestion was ready for food. The cruelty is that we're most desperate for connection precisely when we have the least capacity to sustain it."
+
+She refilled the pitcher and poured slowly, methodically, until all three cups held water. "This is what metabolic healing looks like before intimacy. Not romantic. Not exciting. Just... sufficient. Boring, even. But sustainable."
+
+The woman looked at the cups for a long moment, then at Maren. "How long does it take? To refill?"
+
+"Different for everyone. Weeks. Months. Sometimes longer. But you'll know you're ready not because you feel desperately hungry for connection—that's usually a sign you're still empty. You'll know because intimacy sounds pleasant but not urgent. Optional but not essential."
+
+After the woman left, Lila turned to Maren. "Is it cruel, though? To tell her she must wait, possibly for months, while she's so lonely?"
+
+Maren was quiet for a moment. "What's more cruel: temporary chosen solitude that allows healing, or entering connection that will inevitably collapse and leave both parties wounded? The paradox is that genuine intimacy becomes possible precisely when you no longer need it desperately."
+
+"That seems like a terrible paradox."
+
+"Yes," Maren agreed. "But wisdom often is. The question you must answer is whether you're willing to honor your current capacity, even when your heart screams for more."
+
+She gestured to the three cups. "Tomorrow, we'll talk about what happens to those who can't wait—who decide to practice intimacy at their current capacity level, mess and limitations and all. Because that path has its own wisdom, even if it's harder to walk."
+
+**Moral:** Your capacity for connection is not a moral failing but a metabolic reality, and the most loving choice is often honoring your true reserves rather than borrowing from an empty well.
+
+**Tomorrow:** Lila will discover why some people must learn intimacy through stumbling rather than waiting—and why preparation itself can become another form of avoidance.`,
+  },
 ];

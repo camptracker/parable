@@ -6869,4 +6869,82 @@ Cairn smiled. "I'll let you know when it happens."
 
 **Tomorrow:** Rook will discover that some of his most "authentic" behaviors are actually performances he's perfected through repetition.`,
   },
+  {
+    day: 110,
+    title: "The Practice Resurrection",
+    date: "2026-07-14",
+    image: "images/habits-and-systems/day-110.jpg",
+    audio: "audio/habits-and-systems/day-110",
+    sonnet: `**🪶 Sonnet CX: The Practice Resurrection**
+
+The temple that I built with fevered hands
+Now stands in moss-robed silence, weather-worn,
+Its purpose lost to time's uncounted spans—
+Or so I thought, returning here this morn.
+
+The symbols carved in youth speak different truths
+To eyes that've seen a score of seasons turn;
+What guided breath in my impatient youth
+Now maps the way that understanding burns.
+
+No practice dies that once held meaning true—
+It waits in patient stillness for the day
+When we've become someone entirely new,
+Ready to learn what old forms might convey.
+
+*The seed we plant in seasons past remains,*
+*Till different soil brings forth what new rain gains.*`,
+    standard: `🧘 Day 110: The Practice Resurrection
+
+🧱 The Concept
+When we revisit an abandoned practice with fresh eyes, we often discover that we're not returning to something old—we're meeting something entirely new through the lens of who we've become.
+
+❓ Why It Matters
+Most people experience abandoned practices as failures or sources of guilt. But every practice we've dropped contains dormant wisdom that remains available for resurrection. The question isn't whether we should feel bad about what we stopped doing—it's whether we can recognize that our current self might be ready to extract entirely different value from the same old form.
+
+⚙️ How It Works
+When you return to meditation after years away, you're not the same person who originally sat on that cushion. Your nervous system has changed. Your life circumstances have evolved. Your questions are different. The practice that once served as stress relief might now serve as creative incubation. The morning pages that were once therapeutic processing might become strategic thinking time. The yoga that was once physical conditioning might become spiritual inquiry. **The form remains constant while the purpose transforms.** This is why practices never truly die—they simply wait for us to become someone who can use them differently. The key is approaching resurrection with genuine curiosity rather than rigid expectation: instead of trying to recapture what the practice once gave you, ask what it might offer the person you've become.
+
+🎯 Systems Wisdom
+Every abandoned practice is a seed waiting for the right season. Return not to prove consistency, but to discover what new fruit the old root might bear.
+
+❓ Tomorrow's Question — If we can extract completely different value from the same practice at different life stages, what happens when we try to resurrect a practice specifically because we remember how powerful it was—does nostalgia for past transformation prevent present discovery, or can honoring what was open the door to what might be?`,
+    parable: `Rook found Cairn in the clearing where the old stone circle stood—seven pillars arranged like sentinels around a space long overgrown with moss and memory. The restless wanderer had passed this place a thousand times in his travels, barely noticing it. But today something stopped him.
+
+"I built this," Rook said quietly, surprising himself. "Twenty years ago. Maybe thirty. I'd forgotten."
+
+Cairn looked up from his work—he'd been tracing the weathered carvings on one of the pillars with careful fingers. "Did you know what you were building?"
+
+"A temple. A meditation space." Rook laughed bitterly. "I was so certain back then. Built it in a fever of conviction, practiced here for three months, then abandoned it when the feeling faded."
+
+"And now you've returned."
+
+"By accident." But even as Rook said it, he knew it wasn't quite true. His feet had brought him here.
+
+Cairn gestured to the carvings—symbols Rook himself had chiseled into stone decades ago. "Read them."
+
+Rook stepped closer. The symbols depicted phases of breath: inhalation, retention, exhalation, emptiness. Simple meditation instructions. "I remember these. They were supposed to guide the practice."
+
+"And what do you see now?"
+
+Rook studied them longer. The inhalation symbol suddenly looked like a question being asked. The retention symbol like tension before insight. The exhalation like letting go of certainty. The emptiness like space for something new. "They're not breathing instructions at all," he whispered. "They're a map of how understanding arrives and departs."
+
+"Are they?"
+
+"They are *now*."
+
+Cairn smiled. "When you carved them, you were teaching yourself to breathe consciously. You needed that then—to calm your restless mind. But the stone didn't encode your need. It encoded a pattern. Now you return as someone different, someone whose mind has learned stillness through other means. So the same pattern teaches you something new."
+
+Rook sat in the center of the circle, feeling the weight of time and transformation. "I thought I'd failed this place by leaving."
+
+"You planted a seed," Cairn said. "It waited for you to become someone who could harvest it differently. This is how practices work—they don't die when we abandon them. They simply wait for us to need them as different people."
+
+"But I left so many practices behind," Rook said. "How do I know which ones to resurrect?"
+
+"The ones that resurrect themselves," Cairn replied. "The ones your feet bring you back to when you're not trying to return."
+
+**Moral:** *Every abandoned practice remains a portal to wisdom, waiting not for your return to who you were, but for your arrival as who you've become.*
+
+*Tomorrow: But what happens when we try to force resurrections too soon—seeking the practices we abandoned before we're ready to meet them with fresh eyes?*`,
+  },
 ];
