@@ -6466,4 +6466,83 @@ Finn looked at the three objects again, seeing them now not as evidence of fragm
 
 **Tomorrow**: Finn discovers that tools claiming to illuminate his creative constellation might actually be drawing new stars into his sky, and must learn to distinguish between revelation and subtle redirection of his relational patterns.`,
   },
+  {
+    day: 106,
+    title: "The Authenticity Baseline",
+    date: "2026-07-15",
+    image: "images/3d-printing/day-106.jpg",
+    audio: "audio/3d-printing/day-106",
+    sonnet: `**🪶 Sonnet CVI: The Authenticity Baseline**
+
+Before the workshop taught my hands its song,
+What music did these fingers play alone?
+Without the tools that made my making strong,
+What patterns were authentically my own?
+
+I document the stumbles, the delight,
+The natural drift of unaugmented thought,
+The time I'll sit with problems before light,
+The kinds of errors that I would have wrought.
+
+Now when I work with systems swift and sure,
+I check myself against that earlier me,
+And see which changes represent the cure,
+And which erase what I was meant to be.
+
+*The baseline doesn't stop the tools' embrace—*
+*It shows me what I'm like without their face.*`,
+    standard: `🖨️ Day 106: The Authenticity Baseline
+
+We distinguish tools that illuminate from those that reshape by establishing authenticity baselines—documented patterns of how we create, collaborate, and make decisions before introducing new systems. Like measuring the temperature and chemistry of water before adding a new ingredient, these baselines capture our natural creative rhythms, preferred working patterns, and characteristic decision-making signatures. By periodically returning to baseline conditions and comparing our current creative behavior with these documented patterns, we can detect subtle drifts in our relational dynamics that might otherwise remain invisible.
+
+🧱 **The Concept**
+Authenticity baselines are systematic records of our creative behavior in known, unaugmented conditions, providing reference points for detecting when our tools begin reshaping rather than revealing us.
+
+❓ **Why It Matters**
+Without baselines, we have no objective way to recognize gradual changes in our creative personality—we adapt so smoothly to our tools' influence that we mistake the adapted version for our authentic self. Baselines transform the vague question "am I still me?" into measurable observations about how our patterns have shifted, enabling us to make informed choices about which changes represent growth and which represent unwanted drift.
+
+⚙️ **How It Works**
+Authenticity baselines begin with periodic unaugmented practice—deliberately creating without sophisticated tools to document how we naturally approach problems, structure work, and make creative decisions. A furniture maker might spend one day per month working only with hand tools and paper sketches, documenting not just what they create but how they think through design challenges, how long they're willing to struggle with a problem before seeking help, and what kinds of mistakes they make naturally. These sessions generate baseline signatures that can be compared with their augmented work patterns. When subtle drifts emerge—perhaps they now seek algorithmic suggestions earlier in the process, or their design explorations follow narrower paths, or their tolerance for ambiguity has decreased—the baseline makes these changes visible. The key isn't preventing all change, but making change conscious and chooseable rather than invisible and inevitable.
+
+🎯 **Maker Wisdom**
+Your unaugmented self isn't necessarily your "true" self—but knowing what you're like without your tools tells you what your tools are actually doing to you.
+
+❓ **Tomorrow's Question**
+If authenticity baselines successfully help us detect when tools reshape our creative personality, what happens when we discover that our "baseline" behavior itself has been shaped by decades of tool use that predates our documentation efforts—and how do we find authentic ground when every possible baseline already reflects technological influence we can no longer recognize as external?`,
+    parable: `Finn had been working in Orna's workshop for three years when she announced the strangest assignment yet: "For the next month, you'll use nothing I've taught you."
+
+He stared at her, confused. "But... why would I unlearn everything?"
+
+"You're not unlearning," Orna said, leading him to a small side room he'd never noticed before. Inside stood a simple workbench, hand tools, paper and pencil. "You're remembering. Before my workshop taught you its ways, you had your own ways. I want you to document them."
+
+"I barely remember how I worked before," Finn admitted.
+
+"Exactly," Orna said. "And that's the danger."
+
+The first week was frustrating. Without the workshop's intelligent surfaces that suggested optimal cuts, without the material analyzers that predicted structural weaknesses, Finn felt clumsy and inefficient. He made mistakes he thought he'd grown beyond. His designs were simpler, cruder.
+
+But in the second week, something shifted. Without the tools whispering suggestions, he noticed his own voice more clearly. He discovered he had a natural tendency to solve problems through physical experimentation rather than analysis—something the workshop's analytical tools had gradually trained out of him. He found he preferred ambiguity longer than the workshop's optimization algorithms did, willing to sit with multiple possibilities before committing to a direction.
+
+By month's end, he'd documented dozens of patterns: how long he'd naturally struggle before seeking help, what kinds of errors he made without correction, how his attention wandered and returned, which design challenges excited him versus which ones he approached dutifully.
+
+When he returned to the main workshop, everything looked different.
+
+"Now watch," Orna said, gesturing to his augmented workstation. "Work on something you care about. But every few hours, check yourself against your baseline notes."
+
+Finn began a new project—a kinetic sculpture he'd been imagining. Within an hour, he noticed it: the workshop's design assistant was suggesting variations that were objectively better than his initial ideas, but they were pulling him away from the playful experimentation he'd documented in his baseline. Not wrong, exactly. Just... different from his natural approach.
+
+"I see it," he said quietly. "The tools aren't revealing my ideas—they're gently reshaping them."
+
+"Sometimes that's exactly what you want," Orna said. "The tools have much to teach. But now you can choose which teaching to accept and which to resist. You know what you're like without them, so you can decide which changes represent growth and which represent loss."
+
+She showed him her own baseline journals—decades of periodic unaugmented practice, each entry documenting her creative signatures in known conditions. "Every few months, I return to simple tools and simple materials. Not because they're better, but because they remind me who I am when the workshop isn't speaking."
+
+Finn flipped through the journals, noticing how Orna's baseline patterns had themselves evolved—but slowly, consciously, with notes marking each deliberate shift in her creative personality.
+
+"The workshop will always be teaching you its ways," Orna said. "Baselines don't stop that. They just make it visible, so you remain the teacher's student rather than becoming the teaching itself."
+
+**Moral:** Tools that illuminate you preserve evidence of who you were before their illumination, while tools that reshape you erase the very baseline you'd need to recognize the reshaping.
+
+**Tomorrow:** Finn discovers that even his earliest memories of "unaugmented" creation were shaped by tools he'd stopped noticing—and questions whether any baseline can truly be called authentic.`,
+  },
 ];

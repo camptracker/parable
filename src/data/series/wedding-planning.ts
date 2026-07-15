@@ -7079,4 +7079,75 @@ When they finished, Dove was crying, but her hands were steady. "That's what I w
 
 **Tomorrow:** *Dove and Elm discover that the most powerful moment of their ceremony will require them to release something they've been clinging to since childhood...*`,
   },
+  {
+    day: 110,
+    title: "\"The Sacred Witness\"",
+    date: "2026-07-15",
+    image: "images/wedding-planning/day-110.jpg",
+    audio: "audio/wedding-planning/day-110",
+    sonnet: `**🪶 Sonnet CX: The Sacred Witness**
+
+What good are vows when spoken in the dark,
+Where only walls and silence hear the oath?
+True promises require a lasting mark—
+The living witness who will hold you both.
+When memory grows selective, love grows cold,
+When reasons multiply for letting go,
+The ones who heard your covenant unfold
+Become the mirrors that remind you so.
+You did not merely speak to one that day,
+But wove your words through every watching heart,
+Creating anchors that will gently say:
+"We heard your promise—let it not depart."
+*For witnesses don't merely watch you wed—*
+*They keep your vows alive when faith has fled.*`,
+    standard: `💍 Day 110: "The Sacred Witness"
+
+🧱 **The Concept**
+Your wedding ceremony is the only moment when your private love becomes public covenant—when the promises you've whispered to each other in darkness are spoken aloud in the presence of everyone you've chosen to anchor your commitment.
+
+❓ **Why It Matters**
+Most couples focus entirely on what they'll say to each other during their vows, never considering that the real transformation happens when those words are spoken before witnesses who will hold them accountable. The presence of community doesn't just observe your marriage—it sustains it through the decades when memory fades and resolve weakens. Without witnesses, promises are merely intentions; with witnesses, they become binding oaths woven into the fabric of your shared world.
+
+⚙️ **How It Works**
+When you speak your vows publicly, you're not just making promises to your partner—you're granting every person present permission to remind you of those promises when you forget them. The couple who vows "I will choose you even when it's hard" in front of their parents has given those parents the right to call them back to that commitment during their first serious conflict. The partners who promise "I will support your dreams" before their friends have created witnesses who can later say "Remember what you promised?" when career jealousy threatens to corrode their bond. This is why elopements, while romantic, often lack the structural support that witnessing provides—there's no community infrastructure to catch you when you fall. The most enduring marriages are those where the couple periodically gathers with their wedding witnesses (even informally) to be reminded of what they promised, allowing the community to speak truth when the couple's own memory has become selective or self-serving. Your wedding guests aren't just there to celebrate—they're there to become the living keepers of your covenant.
+
+🎯 **Wedding Wisdom**
+Every person you invite to your wedding is someone you're asking to help hold your marriage together when your own grip weakens—choose witnesses who will take that sacred responsibility seriously.
+
+❓ **Tomorrow's Question** — If you discovered that the single most important decision you make about your wedding day isn't what you'll wear, where you'll celebrate, or what you'll serve, but rather the specific emotional state you'll cultivate within yourself as you approach the altar, what inner condition would you need to nurture to ensure that your vows emerge from your truest, most mature, most loving self rather than from nervousness, performance, or the pressure of the moment?`,
+    parable: `The morning had come at last. Dove stood before the mirror in her childhood bedroom, her hands trembling as she tried to fasten the tiny buttons at her wrist. Through the window, she could see guests beginning to arrive, and with each new face, she felt the weight growing heavier.
+
+"I don't know if I can do this," she whispered to her reflection. "All those people watching. What if I mess up the vows? What if I cry so hard I can't speak?"
+
+Nana Rose appeared in the doorway, her silver hair crowned with late summer roses. She moved slowly into the room, settling onto the window seat with the grace of someone who had witnessed this particular terror a thousand times.
+
+"Tell me, child," she said quietly, "why did you invite all those people to watch you make your promises?"
+
+Dove's brow furrowed. "Because... because that's what you do? You invite people to your wedding?"
+
+"Is that all they are?" Nana Rose asked. "Invited guests? Or did you ask them to be something more?"
+
+Before Dove could answer, there was a soft knock, and Elm's mother peeked in. "I'm sorry to interrupt—I just wanted to give you something." She crossed to Dove and pressed a small, worn book into her hands. "This was given to me at my wedding forty years ago. Inside, you'll find the vows Elm's father and I made. And on the worst day of our marriage—the day I had packed my bags and was ready to leave—my sister (who had been at our wedding) brought this book to me and made me read what I had promised in front of her. She said, 'I was there. I heard you. And I'm holding you to it.' That's the day she saved my marriage."
+
+Dove's eyes widened as she opened the book, seeing the handwritten promises, and beneath them, signatures—dozens of witnesses who had been present that day.
+
+"Every person out there," Nana Rose continued, gesturing toward the window, "isn't just coming to watch a beautiful ceremony. You're asking them to become the keepers of your promises. When you speak your vows before them, you're giving them permission—no, you're giving them responsibility—to remind you of those words when you've forgotten them. To hold up a mirror when you've lost your way. To say, 'We were there. We heard what you promised. Come back to that.'"
+
+Dove moved to the window, looking at the gathering crowd with new eyes. There was her college roommate who had seen her through her worst heartbreak. Her grandmother who had been married sixty-two years. Elm's best friend who had told him, years ago, "Don't settle for someone who doesn't see all of you." His sister who had challenged him to be brave enough to be vulnerable.
+
+"They're not just witnesses," Dove breathed. "They're..."
+
+"Anchors," Nana Rose finished. "Lighthouses. Mirrors. They're the community infrastructure that will hold your marriage when your own strength fails. That's why we gather for weddings—not for the flowers or the food, but for the witnessing. For the sacred responsibility of keeping someone else's promises alive in the world."
+
+A calm settled over Dove then, replacing the nervousness with something deeper—a sense of being held by something larger than herself. When she walked down the aisle twenty minutes later and looked into Elm's eyes, she was keenly aware of every person present. As they spoke their vows, she felt each word landing not just in Elm's heart but in the hearts of everyone gathered. She was weaving her promises into a web of witnesses, creating a covenant that would outlast memory, outlast feelings, outlast even their own best intentions.
+
+After the ceremony, as they walked back down the aisle hand in hand, Elm's grandmother reached out and touched Dove's arm. "I heard every word," she whispered. "And I'll remind you of them when you need it most."
+
+Dove squeezed her hand, understanding now what she had truly done by inviting all these people: she had built a cathedral of witnesses to hold her marriage aloft.
+
+**The Moral**: Your wedding witnesses are not spectators of your love—they are the living keepers of your covenant, the community infrastructure that will sustain your promises when your own memory and resolve have faded.
+
+**Tomorrow**: Dove will discover that the internal landscape she brings to the altar matters infinitely more than the external perfection she creates around it.`,
+  },
 ];
