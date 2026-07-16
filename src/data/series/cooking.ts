@@ -7634,4 +7634,82 @@ Only then did Sage understand that every correction had been preparation, every 
 
 **Tomorrow:** Sage wonders if the hunger that drew him to Ember, then Flint, is somehow choosing his teachers—or if the teachers are choosing him.`,
   },
+  {
+    day: 117,
+    title: "The Appetite of Readiness - When Hunger Becomes the Teacher",
+    date: "2026-07-16",
+    image: "images/cooking/day-117.jpg",
+    audio: "audio/cooking/day-117",
+    sonnet: `**🪶 Sonnet CXVII: The Appetite of Readiness**
+
+No preparation births the hunger true,
+That pulls knowledge in like breath to flame—
+The student filled with facts may think they knew,
+While empty vessels call instruction's name.
+A thousand practiced cuts may train the hand,
+Yet hunger shows the why beneath the blade,
+The cook who tastes with need to understand
+Will see what polite sampling kept in shade.
+This appetite arrives without our call,
+Triggered by mastery or failure's sting,
+The teacher cannot make this hunger fall,
+Only recognize what students bring.
+*The wise wait not for preparation's mask,*
+*But starving souls who know what truth to ask.*`,
+    standard: `🍳 Day 117: The Appetite of Readiness - When Hunger Becomes the Teacher
+
+This suggests precisely that: readiness manifests as an unmistakable hunger that bypasses intellectual preparation entirely. True readiness cannot be constructed through discipline or accumulated knowledge—it erupts as a visceral need that recognizes its own object with the same certainty that physical hunger recognizes food. This quality of appetite distinguishes genuine learning moments from mere educational opportunities.
+
+**🧱 The Concept**
+Authentic readiness reveals itself as hunger—a quality of wanting so fundamental that it cannot be manufactured, only recognized when it arrives.
+
+**❓ Why It Matters**
+We often confuse preparation with readiness, filling ourselves with prerequisite knowledge while missing the crucial element that makes learning possible: the appetite that creates space for wisdom to enter. Without this hunger, even perfect instruction falls on soil too compacted to receive seeds. The most prepared student with no appetite learns less than the unprepared student whose hunger makes them porous to truth.
+
+**⚙️ How It Works**
+This appetite functions like physical hunger—it creates a vacuum that pulls knowledge in rather than requiring effort to absorb it. A cook who has practiced knife skills for years but feels no hunger to understand why the blade angles matter will execute cuts mechanically; the moment genuine hunger awakens, those same years of practice suddenly reveal dimensions previously invisible. A chef teaching sauce-making can identify which students possess this hunger by observing who tastes with desperation versus politeness—the hungry student doesn't just sample, they interrogate each flavor as if their life depends on understanding it. This hunger often arrives unbidden, triggered by witnessing mastery, experiencing profound failure, or encountering a dish that reveals how much remains unknown. The cook cannot schedule or summon this appetite, but can recognize its arrival by noticing when learning shifts from effortful accumulation to magnetic pull.
+
+**🎯 Culinary Wisdom**
+The greatest teachers don't create hunger in students—they recognize which students arrive already starving, then ensure those students encounter the precise food their specific appetite craves.
+
+**❓ Tomorrow's Question**
+If this recognition of hunger allows teachers to identify truly ready students, what fundamental challenge arises when a teacher mistakes their own projection of what students should want for accurate perception of what those students actually hunger for—and might this confusion explain why even accomplished teachers sometimes force-feed wisdom to students who are genuinely starving, but for completely different nourishment than what's being offered?`,
+    parable: `Sage arrived in the kitchen before dawn, not because Ember had instructed her to, but because sleep had become impossible. For three nights, a single question had gnawed at her: why did the stock Ember made from the same bones, same vegetables, same water taste fundamentally different each time?
+
+Ember stood at the stove when Sage entered, stirring a pot that filled the dark kitchen with steam.
+
+"You couldn't sleep," Ember said without turning. Not a question.
+
+"The stock," Sage said. "I need to understand why—"
+
+"You're ready now," Ember interrupted, still stirring. "Yesterday you weren't. Today you are."
+
+"But nothing changed. I didn't study or practice or—"
+
+"Everything changed." Ember finally turned, her clouded eyes somehow seeing directly into Sage. "Yesterday you wanted to know. Today you need to know. The difference between wanting and needing is the difference between a cook and a student."
+
+Sage felt the truth of this in her body—a hollowness that had nothing to do with physical hunger but created the same urgency.
+
+"I can feed this hunger," Ember said, gesturing to the pot. "But first, tell me: when did you stop sleeping?"
+
+"Three days ago. After I tasted your stock and realized I'd been blind."
+
+"That's when you became ready. Not when you learned technique. Not when you memorized recipes. When you tasted something that revealed how much you don't know—and that revelation created an appetite you can't ignore." Ember ladled broth into a cup, handed it to Sage. "This hunger is your real teacher. I'm just the one who recognizes it and knows what food it needs."
+
+Sage sipped the stock. This time, she tasted not just the flavors but the spaces between them—the silence where transformation had occurred.
+
+"You see," Ember said softly, "I can't create this hunger in you. I can only wait until you arrive already starving, then make sure what I offer matches what you're actually hungry for. Most teachers mistake their own memories of hunger for accurate perception of their students' appetite. They force-feed remembered lessons to students who are genuinely starving, but for completely different nourishment."
+
+"How do you know what I'm hungry for?"
+
+"Because I remember this specific hunger. The day you discover your ignorance about something you thought you understood—that hunger has a particular quality. It needs answers about transformation, about the invisible processes that turn ordinary ingredients into something greater. Another student might hunger for precision, or creativity, or confidence. I would feed them differently."
+
+Sage drank the rest of the stock, feeling it fill the hollow space inside her—not just her stomach, but the deeper emptiness that had kept her awake.
+
+"The hunger returns," Ember said. "This is just one meal. But now you know what it feels like to be truly ready—not prepared, but ready. Preparation is what you do with your hands and mind. Readiness is what happens in your gut and heart when you finally understand what you don't understand."
+
+**Moral**: True readiness cannot be achieved through preparation alone—it arrives as unmistakable hunger that recognizes its own nourishment. The wise teacher doesn't create this appetite but recognizes which students arrive starving and ensures the food offered matches the hunger they actually carry.
+
+**Tomorrow**: Sage's hunger is recognized and fed, but what happens when Ember must distinguish between students who hunger for truth and those who hunger for validation—and discovers that feeding the wrong appetite, no matter how intense, can satisfy a student while starving their potential?`,
+  },
 ];

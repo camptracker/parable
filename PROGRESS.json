@@ -1,6 +1,6 @@
 {
   "financial-independence": {
-    "latestDay": 118,
+    "latestDay": 119,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -30,7 +30,7 @@
     }
   },
   "negotiation": {
-    "latestDay": 116,
+    "latestDay": 117,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -40,7 +40,7 @@
     }
   },
   "stoic-philosophy": {
-    "latestDay": 116,
+    "latestDay": 117,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -50,16 +50,6 @@
     }
   },
   "music-theory": {
-    "latestDay": 111,
-    "recipients": {
-      "jon": {
-        "telegramId": "8311483954",
-        "username": "jonwu92",
-        "lastDaySent": 14
-      }
-    }
-  },
-  "real-estate": {
     "latestDay": 112,
     "recipients": {
       "jon": {
@@ -69,8 +59,18 @@
       }
     }
   },
+  "real-estate": {
+    "latestDay": 113,
+    "recipients": {
+      "jon": {
+        "telegramId": "8311483954",
+        "username": "jonwu92",
+        "lastDaySent": 14
+      }
+    }
+  },
   "storytelling": {
-    "latestDay": 114,
+    "latestDay": 115,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -80,7 +80,7 @@
     }
   },
   "cooking": {
-    "latestDay": 115,
+    "latestDay": 116,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -90,7 +90,7 @@
     }
   },
   "building-relationships": {
-    "latestDay": 108,
+    "latestDay": 109,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -125,7 +125,7 @@
     }
   },
   "machine-learning": {
-    "latestDay": 110,
+    "latestDay": 111,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -135,7 +135,7 @@
     }
   },
   "emotional-intelligence": {
-    "latestDay": 113,
+    "latestDay": 114,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -145,7 +145,7 @@
     }
   },
   "habits-and-systems": {
-    "latestDay": 110,
+    "latestDay": 111,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -155,7 +155,7 @@
     }
   },
   "leadership": {
-    "latestDay": 113,
+    "latestDay": 114,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -165,7 +165,7 @@
     }
   },
   "health-and-longevity": {
-    "latestDay": 110,
+    "latestDay": 111,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -175,7 +175,7 @@
     }
   },
   "wedding-planning": {
-    "latestDay": 109,
+    "latestDay": 110,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -190,7 +190,7 @@
     }
   },
   "history-of-israel": {
-    "latestDay": 110,
+    "latestDay": 111,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -200,7 +200,7 @@
     }
   },
   "3d-printing": {
-    "latestDay": 105,
+    "latestDay": 106,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -210,7 +210,7 @@
     }
   },
   "gratitude": {
-    "latestDay": 55,
+    "latestDay": 56,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -225,7 +225,7 @@
     }
   },
   "stock-market-origins": {
-    "latestDay": 59,
+    "latestDay": 60,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -235,7 +235,7 @@
     }
   },
   "us-bond-market": {
-    "latestDay": 57,
+    "latestDay": 58,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -245,7 +245,7 @@
     }
   },
   "goldman-sachs-trust-funds": {
-    "latestDay": 56,
+    "latestDay": 57,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -265,7 +265,7 @@
     }
   },
   "relationship-play": {
-    "latestDay": 54,
+    "latestDay": 55,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -280,7 +280,7 @@
     }
   },
   "history-of-weddings": {
-    "latestDay": 32,
+    "latestDay": 33,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",
@@ -290,7 +290,7 @@
     }
   },
   "raising-kids": {
-    "latestDay": 49,
+    "latestDay": 50,
     "recipients": {
       "jon": {
         "telegramId": "8311483954",

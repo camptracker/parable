@@ -4017,4 +4017,107 @@ The lesson wasn't in the knowing. It was in the seeking. It had always been in t
 
 **Tomorrow's Teaser:** As Willem's journey ends, your own continuation begins—for the greatest lesson of all is that lessons never truly end, they merely transform into new questions that await your own experience to answer.`,
   },
+  {
+    day: 61,
+    title: "The Infinite Game of Market Wisdom",
+    date: "2026-07-16",
+    image: "images/stock-market-origins/day-61.jpg",
+    audio: "audio/stock-market-origins/day-61",
+    sonnet: `**🪶 Sonnet LXI: The Infinite Game of Market Wisdom**
+
+The merchants who believe they've reached the shore
+And cease to study winds and changing tides,
+Discover soon that wealth they had before
+Evaporates like morning mist that hides.
+
+For markets are not mountains scaled once, then done—
+They are the ocean, shifting every day,
+Where yesterday's sure victory is outdone
+By new conditions that reshape the way.
+
+The trader who compounds across the years
+Is not the one who learned the most at first,
+But one who keeps fresh curiosity that clears
+The fog of certainty—arrogance's curse.
+
+*Success is not in knowing but in learning still,*
+*The game is infinite for those with skill.*`,
+    standard: `📈 Day 61: The Infinite Game of Market Wisdom
+
+Yes—the sixty days were never about reaching a destination but about discovering that market mastery is an infinite game where the goal is to keep playing, not to win and stop. The greatest investors don't graduate from learning; they graduate into deeper, more sophisticated forms of curiosity that compound over decades. What we've built is not a complete education but a foundation for perpetual education, and recognizing this distinction is itself the most important lesson.
+
+🧱 **The Concept**
+Markets reward those who treat investing as an infinite game—a continuous practice of learning, adaptation, and growth—rather than a finite game with a endpoint where one achieves mastery and stops evolving.
+
+❓ **Why It Matters**
+The investors who fail catastrophically are often those who believed they had finally figured markets out and stopped questioning their assumptions. The investors who compound success across decades are those who maintain what Zen practitioners call "beginner's mind"—approaching each new situation with fresh curiosity regardless of how much experience they've accumulated. Markets punish the arrogance of completed learning and reward the humility of perpetual studentship.
+
+⚙️ **How It Works**
+Infinite game players measure success not by quarterly returns but by whether they're learning faster than markets are changing. When Warren Buffett spent his eighties learning about technology companies after avoiding them for decades, he wasn't admitting previous failure—he was demonstrating infinite game thinking. When George Soros developed his theory of reflexivity in his sixties after already building a fortune, he showed that intellectual evolution should never stop. The finite game player studies until they feel competent, then deploys that competence until it stops working. The infinite game player studies, deploys, observes what actually happens, updates their understanding, and repeats this cycle until their last day. In Amsterdam's coffeehouses, the merchants who survived longest weren't those with the best initial strategies but those who adapted their strategies most fluidly as conditions changed. Modern markets accelerate this dynamic—yesterday's winning approach becomes today's losing strategy with increasing speed, making the capacity for continuous learning more valuable than any particular piece of learned knowledge.
+
+🎯 **Market Wisdom**
+The market is not a problem to be solved but a practice to be lived. Success comes not from knowing enough but from learning fast enough to remain relevant as everything changes around you.
+
+❓ **Tomorrow's Question**
+If markets reward continuous learning but human memory naturally fades and biases accumulate over time, does this mean that younger investors with less knowledge but more cognitive flexibility have systematic advantages over older investors with more experience but more crystallized thinking, or do different life stages offer different forms of market insight that can be equally valuable if we understand how to leverage each phase properly?`,
+    parable: `Willem found Van der Meer in their usual corner of the coffeehouse, but something was different. Before the old merchant sat not the familiar ledgers and correspondence, but a stack of books on subjects Willem had never seen him study—treatises on mining techniques, agricultural innovations from the New World, astronomical calculations for navigation.
+
+"Master, I thought you knew everything about trade already," Willem said, confused. "Why do you study subjects so far from our business?"
+
+Van der Meer looked up with eyes that held both amusement and something deeper—perhaps sadness for all the years when he hadn't understood what he was about to share. "Sit, boy. Let me tell you about the greatest mistake of my youth."
+
+He gestured to the crowded coffeehouse around them. "See that merchant in the red cloak? Pieter van Hoorn. Twenty years ago, he was the most successful trader in Amsterdam. He had discovered a pattern in spice prices—a genuine insight that made him wealthy. Do you know where he is now?"
+
+"He seems prosperous still," Willem observed.
+
+Van der Meer shook his head. "He has wealth from the past but makes none in the present. He is still trading the pattern he discovered two decades ago, blind to the fact that the world has changed. He stopped learning the day he felt he had learned enough. He is playing what I call a 'finite game'—trying to win once and stop playing."
+
+"But surely experience is valuable?" Willem protested. "You always say that knowledge compounds."
+
+"Knowledge compounds only if it remains alive and growing," Van der Meer said quietly. "Dead knowledge—ideas that we no longer question or test—compounds into something worse than ignorance. It compounds into certainty, and certainty is the death of a trader."
+
+He tapped the books before him. "I study mining because our ships may soon carry more metals than spices. I study agriculture because climate changes in the East Indies. I study astronomy because better navigation will transform what routes are profitable. I am not learning these things to become an expert—I am learning them to remain a perpetual beginner, to keep my mind flexible enough to see what is actually happening rather than what I expect to happen."
+
+Willem picked up one of the books—a dense mathematical text. "But Master, this would take years to truly understand. You're already successful. Why burden yourself?"
+
+Van der Meer's expression turned serious. "Because the market is not a fortress to be conquered but a river to be navigated. The merchant who learns everything about the river as it was yesterday will drown in the river as it is today. Success is not reaching the destination—success is developing the skills to keep navigating regardless of how the river changes."
+
+Over the following months, Willem watched his master with new understanding. Van der Meer didn't just study—he actively sought out traders younger than himself, asking them questions, listening to their perspectives. He befriended a young mathematician who knew nothing of trade but everything of probability. He spent afternoons with ship captains, learning their craft from the inside.
+
+"Why do you humble yourself this way?" Willem asked once. "You know more than all these people about trading."
+
+"I know more about what trading was," Van der Meer corrected. "They are teaching me about what trading is becoming. The moment I believe I know enough is the moment I begin to die as a trader. I have seen it happen to everyone who stops learning—first they stop growing, then they stop adapting, then they stop surviving."
+
+One day, a merchant named De Groot approached them, agitated. "Van der Meer, I've heard you've been studying agriculture and mining like some university scholar. Have you gone soft in your old age? We're traders, not philosophers!"
+
+Van der Meer smiled gently. "Tell me, De Groot, do you still trade tulip futures the way you did five years ago?"
+
+"Of course! My strategy worked then; it works now."
+
+"And how are your returns?"
+
+De Groot's face darkened. "A temporary difficulty. The market will correct itself."
+
+"Or perhaps the market has changed, and your strategy no longer fits the new conditions," Van der Meer suggested. "I study not to abandon trading for philosophy but to keep my trading alive. A tree that stops growing begins to rot from the inside, even if its outer bark still looks solid."
+
+After De Groot left, Willem said thoughtfully, "So all these sixty days you've been teaching me—they weren't meant to give me final answers, were they?"
+
+"They were meant to teach you how to keep asking better questions," Van der Meer confirmed. "A trader with perfect knowledge of markets as they were is less valuable than a trader with imperfect knowledge but perfect curiosity about markets as they are becoming. The former has finished learning; the latter has merely begun."
+
+"But when will I know enough to trade confidently?" Willem pressed.
+
+Van der Meer laughed—not mockingly, but with genuine warmth. "You'll know you're ready to trade when you accept that you'll never know enough, and that this uncertainty is not a problem to be solved but the very condition that makes trading possible. If markets were perfectly knowable, there would be no opportunity—everyone would know the same things and act identically. It's precisely because knowledge is always incomplete and the future always uncertain that skilled navigation has value."
+
+He opened one of his new books. "I'm sixty-three years old, Willem. I've been trading for forty years. And I'm still learning, still questioning, still discovering that I was wrong about things I was certain of. Some people would call this failure—to study for forty years and still not have all the answers. I call it the infinite game—I'm not trying to win and stop playing. I'm trying to keep playing as long as I live, and to play better each year than the year before."
+
+"The merchants who fail are those who think success means reaching a point where they can stop learning. The merchants who compound success across decades are those who realize that learning itself is the success—returns are merely the evidence that your learning is keeping pace with the market's evolution."
+
+Willem looked at the stack of books, then at his master's face—weathered but animated, aged but alive with curiosity. "So the point of these sixty days wasn't to finish my education?"
+
+"The point," Van der Meer said softly, "was to begin it properly—to give you not a complete map but a compass, not final answers but the right questions, not mastery but the tools for perpetual apprenticeship to markets that will keep teaching you until your last trade."
+
+**The Moral**: The market is not a mountain to be climbed once and conquered but an ocean to be navigated continuously. Those who treat investing as a finite game with a winning endpoint eventually lose to those who treat it as an infinite game where the goal is to keep playing, learning, and adapting. The greatest victory is not knowing all the answers but maintaining the curiosity and humility to keep seeking better questions.
+
+**Tomorrow**: But if maintaining beginner's mind requires consciously forgetting or questioning the very expertise we've worked decades to build, does this create a tension between confidence and curiosity that could paralyze decision-making, and how do the most successful investors navigate this balance between trusting their experience and doubting it simultaneously?`,
+  },
 ];
