@@ -3804,4 +3804,116 @@ Quinn smiled, already imagining how to reshape their approach with River—not a
 
 **Tomorrow:** *Elder Joy reveals why so many couples avoid accountability entirely, choosing the counterfeit peace of silent resentment over the genuine partnership of loving truth-telling.*`,
   },
+  {
+    day: 56,
+    title: "The Resentment Repository",
+    date: "2026-07-17",
+    image: "images/relationship-play/day-56.jpg",
+    audio: "audio/relationship-play/day-56",
+    sonnet: `**🪶 Sonnet LVI: The Resentment Repository**
+
+Each slight unspoken goes not into air,
+But files itself in archives deep within,
+Where disappointments catalog with care,
+And cross-reference each unexamined sin.
+
+The coffee finished, date we both forgot,
+The phone that stole your eyes from mine too long—
+They seemed too small to merit second thought,
+Yet somehow each became an archival song.
+
+I told myself that silence showed me strong,
+That letting little grievances just slide
+Was proof that I knew where love did belong—
+Not knowing how resentment grows inside.
+
+*The couples who endure don't hide their pain,*
+*They settle small accounts before they're slain.*`,
+    standard: `🎮 Day 56: The Resentment Repository
+
+Couples avoid mutual accountability because unspoken disappointment feels safer than risking their partner's defensiveness or rejection—it's the devil we know versus the confrontation we fear. We unconsciously convince ourselves that staying silent is kinder than speaking up, not recognizing that we're actually building an invisible inventory of grievances that compounds interest over time. This false peace becomes a debt that eventually comes due with devastating emotional interest rates.
+
+🧱 **The Concept**
+The **Resentment Repository** is the hidden catalog of unaddressed disappointments, unspoken frustrations, and accumulated grievances that couples unconsciously maintain when they choose silence over honest accountability.
+
+❓ **Why It Matters**
+Every avoided conversation doesn't disappear—it gets filed away in our internal archive, tagged with emotional metadata about what our partner's behavior "means" about their love, respect, or commitment. Over time, these stored resentments don't remain separate incidents but begin cross-referencing and connecting, building narratives about who our partner "really is" based on unexamined evidence. The repository grows silently until a seemingly minor trigger provides access to the entire catalog, flooding the present moment with accumulated pain from the past.
+
+⚙️ **How It Works**
+When your partner leaves dishes in the sink, you say nothing because it seems petty—but internally, you file it under "doesn't respect my time" alongside seventeen previous incidents. When they check their phone during dinner, you don't mention it, but the repository cross-references it with "prioritizes work over connection" and "doesn't value our time together." When they forget to pick up the item you mentioned, you smile and say "no problem," while the repository adds another entry to "doesn't listen to me" and "my needs don't matter." Then one day they make a harmless comment about dinner, and suddenly you're accessing the entire database—three years of unreturned grocery requests, countless ignored preferences, and a comprehensive case file proving they've never truly cared. The current moment becomes merely the search query that retrieves all related records, leaving your partner bewildered by a response that seems wildly disproportionate to what just happened.
+
+🎯 **Playful Connection Wisdom**
+Healthy relationships don't avoid keeping score—they settle accounts daily so the ledger never becomes a weapon. **The couples who stay connected aren't those who never disappoint each other; they're the ones who address small disappointments before they require big conversations.**
+
+❓ **Tomorrow's Question** — If addressing small disappointments immediately prevents them from becoming relationship-defining conflicts, why do so many couples unconsciously treat minor irritations as too trivial to mention, yet somehow manage to catalog and remember each one with perfect clarity for months or even years afterward?`,
+    parable: `Quinn stood in Elder Joy's garden, methodically pulling weeds with unusual intensity. River sat nearby on the stone bench, watching with concerned silence.
+
+"You're attacking those dandelions like they personally offended you," Elder Joy observed, settling onto the bench beside River with two cups of tea.
+
+Quinn didn't look up. "Just helping with the garden."
+
+"Mmm." Elder Joy sipped thoughtfully. "And how long have you been helping my garden hold all that anger you're not directing at River?"
+
+Quinn's hands stilled. River shifted uncomfortably.
+
+"Three weeks ago," Elder Joy continued gently, "River forgot the anniversary of your first date. Two weeks ago, they worked late on the night you'd hoped to cook dinner together. Last week, they suggested postponing the weekend trip you'd been planning. This morning, they used the last of the coffee and didn't mention it. And just now, in my kitchen, they laughed at something on their phone while you were mid-sentence."
+
+Quinn finally turned, eyes wide. "How did you—"
+
+"Because you've been filing each incident away instead of addressing it." Elder Joy set down her tea. "You're maintaining what I call a Resentment Repository—a hidden archive of every disappointment you've decided wasn't 'big enough' to mention."
+
+River's face had gone pale. "Quinn, I had no idea you were upset about any of those things. Why didn't you say something?"
+
+"Because they seemed so small!" Quinn's voice cracked. "What was I supposed to do, start a fight over coffee? Make you feel guilty about working? Act like a needy partner who can't handle one forgotten date?"
+
+Elder Joy nodded knowingly. "So instead, you made yourself into a silent accountant, carefully recording each transgression without ever presenting the bill. Tell me, Quinn—in your professional work, what happens when receivables go uncollected for months?"
+
+"They compound. Interest accrues. The amount owed becomes..." Quinn trailed off, understanding dawning.
+
+"Becomes much larger than the original debt," Elder Joy finished. "And the debtor, having never received an invoice, is shocked when the collection notice finally arrives."
+
+River reached for Quinn's hand tentatively. "Is that what this morning was? A collection notice? I made one joke about your gardening outfit and suddenly we were having a fight about whether I respect you."
+
+"Yes," Quinn whispered. "I'm sorry. I didn't realize I was keeping score until I exploded about something that really didn't matter."
+
+"But here's the paradox," Elder Joy leaned forward. "Each thing did matter—just not enough to feel worth the risk of conflict in the moment. So you chose what felt like peace. But it was false peace, wasn't it? Because underneath, you were growing increasingly disappointed, building a case you didn't even know you were constructing."
+
+"I thought I was being mature," Quinn admitted. "Picking my battles. Not sweating the small stuff."
+
+"There's wisdom in not making everything a crisis," Elder Joy agreed. "But there's equal wisdom in addressing small disappointments before they become large resentments. When you discovered the empty coffee container this morning, what would have happened if you'd simply said, 'Hey, love, when you finish something, could you let me know so I can add it to the list?'"
+
+"I probably would have apologized immediately," River said. "I genuinely didn't notice. I was rushing and distracted."
+
+"Exactly," Elder Joy smiled. "A five-second exchange, mild inconvenience acknowledged, slight adjustment requested, relationship ledger balanced. Instead, what happened?"
+
+"I said nothing," Quinn's shoulders slumped. "Added it to the repository. Cross-referenced it with 'River doesn't think about my needs' and 'I'm always the one who has to manage everything.' And when you laughed at your phone during our conversation, the repository retrieved all related files—every time I've felt unheard, every moment I've felt like I came second to your work or your friends or your phone."
+
+"And I had no idea any of those files existed," River's voice was quiet. "I can't respond to bills I never received, Quinn. I can't correct course if I don't know I'm off track."
+
+Elder Joy pulled out her worn journal. "Let me show you something I've tracked over forty years of relationship counseling. The couples who dissolve don't typically end over major betrayals or dramatic incompatibilities. They end over repositories—years of unspoken disappointments that finally reach critical mass. One partner explodes, the other is blindsided, and both feel betrayed. The one who stayed silent feels betrayed that their suffering wasn't noticed. The one who was silent-to feels betrayed that their ignorance is being held against them."
+
+"So what do we do?" Quinn asked. "How do we empty the repository?"
+
+"Carefully," Elder Joy said. "You don't dump three weeks of disappointments in one conversation—that's overwhelming and unhelpful. But you do need to establish a new practice: real-time reconciliation. When something bothers you, you have a twenty-four-hour window to mention it simply and without accumulated narrative."
+
+She turned to River. "And you need to make it safe for Quinn to do that by receiving small feedback without defensiveness or dismissiveness. The reason people build repositories is that they've learned—often unconsciously—that speaking up has costs. Make speaking up cost less than staying silent."
+
+"How?" River asked earnestly.
+
+"Try this: when Quinn mentions something that bothered them, respond first with curiosity, not justification. 'Tell me more about that' instead of 'But I was only...' Thank them for telling you instead of making them defend why it matters. And occasionally, ask for an audit: 'Is there anything from this week I should know about? Anything I missed?'"
+
+Quinn looked skeptical. "That sounds like I'm inviting criticism."
+
+"No," Elder Joy corrected gently. "You're inviting honesty before it becomes history. You're requesting the invoice before it goes to collections. Because here's what I've learned: the couples who stay playfully connected aren't those who never disappoint each other. They're the ones who've mastered the art of the small repair—addressing tiny fractures before they become foundational cracks."
+
+River squeezed Quinn's hand. "I want to know when I've disappointed you, even if it seems small. Especially if it seems small. Because apparently small things don't stay small when they're left unaddressed."
+
+"And I promise to actually tell you," Quinn said. "In real time, without three weeks of accumulated narrative about what it means."
+
+Elder Joy smiled, watching a butterfly land on a nearby lavender plant. "You know what's beautiful about lavender? You have to cut it back regularly. If you let it grow wild without pruning, it becomes woody and stops blooming. Relationships are similar—regular trimming of small disappointments keeps them flowering. Neglect, even well-intentioned neglect, leads to something that looks intact but has lost its capacity for beauty."
+
+**Moral:** *The resentments we think we're hiding to preserve peace are actually the ones destroying it. The kindest thing we can do for our beloved is to present our disappointments while they're still small enough to address easily, before they've compounded into evidence of character. Love doesn't avoid keeping score—it settles the account daily so the ledger never becomes a weapon.*
+
+**Tomorrow,** Elder Joy will show Quinn and River why we can catalog months of minor disappointments with perfect clarity yet claim we're too busy to mention them as they happen—revealing the hidden purpose our repositories actually serve.`,
+  },
 ];

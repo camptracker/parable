@@ -7220,4 +7220,82 @@ Elm squeezed Dove's hand, and she felt in that small gesture the difference betw
 
 *Tomorrow, Nana Rose will reveal what your current relationship patterns predict about your wedding day—and what happens when those patterns are amplified in front of everyone you love.*`,
   },
+  {
+    day: 112,
+    title: "The Sacred Stillness",
+    date: "2026-07-17",
+    image: "images/wedding-planning/day-112.jpg",
+    audio: "audio/wedding-planning/day-112",
+    sonnet: `**🪶 Sonnet CXII: The Sacred Stillness**
+
+When chaos swirls like tempests round the day,
+And best-laid plans dissolve in sudden rain,
+The bride who keeps her center will not sway—
+Her calm becomes the blessing, not the pain.
+
+For stillness is not absence of the storm,
+But presence that remains when all is tossed,
+A quiet core that holds its sacred form
+While surface waves claim everything is lost.
+
+She breathes, she grounds, she feels her partner's hand,
+She watches rain create its silver art,
+She lets go what she cannot command,
+And finds the altar waiting in her heart.
+
+*No perfect day can make a marriage true—*
+*But perfect presence consecrates the vow.*`,
+    standard: `💍 Day 112: The Sacred Stillness
+
+🧱 **The Concept**
+The most powerful presence you can offer on your wedding day emerges not from doing everything perfectly, but from cultivating an inner calm that allows you to be fully present with whatever unfolds.
+
+❓ **Why It Matters**
+In the rush of wedding day logistics and the pressure of performing for an audience, couples often move through their celebration in a state of anxiety-driven efficiency rather than love-centered awareness. The quality of your inner stillness—your ability to remain centered when chaos swirls around you—will determine whether you actually experience your wedding or simply survive it. This capacity for calm presence isn't just useful for your wedding day; it's the essential skill for navigating every challenging moment your marriage will face.
+
+⚙️ **How It Works**
+Stillness doesn't mean suppressing your excitement or forcing yourself to be solemn—it means developing a quiet center within yourself that remains steady regardless of external circumstances. When your photographer is running late, when your flower girl refuses to walk down the aisle, when your uncle makes an awkward toast, or when your partner's hand trembles in yours during vows, your inner stillness allows you to respond with grace rather than react with panic. You cultivate this through daily practice in the weeks leading up to your wedding: five minutes of silent sitting each morning, three conscious breaths before responding to stressful wedding questions, pausing to make genuine eye contact with your partner during rushed planning conversations. On your wedding day itself, you protect this stillness by building in buffer time, by saying no to last-minute additions, by creating a few precious moments of solitude before the ceremony begins. When you approach the altar from a place of deep inner calm rather than surface-level composure, your vows emerge from your soul rather than your script.
+
+🎯 **Wedding Wisdom**
+Your wedding day will mirror back whatever internal state you bring to it—if you arrive frantic, it will feel chaotic; if you arrive present, it will feel sacred.
+
+❓ **Tomorrow's Question** — If you discovered that your ability to remain emotionally steady during your wedding day's inevitable imperfections would teach your guests more about mature love than any perfect detail ever could, what specific practice would you need to establish now to ensure that disruptions become demonstrations of grace rather than triggers for distress?`,
+    parable: `Dove stood in the bridal suite, her breath coming in shallow bursts as she watched rain streak down the window. The outdoor ceremony she'd meticulously planned for six months was dissolving in the downpour.
+
+"Everything's ruined," she whispered, her carefully applied makeup threatened by tears. "The garden, the lighting, the photographs I wanted—"
+
+Nana Rose appeared in the doorway, carrying a tray of tea. She moved with unhurried grace, as though time itself bent around her presence. "Come sit with me, dear heart."
+
+"But we need to—I have to decide about moving everything inside, and the florist needs to know, and—"
+
+"All of that can wait three minutes." Nana Rose's voice held the gentle firmness of ancient stones. "Right now, you need to find your center, or you'll lose your wedding entirely."
+
+Dove sank into the chair, confusion flickering across her face. "But the rain already took my wedding. My outdoor ceremony is—"
+
+"The ceremony is not your wedding. The marriage is your wedding." Nana Rose poured tea with deliberate slowness. "And you can only enter marriage from a place of presence, not panic."
+
+She placed a warm cup in Dove's trembling hands. "Drink. Breathe. Notice the steam rising. This is where your power lives—not in controlling circumstances, but in meeting them with stillness."
+
+Dove inhaled the chamomile-scented vapor, her racing thoughts beginning to quiet. Through the window, she watched rain create patterns on the glass—not destroying anything, just revealing a different kind of beauty.
+
+Elm knocked softly and entered, raindrops caught in his hair. Instead of matching Dove's earlier panic, he moved with surprising calm. "I've been walking the grounds with the venue coordinator. The pavilion is actually more intimate than the lawn would have been. We can see everyone's faces better."
+
+Dove stared at him. "You're not upset?"
+
+"I was, for about thirty seconds." He knelt beside her chair. "Then I remembered—we're getting married today. That's the only thing that can't be ruined by weather." He took her hands, his touch steady and warm. "Everything else is just... decoration."
+
+Nana Rose smiled, recognizing the transmission of wisdom from one soul to another. "There it is. The stillness that will carry you through fifty years of unexpected storms."
+
+Dove closed her eyes, feeling her breath deepen, her shoulders drop. When she opened them again, the rain looked less like disaster and more like blessing—washing away her attachment to perfection, revealing what had been essential all along.
+
+"I think," she said softly, "I need five minutes alone before we make any decisions. Just five minutes to remember why we're doing this."
+
+Nana Rose touched her cheek with gentle fingers. "Now you understand. The ceremony doesn't make the marriage holy. The stillness you bring to it does."
+
+As Dove sat in quiet meditation while rain drummed a rhythm on the roof, she felt something shift inside her—the frantic bride dissolving, the centered woman emerging. When she finally stood to face the necessary decisions, she moved like Nana Rose, as though time itself had learned to respect her presence.
+
+**The Moral**: Your wedding day will be shaped less by what happens to you than by the inner calm you bring to what happens. Perfect circumstances cannot create a sacred ceremony, but perfect presence can transform any circumstance into something sacred.
+
+**Tomorrow**: Dove discovers that the grace she demonstrates when things go wrong teaches her guests more about love than any flawless detail ever could.`,
+  },
 ];

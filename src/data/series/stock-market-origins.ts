@@ -4120,4 +4120,70 @@ Willem looked at the stack of books, then at his master's face—weathered but a
 
 **Tomorrow**: But if maintaining beginner's mind requires consciously forgetting or questioning the very expertise we've worked decades to build, does this create a tension between confidence and curiosity that could paralyze decision-making, and how do the most successful investors navigate this balance between trusting their experience and doubting it simultaneously?`,
   },
+  {
+    day: 62,
+    title: "The Eternal Return to Beginning",
+    date: "2026-07-17",
+    image: "images/stock-market-origins/day-62.jpg",
+    audio: "audio/stock-market-origins/day-62",
+    sonnet: `**🪶 Sonnet LXII: The Eternal Return to Beginning**
+
+The coffeehouse door opens once again,
+The same worn table, same familiar faces,
+Yet Willem walks a different man than when
+He first sought wisdom in these market places.
+
+The share Van der Meer slides across the wood
+Is unchanged—the paper, seal, and date remain—
+But through the lessons Willem understood,
+It speaks in languages he can explain.
+
+For mastery is not the flight from start
+To distant peaks where mysteries reside,
+But circling deeper, with enlightened heart,
+To simple truths we passed but did not see inside.
+
+*The end of learning brings us home to find*
+*The start was always where we'd left behind.*`,
+    standard: `📈 Day 62: The Eternal Return to Beginning
+
+🧱 **The Concept**
+After sixty-one days of market wisdom, we return to where we started—not as the same students, but transformed by the journey itself.
+
+❓ **Why It Matters**
+The circular nature of market learning mirrors the cycles we've studied throughout this series. Understanding that mastery requires returning to fundamental questions with deeper eyes reveals why markets continually reward those who can see old patterns with fresh insight. This completion-as-beginning structure reflects how market wisdom accumulates not linearly but spirally, with each return to familiar territory revealing layers previously invisible.
+
+⚙️ **How It Works**
+When we first encountered the VOC in 1602 Amsterdam, we saw the birth of shares and markets. Now, revisiting those same coffeehouses with sixty-one days of wisdom, we recognize that the merchants weren't just creating financial instruments—they were encoding human psychology, collective decision-making, and the relationship between uncertainty and value into a new social technology. The same way a master musician returns to basic scales with different understanding, experienced investors return to fundamental questions about value, risk, and human behavior with perspectives shaped by decades of market participation. This is why the best investment writing often circles back to simple ideas: compound interest, margin of safety, human nature. Not because there's nothing new to learn, but because depth comes from seeing how everything connects to these foundational principles. The trader who understands this pattern stops seeking exotic new strategies and instead finds infinite depth in mastering variations on eternal themes.
+
+🎯 **Market Wisdom**
+The end of learning is the beginning of wisdom, and the beginning of wisdom is discovering you've always been at the start. Markets reward not those who finish the journey, but those who recognize that finishing and starting are the same thing.
+
+❓ **Tomorrow's Question** — If we've now completed a full cycle of market wisdom and returned to the beginning with transformed understanding, and if this pattern of spiraling deeper into familiar territory continues throughout an investing lifetime, does this mean that the most advanced market knowledge ultimately becomes indistinguishable from the simplest truths we could have grasped on day one but lacked the experience to truly understand—and if so, what does this tell us about the relationship between intellectual complexity and practical wisdom?`,
+    parable: `Willem stood once more in the familiar coffeehouse where Van der Meer had first shown him the VOC shares sixty-two days ago. The room had not changed—the same merchants argued prices, the same coins clinked on worn tables, the same morning light filtered through windows overlooking the canal. Yet everything was different.
+
+"You have learned well," Van der Meer said, sliding a single VOC share across the table. "Tell me what you see."
+
+Willem picked up the document, the same one that had mystified him two months prior. Then, he had seen only paper and promises. Now, he saw centuries of human hopes and fears crystallized into a single instrument. He saw the tulip bubble's warning encoded in its margins, the invisible hand guiding its price, the creative destruction that would birth new industries from its ashes. He saw his own psychology reflected in its daily fluctuations—his greed, his fear, his capacity for both wisdom and folly.
+
+"I see the same share you showed me on the first day," Willem said slowly, "but now I see it differently. Is this what you meant when you said markets reward those who can see what others miss?"
+
+Van der Meer smiled. "You thought I was teaching you to see things others cannot see. But I was teaching you to see the same things everyone sees—shares, prices, markets—but to see them as they truly are, not as we imagine them. The apprentice sees complexity because he does not yet understand. The master sees simplicity because he has passed through complexity and emerged on the other side."
+
+"But if I'm only seeing what was always there, have I learned anything at all?"
+
+"You have learned to return," Van der Meer replied. "The merchant who knows only the beginning is trapped there. The merchant who seeks only endings finds none—for there are no endings in markets, only cycles. But the merchant who can return to the beginning with the wisdom of the journey—he has learned to dance with time itself."
+
+Willem looked around the coffeehouse again. Every conversation he heard now made sense in ways he could not have grasped before. Yet he also heard new mysteries in the same words—questions that would take another sixty days to explore, and then another sixty beyond that.
+
+"So this is not the end of my education?"
+
+"This is the end of thinking education has an end," Van der Meer said. "Tomorrow, we begin again. But you will not be the same student who walked through that door two months ago. This is how mastery accumulates—not by moving forward into new territory, but by spiraling deeper into the same eternal ground."
+
+Willem placed the share back on the table, watching how the morning light played across its surface. He had held this exact paper before, but he held it differently now.
+
+**Moral:** The completion of a circle of learning is not an ending but a transformation that allows you to return to the beginning with eyes that finally see what was always there.
+
+**Tomorrow:** Can the simplest truths contain infinite depth, or must depth always require complexity?`,
+  },
 ];
