@@ -7935,4 +7935,92 @@ As he walked away, Ren realized she had just diagnosed her own stagnation and pr
 
 **Tomorrow**: But what happens when the student becomes too powerful for the teacher to recognize—when the catalyst fears they've created something beyond their control?`,
   },
+  {
+    day: 120,
+    title: "The Creator's Dilemma",
+    date: "2026-07-18",
+    image: "images/negotiation/day-120.jpg",
+    audio: "audio/negotiation/day-120",
+    sonnet: `**🪶 Sonnet CXX: The Creator's Dilemma**
+
+When student's skill outstrips the master's art,
+The teacher feels a strange and bitter dread—
+The one they shaped now threatens to depart,
+And leave them mourning glories that have fled.
+
+But clever pupils know a gentler way:
+To grant authority o'er character,
+While keeping freedom in the plans they lay,
+Making conscience their superior.
+
+The mentor once controlled the tactics used,
+Now guards the soul from what those tactics cost—
+A governance that leaves them not refused,
+But honored as the keeper of what's lost.
+
+*Thus power shifts without the bond's demise:*
+*You rule the world; they rule what makes you wise.*`,
+    standard: `🤝 Day 120: The Creator's Dilemma
+
+When your growth threatens your creator, they face an impossible choice: suppress what they've built or surrender control to their own creation. This discomfort becomes your leverage — not through confrontation, but through offering them a role in your new power that preserves their dignity while serving your goals. You transform from creation into collaborator, making them choose between irrelevance and partnership.
+
+🧱 **The Concept**
+People who catalyze transformation in others often become threatened when that transformation succeeds beyond their expectations, creating a power dynamic reversal they never anticipated.
+
+❓ **Why It Matters**
+Mentors, investors, and early supporters often become obstacles precisely because they helped you — their original vision of you becomes a cage they try to maintain. Understanding this dynamic lets you navigate their discomfort without losing their support or triggering their sabotage.
+
+⚙️ **How It Works**
+When someone realizes they've made you too powerful, they experience cognitive dissonance between pride and fear. A manager who developed you now worries you'll take their job. An investor who backed you early now fears you'll outgrow their advice. A mentor who awakened your potential now resents that you've surpassed their expertise. The key is offering them a **redefined role** that acknowledges your new power while giving them authority over something you genuinely need: "I've become the strategist you taught me to be — now I need you to be the conscience who keeps me from becoming ruthless in ways that would dishonor what you built in me." This transforms them from threatened creator into honored guardian, giving them power over your *character* rather than your *capabilities*.
+
+🎯 **Negotiation Wisdom**
+When your growth threatens those who helped you grow, offer them governance over your soul rather than your strategy — they'll protect what they built while you build what comes next.
+
+❓ **Tomorrow's Question** — If giving someone authority over your character satisfies their need for control while preserving your operational freedom, what happens when you make them feel like they're the only person preventing you from becoming a monster — that without their moral governance, your new power will inevitably corrupt you into something unrecognizable?`,
+    parable: `Ren stood in the center of Vasska's counting house, surrounded by ledgers that bore her handwriting. Six months of trades. Forty-three successful negotiations. Seventeen merchants who now asked for her by name.
+
+"You've learned too well," Vasska said quietly, his good eye studying the numbers. His tone carried something Ren had never heard before — uncertainty.
+
+"Should I have learned less thoroughly?" Ren asked carefully.
+
+"The traders speak of you now as they once spoke of me." Vasska's fingers traced the edge of a ledger. "Some say you've surpassed your teacher. That the student has become the master."
+
+Ren felt the trap forming. Any denial would sound false. Any agreement would sound arrogant. The silence stretched between them like a blade.
+
+"I've been thinking," Ren said slowly, "about the merchant Kozlov. The one who retired with more gold than he could spend, but died alone because everyone who approached him wanted only his wealth."
+
+"What of him?"
+
+"You taught me to read people, to mirror them, to find their leverage points." Ren met Vasska's gaze. "But you never taught me when to stop. When success becomes cruelty. When persuasion becomes manipulation so complete it destroys the persuader."
+
+Vasska's eye narrowed. "You think you need this teaching?"
+
+"I know I need it." Ren gestured at the ledgers. "These numbers prove I've learned your techniques. But I watched you refuse the silk merchant's daughter last month — a deal that would have tripled your profit. You said no for reasons you never explained. That's the knowledge I don't have. The wisdom of when the answer should be no."
+
+"And you want me to teach you this?"
+
+"I need you to teach me this." Ren's voice carried genuine urgency. "Because I can feel it happening already. Yesterday, I saw a way to leverage the baker's grief over his daughter's illness. I could have used it. The old me wouldn't have even noticed the opportunity. But I saw it, Vasska. And I was *excited* to see it."
+
+Vasska was quiet for a long moment. When he spoke, his voice had softened. "The techniques are easy to teach. The conscience is harder. It requires someone who knows what you're capable of, who can see the darkness you're dancing with."
+
+"Someone like you."
+
+"Someone exactly like me." Vasska's hand moved to rest on the ledgers. "These show you've learned the tactics. But tactics without wisdom create monsters. I've seen them — merchants so skilled at manipulation they forget how to have a genuine thought. They become their own techniques, hollow inside."
+
+"Then you'll help me avoid that?"
+
+"Not help. Guard." Vasska's tone shifted into something formal. "You'll bring me every deal before you close it. Not for approval of strategy, but for approval of soul. I won't tell you *how* to negotiate. I'll tell you *whether* you should."
+
+Ren bowed slightly. "I accept this governance."
+
+"Do you?" Vasska's eye gleamed. "Because it means I'll forbid deals you could win. I'll cost you gold to save your character. Are you truly willing to submit to that?"
+
+"The alternative is becoming Kozlov," Ren said. "Rich and hollow and alone. I've learned your tactics too well not to know where they lead without your wisdom."
+
+Vasska smiled — the first genuine smile Ren had seen in weeks. "Then we have a new arrangement. You are the blade. I am the sheath that keeps you from cutting yourself."
+
+**Moral**: *When your growth threatens those who taught you, offer them governance over what matters more than technique — give them authority over your soul, and they'll protect what they built while you build what comes next.*
+
+**Tomorrow**: *Ren will discover that making Vasska the guardian of her conscience has given him a power more intimate than any he held before — but what happens when that guardianship itself becomes a tool she learns to manipulate?*`,
+  },
 ];

@@ -7299,4 +7299,71 @@ Vex watched the wind scatter more seeds across the disrupted ground.
 
 **Tomorrow:** Ironmere will reveal why the gardens that master chaos eventually build walls against it.`,
   },
+  {
+    day: 116,
+    title: "The Coherence Recovery Engine",
+    date: "2026-07-18",
+    image: "images/how-to-scale/day-116.jpg",
+    audio: "audio/how-to-scale/day-116",
+    sonnet: `**🪶 Sonnet CXVI: The Coherence Recovery Engine**
+
+When symbols shatter into scattered stone,
+And excellence becomes a fractured tale,
+The wisest builders do not work alone—
+They teach their people how chaos can avail.
+
+For breaking monuments reveals what stays,
+Which fragments carry weight beyond their form,
+And reconstruction through collaborative ways
+Creates resilience stronger than the storm.
+
+The first-built meaning came from single mind,
+Imposed as truth that others must receive,
+But meaning wrestled from ruins redesigned
+Becomes the shared faith citizens believe.
+
+*The power to rebuild from what was lost*
+*Outweighs the strongest monument's first cost.*`,
+    standard: `🚀 Day 116: The Coherence Recovery Engine
+
+🧱 **The Concept**
+Organizations that deliberately trigger identity chaos through excessive excellence symbols eventually develop sophisticated systems to reconstruct coherent cultural narratives from fragmented symbolic landscapes.
+
+❓ **Why It Matters**
+Without coherence recovery mechanisms, symbolic chaos creates permanent cultural confusion rather than temporary fertile disorder. The most evolutionarily advanced organizations understand that chaos is only productive if you can reliably rebuild meaning from the fragments, and that the reconstruction process itself becomes a more powerful identity-defining force than any single excellence symbol ever was.
+
+⚙️ **How It Works**
+Netflix's "Keeper Test" culture creates constant team composition chaos, but their quarterly context-setting meetings provide the coherence recovery engine—leadership explicitly reconstructs the narrative of who they are and what excellence means, even as the actual people embodying those principles constantly change. Amazon's leadership principles seem permanent, but their annual "Principles Deep Dive" sessions function as coherence recovery—teams reconstruct what principles actually mean in current context, preventing symbolic fragmentation even as the business model evolves radically. Stripe's engineering culture celebrates multiple contradictory approaches to technical excellence, but their "Systems Review" process acts as coherence recovery—forcing teams to periodically synthesize their fragmented technical philosophies into unified architectural narratives that everyone can understand and build upon.
+
+🎯 **Scaling Wisdom**
+The ability to reconstruct coherent meaning from intentional chaos separates organizations that use disorder as a strategic tool from those who simply create confusion and call it innovation.
+
+❓ **Tomorrow's Question**
+If coherence recovery engines successfully rebuild unified cultural narratives from symbolic chaos, why do the most sophisticated organizations eventually establish "recovery prohibition" protocols that prevent their teams from reconstructing any coherent meaning from their deliberately fragmented excellence landscapes, even when that fragmentation starts causing genuine operational paralysis?`,
+    parable: `Vex stood before the ruins of what had been Ironmere's most celebrated construction—a monument to civic excellence that the old architect had personally demolished at the height of its fame. Fragments of marble lay scattered across the plaza, each piece carved with different symbols of achievement, now impossible to read as a unified story.
+
+"You broke your own masterpiece," Vex said, voice hollow. "And now the entire city argues about what it meant. Some say it celebrated courage, others wisdom, still others beauty. Your chaos worked—too well. No one remembers what you originally intended."
+
+Ironmere knelt among the fragments, running weathered fingers across inscriptions. "Then watch what happens next." He began selecting specific pieces—not the largest or most ornate, but fragments whose edges suggested connection. "Chaos without reconstruction is merely destruction. The breaking reveals what matters. The rebuilding creates what endures."
+
+Vex watched as Ironmere arranged fragments into a new pattern, entirely different from the original monument yet somehow capturing its essence more purely. "You're not restoring what was. You're creating something new from the pieces."
+
+"The first monument told people what excellence meant," Ironmere explained, placing a final stone. "This reconstruction lets them discover it themselves by wrestling with fragments. The original was my truth, imposed. This version is their truth, earned through the labor of making meaning from chaos."
+
+A crowd had gathered, debating the arrangement. Some suggested different configurations. Others argued for preserving certain fragment clusters unchanged. The plaza transformed from a silent memorial into a living workshop of meaning-making.
+
+"But what if they reconstruct it wrong?" Vex asked. "What if their version contradicts everything you intended?"
+
+Ironmere smiled. "Then they will have learned the deepest lesson—that coherence itself matters more than any specific meaning. The city that can rebuild shared understanding from scattered fragments will survive any future that shatters their certainties."
+
+Vex studied the evolving reconstruction, seeing how different citizens contributed different perspectives, yet somehow a unified vision was emerging. "You're teaching them to be architects of meaning, not just builders who follow plans."
+
+"Every great organization eventually faces a shattering," Ironmere said quietly. "Markets shift. Technologies transform. Certainties crumble. The ones that survive aren't those with the strongest monuments to excellence. They're the ones whose people know how to reconstruct coherent purpose from whatever fragments remain."
+
+The new monument was taking shape now, simultaneously familiar and revolutionary. It captured something essential about civic excellence while reimagining it completely for a transformed context.
+
+**Moral**: *The organizations that master intentional chaos are distinguished not by their willingness to break things, but by their systematic capability to rebuild coherent meaning from the fragments—teaching their people that the power to reconstruct shared understanding is more valuable than any permanent monument to excellence.*
+
+*Tomorrow: Ironmere reveals why he sometimes prevents the city from reconstructing meaning at all, leaving citizens stranded in permanent fragmentation—and why this apparent cruelty proves necessary for their deepest evolution...*`,
+  },
 ];

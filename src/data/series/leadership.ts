@@ -7694,4 +7694,84 @@ Greymane watched from his cottage as Tova's ship began to sail with a new kind o
 
 **Tomorrow:** Greymane teaches Tova about the invisible cost of being the sun around which everyone else orbits—and why emotional consistency might be a leader's most undervalued currency.`,
   },
+  {
+    day: 117,
+    title: "The Gift of Emotional Constancy",
+    date: "2026-07-18",
+    image: "images/leadership/day-117.jpg",
+    audio: "audio/leadership/day-117",
+    sonnet: `**🪶 Sonnet CXVII: The Gift of Emotional Constancy**
+
+When leaders shift like weather, fair to storm,
+Their teams expend their strength on reading skies,
+Each thought diverted toward predicting form—
+No energy remains for bold replies.
+
+The captain's mood becomes the crew's true chart,
+More vital than the compass or the star,
+For what use maps when shifting tempers part
+The safe approach from danger shoaled afar?
+
+But she who turns as lighthouses must turn,
+Whose beam arrives in patterns known by heart,
+Gives back the thought that crews must elsewhere burn
+On calculating when it's safe to start.
+
+*Constancy's not sameness, but a steady beat—*
+*The gift that frees bold minds from threat's retreat.*`,
+    standard: `👥 Day 117: The Gift of Emotional Constancy
+
+When your team must expend mental energy predicting your emotional responses, they're essentially maintaining a sophisticated early warning system that drains cognitive resources away from creative problem-solving and strategic thinking. Your emotional volatility forces them to become meteorologists of your mood rather than architects of solutions, transforming what should be professional judgment calls into personal risk assessments. The most profound act of leadership generosity may be creating such consistent emotional ground beneath their feet that they can redirect all that monitoring energy toward innovation, collaboration, and bold thinking—not because you've become emotionless, but because you've become reliably present regardless of circumstance.
+
+🧱 **The Concept**
+Emotional constancy in leadership isn't about suppressing authentic feelings—it's about developing such reliable self-regulation that your team can predict your response patterns and therefore stop wasting cognitive resources on emotional risk management.
+
+❓ **Why It Matters**
+When leaders provide inconsistent emotional environments, team members unconsciously allocate significant mental bandwidth to threat detection and mood prediction rather than creative thinking and problem-solving. This invisible tax on cognitive capacity can reduce team effectiveness by as much as the loss of an entire team member, as people spend energy managing the leader's emotional climate rather than managing the work. The leader who masters emotional predictability essentially gives their team a gift of cognitive freedom—the ability to think boldly without first calculating the emotional cost of being wrong.
+
+⚙️ **How It Works**
+Emotional constancy means your team can accurately predict not that you'll always be happy, but that you'll be consistently yourself across different circumstances—equally receptive to bad news on a good day as on a difficult one. When a team member brings you a problem on Monday morning versus Friday afternoon, they should encounter the same listening quality, the same thoughtful pause before responding, the same curiosity about root causes rather than reactive blame. This doesn't mean becoming robotic; it means your anger, disappointment, or frustration becomes predictable in pattern and bounded in duration, so people can distinguish between "She's processing difficult information" and "I'm in danger." Leaders who achieve this constancy often report that their teams become dramatically more honest, more innovative, and more willing to surface problems early—precisely because the cognitive cost of truth-telling has dropped from "carefully calculated risk" to "standard operating procedure."
+
+🎯 **Leadership Wisdom**
+The leader who can be counted on to respond consistently—not identically, but consistently—gives their team the most precious gift a knowledge worker can receive: the freedom to redirect threat-monitoring energy toward creative contribution. Your emotional reliability becomes the foundation upon which others build their courage.
+
+❓ **Tomorrow's Question** — If you discovered that your team's most honest and innovative thinking consistently happened during the periods when you were physically absent or temporarily unreachable, what would this reveal about the relationship between your presence and their psychological safety, and how might your availability sometimes function as surveillance rather than support?`,
+    parable: `The Steady Beacon
+
+Tova stood at the helm as storm clouds gathered on the horizon, watching her crew watch her. In her first months as captain, she had not noticed this silent vigilance—the way eyes flickered toward her face when winds shifted, when sails tore, when the lookout called warnings. She had thought they were checking for orders. Greymane had taught her otherwise.
+
+"They are not reading the sea," he had said one evening, observing her crew from the shadows of the quarterdeck. "They are reading you. And it exhausts them."
+
+Tova had bristled. "I give clear commands. I make decisions quickly."
+
+"Yes," Greymane agreed. "But do you give them a steady deck beneath their feet, or do they wake each morning wondering which captain will greet them—the one who laughs at mistakes or the one who rages at them?"
+
+She wanted to protest, but memory stilled her tongue. Last week, she had praised Finn's creative solution to a rigging problem. Three days earlier, she had dressed him down for a nearly identical innovation because she had slept poorly and her patience was thin. The crew had learned nothing about her actual standards—only that safety depended on her sleep schedule.
+
+"Watch," Greymane said, gesturing toward young Kael, who was approaching with a report. The boy's eyes darted to Tova's face, her posture, her hands—reading signs like an augur before speaking. "He is calculating risk. Not the risk of his message, but the risk of your reaction. See how much energy he spends before he even opens his mouth? That energy is stolen from his work."
+
+Tova felt the truth of it like a weight. "How do I stop?"
+
+"You become a lighthouse," Greymane said simply. "Not by shining the same light always, but by shining it in the same pattern. Storms may come and go, but the beacon turns at the same speed, pulses at the same rhythm. Sailors do not need their lighthouse to be always bright—they need it to be always reliable. When they see your light, they should know exactly what it means, whether the seas are calm or wild."
+
+The next morning, when Tova discovered that a navigation error had cost them half a day's progress, she felt the old anger rise. But she also felt her crew tense, saw the subtle shift as they prepared for the storm of her displeasure. She thought of Greymane's lighthouse, turning steadily regardless of weather.
+
+She took a breath. Then another. When she spoke, her voice was firm but measured—disappointed but not diminishing. "This is a costly mistake. Let us understand what happened, correct our course, and ensure we learn what this error has to teach us."
+
+The relief in the room was palpable, but more than that—she saw something new. The navigator, instead of defending himself, immediately began analyzing what had gone wrong. Others joined the investigation with genuine curiosity rather than fearful self-protection. The energy that would have gone into managing her anger went instead into solving the problem.
+
+Over the following weeks, Tova worked to become that lighthouse. She could not control the weather of her emotions entirely—she was human, and some days were harder than others. But she learned to signal her state clearly, to mark her moods as temporary weather rather than permanent climate. "I am frustrated right now, but I want to hear this" became a regular phrase, a way of naming the storm without letting it shipwreck honest communication.
+
+The transformation was subtle but profound. Conversations that once began with careful preambles and mood-testing questions became direct. Ideas that might have waited for "the right moment" were shared immediately. Problems surfaced earlier, when they were smaller. Her crew stopped being meteorologists of her temperament and returned to being sailors of the ship.
+
+Greymane, watching from his customary corner one evening, caught her eye and nodded. "You see it now," he said quietly. "The greatest gift you can give them is not your brilliance or your courage. It is your constancy. When they know the pattern of your light, they can navigate by it. When they must instead predict your moods, they navigate only toward safety, never toward discovery."
+
+Tova looked at her crew—animated, engaged, present. They were no longer divided between their work and their worry. She had given them back their full attention simply by becoming someone they could count on to be herself, consistently, regardless of circumstance.
+
+The lighthouse, she understood, did not choose whether storms would come. It chose only to keep turning, to keep shining, to keep marking the rhythm that made navigation possible even in darkness.
+
+**Moral**: The leader who requires their team to predict emotional weather before speaking truth has already answered whether they want honest communication or careful management. Constancy is not the absence of emotion, but the presence of reliable patterns that free others to think rather than constantly calculate safety.
+
+**Tomorrow**: Greymane will reveal to Tova the invisible cost of her constant availability—and why the crew's boldest thinking happens only when she cannot observe it.`,
+  },
 ];
