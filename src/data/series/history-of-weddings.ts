@@ -2534,4 +2534,78 @@ Celeste gathered her documents slowly. "That requires more wisdom than most coup
 
 **Tomorrow:** Celeste learns how economic marriage without emotional commitment created a new crisis that wedding ceremonies cannot solve.`,
   },
+  {
+    day: 37,
+    title: "The Unbundling — When Love and Law Finally Divorced",
+    date: "2026-07-19",
+    image: "images/history-of-weddings/day-37.jpg",
+    audio: "audio/history-of-weddings/day-37",
+    sonnet: `**🪶 Sonnet XXXVII: The Unbundling**
+
+When love and law lived separate, hearts were free
+To build their bonds without the state's demand,
+The Iroquois knew partnership could be
+A choice renewed, not property's command.
+
+Medieval pairs through handfasting would bind
+Their souls in witness of community,
+While separate systems organized mankind's
+Inheritance and guild security.
+
+But modern marriage bundles all in one—
+The hospital bed, the tax rate, and the will,
+Until the couple find they can't undone
+What once was love but now is legal skill.
+
+*The chaos feared from freedom is a lie—*
+*True chaos comes when love and law both die.*`,
+    standard: `💒 Day 37: The Unbundling — When Love and Law Finally Divorced
+
+Society could absolutely function if partnership recognition were separated from economic benefits — in fact, several Indigenous cultures, historical periods, and modern experiments prove that communities thrive when emotional commitments aren't legally entangled with property rights, tax codes, and inheritance laws. The real question isn't whether it's possible, but whether powerful institutions would permit such a separation, since marriage's economic infrastructure generates enormous revenue and social control.
+
+🧱 **The Concept**
+
+Throughout history, various societies have successfully maintained distinct systems for recognizing emotional partnerships versus economic arrangements, proving that the modern conflation of love and law isn't inevitable but rather a specific cultural choice with specific beneficiaries.
+
+❓ **Why It Matters**
+
+Understanding that partnership recognition and economic benefits were once separate systems reveals that our current model — where a single legal document controls everything from hospital visitation to inheritance to tax rates — represents a relatively recent bundling strategy. This bundling forces people into standardized legal relationships even when their emotional needs, family structures, or economic situations don't fit the template, creating unnecessary suffering while generating predictable revenue streams for industries built around this one-size-fits-all model.
+
+⚙️ **How It Works**
+
+In many Indigenous North American societies, marriage ceremonies recognized emotional and social bonds between partners, while separate clan-based systems handled property inheritance, child-rearing responsibilities, and economic support networks — meaning divorce didn't require legal proceedings or property division because those systems operated independently. Medieval European peasants often practiced "handfasting" ceremonies that created recognized partnerships without involving church or state, while economic matters were handled through guild memberships, land tenure agreements, and family networks that existed whether the couple stayed together or separated. Modern Scandinavian countries have begun unbundling this system by offering robust social safety nets, universal healthcare, and individual tax filing regardless of partnership status, which means citizens can choose relationship recognition for emotional reasons rather than economic necessity. France's PACS (civil solidarity pact) created a separate legal framework from marriage that provides some economic benefits without the same level of legal entanglement, and its popularity has forced reconsideration of whether marriage's comprehensive bundling actually serves people's needs. The fact that these alternative systems function successfully reveals that the wedding industry's insistence on traditional marriage as the only legitimate partnership structure protects not couples' wellbeing but rather the economic infrastructure built on their legal dependence.
+
+🎯 **Wedding History Wisdom**
+
+The conflation of emotional commitment with economic contract isn't protecting love — it's protecting the institutions that profit from making love legally complicated.
+
+❓ **Tomorrow's Question**
+
+If unbundling partnership recognition from economic infrastructure would give couples more freedom to design relationships that actually fit their needs, what does this suggest about whether the wedding ceremony itself — that single day of celebration — has become the last remaining ritual that still serves human emotional needs, or has it too been so thoroughly colonized by commercial and legal systems that couples would experience more authentic transformation through entirely different practices?`,
+    parable: `Celeste sat in Elder Maren's study, surrounded by documents from cultures that seemed impossibly distant yet strangely familiar. "Look at this," Maren said, spreading out illustrations of an Iroquois wedding ceremony. "They celebrated the union with ritual and feast, but property continued to flow through the mother's lineage regardless of who she partnered with. Love and law lived in different houses."
+
+"But wouldn't that create chaos?" Celeste asked. "How would anyone know who was responsible for what?"
+
+Maren smiled, pulling out another document. "Here's a medieval village record. John the Cooper and Mary Weaver had a handfasting ceremony witnessed by their community. They lived together, raised children, built a life. But when Mary inherited her mother's loom, it remained hers through a separate guild system. When John's father died, the cooperage passed to John's nephew through craft apprenticeship lines. When they eventually parted ways years later, there was grief, certainly, but no lawyers."
+
+"No lawyers," Celeste repeated softly.
+
+"The chaos you fear comes from bundling, not unbundling," Maren continued. "When a single legal document controls love, property, parenthood, healthcare access, immigration status, and tax rates, then ending a relationship becomes legally catastrophic even when it's emotionally necessary. People stay in harmful situations because untangling the law is more terrifying than enduring the pain."
+
+Celeste looked at her own engagement ring, suddenly seeing it differently. "So the wedding industry's insistence that marriage is the ultimate commitment..."
+
+"Is protecting marriage's economic infrastructure, not the emotional bond," Maren finished. "Imagine if you could have a beautiful ceremony celebrating your love without signing a contract that predetermined how your property would be divided if that love ended. Imagine if healthcare and housing security didn't depend on legal partnership status. Imagine if you could design your commitment based on what you and your partner actually needed, not what the state required."
+
+"Some countries are already doing this?" Celeste asked.
+
+"Partially," Maren said, showing her information about Scandinavian social systems and French civil pacts. "When basic needs are met through community infrastructure rather than marriage contracts, people can choose partnership for love rather than survival. And paradoxically, when couples aren't legally trapped, their relationships often become healthier because they're choosing each other daily rather than simply being contractually bound."
+
+Celeste felt something shift in her understanding. "So the question isn't whether society could function with unbundled systems..."
+
+"The question is whether the institutions built on bundling would permit such freedom," Maren said quietly. "And whether couples are ready to hear that the most authentic commitment might require less legal infrastructure, not more."
+
+**Moral:** The conflation of love and law protects not partnerships but the systems that profit from their complexity.
+
+**Tomorrow:** Celeste discovers that even the wedding ceremony itself might have been colonized beyond recognition — and wonders what authentic transformation would look like if freed from both commercial and legal constraints.`,
+  },
 ];

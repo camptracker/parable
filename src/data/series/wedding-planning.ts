@@ -7298,4 +7298,88 @@ As Dove sat in quiet meditation while rain drummed a rhythm on the roof, she fel
 
 **Tomorrow**: Dove discovers that the grace she demonstrates when things go wrong teaches her guests more about love than any flawless detail ever could.`,
   },
+  {
+    day: 113,
+    title: "The Sacred Rehearsal of Presence",
+    date: "2026-07-19",
+    image: "images/wedding-planning/day-113.jpg",
+    audio: "audio/wedding-planning/day-113",
+    sonnet: `**🪶 Sonnet CXIII: The Sacred Rehearsal of Presence**
+
+What you practice in the dark will bloom in light,
+The grace you've trained when no one's watching waits
+To meet the pressure of your wedding night—
+Your nervous system knows the paths it creates.
+
+Each morning's pause before the planning starts,
+Each disruption met with breath instead of blame,
+Each chosen stillness in your racing hearts
+Rehearse the steadiness that speaks your name.
+
+You cannot improvise the peace you need
+When chaos comes and all your timelines fall—
+That groundedness grows only from the seed
+Of smaller moments when you practiced all
+
+*The ways you want to meet what can't be planned:
+With open heart, clear eyes, and steady hand.*`,
+    standard: `💍 Day 113: The Sacred Rehearsal of Presence
+
+The practice you need most is deliberately creating small disruptions in your daily life right now and choosing, consciously, to respond with curiosity rather than control—when dinner burns, when traffic delays you, when plans change unexpectedly, these become your training ground for the grace you'll need when the flower girl refuses to walk or the DJ plays the wrong song. By treating every minor disruption between now and your wedding as an opportunity to breathe, smile, and say "this is part of the story too," you transform your nervous system's default response from resistance to acceptance, ensuring that when imperfection arrives on your wedding day, your body and spirit will already know how to meet it with steadiness rather than stress.
+
+🧱 **The Concept**
+
+Your wedding day will test not what you've planned, but who you've become through the planning—and the final days before the ceremony are your last opportunity to rehearse the emotional resilience, partnership dynamics, and presence that will actually determine your experience of the day itself.
+
+❓ **Why It Matters**
+
+Most couples spend their final pre-wedding days obsessing over details they cannot control (weather, vendor performance, guest behavior) while neglecting the one thing they can absolutely control: their own emotional state and relational groundedness. The quality of your wedding day experience will be determined far less by whether everything goes according to plan and far more by the internal resources you bring to whatever actually unfolds. What you practice in these final days—patience or panic, unity or blame, presence or performance—is precisely what will emerge under the pressure of the actual event.
+
+⚙️ **How It Works**
+
+Instead of treating these final days as a countdown to perfection, treat them as a sacred rehearsal for the qualities you want to embody: practice waking up and immediately connecting with your partner before checking your phone or wedding to-do list, establishing that your relationship takes priority over your event. When something goes wrong (and something will), pause before reacting and ask yourself, "Will this matter in five years?" and "How do I want to remember responding to this moment?"—creating space between stimulus and response. Schedule at least one daily moment of complete wedding-free presence with your partner, whether it's a fifteen-minute walk, a shared meal without discussion of logistics, or simply holding each other in silence, training yourselves to access connection that exists independent of the celebration you're planning. When family members or vendors trigger stress, practice responding from your most grounded self rather than your most reactive one, recognizing that every challenging interaction is preparation for navigating your wedding day with grace. Most importantly, rehearse the transition from "managing mode" to "experiencing mode" by setting aside specific times each day when you deliberately shift from doing to being, from controlling to receiving, from orchestrating to participating—because your wedding day will require that same shift, and you need to know how to make it consciously rather than hoping it happens automatically.
+
+🎯 **Wedding Wisdom**
+
+Your wedding day will reveal not the person you wish you were, but the person you've actually practiced being during the weeks and months leading up to it—which means these final days are your last chance to rehearse grace, presence, and partnership so thoroughly that they become your natural response to whatever unfolds.
+
+❓ **Tomorrow's Question**
+
+If you discovered that the single most powerful gift you could give your future self would be to decide *right now* exactly which three specific moments from your wedding day you'll protect as absolutely non-negotiable sacred space (regardless of what else falls apart around them), which three moments would you choose, and what does that choice reveal about the difference between trying to control everything and consciously consecrating what actually matters most?`,
+    parable: `Dove sat surrounded by three different timelines, her color-coded spreadsheets glowing in the afternoon light. "If I can just account for every possible scenario," she muttered, adding another contingency plan to her already elaborate binder, "then nothing can go wrong."
+
+Nana Rose arrived to find her nearly buried in backup plans for the backup plans. "Child, what are you doing?"
+
+"Preparing," Dove said, her eyes wild with determination. "I've created seventeen different timeline variations depending on weather, vendor delays, family drama probability matrices—"
+
+"You're rehearsing anxiety," Nana Rose said gently, closing the binder. "And anxiety is what you'll perform on your wedding day, because that's what you've practiced."
+
+She led Dove to the window. "See that tree? Last week's storm took half its branches. Did it spend the week before creating contingency plans? No. It spent years growing roots deep enough to bend without breaking. That's the only preparation that matters when the winds come."
+
+Elm found them there an hour later. Nana Rose had given Dove a different kind of assignment: "For the next seven days, I want you to practice three things. First, every morning before you do anything else, spend ten minutes with Elm doing absolutely nothing wedding-related. Just be together. Second, every time something disrupts your plans—traffic, a changed appointment, a vendor hiccup—pause for three breaths before responding, and choose your reaction consciously. Third, every evening, practice the transition from 'managing mode' to 'experiencing mode' by setting aside all your lists and simply receiving the day you've actually had rather than comparing it to the day you planned."
+
+"But what about the timelines?" Dove protested.
+
+"The timelines will take care of themselves," Nana Rose said. "But your nervous system, your partnership, your presence—these require deliberate cultivation. You cannot improvise grace under pressure, Dove. You can only reveal the grace you've already practiced in smaller moments."
+
+Over the following days, Dove discovered something unexpected. When the caterer called with a menu crisis, she found herself breathing first, responding second—and the solution emerged calmly rather than frantically. When family drama erupted over seating arrangements, she and Elm faced it as a team because they'd practiced connecting before problem-solving each morning. When the venue called about a scheduling conflict, she surprised herself by asking, "Will this matter in five years?" and finding the answer was no, which meant the stress was optional.
+
+On the sixth day, Elm watched her navigate a genuine crisis—the original photographer had canceled—with a steadiness he'd never seen before. "You're different," he said afterward.
+
+"I'm practiced," she replied, taking his hand. "Nana Rose was right. I've been rehearsing panic for months. Now I'm rehearsing something else."
+
+Nana Rose found them that evening, sitting together in complete silence, Dove's wedding binder unopened on the table. "Now," the old woman said, her eyes twinkling, "now you're preparing for your wedding. Not by controlling what will happen, but by becoming someone who can meet whatever happens with grace."
+
+Dove looked at her timelines, her contingency plans, her elaborate systems of control. "I don't need seventeen scenarios," she realized. "I need to know that whatever scenario unfolds, I'll be okay. We'll be okay."
+
+"And how do you know that?" Nana Rose asked.
+
+"Because I've practiced being okay when things don't go according to plan. I've rehearsed grace in the small disruptions, so it'll be there for the big ones."
+
+Elm squeezed her hand. "What you practice is what you become."
+
+**Moral:** Your wedding day will not reveal the person you hope to be under pressure, but the person you've actually practiced being in the weeks leading up to it. Rehearse grace in small moments now, and grace will be your natural response when large moments demand it.
+
+**Tomorrow:** Dove learns that protecting what matters most requires releasing the illusion that everything matters equally—but choosing those sacred priorities demands a clarity she's been avoiding.`,
+  },
 ];
