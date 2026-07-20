@@ -7382,4 +7382,94 @@ Elm squeezed her hand. "What you practice is what you become."
 
 **Tomorrow:** Dove learns that protecting what matters most requires releasing the illusion that everything matters equally—but choosing those sacred priorities demands a clarity she's been avoiding.`,
   },
+  {
+    day: 114,
+    title: "The Sacred Inheritance of Self",
+    date: "2026-07-20",
+    image: "images/wedding-planning/day-114.jpg",
+    audio: "audio/wedding-planning/day-114",
+    sonnet: `**🪶 Sonnet CXIV: The Sacred Inheritance of Self**
+
+We come to love with luggage long unpacked,
+Carrying patterns learned in childhood homes—
+How conflict lives, how tenderness enacts,
+Invisible scripts we've memorized in bones.
+
+Your silence speaks your mother's kept-down rage,
+My urgency repeats my father's fear,
+We think we're writing on a virgin page,
+While ghosts compose the vows we think we hear.
+
+The altar asks: what inheritance you claim?
+Which patterns serve the love you mean to build?
+Which old beliefs now need releasing blame?
+Which new devotions wait to be fulfilled?
+
+*For marriage asks us not to leave our past behind,*
+*But choose which seeds to carry, which to unbind.*`,
+    standard: `💍 Day 114: The Sacred Inheritance of Self
+
+🧱 **The Concept**
+Your wedding day marks not just the beginning of a new relationship identity, but the culmination of every lesson, wound, pattern, and belief about love that you're bringing from your entire life before this moment.
+
+❓ **Why It Matters**
+Most couples enter marriage focused on their shared future without recognizing that they're each carrying invisible luggage from their past—family dynamics, relationship templates, unspoken expectations, and unconscious beliefs about what love means and how it should behave. These inherited patterns will shape your marriage far more powerfully than your conscious intentions unless you deliberately examine what you're bringing to the altar. The wedding ceremony itself becomes either a moment of unconscious repetition or conscious transformation, depending on whether you're aware of the legacy you're inheriting from your past and actively choosing which patterns to carry forward and which to leave behind.
+
+⚙️ **How It Works**
+Every person approaches marriage carrying specific relationship templates learned from their family of origin—how conflict should be handled (avoided, explosively expressed, or constructively processed), how affection should be demonstrated (publicly, privately, verbally, through service, or sparingly), how finances should be managed (openly shared, independently maintained, or never discussed), and countless other unspoken rules about what partners owe each other and how love proves itself. For example, if you grew up in a home where displays of emotion were considered weakness, you might unconsciously believe that maintaining composure during disagreements proves strength, while your partner—whose parents resolved everything through passionate discussion—might interpret your silence as withdrawal or indifference. Your wedding day becomes a powerful opportunity to consciously acknowledge which inherited patterns actually serve the marriage you want to create and which need to be gently released. This means having honest conversations before the wedding about questions like: "What did my parents' marriage teach me about what it means to be a husband or wife?" "What unspoken rules about relationships am I assuming are universal truths?" "Which patterns do I want to honor and which do I want to transform?"
+
+🎯 **Wedding Wisdom**
+The vows you speak at your wedding will be shaped not just by who you are now, but by every relationship model you've witnessed since childhood—and your marriage's freedom depends on recognizing which inherited beliefs you're consciously choosing versus unconsciously repeating.
+
+❓ **Tomorrow's Question** — If you discovered that the three most problematic patterns in your parents' or caregivers' relationship (whether obvious or subtle) have already begun appearing in yours, what would those patterns be, and what specific different choice could you make this week to prove to yourself that you're capable of writing a new story rather than simply performing an inherited script?`,
+    parable: `Dove sat in Nana Rose's studio three weeks before the wedding, surrounded by seating charts and timelines, when the old wedding planner suddenly swept everything off the table with one decisive motion.
+
+"Enough," Nana Rose said quietly. "We're not planning decorations today. We're unpacking inheritance."
+
+Dove blinked, startled. "Inheritance? I'm not expecting any—"
+
+"Not money, child. Patterns." Nana Rose settled into her chair with the weight of someone carrying important truth. "Every bride and groom walks down that aisle carrying invisible suitcases packed by people who came before them. Parents, grandparents, every love story they witnessed growing up. And here's what most couples never realize until they're five years deep into hurt feelings and confusion: they're not actually fighting with each other—they're fighting with ghosts."
+
+Dove felt something shift uncomfortably in her chest. "What do you mean?"
+
+"Tell me about your parents' marriage," Nana Rose said. "Not the pretty version. The truth."
+
+Dove hesitated. "They... they never fought. At least not in front of us. My mother kept everything smooth, always smiling, always accommodating. My father made all the major decisions."
+
+"And when you disagree with Elm about something important?" Nana Rose's eyes were knowing.
+
+"I..." Dove stopped, recognition dawning like cold water. "I go quiet. I agree. I convince myself it doesn't matter that much."
+
+"Even when it does."
+
+"Even when it does," Dove whispered.
+
+Elm arrived then for their joint meeting, and Nana Rose turned her penetrating gaze to him. "Your turn. Your parents' marriage—the real story."
+
+Elm shifted. "They argued about everything. Money, parenting, what to have for dinner. Loud voices, doors slamming. But fifteen minutes later, they'd be laughing like nothing happened."
+
+"And when Dove goes quiet during a disagreement?"
+
+Elm's face changed. "It terrifies me. I think she's pulling away, that the relationship is ending. So I... I push. I keep talking, trying to get her to engage, which probably makes her retreat even more."
+
+Dove reached for his hand, seeing their dynamic with new clarity. "I'm not my mother," she said slowly. "And you're not your father. We don't have to repeat their patterns."
+
+"But you will," Nana Rose said, not unkindly, "unless you recognize what you're carrying and consciously choose what to keep and what to set down. Your wedding day—that ceremony—it's not just about making promises to each other. It's about acknowledging every relationship template you inherited and deciding whether to honor it or transform it."
+
+She pulled out two pieces of paper. "Before you say 'I do,' I want you each to write three things: one pattern from your family's relationship history that you want to carry forward because it served love well, one pattern you want to transform because it hurt love, and one completely new pattern you want to create together that neither family modeled."
+
+Dove and Elm worked in silence, occasionally glancing at each other, occasionally pausing to wipe eyes as recognition bloomed.
+
+When they finished, they read aloud. Dove wanted to carry forward her parents' kindness and generosity but transform their conflict avoidance into healthy confrontation. Elm wanted to carry forward his parents' passion and playfulness but transform their financial chaos into intentional stewardship. Together, they wanted to create something neither family had modeled: a practice of daily appreciation regardless of mood.
+
+"This," Nana Rose said, tapping their papers, "this is the real foundation of your marriage. Not the venue, not the vows you memorized, but your conscious awareness of the invisible inheritance you're each bringing and your mutual commitment to curate it rather than be controlled by it."
+
+Dove looked at Elm with fresh eyes, seeing not just the man she loved but the complex legacy he carried, the courage it would require for him to honor his history while also transcending it.
+
+"When you walk down that aisle," Nana Rose continued, "you're not just meeting each other. You're meeting every relationship pattern that shaped you both. And your marriage will be determined by whether you can love each other through that complexity rather than being surprised by it."
+
+**The Moral**: *Every couple stands at the altar carrying invisible luggage packed by generations before them—and the wedding ceremony becomes either an unconscious repetition of inherited patterns or a conscious transformation of them, depending on whether they've examined what they're bringing and chosen what to keep.*
+
+*Tomorrow, Nana Rose would ask them to identify the exact moment in their relationship when an old pattern had hijacked their best intentions—and what it would require to interrupt that pattern before it calcified into their married identity...*`,
+  },
 ];
