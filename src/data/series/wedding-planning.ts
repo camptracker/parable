@@ -7472,4 +7472,104 @@ Dove looked at Elm with fresh eyes, seeing not just the man she loved but the co
 
 *Tomorrow, Nana Rose would ask them to identify the exact moment in their relationship when an old pattern had hijacked their best intentions—and what it would require to interrupt that pattern before it calcified into their married identity...*`,
   },
+  {
+    day: 115,
+    title: "The Sacred Excavation",
+    date: "2026-07-21",
+    image: "images/wedding-planning/day-115.jpg",
+    audio: "audio/wedding-planning/day-115",
+    sonnet: `**🪶 Sonnet CXV: The Sacred Excavation**
+
+What patterns slept in childhood's silent house,
+Where words unspoken wrote the only script?
+The mother's martyrdom, the father's grouse,
+The peace preserved while intimacy slipped.
+
+Now wedding stress reveals the ancient code—
+You swallow needs, or wall yourself in stone,
+Repeating what your earliest teachers showed,
+Unless you catch the ghost before it's grown.
+
+This week, choose different when the pattern calls:
+Stay present where your father would have fled,
+Speak truth where mother hid behind her walls,
+Write living vows where inheritance lay dead.
+
+*For love grows new when conscious choice breaks through—*
+*Not what was done to them, but chosen by you.*`,
+    standard: `💍 Day 115: The Sacred Excavation
+
+The patterns you've inherited—whether it's conflict avoidance that builds resentment, emotional withholding that creates distance, or the inability to apologize that preserves pride at the cost of intimacy—are already operating in your relationship, often invisible until stress reveals them. This week, you prove you're writing a new story by doing the exact opposite of what feels familiar: if your parents never apologized, you apologize first; if they stonewalled during conflict, you stay present even when it's uncomfortable; if they sacrificed authenticity for peace, you speak a difficult truth with love. The moment you choose differently, you break the chain.
+
+🧱 **The Concept**
+
+Your wedding planning process will surface every unconscious relationship pattern you absorbed from watching the adults who raised you—and your willingness to recognize and interrupt those patterns now determines whether your marriage will be a repetition or a revolution.
+
+❓ **Why It Matters**
+
+Most couples enter marriage believing their love is strong enough to naturally avoid their parents' mistakes, but without conscious intervention, you will default to the relational templates you witnessed most frequently during your formative years. The stress of wedding planning creates the perfect laboratory for identifying these inherited patterns before they calcify into the foundation of your marriage. What you don't consciously address, you will unconsciously repeat.
+
+⚙️ **How It Works**
+
+Notice what happens between you and your partner when you're both exhausted, when money gets tight, when expectations clash, or when one of you is disappointed—these high-stress moments reveal your default programming. If your mother always "kept the peace" by swallowing her needs, watch for the moment you do the same with a wedding decision that matters to you. If your father shut down emotionally when criticized, notice when you or your partner withdraw rather than engage. The revelation isn't shameful—it's liberating, because once you see the pattern, you can choose differently. Make one conscious choice this week that directly contradicts your inherited script: stay in a difficult conversation instead of fleeing it, express a need instead of martyring yourself, or admit you were wrong instead of defending your position.
+
+🎯 **Wedding Wisdom**
+
+Your marriage will be healthiest when you approach it as conscious authors rather than unconscious actors, writing a new story informed by—but not imprisoned by—the relationships that shaped your understanding of love.
+
+❓ **Tomorrow's Question**
+
+If you discovered that your wedding day would force you to choose between honoring an inherited family tradition that feels meaningless to you or disappointing relatives by creating a new ritual that actually reflects your values, which disappointment would you choose to carry, and what would that choice reveal about whether you're beginning your marriage as an extension of your family of origin or as the foundation of your own family line?`,
+    parable: `Dove sat across from Nana Rose in the wedding planner's sunlit office, her hands trembling as she held a list she'd been avoiding for weeks. "I wrote down the patterns," she whispered. "The ones I swore I'd never repeat."
+
+Nana Rose adjusted her reading glasses, waiting.
+
+"My mother never asked for what she needed," Dove continued, her voice tight. "She just... gave and gave until she was empty, then resented everyone for not noticing. And I caught myself doing it yesterday—Elm asked what I wanted for the reception entrance, and I said 'whatever you think is best' when I actually had a strong opinion. I swallowed it. Just like she always did."
+
+"And what happened after you swallowed it?" Nana Rose asked gently.
+
+Dove's laugh was bitter. "I was irritated with him all evening for not reading my mind. For not knowing what I didn't say."
+
+Elm appeared in the doorway, having arrived for their joint meeting. "I could feel something was wrong," he said quietly, "but when I asked, you said you were fine."
+
+"Because that's what my mother always said," Dove admitted, tears spilling over. "'I'm fine.' Those were her two favorite words, even when she was dying inside."
+
+Nana Rose stood and moved to the window, where a potted plant sat in morning light. "This ivy," she said, touching its leaves, "spent its first year growing in a small pot. When I transplanted it to this larger one, it kept growing in the same tight spiral for months—even though it had room to spread. It was still following the pattern the old container had forced upon it."
+
+She turned back to them. "But here's what's beautiful: the moment I gently trained one vine in a new direction, it learned. It grew differently. Not by rejecting its nature, but by discovering it had more possibilities than its early confinement had suggested."
+
+Elm crossed the room and sat beside Dove. "So what did you actually want for the entrance?"
+
+Dove looked at him, something shifting in her chest. The old pattern would be to minimize it now, to say it didn't matter. Instead, she took a breath and spoke her truth: "I want us to enter together. Not me waiting to be presented, but both of us walking in as equals, as partners. I have a whole vision for it."
+
+"That's perfect," Elm said simply. "Why didn't you just say that?"
+
+"Because speaking up was dangerous in my house," Dove said, the realization arriving as she spoke. "My father would get defensive, my mother would get hurt, and suddenly you were the problem for having a need. So I learned not to have them."
+
+Nana Rose returned to her seat. "And now you get to learn something new: that your needs aren't dangerous. That speaking them doesn't make you selfish. That being known is safer than being accommodating."
+
+"But what if I mess it up?" Dove asked. "What if I overcorrect and become demanding instead of just honest?"
+
+"Then you'll notice, and you'll adjust," Nana Rose said. "The pattern doesn't break perfectly on the first try. It breaks through consistent, conscious choice. Every time you feel yourself reaching for 'I'm fine' or 'whatever you want,' you pause. You take a breath. You tell one small truth. That's how you write a new story."
+
+Elm reached for Dove's hand. "I have patterns too," he admitted. "My parents never fought—they just got cold and silent until someone gave in. And I notice I do that. When we disagree, I get quiet and distant instead of staying engaged."
+
+"Yes," Dove said, squeezing his hand. "You do. And I hate it."
+
+"Good," Nana Rose said, surprising them both. "Name it. See it. That's the excavation work. You dig up what was buried, you examine it in daylight, and then you decide what stays and what goes."
+
+She opened a drawer and pulled out two small journals. "For the next two weeks—right up to your wedding—I want you both to notice your inherited patterns as they arise. Not to judge them, but to witness them. And then, just once a day, I want you to make a different choice. Stay present in discomfort. Speak a need. Apologize first. Whatever contradicts your old script."
+
+Dove accepted her journal, running her fingers over its blank cover. "And if we do this?"
+
+"Then you'll walk down that aisle as conscious authors of your own love story," Nana Rose said, her eyes bright with tears she didn't hide. "Not as actors performing a script written by ghosts. That's the real vow beneath all your other vows: I choose to write something new with you."
+
+As they left, Dove paused in the doorway. "Nana Rose? Did you have to do this too? Break your own inherited patterns?"
+
+The old woman smiled, touching the simple band on her finger. "Every day for forty-three years," she said softly. "And the marriage I built by choosing differently was nothing like the one I witnessed growing up. It was so much more real."
+
+**Moral:** The greatest gift you can give your marriage is not the promise to be perfect, but the courage to be different from what you were unconsciously trained to be—one conscious choice at a time.
+
+**Tomorrow:** Dove must decide whether to include a family tradition that carries generations of meaning but feels hollow to her heart—and discovers that honoring your lineage sometimes means having the courage to transform it.`,
+  },
 ];

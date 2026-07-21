@@ -4269,4 +4269,98 @@ He turned back to face her. "Your education taught you to price bonds. It didn't
 
 **Tomorrow:** Garrison will reveal why even professors who want to teach critical frameworks find themselves unable to—and what this says about whether knowledge systems can critique themselves.`,
   },
+  {
+    day: 62,
+    title: "The Academic Capture",
+    date: "2026-07-21",
+    image: "images/us-bond-market/day-62.jpg",
+    audio: "audio/us-bond-market/day-62",
+    sonnet: `**🪶 Sonnet LXII: The Academic Capture**
+
+The bronze names gleam on ivory towers high,
+Where donors shape what scholars dare to teach,
+And tenure chains the truth to branded lie—
+No question falls beyond the market's reach.
+
+Endowments grow on theories that defend
+The very firms that manage pooled wealth's store,
+While junior faculty must comprehend
+Their heresy will never reach the floor.
+
+The textbooks change, but always serve the same:
+To turn democracy's bright questioning mind
+Into credential's comfortable claim
+That power's mathematics must be kind.
+
+*Yet somewhere in Vermont's forgotten snow,*
+*An exiled teacher writes what none will know.*`,
+    standard: `📊 Day 62: The Academic Capture
+
+Business schools resist integrating political science into finance curricula because their funding models depend on maintaining the fiction that markets are technical rather than political systems—wealthy donors, corporate recruiters, and endowment managers all benefit from graduates who view market outcomes as mathematically inevitable rather than politically constructed, and exposing this would threaten the revenue streams that sustain the institutions themselves. The resistance isn't ideological ignorance but economic self-preservation.
+
+🧱 **The Concept**
+Academic institutions that study financial markets have themselves become financially dependent on the markets they analyze, creating structural incentives to produce research and graduates that reinforce rather than challenge existing market structures.
+
+❓ **Why It Matters**
+When universities become captured by the industries they're meant to critically examine, the intellectual independence necessary for genuine insight disappears, replaced by credentialed expertise that serves existing power structures. This academic capture doesn't just affect what students learn—it determines which questions can be asked and which truths remain systematically unexamined.
+
+⚙️ **How It Works**
+Business school endowments are typically managed by trustees with deep ties to asset management and investment banking, creating direct financial links between academic governance and market participants. When a finance professor publishes research suggesting that active bond management adds no value after fees, the endowment manager who sits on the university's investment committee—and whose firm manages $500 million of university assets—notices. Curriculum committees stacked with industry practitioners ensure that course content prepares students for existing market roles rather than questioning whether those roles should exist. The most prestigious academic positions go to researchers who've worked at central banks and investment firms, creating a revolving door where institutional perspectives become academic orthodoxy. Executive education programs that generate millions in revenue require teaching market frameworks that validate participants' existing practices rather than challenging them. When Yale's endowment delivers 20-year returns that outperform simple index strategies, suggesting that sophisticated institutional investing is largely wealth extraction becomes professionally suicidal for junior faculty seeking tenure.
+
+🎯 **Bond Wisdom**
+The deepest market distortions aren't in prices but in the knowledge systems that interpret them—when universities can't afford to question markets, society loses the capacity to imagine alternatives.
+
+❓ **Tomorrow's Question** — If academic capture has made universities unable to critically examine financial markets, and traditional journalism lacks the technical expertise to fill this gap while being equally dependent on financial industry advertising and access, where can society turn for genuinely independent analysis of bond markets and monetary policy, or has the integration of financial power with knowledge production become so complete that independent thought about markets is now structurally impossible within mainstream institutions?`,
+    parable: `Maya found Garrison in the university library's rare books room, reading a 1929 economics textbook. "Research?" she asked.
+
+"Archeology," he corrected, turning brittle pages. "Listen to this: 'The bond market serves as democracy's accountability mechanism, disciplining governments that betray public trust.' Can you imagine a modern business school teaching that?"
+
+Maya sat across from him. "Why would they? It's true, isn't it?"
+
+"It's *too* true." Garrison closed the ancient text carefully. "That's the problem. Come with me."
+
+He led her to the business school's gleaming atrium, where donor names covered the walls in bronze letters. "The Henderson Trading Floor," he read. "The Blackwell Center for Fixed Income Research. The Morrison Chair in Financial Engineering. You notice a pattern?"
+
+"Industry funding," Maya said. "So?"
+
+"So the Morrison Chair can't research whether financial engineering serves society or extracts from it—not when Morrison Capital Management has $200 billion under management and sits on the university's endowment committee." He pointed to a poster advertising an upcoming conference: *Innovations in Credit Markets.* "Notice what's not on the agenda? A session asking whether credit market innovations should exist at all."
+
+They walked past classrooms where students learned to price collateralized debt obligations. "Every person in that room will graduate believing that markets are technical systems—math problems to be solved. None will learn that markets are political choices—power structures to be questioned."
+
+"But surely some professors teach the political dimension," Maya protested.
+
+"The ones who get tenure?"
+
+They reached Garrison's own office, sparse and unadorned. He pulled out a folder. "Rejection letters. Every paper I've written that questions market fundamentals rather than market efficiency. Not rejected for being wrong—rejected for asking questions that 'fall outside the journal's scope.' Translation: questions that threaten the donors and editorial board members who profit from not asking them."
+
+Maya read one: *While your analysis is technically sound, we feel it doesn't advance the practical knowledge practitioners need.* "What was the paper about?"
+
+"Whether practitioners should exist in their current form." Garrison smiled grimly. "The university hired me thirty years ago for heterodox thinking. Now they'd never make that mistake. Today's junior faculty are products of PhD programs funded by the very institutions they're meant to examine. They've been selected for, trained in, and financially rewarded for accepting current market structures as inevitable."
+
+"That's just cynicism."
+
+"Is it?" He opened his desk drawer, revealing a thick contract. "The business school just offered me $50,000 to teach a weekend executive education course for bond fund managers. I teach them portfolio theory they already know, they get a certificate with the university seal, their marketing departments use it to justify higher fees, and the school gets revenue to fund research positions. Everyone wins."
+
+"Except truth," Maya said quietly.
+
+"Truth can't afford the rent." Garrison returned the contract unsigned. "When I was hired, this university had an endowment of $200 million. Today it's $6 billion, mostly managed by the very financial institutions we study. The university is literally invested in not questioning whether those institutions serve society."
+
+Maya looked out at students crossing the quad, backpacks heavy with finance textbooks. "So we're training them to perpetuate a system we depend on, using knowledge frameworks approved by people who profit from that system, in buildings named after those same people."
+
+"Welcome to academic capture." Garrison pulled down another old text—a 1960s book on institutional economics. "There was a time when universities saw themselves as democracy's brain, questioning power wherever it concentrated. Now they're more like democracy's marketing department, credentialing power as expertise."
+
+"Then why do you stay?"
+
+He showed her the rejection letters again. "Because someone needs to keep submitting papers that get rejected. Someone needs to keep teaching students to ask dangerous questions, even if those students won't pass them on. Academic capture isn't absolute—it's just overwhelming."
+
+Maya picked up the 1929 textbook. "What happened to the professor who wrote this?"
+
+"Fired in 1933 for predicting the New Deal would face Wall Street resistance. Spent the rest of his career at a small college in Vermont, writing books that no major press would publish." Garrison's eyes held a strange light. "But I've read every one. Truth survives, Maya. Just not where you'd expect to find it."
+
+She touched the bronze donor names as they left. They felt cold.
+
+**The Moral:** *When universities become investments rather than institutions, they produce investors rather than intellectuals—and society loses the capacity to imagine economies that serve anything beyond capital's reproduction.*
+
+**Tomorrow:** *Where can truth about markets survive when every mainstream institution depends on market illusions for survival?*`,
+  },
 ];

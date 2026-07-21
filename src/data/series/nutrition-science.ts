@@ -7613,4 +7613,84 @@ Maren smiled. "Your readiness isn't a prerequisite. The stretching itself builds
 
 **Tomorrow:** Lila must face her own history of depletion and learn why her body now rejects all discomfort, unable to distinguish between old wounds and new possibilities.`,
   },
+  {
+    day: 117,
+    title: "The Sensation Relearning",
+    date: "2026-07-21",
+    image: "images/nutrition-science/day-117.jpg",
+    audio: "audio/nutrition-science/day-117",
+    sonnet: `**🪶 Sonnet CXVII: The Sensation Relearning**
+
+When every touch has taught the skin to flinch,
+And warmth and burning blur into one pain,
+The body learns to flee at fear's first pinch—
+No taste of growth can pass through terror's reign.
+
+But depletion drains while challenge lifts,
+Though both begin with discomforting fire;
+The one depletes with each exhausting shift,
+The other stretches toward a strength entire.
+
+To know which flame will harm and which will heal,
+You cannot judge the spark of first sensation—
+You must remain to feel the full reveal,
+The metabolic arc of activation.
+
+*For poison spirals down while medicine soars,*
+*And only time can teach what each restores.*`,
+    standard: `🍎 Day 117: The Sensation Relearning
+
+Years of depleting relationships can train your nervous system to associate all relational discomfort with danger, creating a hair-trigger protection response that can't distinguish between toxic depletion and healthy growth. Your body develops such refined sensitivity to the earliest signs of energetic drain that it begins rejecting even beneficial stretching before you can metabolically experience the difference—like an immune system so hypervigilant from chronic infection that it attacks harmless proteins as threats.
+
+🧱 The Concept
+Your nervous system must relearn the sensation vocabulary of healthy relational challenge through deliberate, time-limited exposures that allow you to feel the metabolic difference between depletion and growth.
+
+❓ Why It Matters
+Without sensation relearning, your protective patterns will keep you metabolically safe but relationally starved, rejecting every connection that requires adaptation. This creates a tragic irony where the very sensitivity meant to protect you from harm actually prevents the nourishing challenges your system needs to heal and expand its relational capacity.
+
+⚙️ How It Works
+Depletion creates a progressive metabolic drain—you feel increasingly exhausted, your digestion weakens, sleep becomes restless, and recovery takes longer with each encounter. **Healthy growth discomfort** feels different: initially activating but followed by energetic expansion, improved sleep quality, and faster recovery times that build resilience. The key distinction is the **trajectory pattern**—depletion spirals downward over time while growth oscillates between challenge and restoration, gradually raising your baseline capacity. Someone rebuilding relational capacity might notice that a two-hour dinner with a challenging but genuine friend leaves them tired but somehow more alive, with better sleep and improved appetite the next day, while a superficially pleasant encounter with an energy vampire leaves them wired yet depleted, craving sugar, and feeling foggy for days. The **relearning process** requires staying present through the full cycle of challenge and recovery rather than ejecting at the first sensation of discomfort, allowing your nervous system to metabolically experience what healthy stretching actually feels like when given time to complete.
+
+🎯 Science Wisdom
+Your body knows the difference between poison and medicine not by the initial sensation but by the metabolic story that unfolds afterward—and relearning to read this story requires the patience to stay through the full narrative arc.
+
+❓ Tomorrow's Question — *If your nervous system can relearn healthy sensation vocabulary through these complete challenge-recovery cycles, what happens when modern life fragments these natural arcs by interrupting recovery before completion—and why might your body's inability to finish what it starts be creating a backlog of incomplete metabolic stories that corrupt your entire relational sensing system?*`,
+    parable: `Lila found Maren stirring a pot over the eastern hearth, the one that burned hottest and required the most tending.
+
+"I've been avoiding people," Lila confessed. "After the last village gathering, I felt so drained that I couldn't work for three days. Now even thinking about connection makes my stomach tight."
+
+Maren nodded, not looking up from her stirring. "Come closer to this fire."
+
+Lila approached cautiously. The heat was immediate and intense.
+
+"Too much?" Maren asked.
+
+"Yes—no. I don't know. It's uncomfortable but... different than I expected."
+
+"Different how?"
+
+Lila stood with the sensation, watching how it changed. "At first I wanted to step back. But if I stay... my skin adjusts. I can feel my blood moving faster. It's activating, but not burning."
+
+"And this?" Maren gestured to the western hearth, barely glowing with coals that gave off acrid smoke.
+
+Lila moved toward it. The heat was less intense but something in her recoiled. "This one feels wrong. It's making my eyes water. My chest is tightening."
+
+"That fire is dying," Maren said. "It cannot give warmth, only the memory of warmth mixed with the poison of incomplete burning. Your body knows the difference—but you must stand long enough with each to feel the full story."
+
+She set down her spoon. "After years near dying fires, you learned to fear all heat. Your skin remembers the sting of smoke and cannot yet distinguish it from the stretch of true warmth. So you step back from both, and grow cold."
+
+"How do I relearn?"
+
+"By staying. Not with the dying fires—those truly will harm you. But with fires like this one." She touched the eastern hearth's stones. "Stand close enough to feel uncomfortable. Wait. Notice what happens after the first shock. Does your body open or contract further? Does your breath deepen or shallow? Does the sensation crescendo and release, or does it accumulate without resolution?"
+
+Lila practiced, moving between the hearths, learning to read the metabolic difference between activation and assault.
+
+"The dying fire feels bad and gets worse," she finally said. "The living fire feels challenging but... my body starts to dance with it. I feel more alive, not less."
+
+"Yes," Maren said. "And this knowing only comes through the full experience—not from the first moment of contact, but from staying present through the entire arc of sensation. Your nervous system must relearn its vocabulary, one complete story at a time."
+
+**Moral:** *The body cannot relearn the language of healthy challenge from words or theory, only through staying present with complete sensations that reveal their true nature through time.*
+
+**Tomorrow:** *Lila will discover what happens when she's pulled away from the fire before her body finishes its adaptation—and why these interrupted cycles create a confusion that corrupts all future sensing.*`,
+  },
 ];

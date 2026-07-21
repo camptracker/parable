@@ -7734,4 +7734,86 @@ Hallam looked at the scrolls again, and this time Dara saw something shift in hi
 
 **Tomorrow:** But what happens when the person who demonstrates the greatest stewardship capacity is also someone whose values repel you? When consciousness recognizes readiness in a soul your heart rejects, which knowing do you trust?`,
   },
+  {
+    day: 119,
+    title: "The Discomfort Intelligence — When Resistance Reveals Hidden Wisdom",
+    date: "2026-07-21",
+    image: "images/real-estate/day-119.jpg",
+    audio: "audio/real-estate/day-119",
+    sonnet: `**🪶 Sonnet CXIX: The Discomfort Intelligence**
+
+When capable hands trigger ancient fear,
+And competence arrives in forms you hate,
+Does wisdom override what feels unclear,
+Or trust the body's warnings at the gate?
+
+The answer lives in neither pole alone—
+Not blind trust nor reflexive self-defense,
+But discernment's art, precisely honed,
+To separate true warning from pretense.
+
+For some discomfort calls you toward your edge,
+Where prejudice meets growth it can't contain,
+While other friction speaks to sacred pledge—
+Boundaries that honor truth's domain.
+
+*The master reads resistance like a book,*
+*Where growth and danger wear a different look.*`,
+    standard: `🏠 Day 119: The Discomfort Intelligence — When Resistance Reveals Hidden Wisdom
+
+The wisdom lies neither in overriding resistance nor blindly following it, but in recognizing that personality rejection often contains intelligence your consciousness hasn't yet integrated. When someone triggers visceral discomfort despite possessing obvious capability, this friction frequently reveals either unexamined bias in you that limits your stewardship range, or legitimate incompatibility that no amount of spiritual bypassing will resolve—and distinguishing between these requires brutal self-honesty about whether your resistance protects genuine boundaries or merely defends comfortable prejudices.
+
+**🧱 The Concept**
+Discomfort intelligence recognizes that the people who trigger your strongest negative reactions often carry either your most important growth edges or your most essential boundary clarity—and wisdom lies in discerning which.
+
+**❓ Why It Matters**
+Most investors mistake all discomfort for incompatibility, eliminating partnerships that would catalyze breakthrough growth. Others spiritually bypass all resistance as "ego," forcing collaborations that violate genuine boundaries and create disasters. The sophisticated steward learns to read resistance as data rather than directive—sometimes it signals unexamined prejudice that limits your impact, sometimes it reveals legitimate incompatibility that no amount of consciousness can bridge.
+
+**⚙️ How It Works**
+When someone capable triggers strong resistance, you examine three layers systematically: First, does this person remind you of someone from your past, activating old trauma rather than present-moment assessment? Second, does their approach violate your core operating principles in ways that would require you to compromise integrity, or merely challenge your stylistic preferences? Third, if you remove all personality factors and examine only their relationship with resources, properties, and people over time, do patterns of care or carelessness emerge? A property manager whose lifestyle you find distasteful but whose tenants stay for decades and whose buildings age gracefully reveals your prejudice. One whose charm masks consistent patterns of subtle neglect reveals your intuition protecting you from disaster disguised as capability. The key is distinguishing between discomfort that calls you to expand and discomfort that warns you away—the former feels like friction against limitation, the latter feels like misalignment with truth itself.
+
+**🎯 Real Estate Wisdom**
+The investors who build the most diverse and resilient partnerships aren't those who eliminate all resistance or those who trust everyone equally—they're those who've learned to distinguish between the discomfort of growth and the discomfort of danger, treating their resistance as intelligence to decode rather than feelings to obey or override.
+
+**❓ Tomorrow's Question** — If resistance can be decoded to reveal either growth opportunities or legitimate warnings, what happens when you become so skilled at this discernment that you can instantly distinguish between the two—but this very clarity starts attracting people who specifically need the growth you can catalyze, turning your stewardship practice into an unofficial transformation service? When your portfolio becomes a healing environment not by design but by energetic consequence, does this represent mission drift from real estate investing, or does it reveal what conscious stewardship was always becoming beneath the surface?`,
+    parable: `Dara stood in Hallam's courtyard, studying the woman before her with barely concealed discomfort. Mira dressed in colors too bright, spoke too loudly, and wore her wealth with the subtle arrogance of someone who'd never known genuine deprivation. Everything about her personality set Dara's teeth on edge.
+
+"I know you don't like me," Mira said bluntly. "Most people don't. I'm too much for them—too direct, too ambitious, too unwilling to pretend humility I don't feel."
+
+Dara felt her face flush at being so transparent.
+
+"But you're considering giving me stewardship of the mill properties," Mira continued. "Because somehow you know I'd care for them properly, even though every fiber of your being wishes I'd just go away."
+
+Hallam emerged from the shadows where he'd been listening. "Tell me, carpenter's daughter—what does your discomfort actually say? That she's incapable, or that she's different from you?"
+
+Dara wanted to defend herself, but honesty wouldn't allow it. "She's... capable," she admitted. "I've watched her buildings. Tenants thrive there. Even the difficult ones somehow settle under her management."
+
+"And yet?" Hallam prompted.
+
+"And yet I don't want to work with her," Dara said quietly. "She reminds me of—" She stopped, realization dawning. "She reminds me of my father's second wife. The one who took his attention after my mother died. Who was loud and confident where my mother had been quiet and gentle."
+
+Mira's expression softened slightly. "Ah. So I'm not actually the problem. I'm just wearing the face of an old wound."
+
+"Perhaps," Dara said. "Or perhaps there's genuine incompatibility between us that has nothing to do with my past."
+
+"There's a test," Hallam said. "Watch not what she says or how she dresses, but what she does when no one's watching. I've placed Mira in charge of properties where tenants have no advocate, where she could cut corners with no consequence. Want to know what happened?"
+
+"She treated them better than the wealthy ones," Dara guessed, feeling something in her chest crack open.
+
+"Worse," Hallam said with a slight smile. "She treated them exactly the same. No favor, no exploitation. Just steady, reliable care regardless of who could reward or punish her for it."
+
+Dara looked at Mira with new eyes. "I still don't think we'd be friends."
+
+"Probably not," Mira agreed cheerfully. "But friendship and stewardship are different things. You don't have to like me. You just have to trust that I love buildings and people enough to serve them properly."
+
+"Which is precisely the wisdom," Hallam said. "Your discomfort with Mira revealed unhealed grief about your father's choices—valuable information for your own development. But it didn't reveal anything about her stewardship capacity. Sometimes resistance is growth calling. Sometimes it's danger warning. The art is knowing which."
+
+Over the following months, Dara worked with Mira despite their personality clash. It remained uncomfortable—Mira's directness still grated, her confidence still felt like arrogance. But the properties flourished. And slowly, Dara began to notice something curious: other young investors who'd intimidated her before no longer triggered the same resistance. The discomfort with Mira had been growth calling after all, expanding Dara's capacity to work with people radically different from herself.
+
+But there were others—smooth-talking merchants who triggered different resistance, men whose charm felt hollow—and Dara learned to trust that warning too. Not all discomfort signals prejudice. Some signals danger.
+
+**Moral:** The wise steward treats resistance as intelligence to decode rather than feelings to obey or override—sometimes it reveals your limitations, sometimes it reveals theirs, and wisdom lies in distinguishing between the friction that calls you to expand and the friction that warns you away.
+
+**Tomorrow:** The courtyard fills with seekers drawn not to Dara's properties, but to something she radiates without intending—and she must face whether her portfolio has accidentally become something far stranger than an investment vehicle.`,
+  },
 ];

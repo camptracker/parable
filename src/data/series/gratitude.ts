@@ -3900,4 +3900,68 @@ Elder Thorn bowed slightly. "You're welcome. Though you're really thanking yours
 
 **Tomorrow**: The scaffolding comes down, and Hana must discover what it means to walk without the structure that brought her home to herself.`,
   },
+  {
+    day: 61,
+    title: "The Gratitude Threshold",
+    date: "2026-07-21",
+    image: "images/gratitude/day-61.jpg",
+    audio: "audio/gratitude/day-61",
+    sonnet: `**🪶 Sonnet LXI: The Gratitude Threshold**
+
+There comes a border crossed but once in life,
+Where gratitude no longer asks for thought,
+Where ingratitude becomes the sharper knife
+Than any wound that lack of blessing brought.
+
+Before this line, complaint feels natural still,
+Appreciation something you rehearse;
+Beyond it, discontent's a foreign chill,
+And grace the language of your universe.
+
+You'll know you've passed when bitter thoughts arise
+But taste like exile from your native land,
+When beauty ambushes your weary eyes
+Not hunted for but simply close at hand.
+
+*The threshold crossed makes home of grateful ground—*
+*All other countries foreign once it's found.*`,
+    standard: `🙏 Day 61: The Gratitude Threshold
+
+**🧱 The Concept**
+There exists a critical threshold where accumulated gratitude practice transforms from a deliberate habit into an automatic lens through which you perceive reality itself—a point of no return where ingratitude becomes more uncomfortable than appreciation.
+
+**❓ Why It Matters**
+Most people abandon gratitude practice before reaching this threshold, treating appreciation as a temporary tool rather than a permanent transformation. Understanding that this threshold exists—and that crossing it fundamentally alters your default perception—changes gratitude from an endless discipline into a one-time passage. Once you cross this threshold, returning to chronic dissatisfaction becomes nearly impossible because your nervous system has rewired itself around appreciation as baseline reality.
+
+**⚙️ How It Works**
+The gratitude threshold operates like reaching critical mass in a chemical reaction. Before the threshold, you must consciously remind yourself to be grateful, and forgetting feels natural. After crossing it, you must consciously choose ingratitude, and complaining feels like wearing uncomfortable clothing. Neuroscience reveals this happens when gratitude pathways become your brain's default network—the neural highways you automatically travel when not actively thinking. A person who has crossed the threshold might experience profound irritation at a delayed flight, but within minutes find themselves noticing the sunset through the terminal window, not because they're trying to be grateful but because their attention naturally gravitates toward appreciation. The threshold manifests as an irreversible shift in what captures your attention: before, you had to hunt for things to appreciate; after, you have to deliberately ignore beauty and blessing because they're constantly visible.
+
+**🎯 Gratitude Wisdom**
+The gratitude threshold isn't about never feeling negative emotions—it's about those emotions no longer defining your baseline reality. You've crossed it when ingratitude feels like visiting a foreign country you once called home.
+
+**❓ Tomorrow's Question** — If crossing the gratitude threshold makes chronic dissatisfaction feel foreign and uncomfortable, why might people unconsciously resist approaching this point of transformation even when they claim to want more appreciation in their lives, and what does this resistance reveal about the identity-level grief involved in permanently leaving your former emotional homeland?`,
+    parable: `Hana sat at the monastery gate, her practice journal spread before her like a map to nowhere. Sixty days of gratitude entries, and still she woke some mornings feeling the old familiar weight of want. "I thought by now it would be effortless," she confessed to Elder Thorn, who was tending the threshold garden—the narrow strip where wild forest met cultivated ground.
+
+"Come," the Elder said, gesturing to the boundary line. "Do you see how the forest plants lean toward the garden light? And how the garden plants send roots toward the wild soil? There is a place between, Hana, where neither wilderness nor cultivation can claim dominion."
+
+He knelt at the precise border, running his weathered hand along the earth. "For years after I began my practice, I lived in this between-place. Some days I stood in gratitude's garden, surrounded by appreciation's blooms. Other days I wandered back into the forest of resentment, those paths so familiar my feet knew them in darkness. I could cross the threshold in either direction with equal ease."
+
+"And then?" Hana asked, watching a vine that seemed unable to decide which territory to claim.
+
+"Then one morning I woke and discovered the threshold had moved. Or rather, I had moved beyond it." The Elder stood, brushing soil from his hands. "The forest of ingratitude was still there—I could see it, visit it if I chose. But it had become foreign country. Walking those paths of complaint and comparison felt like wearing another person's shoes, uncomfortable and strange. My feet had learned a different way of walking."
+
+Hana looked down at her own feet, planted in the garden. "How do you know when you've crossed?"
+
+"You don't look for evidence in the absence of negative feelings," Elder Thorn replied. "You recognize it in their texture when they come. Before the threshold, dissatisfaction feels like home. After, it feels like exile from your true self." He pointed to a bird that landed briefly in the forest before flying back to nest in the garden. "Watch. See how it knows where it belongs? Not because the forest is terrible, but because the garden has become its nature."
+
+The Elder walked along the threshold line, his steps sure and easy. "Some travelers approach this border a hundred times, always turning back just before crossing. They fear that entering gratitude's country means abandoning something essential—their right to complain, their permission to suffer, their familiar self. They don't realize that crossing the threshold doesn't mean you can never visit the other side. It means you've finally discovered which side is home."
+
+Hana felt something shift in her chest—a recognition that the work wasn't about eliminating the threshold but about consciously choosing which side to make her dwelling place. "And if I cross, Elder Thorn? What if I find myself back in the forest one morning?"
+
+"You will," the old teacher said gently. "But you'll know immediately that you've wandered. Before the threshold, ingratitude is the water you swim in, invisible as air. After crossing, it's mud you notice on your boots the moment you step in it. That awareness itself pulls you home."
+
+**Moral:** The gratitude threshold marks the point where appreciation transforms from a place you visit into the place you live—not because you never leave, but because everywhere else feels like being away from home.
+
+**Tomorrow:** Elder Thorn will reveal why some seekers sabotage themselves just before crossing the threshold, and what this resistance teaches about the self we must grieve to become the self we're meant to be.`,
+  },
 ];
