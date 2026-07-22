@@ -7414,4 +7414,75 @@ Ash looked at Lume through the maze of their own construction. How long had it b
 
 **Tomorrow:** Elder Rynn will reveal the difference between intimacy you can schedule and intimacy you can only surrender to—and why the kind of connection that requires booking an appointment might not be connection at all, but rather a carefully staged performance of it.`,
   },
+  {
+    day: 115,
+    title: "The Collapse of Curation — When Love Demands Your Unedited Self",
+    date: "2026-07-22",
+    image: "images/building-relationships/day-115.jpg",
+    audio: "audio/building-relationships/day-115",
+    sonnet: `**🪶 Sonnet CXV: The Collapse of Curation**
+
+Behind the curtain of my careful face,
+A wilder self breathes shallow, hoping still
+That someday I'll allow it into place
+Where love might find it, know it, hold it, fill
+The hollow that my polished mask has made.
+Yet every morning I arrange my features,
+Rehearse my lines, perform the same charade,
+Become again one of the practiced creatures
+Who trade their souls for safety's thin applause.
+Meanwhile the one I love learns every lie,
+Believing they're the truth because
+I smile and nod and never show them why
+*I wake at night and weep for the unknown—*
+*The self I've starved to keep this careful throne.*`,
+    standard: `💕 Day 115: The Collapse of Curation — When Love Demands Your Unedited Self
+
+You would need to admit that you've been starving while sitting at a banquet, mistaking the menu for the meal. The relationship you're maintaining is a carefully managed performance designed to guarantee approval, while the connection you're starving for requires you to risk disapproval by showing up as the messy, unfinished, sometimes difficult human you actually are. What you'd have to confess is that you've been choosing the safety of being accepted for a false self over the terror and ecstasy of being loved for your true one.
+
+🧱 **The Concept**
+Your relationship has been operating like a content creation platform where you continuously curate, edit, and optimize your presentation of self before allowing your partner to experience you—but this curation process is the very thing preventing actual intimacy from occurring.
+
+❓ **Why It Matters**
+Every moment you spend making yourself "ready" for your partner's love is a moment you're not actually receiving it. The version of you that your partner loves might be impressive, but if it's not authentic, you'll spend your entire relationship feeling lonely even when you're together—because the real you remains unseen, unknown, and therefore unloved.
+
+⚙️ **How It Works**
+You wake up irritated and snappish, but you don't let your partner see you until you've "handled" your mood and can present a pleasant version of yourself—so they never learn to love you through your difficult mornings. You feel insecure about a decision you made, but you hide your uncertainty and project confidence instead—so your partner never gets to practice loving you in your doubt. You have a need that feels too vulnerable to voice, so you manufacture a substitute need that seems more reasonable—so your partner learns to satisfy requests you don't actually care about while your real hunger goes unfed. You experience attraction, grief, jealousy, or longing, but you process it privately until it's "appropriate" to share—so your partner only ever meets the aftermath of your emotions, never the raw experience of them. Over time, they fall in love with your greatest hits album while your unreleased tracks—the B-sides, the demos, the unpolished recordings of your actual inner life—remain unheard, and you wonder why you feel so alone in a relationship where you're supposedly known.
+
+🎯 **Relationship Wisdom**
+The person you're protecting your partner from—your unedited, uncurated, emotionally unpredictable self—is the only person they can actually love in a way that will satisfy your soul. Everything else is just a successful audition for a role you'll have to perform forever.
+
+❓ **Tomorrow's Question** — If you discovered that your partner has been experiencing a "curated version" of you for so long that they've fallen in love with your highlight reel rather than your full footage, and you suddenly stopped editing yourself, what would terrify you more: that they might leave when they meet the real you, or that they might stay and you'd have to admit you've been hiding for no reason except fear?`,
+    parable: `Ash and Lume had been walking the road together for many seasons when they came upon a peculiar sight: a traveler who stood perfectly still at the roadside, surrounded by an elaborate arrangement of mirrors, each one reflecting a slightly different version of themselves.
+
+"Are you coming?" Lume called to the figure.
+
+"I will join you shortly," the traveler replied, adjusting one of the mirrors with infinite care. "I'm just making sure everything is in order before I continue."
+
+Ash and Lume waited. An hour passed. Then two. The traveler continued their preparations—smoothing their cloak, practicing their smile in the glass, rehearsing conversational phrases under their breath.
+
+Finally, Elder Rynn appeared on the path, moving with the unhurried certainty of someone who had long ago stopped performing for anyone's approval.
+
+"Why do you arrange yourself so carefully?" Rynn asked the traveler.
+
+"So that others will find me acceptable," came the reply.
+
+"And how long have you been preparing?"
+
+The traveler paused, something flickering across their face. "Three years now, I think. Or perhaps... longer. I've lost count."
+
+Rynn turned to the mirrors and, with a single sweep of their staff, shattered every one. The traveler gasped, suddenly exposed—hair disheveled, cloak dusty, face bearing the authentic weariness of the road.
+
+"You were never meant to be acceptable," Rynn said gently. "You were meant to be actual."
+
+Ash stepped forward then, and without hesitation embraced the traveler in their unpolished state. "I could never love a mirror," Ash said. "But I could love you."
+
+Lume nodded. "We've been waiting not for your best self, but for your real one. That's the only version that can actually walk beside us."
+
+The traveler stood trembling among the broken glass, tears cutting clean tracks through the dust on their face—the most beautiful thing they had allowed themselves to be in years.
+
+**The Moral**: What you curate, you can never truly share. Only what you risk revealing can ever be genuinely received.
+
+**Tomorrow**: Ash and Lume discover that one of them has been keeping a secret ledger, and what it reveals will change everything they thought they knew about who's been more honest in their companionship.`,
+  },
 ];

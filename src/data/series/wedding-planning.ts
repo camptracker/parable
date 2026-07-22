@@ -7572,4 +7572,68 @@ The old woman smiled, touching the simple band on her finger. "Every day for for
 
 **Tomorrow:** Dove must decide whether to include a family tradition that carries generations of meaning but feels hollow to her heart—and discovers that honoring your lineage sometimes means having the courage to transform it.`,
   },
+  {
+    day: 116,
+    title: "The Sacred Lineage",
+    date: "2026-07-22",
+    image: "images/wedding-planning/day-116.jpg",
+    audio: "audio/wedding-planning/day-116",
+    sonnet: `**🪶 Sonnet CXVI: The Sacred Lineage**
+
+What patterns did I drink with mother's milk?
+What scripts did father's silence write on bone?
+The ways I love are woven, thread by silk,
+From every touch withheld, each word postponed.
+
+I reach for you but find my shoulder tense,
+As though affection were a dangerous art,
+My body speaking in my mother's tense—
+Keep dignified, keep proper, keep apart.
+
+But you are warm where I was taught the cold,
+Your hands remember what mine learned to fear,
+And I must choose which story will be told:
+The one I inherited, or ours, here.
+
+*Love asks not just my heart but all my line—*
+*To break what's broken, keep what's wholly mine.*`,
+    standard: `💍 Day 116: The Sacred Lineage
+
+🧱 **The Concept**
+Your marriage doesn't begin with you—it inherits emotional patterns, conflict styles, and intimacy blueprints from generations of relationships that came before, whether you consciously acknowledge them or not.
+
+❓ **Why It Matters**
+Most couples enter marriage believing love and good intentions will be enough, only to discover they're unconsciously recreating the exact relationship dynamics they witnessed growing up—both the beautiful patterns and the destructive ones. Without deliberate excavation and examination, you'll default to what feels familiar rather than what's actually healthy, mistaking repetition for destiny.
+
+⚙️ **How It Works**
+Every time you withdraw during conflict instead of engaging, you're potentially repeating a pattern you learned from watching one parent shut down. Every time you expect your partner to intuit your needs without speaking them, you might be recreating the silent suffering you witnessed in your caregivers' relationship. Every time you prioritize keeping peace over speaking truth, you're possibly inheriting an avoidance strategy that protected someone in your family line but will slowly suffocate your own intimacy. The work isn't to blame previous generations—it's to recognize which inherited patterns serve your marriage and which ones need to be consciously interrupted and rewritten. This means asking yourself during key moments: "Am I responding to my actual partner and our actual situation, or am I responding to ghosts from relationships I witnessed but never chose?"
+
+🎯 **Wedding Wisdom**
+Your wedding vows don't just bind you to your partner—they're also a declaration of which generational patterns you'll carry forward with gratitude and which ones you'll lay down with love, choosing to author a new chapter rather than simply turning the next page of an inherited story.
+
+❓ **Tomorrow's Question** — If you discovered that the way your parents or caregivers handled emotional intimacy (whether through vulnerable sharing or protective distance) has become your default setting in your own relationship, and this setting will determine whether your partner feels truly known by you or perpetually lonely beside you, what would you need to unlearn about when it's safe to be emotionally naked, and what does that reveal about the difference between inherited self-protection and chosen intimacy?`,
+    parable: `Dove sat in Nana Rose's garden studio, her engagement photos spread across the table like tarot cards revealing an uncomfortable fortune. In every picture, she noticed it: whenever Elm reached for her hand, her shoulder tensed almost imperceptibly. Whenever he leaned in close, she smiled but her body leaned slightly away.
+
+"I don't understand," Dove whispered. "I love him. Why do I keep doing this?"
+
+Nana Rose set down her teacup with the deliberate care of someone about to excavate buried truth. "Tell me about your mother and father. How did they show affection?"
+
+Dove's laugh came out brittle. "They didn't. They were... polite. Respectful. But I never saw them touch except for formal occasions. My mother used to say that dignified people don't need to be demonstrative."
+
+"And here you are," Nana Rose said softly, "marrying a man who reaches for you like breathing, while your body has learned that love and distance are synonyms."
+
+The words landed like stones in still water, ripples spreading backward through Dove's entire history. She saw suddenly how many invisible walls she'd built, how many times she'd interpreted Elm's affection as neediness rather than nourishment, how she'd been unconsciously recreating her parents' careful distance while wondering why she felt perpetually lonely.
+
+"But I don't want that marriage," Dove said, tears spilling. "I chose him because he *isn't* like my father. I chose him because he *can* be warm."
+
+"Choosing differently isn't enough," Nana Rose replied, reaching across the table to take Dove's hand—and Dove noticed, with sudden clarity, how her first instinct was still to pull away. "You have to practice differently, train your body to recognize that love can be safe, teach your nervous system that his touch is home, not invasion. You're not just planning a wedding, child. You're interrupting a lineage."
+
+Elm arrived then with lunch, and instead of her usual subtle lean away, Dove made herself stay still when he kissed her temple. It felt awkward, vulnerable, like learning a language her mouth had never shaped. But when she looked up at his face, she saw the relief there—the way he'd been starving without knowing whether to name his hunger.
+
+"Your ancestors weren't wrong," Nana Rose said quietly, watching them. "They survived with the patterns they had. But survival and thriving are different promises. You get to choose which one you make at that altar."
+
+**Moral:** *You cannot build a new marriage on inherited blueprints—you must become both archaeologist and architect, unearthing the patterns you've absorbed and consciously deciding which to carry forward and which to bury with love.*
+
+*Tomorrow, Dove must face the question of what happens when the person you're marrying carries their own inherited patterns that clash with yours—and whether love can truly bridge the gap between two different lineages, or whether it simply illuminates how deep that gap really goes.*`,
+  },
 ];

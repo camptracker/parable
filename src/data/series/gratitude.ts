@@ -3964,4 +3964,94 @@ Hana felt something shift in her chest—a recognition that the work wasn't abou
 
 **Tomorrow:** Elder Thorn will reveal why some seekers sabotage themselves just before crossing the threshold, and what this resistance teaches about the self we must grieve to become the self we're meant to be.`,
   },
+  {
+    day: 62,
+    title: "The Gratitude Homecoming",
+    date: "2026-07-22",
+    image: "images/gratitude/day-62.jpg",
+    audio: "audio/gratitude/day-62",
+    sonnet: `**🪶 Sonnet LXII: The Gratitude Homecoming**
+
+How strange to fear the very peace we seek,
+To guard the ache that's plagued us all along—
+As if our suffering made us deep, unique,
+As if complaint were proof our conscience's strong.
+
+We practice gratitude like tourists do,
+Who visit foreign lands but won't remain,
+Returning always to the pain we knew,
+The familiar, bitter comfort of our strain.
+
+But homecoming means more than temporary stay—
+It's when appreciation feels like breath,
+When wonder greets the ordinary day,
+When joy outlives our practiced fear of death.
+
+*The gate swings wide; you need not knock or roam—*
+*For gratitude was always meant as home.*`,
+    standard: `🙏 Day 62: The Gratitude Homecoming
+
+Because your former emotional homeland—no matter how painful—is familiar territory where you know the rules, recognize the landmarks, and understand your role, while the gratitude threshold promises an unfamiliar country where your old survival strategies no longer apply and you must learn to navigate by joy rather than fear. This resistance isn't weakness; it's the mind's protective instinct recognizing that crossing this threshold means grieving not just who you used to be, but also the suffering that once gave your life meaning, the complaints that once connected you to others, and the familiar ache that paradoxically felt like home.
+
+**🧱 The Concept**
+
+The gratitude homecoming is the moment when appreciation stops feeling like a foreign practice you're visiting and becomes the native land where you naturally dwell—when gratitude transforms from something you do into the ground from which everything else emerges.
+
+**❓ Why It Matters**
+
+Most people treat gratitude as a destination they're traveling toward, never realizing that the journey itself is meant to fundamentally relocate where they live emotionally. This misunderstanding keeps appreciation feeling like effort—like maintaining a vacation home you occasionally visit—rather than recognizing it as the process of discovering where you've always truly belonged. The homecoming isn't about becoming someone new; it's about returning to your natural state before disappointment and comparison taught you to feel homeless in your own life.
+
+**⚙️ How It Works**
+
+The homecoming happens not through a single breakthrough but through accumulating moments when gratitude feels more natural than complaint, when appreciation arises spontaneously rather than through deliberate practice, when you notice yourself automatically seeking what's working before cataloging what's wrong. A man recovering from illness might find himself genuinely grateful for his body's simple functions—walking, breathing, digesting—not because he's trying to practice appreciation but because chronic pain temporarily relocated him to a land where such basics felt like miracles; upon healing, he doesn't return to his old emotional homeland where these functions were invisible, but instead discovers that gratitude for the ordinary has become his new native tongue. A woman who practiced appreciation through a difficult divorce might realize years later that she no longer needs to remind herself to be grateful—that her attention naturally gravitates toward what's present and working rather than what's missing or broken, like a river that has permanently changed course and can no longer flow along its old path even if the banks remain. The homecoming reveals itself in small signals: when criticism of yourself or others starts to feel abrasive and foreign rather than normal, when you instinctively look for the gift in challenges before dwelling on the burden, when gratitude becomes the lens through which you see everything rather than a practice you periodically remember to do.
+
+**🎯 Gratitude Wisdom**
+
+The ultimate gratitude practice is discovering you no longer need to practice—that appreciation has become the country where you live, the language you speak, the eyes through which you see everything.
+
+**❓ Tomorrow's Question**
+
+If returning to your natural state of gratitude means recognizing that dissatisfaction was learned rather than inherent, why do we often defend our right to complain and worry as though surrendering these habits would mean losing something valuable rather than reclaiming something precious, and what does this protective stance reveal about the stories we've built around suffering as evidence of depth, intelligence, or moral seriousness?`,
+    parable: `Hana found Elder Thorn standing at the monastery gates at dawn, his weathered hands resting on the ancient wood as if saying farewell to an old friend.
+
+"Are you leaving?" she asked, alarmed.
+
+The elder smiled, his eyes bright with something she couldn't name. "No, child. I am arriving."
+
+Hana frowned, confused. "But you've lived here for forty years. How can you be arriving?"
+
+"For thirty-nine of those years," Thorn said quietly, "I was visiting. I practiced gratitude like a traveler learning a foreign language, always translating my natural thoughts of bitterness into forced expressions of appreciation. I lived here, yes, but my true home remained in the country of resentment—I merely took regular trips to the province of gratitude, always planning to return to my familiar pain."
+
+"And now?"
+
+"Now I have finally emigrated. Gratitude is no longer where I visit—it is where I live. Complaint has become the foreign tongue I no longer speak."
+
+Hana walked with him through the garden, where morning dew caught the light like scattered diamonds. "I don't understand the difference. You've been grateful for years. What changed?"
+
+Thorn paused beside a gnarled cherry tree, its branches still bare in late winter. "This tree," he said. "For decades, I would practice gratitude for its spring blossoms, reminding myself to appreciate their brief beauty. But always, my natural home was disappointment that they fade, fear that winter would return, complaint about branches that break. Gratitude was the practice; loss was my homeland."
+
+He touched the bark gently. "This morning, I looked at these bare branches and felt only appreciation—not as a practice, not as a discipline, but as naturally as breathing. The blossoms have fallen a thousand times, and they will return a thousand more if I live to see it or never again if I don't, and both truths fill me with the same wonder. I am not visiting gratitude anymore, Hana. I have finally come home."
+
+"But when did it happen? When did you cross over?"
+
+"I didn't notice the moment," Thorn admitted. "Perhaps there wasn't one. Perhaps home is what happens when you visit gratitude so many times that you forget to leave. Or perhaps it's simpler—perhaps we spend our whole lives searching for home in external circumstances, never realizing that home is simply the decision to be grateful for wherever we already are."
+
+Hana looked out at the mountains beyond the monastery walls, their peaks catching the first rays of sun. "I'm afraid," she confessed. "I'm afraid that if I make gratitude my home, I'll lose something important. My dissatisfaction feels like... like it proves I'm paying attention, that I care about making things better."
+
+Thorn's expression softened with recognition. "Yes," he said. "That is the fear that kept me visiting for thirty-nine years rather than staying. I believed my bitterness was wisdom, my complaints were conscience, my chronic dissatisfaction was proof of my depth and moral seriousness."
+
+"And what did you discover?"
+
+"That I was guarding an empty house, child. That I had mistaken homesickness for home itself. The day I finally allowed myself to dwell in gratitude, I discovered I hadn't lost my conscience or my wisdom or my ability to see what needs changing—I had only lost my suffering. And suffering, I learned too late, was never the treasure I thought I was protecting."
+
+The sun broke fully over the mountains, flooding the garden with light.
+
+"Welcome home, Elder," Hana whispered.
+
+"Welcome home," he replied, and she understood he was speaking not only to himself but to her—to the homecoming that awaited whenever she was ready to stop visiting gratitude and finally stay.
+
+**Moral:** The ultimate practice is the one that renders practice unnecessary—when gratitude stops being a foreign country you visit and becomes the homeland where you naturally dwell.
+
+**Tomorrow:** Hana will confront the uncomfortable truth about what we unconsciously believe suffering proves about us.`,
+  },
 ];
