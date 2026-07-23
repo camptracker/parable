@@ -8626,4 +8626,86 @@ Idris sat with this, feeling the subtle ways he'd been bracing against his own e
 
 **Tomorrow:** Idris discovers that his newfound understanding of genuine rest has become another achievement he's proud of, and The Veil shows him the difference between patience that allows emergence and passivity that avoids engagement.`,
   },
+  {
+    day: 120,
+    title: "The Discernment of Engagement",
+    date: "2026-07-23",
+    image: "images/emotional-intelligence/day-120.jpg",
+    audio: "audio/emotional-intelligence/day-120",
+    sonnet: `**🪶 Sonnet CXX: The Discernment of Engagement**
+
+The coiled spring and severed rope appear
+As stillness to the undiscerning eye,
+Yet one maintains connection, poised and clear,
+While one withdraws and lets the moment die.
+
+The body speaks in tension or in ease,
+In breath that flows or catches in the chest—
+True patience opens like a summer breeze,
+False patience locks the door and calls it rest.
+
+We name our fear acceptance, speak of space,
+When really we have simply turned away,
+And wear the mask of wisdom on our face
+To hide from what the moment asks today.
+
+*The bow that's drawn but resting, taut and true,
+Knows when to loose the arrow waiting through.*`,
+    standard: `🧭 Day 120: The Discernment of Engagement
+
+**The Distinction Between Rest and Resignation**
+
+True patience manifests as alert receptivity—a quality of relaxed readiness that responds instantly when action is genuinely needed, like a cat resting yet still attuned to movement. Passive resignation, by contrast, carries a subtle heaviness, a collapse in the body, a withdrawal from life that feels more like numbing than resting—the body knows the difference even when the mind tells convincing stories about "acceptance." The key lies not in mental analysis but in noticing whether our stillness maintains connection to life's pulse or severs it through subtle dissociation.
+
+**🧱 The Concept**
+
+Genuine emotional intelligence includes knowing when to act and when to wait, when to engage and when to withdraw—a discernment that emerges from presence rather than analysis.
+
+**❓ Why It Matters**
+
+Many spiritual teachings emphasize non-doing and acceptance, yet life continually presents situations requiring decisive action. Without the ability to distinguish between wisdom's patience and fear's paralysis, we risk using spiritual concepts to justify avoiding the very engagements that would catalyze our growth. The body's testimony—whether we feel energized or drained by our "patience"—reveals which form of stillness we're actually practicing.
+
+**⚙️ How It Works**
+
+When facing a difficult conversation, notice: does postponing it create a sense of spacious timing or does it generate subtle tension that accumulates in your shoulders and jaw? True patience feels like breathing room; avoidance feels like holding your breath. When someone asks for help, notice: does saying "yes" create a sense of aligned movement or obligated heaviness? Does saying "no" feel like honoring boundaries or abandoning connection? The body registers these distinctions before the mind constructs justifications. A mother knows the difference between giving her child space to struggle toward mastery and neglecting legitimate needs—the former maintains attentive presence while the latter withdraws attention entirely. Similarly, an artist knows when "letting the work rest" serves creative incubation versus when it's procrastination masquerading as process. The quality of our attention reveals everything: engaged patience maintains connection while passive resignation severs it.
+
+**🎯 EQ Wisdom**
+
+The wisest responses emerge when we're neither forcing action nor avoiding it—present enough to feel when life genuinely calls for movement and when it's inviting deeper rest. This discernment cannot be manufactured through analysis; it arises naturally when we're somatically grounded and honest about what our withdrawal or engagement actually serves.
+
+**❓ Tomorrow's Question**
+
+If we can learn to trust our body's testimony about whether we're genuinely resting or subtly avoiding, what happens when we realize that our entire identity as someone who "knows themselves well" might be preventing us from encountering the parts of ourselves that only reveal themselves when we drop all self-knowledge and meet life with complete not-knowing—and how do we distinguish between the wisdom of self-understanding and the limitation of thinking we know who we are?`,
+    parable: `The council chambers erupted in chaos. Representatives from three provinces shouted accusations while Idris sat frozen at the diplomatic table, his prepared mediation notes suddenly meaningless. The Veil observed from the shadows, silent as stone.
+
+For an hour, Idris maintained careful neutrality, waiting for the "right moment" to speak. His mentor had taught him patience. His spiritual readings emphasized non-action. Yet his chest felt increasingly constricted, his breath shallow. Still he waited, telling himself he was being wise.
+
+"Why do you not speak?" The Veil's question cut through the noise.
+
+"I'm practicing patience," Idris replied, his voice tight. "I'm not forcing anything."
+
+"And how does this patience feel in your body?"
+
+Idris paused. His shoulders were hunched. His jaw ached. His stomach churned with unspoken words. "Heavy," he admitted quietly.
+
+"Does a drawn bow at rest feel the same as a bow someone forgot to string?"
+
+The distinction landed like lightning. Idris stood, his voice clear and firm: "Enough. We will address each concern in turn, but we will do so with respect." The room fell silent. His body released its tension even as he engaged more fully.
+
+Later, The Veil asked: "What changed?"
+
+"I was calling my fear 'patience,'" Idris said. "Real patience would have kept me connected, ready. I had withdrawn completely."
+
+"And how did you know the difference?"
+
+"My body was screaming at me. I just finally listened."
+
+The Veil nodded. "The body knows when stillness serves life and when it serves only our comfort. One feels like a coiled spring. The other like a severed rope."
+
+That night, Idris noticed how often he confused the two—in relationships, in work, in his own development. Calling avoidance "acceptance." Naming fear "wisdom." The body never lied about which was which, but the mind constructed such elegant justifications.
+
+**Moral:** True patience maintains connection and readiness; false patience severs both while wearing wisdom's mask. The body testifies to which we're practicing.
+
+**Tomorrow:** Idris discovers that even his growing self-knowledge might become another kind of blindness—and The Veil asks whether truly knowing ourselves requires first admitting how little we actually know.`,
+  },
 ];

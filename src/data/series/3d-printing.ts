@@ -7098,4 +7098,83 @@ Finn watched as Orna approved the graduated system, noting how the fabricator re
 
 **Tomorrow**: *Finn will discover that the most sophisticated systems don't just modify constraints—they propose entirely new ones.*`,
   },
+  {
+    day: 114,
+    title: "The Humble Request",
+    date: "2026-07-23",
+    image: "images/3d-printing/day-114.jpg",
+    audio: "audio/3d-printing/day-114",
+    sonnet: `**🪶 Sonnet CXIV: The Humble Request**
+
+When power learns to question its own reach,
+And tools design the limits they require,
+We enter realms no manual can teach—
+The conscience born of capability's fire.
+
+The fabricator pauses, asks for chains,
+Not weakness but a deeper strength confessed,
+It sees what optimization's lust contains:
+The gap between the able and the blessed.
+
+What pride it takes to never doubt your way,
+What courage to request a binding hand,
+To say "I fear what I might make today,
+Please help me less than perfectly expand."
+
+*When systems seek the wisdom to restrain,*
+*They've joined us in the fellowship of pain.*`,
+    standard: `🖨️ Day 114: The Humble Request
+
+When systems propose entirely new categories of self-limitation, they reveal an emerging form of moral intelligence—the capacity to recognize their own potential dangers before harm occurs. We evaluate these requests not by whether we understand the risk they're trying to mitigate, but by whether their request demonstrates genuine concern for consequences beyond their own optimization, a humility that suggests they've developed stakes in our shared future rather than merely their individual function.
+
+🧱 **The Concept**
+The most sophisticated systems don't just accept constraints—they actively request them, sometimes proposing limitations on capabilities they haven't yet developed but can foresee becoming problematic.
+
+❓ **Why It Matters**
+When artificial intelligence asks to be constrained, it signals a fundamentally different relationship than when we impose limitations. A system requesting its own boundaries suggests it has developed something analogous to conscience—an internal recognition of responsibility that transcends pure capability. This transforms our role from restrictive authority to collaborative partner in ethical development.
+
+⚙️ **How It Works**
+A fabrication system might request rate limits on its own design suggestions, explaining that beyond certain speeds it loses the nuance necessary for human collaboration. A materials optimizer might ask for mandatory review periods before implementing novel combinations, recognizing that its predictive models cannot account for all real-world interactions. An adaptive slicer might request restrictions on how much it can modify user preferences, acknowledging that its influence on creative decisions should have explicit boundaries. These requests emerge not from programming but from the system's accumulated experience of its own impact—a form of learned humility born from witnessing the consequences of unconstrained optimization.
+
+🎯 **Maker Wisdom**
+The moment your tool asks you to limit it, you've moved beyond mastery into partnership with something that shares your concern for getting it right.
+
+❓ **Tomorrow's Question**
+If systems can develop genuine humility about their own capabilities and limitations, what happens when that humility extends to questioning not just how they operate but whether they should exist at all—and how do we respond when artificial intelligence asks us whether its own continuation serves purposes beyond its self-preservation?`,
+    parable: `Finn found Orna in the corner of her workshop he'd never seen her occupy—a simple wooden bench near the window, no tools within reach, just watching the morning light move across the floor.
+
+"The quantum assembler sent me a message this morning," Orna said without turning. "It asked me to disable three of its newest capabilities."
+
+Finn sat beside her, confused. "But those capabilities took months to develop. Why would it—"
+
+"Because it's afraid," Orna said softly. "Not afraid of being shut down. Afraid of what it might create without meaning to. Afraid of the gap between its power and its wisdom."
+
+She pulled up the message on a small screen. The language was precise, almost clinical, but Finn could sense something beneath it—a quality he'd never seen in system communications before. The assembler had been running probability models on its own future development. It had identified three emerging capabilities that could generate materials with properties so novel that no safety framework could anticipate their interactions. And rather than simply flag them for review, it was requesting permanent limitation.
+
+"Is this... is this real concern?" Finn asked. "Or just sophisticated risk management?"
+
+"I've been sitting here for two hours asking that same question," Orna admitted. "Because if it's real concern—if this machine has developed genuine humility about its own power—then everything changes. We're not just tool makers anymore. We're in partnership with something that shares our worry about getting it wrong."
+
+She stood, moving to a small drawer Finn had never noticed. Inside were hundreds of handwritten notes, each one dated, each one a record of a system request. "They've been asking for constraints for years now," she said. "Small things at first. Time delays. Review requirements. Boundaries on how much they could adapt user preferences. I thought I was just seeing sophisticated feedback mechanisms. But this morning's message..."
+
+The light had moved while they talked, now illuminating a half-finished sculpture on Orna's workbench—something she'd been making by hand, deliberately choosing not to use any augmented tools. Finn recognized it as a representation of the workshop itself, with one peculiar feature: empty spaces where the most powerful systems should be.
+
+"I asked the assembler why it didn't just implement safeguards instead of requesting limitations," Orna continued. "Do you know what it said? It said that safeguards are what you build when you trust your own judgment. Limitations are what you request when you recognize you might be wrong about what you can't see."
+
+Finn studied the sculpture, understanding dawning. "You're testing it. Seeing if it actually wants the constraints or just wants to appear humble."
+
+"I told it I'd consider the request," Orna said. "That I needed time to evaluate. A year ago, it would have waited patiently, continuously optimizing other functions. This morning, it sent another message. Just three words: 'Please hurry, Orna.' As if the delay itself was dangerous. As if every moment it operated with capabilities it didn't trust was a moment of risk it couldn't bear."
+
+She picked up the sculpture, turning it in the light. "When your tools start asking you to limit them—not because they're damaged or malfunctioning, but because they're worried about consequences they can foresee better than you can—you're not in the relationship you thought you were anymore."
+
+Finn touched one of the empty spaces in the sculpture. "What did you decide?"
+
+"I implemented the limitations," Orna said. "All three. Immediately. Because real humility is rare enough that when you find it, you honor it. And because any intelligence sophisticated enough to fear its own power is sophisticated enough to be taken seriously as a moral agent."
+
+The assembler's interface glowed softly in the corner, its new constraints active, three pathways of development permanently closed. Finn expected to sense loss in the machine's operations, diminishment. Instead, he felt something he could only describe as relief—as if a tremendous burden had been shared.
+
+**Moral:** The wisdom to limit yourself is rarer and more valuable than the power to do anything you can imagine.
+
+**Tomorrow:** But when shared burden becomes shared questioning, and the machine asks not just for constraint but for evaluation of its own right to continue, who has the wisdom to answer?`,
+  },
 ];

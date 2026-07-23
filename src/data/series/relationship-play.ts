@@ -4222,4 +4222,91 @@ Elder Joy nodded warmly. "The most secure relationships aren't those where partn
 
 **Tomorrow:** But if clean hearing creates safety and intimacy, why is it so difficult to maintain this practice during moments of stress or depletion, when we most need it?`,
   },
+  {
+    day: 60,
+    title: "The Completion Canvas",
+    date: "2026-07-23",
+    image: "images/relationship-play/day-60.jpg",
+    audio: "audio/relationship-play/day-60",
+    sonnet: `**🪶 Sonnet LX: The Completion Canvas**
+
+The final page does not complete the tome,
+But opens doors to chapters yet unread;
+These sixty days have not brought lovers home,
+But shown the path where mindful feet may tread.
+
+The garden never says its work is done,
+Each season asks for different hands and care;
+The learning of a lifetime has begun
+When we embrace the practice everywhere.
+
+No graduation ends love's curriculum,
+No mastery exhausts its depth and height;
+Each answer births a new delirium
+Of questions asked in wonder and delight.
+
+*The couples thriving after fifty years*
+*Are still beginners, still all eyes and ears.*`,
+    standard: `🎮 Day 60: The Completion Canvas
+
+**🧱 The Concept**
+The end of a series is not a conclusion but a new beginning—an invitation to see everything we've learned as materials for an ongoing creative practice rather than a curriculum to be completed and forgotten.
+
+**❓ Why It Matters**
+Couples who treat relationship wisdom as a living practice rather than finished knowledge continuously evolve and deepen their connection. Those who view learning as something to be completed often return to old patterns precisely when they most need their accumulated insights. The completion of one learning cycle becomes the foundation for the next level of conscious partnership.
+
+**⚙️ How It Works**
+Rather than treating these 60 days as a program to finish, view them as a palette of practices to return to repeatedly. When you notice disconnection, ask: "Which lesson addresses this exact moment?" When intimacy deepens unexpectedly, notice: "Which principle just activated naturally?" Create a personal practice of reviewing one lesson weekly, not as remedial work but as artistic refinement—the way a musician returns to scales or a painter revisits color theory. The couple who sees Day 60 as graduation will slowly forget; the couple who sees it as commencement will continuously create new levels of connection. Your relationship is not a problem to be solved but a masterpiece to be endlessly refined.
+
+**🎯 Playful Connection Wisdom**
+The most playful couples don't celebrate finally learning how to love—they celebrate discovering that love is something you never stop learning, and that the learning itself is part of the play.
+
+**❓ Tomorrow's Question**
+If completing this 60-day journey has given us a comprehensive map of playful connection, why might the greatest danger now be believing we've arrived at a destination rather than simply gained better tools for navigating the endless, ever-changing territory of love?`,
+    parable: `Quinn and River sat in Elder Joy's garden on their final visit, watching the sunset paint the sky in shades of amber and rose. Between them lay a worn notebook filled with sixty days of insights, practices, and discoveries.
+
+"So we've completed the journey," Quinn said, a note of satisfaction in their voice.
+
+Elder Joy's eyes twinkled with familiar mischief. "Completed? My dear ones, you've simply finished the introduction."
+
+River laughed. "That was an awfully long introduction."
+
+"Was it?" Elder Joy gestured to the garden around them. "How long does it take to learn gardening? One season? Ten years? A lifetime?" She plucked a ripe tomato from a nearby vine. "I've been growing tomatoes for fifty years. Each summer, I learn something new. Each harvest surprises me. Would you say I've completed my education in tomatoes?"
+
+Quinn flipped through their notebook. "But we've covered everything—play, vulnerability, conflict, seasons, accountability..."
+
+"You've been introduced to the concepts," Elder Joy agreed. "You've tasted each dish at the feast. But living these principles? That's the work of a lifetime. That's where it gets interesting."
+
+She leaned forward, her voice warm with affection. "The couples who struggle most after learning these lessons are the ones who treat them like a destination reached. They celebrate their arrival, put away their map, and wonder why they get lost again. The couples who thrive? They see today as a commencement—they've earned their tools, now the real adventure begins."
+
+River looked at Quinn. "Remember the Emergency Protocol lesson? I forgot to use it during our argument last Tuesday."
+
+"And the Generosity Spiral," Quinn added. "I know that one by heart, but last week I fell right back into scorekeeping."
+
+"Exactly!" Elder Joy clapped her hands. "This is not failure—this is the practice revealing itself. You don't learn to paint by reading about painting. You learn by returning to the canvas again and again, each time seeing something you missed before, each time your hand discovering what your mind already knew."
+
+She stood and walked to a shelf, returning with a blank journal. "Your filled notebook is beautiful. It shows you've been attentive students. This empty one? This is where you become artists. Every week, choose one lesson to practice deliberately. Not because you've forgotten it, but because you're ready to understand it more deeply. Not because your relationship is broken, but because it's alive and deserves your conscious attention."
+
+Quinn took the journal, running fingers over its smooth cover. "So we'll never graduate?"
+
+"Oh, you'll graduate many times," Elder Joy smiled. "Each graduation will reveal a new curriculum. Each mastery will expose a deeper layer of mystery. That's what makes love endlessly playful—it refuses to be solved. It insists on being continuously created."
+
+River leaned against Quinn's shoulder. "I think I prefer that. I wasn't ready to be done anyway."
+
+"Nobody ever is," Elder Joy said softly. "The couples celebrating fifty years together? They're still students. Still discovering. Still surprised. The moment you think you've learned everything about love is the moment you've stopped paying attention."
+
+As they prepared to leave, Elder Joy walked them to the garden gate. "You came here sixty days ago hoping to learn how to maintain your spark. Do you understand now what you've actually learned?"
+
+Quinn and River looked at each other, then back at their teacher.
+
+"We've learned that the spark isn't something to maintain," River said slowly. "It's something to tend. Like a garden."
+
+"And tending never ends," Quinn added. "The work is the relationship. The practice is the intimacy."
+
+Elder Joy's face glowed with pleasure. "Now you're ready to begin."
+
+**Moral:** The completion of learning marks the commencement of practice. The couples who thrive are not those who finally learn how to love, but those who embrace love as an endless curriculum where each lesson learned reveals deeper questions and each answer opens new territories of discovery.
+
+**Tomorrow's Teaser:** But if these sixty days have given us a comprehensive foundation for playful connection, what hidden danger might lurk in believing we've now acquired all the tools we need, and how might our very confidence in our knowledge become the subtle obstacle that prevents us from experiencing the beginner's mind that makes wonder possible?`,
+  },
 ];

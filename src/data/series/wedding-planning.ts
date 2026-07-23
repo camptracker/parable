@@ -7636,4 +7636,96 @@ Elm arrived then with lunch, and instead of her usual subtle lean away, Dove mad
 
 *Tomorrow, Dove must face the question of what happens when the person you're marrying carries their own inherited patterns that clash with yours—and whether love can truly bridge the gap between two different lineages, or whether it simply illuminates how deep that gap really goes.*`,
   },
+  {
+    day: 117,
+    title: "The Sacred Unlearning",
+    date: "2026-07-23",
+    image: "images/wedding-planning/day-117.jpg",
+    audio: "audio/wedding-planning/day-117",
+    sonnet: `**🪶 Sonnet CXVII: The Sacred Unlearning**
+
+They taught me walls were wisdom, distance strength,
+That love should never ask too much of hearts,
+I learned to measure care by careful length—
+How wide the space between two touching parts.
+
+But you reach out in kitchens, unafraid,
+Your hand finds mine like breathing finds the air,
+And I, who learned affection must be weighed,
+Must now unlearn the calculus of care.
+
+Each touch undoes some ancient family law,
+Each moment held rewrites what I was taught,
+To choose this warmth despite the fear I saw
+In photographs of love my parents bought.
+
+*Three generations stepped the same retreat—*
+*I'll break the chain by learning not to flee.*`,
+    standard: `💍 Day 117: The Sacred Unlearning
+
+To unlearn inherited emotional distance, you must first recognize that the walls your parents built to protect themselves in their particular relationship may be unnecessary barriers in yours—what kept them safe might be what keeps you lonely. The difference between inherited self-protection and chosen intimacy is the difference between reacting from old wounds that aren't yours and responding from present love that is. True emotional nakedness begins when you consciously choose vulnerability not because it's familiar, but because it's what this specific love requires.
+
+🧱 **The Concept**
+
+Marriage asks you to unlearn the relationship patterns you absorbed before you were old enough to question them, distinguishing between wisdom worth keeping and dysfunction worth releasing.
+
+❓ **Why It Matters**
+
+You cannot build a new kind of marriage using only the blueprints you inherited. Every couple unconsciously replicates their families' emotional patterns until they consciously choose different ones. Your wedding marks not just a new relationship, but potentially a new lineage—one that begins with your willingness to examine what you've been taught about love and courageously discard what no longer serves.
+
+⚙️ **How It Works**
+
+Identify three specific relationship patterns from your family of origin: perhaps conflict avoidance that kept the peace but prevented intimacy, emotional stoicism that demonstrated strength but withheld tenderness, or financial anxiety that ensured security but strangled joy. For each pattern, ask yourself: *Is this wisdom I want to carry forward, or trauma I'm unconsciously repeating?* Then—and this is crucial—share these observations with your partner and ask them to gently point out when they see you defaulting to inherited scripts rather than responding to your actual present-moment relationship. When your partner says "You're doing that thing where you shut down when you're hurt, just like your dad did," resist defensiveness and hear it as an invitation to write a different story. Practice one specific counter-pattern this week: if you inherited emotional distance, practice reaching for your partner when you're scared; if you inherited conflict avoidance, practice naming a small disagreement before it becomes a silent resentment; if you inherited anxious hovering, practice offering space as a form of trust.
+
+🎯 **Wedding Wisdom**
+
+Your marriage becomes truly yours only when you consciously choose which family patterns to honor and which to heal.
+
+❓ **Tomorrow's Question**
+
+If you discovered that the one relationship wound you've never fully healed from a previous relationship (romantic or otherwise) will inevitably show up in your marriage disguised as seemingly unrelated triggers and reactions, what wound would that be, and what would healing it before your wedding require you to finally forgive, release, or reclaim about yourself?`,
+    parable: `Dove sat at Nana Rose's kitchen table, a photograph spread before her like evidence at a trial. Her parents' wedding day, 1987. Her mother's smile looked painted on. Her father's hand rested on her mother's shoulder with the formality of a business handshake.
+
+"They never touched," Dove said quietly. "Not like that. Not really."
+
+"And so you learned that love is careful," Nana Rose said, pouring tea. "That it keeps its distance. That it doesn't ask too much."
+
+Dove's throat tightened. "Elm reaches for me constantly. When we're cooking. When we're reading. When we're just... existing. And sometimes I—" She stopped, ashamed.
+
+"Sometimes you flinch," Nana Rose finished gently. "Not from him. From the unfamiliarity."
+
+Elm appeared in the doorway, as if summoned by his name. He'd been helping Nana Rose's neighbor fix a fence. "Should I come back?"
+
+"No," Dove said, surprising herself. "I need to tell you something."
+
+She explained the photograph. The careful distance. The way affection in her childhood home was rationed like wartime sugar—precious because scarce, but leaving everyone hungry.
+
+"I thought I was just independent," Dove said. "But I think I'm just... trained. To not need. To not reach back."
+
+Elm sat beside her, and this time when he took her hand, she noticed her first instinct: to pull away, to make a joke, to offer tea, to do anything but simply receive the touch.
+
+She forced herself still. Let his fingers interlace with hers. Breathed through the strange discomfort of being held without having to earn it.
+
+"This feels vulnerable," she whispered.
+
+"That's because it is," Elm said. "Your parents built walls. We're building a house. Different architecture entirely."
+
+Nana Rose slid a second photograph across the table—one Dove had never seen. Same wedding, different angle. In the background, barely visible, Dove's grandmother reaching for Dove's grandfather's hand. Him stepping slightly away, creating distance.
+
+"Three generations," Nana Rose said. "Same step backward. Same careful space. Until you."
+
+Dove stared at her hand in Elm's. Such a small thing. Such a revolutionary act.
+
+"What if I forget?" she asked. "What if I keep pulling away without realizing it?"
+
+"Then I'll keep reaching," Elm said simply. "Until reaching back becomes more natural than retreating. Until you believe that intimacy isn't dangerous just because distance felt safe."
+
+Nana Rose gathered the photographs. "Your wedding won't just join two people, child. It will break a pattern. That's harder than any seating chart."
+
+Dove nodded, her hand still in Elm's, learning this new language one uncomfortable minute at a time.
+
+**Moral:** The bravest thing you will do in marriage is not repeat the patterns that kept your parents safe but build new ones that make you whole.
+
+*Tomorrow, Nana Rose will ask Dove about the wound she's never mentioned—the one that has nothing to do with her parents and everything to do with why she almost didn't say yes when Elm proposed.*`,
+  },
 ];

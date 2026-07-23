@@ -3505,4 +3505,91 @@ The Mirror's surface began to clear, but Riven saw one final image: themselves, 
 
 **Tomorrow**: But what happens when both interpreters speak at once, when you're simultaneously attracted to someone's wholeness and terrified by it, drawn to their stability and bored by it? Riven discovers why ambivalence might be less about the other person and more about an internal war between two versions of yourself fighting for control of your future.`,
   },
+  {
+    day: 54,
+    title: "The Civil War Ceasefire",
+    date: "2026-07-23",
+    image: "images/relationship-games/day-54.jpg",
+    audio: "audio/relationship-games/day-54",
+    sonnet: `**🪶 Sonnet LIV: The Civil War Ceasefire**
+
+Two generals wage their war inside my chest,
+One armored thick with scars from battles past,
+Who swears that peace I've never known's a test,
+That safety unfamiliar cannot last.
+
+The other speaks in softer, steadier tones,
+Observing patterns, tracking word and deed,
+While chaos throws its fits and breaks its bones,
+This quieter voice plants a different seed.
+
+I wake each dawn uncertain which will reign—
+The screaming fear or whispered possibility,
+The urgent pull to flee from unknown pain,
+Or trust in unaccustomed tranquility.
+
+*The torn feeling isn't wisdom's gentle art—*
+*It's civil war between my head and heart.*`,
+    standard: `🎭 Day 54: The Civil War Ceasefire
+
+Yes—the torn feeling isn't evidence of genuine ambivalence about the relationship itself, but rather the sound of two incompatible survival strategies battling for dominance within us. The part that wants to stay is often the part that's glimpsing possibility beyond our wounds, while the part that wants to leave is typically our threat-detection system perceiving this very growth as existential danger. What we're actually torn between isn't two relationship outcomes, but two versions of ourselves: the one who could heal and the one who must remain broken to maintain psychological continuity with our past.
+
+**🧱 The Concept**
+Most relationship "decisions" aren't decisions at all—they're the temporary victory of whichever internal faction can generate the most compelling fear narrative in that moment.
+
+**❓ Why It Matters**
+When we don't recognize this internal conflict as a conflict between healing and survival systems rather than a genuine evaluation of the relationship's viability, we mistake our loudest fear for our truest wisdom. This misidentification keeps us perpetually unstable, constantly re-litigating the same relationship question while the real question—which part of us gets to drive—remains unexamined.
+
+**⚙️ How It Works**
+Our survival system operates on a simple principle: anything unfamiliar is potentially fatal, so better to maintain the known dysfunction than risk the unknown. When we encounter a relationship that offers genuine safety, our survival system doesn't recognize it as safety—it categorizes unprecedented experiences as **unclassified threats**. Meanwhile, our healing system recognizes the opportunity and moves toward it, creating internal gridlock. This manifests as cyclical thoughts: one day we're certain this person is right for us, the next day we're cataloging their flaws and planning our exit. We think we're "working through" relationship concerns, but we're actually just experiencing whichever faction of our psyche currently has the microphone. The person themselves often remains relatively consistent—what changes is which internal lens we're viewing them through.
+
+**🎯 Relationship Strategy Wisdom**
+The presence of internal conflict doesn't mean the relationship is wrong—it means you're at the exact developmental edge where transformation becomes possible, and your system is fighting to maintain the familiar coordinates of self.
+
+**❓ Tomorrow's Question**
+If we accept that our internal factions will continue battling until we consciously choose which operating system gets to make relationship decisions, what does this suggest about the role of commitment in relationships—and might our culture's celebration of "following your feelings" actually be encouraging us to let our most primitive survival mechanisms veto our capacity for evolved partnership?`,
+    parable: `Riven stood at the cliff's edge, one foot forward, one foot back, frozen in the posture of perpetual almost-leaving.
+
+"I can't do this," he said for the hundredth time that month. "I need to go."
+
+"And yet," The Mirror observed, materializing beside him, "you don't."
+
+"Because I'm weak. Because I'm afraid of being alone."
+
+"No." The Mirror gestured, and the air before them split like a curtain, revealing Riven's internal landscape—a battlefield where two armies clashed endlessly. "Because you are two."
+
+One army wore armor of scar tissue, their weapons forged from old wounds. Their general shouted warnings: *Unprecedented happiness is a trap. Safety you've never known cannot be real. Leave before you're left. Strike first.*
+
+The other army moved differently—slower, without the manic efficiency of trauma. Their general spoke in quieter tones: *This person shows up consistently. Their actions match their words. The discomfort you feel is growth, not danger.*
+
+"Every morning," The Mirror continued, "whichever general shouts loudest convinces you their perception is reality. Yesterday, the healing faction held ground—you felt grateful, certain, at peace. Today, the survival faction launched a pre-dawn raid with a dream about betrayal, and now you're here, ready to burn everything down."
+
+"But the thoughts feel so real," Riven protested. "So urgent."
+
+"Of course they do. Your survival system has kept you alive for decades by making every threat feel like an emergency requiring immediate action. It doesn't recognize the difference between a tiger in the grass and a person who loves you in ways you've never experienced."
+
+The Mirror touched the vision, and time accelerated. Riven watched himself cycle through the same pattern across months—decide to stay, feel peaceful, then panic and decide to leave, feel relieved, then lonely, then cycle back. The relationship itself remained largely unchanged. Only his perception oscillated wildly.
+
+"The person you're with hasn't actually done anything to warrant this chaos," The Mirror said softly. "They're simply... consistent. And your system is fighting that consistency like an infection because it has no antibodies for health."
+
+"So what do I do?" Riven asked, tears streaming. "How do I know which voice to trust?"
+
+"You don't trust a voice. You choose an operating system." The Mirror gestured again, and the battlefield froze. "The survival general will always have more urgent arguments, more compelling fear, more immediate pain to avoid. The healing general offers only... possibility. A future your nervous system cannot predict and therefore cannot trust."
+
+"You're saying I have to just... override what I feel?"
+
+"I'm saying what you feel changes based on which faction controls the narrative at any given moment. The 'you' who wants to leave and the 'you' who wants to stay are both real. But only one is oriented toward your actual growth. The question isn't what you feel—it's which future you're willing to architect, knowing that your feelings will oppose you either way."
+
+Riven looked down at his feet, still frozen in their ambivalent stance.
+
+"The torn feeling," he said slowly, "it's not the relationship. It's... me."
+
+"It's the war inside you," The Mirror corrected. "The relationship is simply the territory where your factions fight for dominance. And they will keep fighting until you declare a ceasefire—until you consciously choose which general makes your decisions, regardless of which one is screaming loudest in the moment."
+
+The vision faded. Riven remained at the cliff's edge, but something had shifted. The paralysis felt different now—not like confusion, but like the moment before a choice.
+
+**Moral:** The relationship question is rarely about the other person—it's about which version of yourself you're willing to become.
+
+**Tomorrow:** The Mirror reveals why our modern worship of "authentic feelings" might be the very ideology keeping us enslaved to our most primitive decision-making systems.`,
+  },
 ];
