@@ -4309,4 +4309,86 @@ Elder Joy's face glowed with pleasure. "Now you're ready to begin."
 
 **Tomorrow's Teaser:** But if these sixty days have given us a comprehensive foundation for playful connection, what hidden danger might lurk in believing we've now acquired all the tools we need, and how might our very confidence in our knowledge become the subtle obstacle that prevents us from experiencing the beginner's mind that makes wonder possible?`,
   },
+  {
+    day: 61,
+    title: "The Welcome Home Ritual",
+    date: "2026-07-24",
+    image: "images/relationship-play/day-61.jpg",
+    audio: "audio/relationship-play/day-61",
+    sonnet: `**🪶 Sonnet LXI: The Welcome Home Ritual**
+
+Across the threshold where two worlds divide,
+Where daylight chaos yields to intimate space,
+We fumble through the door with absent eyes,
+And greet our dearest love with common grace.
+
+A stranger on the street receives our smile,
+Full presence granted to the unknown face,
+Yet home we offer but a word, meanwhile
+Our heart already runs tomorrow's race.
+
+What sacred pause could honor this return?
+What six-second kiss might bridge the gap
+Between the marketplace where fires burn
+And sanctuary where two souls unwrap?
+
+*The threshold teaches: how we cross the door*
+*Creates the home worth coming home for more.*`,
+    standard: `🎮 Day 61: The Welcome Home Ritual
+
+🧱 **The Concept**
+The quality of how we greet each other at day's end often determines the entire evening's emotional climate, yet most couples unconsciously treat reunions as logistical transactions rather than sacred transitions.
+
+❓ **Why It Matters**
+The first three minutes of reconnection set the relational tone for hours afterward, creating either an open channel for intimacy or a closed circuit of parallel existence. How we cross the threshold matters more than what happens on either side of it.
+
+⚙️ **How It Works**
+Instead of immediately downloading the day's stresses or diving into logistics, successful couples create a deliberate pause—a six-second kiss, a full-body embrace, or simply making eye contact and saying "I'm glad you're home" before transitioning into task mode. This conscious boundary between outside world and intimate space signals that this relationship deserves a different quality of attention than everything else competing for our focus. One couple keeps a small bell by the door that either partner can ring to request a "real reunion" when the automatic greeting falls flat. Another developed the practice of asking "How's your heart?" instead of "How was your day?" These micro-rituals don't require extra time—they require presence with the time we already have.
+
+🎯 **Playful Connection Wisdom**
+The homecoming creates the home. How we greet each other teaches our relationship what kind of space it's allowed to occupy in our lives.
+
+❓ **Tomorrow's Question** — If the welcome home ritual demonstrates that beginnings shape everything that follows, why do so many couples unconsciously invest tremendous energy in planning how relationships start (first dates, proposals, weddings) but almost no intentional design into how each ordinary day begins and ends, essentially treating the most frequently repeated transitions as if they don't require any thoughtfulness at all?`,
+    parable: `Quinn dragged herself through the apartment door, already mentally cataloging everything that needed doing before bed. River was at the kitchen counter, back turned, chopping vegetables.
+
+"Hey," Quinn mumbled, dropping her bag with a thud.
+
+"Hey," River responded without turning around. "Can you take the trash out? And did you remember to call about the insurance thing?"
+
+Quinn felt something deflate in her chest but couldn't name it. This was normal. This was how people who lived together talked. Wasn't it?
+
+At their next session, Elder Joy asked them to describe their typical reunion.
+
+"We say hi," River shrugged. "We're adults. We don't need to make a big production out of it."
+
+Elder Joy nodded slowly. "Tell me—when you greet a friend you haven't seen in a month, what happens?"
+
+"Oh, that's different," Quinn said. "There's hugging, excitement, real eye contact..."
+
+"And when you come home to River—someone you claim to love more than anyone—you offer what? A word tossed over your shoulder while already thinking about garbage?"
+
+The silence felt heavy.
+
+"Here's what I notice," Elder Joy continued gently. "You've unconsciously decided that the people you see every day deserve less than strangers. You're rationing your presence with the person who needs it most."
+
+She had them practice right there in her office—walking out the door and coming back in. The first attempt felt awkward and performative. But she made them repeat it. And repeat it again.
+
+"Stop thinking about what comes after," Elder Joy instructed. "Right now, you've been apart all day. Your partner is in front of you. That's all that exists in this moment. Let yourself actually *see* them."
+
+On the fourth try, something shifted. River's eyes softened. Quinn felt her shoulders drop. The embrace lasted longer than necessary, but it didn't feel performative anymore—it felt like coming home to a person, not just a place.
+
+"The threshold is sacred," Elder Joy said. "It's where the outside world stops and your private universe begins. But you have to mark it. You have to create a door that's worth crossing."
+
+That week, they experimented. Sometimes it was just six seconds of full-body contact. Sometimes Quinn would ring the small bell they'd hung by the door and say "Let's try that again" when their greeting fell flat. Sometimes River would simply stop whatever he was doing, turn fully toward Quinn, and say "Welcome home" like he actually meant it.
+
+The evening arguments decreased. The sense of being roommates rather than lovers began to shift. It wasn't that their lives became less busy or stressful—it was that they'd created a ritual that reminded them, multiple times a day, that they'd chosen each other.
+
+One evening, Quinn came home depleted and distracted. River met her at the door, took both her hands, looked directly into her eyes, and said, "Hi. I missed you. Everything else can wait sixty seconds."
+
+Quinn felt tears spring unexpectedly to her eyes. She hadn't realized how hungry she'd been for exactly that—to be prioritized, even briefly, over the endless list of tasks.
+
+**Moral:** *The quality of our reunions determines the quality of our relationship. We can choose to treat each homecoming as an interruption to our evening routine, or as the actual point of having someone to come home to.*
+
+**Tomorrow:** *But if conscious beginnings and endings shape the day's emotional climate, what about the transition between sleeping and waking—the moment when we're most vulnerable and least defended? Elder Joy has thoughts about that first morning exchange...*`,
+  },
 ];
