@@ -7903,4 +7903,74 @@ With each repetition, Dove felt the inherited caution loosening its grip, making
 
 **Tomorrow**: Dove will discover that permission to receive joy requires releasing the compulsion to simultaneously manage everyone else's happiness—a delegation she's never practiced.`,
   },
+  {
+    day: 120,
+    title: "The Sacred Arrival",
+    date: "2026-07-28",
+    image: "images/wedding-planning/day-120.jpg",
+    audio: "audio/wedding-planning/day-120",
+    sonnet: `**🪶 Sonnet CXX: The Sacred Arrival**
+
+Not to a destination, but a door,
+You come with everything you've learned to be—
+The excavated wounds, the patterns sore,
+The practiced courage toward transparency.
+
+Engagement was apprenticeship in love,
+Each conflict navigated, fear released,
+Preparing you to stand and speak thereof
+Before the witnesses, before the priest.
+
+You are not who you were when first you said
+"I will" to one whose hand you now will take—
+You've grown through doubt and toward this sacred wed,
+Become the one these promises can make.
+
+*You step across the threshold, whole and true,*
+*Not perfect, but prepared to be made new.*`,
+    standard: `💍 Day 120: The Sacred Arrival
+
+🧱 **The Concept**
+Your wedding day isn't the destination—it's the doorway. All the planning, preparation, and emotional excavation have been leading not to a perfect celebration, but to the precise moment when you step across the threshold from engagement into marriage, carrying everything you've learned about love, vulnerability, and commitment.
+
+❓ **Why It Matters**
+Many couples arrive at their wedding day exhausted by planning, anxious about details, or so focused on executing the event that they miss the profound transition they're actually experiencing. The quality of your arrival—the consciousness, groundedness, and readiness you bring to this threshold moment—determines whether your wedding becomes a shallow performance or a genuine transformation.
+
+⚙️ **How It Works**
+Arriving well means recognizing that every lesson from your engagement journey—from choosing authenticity over expectations (Day 2) to releasing inherited relationship patterns (Days 114-119)—has been preparing you for this singular moment of consecration. When you stand before your partner to make your vows, you won't be the same person who got engaged; you'll be someone who has practiced vulnerability, negotiated conflict, honored individuality within partnership, and chosen courage over comfort. This arrival requires bringing your whole self—not just the polished, wedding-ready version, but the complete human who has wrestled with fear, doubt, and inherited wounds. It means stepping into your vows with open eyes about what marriage will actually demand, and open hearts willing to be transformed by what you're promising.
+
+🎯 **Wedding Wisdom**
+You arrive at your wedding carrying everything you've become during engagement. The question isn't whether you're perfect—it's whether you're present, honest, and genuinely ready to be changed by the promises you're about to make.
+
+❓ **Tomorrow's Question** — If you discovered that the moment immediately after you're pronounced married would reveal to you the one essential truth about your partnership that you'll need to remember during every difficult season ahead, what truth would you hope to see, and what does that reveal about whether you're entering marriage with romantic illusions or clear-eyed devotion?`,
+    parable: `Dove stood in the small antechamber behind the ceremony space, her wedding dress a cascade of careful choices, her heart a drumbeat of something between terror and transcendence. Through the doorway, she could hear the murmur of guests, the soft prelude of music, the whole elaborate architecture of expectation she and Elm had spent months constructing.
+
+Nana Rose appeared in the doorway like a benediction, her eyes bright with recognition.
+
+"I've been doing this for forty years," the old wedding planner said softly, "and I can always tell the difference between brides who arrive at their wedding and brides who simply show up to it."
+
+Dove's hands trembled slightly. "I feel like I've been preparing for months, but I still don't know if I'm ready."
+
+"Ready for what?" Nana Rose asked. "A perfect ceremony? You're not. No one ever is. Something will go wrong—a stumbled word, a late guest, a moment that doesn't match your vision." She paused, her weathered hand finding Dove's. "But ready to stand before the person you love and promise to grow toward them for the rest of your life, even when growth is uncomfortable? Ready to let yourself be witnessed in your vows, truly seen in your vulnerability? Ready to step across the threshold from who you've been into who you're becoming?"
+
+Dove thought of everything the past months had taught her. The way she and Elm had learned to navigate conflict. The family patterns she'd excavated and chosen to release. The practice of showing up authentically even when performance felt safer. The slow, difficult work of becoming someone capable of sustaining mature love.
+
+"I'm not the same person who got engaged," she whispered.
+
+"No," Nana Rose smiled. "You're the person who's ready to get married. There's a profound difference."
+
+Through the doorway, Dove could see Elm waiting at the altar, his face a mixture of anticipation and the same vulnerability she felt. They had both arrived here—not just to this room, this moment, but to this capacity to promise and mean it.
+
+"The engagement was your apprenticeship," Nana Rose said. "Every challenge, every choice, every moment you practiced being honest instead of perfect—you were learning to arrive at this threshold ready to cross it with your whole self, not just your best self."
+
+Dove took a breath that felt like it filled not just her lungs but every lesson she'd carried here. She wasn't arriving at a destination. She was arriving at a doorway, and what mattered now was the consciousness with which she chose to walk through it.
+
+"I'm ready," she said, and meant it completely.
+
+As the music swelled and she stepped toward the threshold, Dove understood: the wedding was not the culmination of preparation—it was the first real moment of marriage itself, and she was arriving to it with everything she'd become.
+
+**Moral**: *You don't arrive at your wedding to perform what you've practiced—you arrive to become what you've promised. The quality of your arrival determines whether you're hosting an event or crossing a threshold into transformation.*
+
+**Tomorrow**: *The very moment after the pronouncement, when 'fiancé' becomes 'spouse,' will reveal what you've truly committed to...*`,
+  },
 ];
