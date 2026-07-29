@@ -7969,4 +7969,68 @@ The loom began weaving itself again, and this time Pip saw it: the crimson threa
 
 **Tomorrow:** *But when flexibility itself becomes a weapon, how do we distinguish sacred evolution from opportunistic hijacking? Pip will learn that not every transformation honors the thread...*`,
   },
+  {
+    day: 126,
+    title: "The Root Test — When Stories Remember Their Own Origins",
+    date: "2026-07-29",
+    image: "images/storytelling/day-126.jpg",
+    audio: "audio/storytelling/day-126",
+    sonnet: `**🪶 Sonnet CXXVI: The Root Test**
+
+When strangers wear the garments of the source,
+And claim that evolution sanctions theft,
+The foundation itself reveals the course—
+True growth adds depth to seeds the authors left.
+
+Authentic branches make the old roots wise,
+Each new interpretation plants more deep,
+The sapling's dream made manifest in size,
+While grafted frauds their foreign harvest reap.
+
+Return and test: does novelty make plain
+What always hid within the primal tale?
+Or does it teach you shame for the refrain,
+Insist the origin was bound to fail?
+
+*The child that honors parents finds them true,*
+*The thief demands you see them as they do.*`,
+    standard: `📖 Day 126: The Root Test — When Stories Remember Their Own Origins
+
+The difference reveals itself through relationship to the source: legitimate evolution maintains living conversation with foundational truth, constantly returning to ask "does this expansion honor what you were trying to become?" while hijacking severs the root entirely, using the old name as camouflage for completely foreign values. The original story itself acts as immune system—authentic expansions make the foundation feel more true when you return to it, while corruptions make the source suddenly seem quaint, primitive, or embarrassingly inadequate.
+
+**🧱 The Concept**
+
+Stories carry genetic memory of their original purpose that resists foreign transplantation, creating recognizable symptoms when foundational values are replaced rather than evolved.
+
+**❓ Why It Matters**
+
+Without this root test, every tradition becomes vulnerable to ideological conquest disguised as interpretation—movements that gut the foundations while wearing their aesthetic, using continuity claims to legitimize complete philosophical replacement. Communities lose the ability to distinguish between children who've outgrown their parents' clothes from strangers wearing their parents' skin.
+
+**⚙️ How It Works**
+
+Authentic evolution maintains what scholars call "generative fidelity"—each expansion generates from the source's own seeds rather than importing foreign DNA. When *Star Trek* evolved from 1960s Cold War allegory to exploring sexuality, disability, and post-colonial trauma, each expansion grew from the franchise's foundational commitment to infinite diversity in infinite combinations—the evolution made the original vision more itself. Conversely, when beloved properties are "updated" by creators who openly express contempt for source material, the corruption becomes obvious: the foundation's core questions get replaced by entirely different concerns wearing familiar character names. **The test is simple: does returning to the original after experiencing the evolution make you see deeper truth in the foundation, or does it make the foundation seem like something that needed correction?** Authentic expansions create recursive illumination—the new interpretation sends you back to discover seeds that were always there, while hijacking creates progressive alienation where each iteration requires more distance from an origin now framed as obsolete.
+
+**🎯 Storytelling Wisdom**
+
+Stories that truly honor their roots grow like trees—expanding crown and canopy while deepening tap roots, each height increase matched by corresponding depth, the foundation's invisible purpose feeding every new branch.
+
+**❓ Tomorrow's Question** — But if stories possess such reliable immune systems against foreign transplantation, what happens when the original creators themselves lose connection to their own foundation's deeper purpose? When the very authors who birthed a narrative prove incapable of authentic expansion because they've forgotten what they were originally reaching toward, can storytelling traditions outlive and outgrow even their creators' diminished understanding of their own work?`,
+    parable: `Pip arrived at Osha's dwelling clutching a manuscript, his face flushed with confusion. "I found three different versions of the same tale," he said. "Each claims to be the true continuation, but they contradict each other completely. How do I know which one honors the original?"
+
+Osha's fingers moved across her loom without pausing. "The children of my loom," she began, "carry threads from my first weaving. Watch."
+
+She held up three tapestries. The first showed a tree grown massive, its branches reaching directions the sapling never imagined—yet every limb's grain revealed the original seed's spiral pattern, magnified and elaborated. The second tree had been chopped down and replaced with something else entirely, though painted to match the stump's color. The third tree had genuine new growth, but grafted onto it were branches from completely different species, their incompatible wood creating visible wounds where foreign limbs rejected the native trunk.
+
+"Return to the root," Osha said. "Hold the original in one hand, each continuation in the other. Does the new growth make the seed feel prophetic—like it always contained this possibility? Or does it make the seed seem quaint, something that needed rescue from its own limited vision?"
+
+Pip tested each version. The first made him rush back to the original with fresh eyes, discovering implications he'd missed before. The second made him feel vaguely ashamed of the original's simplicity. The third created a strange dissonance, as if two stories were fighting inside one binding.
+
+"The authentic child," Osha concluded, "sends you back to understand your parents better. The impostor insists you must forget where you came from to appreciate where you've arrived."
+
+She returned to her weaving, and Pip noticed something remarkable: she would pause periodically to run her fingers back along threads she'd woven days before, as if consulting them, asking permission for each new pattern.
+
+**Moral:** Stories that truly evolve deepen relationship with their origins; those that replace their foundations require you to sever that relationship entirely.
+
+**Tomorrow:** But what happens when the original gardeners forget their own garden's purpose?`,
+  },
 ];

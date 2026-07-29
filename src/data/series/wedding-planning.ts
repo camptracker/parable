@@ -7973,4 +7973,86 @@ As the music swelled and she stepped toward the threshold, Dove understood: the 
 
 **Tomorrow**: *The very moment after the pronouncement, when 'fiancé' becomes 'spouse,' will reveal what you've truly committed to...*`,
   },
+  {
+    day: 121,
+    title: "The Sacred Initiation",
+    date: "2026-07-29",
+    image: "images/wedding-planning/day-121.jpg",
+    audio: "audio/wedding-planning/day-121",
+    sonnet: `**🪶 Sonnet CXXI: The Sacred Initiation**
+
+Not finish line but threshold to be crossed,
+Where single selves surrender at the door,
+And all the fierce protections we have glossed
+Must yield to intimacy's deeper shore.
+
+The aisle becomes a passage through the veil,
+From who we were to who we're called to be,
+No turning back once vows have raised the sail—
+We trade our guarded shores for mystery's sea.
+
+The witnesses don't watch performance art,
+But hold the space for transformation's birth,
+As ancient words remake each stubborn heart
+And summon selves we've never known on earth.
+
+*Not prize achieved but metamorphosis—*
+*We say "I do" and brace for change's kiss.*`,
+    standard: `💍 Day 121: The Sacred Initiation
+
+The truth you'd hope to see is likely this: that you chose each other not because either of you is perfect, but because you're both committed to growing through imperfection together—that your partnership's strength lies not in avoiding storms but in how you hold each other when the winds come. If that truth fills you with quiet confidence rather than anxiety, you're entering marriage with clear-eyed devotion rather than romantic illusions that will shatter at the first real test.
+
+🧱 The Concept
+
+Your wedding day is not a finish line but an **initiation**—the moment you cross from preparing for marriage into actually being married, with all the invisible transformation that threshold demands.
+
+❓ Why It Matters
+
+Most couples approach their wedding as the culmination of their love story, when it's actually the **opening ceremony** of an entirely new chapter that will require capacities they haven't yet developed. Understanding your wedding as initiation rather than achievement changes everything about how you prepare for and experience that day.
+
+⚙️ How It Works
+
+An initiation strips away your old identity and asks you to step into a new one—not through force, but through choice and readiness. Your wedding day initiates you into **shared sovereignty**, where you're simultaneously fully yourself and inextricably bound to another. The ceremony itself becomes a threshold between who you were as individuals and who you're becoming as partners. When you say "I do," you're not just making promises—you're **consenting to transformation**, agreeing to let marriage reshape you in ways you can't yet imagine. Like all true initiations, it asks you to release old protections (emotional walls, fierce independence, the luxury of only considering yourself) and embrace new responsibilities (emotional availability, interdependence, the discipline of considering "we" before "me"). The witnesses aren't just watching you get married; they're **holding space** for your crossing, anchoring the gravity of what's actually happening as you step from one version of life into another.
+
+🎯 Wedding Wisdom
+
+Approach your wedding day not as a performance of love already mastered, but as a **sacred crossing** into a love you're only beginning to understand—one that will initiate you into depths of intimacy, challenge, and transformation you cannot yet fathom.
+
+❓ Tomorrow's Question
+
+If you discovered that marriage would require you to develop a completely new emotional skill that your single life never demanded (perhaps the ability to remain loving when you feel deeply misunderstood, or to ask for help without shame, or to receive your partner's pain without trying to fix it), which underdeveloped capacity would your relationship most urgently need you to cultivate, and what does your current resistance to developing it reveal about the difference between wanting to be married versus being willing to be changed by marriage?`,
+    parable: `The morning of the wedding rehearsal, Dove found Nana Rose standing alone in the empty ceremony space, running her weathered hand along the altar as if reading braille.
+
+"Are you nervous, child?" Nana Rose asked without turning.
+
+Dove wrapped her arms around herself. "I keep thinking about what happens after. Not the reception—I mean after we're married. When it's just... real life, but different somehow."
+
+"Different how?"
+
+"I don't know. That's what scares me." Dove's voice dropped to a whisper. "What if I'm not ready? What if saying those vows changes something and I can't go back?"
+
+Nana Rose finally turned, her eyes impossibly gentle. "You've been to initiations before, haven't you? Graduations, coming-of-age rituals, the moment you moved into your first apartment alone?"
+
+Dove nodded slowly.
+
+"Then you know the feeling. That threshold moment where you're neither who you were nor who you're becoming—suspended between two worlds." Nana Rose gestured to the aisle. "Tomorrow, when you walk down that path, you'll be doing more than traveling fifty feet. You'll be **crossing from one life into another**. The woman who walks down this aisle won't be the same woman who says 'I do' at the end of it."
+
+"That's terrifying," Dove breathed.
+
+"It should be. All true initiations are." Nana Rose's expression sharpened. "But here's what I've learned from witnessing a thousand ceremonies: the couples who approach their wedding as a **completion**—as the prize they've won, the achievement they've earned—those marriages often struggle when real life begins. But the couples who approach it as an **initiation**, who understand they're consenting to be transformed by something greater than themselves? Those are the marriages that become cathedrals."
+
+Elm appeared in the doorway, and Dove watched his face soften when he saw her. Something in her chest loosened.
+
+"What if I mess it up?" she asked Nana Rose. "The initiation part?"
+
+"You can't mess up transformation, dear. You can only resist it or surrender to it." Nana Rose smiled. "Tomorrow, when you stand at that altar and feel yourself changing in real-time—when you sense the old protective walls starting to come down and something new and vulnerable taking their place—that's not a malfunction. That's the **sacred work** of crossing the threshold. That's the moment you stop preparing for marriage and actually become married."
+
+Elm crossed to Dove and took her hand, and she felt it again—that sense of **being initiated** into something that would ask more of her than she'd ever given, and offer more in return than she'd ever imagined.
+
+Nana Rose watched them both. "The wedding ceremony is ancient magic, you two. It doesn't just celebrate who you are. It **summons who you're becoming**. Tomorrow, let it work on you. Let it change you. Let it initiate you into the mystery."
+
+**Moral:** Your wedding is not the end of becoming—it is the threshold where you consent to be perpetually transformed by love, where you trade the comfortable prison of who you've always been for the sacred terror and wonder of who you might become together.
+
+**Tomorrow:** Nana Rose will reveal what happens when you discover that marriage's greatest gift isn't compatibility, but something far more powerful—and far more difficult to receive.`,
+  },
 ];
