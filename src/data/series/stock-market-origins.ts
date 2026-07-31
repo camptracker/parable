@@ -5113,4 +5113,82 @@ He closed the ledgers with a decisive motion. "Study history deeply, Willem, but
 
 **Tomorrow**: When your philosophy must evolve as you do—and when it must endure unchanged.`,
   },
+  {
+    day: 74,
+    title: "The Compass of Core Principles",
+    date: "2026-07-31",
+    image: "images/stock-market-origins/day-74.jpg",
+    audio: "audio/stock-market-origins/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Compass of Core Principles**
+
+When storms assault the ship and winds blow hard,
+The captain questions not his compass true,
+But tests its bearing 'gainst the evening starred,
+To know if tool deceives or points him through.
+
+So market winds may blow against your sail,
+And other vessels seem to make more speed,
+Yet principles proved sound should not grow pale,
+Unless new stars reveal corrupted creed.
+
+The difference 'tween firm discipline and pride
+Lies not in comfort but in testing well—
+Does compass match the truths that still abide,
+Or does it only what you wish to tell?
+
+*True wisdom builds upon foundations deep,*
+*While panic razes all it cannot keep.*`,
+    standard: `📈 Day 74: The Compass of Core Principles
+
+The distinction lies in testing changes against core principles rather than current emotions: healthy evolution expands your understanding while preserving fundamental truths, whereas dangerous abandonment discards proven wisdom to escape temporary discomfort. True philosophical growth builds upon existing foundations, adding nuance and depth, while destructive change tears down the structure entirely whenever it produces results you don't like. The key is asking whether you're questioning your philosophy because of new evidence and deeper understanding, or simply because following it has become difficult.
+
+🧱 **The Concept**
+
+Every successful investor eventually distills their experience into a small set of core principles—non-negotiable truths that guide decision-making across all market conditions and throughout their entire investing lifetime.
+
+❓ **Why It Matters**
+
+Without core principles, investors become leaves blown by every wind of market opinion, changing strategies whenever current results disappoint. These fundamental truths serve as a compass during the inevitable periods when your approach underperforms, your positions decline, and the prevailing wisdom suggests you should abandon everything you believe. The ability to distinguish between tactical adjustments and philosophical abandonment often separates lifetime success from a series of false starts.
+
+⚙️ **How It Works**
+
+Core principles differ from specific strategies or tactics—they're the underlying beliefs that generate your approach to markets. A principle might be "markets eventually reward value over popularity" or "concentration creates wealth while diversification preserves it" or "the best opportunities arise when my analysis conflicts with consensus emotion." These principles should be specific enough to guide decisions but broad enough to remain valid across changing market structures. When markets test you, you consult these principles: if they suggest staying the course, you endure the difficulty; if they suggest genuine change is warranted, you evolve. The investor who believes "quality compounds over time" doesn't abandon losing positions at the first sign of trouble, but also doesn't hold deteriorating businesses whose fundamental quality has genuinely declined. The key is asking: "Does this situation violate my principles, or just my preference for comfort?"
+
+🎯 **Market Wisdom**
+
+Your core principles should be few enough to remember in moments of panic but powerful enough to guide you through decades of uncertainty—they are the difference between having an investment philosophy and merely having investment opinions.
+
+❓ **Tomorrow's Question** — If core principles provide stability and guidance across market cycles, but markets evolve in ways that occasionally make old principles obsolete, how do investors distinguish between eternal truths that should never change and contextual beliefs that must adapt, especially when both categories claim to be fundamental?`,
+    parable: `Willem found Van der Meer standing at his usual spot by the harbor, watching ships unload their cargoes as he had done for thirty years. The young apprentice carried a ledger filled with losses—positions purchased at Van der Meer's suggestion that had declined steadily for months while other traders' more fashionable ventures prospered.
+
+"The others say your methods are outdated," Willem said quietly. "They say the old ways of valuing cargoes and calculating voyage risks no longer apply. They trade on rumors and momentum, and they're making fortunes while I watch my capital shrink."
+
+Van der Meer nodded slowly. "Tell me, Willem—have you abandoned my teachings, or merely considered abandoning them?"
+
+"I still follow them," Willem admitted. "But I wonder daily if I'm being disciplined or simply stubborn."
+
+The old merchant gestured toward a ship being unloaded. "When that vessel left port, the captain carried a compass. During the voyage, storms came. Other ships were visible sailing different courses, perhaps making better speed. The winds pushed against his chosen route. The compass itself never changed—it still pointed north. But the captain had to decide: is my compass broken, or merely showing me a truth I don't want to see because following it has become difficult?"
+
+"How does he know?"
+
+"He tests the compass against other true things," Van der Meer replied. "The stars at night. The angle of the sun. The flight of land-seeking birds. If the compass aligns with these other certainties, it's probably correct, even if following it means sailing into headwinds. But if the compass contradicts every other source of truth, perhaps it has been corrupted by the ship's iron cargo."
+
+Van der Meer pulled out a worn paper containing three sentences in faded ink: "Value eventually exceeds fashion. Quality reveals itself through adversity. Patience compounds advantage." 
+
+"I wrote these forty years ago," he said. "Every principle I've developed since has been an elaboration of these three truths, never a contradiction. When markets test me—and they test me still—I ask: do current circumstances violate these principles, or merely my desire for easy profit? If a company I own shows deteriorating quality, I sell regardless of my previous conviction. But if the business strengthens while the price falls, these principles tell me to endure. The compass works only if you know what it's meant to point toward."
+
+"But how did you choose these three principles?" Willem asked. "Why not different ones?"
+
+"I didn't choose them, exactly," Van der Meer said. "I discovered them through years of watching what consistently worked and what consistently failed, then I tested them against decades of market history before my time. Some principles I once thought fundamental proved contextual—true for a season but not eternal. These three have guided every successful merchant I've studied, from the Medicis to the VOC founders. They're not my opinions; they're observations about how markets have always worked."
+
+He placed a hand on Willem's shoulder. "Your current losses don't tell you whether your principles are wrong—only whether following them is difficult right now. The true test comes in five years: will you be glad you held your compass steady, or will you wish you had tested whether it still pointed true? Discipline without principle is rigidity. Principle without testing is dogma. The wise navigator checks his compass against the stars."
+
+Willem looked down at his ledger of losses, then at the three sentences Van der Meer had shown him. "And if the stars confirm the compass, even when following it means sailing into storms?"
+
+"Then you know you're evolving your understanding rather than abandoning your wisdom," Van der Meer said. "The evolution builds upward. The abandonment tears down and starts over with each difficulty—which means never building anything tall enough to withstand the next storm."
+
+**Moral:** Core principles serve as a compass for distinguishing between the healthy evolution that deepens wisdom and the panicked abandonment that destroys it—but the compass only works if you regularly test it against other sources of truth beyond your own preferences.
+
+**Tomorrow:** Van der Meer reveals how even eternal principles must be distinguished from contextual rules that masquerade as timeless truth.`,
+  },
 ];
