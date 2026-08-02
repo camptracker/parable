@@ -7586,4 +7586,94 @@ As they left the bridge that night, walking side by side in simple clothes, they
 
 **Tomorrow:** Ash and Lume return to find the rooms in their shared home they've been too afraid to open—the places where the unacceptable parts of themselves have been locked away, scratching at the doors.`,
   },
+  {
+    day: 117,
+    title: "The Haunted Architecture — When Love Finally Opens the Locked Rooms",
+    date: "2026-08-02",
+    image: "images/building-relationships/day-117.jpg",
+    audio: "audio/building-relationships/day-117",
+    sonnet: `**🪶 Sonnet CXVII: The Haunted Architecture**
+
+Behind each locked door, a self awaits,
+The parts we deemed unfit for love's bright stage,
+Our wildness, grief, ambition, need, and rage—
+All exiled to maintain harmonious states.
+
+But silence isn't peace when something scratches,
+When wholeness pleads for integration's key,
+The energy we spend on what we bury
+Could build the very love our fear dispatches.
+
+We thought that love required our finest face,
+That showing fragments was the path to stay,
+But every boarded room becomes a weight,
+And what we hide will find another way.
+
+*The house of love needs every room unsealed,*
+*For wholeness loved transforms what fear concealed.*`,
+    standard: `💕 Day 117: The Haunted Architecture — When Love Finally Opens the Locked Rooms
+
+You would realize that partnerships built on mutual acceptance sound like a chorus of voices in conversation, while partnerships built on mutual denial sound like silence punctuated by scratching—the persistent, unsettling noise of everything you've agreed not to name. The rooms you've been most afraid to open are the ones housing the parts of yourself you believe would make you unlovable: your neediness, your rage, your sexuality, your ambition, your grief, your desire for solitude, your spiritual hunger, or your terrifying ordinariness. What lives in those locked rooms isn't a monster—it's the wholeness you abandoned to become acceptable.
+
+🧱 **The Concept**
+
+Your relationship has been functioning like a house where both inhabitants have agreed to only use certain rooms, leaving entire wings locked and unexplored because you fear what acknowledging those spaces might require of you both.
+
+❓ **Why It Matters**
+
+Every locked room in your relational house requires energy to keep sealed—energy that could be used for actual living instead of constant containment. The parts of yourself you've exiled don't disappear; they simply grow louder and more insistent, creating the very instability you were trying to prevent by locking them away. Eventually, what you refuse to integrate will demand integration through crisis, symptom, or collapse.
+
+⚙️ **How It Works**
+
+When you meet your partner, you unconsciously negotiate which aspects of yourself are "relationship-appropriate" and which must be hidden to maintain the connection. Perhaps you lock away your need for deep solitude because your partner seems to need constant togetherness, or you exile your playful spontaneity because they value planning and predictability. Over time, these locked rooms accumulate: the room where your sexual fantasies live, the room containing your career ambitions that might threaten the current dynamic, the room housing your spiritual questions that your partner doesn't share, the room where you keep your anger at them, the room containing the person you were before this relationship began. Each locked door represents a part of yourself you've deemed incompatible with being loved. But here's what actually happens: those exiled parts don't quietly accept their banishment—they rattle the doors, seep under the cracks, and manifest as inexplicable moods, mysterious dissatisfaction, or sudden eruptions that seem to come from nowhere. The scratching sounds you hear are your own wholeness begging to be allowed back home.
+
+🎯 **Relationship Wisdom**
+
+The strongest relationships aren't the ones with the fewest locked rooms—they're the ones where both partners have developed the courage to open doors together and discover that what they feared was a monster is actually just a part of themselves that's been waiting to finally be welcomed home.
+
+❓ **Tomorrow's Question** — If you discovered that your partner has also been maintaining locked rooms in their inner architecture, and the scratching sounds in your relationship are actually a duet of exiled parts calling to each other across the distance you've both created, what would happen if you agreed to unlock one door together and face whatever emerges—not to judge it or fix it, but to simply acknowledge that it exists and has been trying to participate in your love story all along?`,
+    parable: `Ash and Lume had been walking together for so many seasons that they had developed a rhythm—certain topics discussed at dawn, certain silences honored at dusk, certain gestures that meant comfort and others that signaled the need for space. But lately, Ash had been hearing sounds in the night. Scratching. Rustling. Whispers that seemed to come from inside their own chest.
+
+"Do you hear that?" Ash asked one evening as they made camp.
+
+Lume looked up from the fire. "Hear what?"
+
+"Never mind," Ash said quickly, afraid that naming it would make it real.
+
+But the sounds grew louder, until one night Ash couldn't sleep at all and finally sought out Elder Rynn, who kept the Bridge of Vows at the crossing between the Old Wood and the New Territories.
+
+The Elder was tending the bridge's lanterns when Ash arrived. "I thought you might come," Rynn said without turning. "The scratching has become unbearable, hasn't it?"
+
+Ash startled. "How did you know?"
+
+"Because every traveler who stays on the same road long enough begins to hear it—the sound of all the parts of themselves they locked away to make the journey easier." Rynn turned to face Ash, their ancient eyes knowing. "Tell me, what rooms in your inner house have you boarded up since you began walking with Lume?"
+
+Ash felt the question like a key turning in a lock. Images flooded back: the wild, impulsive person they had been before love required them to be reliable. The grief for a family left behind that they'd never fully expressed because Lume seemed to need them to be strong. The anger that arose sometimes at the very fact of commitment, at having chosen one road when infinite paths beckoned. The secret longing for three days of complete solitude that they'd never requested because Lume might interpret it as rejection.
+
+"I thought," Ash whispered, "that love meant presenting my best self. I thought the other parts would... quiet down if I just ignored them long enough."
+
+"Ah," Rynn said gently. "But they don't quiet down, do they? They grow louder. More insistent. Because those parts aren't enemies of your love—they're parts of the wholeness that wants to be loved."
+
+"But what if Lume can't love those parts? What if opening those doors means losing what we've built?"
+
+Rynn walked to the center of the bridge and gestured for Ash to follow. At the midpoint, they could see both directions—where they had come from and where they were going. "This bridge," the Elder said, "is held together not by the stones we can see, but by the ones hidden in the foundation. Your relationship is the same. The parts of yourself you've hidden aren't weakening your bond—the energy you spend keeping them hidden is."
+
+"But how do I—"
+
+"You open one door," Rynn interrupted. "Just one. You bring one exiled part out into the light and see what happens. Not with dramatic revelation, but with simple truth: 'I notice I've been hiding this part of myself, and I'd like to explore what happens if I don't.' You give your partner the gift of the whole house, not just the parlor where you receive guests."
+
+That night, Ash returned to camp where Lume was still awake, staring into the fire.
+
+"I need to tell you something," Ash began. "There are parts of me I've been hiding. Not to deceive you, but because I was afraid they might... complicate our journey."
+
+Lume looked up, and Ash saw something surprising in their eyes—not fear, but relief. "I've been hearing scratching too," Lume confessed. "I thought I was the only one."
+
+And there, by firelight, they began the work of unlocking doors. Ash spoke of the wild impulsivity that still lived beneath the carefully cultivated steadiness. Lume revealed the part of themselves that sometimes resented the very commitment they had chosen. They traded confessions like keys, each one opening a room that had been sealed.
+
+The scratching didn't stop immediately. But its quality changed. It no longer sounded like something trying to break out—it sounded like something being invited in.
+
+**Moral:** The strongest love is not built by showing only your most presentable rooms, but by having the courage to open every door and trust that your wholeness, not your fragments, is what deserves to be loved. The parts of yourself you exile don't disappear—they simply wait in the dark, growing louder, until you're brave enough to bring them home.
+
+**Tomorrow:** Ash and Lume discover that some exiled parts aren't asking to be integrated—they're asking to be honored as the traveling companions they've always been, and the difference between welcoming a part of yourself versus making peace with its permanent presence changes everything about what wholeness actually means.`,
+  },
 ];

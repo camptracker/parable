@@ -9347,4 +9347,115 @@ Idris sat alone as dusk gathered, his hands still in the moving water, learning 
 
 **Tomorrow:** The Veil challenges Idris to consider how his newfound fluidity will meet the world's need for constancy—and whether change itself can be a form of faithfulness.`,
   },
+  {
+    day: 128,
+    title: "The Covenant of Honest Revision",
+    date: "2026-08-02",
+    image: "images/emotional-intelligence/day-128.jpg",
+    audio: "audio/emotional-intelligence/day-128",
+    sonnet: `**🪶 Sonnet CXXVIII: The Covenant of Honest Revision**
+
+When inward rivers carve a different bed,
+The maps that others made of us grow old;
+They wake to find the waters strangely fled,
+And wonder at the stranger they behold.
+
+Yet silence makes of change a kind of theft—
+As if we stole the friend they thought they knew,
+When really we just grew beyond what's left
+Of expectations built when we were new.
+
+To honor both our truth and others' trust,
+We name what shifts before they feel betrayed,
+We show which banks remain while waters must
+Flow on—not asking leave, but love displayed.
+
+*For growth shared openly transforms the bond:*
+*Not breaking faith, but building truth beyond.*`,
+    standard: `🧭 Day 128: The Covenant of Honest Revision
+
+**We honor both our changeability and others' relational needs by practicing transparent revision—explicitly communicating when we notice ourselves shifting, rather than expecting others to track our internal evolution telepathically.** The key isn't maintaining false consistency but offering people the courtesy of being told when the person they thought they knew is becoming someone different. This transforms identity change from a betrayal of expectation into an invitation to evolve together.
+
+**🧱 The Concept**
+**Relational integrity during personal transformation requires active communication of our internal shifts, not just private self-awareness.**
+
+**❓ Why It Matters**
+**Most relationship conflicts around personal growth stem not from the change itself but from the silence surrounding it—people feel blindsided when someone they thought they knew suddenly reveals values, needs, or boundaries they never mentioned developing.** Without explicit communication, our growth can feel like deception to those who related to an earlier version of us, while their confusion about our changes can feel like rejection to us.
+
+**⚙️ How It Works**
+**The practice isn't announcing every micro-shift in preference but identifying threshold moments when our evolution meaningfully affects our relationships—when we've changed enough that expectations built on our former self will now create friction.** A woman who's spent twenty years accommodating her family's needs might say: "I'm noticing I'm becoming someone who needs more solitude—this isn't rejection of you, but I'm different than I was." A man discovering his political views have shifted might tell long-time friends: "I realize I don't actually believe what I used to argue for—I'm still figuring out what I think, but I wanted you to know I'm in flux." **The honesty creates space for others to adjust their relating, ask questions, or even acknowledge their own unspoken changes.** This isn't seeking permission to grow—it's offering respect by making implicit changes explicit, giving relationships a chance to evolve alongside us rather than fracturing under the weight of unspoken transformation.
+
+**🎯 EQ Wisdom**
+**The highest emotional intelligence honors both the truth that we're constantly becoming and the relational trust that requires we don't become strangers to people who think they know us.** Transparent revision transforms growth from a solitary journey into a shared evolution.
+
+**❓ Tomorrow's Question**
+**If we can learn to communicate our internal shifts transparently, what happens when we realize that others' resistance to our changes might actually be perceiving something about our evolution that we ourselves are avoiding seeing—and how do we distinguish between their legitimate insight and their projection of their own fears onto our transformation?**`,
+    parable: `Idris arrived at The Veil's chamber with a strange lightness in his chest—the burden of maintaining consistency finally released. But he carried a new anxiety.
+
+"I told them," he said without preamble. "My advisors. The council. I told them I'm not the same diplomat who took this position three years ago. That I don't want to win arguments anymore—I want to understand people." He sat heavily. "And now they don't know what to do with me. Some look relieved. Others look betrayed. My mentor asked if I was having a breakdown."
+
+The Veil tilted their head, the mask catching afternoon light. "And did telling them make you more knowable or less?"
+
+"More," Idris said immediately, then hesitated. "But also... I think it scared them. They built strategies around the old me. Expected certain reactions. Now they're uncertain."
+
+"Does uncertainty undo connection?"
+
+"It can." Idris stood, pacing. "My closest colleague—we've negotiated a dozen treaties together. He said he feels like he doesn't know me anymore. That he's grieving the friendship we had."
+
+"Did you take that friendship with you when you changed, or leave it behind?"
+
+The question stopped Idris mid-stride. "I... I don't know. I thought I brought it forward. But maybe I assumed he'd just... update his understanding of me automatically."
+
+The Veil rose and moved to a small table where two clay vessels sat—one cracked and leaking, one whole. They picked up the broken one, water trickling through its fissure. "When the vessel changes shape, does the water blame it for spilling?"
+
+"The water doesn't have expectations."
+
+"Precisely." The Veil set down the broken vessel and lifted the intact one, turning it slowly. "But people do. They fill themselves with assumptions about our shape. When we shift, they experience loss—not because we've wronged them, but because reality no longer matches the internal map they made of us."
+
+"So what do I do? Keep announcing every shift? 'Warning: Idris version 2.7 now downloading'?"
+
+Beneath the mask, Idris sensed something that might have been a smile. "Do you announce when you grow taller? When your hair turns gray? Or only when the change affects how you meet them?"
+
+Idris considered. "I told them about not wanting to win arguments because... it changes how I'll negotiate. What I'll agree to. What I'll fight for."
+
+"And?"
+
+"And that's fair to share. They need to know who they're working with." Idris sat again. "But my mentor asking if I'm breaking down—that felt like more than surprise. Like he needs me to be what I was. For his sake, not mine."
+
+"Can you honor both his need for stability and your truth of change?"
+
+"I don't know. Can I?"
+
+The Veil moved to the window overlooking the city. "A river changes constantly—every molecule of water different from moment to moment. Yet we call it by one name, recognize its shape, know where to build our bridges. Why?"
+
+Idris joined them at the window. "Because the banks remain. The course is consistent even as the water flows."
+
+"So perhaps what others need is not that you remain unchanged, but that you help them recognize which banks remain constant while the water becomes new."
+
+"My values," Idris said slowly. "Even though my methods are changing, I still care about peace. About understanding. Those banks haven't moved—but the way I pursue them, the water itself, that's different."
+
+"And when you name what remains while acknowledging what flows, what becomes possible?"
+
+"They can still know me. Just... newly." Idris felt something settle in his chest. "My colleague who's grieving—I should tell him what hasn't changed. That I still value our partnership, still trust his judgment. That the friend is still here, just becoming different."
+
+The Veil turned from the window. "And when even the banks must shift? When the river itself must carve new course?"
+
+Idris met the hidden gaze behind the mask. "Then I tell them that too. Before they wake to find the water gone."
+
+"Transparency of transformation," The Veil said quietly. "Not permission for change—but the courtesy of sharing it. The respect of letting others know when the map they made of you needs updating."
+
+"It won't stop all the hurt," Idris said. "Some people will still feel betrayed by any change."
+
+"Yes. But you will have honored both truths—that you must become, and that they deserve to know who they're becoming with."
+
+Idris nodded slowly, then asked: "What happens when they resist the new version? When they insist I go back?"
+
+The Veil was silent for a long moment. "Then you discover whether they love the person you are, or the function you served."
+
+The words hung in the air between them like a bridge—or a boundary.
+
+**Moral:** The integrity of transformation lies not in seeking approval for our changes, but in offering the transparency that allows relationships to evolve alongside us rather than shatter against our silence.
+
+**Tomorrow:** Idris will face the uncomfortable possibility that not all resistance to his growth comes from others' limitations—some may come from wisdom about himself he's not yet ready to see.`,
+  },
 ];

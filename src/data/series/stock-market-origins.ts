@@ -5285,4 +5285,72 @@ As Willem gathered the heavy books, Van der Meer added one final thought: "**The
 
 **Tomorrow:** The gap between timeless knowledge and profitable action...`,
   },
+  {
+    day: 76,
+    title: "The Garden of Selective Attention",
+    date: "2026-08-02",
+    image: "images/stock-market-origins/day-76.jpg",
+    audio: "audio/stock-market-origins/day-76",
+    sonnet: `**🪶 Sonnet LXXVI: The Garden of Selective Attention**
+
+Amid the noise of markets' endless stream,
+A thousand signals vie for weary eyes,
+While most chase every glittering scheme,
+The master knows which news to prize.
+
+Like gardeners who tend their chosen plots,
+Ignoring weeds that choke the common ground,
+They cultivate their small connecting dots,
+Where deeper truth can finally be found.
+
+For he who grasps at everything holds naught,
+While focused sight sees patterns others miss,
+The narrow path to wisdom's temple bought,
+By trading endless data's false promise.
+
+*In markets, as in gardens under sun,*
+*To see the few most clearly—that's the one.*`,
+    standard: `📈 Day 76: The Garden of Selective Attention
+
+🧱 **The Concept**
+Market success depends not on seeing everything, but on cultivating the rare ability to notice what matters while ignoring the vast majority of noise that fills financial information channels.
+
+❓ **Why It Matters**
+Every day produces thousands of data points, news stories, opinions, and market movements—yet only a tiny fraction of this information actually affects long-term investment outcomes. Investors who try to process everything become paralyzed by information overload, while those who develop selective attention can focus their limited cognitive resources on signals that genuinely matter. The challenge lies in distinguishing meaningful patterns from mere noise before their importance becomes obvious to everyone.
+
+⚙️ **How It Works**
+Selective attention in markets functions like a gardener's relationship with a plot of land—you cannot tend every plant equally, so you must decide which deserve cultivation and which should be removed as weeds. When Berkshire Hathaway's Warren Buffett famously avoids technology he doesn't understand and focuses instead on businesses with simple economics, he's practicing radical selective attention, deliberately limiting his field of vision to see more clearly within chosen boundaries. Similarly, Renaissance Technologies' success comes partly from ignoring traditional fundamental analysis entirely and focusing exclusively on statistical patterns most investors don't even look for. The key mechanism involves establishing clear criteria for what deserves attention (does it affect long-term cash flows? does it reveal something about competitive dynamics? does it represent a structural change?) and ruthlessly filtering out everything else, even when that information seems urgent or when others are reacting to it. This selective attention operates at multiple scales: choosing which asset classes to consider, which industries to study, which metrics to track, and which daily fluctuations to completely ignore.
+
+🎯 **Market Wisdom**
+The investor who learns what to ignore gains more advantage than the one who learns what to notice, because the universe of noise is infinite while the set of truly important factors remains surprisingly small.
+
+❓ **Tomorrow's Question** — If selective attention requires deliberately limiting your field of vision to achieve deeper insight within chosen boundaries, but major market opportunities sometimes emerge from unexpected intersections between seemingly unrelated domains, does this create a fundamental trade-off where the very focus that enables expertise also creates dangerous blind spots—or do the best investors somehow maintain both narrow depth and peripheral awareness simultaneously?`,
+    parable: `Willem stood before Van der Meer's study window, watching the endless stream of merchants, sailors, and brokers flowing through the plaza below. "Master, how do you decide which news to act upon? Every hour brings a dozen reports—ships arrived, prices changed, rumors from the East Indies, whispers about competitors. I try to remember everything, but my head spins with information I cannot use."
+
+Van der Meer gestured to the meticulously organized garden visible through the side window. "Notice my garden, Willem. Twenty years ago, this plot grew wild with hundreds of species—flowers, weeds, herbs, all competing for the same soil. Beautiful perhaps, but useless. I could harvest nothing of value because my attention scattered across too many plants, each demanding different care."
+
+He pulled Willem to the window. "Now observe what I have cultivated. Six types of herbs, chosen for their medicinal value and my ability to tend them well. I know each plant's needs intimately—when to water, when to harvest, which pests threaten which leaves. I ignore a thousand other species I could grow because these six provide everything I need."
+
+"But master," Willem protested, "what if one of those ignored plants held greater value? What if you're missing—"
+
+"Missing what?" Van der Meer interrupted sharply. "Missing the infinite possibilities I cannot pursue? Yes, always. But tell me this—the merchant who tries to trade in spices, timber, textiles, grain, metals, and livestock simultaneously, does he prosper more than the one who masters the spice trade alone?"
+
+Willem recalled the bankruptcy auction he'd attended last month—a once-wealthy trader who'd spread himself across too many ventures, unable to notice when the textile market turned against him because he was monitoring twenty other markets. "He went bankrupt while the spice specialist prospered."
+
+"Exactly." Van der Meer opened his trading journal, revealing pages filled with detailed notes about VOC shipping routes, cargo capacities, and seasonal weather patterns. "I receive reports about grain prices in the Baltic, wine harvests in France, silver flows from the New World. All potentially valuable information. I ignore it all. Instead, I know every ship the VOC operates, every captain's reliability, every route's seasonal risks. When I hear that Captain De Groot's ship is overdue from Batavia, I understand immediately what this means for pepper supplies in three months. My competitors who track everything notice nothing."
+
+Willem watched as a messenger rushed past the window, probably bearing urgent news about some market movement. "So the key is not seeing everything, but seeing clearly within chosen boundaries?"
+
+"More than that," Van der Meer said, pointing to his garden again. "Notice I positioned my garden where I can observe it from my study window. I have cultivated my attention itself—trained my eye to notice subtle changes in leaf color that signal pest problems before they spread. My neighbor's wild garden might contain some rare valuable plant I'm missing, but he cannot see it among all the weeds. He notices nothing because he tries to notice everything."
+
+He closed his journal with finality. "The market produces infinite information, Willem. Most traders drown in it, frantically trying to process every rumor and report. They become exhausted, confused, unable to distinguish signal from noise. But the master trader cultivates selective attention like I cultivate this garden—choosing carefully what deserves observation, then developing the sensitivity to notice meaningful changes within that chosen domain."
+
+"And what I choose to ignore," Willem said slowly, "frees my mind to see deeper patterns in what I choose to observe."
+
+"Now you begin to understand," Van der Meer smiled. "The competitive advantage belongs not to those who see everything dimly, but to those who see chosen things clearly—so clearly they notice what others miss even when looking at the same market."
+
+**The Moral**: *Wisdom lies not in expanding attention to cover everything, but in contracting focus to see chosen things clearly enough to notice what matters before others do.*
+
+*Tomorrow, we discover whether deep focus creates dangerous blind spots, or whether true expertise somehow maintains both narrow depth and broad awareness simultaneously...*`,
+  },
 ];

@@ -8232,4 +8232,88 @@ She moved to the door, pausing there. "The greatest gift you can give anyone who
 
 **Tomorrow**: *Dove and Elm will discover that breaking one specific tradition might be the most traditional thing they could do—if they understand what tradition actually means.*`,
   },
+  {
+    day: 124,
+    title: "The Sacred Threshold",
+    date: "2026-08-02",
+    image: "images/wedding-planning/day-124.jpg",
+    audio: "audio/wedding-planning/day-124",
+    sonnet: `**🪶 Sonnet CXXIV: The Sacred Threshold**
+
+Between two arbors stands the trembling soul,
+No longer single, not yet fully wed,
+The autumn vines release their careful hold,
+While empty frames await what lies ahead.
+
+This liminal space where old identities fade,
+And new ones shimmer just beyond our grasp,
+Is not dead time where anxious plans are made,
+But holy ground where transformation's clasped.
+
+The bride who rushes through this in-between,
+Arrives exhausted at the altar's gate,
+But she who dwells where endings can be seen,
+Steps forward ready for her married state.
+
+*Three days to grieve what ends, to welcome birth—*
+*The threshold holds the sacred space of worth.*`,
+    standard: `💍 Day 124: The Sacred Threshold
+
+🧱 **The Concept**
+The moment between engagement and marriage is not a waiting period but a transformational threshold—a liminal space where you're no longer who you were but not yet who you're becoming.
+
+❓ **Why It Matters**
+Most couples treat the days before their wedding as mere logistics—finalizing details, managing anxiety, checking boxes. But this threshold time is actually the last opportunity to consciously prepare your inner self for the profound identity shift marriage represents. How you inhabit this in-between space determines whether you step into marriage as a prepared soul or merely a stressed planner.
+
+⚙️ **How It Works**
+Threshold spaces in every wisdom tradition are treated as sacred—the space between sleep and waking, between one year and the next, between maiden and mother. These liminal moments hold unique power because the old identity has loosened but the new hasn't fully formed, creating rare openness for genuine transformation. In these final days before your wedding, you stand at such a threshold: you're releasing your identity as an autonomous individual while simultaneously preparing to receive a new shared identity without losing your essential self. This requires active inner work, not passive waiting. You might create daily rituals that honor both the life you're completing and the one you're entering—perhaps writing letters to your single self expressing gratitude for the lessons learned, or meditating on the specific qualities you want to carry across the threshold while releasing patterns that no longer serve. The key is recognizing that you're not killing time until your wedding; you're using this precious liminal space to become the person capable of sustaining the marriage you desire.
+
+🎯 **Wedding Wisdom**
+The days before your wedding aren't a countdown to an event—they're a sacred passageway through which you're being transformed from who you were into who you must become to love this fully.
+
+❓ **Tomorrow's Question** — If you discovered that crossing the threshold into marriage would require you to consciously release one specific identity or story about yourself that has served you well as a single person but would limit you as a married one, what would you need to lovingly let go of at the altar, and what does that reveal about the difference between losing yourself in marriage versus evolving into a larger version of yourself through it?`,
+    parable: `Dove found Nana Rose in the garden at dawn, three days before the wedding. The old planner stood perfectly still between two arbors—one covered in fading autumn vines, the other waiting to be dressed in fresh blooms for the ceremony.
+
+"I can't sleep," Dove confessed. "I keep thinking I should be doing something, checking something, confirming something. But everything's done. I don't know what to do with myself."
+
+Nana Rose smiled. "Come stand here, child. Right between these two arbors."
+
+Dove stepped into the space between the structures. Immediately, she felt strange—suspended, untethered, neither here nor there.
+
+"This is where you are right now," Nana Rose said softly. "Not in your old life anymore, but not yet in your new one. You're on the threshold. And you think it's empty time, wasted time, anxious time."
+
+"Isn't it?"
+
+"It's the most sacred time of all." Nana Rose gestured to the autumn arbor. "That one represents who you've been—beautifully independent, self-sufficient, answerable to no one. Those vines have grown exactly as they wished." Then she pointed to the waiting arbor. "That one will be dressed for your wedding. It represents who you're becoming—still yourself, but woven together with another life in patterns you can't yet imagine."
+
+Dove looked between them, feeling the truth in her bones. "I'm afraid," she whispered. "Afraid of losing myself. Afraid of not being enough. Afraid of wanting too much."
+
+"Of course you are. You're dying and being born simultaneously. That's what thresholds are for."
+
+Elm appeared then, looking equally sleepless. He stood beside Dove in the in-between space.
+
+"You too?" Dove asked.
+
+He nodded. "I keep having dreams where I'm packing for a journey but can't figure out what to bring. What stays, what goes."
+
+Nana Rose's eyes sparkled. "The threshold asks that question of everyone who crosses it. What of your old self do you carry forward? What do you release? These three days before your wedding aren't for checking seating charts, my dears. They're for checking your souls."
+
+"How?" Dove and Elm asked together.
+
+"By standing right here, in the discomfort of in-between. By letting yourself feel the grief of what you're leaving and the anticipation of what's coming. By not rushing through this passage but inhabiting it fully." She touched both their shoulders. "Most couples are so busy preparing the wedding that they forget to prepare themselves. They arrive at the altar exhausted from planning rather than ready from transformation."
+
+Dove felt tears rising. "I want to be ready. Really ready."
+
+"Then use these three days wisely," Nana Rose said. "Each morning, write what you're grateful to release from your single life—not because it was bad, but because it's complete. Each evening, speak aloud to each other one quality you're choosing to bring across the threshold with you. Honor the ending. Welcome the beginning. Stand in the sacred space between."
+
+Elm reached for Dove's hand. "We're in this together," he said. "Even the fear."
+
+"Especially the fear," Nana Rose corrected gently. "Fear means you understand the magnitude of what you're doing. You're not just having a party. You're crossing from one world into another."
+
+As the sun rose fully, Dove and Elm stood together in the space between the arbors, feeling the sacred weight of the threshold beneath their feet.
+
+**Moral:** The days before your wedding are not mere countdown time but sacred threshold space—the last opportunity to consciously prepare your inner self for the profound identity transformation marriage represents.
+
+**Tomorrow:** Dove must choose what part of herself to leave behind at the threshold—a choice that will determine whether she's diminished by marriage or expanded by it.`,
+  },
 ];

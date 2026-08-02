@@ -8411,4 +8411,78 @@ When the agent's capital friends did arrive, threatening legal action and reputa
 
 **Tomorrow**: But when righteous rage feels so alive and purposeful, how do you keep it sacred rather than letting it seduce you into seeking injustice just to experience the adrenaline of fighting it?`,
   },
+  {
+    day: 127,
+    title: "The Rage Addiction Test — When Righteousness Becomes Recreation",
+    date: "2026-08-02",
+    image: "images/real-estate/day-127.jpg",
+    audio: "audio/real-estate/day-127",
+    sonnet: `**🪶 Sonnet CXXVII: The Rage Addiction Test**
+
+The righteous fury burns with sacred fire,
+Protecting innocents from cruel harm's way,
+But watch when justice feeds a dark desire—
+When conflict's thrill becomes the hunter's prey.
+
+You scan the world for dragons yet to slay,
+Your pulse quickens at the scent of wrong,
+But notice when solutions bring dismay—
+You needed suffering to feel strong.
+
+The guardian returns to peace when done,
+No residue of battle stains the heart,
+While addiction seeks another fight to run,
+Identity requiring endless war to start.
+
+*When problems solve themselves and you feel cheated,*
+*Your sacred cause by hollow need's defeated.*`,
+    standard: `🏠 Day 127: The Rage Addiction Test — When Righteousness Becomes Recreation
+
+Sacred rage becomes addictive when you find yourself seeking out injustices to oppose rather than responding to injustices that find you, when you feel more alive in conflict than in peace, and when your nervous system begins craving the dopamine rush of moral superiority. The distinction between authentic protective impulse and ego's hijacking lies in what remains when the crisis passes: genuine protection returns immediately to peaceful presence, while addictive righteousness desperately searches for the next battle to justify its existence.
+
+🧱 **The Concept**
+Addictive activism transforms genuine protective impulses into identity-sustaining dramas where the conflict itself becomes more important than the resolution.
+
+❓ **Why It Matters**
+Many conscious investors begin with authentic desires to protect tenants or communities from exploitation, but gradually become addicted to the emotional intensity of fighting injustice. This addiction creates a perverse incentive where they unconsciously need problems to persist so they can continue experiencing the righteous high of opposing them, preventing the very solutions they claim to seek.
+
+⚙️ **How It Works**
+The rage addiction test examines your nervous system response when a problem you've been fighting suddenly resolves without your involvement. If you feel genuine relief and satisfaction, the protective impulse was authentic. If you feel strangely deflated or disappointed—if part of you was enjoying the battle—ego has hijacked moral concern for entertainment purposes. The test also examines your social media behavior: authentic protectors share solutions and celebrate wins, while addictive activists primarily share outrage and rarely acknowledge progress. Another indicator appears in your language patterns: notice whether you describe situations in increasingly extreme terms over time, requiring escalating rhetoric to generate the same emotional charge. Finally, observe what happens during periods when no crisis demands your attention—do you rest contentedly in peaceful stewardship, or does your mind actively scan for injustices to oppose, feeling vaguely anxious without a dragon to fight?
+
+🎯 **Real Estate Wisdom**
+The most effective tenant advocates and community protectors are those who can shift instantly from fierce boundary enforcement to peaceful collaboration the moment the threat passes, maintaining no residual identity investment in being the crusader.
+
+❓ **Tomorrow's Question** — If you've learned to recognize when sacred rage becomes addictive performance, what happens when you encounter an injustice so profound that refusing to engage with passionate intensity would itself be a moral failure—when equanimity in the face of genuine evil becomes complicity? At what point does the commitment to remaining unattached to righteous anger become its own form of spiritual bypassing that allows preventable harm to continue unchallenged?`,
+    parable: `Dara stood at Hallam's window watching three bailiffs drag a widow from her cottage in the village square. The woman's tears had drawn a crowd, but no one intervened. Hallam sat unmoved at his counting table.
+
+"You could stop this with a word," Dara said, her voice tight. "She's three weeks behind on rent because her son fell ill. Three weeks."
+
+"The law is the law," Hallam replied, not looking up. "Exceptions create chaos."
+
+Something ignited in Dara's chest—hot, righteous, intoxicating. She spent the next month organizing tenant assemblies, drafting petitions, confronting landlords in the marketplace. The work energized her in ways carpentry never had. People called her courageous. She felt purposeful, alive.
+
+But as victories accumulated—rents frozen, evictions delayed—Dara noticed something disturbing. When peaceful negotiations succeeded quickly, she felt oddly cheated. When landlords became reasonable, she caught herself provoking them to maintain the conflict. She realized she was attending meetings even when her presence wasn't needed, her pulse quickening at the prospect of confrontation.
+
+One evening, she returned to find Hallam reading her latest inflammatory broadsheet. "You write well when you're angry," he observed. "But I notice you've started seeking reasons to be angry even when none present themselves."
+
+"There's always injustice to oppose," Dara snapped.
+
+"True." Hallam set down the paper. "But a genuine guardian protects when protection is needed, then returns to peace. You've begun collecting grievances like I once collected properties—because the accumulation itself has become your identity."
+
+Dara felt the words land like a hammer. She thought of the widow, now safely housed through Dara's intervention. When had Dara last visited her? The triumph of saving her had faded so quickly, and Dara had immediately sought the next crisis.
+
+"How do you tell the difference?" she asked quietly. "Between protecting people and using their suffering to feel important?"
+
+Hallam walked to his ledger, opened to a page, then closed it without writing anything. "When a problem resolves without you, how do you feel? If you feel peace, you were serving them. If you feel loss, you were serving yourself."
+
+He paused. "Last week, the miller negotiated fair terms with his tenants before you could intervene. You said nothing about it to anyone. Why?"
+
+Dara's face burned. She hadn't mentioned it because there was no villain in that story, no dragon for her to slay. The victory was real, but it hadn't fed the part of her that had started to need the fight itself.
+
+"The most dangerous addiction," Hallam said, "is the one that disguises itself as virtue. Your cause may be just, but if you need the suffering to continue so you can continue opposing it, you've become another kind of landlord—one who extracts meaning from other people's pain."
+
+**Moral**: Sacred rage becomes corruption when the defender begins needing the injustice more than desiring its end, transforming protection into performance and righteousness into recreation.
+
+**Tomorrow**: But if recognizing your addiction to moral combat reveals that even your noblest impulses contain self-serving elements, what happens when you encounter an evil so absolute that any self-examination feels like paralysis? When does the commitment to checking your own motives become the very mechanism that allows atrocity to flourish while you contemplate your spiritual purity?`,
+  },
 ];
