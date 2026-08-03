@@ -4814,4 +4814,120 @@ They stood together on the sidewalk, breathing in sync, consciously releasing th
 
 **Tomorrow:** Elder Joy asks Quinn and River to consider why we can immediately sense our partner's emotional state when they enter a room, yet somehow believe our own internal weather remains invisible to them.`,
   },
+  {
+    day: 67,
+    title: "The Emotional Broadcast",
+    date: "2026-08-03",
+    image: "images/relationship-play/day-67.jpg",
+    audio: "audio/relationship-play/day-67",
+    sonnet: `**🪶 Sonnet LXVII: The Emotional Broadcast**
+
+We think our thoughts stay locked within our skin,
+That feelings unexpressed remain unseen,
+Yet every tension radiates from within,
+Our presence speaks what words have never been.
+
+The beloved reads our atmospheric shift,
+The tightened jaw, the energy we bring,
+Our silence is no blessing but a gift
+Of puzzles wrapped in unnamed suffering.
+
+We say "I'm fine" while broadcasting storm clouds dark,
+Then wonder why our partner feels the rain,
+Our body tells the truth we won't remark,
+They carry what we will not name or claim.
+
+*To own our broadcast is to set love free—*
+*From decoding what we might just clearly be.*`,
+    standard: `🎮 Day 67: The Emotional Broadcast
+
+We believe our internal state remains invisible because we experience it from the inside as private thoughts and feelings, while we observe our partner's atmosphere from the outside as tangible energy and presence. This fundamental asymmetry of perspective creates a blind spot: we mistake our internal privacy for actual invisibility, forgetting that our beloved reads our body language, vocal tone, facial micro-expressions, and energetic field with the same exquisite sensitivity we use to read theirs. The truth is that we're always broadcasting our emotional state whether we intend to or not—the only question is whether we're doing so consciously and responsibly.
+
+🧱 **The Concept**
+
+Our emotional state functions like a continuous broadcast signal that our partner receives and responds to, whether we acknowledge our transmission or not.
+
+❓ **Why It Matters**
+
+When we pretend our internal state has no external impact, we inadvertently make our partner responsible for managing both their own emotional reality and the unacknowledged atmosphere we're creating. This invisible burden gradually erodes trust and intimacy, as our beloved learns they cannot rely on our self-awareness or our willingness to take ownership of the energy we bring into shared space.
+
+⚙️ **How It Works**
+
+Emotional broadcasting operates through multiple channels simultaneously: a partner walks through the door with shoulders tight and jaw clenched, claims "I'm fine" when asked, yet their entire presence communicates stress that fills the room like fog. Another example: someone scrolls their phone during conversation while insisting they're "totally listening," broadcasting disinterest through every signal except their words. The broadcast continues when we bring work frustration home and snap at our partner over minor domestic issues, confused when they respond to our actual emotional state rather than our stated reason for irritation. Our beloved becomes an expert decoder of our transmissions because their nervous system is constantly reading our signals for safety, connection, and emotional availability—they literally cannot not receive what we're broadcasting. Taking responsibility for our broadcast means developing enough self-awareness to name our internal state accurately and enough maturity to own its impact on the relational field.
+
+🎯 **Playful Connection Wisdom**
+
+The most generous thing we can do for our partner is acknowledge what we're broadcasting, transforming our emotional transmission from something they must decode and manage into information they can work with and respond to authentically.
+
+❓ **Tomorrow's Question**
+
+If taking responsibility for our emotional broadcast creates clarity and reduces our partner's invisible labor, why do so many of us unconsciously resist naming our internal state, treating self-disclosure as weakness or burdening rather than recognizing it as the very foundation of collaborative emotional partnership?`,
+    parable: `Quinn arrived at Elder Joy's garden cottage to find River already there, sitting on the stone bench with arms crossed and face carefully neutral. Elder Joy was tending her roses, seemingly oblivious to the tension crackling in the air.
+
+"River got here early," Elder Joy said without looking up. "Has been broadcasting quite an interesting signal for the past ten minutes."
+
+River's jaw tightened. "I haven't said anything."
+
+"Precisely," Elder Joy replied, finally turning to face them both. "You've said nothing with your words while saying volumes with everything else. Quinn, what did you notice the moment you entered the garden?"
+
+Quinn hesitated, not wanting to escalate whatever was happening. "I... I felt like I'd done something wrong? Like I was walking into a cloud of disappointment?"
+
+"I didn't say you did anything wrong," River protested.
+
+"No," Elder Joy agreed, setting down her pruning shears. "You didn't say it. You broadcast it. Tell me, River—what were you feeling when you arrived?"
+
+River's shoulders sagged slightly. "Frustrated. We were supposed to meet at two. It's two-fifteen."
+
+"And you decided that your frustration was private information?"
+
+"I didn't want to start a fight," River said quietly.
+
+Elder Joy pulled off her gardening gloves. "So instead, you created a situation where Quinn walks into an emotional weather system without knowing its source, feels blamed without understanding why, and must now decode your signals while managing their own confusion and defensiveness. You've transformed your fifteen-minute wait into a relationship puzzle that Quinn must solve without being given the pieces."
+
+Quinn sat down beside River. "I actually got stuck in traffic. My phone died, so I couldn't text. I was annoyed at myself for not leaving earlier."
+
+"You see?" Elder Joy said. "River was broadcasting frustration about lateness. Quinn was already carrying frustration about lateness. But because River's broadcast remained unnamed and unowned, it became this free-floating atmospheric pressure that Quinn could only experience as generalized disapproval."
+
+River turned to Quinn. "I didn't realize I was doing that."
+
+"Most people don't," Elder Joy said, returning to her roses. "We experience our internal state as private because we live inside it. We think our thoughts are thoughts, our feelings are feelings, and if we don't speak them aloud, they remain contained within our skin. But our beloved doesn't experience us from the inside. They experience the energy we bring into the room, the tension in our body, the quality of our presence. You are always broadcasting, dear ones. Always. The question is whether you're broadcasting consciously or unconsciously, responsibly or carelessly."
+
+Quinn watched River's face soften with recognition. "So when I come home from a hard day and say I'm fine..."
+
+"I spend the whole evening trying to figure out what I did wrong," River finished. "Because I can feel that something is off, but without information, I can only guess. And I usually guess that it's about me."
+
+"The human nervous system is exquisitely tuned to read the emotional states of those we love," Elder Joy explained. "It's how we survived as a species—by learning to read each other's signals for danger, safety, welcome, rejection. Your partner's nervous system is scanning your broadcast constantly, whether either of you consciously realizes it. When your words say one thing but your energy says another, you create what therapists call a 'double bind'—your beloved must choose between trusting your words or trusting their own felt sense of your presence."
+
+River took Quinn's hand. "I should have just said I was frustrated about the time. It would have taken ten seconds."
+
+"And it would have given Quinn actual information to work with," Elder Joy said, "instead of an emotional atmosphere to decode and absorb. Naming your state doesn't mean your partner must fix it or even respond to it. It simply means you're taking responsibility for the energy you're bringing into shared space. You're saying: 'This is what I'm carrying right now. You're not imagining it. You're not causing it. This is mine, and I'm letting you know so you don't have to guess.'"
+
+Quinn felt something relax in their chest. "That actually sounds like a relief. Like I could stop being a detective."
+
+"Exactly," Elder Joy smiled. "When both partners take responsibility for their broadcast, you can stop spending energy on decoding each other's hidden signals and start spending it on actual connection. You transform from cryptographers trying to crack each other's codes into collaborative partners working with clear information."
+
+River looked thoughtful. "But sometimes I don't even know what I'm feeling. How do I name something I haven't figured out yet?"
+
+"Then you broadcast that," Elder Joy said simply. "You say: 'I'm feeling something I can't quite name yet. It's not about you, but I'm probably going to be a bit distant while I figure it out.' Even uncertainty can be named and owned. The cruelty isn't in having complicated internal states—we all do. The cruelty is in pretending they don't exist while our partner drowns in the atmosphere we're creating."
+
+A bee landed on the roses between them, gathering pollen with singular focus. They all watched it work, the garden quiet except for birdsong and distant traffic.
+
+"I think I've been making River carry my broadcasts for years," Quinn said finally. "Especially my work stress. I walk in the door wound up tight, claim I'm fine, then wonder why our evenings feel tense."
+
+Elder Joy nodded. "Awareness is the first step. The second step is practice. Start noticing what you're broadcasting before your partner has to decode it. Develop the habit of naming your internal weather out loud: 'I'm bringing home work frustration tonight. It has nothing to do with us, but I'm probably going to be a bit edgy. Just wanted you to know what you're dealing with.' Watch how much lighter your shared space becomes when you both take responsibility for your signals."
+
+River squeezed Quinn's hand. "I'm sorry I made you walk into my unnamed frustration cloud."
+
+"I'm sorry I kept you waiting," Quinn replied. "And I'm sorry for all the times I've done the same thing—broadcast one thing while claiming another."
+
+Elder Joy smiled. "The beautiful thing about becoming conscious broadcasters is that it's never too late to start. Every moment offers a fresh opportunity to name what you're carrying, to own the atmosphere you're creating, to give your beloved the gift of clarity instead of the burden of guesswork."
+
+As they left the garden together, Quinn noticed how different the air felt between them—clearer somehow, more spacious. River's frustration had been named, acknowledged, and released. Quinn's apology had been offered and received. They were no longer carrying unnamed signals that the other had to decode.
+
+They were simply two people walking home together, broadcasting presence, curiosity, and care.
+
+**Moral:** We are always broadcasting our emotional state to those who love us; the question is whether we're doing so consciously and responsibly, or leaving our beloved to decode and manage atmospheric signals we refuse to acknowledge or own.
+
+**Tomorrow:** Elder Joy will reveal why naming our internal state feels so much harder than we'd expect, and what this resistance reveals about our relationship with vulnerability itself.`,
+  },
 ];

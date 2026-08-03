@@ -8316,4 +8316,92 @@ As the sun rose fully, Dove and Elm stood together in the space between the arbo
 
 **Tomorrow:** Dove must choose what part of herself to leave behind at the threshold—a choice that will determine whether she's diminished by marriage or expanded by it.`,
   },
+  {
+    day: 125,
+    title: "The Sacred Offering",
+    date: "2026-08-03",
+    image: "images/wedding-planning/day-125.jpg",
+    audio: "audio/wedding-planning/day-125",
+    sonnet: `**🪶 Sonnet CXXV: The Sacred Offering**
+
+Bring to the altar all you've held apart,
+The guarded dreams, the wounds you've learned to hide,
+The fortress self you built to shield your heart—
+Now offer what you've carried locked inside.
+
+For marriage asks not that you disappear,
+Nor sacrifice the truth of who you are,
+But pour yourself—your courage and your fear—
+Into a vessel larger than your scars.
+
+Two separate journeys meeting at the door,
+Each bringing gifts that singleness refined,
+Not losing self, but offering it more
+To something neither builds alone, combined.
+
+*The vow you speak is just the first exchange—*
+*A life of daily offerings creates the change.*`,
+    standard: `💍 Day 125: The Sacred Offering
+
+The identity most worthy of release at the altar is often the one that says "I must handle everything alone." This story of self-sufficiency, while protective in singleness, becomes a barrier to the interdependence that marriage requires. Letting it go isn't losing yourself—it's discovering that your strength multiplies when shared, revealing that true partnership transforms independence into something far more powerful: chosen togetherness.
+
+🧱 **The Concept**
+Your wedding ceremony is not just a public declaration but a sacred offering—the moment you consciously place your individual journey into the shared vessel of marriage, transforming two separate narratives into one unified story.
+
+❓ **Why It Matters**
+Without understanding marriage as mutual offering rather than mutual acquisition, you risk approaching it as a transaction where you're constantly calculating what you're getting versus what you're giving. The wedding ceremony itself is your first practice in the art of offering your whole self—not losing yourself, but consciously choosing to pour your identity, dreams, and future into something larger than either of you alone.
+
+⚙️ **How It Works**
+The moment you say your vows, you're not just making promises—you're offering the entirety of who you are (your past, your wounds, your gifts, your potential) to be held, witnessed, and woven together with another person's offering. This isn't about sacrifice in the sense of loss; it's about the alchemy that happens when two complete beings willingly pour themselves into a shared crucible. Consider the difference between someone who approaches the altar thinking "What will I gain from this marriage?" versus someone who thinks "What am I willing to offer to this union, knowing it will transform me?" The first creates a marriage of consumption; the second creates a marriage of consecration. When you stand before your witnesses and partner, you're modeling what it means to offer yourself fully—not desperately, not incompletely, but as a whole person choosing to become part of something holy.
+
+🎯 **Wedding Wisdom**
+Your wedding vows are your first sacred offering, but your marriage will be built from thousands of daily offerings that follow—each choice to prioritize connection over convenience, each moment you pour your best self into shared life rather than hoarding it for individual pursuits.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage would require daily micro-offerings (small moments of putting the relationship's health above your individual comfort or preference) and that your happiness would be determined not by how often you receive these offerings but by how freely you give them, what specific daily offering would you want to establish as your personal practice, and what does that reveal about the difference between marriages built on exchange versus marriages built on generosity?`,
+    parable: `Dove sat in Nana Rose's garden studio three days before her wedding, staring at the small wooden box on the table between them. Inside were dozens of tiny scrolls, each containing something she'd written months ago during her first planning session.
+
+"Read one," Nana Rose said gently.
+
+Dove unrolled a random scroll. In her own handwriting: *I want to be seen as the one who always knows what to do.*
+
+"Ah," Nana Rose smiled. "And how has that story served you?"
+
+"It's gotten me through everything," Dove said quietly. "My parents' divorce, losing my job, moving to a new city alone. I became the person who doesn't need help. The capable one."
+
+"And now?"
+
+Dove's eyes filled. "Elm keeps asking if I'm okay with all the wedding stress. He wants to help. But every time I start to ask for help, something in me thinks I'm failing."
+
+Nana Rose pulled another scroll from the box. "This is from Elm's box. Would you like to read it?"
+
+Dove unrolled it: *I want to be the strong one who never shows fear.*
+
+"He wrote that the same day you wrote yours," Nana Rose said. "Two people, both trying to be invulnerable. Both terrified of being seen as weak. Tell me, child—what happens when two fortresses try to become a home?"
+
+Dove sat with the question. Outside, Elm was helping Nana Rose's assistant arrange chairs, laughing as he struggled with a stubborn folding mechanism. She watched him ask for help without hesitation.
+
+"I don't know how to stop," Dove whispered.
+
+"You don't stop all at once," Nana Rose said. "Marriage isn't about demolishing who you were. It's about offering who you are—including the parts you've kept hidden—and trusting they'll be treasured rather than exploited."
+
+She picked up the box of scrolls. "These stories protected you when you were alone. But you're not alone anymore. The question isn't whether you should keep them. The question is: are you willing to offer even your protected places to this union?"
+
+Dove thought of Elm's gentle persistence, his way of asking "Are you okay?" even when she said she was fine. Not demanding access, but offering a safe place to land.
+
+"What if I offer them and he doesn't understand?" Dove asked.
+
+"Then you learn together," Nana Rose said. "That's what the ceremony is, dove. Your first practice in offering what you've always protected. Not losing yourself—discovering what becomes possible when you trust someone enough to share what you've carried alone."
+
+Elm appeared in the doorway, slightly disheveled. "I conquered the chairs," he announced, then paused, seeing Dove's tears. "Should I come back?"
+
+Dove stood, crossed the room, and surprised herself by saying the truest thing she'd felt in weeks: "Actually, I could really use a hug. This is harder than I thought it would be."
+
+Elm's face softened as he wrapped his arms around her. "Thank you," he whispered. "Thank you for letting me in."
+
+Nana Rose quietly gathered the scrolls, smiling. The first offering had been made.
+
+**Moral**: The stories that protected you in singleness often become the barriers that prevent intimacy in marriage. Your wedding ceremony is your first practice in consciously offering what you've always defended, discovering that vulnerability isn't weakness—it's the bridge between isolation and union.
+
+**Tomorrow**: Nana Rose reveals what daily offerings actually look like in the decades after the wedding dress is preserved and the flowers have faded.`,
+  },
 ];
