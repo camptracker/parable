@@ -5205,4 +5205,77 @@ Garrison stood and walked to the window overlooking the darkened financial distr
 
 **Tomorrow:** Maya asks a question that makes Garrison deeply uncomfortable—if beneficiaries don't override these destructive measurement systems, is it because they can't understand the problem, or because they've secretly decided that stable underperformance is less important than having someone to blame when the system fails?`,
   },
+  {
+    day: 73,
+    title: "The Generational Amnesia",
+    date: "2026-08-04",
+    image: "images/us-bond-market/day-73.jpg",
+    audio: "audio/us-bond-market/day-73",
+    sonnet: `**🪶 Sonnet LXXIII: The Generational Amnesia**
+
+Each generation learns through private pain,
+What charts and books can never truly teach—
+The panic when your safe returns turn vain,
+And liquid markets drift beyond your reach.
+The veterans who felt the 'Ninety-Four,
+Retire to golf and leave their desks behind,
+While newcomers who've never known the floor,
+Build models based on what they hope to find.
+The cycle turns: seven years of calm begets
+A cohort raised on stability's illusion,
+Who leverage up and minimize their bets,
+That fear itself creates the mass confusion.
+History persists in data's cold embrace,
+*But wisdom dies with each forgotten face.*`,
+    standard: `📊 Day 73: The Generational Amnesia
+
+🧱 The Concept
+Institutional memory in bond markets typically survives only 15-20 years—roughly one career cycle—meaning that lessons from previous crises are systematically forgotten as new generations of traders and analysts replace those who lived through past disasters.
+
+❓ Why It Matters
+This generational amnesia explains why financial markets repeat similar mistakes across decades despite sophisticated risk management systems and extensive historical data. When the people who experienced the 1994 bond massacre retire, the intuitive wariness about duration risk during Fed tightening cycles disappears from trading floors, replaced by quantitative models built by analysts who've only known declining rates. The knowledge exists in databases and research papers, but the emotional memory—the sick feeling of watching a "safe" portfolio lose 20% in months—cannot be transmitted through spreadsheets.
+
+⚙️ How It Works
+Consider the repo market freeze of September 2019, when overnight rates suddenly spiked from 2% to 10% despite the Fed's presumed control over short-term rates. Veteran traders who remembered the 1998 LTCM crisis immediately recognized the pattern of hidden leverage and collateral chains breaking down, but younger portfolio managers dismissed the spike as a "technical glitch" because their entire careers had normalized Fed intervention as preventing such disruptions. Similarly, the 2020 Treasury market dysfunction—when the supposedly most liquid market in the world couldn't find buyers even as investors fled to safety—shocked analysts who'd never witnessed the 1987 portfolio insurance meltdown or the 2008 liquidity crisis. Their models assumed liquidity was a stable market characteristic rather than a psychological phenomenon that evaporates precisely when most needed. Most tellingly, institutional investors consistently increase duration and credit risk after 5-7 years of stable markets, precisely the point where traders who experienced the last crisis have been promoted into management and replaced on desks by newcomers who've only known the recovery.
+
+🎯 Bond Wisdom
+Market wisdom cannot be taught, only earned through pain—and institutions that forget this distinction are condemned to provide expensive remedial education to each successive generation.
+
+❓ Tomorrow's Question — If generational amnesia is an inevitable feature of human institutions where direct experience cannot be transmitted and emotional memory fades with personnel turnover, why do financial regulators and central banks continue to believe they can prevent future crises through better rules and disclosures rather than accepting that cyclical disasters are structurally unavoidable, and what would financial regulation look like if it were explicitly designed for periodic failure rather than permanent stability?`,
+    parable: `Maya found Garrison in the firm's archive room, surrounded by physical bond prospectuses from the 1980s and 1990s—documents so old they predated digital storage.
+
+"Why do you keep these dinosaurs?" she asked, gesturing at the yellowing papers. "Everything's in the Bloomberg terminal now."
+
+Garrison held up a prospectus from 1994. "Read the risk disclosures on this municipal bond fund."
+
+Maya skimmed the boilerplate language. "Standard duration risk warnings. What's special about it?"
+
+"This fund lost forty-three percent of its value in eight months," Garrison said quietly. "Not a high-yield junk fund. A supposedly conservative municipal bond portfolio held by school teachers and retirees. When Greenspan raised rates six times in twelve months, the bond market had a heart attack that your generation has never heard about."
+
+"But we study the '94 massacre in training," Maya protested. "There are entire case studies."
+
+"You study it," Garrison agreed. "But you don't *know* it. You didn't get the phone calls from sixty-five-year-old clients crying because their retirement fund was gone. You didn't watch portfolio managers who'd been celebrities become unemployable pariahs in six months. You didn't feel the sick certainty that you'd fundamentally misunderstood how bonds work."
+
+He pulled out another document. "This is from 1998—the LTCM crisis. And this is from 2008. And this is from the 2020 Treasury flash crash. You know what they all have in common?"
+
+Maya waited.
+
+"By the time each one happened, almost everyone who lived through the previous crisis had retired or moved into senior management where they weren't making daily trading decisions anymore. The desks were full of smart people like you who'd read about historical crises but had only personal experience of stable, liquid markets. And every single time, those smart people made the same mistake—they assumed the stability they'd experienced was permanent market structure rather than a temporary psychological state."
+
+"So you're saying experience matters more than analysis?" Maya asked.
+
+"I'm saying experience can't be transmitted through analysis," Garrison corrected. "I can show you every chart and tell you every story from 1994, but until you personally lose a year's salary in a week because a market you thought was safe turned out to be an illusion, you won't truly understand that all bond market liquidity is conditional. And by the time you do learn that lesson—probably in whatever crisis hits seven or eight years from now—I'll be retired, and you'll be trying to explain it to some brilliant kid who thinks your warnings are outdated because their models say it's different this time."
+
+"That's depressing," Maya said. "You're describing an endless cycle."
+
+"I'm describing human institutions," Garrison replied. "We can only learn what we can feel, and we can only feel what we directly experience, and experience can't be transferred between generations except as increasingly abstract stories that lose their emotional power with each retelling. Your great-grandmother might have told you about the Depression, but did you *feel* the fear of starvation she felt? Or was it just an interesting historical anecdote?"
+
+Maya picked up one of the old prospectuses. "So what's the point of keeping these? If we can't really learn from them?"
+
+"Because occasionally," Garrison said, "someone like you asks the right question at the right time. And maybe—just maybe—you'll remember this conversation when the next crisis starts. You still won't be able to avoid it, because institutional momentum and career pressure will force you to participate in whatever bubble is inflating. But perhaps you'll get out slightly earlier than your peers. That's all we can hope for—not preventing the cycle, but marginal improvements in how quickly we recognize we're repeating it."
+
+**Moral:** Markets have perfect memory in their data but no memory in their participants, and this amnesia isn't a bug to be fixed but the fundamental operating system of human institutions.
+
+**Tomorrow:** Garrison asks whether regulators who recognize the inevitability of generational amnesia should stop trying to prevent crises and instead focus on designing systems that fail gracefully—and what Maya thinks that would mean for her career in an industry built on the promise of stability.`,
+  },
 ];
