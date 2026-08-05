@@ -3371,4 +3371,120 @@ Elder Maren smiled sadly. "You've seen the lock. The wedding industry has built 
 
 **Tomorrow:** *Celeste discovers why the industry's recent embrace of "diversity and inclusion" might represent not progress but evolution—a more sophisticated system of extraction dressed in the language of justice.*`,
   },
+  {
+    day: 47,
+    title: "The Inclusion Illusion — When Representation Became Revenue Strategy",
+    date: "2026-08-05",
+    image: "images/history-of-weddings/day-47.jpg",
+    audio: "audio/history-of-weddings/day-47",
+    sonnet: `**🪶 Sonnet XLVII: The Inclusion Illusion**
+
+The magazine displays in rainbow-colored pride,
+While profits flow to those who once refused
+The very love they now use as a guide
+To markets ripe for commerce well-abused.
+
+They photograph the faces long unseen,
+Then charge a premium for cultural dress,
+Hire one brown planner for their corporate sheen
+While keeping power's architecture—yes,
+
+The same old hands control the vendor list,
+The same old prices shut community out,
+The same extraction lurks beneath the mist
+Of inclusion that's performance, not devout.
+
+*Representation sells while power stays—*
+*The rainbow cage still locks in the same ways.*`,
+    standard: `💒 Day 47: The Inclusion Illusion — When Representation Became Revenue Strategy
+
+The answer is uncomfortable but clear: most corporate diversity initiatives in the wedding industry represent sophisticated evolution of extraction, not structural change. When companies add models of different races, same-sex couples, or size-diverse bodies to their marketing while maintaining the same pricing structures that exclude low-income communities, the same vendor relationships that funnel profits to established (predominantly white-owned) businesses, and the same commercial frameworks that prioritize spending over ceremony, they've simply expanded their target market without redistributing power or wealth.
+
+🧱 **The Concept**
+
+Corporate wedding diversity programs typically change visual representation without altering economic structures, creating the appearance of inclusion while preserving extraction systems that harm the very communities being marketed to.
+
+❓ **Why It Matters**
+
+This distinction between representational diversity and structural equity determines whether marginalized communities gain actual power in the wedding industry or simply become new revenue streams. When couples from historically excluded groups celebrate their newfound "acceptance" by spending thousands on weddings marketed specifically to them, they often enrich the same corporate entities that once denied their relationships' validity—while their own communities' ritual practices and economic networks receive none of that wealth.
+
+⚙️ **How It Works**
+
+A bridal magazine launches a "pride issue" featuring same-sex couples in designer gowns, generating positive press and expanding their market—but the magazine's parent company still donates to political candidates opposing LGBTQ+ rights, the featured designers still maintain pricing that excludes working-class queer couples, and the advertising revenue still flows to the same corporate consolidation structure. A wedding planning app adds skin tone filters and cultural ceremony options while its algorithm still prioritizes vendors who pay premium placement fees, ensuring that diverse couples see primarily white-owned businesses that have capital to buy visibility. A rental company stocks saris and cheongsams alongside wedding gowns, celebrating their "cultural sensitivity"—while charging 40% more for these items as "specialty pieces" and offering them only at flagship locations in wealthy neighborhoods, making authentic cultural garments less accessible to the very communities they originate from.
+
+🎯 **Wedding History Wisdom**
+
+True inclusion restructures who profits from weddings, not just who appears in wedding photos; when the community being celebrated doesn't control the ceremony's economic engine, representation becomes extraction's most effective disguise.
+
+❓ **Tomorrow's Question**
+
+If representational diversity without economic restructuring actually strengthens extraction by making the system appear inclusive while preserving its fundamental inequities, what does this suggest about whether marginalized communities should fight for better representation within the existing wedding industry or should instead build entirely parallel wedding economies that keep cultural and financial wealth circulating within their own communities—and can both strategies coexist or does engaging with corporate inclusion inevitably undermine community-based alternatives?`,
+    parable: `Celeste arrived at Elder Maren's study carrying a glossy bridal magazine, its cover proclaiming "Love Without Limits: Our Most Inclusive Issue Ever." She spread it across the wooden table with barely contained excitement.
+
+"Look," she said, pointing to photographs of couples representing every constellation of identity the publisher could imagine. "They're finally showing people who look like me. Like my friends. Like my cousin and her wife. Isn't this what we've been working toward—proof that the industry is changing?"
+
+Elder Maren studied the magazine carefully, then reached for her reading glasses and began examining the fine print. The advertisers. The parent company. The pricing in the featured real wedding spreads.
+
+"Tell me," the historian said quietly, "who published this magazine?"
+
+"Grandeur Media Group," Celeste read from the masthead.
+
+"And who owns Grandeur Media?"
+
+Celeste pulled out her phone, searching. Her face fell slightly. "Continental Luxury Holdings. The same company that owns the venue chains, the dress manufacturers, the..."
+
+"The same company," Elder Maren continued, "that spent decades publishing magazines showing only one vision of weddings. That built its fortune on exclusivity. That fought every expansion of marriage rights because controversy was bad for advertising revenue."
+
+She turned to a featured wedding—two women in exquisite gowns, surrounded by flowers that Celeste recognized as rare imports. "Beautiful, yes? Read the caption."
+
+"'Sophia and Jennifer's $180,000 destination wedding in Santorini broke every rule while honoring every tradition.'"
+
+"One hundred eighty thousand dollars," Elder Maren repeated. "Tell me—how many same-sex couples can afford that celebration of their newly recognized right to marry?"
+
+Celeste's excitement dimmed further. "Not many."
+
+"And where do you suppose that money went? To LGBTQ+-owned businesses? To the activists who fought for marriage equality? To the community centers that supported these couples when their families rejected them?"
+
+"To vendors," Celeste said slowly. "Probably the same vendors who wouldn't serve same-sex couples five years ago."
+
+Elder Maren nodded, flipping pages. "Here—a South Asian wedding. Stunning. The bride wore her grandmother's jewelry, they say. But look closer at the credits. The venue: a white-owned resort that added 'cultural ceremonies' to its package options. The planner: a company that now employs one South Asian coordinator as their 'cultural specialist.' The photographer: a studio that raised its prices by 30% for 'ethnic weddings' because they require 'special expertise.'"
+
+She closed the magazine gently. "This is the industry's most brilliant evolution, Celeste. They learned that exclusion looked bad, that it limited their market. So they changed the faces in the photographs while keeping the money flowing in exactly the same direction."
+
+"But isn't some representation better than none?" Celeste asked, though her voice carried more question than conviction. "Doesn't it matter that young queer kids can see themselves in bridal magazines now? That interracial couples aren't invisible anymore?"
+
+"It matters enormously," Elder Maren agreed. "Visibility can be powerful, even lifesaving. But we must distinguish between representation and power. Between seeing yourself in the magazine and owning the magazine. Between being marketed to and being economically empowered."
+
+She pulled out a different publication—a photocopied zine, clearly homemade. "This was created by a collective of queer photographers, planners, and officiants in the 1990s, when they couldn't get published in mainstream magazines. Every vendor listed was LGBTQ+-owned. Every wedding featured cost less than three thousand dollars. Every ceremony was designed by and for the community."
+
+Celeste studied the simple pages, the grainy photographs, the hand-drawn illustrations. "It's not as glossy," she admitted.
+
+"No," Elder Maren said. "But every dollar spent on these weddings stayed in the community. The photographer's fee paid rent for a queer elder who'd been disowned by family. The caterer's profit funded the community center. The florist donated arrangements to couples who couldn't afford them. The entire economic system was designed to strengthen the community, not extract from it."
+
+She tapped the glossy magazine. "This thing celebrates extraction. It teaches couples from marginalized communities that they've 'made it' when they can afford the same overpriced ceremonies that wealthy straight white couples buy. It redirects money that could build community power into the same corporate hands that profited from exclusion."
+
+"So the inclusive marketing is actually..." Celeste struggled for words.
+
+"A more effective form of extraction," Elder Maren finished. "Because it feels like acceptance. Because it's harder to criticize. Because questioning it makes you seem ungrateful for the representation."
+
+Celeste looked at both publications—the slick magazine and the humble zine. "What happened to this collective? The one that made the zine?"
+
+"Some members went mainstream, got hired by the very magazines that once excluded them," Elder Maren said. "They told themselves they were changing the system from within. Others kept building alternative networks, but it got harder as the industry learned to market to their community. When you can see yourself in the glossy version, the photocopied version looks like settling rather than resisting."
+
+"But it wasn't settling," Celeste said slowly. "It was keeping power in the community."
+
+"Exactly. And that distinction—between representation within a system and power to create alternative systems—that's what the industry's inclusion strategy obscures. They learned they could expand their market by looking inclusive while maintaining their monopoly on wedding commerce."
+
+Celeste thought of her cousin's upcoming wedding, the pride with which she'd described booking vendors from the "LGBTQ+-friendly" list provided by a major wedding planning website. "Are you saying she shouldn't use those vendors?"
+
+"I'm saying she should ask who owns them, where the profits go, what community they support beyond rainbow logos in June," Elder Maren replied. "I'm saying that true inclusion would mean her wedding dollars strengthen queer economic networks, not just make straight-owned businesses more profitable by expanding their target demographics."
+
+"But how do we even know anymore?" Celeste asked. "The industry has gotten so good at looking inclusive, at using the right language, at featuring diverse faces. How do we tell the difference between businesses genuinely shifting power and businesses just shifting marketing?"
+
+Elder Maren smiled, though it was tinged with sadness. "That difficulty—that confusion—is intentional. The industry has learned that the best way to prevent structural change is to make representation look like structural change. To make visibility feel like victory."
+
+**Moral:** Representation without redistribution is extraction wearing a friendlier face; when the industry learns to profit from diversity, looking included becomes more dangerous than looking excluded, because it's harder to recognize the cage when it's painted in your colors.
+
+**Tomorrow:** Elder Maren reveals why some marginalized communities have rejected mainstream wedding inclusion entirely, choosing instead to build separate economies—and how the wedding industry is already preparing to capture those resistance movements too.`,
+  },
 ];

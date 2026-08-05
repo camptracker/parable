@@ -8473,4 +8473,99 @@ Dove leaned into Elm's chest, feeling his arms circle her. "This is the practice
 
 **Tomorrow:** Nana Rose will teach Dove and Elm about the quality that sustains marriages when even love falters—and why cultivating it now might matter more than every other wedding preparation combined.`,
   },
+  {
+    day: 127,
+    title: "The Sacred Devotion",
+    date: "2026-08-05",
+    image: "images/wedding-planning/day-127.jpg",
+    audio: "audio/wedding-planning/day-127",
+    sonnet: `**🪶 Sonnet CXXVII: The Sacred Devotion**
+
+When love becomes a ledger, kept with care,
+Each kindness noted, every slight recorded,
+The heart grows weary, burdened by the snare
+Of reciprocity forever hoarded.
+
+But those who learn devotion's secret art
+Find freedom in the giving, not the gain,
+Their joy emerges from the open heart
+That loves regardless of response or pain.
+
+To serve without the need for recognition,
+To give without demanding equal measure,
+Transforms the ancient marriage proposition
+From obligation into sacred pleasure.
+
+*For love kept count will wither, fade, and die—*
+*But love that serves itself will learn to fly.*`,
+    standard: `💍 Day 127: The Sacred Devotion
+
+**🧱 The Concept**
+Marriage transforms when you stop seeking devotion and start offering it—when your question shifts from "Am I getting the love I need?" to "Am I giving the love I promised?"
+
+**❓ Why It Matters**
+Most relationship dissatisfaction stems from scorekeeping—measuring what you receive against what you give. True marital joy emerges when you become genuinely more interested in your partner's flourishing than in your own satisfaction. This doesn't mean self-abandonment; it means discovering that the deepest fulfillment comes from devotion itself, not from what devotion earns you.
+
+**⚙️ How It Works**
+Devotional marriage operates on a paradox: the more you focus on giving rather than getting, the more satisfied you feel. When Dove wakes up thinking "How can I make Elm's day easier?" rather than "Did Elm appreciate what I did yesterday?", she finds herself happier, not more depleted. When Elm asks "What does Dove need right now?" rather than "Has she noticed my efforts lately?", he feels more connected, not more used. This isn't about keeping score or creating debt—it's about the profound satisfaction that comes from choosing to be devoted regardless of immediate reciprocity. The practice looks like: noticing what would genuinely help your partner before they ask, offering it freely, and finding joy in the offering itself rather than in their gratitude. It's preparing their coffee exactly how they like it not because they'll thank you, but because devotion is its own reward.
+
+**🎯 Wedding Wisdom**
+Your wedding vows aren't promises to receive certain treatment—they're promises to offer certain devotion. Let your ceremony be less about securing love and more about consecrating your commitment to give it.
+
+**❓ Tomorrow's Question**
+If you discovered that your marriage would become exactly as generous, patient, and unconditionally loving as you personally model it to be (regardless of whether your partner reciprocates), and that your partner's behavior would remain completely outside your control or influence, what would that reveal about whether you're marrying someone whose reciprocity you're depending on or someone whose humanity you're committed to honoring regardless of what you receive in return?`,
+    parable: `Dove sat across from Nana Rose in the sunlit planning room, her eyes red from crying. "I keep giving and giving," she said, her voice breaking. "I adjusted the guest list for his family. I changed the reception time to accommodate his work schedule. I compromised on the venue. And this morning he forgot we had a cake tasting. Just... forgot. When do I get to matter?"
+
+Nana Rose set down her teacup with deliberate care. "Child, may I tell you about the saddest weddings I've witnessed in forty years?"
+
+Dove nodded, wiping her eyes.
+
+"The saddest ceremonies," Nana Rose continued, "aren't the ones where things go wrong. They're the ones where both people are standing at the altar with calculators in their hearts, tallying every sacrifice, measuring every compromise, keeping meticulous records of who gave more. They say beautiful vows, but underneath every promise is a silent invoice. 'I give you this devotion, and in exchange you owe me that appreciation.'"
+
+"But shouldn't marriage be fair?" Dove asked.
+
+"Fair and accountable are different things," Nana Rose said gently. "Tell me—when you made Elm breakfast last Tuesday, did you feel joy in the making, or resentment that he didn't make it for you?"
+
+Dove hesitated. "Both. I liked doing it. But then I noticed he didn't even comment on it, and I felt... invisible."
+
+"Ah," Nana Rose said. "So your joy was conditional. It depended on his response."
+
+Just then, Elm appeared in the doorway, holding a small wrapped package. "I'm so sorry about this morning," he said quietly. "I got absorbed in solving a problem at work and completely lost track of time. I know that's not an excuse. I know this matters to you."
+
+Dove felt her anger soften, but Nana Rose held up a hand before she could respond. "Elm, dear, come sit with us a moment. I was just telling Dove about devotional love."
+
+Elm sat, looking between them uncertainly.
+
+"Devotional love," Nana Rose continued, "is the only kind that lasts. It means your devotion becomes its own reward. You're devoted not because your partner is perfect, not because they always notice, not because they've earned it through flawless behavior. You're devoted because you've chosen devotion as a spiritual practice."
+
+"But what if only one person is devoted?" Dove asked. "What if I give and give and never receive?"
+
+"That's the wrong question," Nana Rose said gently. "The right question is: Can you find genuine joy in the giving itself? Because that's where the secret lives. When you're devoted because you love the feeling of being a devoted person—when you make breakfast because you genuinely enjoy nourishing someone you love, when you adjust your schedule because flexibility is a quality you're proud to embody—then you're free. You're no longer a prisoner of their response."
+
+Elm turned to Dove. "I brought you something," he said, handing her the package. "But before you open it, I need to say something. I've been keeping score too. Counting everything I adjust for you, measuring my compromises against yours. And this morning, when I forgot the cake tasting, I was initially defensive because I was thinking about all the times you've been late or distracted. That's why I was an hour late realizing my mistake—I was justifying it to myself."
+
+Dove opened the package. Inside was a small journal with a note: "For recording moments of devotion—not to prove I noticed, but to practice being devoted whether you notice or not."
+
+"I don't want to keep score anymore," Elm said quietly. "I want to be devoted because being a devoted person is who I want to become. Not because you've earned it. Not because you're perfect. Because devotion itself makes me better."
+
+Nana Rose smiled. "Now we're getting somewhere. You see, children, the couples who stay radiantly married for decades aren't the ones who found perfect partners. They're the ones who found freedom in devotion—who discovered that the real joy isn't in receiving appreciation but in being the kind of person who offers love freely, consistently, without tallying the return."
+
+"But what about boundaries?" Dove asked. "What about not being taken advantage of?"
+
+"Devotion isn't the same as doormat behavior," Nana Rose clarified. "You can be devoted to Elm's highest good and still say no to things that harm you or the relationship. You can be committed to his flourishing and still require him to show up responsibly. Devotion means you want what's best for him—and sometimes what's best is honest accountability, not endless accommodation."
+
+Elm nodded slowly. "So when Dove tells me I've hurt her, her devotion might look like helping me grow, not protecting me from consequences."
+
+"Exactly," Nana Rose said. "And when Elm forgets something important, Dove's devotion might mean honestly expressing her disappointment rather than silently resenting him. Because true devotion wants the beloved to become their best self, even when that requires difficult conversations."
+
+Dove looked at Elm. "I want to practice this. Real devotion, not scorekeeping disguised as love."
+
+"Me too," Elm said. "Starting now."
+
+Nana Rose stood, gathering her things. "Then let me give you a practice. Tonight, each of you do one thing for the other that they'll likely never notice or acknowledge. Something small. And when you do it, pay attention to whether you can find joy in the doing itself, regardless of recognition. That's your devotion training ground."
+
+**Moral:** The happiest marriages aren't built on perfect reciprocity but on the liberation that comes from offering devotion as a spiritual practice rather than a transaction.
+
+**Tomorrow:** Nana Rose will reveal the ultimate test of whether your love is transactional or transformational—and what that means for the vows you're about to speak.`,
+  },
 ];

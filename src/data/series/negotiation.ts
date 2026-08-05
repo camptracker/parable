@@ -9183,4 +9183,90 @@ Vasska smiled his crooked smile. "Then your words would have had no power. But p
 
 **Tomorrow**: Vasska will teach Ren what happens when even agreement becomes suspect—when compliance itself looks like cowardice, and the person must prove their action came from strength rather than surrender.`,
   },
+  {
+    day: 135,
+    title: "The Courage Reframe",
+    date: "2026-08-05",
+    image: "images/negotiation/day-135.jpg",
+    audio: "audio/negotiation/day-135",
+    sonnet: `**🪶 Sonnet CXXXV: The Courage Reframe**
+
+When pride makes men refuse the wisest course,
+And ego chains them to their weak defense,
+The master sees not stubborn will, but force
+Of fear that masquerades as confidence.
+
+He does not argue for his terms or plea,
+But makes the refusal itself the shame—
+"You need to win," he whispers, "to be free,
+But strong men care not who first spoke the claim."
+
+The coward clings to independent choice,
+While brave men seize the value where it lies,
+Secure enough to hear in any voice
+The truth that smaller spirits would despise.
+
+*Thus strength is reframed: to take what's right and true,*
+*Regardless whether it first came from you.*`,
+    standard: `🤝 Day 135: The Courage Reframe
+
+When compliance threatens someone's reputation as much as refusal does, you must reframe the act itself from submission into autonomous choice—make them feel that agreeing with you requires *more* courage than resisting you, that true strength lies in transcending the ego's need to prove independence through reflexive opposition. This transforms what looked like manipulation into a test of their ability to see past social performance into genuine wisdom.
+
+🧱 The Concept
+
+The Courage Reframe works by inverting the power dynamic entirely: you position agreement as the harder, braver choice that weak people are too concerned with appearances to make.
+
+❓ Why It Matters
+
+When someone fears that compliance will look like weakness, direct persuasion backfires—every argument you make confirms their suspicion that you're manipulating them. The Courage Reframe solves this by making refusal the cowardly option: only someone enslaved by ego would reject wisdom simply because it came from your mouth. This activates their need to prove they're strong enough to accept truth regardless of its source.
+
+⚙️ How It Works
+
+Instead of convincing someone your proposal is correct, you make accepting it a test of their intellectual courage. "Most people are too proud to admit when someone else has the better idea—they'd rather fail independently than succeed by following advice." You're not arguing for your position; you're challenging them to prove they're secure enough to embrace it. When a negotiator resists your terms, you might say: "I respect that you need to feel like you won this on your own. Some people are strong enough to take a good deal regardless of who proposed it, but I understand if you're not there yet." This makes acceptance about character rather than calculation. The key is framing their resistance as ego-protection rather than legitimate disagreement—"You're not actually opposed to this idea; you're just uncomfortable that I suggested it first." When they inevitably protest that they're capable of objective evaluation, they've already committed to proving it by evaluating your proposal on its merits rather than its source. A master negotiator once told a resistant client: "The weak negotiate. The strong simply recognize value and claim it."
+
+🎯 Negotiation Wisdom
+
+When someone fears looking weak by agreeing with you, make disagreement the weakness—position acceptance as the courage to transcend ego.
+
+❓ Tomorrow's Question — If making someone prove their courage by transcending ego works by threatening their self-image as strong, what happens when you make them feel like they've been performing strength for so long that they've forgotten what it actually feels like to be genuinely powerful—that their constant need to appear independent is actually evidence of deep insecurity they've been hiding from themselves?`,
+    parable: `Ren found Vasska in the market square, watching a merchant refuse to sell grain to a wealthy buyer at fair price. "Your coin is good," the merchant said stiffly, "but I won't be told what my grain is worth by someone who thinks gold makes him wise."
+
+The buyer walked away. The merchant's grain would spoil within weeks.
+
+"He chose poverty over the appearance of submission," Ren observed.
+
+Vasska's blind eye caught the light. "Then he was richer in pride than coin. Watch."
+
+The old trader approached the merchant. "I saw what happened. You showed great strength."
+
+The merchant's chest swelled. "A man must have principles."
+
+"Indeed. Though I wonder—was your refusal truly principled, or merely proud?" Vasska's voice was gentle, curious rather than challenging. "The principled man refuses bad deals. The proud man refuses good deals that feel like surrender."
+
+"I know the difference," the merchant said, but uncertainty crept into his voice.
+
+"Do you? Because from where I stand, that buyer offered you exactly what your grain was worth—nothing more, nothing less. The only insult was that *he* named the price before *you* did." Vasska leaned closer. "Tell me: would you have accepted the same number if it had come from your own mouth?"
+
+Silence.
+
+"Most men are slaves to their own dignity," Vasska continued. "They'd rather starve than eat food served by someone they dislike. But the truly strong? They take value wherever they find it. They're secure enough to accept truth even when it comes wrapped in condescension." He paused. "Of course, such strength is rare. Most of us are too fragile."
+
+"I'm not fragile," the merchant said quickly.
+
+"Then prove it. Go accept his offer—not because he was right, but because you're strong enough not to care who was right." Vasska's working eye gleamed. "Show him that his opinion of you matters so little that you'll take his money without a second thought. That's power. What you did before? That was just ego dressed as principle."
+
+Ten minutes later, Ren watched the merchant chase down the buyer.
+
+"You gave him permission to surrender by calling it strength," Ren said.
+
+"I gave him nothing," Vasska replied. "I simply revealed what his refusal actually was. When a man sees his courage as cowardice and his cowardice as courage, the world inverts. He'll do anything to stand upright again—even if upright means agreeing with the person who pushed him over."
+
+"And if he'd truly been principled? If the price had actually been unfair?"
+
+Vasska smiled. "Then my words would have fallen like rain on stone. The Courage Reframe only works on men who suspect, deep down, that they're performing strength rather than possessing it. I didn't create his insecurity, Ren. I merely named it."
+
+**Moral**: When compliance threatens reputation, make compliance the reputation—position agreement as courage and refusal as fear.
+
+**Tomorrow**: Vasska teaches Ren what happens when someone's performed strength becomes a cage they can no longer escape, even in private.`,
+  },
 ];

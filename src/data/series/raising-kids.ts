@@ -4575,4 +4575,88 @@ The moral settled like a stone: *Words are cheap currency in the economy of conn
 
 And tomorrow, Asha would begin to understand why no parenting technique could substitute for addressing the unacknowledged depletion that was leaking through every careful word she spoke.`,
   },
+  {
+    day: 66,
+    title: "The Currency of Attention",
+    date: "2026-08-05",
+    image: "images/raising-kids/day-66.jpg",
+    audio: "audio/raising-kids/day-66",
+    sonnet: `**🪶 Sonnet LXVI: The Currency of Attention**
+
+The butterfly alights on open palm,
+Requiring nothing but a witness still,
+No reaching out, no grasping, only calm—
+The gift of presence offered by pure will.
+
+So children bring their treasures to our door,
+Their drawings, stories, fragments of their day,
+Not seeking praise, but asking something more:
+Will you be here, or has your mind gone away?
+
+We think our love is measured by our care,
+The hours we devote, the tasks we do,
+But they experience only this: we're there,
+Or we're not there—they know which one is true.
+
+*The phone put down, the full gaze turned their way,*
+*Worth more than years of half-attention's stay.*`,
+    standard: `👶 Day 66: The Currency of Attention
+
+🧱 **The Concept**
+Children don't experience our presence as the hours we're physically nearby—they experience it as the quality of our attention in moments of connection, and the feeling of being seen.
+
+❓ **Why It Matters**
+A parent can spend all day in the same house with their child and yet the child feels unseen if that parent's attention is perpetually divided, fragmented, or elsewhere. What children remember isn't quantity of time but the quality of being genuinely witnessed—the moments when someone's full attention rested on them without distraction, judgment, or simultaneous task management.
+
+⚙️ **How It Works**
+When a four-year-old shows you their drawing for the fourteenth time that day, they're not actually seeking praise for the drawing—they're checking whether you're still willing to turn your full attention toward them, whether they're still worth interrupting your other concerns for. The content matters less than the transaction: Will you stop what you're doing and actually look? When a teenager offers a fragment of their day at dinner, they're testing whether your listening is real or performative—whether you'll put down your phone, stop mentally planning tomorrow, and actually be here for this momentary opening. Children develop their sense of mattering not from grand declarations of love but from thousands of micro-moments when someone chose to fully see them instead of half-seeing them while doing something else. The parent scrolling their phone while saying "uh-huh" teaches something entirely different than the parent who stops, makes eye contact, and gives thirty seconds of undivided presence.
+
+🎯 **Parenting Wisdom**
+Five minutes of full presence teaches a child more about their worth than five hours of distracted proximity.
+
+❓ **Tomorrow's Question** — If undivided attention is how children experience being valued, why do we often feel that giving our full focus to the small, repetitive, seemingly insignificant things our children want to share with us is an inefficient use of time that takes us away from more important tasks, and what does our internal hierarchy of importance reveal about what we believe actually creates a life worth living?`,
+    parable: `Asha found Elder Mira sitting in her garden, watching a butterfly move from flower to flower with complete absorption, as if nothing else in the world existed.
+
+"I spent the whole day with my daughter," Asha said, settling beside her. "Why do I feel like I barely saw her?"
+
+Mira's eyes remained on the butterfly. "Tell me about your day."
+
+"I was there for breakfast—well, I was answering emails, but I was there. We played in the afternoon while I listened to a podcast about child development. At dinner I asked her about her day, but I was also thinking about everything I needed to do after she went to bed. I was present. I was trying."
+
+"Were you?" Mira asked gently.
+
+The butterfly landed on Mira's outstretched palm. She sat utterly still, her full attention resting on the creature. It stayed for a long moment, then flew away.
+
+"Did you see that?" Mira asked.
+
+"Of course," Asha said.
+
+"No. Did you *see* it? The pattern on its wings? The way it tested my palm before trusting its weight to me? The particular orange of the sun through its wings?"
+
+Asha was quiet.
+
+"Your daughter showed you her drawing four times today," Mira continued. "Did you see the drawing, or did you see that she was asking you to stop everything and look at her?"
+
+"I praised it every time," Asha protested.
+
+"But did you put down your phone? Did you stop planning your next task? Did you look at her the way I just looked at that butterfly—as if nothing else in the world mattered for those thirty seconds?"
+
+Asha felt tears prick her eyes. "I'm so busy. There's so much to do. I can't stop everything every time she—"
+
+"Can't you?" Mira asked. "What would happen if you gave her three minutes of your full, undivided, completely present attention—even just once today? Not while folding laundry. Not while mentally rehearsing your to-do list. Just... here. Fully here."
+
+"Three minutes seems so small."
+
+"Yes," Mira agreed. "And yet children build their entire sense of whether they matter on those three-minute transactions. Each time you choose to truly see them—to stop, turn, and give them the gift of your full presence—you make a deposit in their account of worthiness. Each time you half-see them while doing something else, you make a withdrawal."
+
+"But I love her," Asha whispered.
+
+"I know you do," Mira said softly. "But she doesn't experience your love as the emotion you feel in your heart. She experiences it as your willingness to let everything else fall away for a moment and rest your full attention on her. That's the currency she understands. Not your multitasking affection. Your presence."
+
+Another butterfly passed through the garden. This time Asha watched it completely, letting everything else fade. In that moment of full attention, she understood.
+
+**Moral:** *Children measure love not in hours of proximity but in moments of undivided presence—when someone chooses to see them fully rather than glance at them while attending to more important things.*
+
+**Tomorrow:** *Asha learns why efficiency, that virtue she's cultivated in every other area of life, becomes a liability in the realm of raising children, and what it costs when we try to optimize connection.*`,
+  },
 ];

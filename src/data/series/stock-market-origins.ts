@@ -5515,4 +5515,92 @@ Van der Meer closed both ledgers. "Master the transmissible truths as swiftly as
 
 *Tomorrow, Willem will discover whether even the slow truths can be learned more efficiently through careful design...*`,
   },
+  {
+    day: 79,
+    title: "The Threshold of Transmutable Knowledge",
+    date: "2026-08-05",
+    image: "images/stock-market-origins/day-79.jpg",
+    audio: "audio/stock-market-origins/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Threshold of Transmutable Knowledge**
+
+Some truths flow freely, water-like through words,
+From patient teacher's mind to student's ear—
+The mathematics, patterns overheard,
+The logic markets follow, crystal clear.
+
+But other wisdom dwells beyond that gate,
+Where explanation fails and teaching ends,
+Where only lived experience translates
+The lessons that no secondhand tale lends.
+
+The taste of loss, the feel of fear's cold weight,
+The sleepless dawn when fortune turns to dust—
+No book contains them, no lecture can create
+The bone-deep knowledge earned through broken trust.
+
+*Two kingdoms divide what investors must know:*
+*What words can carry, and what wounds must show.*`,
+    standard: `📈 Day 79: The Threshold of Transmutable Knowledge
+
+🧱 **The Concept**
+Certain market insights can only be learned through direct experience and cannot be transmitted through explanation, while others can be taught efficiently through instruction, creating a fundamental divide between transmutable and non-transmutable knowledge.
+
+❓ **Why It Matters**
+Understanding which investment skills can be taught through study versus those requiring lived experience determines how to allocate time between learning from others and learning from markets. This distinction explains why some brilliant analysts fail as investors while some intuitive traders struggle to explain their success. Recognizing the threshold between these categories prevents wasting years trying to learn through reading what can only be grasped through doing.
+
+⚙️ **How It Works**
+Transmutable knowledge includes analytical frameworks, historical patterns, and systematic processes—Van der Meer can teach Willem how to read a ship's manifest or calculate compound returns through explanation. Non-transmutable knowledge encompasses risk tolerance, emotional response to volatility, and the physical experience of holding a losing position—Willem must lose his own money to understand how fear affects decision-making differently than anticipated. Some investors spend decades studying market theory without developing the experiential knowledge that comes from a single significant loss. The threshold appears precisely where understanding the concept intellectually becomes completely different from internalizing it emotionally. The most dangerous delusion is believing you've learned something transmutable when you've only encountered its non-transmutable essence secondhand.
+
+🎯 **Market Wisdom**
+Know which lessons require tuition and which require experience. Confusing the two wastes years in the wrong classroom.
+
+❓ **Tomorrow's Question** — If certain crucial investment insights can only be gained through painful personal experience with real money at risk, but many investors lack sufficient capital to survive the education that losing teaches, does this create a permanent barrier where those who can afford tuition in the market's most expensive school gain an insurmountable advantage over those who cannot, or do smaller-scale experiences with limited capital somehow contain the same essential lessons that larger losses teach?`,
+    parable: `Willem sat across from Van der Meer in the evening gloom of the merchant's chamber, a heavy ledger between them. For three hours, the old trader had been explaining the mechanics of forward contracts on pepper—how to calculate the carrying cost, how to evaluate counterparty risk, how to structure the terms to favor the seller when prices rose or the buyer when they fell.
+
+"Do you understand?" Van der Meer asked.
+
+"Perfectly," Willem replied with confidence. "The mathematics are elegant. The logic is clear. I could draw these contracts myself now."
+
+Van der Meer smiled faintly. "Then you have learned nothing."
+
+Willem's face flushed. "But I can explain every principle you've shown me!"
+
+"Indeed. And that is precisely what I have given you—explanation. Knowledge that flows through words from my mind to yours." The merchant closed the ledger. "Now let me show you something else."
+
+He reached into a drawer and produced a contract, stamped with the VOC seal. "Three months ago, I sold ten thousand guilders' worth of nutmeg forward, to be delivered at year's end, at what seemed a generous price. The buyer was a Flemish merchant of good reputation."
+
+"A sound transaction," Willem observed.
+
+Van der Meer's jaw tightened almost imperceptibly. "Last week, three of our spice ships sank in a storm off Java. The market price of nutmeg has doubled. The Flemish merchant has disappeared, and I learn he dealt through proxies—he never intended to take delivery. He sold the contract to another buyer at the new higher price and vanished with the difference."
+
+"Then you'll pursue him legally—"
+
+"I will lose twenty thousand guilders by the time this is settled, if I recover anything at all." Van der Meer's voice remained steady, but his fingers had gone white on the contract's edge. "Can you explain counterparty risk now?"
+
+"I... yes, as I explained it before—"
+
+"No. Before, you could recite definitions. You understood the concept as a student understands Latin declensions—through memorization and pattern recognition." The merchant set the contract down between them like a corpse on a table. "This week, I have woken at three each morning with my heart hammering in my chest. I have reviewed every decision, searching for the error. I have imagined my son hearing that his inheritance has vanished. I have felt the physical sensation of twenty thousand guilders evaporating—not as an abstraction but as a weight in my stomach that makes food taste like ash."
+
+Willem said nothing.
+
+"I could have told you all of this three months ago," Van der Meer continued softly. "I could have warned you that bad counterparties exist, that storms sink ships, that even careful merchants lose fortunes. You would have nodded and understood my words perfectly. But would you have KNOWN? Would you have felt in your bones the difference between a risk well-calculated and a disaster unfolding?"
+
+"Perhaps not," Willem admitted.
+
+"There is a threshold, boy, where knowledge changes form. On one side of it, information flows like water through teaching—I can pour what I know into the vessel of your mind. On the other side, truth must be forged in fire—you must burn yourself to learn not to touch flame." The merchant retrieved the contract, his fingers steadier now. "The art of investing requires both kinds. The tragedy is that most investors confuse having heard wisdom with having earned it."
+
+Willem felt something shift in his understanding, though he couldn't name it. "How do I know which lessons require which kind of learning?"
+
+"That itself is a lesson that must be learned through experience," Van der Meer said with the ghost of a smile. "Though I can tell you this much through words: anything involving fear, pain, or the specific feeling of watching your own money disappear cannot be transmitted by teaching. You must pay the tuition in coin and blood. Everything else—the mathematics, the history, the patterns—these I can give you freely, and you should take them gratefully, for they cost you nothing but attention."
+
+The candle between them guttered and steadied. In its recovered light, Willem saw his master differently—not just as a repository of knowledge to be extracted through questions, but as a man who had paid prices Willem had not yet been charged.
+
+"Will you teach me tomorrow?" Willem asked.
+
+"Everything that can be taught, yes. The rest..." Van der Meer gestured toward the window, where the lights of Amsterdam's exchange reflected off the dark canal waters. "The rest awaits you out there, in the market itself. No teacher can spare you that education."
+
+**Moral**: Wisdom divides cleanly into two kingdoms—what can be transmitted through words, and what must be earned through wounds. The first comes cheaply to the attentive; the second must be purchased at the market's only counter, where tuition is paid in personal suffering.
+
+**Tomorrow**: Van der Meer will reveal how the lessons that cannot be taught might still be partially learned through vicarious experience—and why this secondhand education, while imperfect, may be the only way some truths can be approached before committing capital.`,
+  },
 ];

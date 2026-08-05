@@ -5278,4 +5278,103 @@ Maya picked up one of the old prospectuses. "So what's the point of keeping thes
 
 **Tomorrow:** Garrison asks whether regulators who recognize the inevitability of generational amnesia should stop trying to prevent crises and instead focus on designing systems that fail gracefully—and what Maya thinks that would mean for her career in an industry built on the promise of stability.`,
   },
+  {
+    day: 74,
+    title: "The Resilience Architecture",
+    date: "2026-08-05",
+    image: "images/us-bond-market/day-74.jpg",
+    audio: "audio/us-bond-market/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Resilience Architecture**
+
+We build our towers tall and straight and proud,
+With rules like steel to hold them rigid, true,
+And when the earth begins to shake aloud,
+We watch them crack and fall and wonder who
+
+Might be to blame for structures built so well
+That could not bend when pressure came to test
+Their perfect forms—we cast about to tell
+Which regulation failed, which law transgressed.
+
+But wise Japan knows towers ought to sway,
+That earthquakes cannot be regulated still,
+That building codes should not attempt to stay
+The moving earth but guide the builder's skill
+
+*To flex and dance with forces we can't tame—
+The strongest structures are designed for strain.*`,
+    standard: `📊 Day 74: The Resilience Architecture
+
+Regulators continue pursuing crisis prevention because admitting that disasters are inevitable would undermine their institutional legitimacy and political mandate—agencies designed to prevent failures cannot publicly embrace failure as acceptable. Yet some sophisticated jurisdictions are quietly redesigning regulation around resilience rather than prevention: stress tests that assume rather than prevent bank failures, resolution frameworks that plan for orderly collapse, and capital buffers calibrated not to eliminate risk but to absorb predictable shocks. This represents a profound shift from the hubris of control to the wisdom of preparation.
+
+🧱 **The Concept**
+Resilient financial regulation accepts that crises will occur and designs systems to fail gracefully rather than catastrophically, much like earthquake engineering focuses on preventing building collapse rather than preventing earthquakes.
+
+❓ **Why It Matters**
+The difference between prevention-focused and resilience-focused regulation determines whether financial systems experience occasional manageable disruptions or rare but civilization-threatening collapses. The 2008 crisis revealed that decades of prevention-oriented rules had actually increased systemic fragility by creating moral hazard and hiding risk rather than absorbing it, while countries with resolution-ready frameworks like Canada weathered the storm with minimal intervention.
+
+⚙️ **How It Works**
+Resilience architecture operates through multiple redundant layers rather than single points of control: **living wills** that pre-plan how systemically important institutions will be dismantled without government bailouts, **contingent capital** instruments that automatically convert debt to equity when banks approach failure thresholds, and **central clearing** mechanisms that isolate counterparty failures rather than allowing them to cascade. The UK's "ring-fencing" regime forces banks to separate retail deposits from investment banking, accepting that investment banks will fail periodically but ensuring these failures don't threaten the payment system. Switzerland requires its largest banks to maintain capital levels twice the international minimum, not because regulators believe this prevents failure but because it provides time to execute orderly resolution when failure occurs. Even the Federal Reserve's discount window has been redesigned from an emergency lending facility (implying crises are aberrations) to a standing liquidity facility (accepting that periodic liquidity stress is normal).
+
+🎯 **Bond Wisdom**
+The strongest structures aren't those that never bend—they're those designed to flex under stress and return to equilibrium, which is why resilient bond portfolios maintain dry powder and accept periodic underperformance rather than optimizing for every basis point.
+
+❓ **Tomorrow's Question**
+If resilience architecture accepts periodic failure as inevitable and even healthy for clearing excess risk from the system, why do bond investors continue to demand government intervention during every market disruption rather than accepting losses as the price of participating in inherently cyclical markets, and what does this persistent demand for bailouts reveal about whether modern capitalism has created a investor class psychologically incapable of accepting the creative destruction that theoretically makes free markets superior to planned economies?`,
+    parable: `The morning after the repo market seized in September 2019, Maya found Garrison standing at his favorite window, watching clouds gather over Manhattan.
+
+"The Fed injected eighty billion overnight," she said, tablet glowing with headlines. "Crisis averted. Again."
+
+"Averted." Garrison tasted the word like sour wine. "We've become a civilization that believes we can schedule earthquakes out of existence through better building codes."
+
+Maya frowned. "The codes worked. The system didn't collapse."
+
+"No." Garrison turned from the window. "We postponed the collapse. Accumulated the pressure. Made the eventual earthquake stronger." He gestured toward the trading floor below, where screens pulsed green with relief. "Watch them celebrate. They think intervention proves the system works. They've forgotten what systems are for."
+
+"Stability?"
+
+"Adaptation." Garrison pulled a file from his desk—pages yellowed with age. "Your grandfather's generation built the original Glass-Steagall framework. Read the congressional testimony. They weren't trying to prevent bank failures. They were designing a system where banks could fail without taking civilization with them."
+
+Maya scanned the archaic language. "Deposit insurance, securities separation, the Fed as lender of last resort—these are preventive measures."
+
+"No." Garrison's finger traced a specific passage. "They're containment measures. Firewalls, not fire prevention. Your grandfather's generation had watched the world economy collapse. They understood something we've forgotten: you can't prevent fire in a building full of people cooking dinner. You can only design the building so one kitchen fire doesn't burn down the entire city."
+
+"But modern regulation—"
+
+"Modern regulation," Garrison interrupted, "is written by people who've never seen the city burn. They believe in prevention because they've only experienced intervention. Every crisis in your lifetime has been 'solved' by government action. You've never watched the market actually clear."
+
+Maya felt something shift in her understanding. "So the repo intervention—"
+
+"Prevented a cleansing fire. Some overleveraged hedge funds would have failed. Some corporate bond funds would have gated redemptions. Pension managers would have faced uncomfortable questions about their liquidity assumptions. And the market would have learned—viscerally, painfully—that repo funding isn't actually risk-free." Garrison closed the file. "Instead, we've taught everyone that the Fed will always intervene, which means the next crisis will be larger and the interventions will need to be more extreme."
+
+"You're saying we should have let it burn?"
+
+"I'm saying we should have designed the building to contain the fire." Garrison pulled up a screen showing Swiss banking regulations. "Look at their contingent capital requirements. Their living wills. Their resolution frameworks. They're not trying to prevent bank failures—they're accepting that Credit Suisse or UBS might fail and building a system that can absorb that failure without systemic collapse."
+
+Maya studied the structures. "It's like... earthquake engineering. You don't prevent earthquakes. You build structures that can flex."
+
+"Exactly." Garrison's face softened. "The Japanese learned this. Their buildings sway but don't collapse. Meanwhile, we keep building rigid structures and wondering why every earthquake is catastrophic."
+
+"But politically—how do you tell voters you're designing for failure?"
+
+"You don't call it failure. You call it resilience." Garrison opened another file—this one recent. "Canada weathered 2008 better than almost anyone. Not because their regulations prevented risk-taking, but because their banks were resolution-ready. When losses appeared, they had capital to absorb them. When funding dried up, they had liquidity buffers. The system bent. Didn't break."
+
+Maya looked down at the trading floor. "So all our stress tests, our Dodd-Frank regulations—"
+
+"They're moving in the right direction," Garrison acknowledged. "Living wills. Capital buffers. Resolution planning. But they're politically marketed as prevention measures when they're actually resilience measures. And that lie creates its own problems."
+
+"What problems?"
+
+"If people believe the regulations prevent crises, they'll take more risk—moral hazard. If they understood the regulations only contain crises, they'd maintain their own resilience." Garrison turned back to the window. "The difference between a seat belt and a cage. One assumes you might crash but keeps you alive. The other pretends crashes are impossible."
+
+The clouds outside darkened. Maya thought about her portfolio—optimized for every basis point, leveraged to the edge of regulatory limits, dependent on continuous liquidity.
+
+"I need dry powder," she said quietly.
+
+"You need a portfolio designed to survive your own mistakes," Garrison corrected. "Not one optimized for a world where mistakes are impossible."
+
+**Moral:** The strongest systems aren't those that never fail—they're those designed to fail gracefully, absorbing shocks without cascade. In bond markets as in architecture, resilience comes not from preventing stress but from designing structures that can flex under pressure and return to equilibrium. The trader who optimizes for perfect conditions will be destroyed by inevitable imperfection, while the trader who builds in redundancy and accepts periodic underperformance will survive to trade another cycle.
+
+**Tomorrow:** Maya will discover why bond investors who theoretically support free markets consistently demand government intervention during stress, and whether this contradiction reveals something fundamental about human psychology or something structural about modern capitalism itself.`,
+  },
 ];
