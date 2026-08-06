@@ -5132,4 +5132,76 @@ Quinn and River left together, walking slowly through the damp evening. They did
 
 **Tomorrow**: When the ledger reveals we've been overdrawn, why do we resist the sustained deposits required to rebuild, demanding instead that our partner simply ignore the deficit?`,
   },
+  {
+    day: 70,
+    title: "The Compound Interest of Presence",
+    date: "2026-08-06",
+    image: "images/relationship-play/day-70.jpg",
+    audio: "audio/relationship-play/day-70",
+    sonnet: `**🪶 Sonnet LXX: The Compound Interest of Presence**
+
+Each moment that we offer true attention
+Builds wealth that neither gold nor land can buy,
+While distracted days—though without intention—
+Create a debt our partner's heart can quantify.
+
+The phone that steals our eyes from their disclosure,
+The half-heard story met with empty nod,
+These micro-absences find their enclosure
+In nervous systems keeping careful prod.
+
+For presence grows like interest over years,
+Small deposits building trust and flame,
+While absence compounds into quiet fears
+That we're an afterthought, not someone's claim.
+
+*The math is simple, though the practice hard:*
+*What we attend to shows what we regard.*`,
+    standard: `🎮 Day 70: The Compound Interest of Presence
+
+🧱 **The Concept**
+Every moment of genuine presence or distraction accumulates over time, creating either relational wealth or poverty through the invisible mathematics of daily attention.
+
+❓ **Why It Matters**
+We often treat our attention as inconsequential—checking our phone during conversations, half-listening while multitasking, or being physically present but mentally elsewhere. Yet our partner's nervous system tracks these micro-moments with astonishing precision, calculating over months and years whether they are our priority or our afterthought. The accumulated message of our presence patterns shapes everything from our partner's willingness to be vulnerable to their fundamental sense of mattering in our life.
+
+⚙️ **How It Works**
+Just as financial compound interest transforms small deposits into substantial wealth over time, presence compounds relationally. When Quinn puts down their phone and makes eye contact as River shares their day, that two-minute investment doesn't just create connection in that moment—it increases River's likelihood of sharing something deeper tomorrow. When River consistently notices and responds to Quinn's bids for attention ("Look at this sunset" or "Can I tell you something?"), those micro-responses accumulate into Quinn's bone-deep certainty that River wants to know them. Conversely, when we habitually offer distracted half-presence—scrolling while our partner talks, saying "uh-huh" without actually listening, or waiting for our turn to speak instead of genuinely receiving—we make daily withdrawals that compound into relational bankruptcy. The devastating part is that presence debt accumulates silently until the account is nearly empty, at which point our partner may have already begun the emotional process of divesting from the relationship.
+
+🎯 **Playful Connection Wisdom**
+Your presence is the currency that purchases everything you actually want in your relationship—passion, intimacy, trust, and joy all require the accumulated wealth of countless moments when your partner knew they had your complete attention.
+
+❓ **Tomorrow's Question** — If we can clearly see how small daily deposits of presence compound into relational wealth over time, why do so many couples unconsciously treat their attention as if it has unlimited availability, spending it carelessly on every notification and distraction while somehow expecting their partnership to feel like a priority investment despite receiving only the loose change left over from everything else?`,
+    parable: `Quinn sat across from Elder Joy, phone face-down on the table—a recent practice that still required conscious effort. River was late, caught in traffic, and Quinn found their hand drifting toward the device every few minutes like a reflex.
+
+"You're doing the math," Elder Joy observed, smiling knowingly.
+
+"What math?"
+
+"Calculating whether these five minutes are worth staying present for, or whether you should check your messages while you wait." Elder Joy's eyes twinkled. "It seems like such a small decision. What's five minutes?"
+
+Quinn felt suddenly transparent. "Exactly. It's just five minutes."
+
+"Indeed. Just five minutes today. And five minutes tomorrow when River is telling you about their meeting. And seven minutes next week when they're trying to share something that happened with their mother. Just small amounts, barely worth mentioning." Elder Joy pulled out a small notebook, opened it to reveal columns of numbers. "I've been married forty-two years. Do you know how many five-minute increments that is?"
+
+Quinn felt their stomach tighten.
+
+"Over four million minutes total. If I was half-present for even ten percent of those—distracted, thinking about something else, waiting for my turn to talk instead of actually listening—that's four hundred thousand minutes of my beloved feeling like an interruption in my life rather than the center of it." Elder Joy's voice grew gentle. "That's two hundred and seventy-seven days of accumulated absence while sitting right next to them."
+
+The door opened and River rushed in, apologetic and flustered. Quinn's phone buzzed with a notification. In that split second, Quinn felt the choice crystallize: the math they'd been doing their whole relationship, treating each moment as isolated, inconsequential. Or the math Elder Joy was teaching them—the compound interest calculation where every moment of presence or absence accumulated into the fundamental question their relationship would eventually answer: *Do I matter to you?*
+
+Quinn left the phone face-down, stood, and gave River their complete attention—eye contact, open body language, genuine curiosity about their journey through traffic. It was just three minutes. It was also a deposit that would compound.
+
+River's shoulders relaxed in a way Quinn had almost stopped noticing they tensed. That's when Quinn understood: their partner's nervous system had been doing this math all along, tracking not whether Quinn loved them in the abstract, but whether Quinn's attention proved it in the accumulated evidence of ten thousand ordinary moments.
+
+"The interest compounds both ways," Elder Joy said later, after River had ordered and they sat together, phones forgotten. "Presence builds wealth. Distraction builds debt. And unlike money, you cannot suddenly deposit forty years of attention when you finally realize the account is empty."
+
+Quinn watched River laugh at something across the room, then turn back to share the moment—checking, as they always did, whether Quinn was still *there*. This time, Quinn was. Completely. And the return on that investment was immediate: River's face softened, their guard dropped, their next words came from somewhere deeper.
+
+"It starts with one deposit," Elder Joy said quietly. "But it becomes everything."
+
+**Moral:** *The attention you give your partner accumulates with mathematical precision into either relational wealth or poverty; presence compounds into intimacy and trust, while distraction compounds into distance and doubt, and unlike financial investments, you cannot recover lost time by suddenly paying attention when you finally notice the account is empty.*
+
+**Tomorrow:** *Quinn and River discover that even knowing the compound interest principle doesn't automatically solve the mystery of why they keep making withdrawals they don't even value, spending their precious attention on things they don't actually care about while the relationship they treasure receives whatever's left over.*`,
+  },
 ];

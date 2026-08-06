@@ -8568,4 +8568,78 @@ Nana Rose stood, gathering her things. "Then let me give you a practice. Tonight
 
 **Tomorrow:** Nana Rose will reveal the ultimate test of whether your love is transactional or transformational—and what that means for the vows you're about to speak.`,
   },
+  {
+    day: 128,
+    title: "The Sacred Witness",
+    date: "2026-08-06",
+    image: "images/wedding-planning/day-128.jpg",
+    audio: "audio/wedding-planning/day-128",
+    sonnet: `**🪶 Sonnet CXXVIII: The Sacred Witness**
+
+Not spectators come to watch us wed,
+But witnesses who'll hold our vows as true,
+Who carry what we promise, what we've said,
+When years erase the memory we knew.
+
+Each guest becomes accountable to see
+The sacred promises we make this day,
+To speak truth when we've lost integrity,
+To call us home when we have lost our way.
+
+No crowd of strangers dining on our dime,
+But council chosen for their knowing hearts,
+Who've watched us through both tender and trying time,
+Who understand the whole, not just the parts.
+
+*The altar needs true witnesses, not show—*
+*Invite only those your marriage needs to know.*`,
+    standard: `💍 Day 128: The Sacred Witness
+
+🧱 **The Concept**
+Your wedding guests are not an audience to entertain but a community invited to witness, support, and hold you accountable to the promises you're about to make.
+
+❓ **Why It Matters**
+When you understand your guests as witnesses rather than spectators, everything changes—from who you invite, to how you design your ceremony, to what you ask of them. Witnesses don't just watch; they commit to remembering what they saw and helping you honor it when memory fades. Your wedding becomes less about impressing people and more about inviting them into a sacred responsibility that extends far beyond the celebration itself.
+
+⚙️ **How It Works**
+Instead of treating guests as passive observers, you actively invite them into their witnessing role—perhaps through a moment in your ceremony where you turn to face them and ask if they'll support your marriage, or by choosing readings that explain what you're asking them to witness and why their presence matters. You might include in your program a note explaining that by attending, they're agreeing to remind you of this day when you need it most, or design your reception so people share marriage advice or blessings rather than just eating and dancing. This transforms your guest list from "who gets invited to the party" to "who do we trust to hold this sacred commitment with us." It means potentially having a smaller wedding with people who truly know your relationship, rather than a large event filled with obligatory invitations. The power lies in understanding that every person present is taking on a spiritual responsibility, not just enjoying your hospitality.
+
+🎯 **Wedding Wisdom**
+The people you invite to witness your vows are the same people you're authorizing to speak truth to your marriage when you've forgotten what you promised.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage would be sustained not by the private promises you make to each other at the altar but by the public accountability you accept from your community of witnesses, what specific permission would you need to grant your guests to ensure they can actually fulfill that role when your marriage needs them most, and what does that reveal about the difference between wanting people to celebrate you versus wanting people to hold you to your word?`,
+    parable: `Dove sat in Nana Rose's garden studio, staring at the guest list spreadsheet that had grown to two hundred names. Elm stood at the window, quiet as always, waiting.
+
+"I don't even know half these people," Dove confessed. "Mom's college friends. Dad's business partners. Cousins I haven't seen in a decade. But everyone says you have to invite them or there will be drama."
+
+Nana Rose set down her teacup with deliberate care. "Tell me, child—what do you think these two hundred people will be doing during your ceremony?"
+
+"Watching us, I suppose," Dove said. "Seeing if I cry, if the flowers are pretty, if—"
+
+"No." Nana Rose's voice was gentle but absolute. "If that's all they're doing, you've invited spectators to a performance. I'm asking what you want them to witness."
+
+Elm turned from the window. "What's the difference?"
+
+"A spectator watches for entertainment and goes home unchanged," Nana Rose said. "A witness watches to remember, to hold you accountable, to carry the sacred weight of what they've seen. When you stand at that altar and make promises, every person present becomes responsible for those promises. They become the living memory of your vows, the community that will remind you what you swore when the years make you forget."
+
+Dove felt something shift in her chest. "So when I'm struggling five years from now..."
+
+"The people in those chairs have permission—no, have an obligation—to say: 'I was there. I heard what you promised. Let me remind you who you said you'd be.'" Nana Rose pulled out a much shorter list, perhaps forty names. "These are the people I invited to my wedding. People who knew our relationship, who'd seen us fight and reconcile, who understood what we were committing to. Not impressive. Not diplomatic. Just true."
+
+Elm crossed to Dove, took her hand. "Your mom's college friend who hasn't spoken to you in ten years—is she really someone we want holding our marriage sacred?"
+
+Dove looked down at the bloated list, then at Elm's steady face. "We're not planning a party, are we? We're assembling a council."
+
+"Now you understand," Nana Rose said. "Every wedding has witnesses. But most couples never tell them what they're witnessing or ask them to actually witness it. They just feed them dinner and hope they had fun. You can do better. You can look each guest in the eye and say: 'By coming here, you're agreeing to remember this day and hold us to it. You're becoming part of our marriage.'"
+
+"That changes everything," Dove whispered, already imagining the ceremony—not facing away from the guests toward each other, but turning outward at some point, acknowledging the sacred responsibility she was asking them to accept.
+
+"It changes who you invite," Nana Rose agreed. "It changes how you invite them. It changes what you ask of them. And it changes whether your marriage has fifty true witnesses or two hundred polite strangers."
+
+Elm squeezed Dove's hand. "I think we need a much shorter list."
+
+**The Moral:** Your wedding guests are not your audience; they are your accountability. Choose wisely who you ask to witness, for they become the keepers of your promises.
+
+**Tomorrow:** Dove and Elm must decide what permission they're willing to grant their witnesses—and what that reveals about whether they want to be celebrated or held accountable.`,
+  },
 ];
