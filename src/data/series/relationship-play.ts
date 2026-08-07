@@ -5204,4 +5204,102 @@ Quinn watched River laugh at something across the room, then turn back to share 
 
 **Tomorrow:** *Quinn and River discover that even knowing the compound interest principle doesn't automatically solve the mystery of why they keep making withdrawals they don't even value, spending their precious attention on things they don't actually care about while the relationship they treasure receives whatever's left over.*`,
   },
+  {
+    day: 71,
+    title: "The Attention Audit",
+    date: "2026-08-07",
+    image: "images/relationship-play/day-71.jpg",
+    audio: "audio/relationship-play/day-71",
+    sonnet: `**🪶 Sonnet LXXI: The Attention Audit**
+
+We spend our hours in each other's space,
+Yet give our eyes to every glowing screen,
+And wonder why we cannot seem to trace
+The intimacy that once had always been.
+
+The notifications come in endless streams,
+Each promising connection, news, and light,
+While sitting here, your face, your hopes, your dreams
+Receive the fragments left from appetite.
+
+We never thought to measure what we give
+To scrolling feeds and messages and more,
+Believing somehow love will simply live
+On scraps of focus scattered on the floor.
+
+*But audit shows what hearts already knew:*
+*We're spending everywhere but me and you.*`,
+    standard: `🎮 Day 71: The Attention Audit
+
+We treat attention as unlimited because we've never been forced to account for where it actually goes—unlike money, which leaves a bank statement trail, our attention disappears into a thousand micro-transactions we never consciously approved. We can intellectually understand that presence compounds while somehow believing that "just checking" our phone won't make a measurable difference, the same way people understand calories compound but convince themselves that small bites don't count. The cognitive dissonance exists because attention expenditure feels invisible and reversible in the moment, even though its relational impact is neither.
+
+🧱 **The Concept**
+
+Most couples have never actually measured where their attention goes during their time together, operating on vague impressions and good intentions rather than honest accounting.
+
+❓ **Why It Matters**
+
+Without tracking what we're actually doing with our shared time, we can simultaneously believe we're prioritizing our relationship while unconsciously giving our best focus to everything else. The gap between our perceived attention allocation and our actual attention allocation often explains the mysterious distance couples feel despite spending hours in the same room.
+
+⚙️ **How It Works**
+
+Conduct an **attention audit** for one evening: note every time either partner reaches for a phone, checks a notification, shifts focus to a screen, or mentally departs from the present moment. Quinn and River discovered they were "spending time together" for three hours but were genuinely present with each other for approximately eighteen minutes total—the rest was fragmented between phones, laptops, mental planning, and half-conscious scrolling. The audit isn't about judgment; it's about **measurement as medicine**. When we see the actual data—"I looked at my phone forty-seven times during our dinner and conversation"—the abstraction becomes concrete. Many couples resist this practice precisely because some part of them already knows what they'll discover, and confirming the truth requires either changing behavior or consciously choosing to continue patterns we can no longer pretend aren't happening.
+
+🎯 **Playful Connection Wisdom**
+
+You cannot manage what you don't measure, and you cannot prioritize what you won't honestly acknowledge.
+
+❓ **Tomorrow's Question**
+
+If conducting an honest attention audit reveals that we're giving our relationship only the scattered fragments left over after everything else has taken what it wanted, why do so many couples unconsciously resist implementing even modest boundaries around their devices and distractions, treating the idea of "phone-free time" as an impossible restriction rather than a loving liberation?`,
+    parable: `Quinn sat across from River at their favorite corner table, the Tuesday evening light painting amber patterns across the worn wood. They'd been here an hour—or had it been two? Time had that strange elastic quality lately, simultaneously dragging and disappearing.
+
+"We're together," Quinn said quietly, "but we're not actually *here* together, are we?"
+
+River looked up from their phone with the slightly guilty expression that had become familiar. "I was just checking—"
+
+"I know. So was I." Quinn gestured to their own device, face-down on the table but somehow still demanding attention through its very presence. "I've checked my email six times since we sat down. Maybe seven. I lost count."
+
+The next morning, they brought their confusion to Elder Joy, whose tiny office somehow contained more books than seemed architecturally possible.
+
+"We spend time together," River explained, "but Quinn's right. We're not really *present*. We don't know how to fix it."
+
+Elder Joy's eyes crinkled with familiar mischief. "Before fixing, comes seeing. Tell me—how much time did you spend genuinely focused on each other last night?"
+
+"Three hours," Quinn said. "We had dinner and talked until almost ten."
+
+"Three hours of presence? Or three hours of proximity?"
+
+The question hung in the air like incense.
+
+Elder Joy handed them each a small notebook. "Tonight, conduct an audit. Every time either of you shifts attention away from your actual conversation—to a device, to a mental list, to anything except the person sitting across from you—make a mark. Don't judge. Don't change your behavior. Just measure what's actually happening."
+
+"Sounds depressing," River muttered.
+
+"Truth often does," Elder Joy replied, "before it becomes liberating."
+
+That evening, they returned to the same corner table, notebooks ready. The first mark came before they'd even ordered—Quinn glancing at a notification. Then River checking the time. Then Quinn reading a text. The marks accumulated like rain.
+
+By the end of the meal, they sat in stunned silence, comparing notebooks.
+
+"Forty-seven," Quinn whispered, staring at the tally marks. "I broke presence forty-seven times in two hours."
+
+"Thirty-nine for me," River said. "And that's just what I noticed. Probably missed some."
+
+They did the math together: average length of actual sustained attention before interruption: approximately two and a half minutes. In two hours of "quality time," they'd managed perhaps twenty minutes of genuine presence.
+
+"We've been wondering why we feel distant," Quinn said slowly. "We've been blaming our schedules, our stress, our different communication styles. But the truth is simpler, isn't it? We're just... not actually here."
+
+River reached across the table, taking Quinn's hand. "I don't want to live like this. I don't want to keep trading our actual relationship for the illusion of staying connected to everything else."
+
+"So what do we do?"
+
+"We start by admitting what we measured. We stop pretending we're present when we're not. We stop treating our attention like it's unlimited when we've just proven it's the scarcest resource we have."
+
+They sat together in the amber light, phones silenced, hands joined, finally understanding that you cannot prioritize what you will not honestly measure—and that the first step toward presence isn't perfection, but simply the courage to see clearly what's actually true.
+
+**Moral:** The attention audit reveals not our failure but our opportunity—we cannot change patterns we refuse to acknowledge, but once we see clearly where our focus actually goes, the choice becomes unavoidable: continue the unconscious drift or reclaim what matters most.
+
+**Tomorrow:** Quinn and River discover why implementing even modest boundaries around their devices feels impossibly difficult, and Elder Joy reveals the hidden belief that makes "phone-free time" feel like deprivation rather than devotion.`,
+  },
 ];
