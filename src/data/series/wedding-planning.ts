@@ -8760,4 +8760,82 @@ Dove nodded slowly, feeling the weight of it settle into her bones. This was wha
 
 **Tomorrow:** Dove asks Nana Rose about the earliest signs that a marriage is drifting, and discovers that the most dangerous threats are the ones that look like normal life.`,
   },
+  {
+    day: 130,
+    title: "The Sacred Dissolution",
+    date: "2026-08-08",
+    image: "images/wedding-planning/day-130.jpg",
+    audio: "audio/wedding-planning/day-130",
+    sonnet: `**🪶 Sonnet CXXX: The Sacred Dissolution**
+
+The caterpillar knows not what it becomes
+As cellular soup swirls within the shell,
+Its crawling form dissolves to rhythmic drums
+Of transformation's inevitable swell.
+
+So too the single self must turn to mist,
+Not lost but liquefied to form anew,
+Each independent habit once persist
+Must melt to build a self that honors two.
+
+The fierce autonomy that served so well
+Becomes the very wall that blocks the door,
+And self-sufficiency becomes the spell
+That keeps the heart from wanting something more.
+
+*Release the shell that shielded you alone—*
+*The butterfly needs space the worm has known.*`,
+    standard: `💍 Day 130: The Sacred Dissolution
+
+🧱 **The Concept**
+The final days before marriage require consciously dissolving your single identity—not to lose yourself, but to create space for a married self to emerge.
+
+❓ **Why It Matters**
+Many people enter marriage trying to remain exactly who they were while simply adding a spouse to their existing life. True marriage, however, requires a kind of death and rebirth: the single self must be honored, grieved, and released so that a married self can be born. This isn't about sacrifice or diminishment—it's about transformation. Without this conscious dissolution, you bring your entire single-person operating system into a partnership that requires a completely different architecture.
+
+⚙️ **How It Works**
+Consider the caterpillar entering the chrysalis: it doesn't just add wings to its existing form—it literally dissolves into cellular soup before reorganizing as a butterfly. Similarly, you must identify which aspects of your single-person identity served you beautifully but will now limit your capacity for intimacy: perhaps your fierce independence that became emotional self-sufficiency, your ability to make unilateral decisions without consultation, your freedom to disappear into your own world without explanation, or your habit of using work/friends/activities to avoid uncomfortable feelings. These patterns aren't wrong—they were necessary survival strategies. But marriage invites you to develop new capacities: interdependence instead of isolation, collaborative decision-making instead of autonomy, emotional availability instead of protective distance. The dissolution happens when you consciously acknowledge "this way of being served me perfectly as a single person, and I honor it deeply, and I now release it with gratitude to make space for who I'm becoming." This isn't loss—it's metamorphosis.
+
+🎯 **Wedding Wisdom**
+Your wedding marks not just the addition of a spouse but the transformation of a self.
+
+❓ **Tomorrow's Question** — If you discovered that the part of yourself you're most afraid of losing in marriage is actually the protective shell that's been preventing the intimacy you claim to want, what would you need to believe about safety and vulnerability to willingly let that shell crack open during your vows?`,
+    parable: `Dove stood in Nana Rose's studio three days before her wedding, surrounded by photographs of herself spanning the last decade. The wedding planner had asked her to bring them—images of Solo Dove, as she'd come to think of her: backpacking through mountains alone, building her career with single-minded focus, making decisions that answered to no one.
+
+"Beautiful, isn't she?" Nana Rose said softly. "That fierce, independent woman."
+
+"I don't want to lose her," Dove whispered, surprising herself with the admission. "Everyone keeps saying marriage is about compromise and partnership, but what if I just... dissolve? What if I wake up in five years and can't remember who I was?"
+
+Nana Rose moved to the window where a chrysalis hung from a branch she'd brought inside weeks ago. "Tell me what you see."
+
+"It's empty. The butterfly emerged."
+
+"Look closer."
+
+Dove peered at the translucent shell. Inside, she could still see the faint outline of what had been. "There are... traces. The shape of what it was."
+
+"The caterpillar doesn't lose itself," Nana Rose said. "Every cell contains the same DNA. But it must completely dissolve—become soup, literally—to reorganize into something capable of flight. The caterpillar's way of moving through the world was perfect for crawling. But it would prevent wings from forming."
+
+Elm arrived then, carrying coffee, and found Dove crying over old photographs. He started to retreat, but she reached for him. "I'm scared of disappearing."
+
+He sat beside her, studying the images. "These aren't you disappearing. They're you... before. Like my photos from before I met you—I was whole, complete, exactly who I needed to be. And also," he picked up a recent photo of them together, "I was in a chrysalis without knowing it. Becoming someone who could love you this way required dissolving the parts of me that were designed for being alone."
+
+"What parts?" Dove asked.
+
+"My belief that asking for help was weakness. My conviction that I should handle everything myself. My habit of retreating into silence when I felt vulnerable." He smiled ruefully. "All perfect strategies for a single man. All completely wrong for a husband who wants actual intimacy."
+
+Nana Rose handed Dove a beautiful box. "For the parts of yourself you're releasing. Not destroying—honoring. The fierce independence that kept you safe when you were alone. The self-sufficiency that proved you could survive anything. The freedom to disappear into your own world without explanation. These were holy adaptations. And they must dissolve now so something new can form."
+
+"What if I need them again?" Dove asked.
+
+Elm took her hand. "The butterfly still carries the caterpillar's DNA. In crisis, those strengths will return. But you won't need them the same way. Because you won't be crawling alone anymore—you'll be flying together."
+
+Dove began placing photographs in the box—not all of them, just the ones that represented her single-person operating system. Each felt like a small death. And also, she realized, like making space for something larger.
+
+"This is why I weep at weddings," Nana Rose said quietly. "Not just for the joy of union, but for the courage of dissolution. Two people willingly entering the chrysalis together, trusting that what emerges will be more beautiful than what they were apart."
+
+**Moral:** *Marriage doesn't require you to lose yourself—it invites you to dissolve the protective shell of your single identity so a more expansive self can emerge, one capable of intimacy your independent self never needed to develop.*
+
+*Tomorrow, Dove will face what terrifies her most: the moment when the old self must crack completely open to make room for the new.*`,
+  },
 ];

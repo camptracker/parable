@@ -8704,4 +8704,73 @@ Pip watched her work, the thorns and threads, the blood and beauty woven insepar
 
 **Tomorrow:** But when does fear's warning represent genuine wisdom rather than mere resistance—and what happens when the danger isn't to your ego but to others?`,
   },
+  {
+    day: 136,
+    title: "The Wound Test — When Silence Proves Braver Than Speech",
+    date: "2026-08-08",
+    image: "images/storytelling/day-136.jpg",
+    audio: "audio/storytelling/day-136",
+    sonnet: `**🪶 Sonnet CXXXVI: The Wound Test**
+
+Two silences inhabit stories left untold:
+One bears the grief of necessary restraint,
+The other hides behind a claim of care grown cold—
+True courage wounds the keeper, false wounds those made faint.
+
+The tale withheld to spare a mother's peace
+Carries the ache of swallowed fire inside,
+While silence kept for comfort finds release
+From consequences that the coward would hide.
+
+Ask not which story serves the greater good,
+But who will bear the burden of its cost—
+Does noble quiet stand where speech once stood,
+Or do the voiceless carry what was lost?
+
+*Ethical restraint bleeds in the keeper's heart;
+Cowardice makes others bear the hidden part.*`,
+    standard: `📖 Day 136: The Wound Test — When Silence Proves Braver Than Speech
+
+Cowardice disguised as responsibility feels protective and contractive in the body, tightening around personal safety while claiming noble restraint. Legitimate ethical restraint, by contrast, carries the sensation of sacrifice—the painful choice to withhold something you desperately want to express because releasing it would genuinely harm others, not because sharing it would expose you to criticism or consequences.
+
+🧱 **The Concept**
+True ethical restraint in storytelling comes with the cost of unexpressed creative longing, while false restraint protects the storyteller's comfort at the expense of necessary truth.
+
+❓ **Why It Matters**
+Storytellers constantly face the question of whether to self-censor—whether holding back serves readers or merely serves self-protection. The distinction determines whether silence represents wisdom or weakness, courage or cowardice masquerading as care.
+
+⚙️ **How It Works**
+The wound test asks: does your silence protect others or protect yourself? A writer who refuses to publish a thinly-veiled portrait of an ex-spouse that would devastate them is exercising legitimate restraint, even though the story might be brilliant—the cost is borne by the writer's unexpressed art. But a writer who won't explore controversial political territory because they fear losing readers is practicing self-protective cowardice while claiming they don't want to "polarize" their audience. The difference reveals itself in who bears the wound: ethical restraint wounds the restrainer, while disguised cowardice wounds those who needed the withheld truth. When you choose not to tell a story, notice whether you feel relief (self-protection) or grief (sacrifice). True ethical silence carries genuine loss.
+
+🎯 **Storytelling Wisdom**
+The stories you choose not to tell reveal your character more surely than the ones you publish—courage lies in bearing the wound of necessary silence, not in avoiding the discomfort of necessary speech.
+
+❓ **Tomorrow's Question**
+But if carrying the wound of unexpressed stories proves ethical courage, what happens when this noble silence accumulates over decades until the storyteller becomes a living cemetery of buried tales? When does principled restraint cross into spiritual suicide, and how do you know when the most ethical choice is finally to break your own careful silence and release the stories you've protected others from for years?`,
+    parable: `Pip sat before Osha's loom, watching her gnarled fingers work threads of scarlet and shadow. "I have a story," he said quietly, "that I fear to tell."
+
+Osha did not pause in her weaving. "Fear wears two faces," she replied. "Show me which one watches you."
+
+"It's about my father," Pip continued, voice trembling. "About the night he—" He stopped. "But telling it would destroy my mother's memory of him. She's old now, and that memory sustains her. I tell myself I'm protecting her, but perhaps I'm only protecting myself from her grief, from her anger at me for speaking."
+
+Osha's shuttle flew through the warp. "Put your hand here," she said, indicating a tight knot in the weaving where crimson thread had been bound back instead of continuing forward. "This thread wanted to run to the edge—see how it strains? But releasing it would have unraveled the pattern that holds three other threads secure. Feel the tension?"
+
+Pip touched the bound thread. It vibrated with suppressed energy.
+
+"Now here," Osha said, pointing to a gap in another section where a thread clearly should have continued but had been cut short. "This thread I stopped because I tired of its color. I told myself the pattern didn't need it, but the gap betrays me. See how the surrounding threads must stretch to cover the absence? They grow thin from bearing what this thread should have carried."
+
+Pip saw it immediately—the difference between restraint that protected the whole fabric and restraint that weakened it.
+
+"The bound thread costs me," Osha said. "Every time I weave, I feel its wanting. The cut thread cost the pattern. One wound I carry. The other, I inflicted."
+
+Pip understood then. His silence about his father carried genuine grief—he longed to tell that story, but withholding it spared his mother pain she didn't need in her final years. But his silence about his sister's cruelty, which he'd justified as "not wanting to divide the family"—that silence made his nieces bear alone what he should have named, leaving them to wonder if they'd imagined her viciousness.
+
+One silence wounded him. The other wounded them.
+
+"The bound thread may someday be released," Osha said, "when the pattern that needs its binding is complete. The cut thread is gone forever, and the gap remains."
+
+**Moral**: Ethical restraint carries the weight of unlived expression—you bear the wound of silence to spare others necessary pain. Cowardice disguised as responsibility transfers the wound to those who needed your voice, leaving them to carry what your silence made unbearable.
+
+**Tomorrow**: When decades of bound threads strain against their ethical knots, how does the weaver know when protection has become imprisonment—and when releasing the stories you've nobly silenced becomes the most ethical act of all?`,
+  },
 ];

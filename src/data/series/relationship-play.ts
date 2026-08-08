@@ -5302,4 +5302,116 @@ They sat together in the amber light, phones silenced, hands joined, finally und
 
 **Tomorrow:** Quinn and River discover why implementing even modest boundaries around their devices feels impossibly difficult, and Elder Joy reveals the hidden belief that makes "phone-free time" feel like deprivation rather than devotion.`,
   },
+  {
+    day: 72,
+    title: "The Presence Portfolio",
+    date: "2026-08-08",
+    image: "images/relationship-play/day-72.jpg",
+    audio: "audio/relationship-play/day-72",
+    sonnet: `**🪶 Sonnet LXXII: The Presence Portfolio**
+
+We build our lives with careful, skilled design,
+Each achievement polished, perfectly displayed,
+While intimate connection starts to decline—
+Our best attention elsewhere has been paid.
+
+The world receives our sharpest, brightest thought,
+Our creative force, our most engaging care,
+While love that should be treasured, richly sought,
+Receives the tired remnants we can spare.
+
+Proximity pretends to be enough,
+Shared space mistakes itself for being known,
+But presence is made of sterner stuff—
+Full attention, not just flesh and bone.
+
+*The wealth that matters most can't be displayed;*
+*It lives in how our deepest focus stays.*`,
+    standard: `🎮 Day 72: The Presence Portfolio
+
+🧱 **The Concept**
+Most couples unconsciously invest their best attention in constructing an impressive external life while allowing the actual quality of their shared presence to become a neglected asset that slowly depreciates until the portfolio that matters most—their intimate connection—shows a devastating deficit despite apparent outward success.
+
+❓ **Why It Matters**
+We live in a culture that rewards visible achievement and public performance while treating relational presence as an intangible that doesn't appear on any balance sheet. The cruel irony is that couples often sacrifice the very intimacy that makes their external accomplishments meaningful, building impressive lives together while gradually becoming strangers who share an address and a calendar but have lost the authentic connection that once made everything else worthwhile.
+
+⚙️ **How It Works**
+The presence portfolio operates on a principle that contradicts our achievement-oriented instincts: **relational wealth accumulates through qualitative attention, not quantitative accumulation**. A couple might have a beautiful home, successful careers, well-planned vacations, and an enviable social life while simultaneously running a massive presence deficit—brief conversations dominated by logistics, physical proximity without emotional connection, shared activities without genuine engagement. Meanwhile, another couple with far fewer external resources might be presence-wealthy because they've consciously chosen to invest their best attention in each other rather than in constructing an impressive facade. The portfolio audit is simple but confronting: **When do you give your partner your most alert, creative, generous attention versus your depleted, distracted, leftover awareness?** Most couples discover they unconsciously reserve their peak presence for work challenges, social performances, or even phone scrolling, while their beloved receives the exhausted remnants. The rebalancing begins when we recognize that **presence is the only currency that actually purchases intimacy**—you cannot acquire genuine connection through achievement, only through the quality of attention you consistently invest.
+
+🎯 **Playful Connection Wisdom**
+The relationship that receives your best presence becomes your richest asset; the relationship that receives your leftovers becomes your greatest liability, regardless of how much time or money you invest in maintaining its external appearance.
+
+❓ **Tomorrow's Question** — If we can clearly see that our intimate relationship deserves our best presence rather than our depleted remnants, why do so many couples unconsciously resist restructuring their daily schedules and commitments to protect their peak energy and attention for each other, acting as if their partnership should somehow thrive on whatever scraps of awareness remain after every other obligation has been fed?`,
+    parable: `Quinn arrived home carrying the weight of another successful day. Three major projects advanced, two important calls completed, countless emails conquered. River looked up from the laptop with a familiar smile—the one that said *I see you're here but I know you're not really present yet*.
+
+"Big day?" River asked.
+
+Quinn nodded, already reaching for the phone to check one more thing. "Productive. Really productive. Hey, did you remember to—"
+
+"Schedule the car maintenance? Yes. Also paid the utility bills, ordered your mother's birthday gift, and confirmed our dinner reservation for Friday." River's voice carried no edge, just a quiet observation. "We're very good at managing our life together."
+
+Something in that phrase made Quinn pause. *Managing our life together.* When had their relationship become another item on the optimization checklist?
+
+The next morning, they found themselves in Elder Joy's garden again. The counselor was tending roses, humming softly.
+
+"We're doing everything right," Quinn said without preamble. "Date nights scheduled. Couples' activities planned. Quality time blocked on the calendar. So why does it feel like we're... performing a relationship instead of actually having one?"
+
+Elder Joy set down the pruning shears. "Show me your hands."
+
+They extended their hands, confused.
+
+"Quinn, your hands know how to close million-dollar deals, type urgent emails, scroll through endless information. River, yours know how to manage complex schedules, solve logistical puzzles, keep everything running smoothly." The elder smiled gently. "But when was the last time your hands remembered how to simply rest on each other's face with complete attention? Not as a prelude to something else. Not while thinking about tomorrow's tasks. Just... presence."
+
+River and Quinn looked at each other, then away. The answer was uncomfortable.
+
+"You've built an impressive life," Elder Joy continued, returning to the roses. "Beautiful portfolio of achievements. But portfolios need diversification. You've invested everything in the external assets—the house, the careers, the social status, the carefully curated experiences. Meanwhile, your presence portfolio—the actual quality of attention you give each other—has been running a deficit so long you've stopped noticing the warning signs."
+
+"But we spend time together," River protested. "We're hardly ever apart."
+
+"Proximity is not presence," the elder said, snipping a dead bloom. "You can be in the same room for hours and never actually meet. The question isn't how much time you spend together. It's what quality of attention you bring to that time."
+
+Quinn felt the words land. "We give each other our leftovers, don't we? The depleted, distracted, exhausted version of ourselves."
+
+"While the world gets your best," Elder Joy confirmed. "Your sharpest thinking for work problems. Your most creative energy for professional challenges. Your most engaging presence for social performances. And your beloved gets... the remainder. The scraps."
+
+River's eyes welled. "I can't remember the last time Quinn looked at me with the same intense focus I see when there's a work crisis to solve."
+
+"And I schedule our connection like a business meeting," Quinn admitted. "Another item to optimize and execute."
+
+Elder Joy gestured to the garden. "Notice how I tend these roses in the morning? Not because morning is the only time available, but because it's when I'm most alert, most patient, most able to notice the subtle signs of what each plant needs. I don't wait until evening when I'm exhausted and give them my depleted attention. Why would I reserve my worst energy for what I claim to value most?"
+
+The question hung in the air.
+
+"Tonight," the elder continued, "I want you to try something radical. For one hour—just one hour—give each other the same quality of presence you reserve for your most important professional work. Not distracted multitasking. Not half-attention while thinking about tomorrow. Full, alert, creative, generous presence. The kind you somehow manage to sustain for hours during work challenges."
+
+"One hour?" River said. "That should be easy."
+
+Elder Joy's smile was knowing. "You'd be surprised how difficult it is to give your intimate partner the same caliber of attention you give to strangers in business meetings. We've been trained to perform presence for public consumption but never learned to genuinely offer it in private."
+
+That evening, Quinn and River tried the experiment. They put away all devices, sat facing each other, and attempted to bring the same focused attention they gave to their work.
+
+Fifteen minutes in, Quinn caught themselves mentally drafting tomorrow's presentation.
+
+Thirty minutes in, River realized they'd been physically present but emotionally absent, running through the grocery list.
+
+Forty-five minutes in, they both started laughing at how impossibly difficult it was to simply be present with each other without distraction or agenda.
+
+And then something shifted.
+
+Quinn really looked at River—noticed the new silver hair at the temple, the subtle tiredness around the eyes, the way River's shoulders held tension that hadn't been there last year.
+
+River really saw Quinn—not the competent professional who managed everything, but the person underneath who was also tired, also uncertain, also hungry for genuine connection.
+
+"I miss you," Quinn said softly. "Even though we're never apart, I miss you."
+
+"I'm right here," River whispered. "I've been here the whole time. Just waiting for you to arrive."
+
+They sat in silence, hands finally touching with actual attention, neither thinking about tomorrow or reviewing today. Just present. Just here. Just now.
+
+It was the wealthiest they'd felt in months.
+
+**Moral**: *The relationship that receives your best presence becomes your richest asset; the relationship that receives your leftovers becomes your greatest liability, regardless of how impressive your external portfolio appears.*
+
+**Tomorrow**: *Elder Joy asks them to examine the architecture of their days and discover why they've unconsciously designed a life that treats their partnership as the flexible obligation that absorbs all the schedule's impacts while protecting everything else as fixed and non-negotiable.*`,
+  },
 ];

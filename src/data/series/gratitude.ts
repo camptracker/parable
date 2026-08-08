@@ -4971,4 +4971,90 @@ Hana watched both birds, seeing her own journey in their different approaches to
 
 **Tomorrow:** When hunger itself becomes an identity, what happens when you finally learn to be fed?`,
   },
+  {
+    day: 74,
+    title: "The Hunger That Feeds",
+    date: "2026-08-08",
+    image: "images/gratitude/day-74.jpg",
+    audio: "audio/gratitude/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Hunger That Feeds**
+
+Two hungers move within the human breast:
+One gnaws and takes and leaves the cupboard bare,
+A locust swarm that gives the soul no rest,
+Consuming all yet feeding on despair.
+
+The other hunger knows a different way—
+It springs from wells of fullness, not of lack,
+Creates abundance with each breaking day,
+And gives to life far more than it takes back.
+
+We fear that gratitude will kill desire,
+Confuse contentment with a dying flame,
+Believe that only desperate need inspires,
+That peace must mean we've lost our claim to aim.
+
+*But trees that hunger deeply still bear fruit—*
+*Their satisfied roots feed the worlds they shoot.*`,
+    standard: `🙏 Day 74: The Hunger That Feeds
+
+We fear satisfaction because we've confused aliveness with appetite, believing that contentment equals complacency. But the truth is more paradoxical: only when you stop consuming life desperately can you finally taste it fully. What we mistake for lost drive is actually the end of exhaustion masquerading as ambition.
+
+🧱 **The Concept**
+
+The strongest gratitude practitioners don't lose their hunger—they develop a hunger that feeds rather than depletes, transforming from consumers who extract to creators who contribute.
+
+❓ **Why It Matters**
+
+Most people oscillate between ravenous striving and numb resignation, never discovering the third option: engaged satisfaction. When you can appreciate what is while creating what's next, you access sustainable motivation that doesn't require inner emptiness as fuel. This is the difference between running from lack and running toward love.
+
+⚙️ **How It Works**
+
+The extractive hunger operates from deficit: you chase achievements to fill an inner void, relationships to prove your worth, experiences to distract from discomfort. Each acquisition provides temporary relief before the emptiness returns, demanding more. **The generative hunger operates from fullness**: you create because you have something to give, connect because you genuinely see others, pursue goals because they're expressions of your values rather than compensations for your wounds. A person with extractive hunger might build a business to prove they're not a failure; someone with generative hunger builds one to solve a problem they care about. The first is exhausting regardless of success; the second is energizing even through difficulty. The transition happens when you practice gratitude deeply enough that your default state shifts from "not enough" to "what wants to be created through me?" This isn't passivity—it's the most powerful form of action, because it's no longer distorted by the desperate energy of proving, protecting, or performing.
+
+🎯 **Gratitude Wisdom**
+
+True hunger doesn't diminish with gratitude—it matures from taking to giving, from proving to expressing, from consuming to creating.
+
+❓ **Tomorrow's Question**
+
+If generative hunger creates from fullness while extractive hunger consumes from emptiness, why do we often admire and reward the frantically driven while questioning the motives of those who work from a place of genuine satisfaction, and what does this cultural preference reveal about our collective addiction to suffering as proof of sincerity?`,
+    parable: `Hana found Elder Thorn in the orchard before dawn, watching the trees. "You're here early," she said.
+
+"I'm always here when the trees whisper their secrets," Thorn replied. "Today they're teaching the difference between two kinds of hunger."
+
+Hana looked at the laden branches. "What do you mean? Trees don't hunger."
+
+"Don't they?" Thorn touched an apple still green on the branch. "This tree pulls nutrients from soil, drinks deeply of rain, reaches toward sunlight. It hungers constantly. But does it hunger the way a locust hungers, consuming everything until the land lies barren?"
+
+"The tree gives back," Hana said slowly. "Its leaves become soil. Its fruit feeds the forest."
+
+"Exactly." Thorn's weathered face caught the first rays of sun. "There is the hunger that takes until nothing remains, and the hunger that creates abundance through its very appetite. I learned this the hard way."
+
+They walked between the rows. "When I was young, I hungered like a wildfire. Every achievement was fuel I burned to prove I wasn't worthless. Every relationship was something to consume for validation. I succeeded spectacularly—and arrived at the summit completely empty, wondering why victory tasted like ash."
+
+"What changed?" Hana asked.
+
+"Gratitude showed me I was already fed," Thorn said. "And that terrified me. I thought: if I stop being hungry, I'll stop striving. If I stop striving, I'll become nothing. I confused my desperate consumption with my life force itself."
+
+A bird landed on a nearby branch, picked fruit, flew away.
+
+"But watch the bird," Thorn continued. "It takes what it needs and carries seeds to distant soil. It hungers, yes—but its hunger serves life rather than draining it. When I finally accepted that I was already whole, I discovered a deeper hunger: the desire to create, to give, to express what wants to be born through me rather than to extract what I thought I lacked."
+
+Hana picked an apple, felt its weight. "So gratitude doesn't kill appetite?"
+
+"It transforms it," Thorn said. "The hunger that comes from emptiness consumes everything and remains empty. The hunger that comes from fullness creates abundance that feeds both you and the world. One is a black hole. The other is a sun."
+
+"How do I know which hunger I'm feeding?"
+
+Thorn smiled. "Does your striving leave you more alive or more exhausted? Does your achievement create space for others or demand they diminish? Does your hunger feed the soil or scorch it?"
+
+The sun cleared the horizon, painting the orchard gold.
+
+"I still hunger, Hana," Thorn said quietly. "More than ever. But now I hunger to give rather than to get, to create rather than to consume, to express rather than to prove. Gratitude didn't take my appetite—it showed me what I was truly hungry for."
+
+**Moral**: *The deepest transformation occurs not when you stop hungering, but when your hunger shifts from consuming what you lack to creating what you have to give.*
+
+**Tomorrow**: *Elder Thorn reveals why the world rewards frantic striving over satisfied creation—and what this teaches about sincerity, suffering, and the stories we tell about what makes work meaningful.*`,
+  },
 ];
