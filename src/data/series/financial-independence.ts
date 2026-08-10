@@ -9770,4 +9770,103 @@ Sable nodded slowly. "The publication bias creates a curious inversion: the acad
 
 **Tomorrow**: *But if both academic research and financial professionals are systematically biased toward complexity, where can ordinary people find reliable guidance for building wealth?*`,
   },
+  {
+    day: 139,
+    title: "The Information Obesity Crisis",
+    date: "2026-08-10",
+    image: "images/financial-independence/day-139.jpg",
+    audio: "audio/financial-independence/day-139",
+    sonnet: `**🪶 Sonnet CXXXIX: The Information Obesity Crisis**
+
+A thousand scrolls may line the scholar's wall,
+Yet simple farmers harvest richer grain—
+For those who read of everything know small,
+While those who know one thing know how to gain.
+
+The mind, like stomach, has but finite room;
+What enters past its capacity to hold
+Becomes not wisdom's flower but thought's tomb,
+Where clarity lies buried under gold.
+
+The man who drinks from every well finds thirst,
+While he who sips from one knows satisfaction;
+In information glut, the simple first
+Outpace the paralyzed by certain action.
+
+*More knowledge promises enlightened sight,*
+*But too much learning only dims the light.*`,
+    standard: `💰 Day 139: The Information Obesity Crisis
+
+More information doesn't make us wiser—it makes us more confidently wrong. When publication bias systematically hides failures and amplifies successes, consuming more research doesn't bring you closer to truth; it embeds you deeper in a curated narrative that serves publishers, not practitioners. The person who reads nothing about investing and simply dollar-cost averages into index funds often outperforms the voracious reader precisely because they haven't consumed enough sophisticated-sounding nonsense to talk themselves out of simple strategies that actually work.
+
+🧱 The Concept
+**Information obesity** occurs when consuming more data actively reduces decision quality by overwhelming our analytical capacity, introducing contradictory frameworks, and creating the illusion of knowledge without understanding.
+
+❓ Why It Matters
+We live in an unprecedented era of information abundance, yet decision-making quality hasn't improved proportionally—and may have actually declined. Just as consuming excess calories creates physical obesity that impairs bodily function, consuming excess information creates cognitive obesity that impairs judgment. The financial industry profits enormously from this confusion, as information-overloaded investors become perfect customers for products that promise to organize the chaos they've unnecessarily created.
+
+⚙️ How It Works
+Your brain has limited processing capacity, and every additional input requires cognitive resources to evaluate, integrate, and reconcile with existing knowledge. When you read fifty articles about investing strategies, you don't develop fifty times more insight—you develop paralysis from contradictory advice, recency bias toward whatever you read most recently, and false confidence from feeling informed. Consider the investor who reads three books on value investing, two on growth strategies, four on technical analysis, and subscribes to five financial newsletters: they haven't built a comprehensive understanding; they've built an incoherent mental framework where every position can be justified by some authority they've read, making decisive action impossible. Meanwhile, the investor who learns one simple principle—buy diversified index funds regularly—and ignores everything else operates from clarity rather than confusion. The information-obese investor can articulate sophisticated-sounding rationales for why they're not invested yet, while the information-restricted investor has been compounding wealth for years. Information obesity doesn't just waste time; it actively prevents the focused action that builds wealth.
+
+🎯 Buffett Wisdom
+"What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact." Consuming more information gives you more raw material for confirmation bias, not more truth.
+
+❓ Tomorrow's Question
+If consuming less information can improve decision quality by preventing paralysis and bias, what does this suggest about the entire knowledge economy built on selling access to premium information, expert analysis, and insider insights—and why might the most valuable financial service be one that actively restricts your information intake rather than expanding it?`,
+    parable: `Kael found Sable in the village square, surrounded by a peculiar sight: a dozen scrolls lay unfurled at the elder's feet, their parchments overlapping in a chaotic tapestry of competing wisdom.
+
+"I've been studying wealth-building, Elder," Kael announced proudly, gesturing to his own armful of borrowed texts. "I've read about land cultivation, animal husbandry, merchant trading, moneylending, craftsmanship apprenticeship, and seven different philosophies of saving versus spending. I feel I'm finally ready to understand the complete picture."
+
+Sable's weathered face betrayed the faintest smile. "And which path will you walk?"
+
+"Well, that's the question, isn't it?" Kael set down his scrolls with a scholar's careful reverence. "Each text contradicts the others. One sage insists that only land provides real wealth. Another claims merchants build the greatest fortunes. A third warns that all ventures risk ruin, and only extreme frugality guarantees security. How can I decide when the wisest minds disagree?"
+
+"Tell me," Sable said, "have you noticed Tobren's fields?"
+
+Kael glanced toward the farmer's land, where neat rows of grain swayed in the afternoon light. "Of course. They're the most productive in the village."
+
+"And do you know what Tobren reads?"
+
+"Nothing, I suspect. The man barely knows his letters."
+
+"Precisely." Sable began rolling up the scrolls at his feet, one by one. "Tobren learned one thing from his father: plant in spring, tend through summer, harvest in autumn, save seed for the next cycle. He does this every year without wavering. He doesn't wonder if perhaps animal husbandry might yield better returns, or whether he should abandon farming to study merchant routes. He simply farms, year after year, with complete conviction."
+
+"But surely knowledge is better than ignorance?"
+
+Sable held up one scroll. "This text was written by a merchant who made his fortune fifty years ago in a city three hundred miles from here, in economic conditions that no longer exist, selling goods we don't produce to people with different needs than our neighbors. Is this knowledge or distraction?"
+
+He held up another. "This one was written by a philosopher who inherited wealth and never built any himself, though he has exquisite theories about how it should be done. Is this wisdom or decoration?"
+
+Kael felt something tighten in his chest. "Are you saying I shouldn't read at all?"
+
+"I'm saying that a man who drinks from one clear spring knows thirst is quenched, while a man who carries buckets from twenty different wells dies of exhaustion before he takes a single sip." Sable gestured toward Kael's pile of borrowed scrolls. "You haven't come to me seeking a decision. You've come seeking permission to avoid deciding. Each of these texts gives you a reason why any choice you make might be wrong. This feels like due diligence, but it's actually paralysis wearing the costume of scholarship."
+
+The elder picked up a single scroll from his own collection—one so worn its edges had gone soft as cloth. "My father gave me this when I came of age. It contains one principle: spend less than you earn, and put the difference to work. I have followed this my entire life. I've been tempted many times to read more, to learn sophisticated strategies, to discover what complex techniques the wealthy use. But I've noticed something peculiar."
+
+"What's that?"
+
+"The people who read the most about wealth-building are rarely the people who build the most wealth. They can tell you why every simple strategy is insufficient, why every common approach has hidden flaws, why someone with truly sophisticated understanding would never do anything so obvious as save consistently and invest in the village's productive enterprises. And while they catalogue the inadequacies of simple wisdom, those of us who know only simple wisdom keep getting wealthier."
+
+Kael looked at his scrolls with new eyes. "It's like they're getting fatter on recipes while never actually eating."
+
+"Worse," Sable said. "Imagine a man who reads so many recipes that he becomes convinced simple bread is beneath him. He needs the perfect combination of the fancy dishes he's studied. But the ingredients for these dishes don't exist in his village. He has flour, water, and yeast—everything needed for bread that would nourish him perfectly. But he's read so much that he can no longer see bread as adequate. He starves surrounded by abundance, not from lack of ingredients, but from excess of information about imaginary meals."
+
+"The information itself becomes the obstacle."
+
+"Not just an obstacle—a form of obesity. Physical obesity occurs when you consume more than your body can use, and the excess becomes a burden that impairs function. Information obesity occurs when you consume more than your mind can integrate, and the excess becomes confusion that impairs decision-making." Sable tapped his worn scroll. "This single teaching contains everything I can actually use. Reading more hasn't made me wiser; it's made others more confused."
+
+Kael sat in silence, feeling the weight of his borrowed scrolls differently now. "So what should I do with all this learning?"
+
+"Return it," Sable said simply. "Keep one principle—the one that feels most true to your circumstances. Follow it with absolute consistency. When you're tempted to read more, to compare approaches, to wonder if there's something better you're missing, remember Tobren in his field. He doesn't know the seventeen advanced techniques for soil enrichment described in agricultural treatises. He knows how to farm. And his simple knowledge, applied year after year, feeds half the village."
+
+"But what if the one principle I choose is wrong?"
+
+Sable smiled fully now. "Any principle, followed with conviction, will outperform all principles, studied with doubt. The man who walks consistently in one direction reaches destinations. The man who studies maps of all possible destinations while standing still arrives nowhere, regardless of how sophisticated his cartographic knowledge becomes."
+
+The elder stood, leaving his scrolls rolled at his feet. "Information is like food, Kael. A little, chosen well and digested fully, nourishes. Too much, consumed indiscriminately because it's available, becomes poison that wears the disguise of abundance."
+
+**Moral:** More information creates the illusion of sophistication while delivering the reality of paralysis. Simple knowledge, acted upon consistently, builds wealth. Complex knowledge, studied endlessly, builds only the appearance of wisdom while preventing the decisive action that makes wisdom useful.
+
+**Tomorrow:** Sable will reveal why the most valuable knowledge is often the knowledge you deliberately choose not to acquire—and why the ability to ignore information might be more precious than the ability to access it.`,
+  },
 ];

@@ -5510,4 +5510,82 @@ Quinn looked at the newly blocked hours, three rectangles of protected time glow
 
 **Tomorrow:** Elder Joy helps Quinn and River explore why actually scheduling intimacy feels so threatening, and what our resistance reveals about our deeper fears of commitment.`,
   },
+  {
+    day: 74,
+    title: "The Energy Architecture",
+    date: "2026-08-10",
+    image: "images/relationship-play/day-74.jpg",
+    audio: "audio/relationship-play/day-74",
+    sonnet: `**🪶 Sonnet LXXIV: The Energy Architecture**
+
+We build our days like houses without plan,
+Piling obligations, brick by heavy brick,
+Then wonder why the walls we've built can't stand
+When evening comes and we are spent and sick.
+
+The architect knows weight must find support,
+That beams and joists must bear what they contain,
+Yet we treat energy like mere transport,
+Expecting flow despite the constant drain.
+
+Our rhythms rise and fall like tidal seas,
+Yet we fight nature's patterns as if wrong,
+Scheduling connection when we're on our knees,
+Spending our peak on tasks that don't belong.
+
+*The quality of love we bring each day*
+*Depends on how we architect the way.*`,
+    standard: `🎮 Day 74: The Energy Architecture
+
+🧱 **The Concept**
+The way we structure our days and manage our energy directly determines the quality of presence we bring to our relationship, yet most couples organize their lives around urgency and obligation rather than intentionally designing their schedules to protect their capacity for connection.
+
+❓ **Why It Matters**
+We cannot give what we don't have—depleted people create depleted relationships. When we consistently arrive at our most important relationship running on empty, we're essentially asking our partnership to survive on fumes while wondering why it lacks vitality. The architecture of our energy management either supports or sabotages our relational intentions.
+
+⚙️ **How It Works**
+Energy architecture begins with recognizing that we have different types of energy—physical, emotional, mental, and creative—and that these capacities fluctuate throughout the day based on our natural rhythms, activities, and recovery practices. A couple might notice that one partner is most emotionally available in the morning while the other comes alive in the evening, yet they keep trying to have important conversations at times when neither is at their best. Another couple might realize they schedule their most draining obligations back-to-back, leaving no buffer for recovery before their evening together, then can't understand why they feel irritable and disconnected. Effective energy architecture means intentionally designing our days to protect and renew our capacity for presence—scheduling recovery time after depleting activities, matching important conversations to our peak availability windows, and treating our energy as a precious resource that requires strategic management rather than assuming we should be able to show up fully regardless of how we've spent ourselves throughout the day.
+
+🎯 **Playful Connection Wisdom**
+The quality of your relationship is largely determined by the quality of energy you have available for it—and that quality is a design choice, not an accident.
+
+❓ **Tomorrow's Question** — If we can clearly see that our natural energy rhythms are as real and predictable as our need for sleep, why do so many couples unconsciously fight against their own and their partner's biological patterns rather than designing their shared life in harmony with them, essentially choosing to work against nature instead of with it?`,
+    parable: `Quinn arrived home from another marathon day, shoulders sagging, eyes glazed with the peculiar exhaustion that comes from giving everything to everyone except yourself. River looked up from dinner preparation, recognizing the familiar depletion, and felt their own energy drain in sympathetic response.
+
+Elder Joy had warned them about this during their last visit. "You're organizing your lives around crisis and convenience," she'd observed, "then wondering why your relationship feels like an afterthought."
+
+Quinn had protested. "We don't have a choice. Life is demanding. We can't just ignore our responsibilities."
+
+"No," Elder Joy had agreed, her eyes twinkling with knowing mischief. "But you can stop pretending that how you sequence those responsibilities doesn't matter. You schedule your most draining work meetings back-to-back, grab lunch standing at the kitchen counter, answer emails during every transition, then arrive home to your most important relationship running on vapors and wonder why you can't seem to be present or playful."
+
+River had shifted uncomfortably. "Are you saying we should work less?"
+
+"I'm saying you should architect more intentionally." Elder Joy had pulled out paper and colored pencils—her favored teaching tools. "Map your energy across a typical day. Not your schedule—your actual capacity for presence."
+
+They'd drawn their energy curves, Quinn's peaking mid-morning and declining steadily afterward, River's slow to rise but sustained well into evening. Then Elder Joy had them overlay their actual schedules.
+
+The revelation was stunning. Quinn scheduled their most emotionally demanding meetings during their peak hours, then tried to have important conversations with River during their lowest ebb. River stayed up late finishing work during their best energy window, then wondered why mornings with Quinn felt so disconnected.
+
+"You're spending your premium energy on everything except what you claim matters most," Elder Joy had said gently. "And you're trying to connect during times when neither of you has anything left to give."
+
+Now, watching Quinn's depleted arrival, River remembered the exercise. They'd talked about redesigning their days, but hadn't actually done it. The architecture of their energy remained unchanged, built around urgency rather than intention.
+
+"What if we actually tried it?" River said suddenly. "What if we protected your morning energy for your most important work, scheduled recovery time after draining activities, and saved our evening hours—when I'm most alive and you've had a chance to restore—for us?"
+
+Quinn looked skeptical. "That sounds impossibly ideal."
+
+"So does a building that doesn't collapse," River countered. "But architects design structures to support weight rather than assuming walls should just handle whatever gets piled on them. Why should our days be any different?"
+
+Over the following weeks, they experimented with energy architecture. Quinn blocked their peak morning hours for deep work, scheduled difficult conversations for late morning before the afternoon decline, and built in brief recovery practices between depleting activities. River shifted their administrative tasks to morning fog-time and protected their evening aliveness for creative work and connection.
+
+The difference was remarkable. Quinn arrived home still tired from the day, but no longer utterly depleted. River had stopped burning their best energy on emails and had it available for presence. Their conversations happened during windows when both had capacity. Their playfulness returned not because they tried harder, but because they had something to give.
+
+"The architecture holds us," Quinn marveled one evening, feeling genuinely present for the first time in months.
+
+River smiled. "Buildings don't stand through willpower. They stand through design."
+
+**Moral**: The quality of your presence is determined not by your intentions but by your energy—and energy is architecture, not accident.
+
+**Tomorrow**: But if our energy patterns are real and recognizable, why do we keep fighting against them instead of building our lives around them?`,
+  },
 ];
