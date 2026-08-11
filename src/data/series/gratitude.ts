@@ -5195,4 +5195,101 @@ She looked at Hana with eyes that held both fierce commitment and perfect peace.
 
 **Tomorrow:** Hana learns why our terror of already being enough might be the last barrier between us and our most powerful creative work.`,
   },
+  {
+    day: 77,
+    title: "The Gratitude Horizon",
+    date: "2026-08-11",
+    image: "images/gratitude/day-77.jpg",
+    audio: "audio/gratitude/day-77",
+    sonnet: `**🪶 Sonnet LXXVII: The Gratitude Horizon**
+
+The seed knows not the oak it will become,
+Yet holds the future forest in its heart—
+So too the grateful soul learns to welcome
+The unborn blessings hidden in their start.
+
+Not wishful thinking for the distant shore,
+But deep appreciation for the tide
+That carries ships to harbors not before
+Revealed, yet always sleeping just inside.
+
+The anxious eye sees only absence, lack,
+And withers what might flourish with a prayer,
+While grateful vision, looking forward-back,
+Waters tomorrow's garden with today's care.
+
+*The horizon glows with light already near—*
+*Bless what approaches, not bemoan it's here.*`,
+    standard: `🙏 Day 77: The Gratitude Horizon
+
+🧱 **The Concept**
+As your gratitude practice matures, you begin to appreciate not just what is, but what *could be* — a future-oriented appreciation that differs fundamentally from wishful thinking because it sees possibility as already present in potential form.
+
+❓ **Why It Matters**
+Most people relate to the future through either anxious anticipation or fantasy-driven longing, both of which disconnect them from present reality. **The gratitude horizon** allows you to hold appreciation for emerging possibilities without abandoning presence, creating a bridge between contentment and creative vision that fuels sustainable growth rather than frantic striving.
+
+⚙️ **How It Works**
+When you appreciate a seed, you're not just grateful for the tiny kernel in your hand — you're appreciating the oak tree that lives within it as potential. This form of gratitude sees the student in the master, the butterfly in the caterpillar, the healed relationship in the difficult conversation not yet begun. Someone practicing horizon gratitude might say, "I'm grateful for the skills I'm developing" rather than "I wish I were already skilled," recognizing that the journey itself contains the very capability being sought. A parent might appreciate their child's current developmental stage while simultaneously feeling gratitude for the adult they're becoming, holding both present and potential with equal reverence. This isn't positive thinking — it's recognizing that appreciation for what's emerging actually helps it emerge, while anxiety about the future often prevents it.
+
+🎯 **Gratitude Wisdom**
+The grateful heart sees tomorrow's blessings already taking shape in today's seeds, trusting that appreciation waters what anxiety would wither.
+
+❓ **Tomorrow's Question**
+If appreciating future potential actually helps it manifest while worrying about it creates resistance, why do we often feel more responsible and realistic when we focus on what could go wrong rather than expressing gratitude for what might go right, and what does this preference reveal about our confused relationship between vigilance and stewardship?`,
+    parable: `Hana stood at the edge of the eastern cliff, watching dawn paint the sky in shades of promise. Below, the valley still lay wrapped in shadow, but she could see the sun's light already touching the distant peaks.
+
+"You're looking at tomorrow," Elder Thorn said, appearing beside her with two steaming cups of tea.
+
+"I'm looking at today," Hana corrected. "The sunrise is happening now."
+
+"And yet your eyes seek the horizon, not the ground beneath your feet." The elder smiled, settling onto a worn stone. "Tell me what you see."
+
+Hana accepted the tea, its warmth spreading through her cold hands. "I see... light coming. I see the day that will be."
+
+"Do you wish for it, or are you grateful for it?"
+
+The question stopped her. "Is there a difference?"
+
+Elder Thorn gestured toward the gardens below, still shrouded in pre-dawn darkness. "Last autumn, you planted apple seeds in the southern grove. Do you wish for the trees that aren't yet there, or are you grateful for the trees already present in those seeds?"
+
+"I... I don't know. The seeds aren't trees."
+
+"Aren't they?" The elder's eyes crinkled with amusement. "A seed is a tree in conversation with time. When you watered those seeds yesterday, were you caring for seeds or for trees?"
+
+Hana considered this, watching the light creep down the mountainside like a benediction. "Both, I suppose. I was caring for what they are and what they're becoming."
+
+"And in that caring, did you feel frantic longing for the future shade and fruit, or did you feel appreciation for the perfect form already contained in each small kernel?"
+
+Memory flickered — the peace she'd felt pressing each seed into dark earth, the sense of rightness, of participating in something already complete even in its incompleteness. "Appreciation," she whispered. "I felt grateful for the whole journey contained in that moment."
+
+"That," Elder Thorn said quietly, "is the gratitude horizon. Not wishing away the present for the future, but appreciating the future already present in potential form. Not anxious for what isn't yet, but grateful for what is already becoming."
+
+The sun broke over the far ridge, and the valley transformed. What had seemed absent was suddenly revealed to have been approaching all along.
+
+"Three years ago," the elder continued, "you came to me as a child who could only appreciate what you could touch. I could have wished for the wise woman you would someday become, resenting your questions and impatience. Instead, I chose to feel grateful for the teacher you already were in potential — and that gratitude created the very space you needed to grow into her."
+
+Hana turned to her mentor, understanding dawning like the light around them. "You saw me before I existed."
+
+"I saw you as you existed — as a perfect seed containing infinite orchards." Elder Thorn stood, joints creaking, moving with the careful deliberation of age. "And now I am grateful for the elder you're becoming, for the students you'll teach, for the wisdom you'll offer to people not yet born. Not wishful thinking, child. Grateful knowing."
+
+"But how can you be grateful for what hasn't happened? What if I fail? What if I never become wise?"
+
+"Do you ask the apple seed, 'What if you fail to become a tree?' The question itself misunderstands the nature of becoming. You are already becoming. The only question is whether you'll do it with anxiety or appreciation — and that choice determines everything about how the becoming unfolds."
+
+The valley below emerged fully into day, and Hana could see the southern grove where her seeds slept in the soil. She thought of all the anxious nights she'd spent worrying about her training, her worthiness, her future. And she thought of the rare moments when she'd felt simple gratitude for the path itself, for the privilege of learning, for the mystery of her own unfolding.
+
+The anxious nights had taught her nothing. The grateful moments had taught her everything.
+
+"The horizon is always there," Elder Thorn said, beginning the descent back to the temple. "The question is whether you greet it with worry or welcome. One withers what's emerging. The other waters it into being."
+
+Hana followed, but paused once more to look east, where even now tomorrow's light was already approaching, invisible but inevitable. She felt something shift in her chest — a letting go of anxious striving, a taking up of patient appreciation.
+
+"Thank you," she whispered, not to the elder but to the horizon itself, to the dawn already contained in dusk, to the teacher already present in the student, to the harvest already sleeping in the seed.
+
+The gratitude felt like rain on buried roots.
+
+**Moral:** *The future you anxiously await is already present in the potential you can gratefully tend today, and the quality of your attention to what's becoming determines the shape of what will be.*
+
+**Tomorrow:** *Elder Thorn teaches Hana why vigilance born from fear creates the very disasters it hopes to prevent, while stewardship born from gratitude cultivates resilience without anxiety...*`,
+  },
 ];

@@ -5747,4 +5747,83 @@ The cleaning crew arrived, politely indicating the conference room was scheduled
 
 **Tomorrow:** *Maya discovers that the most sophisticated risk models share a curious feature—they all exclude the risk of the models themselves failing...*`,
   },
+  {
+    day: 79,
+    title: "The Regulatory Theater",
+    date: "2026-08-11",
+    image: "images/us-bond-market/day-79.jpg",
+    audio: "audio/us-bond-market/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Regulatory Theater**
+
+Upon the stage where prudence claims to reign,
+A thousand pages promise safety's shield,
+Yet every rule is written to sustain
+The very risks that regulation's sealed.
+
+The banks submit their models, dense and bright,
+With stress tests calibrated not to fail,
+While regulators praise the compliance might,
+Though substance hides behind the formal veil.
+
+Enforcement speaks in whispers, rules in roars,
+For true accountability would break
+The institutions regulators swore
+To guard against the risks they dare not take.
+
+*So markets price the gap 'tween show and deed,*
+*Where theater postpones the truth we'll need.*`,
+    standard: `📊 Day 79: The Regulatory Theater
+
+🧱 **The Concept**
+Regulatory Theater refers to financial oversight mechanisms that create the appearance of systemic protection while systematically avoiding the enforcement actions or structural reforms that would actually reduce systemic risk, functioning primarily as political performance rather than genuine crisis prevention.
+
+❓ **Why It Matters**
+Bond markets depend on regulatory credibility to maintain investor confidence and appropriate risk pricing, yet when regulations are designed to look rigorous while remaining practically unenforceable, markets develop a false sense of security that can amplify the severity of eventual crises. The gap between regulatory theater and regulatory substance determines whether oversight prevents disasters or merely postpones them while increasing their ultimate magnitude.
+
+⚙️ **How It Works**
+Consider the Basel III capital requirements that were implemented after 2008: banks must hold specific capital ratios against various risk-weighted assets, creating hundreds of pages of complex rules that appear comprehensive. Yet the risk weights themselves are often based on credit ratings from the same agencies that failed to predict the previous crisis, and banks can reduce their capital requirements by moving assets into off-balance-sheet vehicles that disappear from regulatory view while remaining economically connected to the bank. When Silicon Valley Bank collapsed in 2023, it technically met all regulatory capital requirements right until the moment it failed—the rules were being followed perfectly even as the institution became insolvent. The Volcker Rule provides another example: designed to prevent proprietary trading by banks, it contains so many exemptions for "market-making" and "hedging" that major banks can engage in essentially the same activities they performed before the rule, simply by reclassifying them under permitted categories. Regulators know this is happening but lack either the resources or political will to challenge banks' self-classification, creating a system where compliance is universal but effectiveness is minimal.
+
+🎯 **Bond Wisdom**
+Garrison teaches that when regulatory headlines multiply but enforcement actions remain rare, the theater is announcing intermission before the final act.
+
+❓ **Tomorrow's Question**
+If regulatory theater persists because enforcement would trigger the very financial instability that regulators are supposed to prevent—creating a hostage situation where systemically important institutions are effectively immune to meaningful oversight—does this mean that financial regulation has become structurally impossible in modern capitalism, and if so, should societies abandon the regulatory approach entirely in favor of direct public ownership of systemically critical financial institutions?`,
+    parable: `Maya found Garrison in his usual corner of the trading floor, but instead of watching market screens, he was reading a stack of regulatory filings, occasionally chuckling to himself.
+
+"What's so funny?" she asked.
+
+He held up a document. "This is the annual stress test compliance report from one of the largest banks. Four hundred pages detailing how they've modeled every conceivable scenario—pandemic, oil shock, sovereign default, cyber attack. Mathematical precision down to the eighth decimal place."
+
+"That sounds thorough."
+
+"It is thorough," Garrison agreed. "Thoroughly useless. The stress test assumes a 30% decline in commercial real estate values over three years. But when I look at their actual holdings, they're concentrated in office buildings in cities where remote work has already reduced occupancy by 40%, and the loans were underwritten at valuations that assumed perpetual 5% annual growth."
+
+"So the stress test is too optimistic?"
+
+"The stress test is theater," Garrison said. "It's designed to look rigorous while avoiding any scenario that would actually require the bank to raise capital or change behavior. The regulators know this. The bank knows they know. We all perform our parts in the play."
+
+Maya felt frustrated. "Then what's the point? Why go through the charade?"
+
+Garrison set down the filing. "Because the alternative is admitting that the emperor has no clothes. If regulators acknowledged that major banks are inadequately capitalized for realistic stress scenarios, they'd have to force capital raises that would dilute shareholders, potentially trigger stock sell-offs, and create the very crisis they're trying to prevent. So instead, we get theater—impressive-looking rules that everyone pretends are meaningful."
+
+"But that just delays the problem."
+
+"It postpones the problem," Garrison corrected. "And in finance, postponement is often the best available option. The hope is that earnings growth and retained income will gradually rebuild capital buffers before the crisis actually hits. Sometimes it works. Sometimes it doesn't."
+
+Maya thought about the bond market implications. "So when we price bank debt, we're not really pricing the regulatory framework—we're pricing the likelihood that the postponement strategy succeeds?"
+
+"Now you're learning," Garrison said. "Regulatory theater creates a specific kind of risk. Not the risk that banks are completely unregulated—they're drowning in rules. The risk is that the rules are calibrated for political acceptability rather than financial reality. That gap between theater and substance is what we're really trading."
+
+"How do you measure that gap?"
+
+Garrison pulled up a different screen. "You watch what regulators do versus what they say. When enforcement actions increase, even against small institutions, it signals that the political will for real oversight is strengthening. When enforcement drops but regulatory announcements multiply, you know you're watching theater. Right now, we're in a phase of maximum announcements and minimum action."
+
+"What does that mean for the bond market?"
+
+"It means the performance is heading toward intermission," Garrison said. "The longer theater continues without substance, the more impressive the eventual finale will need to be."
+
+**Moral:** *Regulations written for political appearance rather than financial substance create risks that no compliance department can measure and no capital buffer can absorb—the risk that the entire oversight system is a performance that will end when the audience demands reality.*
+
+**Tomorrow:** *When regulatory enforcement becomes structurally impossible, does the solution lie in abandoning regulation or abandoning the institutions too powerful to regulate?*`,
+  },
 ];

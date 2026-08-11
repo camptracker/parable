@@ -5102,4 +5102,81 @@ Asha thought of all the times Priya had tried to show her something while she'd 
 
 **Tomorrow, Elder Mira will ask Asha what we're really trying to provide when we substitute things and opportunities for presence...**`,
   },
+  {
+    day: 72,
+    title: "The Economy of Presence",
+    date: "2026-08-11",
+    image: "images/raising-kids/day-72.jpg",
+    audio: "audio/raising-kids/day-72",
+    sonnet: `**🪶 Sonnet LXXII: The Economy of Presence**
+
+We purchase love in currencies of things,
+As if attention's too mundane to measure,
+While scattered focus, though our conscience stings,
+Seems small offense against each costly treasure.
+
+The child performs for eyes that never see,
+Learns praise is cheap and presence comes in parts,
+That mother's gaze belongs to her device,
+While "I am listening" contradicts our hearts.
+
+What marketplace convinced us love needs proof?
+That being fully present seems too plain?
+The child needs not our curated truth,
+But eyes that hold them whole, without refrain.
+
+*For in the end, they'll not recall your spending—*
+*But how you stopped the world when they were speaking.*`,
+    standard: `👶 Day 72: The Economy of Presence
+
+We prefer giving things over presence because things can be measured, photographed, and compared—they provide external evidence that we're good parents, while the quality of our attention remains invisible to everyone except the child receiving it. This reveals that we've internalized a marketplace logic where love must be demonstrated through transactions rather than trusted as a state of being, and we doubt whether something as simple and unimpressive as our full attention could possibly be enough to meet our child's needs or prove our worth as parents.
+
+🧱 **The Concept**
+Children don't experience love through what we provide for them—they experience it through whether we're genuinely with them when we're with them.
+
+❓ **Why It Matters**
+We can give our children every advantage, opportunity, and material comfort, yet if our attention is perpetually divided, they grow up feeling fundamentally alone even when surrounded by people. The felt sense of mattering—which forms the foundation of secure attachment and healthy self-worth—doesn't come from what's given but from the quality of presence in the giving.
+
+⚙️ **How It Works**
+A child asks you to watch them do a somersault for the fifteenth time, and you glance up from your phone just long enough to say "great job" before returning to your screen—they've learned that even when you're physically present, you're not really there. Contrast this with putting the phone face-down, turning your full body toward them, and watching with genuine attention as they show you something they're proud of—they've learned that they're worth interrupting your other concerns for. **Presence isn't measured in hours logged but in moments of undivided attention**—the parent who works long hours but gives completely focused time during bedtime routine creates more felt security than the stay-at-home parent who's physically available but emotionally elsewhere. The child asking "Mom, are you listening?" while you're clearly distracted learns not that you're busy but that they're not compelling enough to hold your attention. When we rationalize our divided attention by telling ourselves we're still hearing them, we're measuring presence by our own internal experience rather than by what the child actually receives—they don't need us to hear words, they need us to see them.
+
+🎯 **Parenting Wisdom**
+Your children will not remember most of what you bought them, but they will never forget how it felt when you stopped everything else and looked at them like they were the only person in the world.
+
+❓ **Tomorrow's Question**
+If we know that our children learn emotional regulation by co-regulating with our calm presence, and we recognize that our own dysregulation often stems from how we were parented, why do we hold ourselves to standards of perfect emotional control that we ourselves never learned, and what does our shame about our own big feelings reveal about whether we believe adults deserve the same compassion we're trying to extend to our children?`,
+    parable: `Asha sat on the bench at the playground, her eyes on her daughter Kavi climbing the ladder, her hand scrolling through her phone. "I'm watching," she called when Kavi asked for the third time, but her gaze hadn't left the screen.
+
+Elder Mira settled beside her, her hands empty and still in her lap. "Your grandmother used to bring me to a playground much like this," Mira said quietly. "I can still remember exactly how her face looked when I reached the top of the slide. Every line of it paying attention."
+
+Asha looked up, slightly defensive. "I am paying attention. I can multitask."
+
+"Can you?" Mira asked gently. "Or are you doing two things poorly instead of one thing fully?"
+
+Kavi called again, and this time Asha put the phone in her pocket and turned her whole body toward her daughter. She watched Kavi climb, watched her hesitate at the top, watched her face transform with courage as she went down the slide. When Kavi ran back, breathless, Asha saw something in her daughter's eyes she hadn't noticed before—a kind of fullness, as if she'd just been watered.
+
+"What's the difference?" Asha asked. "She went down the slide both times."
+
+"The first time, she performed for an audience that wasn't watching," Mira said. "The second time, she was witnessed. We think children want our praise, but what they truly want is to be seen. To have their existence registered in another's full attention. This is how they learn they matter."
+
+"But I give her so much," Asha protested. "Music lessons, the good preschool, books, experiences—"
+
+"Things you can photograph and post," Mira observed without judgment. "Things that prove to the world you're a good mother. But tell me—when Kavi is grown and thinks of childhood, will she remember the enrichment classes, or will she remember whether her mother's eyes lit up when she entered the room?"
+
+Asha felt something shift in her chest. "You're saying I'm doing it wrong."
+
+"I'm saying you're doing what we all do—trying to measure love in units that can be counted and compared, because presence is too simple, too ordinary, to feel like enough." Mira watched a father push his son on the swing, his attention complete, his phone nowhere in sight. "We've forgotten that attention is the rarest commodity we possess. Everything else can be bought or delegated. But the gift of being fully where you are, with who you're with—that can only be given by you."
+
+Kavi ran up again, and Asha noticed how her daughter's eyes went first to her mother's face, checking whether she was seen before she spoke. How many times had those eyes found Asha looking elsewhere?
+
+"What if I can't give her everything she needs?" Asha asked quietly.
+
+"You can't," Mira said simply. "No parent can. But you can give her something far more valuable than everything—you can give her the felt sense that when she speaks, someone stops the world to listen. That her existence alone, without achievement or entertainment, is worthy of another's full presence."
+
+Asha pulled out her phone and turned it off completely. Kavi was already running toward the climbing structure again, and this time when she called "Watch me, Mama," Asha was already watching.
+
+**Moral**: The most precious gift we can give is not what we provide but whether we're genuinely present when we're providing it—children don't need perfect parents, they need parents who show up completely in ordinary moments.
+
+**Tomorrow**: When we cannot give what we never received, who teaches the teachers?`,
+  },
 ];
