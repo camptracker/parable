@@ -5179,4 +5179,71 @@ Asha pulled out her phone and turned it off completely. Kavi was already running
 
 **Tomorrow**: When we cannot give what we never received, who teaches the teachers?`,
   },
+  {
+    day: 73,
+    title: "The Rhythm of Repair",
+    date: "2026-08-12",
+    image: "images/raising-kids/day-73.jpg",
+    audio: "audio/raising-kids/day-73",
+    sonnet: `**🪶 Sonnet LXXIII: The Rhythm of Repair**
+
+The cup falls, milk spills white across the floor,
+And in that moment something else breaks too—
+My temper, snapping at this child I bore,
+My voice too sharp for what she didn't do.
+She stills, her small face registering the blow
+Of anger disproportionate to spill,
+And I can see the hurt begin to grow
+In eyes that moments earlier shone with thrill.
+The damage isn't in the words I said,
+But whether I return to make it right,
+To kneel beside her, own the harm I've spread,
+And show that love survives this temporary blight.
+*For children need not perfect parents, free from flaw,*
+*But ones who can repair what temper saw.*`,
+    standard: `👶 Day 73: The Rhythm of Repair
+
+🧱 **The Concept**
+Children don't need perfect parents—they need parents who can repair ruptures in connection when they inevitably occur.
+
+❓ **Why It Matters**
+Our children's sense of relational safety isn't built on our flawless behavior but on our consistent willingness to acknowledge mistakes, take responsibility, and restore connection. The repair process itself teaches them that relationships can survive conflict and that being wrong doesn't make someone unworthy of love.
+
+⚙️ **How It Works**
+When we snap at our child in frustration, the damage isn't primarily in the moment of harshness—it's in whether we later acknowledge what happened. A genuine repair might sound like: "I raised my voice at you this morning when you were moving slowly, and that wasn't okay. I was stressed about being late, but that's my responsibility to manage, not yours to absorb. I'm sorry." This models accountability, emotional honesty, and the truth that adults make mistakes too. What matters isn't the initial rupture but the time between rupture and repair—children can tolerate our imperfection, but they struggle with our defensiveness or pretending nothing happened. When we repair openly and without excuse, we teach them that love doesn't require perfection, that conflicts can be resolved, and that their perception of being hurt is valid even when it wasn't our intention.
+
+🎯 **Parenting Wisdom**
+The parent who repairs teaches their child that relationships are resilient; the parent who defends their behavior teaches their child to doubt their own experience.
+
+❓ **Tomorrow's Question** — If we understand that apologizing to our children models humility and accountability, why do we often feel that saying "I'm sorry" to someone we have authority over will undermine our credibility or power, and what does this resistance reveal about whether we believe respect is earned through infallibility or through integrity?`,
+    parable: `Asha sat on the porch steps, her face still hot with shame. Inside, her four-year-old daughter played quietly—too quietly—after Asha had snapped at her for spilling juice, her words sharp and disproportionate to the small accident.
+
+Elder Mira settled beside her, saying nothing at first, just sitting in the weight of the moment.
+
+"I was terrible to her," Asha finally whispered. "Over a cup of juice. What kind of mother—"
+
+"A human one," Mira said softly. "The question isn't whether you lost your patience. The question is what you do now that you have it back."
+
+"But I've damaged her. She looked so small, so hurt."
+
+Mira nodded. "She did hurt. And that hurt isn't erased by your regret, no matter how genuine. But you're thinking about this all wrong—as if the moment of your mistake is the whole story."
+
+"What else is there?"
+
+"The next chapter. The repair." Mira turned to face her. "Children don't need parents who never fail them. They need parents who can acknowledge when they have. When you go back inside and tell her the truth—that you were wrong, that your anger was too big for what happened, that she didn't deserve that—you teach her something your perfection never could."
+
+"What's that?"
+
+"That relationships can survive rupture. That people who love each other can hurt each other and find their way back. That being wrong doesn't make someone unlovable." Mira's voice grew tender. "These are the lessons that will serve her in every relationship she'll ever have. Your mistake becomes her instruction, but only if you're brave enough to repair it."
+
+Asha watched through the window as her daughter arranged her toys in careful rows. "What if she doesn't forgive me?"
+
+"That's not yours to control. Your responsibility is the repair itself—honest, specific, without excuse. 'I'm sorry you felt bad' isn't repair. 'I raised my voice and that was wrong, and I'm working on managing my stress better' is." Mira stood, preparing to leave Asha to the work ahead. "She doesn't need you to be perfect. She needs you to be real. And reality includes mistakes and the courage to own them."
+
+Inside, Asha knelt beside her daughter and began the most important conversation of the day—not the one where she got it right, but the one where she admitted she'd gotten it wrong.
+
+**Moral:** The strength of a relationship isn't measured by the absence of rupture but by the presence of repair. Children don't need flawless parents; they need honest ones who can acknowledge harm and restore connection.
+
+**Tomorrow:** Elder Mira asks Asha why she finds it harder to apologize to her child than to another adult, and what this reveals about where she believes respect truly comes from.`,
+  },
 ];

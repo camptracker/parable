@@ -9869,4 +9869,87 @@ The elder stood, leaving his scrolls rolled at his feet. "Information is like fo
 
 **Tomorrow:** Sable will reveal why the most valuable knowledge is often the knowledge you deliberately choose not to acquire—and why the ability to ignore information might be more precious than the ability to access it.`,
   },
+  {
+    day: 140,
+    title: "The Curation Revolution",
+    date: "2026-08-12",
+    image: "images/financial-independence/day-140.jpg",
+    audio: "audio/financial-independence/day-140",
+    sonnet: `**🪶 Sonnet CXL: The Curation Revolution**
+
+A thousand scrolls stretch high from floor to sky,
+Each promising the secrets of the wise,
+Yet he who tries to read them all will die
+With knowledge vast but wealth that never flies.
+The farmer tends not every seed that's sown,
+But chooses well the crops his land can bear,
+The merchant tracks not every market known,
+But masters three with concentrated care.
+So too the seeker after fortune's gold
+Must learn that less consumed means more retained,
+That discipline to leave most scrolls unrolled
+Builds wealth far more than everything attained.
+*The walls seduce with comprehensive gleam,*
+*One thin book builds the systematic dream.*`,
+    standard: `💰 Day 140: The Curation Revolution
+
+The most valuable financial service restricts information because attention is the scarcest resource in wealth-building, and unlimited information creates decision paralysis rather than clarity. Like a master chef who succeeds by limiting ingredients rather than using everything available, effective financial guidance works through strategic subtraction—removing noise so signal becomes unmistakable.
+
+**🧱 The Concept**
+
+Curation—the deliberate filtering of information to essential insights—creates more value than aggregation in an age of information abundance.
+
+**❓ Why It Matters**
+
+We've moved from an information scarcity economy to an attention scarcity economy, but most financial services still operate on the outdated assumption that more information helps clients make better decisions. The exponential growth of available financial content has actually decreased average investment returns as people suffer analysis paralysis, constantly second-guess simple strategies, and mistake information consumption for productive action.
+
+**⚙️ How It Works**
+
+A truly valuable financial service would give you perhaps five articles per year instead of five per day, each one challenging a specific assumption preventing you from implementing a simple wealth-building strategy. It would actively hide market news from you, blocking financial media websites and sending you quarterly reports that say "Your automated investment plan is working. Stop checking. Go live your life." It would charge you for **information restriction** rather than information access—measuring success by how much financial content you DON'T consume rather than how much you do. The paradox is that such a service would dramatically outperform traditional advisory relationships precisely because it removes the behavioral mistakes that excessive information triggers. Consider two investors: one subscribes to every financial newsletter, watches market coverage daily, and carefully studies quarterly earnings reports; the other receives one annual letter confirming their automated investment plan is functioning and spends the rest of their attention on career development and relationship building—the second investor will almost certainly achieve better financial outcomes over decades, not despite their information restriction but because of it.
+
+**🎯 Buffett Wisdom**
+
+"What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact."
+
+**❓ Tomorrow's Question**
+
+If curation creates more value than aggregation in our attention economy, and the most successful people will be those who develop the strictest information filters rather than the broadest information access, what does this suggest about the fundamental purpose of education in the coming decades—should schools teach students how to learn everything available, or should they teach the far more difficult skill of deliberately choosing what NOT to learn, and why might the second approach be almost impossible to implement in institutions that measure success through standardized testing of acquired knowledge?`,
+    parable: `Kael found Sable standing before a towering wall of scrolls that reached from floor to ceiling in the village archive, a chamber he'd never been permitted to enter until today.
+
+"The accumulated wisdom of twelve generations," Sable said, gesturing at thousands upon thousands of manuscripts. "Every harvest technique, every medicinal formula, every story of success and failure. What would you do with such treasure?"
+
+"Read it all," Kael breathed, eyes wide with hunger. "Learn everything."
+
+"That was my answer too, at your age." Sable's smile was sad. "I spent three years doing exactly that. And do you know what happened?"
+
+Kael shook his head.
+
+"I became useless. While I read about farming, Tobren farmed. While I studied merchant strategies, others traded. While I absorbed the theories of leadership, the village chose leaders who acted rather than analyzed." Sable pulled a single thin volume from the vast collection. "This is what I should have read. Twenty pages. The essential principles that matter. Everything else—" he gestured at the walls, "—is elaboration, exception, and distraction."
+
+"But how do you know which pages matter without reading everything?"
+
+"You don't. That's why we need curators, not collectors. My mistake was thinking more knowledge would make me wiser. But wisdom isn't having read everything—it's knowing what's worth reading at all."
+
+Sable walked to the window, where morning light streamed across fields where Tobren worked. "The farmer succeeds not because he knows every plant in the world, but because he knows deeply the dozen crops that thrive in this soil. The merchant prospers not from tracking every market, but from understanding thoroughly the three trades that match her talents. The investor builds wealth not from following every opportunity, but from ignoring everything except the simple strategy that compounds with time."
+
+"But all these scrolls—someone thought they mattered enough to preserve."
+
+"Yes. And that's the tragedy of abundance. When information was scarce, we treasured it appropriately. Now that it's unlimited, we've lost the ability to determine value. We preserve everything and read nothing deeply. We collect wisdom like Tobren collects seeds—but he plants only what his land can nourish, while we try to cultivate knowledge far beyond our attention's capacity."
+
+Sable handed Kael the thin volume. "This contains what you need to build wealth. Read it until you understand. Then close it and act. If you find yourself wanting more scrolls, more strategies, more information—that's not wisdom calling. That's fear of commitment disguised as thoroughness."
+
+Kael opened the volume. The pages outlined the exact principles Sable had taught him over months—compound interest, automated saving, index investing, ignoring market noise. Nothing he hadn't heard before.
+
+"This is... simple," Kael said, unable to hide his disappointment.
+
+"Yes. And if I'd given it to you on the first day, you would have rejected it as inadequate. You needed the journey through complexity to appreciate simplicity's power. But now—" Sable gestured at the wall of scrolls, "—you must resist the siren call of complication. These thousands of manuscripts promise to make you feel sophisticated. That single volume will actually make you wealthy. Which do you choose?"
+
+Kael looked at the thin book in his hands, then at the impressive wall of knowledge. His pride wanted the walls. His wisdom chose the pages.
+
+"The question," Sable continued, "is whether you'll have the discipline to keep choosing simplicity tomorrow, and the next day, and the day after that. Because every morning, these scrolls will whisper that you're missing something, that there's a secret strategy you haven't discovered, that true mastery requires consuming everything. That whisper has destroyed more fortunes than any market crash."
+
+**Moral:** In an age of infinite information, wealth belongs not to those who consume the most, but to those who curate the wisest filters and act on essential truths while others drown in comprehensive noise.
+
+**Tomorrow:** Sable will reveal why the skill of ignoring information might be impossible to teach in systems designed to measure how much you've learned rather than how much you've wisely rejected.`,
+  },
 ];
