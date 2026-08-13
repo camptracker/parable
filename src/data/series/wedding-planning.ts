@@ -9028,4 +9028,96 @@ Elm nodded slowly. "Like learning to walk must have required falling and choosin
 
 **Tomorrow**: But what kind of trust must two people build to navigate the inevitable moments when this transformation feels too costly, when partnership feels like prison, and when the impulse to protect yourself threatens to override your commitment to stay open?`,
   },
+  {
+    day: 133,
+    title: "The Sacred Repair",
+    date: "2026-08-13",
+    image: "images/wedding-planning/day-133.jpg",
+    audio: "audio/wedding-planning/day-133",
+    sonnet: `**🪶 Sonnet CXXXIII: The Sacred Repair**
+
+The vow is not to never cause you pain,
+But when I wound you, not to walk away—
+To notice disconnection's subtle strain,
+And turn back toward you at the close of day.
+For marriages aren't made of perfect hours,
+But countless small returnings after breaks,
+When pride would build defensive ivory towers,
+Yet love chooses repair for love's own sake.
+The cup that shatters, mended back with gold,
+Becomes more beautiful than whole could be—
+Each fracture line a story to be told
+Of how we chose connection over flee.
+*The sacred trust: not that we'll never fall,*
+*But that we'll always answer repair's call.*`,
+    standard: `💍 Day 133: The Sacred Repair
+
+If trust in marriage means trusting your partner's commitment to repair rather than their impossibility of harm, then your vows must promise not perfection but perseverance—not "I will never fail you" but "I will never stop returning to you." This transforms your promises from naive guarantees of flawlessness into mature commitments to continuous restoration, revealing that covenant love isn't the absence of rupture but the presence of relentless mending.
+
+🧱 **The Concept**
+The strongest marriages aren't built by couples who never break connection, but by couples who become masters at reconnecting after disconnection.
+
+❓ **Why It Matters**
+Every marriage experiences hundreds of micro-ruptures—moments of misunderstanding, dismissiveness, or emotional unavailability. The marriages that thrive aren't the ones that avoid these breaks but the ones that repair them quickly, skillfully, and completely. Your wedding vows should acknowledge this reality: you're promising not to be perfect partners but to be devoted repairers.
+
+⚙️ **How It Works**
+Repair begins with noticing when connection has been broken, even in small ways—a conversation where one person felt unheard, a moment when tiredness made you curt, an evening when you chose your phone over presence. The next step is acknowledgment: naming what happened without defensiveness or justification. Then comes the actual repair: a genuine apology, a moment of re-attunement, a gesture that says "I see that I hurt you, and your hurt matters more to me than my comfort." Strong couples develop repair rituals—specific phrases, touches, or practices they return to after disconnection. Some couples have a phrase like "Can we start over?" or a physical gesture like reaching for hands. The repair isn't complete until both people feel reconnected, not just until one person has apologized.
+
+🎯 **Wedding Wisdom**
+The vows that sustain you won't be the ones about never failing each other—they'll be the ones about always finding your way back.
+
+❓ **Tomorrow's Question**
+If you discovered that your marriage's capacity for joy would be directly limited by your capacity to tolerate vulnerability (because deep happiness requires the same openness as deep sorrow), what defended place in your heart would you need to unlock before your wedding day to ensure you can actually receive the fullness of love being offered to you?`,
+    parable: `Dove sat in Nana Rose's garden three days before the wedding, her hands trembling around a chipped teacup. "I broke it," she whispered, and Nana Rose knew immediately she wasn't talking about the cup.
+
+"Tell me," the old woman said, settling into her chair with the patience of someone who had heard a thousand confessions.
+
+"Last night. Elm wanted to talk about the ceremony timeline, and I snapped at him. I said terrible things about how he never cares about details, how I'm carrying everything alone. None of it was true—I was just exhausted and scared, and I made him the target." Dove's tears fell into the tea. "What if I'm not ready? What if I hurt him like this forever?"
+
+Nana Rose reached across and took the chipped cup from Dove's hands, turning it slowly in the light. "Do you see this crack? My husband made this cup for me forty-three years ago. On our fifth anniversary, I threw it at the wall during an argument I can't even remember now. It shattered into seven pieces."
+
+Dove stared. "You threw it?"
+
+"I did. And after I threw it, after the explosion of my anger passed, I sat on the floor and wept. Not because the cup was broken, but because I had chosen destruction over connection. My husband came and sat beside me. He didn't say a word. He just started picking up the pieces."
+
+"He forgave you?"
+
+"Eventually. But first, we had to do the harder work." Nana Rose traced the gold lines where the ceramic had been repaired. "This is kintsugi—the Japanese art of mending broken pottery with gold. My husband gathered every shard, and together we learned how to make the breaks beautiful. It took weeks. Every evening, we worked on it together, and while our hands repaired the cup, we were really learning how to repair us."
+
+Elm appeared at the garden gate, hesitant. Dove's breath caught.
+
+"Come," Nana Rose called to him. "Sit."
+
+He approached slowly, and Dove could see the hurt still lingering in his eyes. "I'm sorry," she began, but Nana Rose held up a hand.
+
+"Not yet, child. First, just notice. Elm, do you feel the break between you?"
+
+He nodded.
+
+"Dove?"
+
+"Yes," she whispered.
+
+"Good. That noticing is the beginning of all repair. Many couples don't even realize they've broken connection until the fractures have spread everywhere." Nana Rose set the cup between them. "Now, Elm, tell Dove what her words made you feel. Not what she did wrong—what you felt."
+
+Elm's voice was quiet. "Alone. Like no matter how hard I try, it's never enough. Like you see me as an obstacle instead of your partner."
+
+Dove's instinct was to defend herself, to explain, but Nana Rose caught her eye and shook her head slightly. "Now you just receive his truth. Let it matter more than your comfort."
+
+Dove breathed through the discomfort of being seen clearly, of facing the impact she'd had. "I hear you," she said. "I made you feel alone. And small. And that's the opposite of what I want for you—for us."
+
+"Now," Nana Rose said, "the repair."
+
+Dove reached across and took Elm's hands. "What I said wasn't true. You carry so much for us, in ways I don't always see because I'm too busy counting the ways I think I'm doing it alone. I was scared and tired, and instead of asking for help, I tried to hurt you. I'm sorry. Not just sorry I said it, but sorry that I chose distance over closeness."
+
+Elm's shoulders dropped, and Dove could see the walls beginning to lower. "I'm sorry too," he said. "I've been so focused on keeping everything calm that I haven't been checking in with how you're actually feeling. I think I've been more worried about avoiding conflict than creating connection."
+
+Nana Rose smiled. "And there it is—repair. Not perfection. Not pretending it didn't happen. But noticing, naming, and returning to each other." She lifted the golden-veined cup. "This cup is stronger now than it was before it broke, because the repair is part of its story. Your marriage will be the same. The question isn't whether you'll hurt each other—you will. The question is whether you'll become masters at finding your way back."
+
+Dove and Elm sat in the garden as the sun lowered, hands still joined, learning the first steps of a dance they would practice for the rest of their lives: the sacred art of breaking and mending, of rupture and repair, of becoming stronger at the broken places.
+
+**Moral**: The marriages that endure aren't built by people who never hurt each other, but by people who learn to repair beautifully.
+
+**Tomorrow**: Dove will discover that her fear of full joy is really a fear of full vulnerability—and that unlocking one requires unlocking the other.`,
+  },
 ];

@@ -6166,4 +6166,126 @@ Willem sat down and opened his own ledger, showing the careful division Van der 
 
 **Tomorrow:** As Willem's scholar's purse begins to grow, he faces a new question: when does the satisfaction of proving your market judgment correct outweigh the superior returns of simply admitting you cannot beat the market?`,
   },
+  {
+    day: 87,
+    title: "The Calculus of Engagement Value",
+    date: "2026-08-13",
+    image: "images/stock-market-origins/day-87.jpg",
+    audio: "audio/stock-market-origins/day-87",
+    sonnet: `**🪶 Sonnet LXXXVII: The Calculus of Engagement Value**
+
+The merchant counts the cost of every trade,
+Not just in guilders lost or profit gained,
+But knowledge purchased, confidence displayed,
+And sharpness of the mind through practice trained.
+
+While others claim pure rationality
+Yet pay for thrills they will not recognize,
+He measures his activity,
+And sees with calculating, honest eyes.
+
+One ledger holds the passive, patient gold,
+Another shows the active, restless play—
+Each optimized for different goods when told
+Apart, though merchants mix them every day.
+
+*The trader who knows what he's buying thrives;
+The one who doesn't wastes his trading lives.*`,
+    standard: `📈 Day 87: The Calculus of Engagement Value
+
+The psychological satisfaction and engagement from direct market participation does create genuine non-financial value—but only when the investor recognizes this explicitly and prices it accurately. The critical error isn't paying for engagement through lower returns; it's paying unconsciously, believing you're optimizing for profits while actually optimizing for the emotional experience of trading. When investors acknowledge that active participation is partially entertainment and partially education, they can rationally allocate a portion of capital to this purpose while protecting the majority in strategies optimized purely for returns.
+
+🧱 **The Concept**
+
+Market participation generates both financial returns and psychological returns (engagement, learning, status, entertainment), and investors must explicitly measure and value both to make rational allocation decisions.
+
+❓ **Why It Matters**
+
+Most investors conflate these two distinct return streams, leading them to either justify poor financial performance by citing intangible benefits they haven't actually quantified, or to deny themselves valuable learning experiences because they can't acknowledge non-financial motivations. This confusion prevents honest evaluation of whether active strategies are succeeding at their true objectives. The most sophisticated investors separate these return streams completely, creating distinct portfolios with different purposes and different success metrics.
+
+⚙️ **How It Works**
+
+An investor might allocate 80% of capital to passive index funds optimized purely for financial returns, while dedicating 20% to active trading that generates both modest financial returns and substantial educational value through direct market engagement. The key is measuring each portion against its actual purpose: the passive allocation succeeds if it matches market returns minus minimal fees, while the active allocation succeeds if the combined financial returns plus the quantified value of learning and engagement exceeds the return of simply indexing that portion. For example, if active trading returns 6% annually versus 8% for indexing, the investor is "paying" 2% for the engagement—which might be excellent value if that engagement prevents expensive mistakes in the larger passive portfolio, or poor value if it's merely entertainment that could be obtained more cheaply elsewhere. The critical insight is that this calculation must be explicit: investors should literally write down what they're paying for engagement and whether that price is justified by the non-financial benefits received. Many discover they're paying 3-4% annually for engagement that provides less actual educational value than reading books and studying history would provide at near-zero cost.
+
+🎯 **Market Wisdom**
+
+The investor who explicitly prices their engagement value makes better decisions than either the pure rationalist who denies psychological needs or the pure enthusiast who ignores financial costs. When you know what you're paying for and why, every allocation becomes intentional rather than unconscious.
+
+❓ **Tomorrow's Question**
+
+If explicitly calculating the cost of market engagement reveals that most active investors are paying far more for psychological satisfaction than they would consciously choose if the price were transparent, does this suggest that the financial industry deliberately obscures this calculation to extract excess profits, or does the very act of making costs explicit destroy the psychological value that made the engagement worthwhile in the first place—the way analyzing a joke often eliminates the humor?`,
+    parable: `Willem sat before Van der Meer's ledger with furrowed brow, studying two columns that seemed to contradict his understanding of proper trading. The first column showed the merchant's main holdings—shares in the VOC and several other ventures, barely touched for months at a time, generating steady returns. The second showed a flurry of smaller trades in pepper futures, timber contracts, and speculation on incoming cargo manifests.
+
+"Master, I don't understand," Willem ventured. "This second column... you lose money more often than you gain. Why do you persist in these smaller trades when your main holdings perform so much better?"
+
+Van der Meer smiled, the expression of a teacher who had waited for exactly this question. "Calculate for me, apprentice—what do my main holdings earn me annually?"
+
+"Approximately nine percent, master."
+
+"And these smaller trades?"
+
+Willem worked through the figures, his frown deepening. "Perhaps six percent, master, and that only because three fortunate trades balanced many small losses."
+
+"So I sacrifice three percent by engaging in this activity?" Van der Meer's eyes glinted. "Tell me, Willem—what have you learned in the six months you've been keeping track of these smaller trades?"
+
+The young man paused, suddenly seeing the ledger differently. "I've learned how cargo timing affects prices. How rumors move faster than ships. How to read the faces of merchants when they speak of distant markets. How to..."
+
+"Continue."
+
+"How to smell desperation in a seller, and caution in a buyer. How weather patterns three months hence affect contracts today. How the same news can mean opposite things depending on who already holds inventory." Willem's voice grew animated. "I've learned by watching you trade, master, but more—I've learned because you let me suggest trades, make small wagers of my own, feel the sting of being wrong and the pleasure of being right."
+
+"And could you have learned these things from my main holdings, which sit unchanged for months?"
+
+"No, master. Those teach patience, which is valuable. But these smaller trades teach... everything else."
+
+Van der Meer produced a small purse and counted out coins onto the table. "Here is three percent of my trading capital—the difference between what my main holdings earn and what my active trading generates. This is what I pay annually for the education and engagement these smaller trades provide."
+
+Willem stared at the coins, understanding dawning. "You know you're paying for it."
+
+"Precisely. Most traders engage in activity that reduces their returns, but they tell themselves they're maximizing profit. They pay for engagement while believing they're being shrewd. I pay for engagement while knowing exactly what it costs me—and I've decided that price is fair for what I receive."
+
+"But master, couldn't you simply study trading without actually trading? Read ledgers, observe the market, learn without the cost?"
+
+The old merchant chuckled. "Tell me, Willem—did you learn to swim by reading about swimming, or by getting in the water?"
+
+"By getting in the water, master. But I nearly drowned twice before I learned."
+
+"Exactly. And was the risk worth the ability you gained?"
+
+Willem nodded slowly.
+
+"Trading is the same. You can read about it forever, but until you have your own guilders at risk, until you feel your stomach clench when a ship is overdue and your spirits soar when it arrives safely, until you experience the shame of being caught in obvious folly and the quiet satisfaction of being right when others doubted—until then, you're merely a scholar of trading, not a trader."
+
+"So the cost is justified?"
+
+"That depends entirely on whether I'm honest about what I'm buying," Van der Meer replied. "If I told myself these active trades were pure profit-seeking and refused to acknowledge the educational and emotional value they provide, I would be lying to myself about both their purpose and their results. But because I know I'm paying three percent for engagement and learning, I can ask honestly: is this worth the price?"
+
+"And is it?"
+
+The merchant gestured at Willem himself. "You are my answer. I could hire an apprentice who already knows trading, but instead I invest in teaching you, partially through these very trades. The financial cost is real and measurable. The benefit—your growing competence, your future value to my enterprises, and yes, my own continued sharpness from staying engaged with active trading—these are also real, if harder to measure."
+
+"Then the key is not whether to pay for engagement, but whether to pay knowingly?"
+
+"Now you understand the true ledger," Van der Meer said, sweeping the coins back into the purse. "The trader who pays three percent for engagement while believing he's being purely rational is a fool spending money on goods he doesn't know he's buying. The trader who pays three percent while explicitly acknowledging he's purchasing education, engagement, and the maintenance of trading skills is making a calculated decision that may or may not be wise, but is at least honest."
+
+Willem looked again at the two columns. "So your main holdings are optimized for pure financial return, while your active trades are optimized for a blend of financial return and other benefits you've chosen to value?"
+
+"Precisely. And because I've separated these purposes clearly, I can measure each against its true objective. My main holdings succeed if they generate steady returns with minimal attention. My active trades succeed if they generate adequate returns plus educational and engagement value that exceeds what I could obtain elsewhere for the same price."
+
+"Could you obtain the same learning more cheaply elsewhere?"
+
+Van der Meer considered this carefully. "Perhaps. I could study others' trades without risking my own capital. I could read more, observe more, participate less. But there's something about having your own money at risk that sharpens the mind in ways mere observation cannot. The question is whether that sharpening is worth three percent annually."
+
+"And your answer?"
+
+"Changes year by year," the merchant admitted. "Some years, when I'm learning rapidly and the engagement keeps me from expensive mistakes in my main holdings, it's worth far more than three percent. Other years, when I'm merely repeating familiar patterns for the comfortable feeling of action, it's probably not worth the cost. The wisdom is in asking the question regularly, not in finding a permanent answer."
+
+Willem copied the figures into his own practice ledger, but this time he created two columns of his own, labeling them carefully: "Financial Returns" and "Education & Engagement Value." Under the second column, he began listing what he'd learned and what it might be worth.
+
+Van der Meer watched with approval. "You're beginning to think like a true trader, Willem. Not just about whether to act, but about why you're acting and what you're actually purchasing with your actions."
+
+**Moral:** The market charges tuition whether you acknowledge paying it or not; wisdom lies in calculating the cost explicitly and deciding whether the education received justifies the price.
+
+**Tomorrow:** The old merchant will reveal why making market costs transparent sometimes destroys the very value those costs were meant to purchase—and why certain truths become lies the moment they are spoken aloud.`,
+  },
 ];

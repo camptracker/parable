@@ -9952,4 +9952,86 @@ Kael looked at the thin book in his hands, then at the impressive wall of knowle
 
 **Tomorrow:** Sable will reveal why the skill of ignoring information might be impossible to teach in systems designed to measure how much you've learned rather than how much you've wisely rejected.`,
   },
+  {
+    day: 141,
+    title: "The Subtraction Curriculum",
+    date: "2026-08-13",
+    image: "images/financial-independence/day-141.jpg",
+    audio: "audio/financial-independence/day-141",
+    sonnet: `**🪶 Sonnet CXLI: The Subtraction Curriculum**
+
+The student adds what masters learned to lose,
+Piling up knowledge like a miser's gold,
+Believing wisdom lies in what we choose
+To learn, not what we wisely leave untold.
+
+But every book contains a thousand hours,
+Each article demands attention's price,
+And he who reads to cultivate his powers
+May find his reading rendered him less wise.
+
+The master knows that ignorance well-chosen
+Outweighs the scattered learning of the fool
+Who thinks each door of knowledge must be open,
+Each subject mastered, every fact a jewel.
+
+*The expert's library shrinks with every year,*
+*Till truth stands naked, simple, bright, and clear.*`,
+    standard: `💰 Day 141: The Subtraction Curriculum
+
+Schools will almost certainly continue teaching addition rather than subtraction because institutional survival depends on demonstrating measurable knowledge gains, and you cannot test what students have wisely chosen to ignore. The very structure of educational accountability makes teaching discernment nearly impossible—how do you standardize a test that measures the quality of what someone deliberately chose not to learn? This creates a profound mismatch between what institutions can measure and what actually produces wisdom in domains like investing, where success often depends more on what you avoid than what you pursue.
+
+🧱 **The Concept**
+
+The Subtraction Curriculum is the counterintuitive principle that expertise in any field increasingly involves knowing what to ignore rather than what to study, yet our educational and professional systems are entirely designed around addition of knowledge rather than strategic subtraction.
+
+❓ **Why It Matters**
+
+Most investors fail not because they know too little, but because they act on too much—too much information, too many opinions, too many opportunities. The person who has learned to ignore 99% of financial content and opportunities will dramatically outperform someone who diligently studies everything available. In a world of infinite information, the skill of deliberate ignorance has become more valuable than the skill of learning.
+
+⚙️ **How It Works**
+
+A beginning investor might read every financial article, follow dozens of analysts, and consider hundreds of investment opportunities annually, creating decision paralysis and cognitive overload. An intermediate investor learns to filter information by quality, perhaps following only a few trusted sources and focusing on specific sectors. But a truly sophisticated investor operates on a subtraction curriculum—they have a short list of what they actually need to know (their circle of competence, their system's performance, major life changes that require rebalancing) and ruthlessly ignore everything else, no matter how interesting or urgent it appears. Warren Buffett exemplifies this by spending most of his day reading but within an extremely narrow focus, saying no to 99% of investment opportunities without detailed analysis. The power comes not from knowing more than others, but from having the discipline to ignore what doesn't matter, even when ignoring it feels like missing out.
+
+🎯 **Buffett Wisdom**
+
+Buffett has said the difference between successful and very successful people is that very successful people say no to almost everything. His investment success comes not from analyzing more opportunities than others, but from having the discipline to ignore opportunities outside his circle of competence, regardless of how profitable they might appear.
+
+❓ **Tomorrow's Question**
+
+If the most valuable professional skill is knowing what to ignore, and this skill is almost impossible to teach in formal educational settings because it produces no measurable credentials or test scores, what does this suggest about the relationship between formal education and actual career success—and why might the most financially successful people in any field increasingly be those who either never completed traditional education or who succeeded despite their education rather than because of it?`,
+    parable: `Kael found Sable in the village square, methodically removing books from an old cart and placing them in a pile to be burned.
+
+"Elder!" Kael rushed forward. "What are you doing? These are valuable texts!"
+
+Sable smiled gently, setting down a leather-bound volume on agricultural omens. "Valuable? Tell me, young one—how many hours did you spend last month reading about investment strategies you'll never use?"
+
+Kael flushed. "I... I wanted to understand all the options."
+
+"And did understanding every option help you choose?" Sable's eyes twinkled. "Or did it paralyze you with possibility?"
+
+Tobren approached, carrying a single slim notebook. "I used to have a library," he said quietly. "Hundreds of volumes on farming techniques, weather prediction, crop rotation systems from distant lands. I spent more time reading than planting."
+
+"What changed?" Kael asked.
+
+Tobren held up the notebook. "I wrote down the seven principles that actually mattered for my soil, my climate, my crops. Everything else—no matter how fascinating—I stopped reading. My yields doubled when my library shrank to one notebook."
+
+Sable gestured at the pile of books. "These aren't worthless. They're merely not for us. Each contains knowledge—but knowledge is not the same as wisdom. Wisdom is knowing which knowledge matters and which is merely distraction dressed as learning."
+
+"But how do you know what to ignore?" Kael protested. "What if something important is in these books?"
+
+"That's the apprentice's question," Sable replied. "The master asks differently: 'What if something unimportant is in these books—and I waste my one precious life learning it?'"
+
+She pulled a single volume from the cart before the rest were taken away. "This one stays. It contains the compound interest tables and basic principles we've already discussed. Everything else I've learned in fifty years of investing could fit in this thin book. The question isn't whether those other volumes contain knowledge. It's whether that knowledge would improve my results or merely make me feel more learned."
+
+Kael watched the cart being wheeled away, feeling both liberated and anxious. "It feels wrong. Like giving up."
+
+"It is giving up," Tobren agreed. "Giving up the fantasy that you can know everything. Giving up the comfort of endless preparation. Giving up the excuse that you're not ready to act because you haven't finished learning."
+
+Sable handed Kael the remaining book. "Tomorrow I'll teach you the hardest lesson—not what to learn, but how to live with having chosen not to learn everything. The weight of ignorance chosen deliberately rather than accidentally."
+
+**Moral:** *The master's library shrinks as wisdom grows—not because less is known, but because more is understood about what doesn't need knowing.*
+
+**Tomorrow:** *Can deliberate ignorance coexist with intellectual honesty, or does choosing not to learn constitute a form of willful blindness that eventually costs more than the distraction of learning everything would have?*`,
+  },
 ];
