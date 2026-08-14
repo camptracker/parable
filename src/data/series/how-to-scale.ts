@@ -9158,4 +9158,79 @@ Vex looked at the oak, seeing it differently now. Not as essential infrastructur
 
 **Tomorrow:** But if organizations successfully diversify their dependencies, what invisible force immediately begins constructing new single points of failure?`,
   },
+  {
+    day: 140,
+    title: "The Dependency Migration Instinct",
+    date: "2026-08-14",
+    image: "images/how-to-scale/day-140.jpg",
+    audio: "audio/how-to-scale/day-140",
+    sonnet: `**🪶 Sonnet CXL: The Dependency Migration Instinct**
+
+We break the single point that blocks our way,
+Disperse authority through many hands,
+And watch decisions flow like light of day—
+No bottleneck remains, no leader stands
+
+Above the rest. But data blooms from choice:
+Some minds see patterns others never find,
+Some judgment proves superior. One voice
+Emerges clear—the team, though undesigned,
+
+Begins to route the hardest questions there,
+Informal channels form like water's course,
+The new dependency grows everywhere
+While formal charts show distributed force.
+
+*We cannot kill the human need to seek*
+*The sharpest mind when consequences speak.*`,
+    standard: `🚀 Day 140: The Dependency Migration Instinct
+
+Organizations reconstruct single points of failure because humans are pattern-matching machines that crave predictable excellence—we instinctively identify whoever consistently delivers breakthrough results and begin routing all similar challenges through them, regardless of our explicit commitment to distributed decision-making. The diversification itself creates the data that reveals the new dependency: by forcing decisions through multiple leaders, we generate a performance distribution that makes exceptional judgment visible, and visibility inevitably creates gravitational pull that concentrates authority around the new top performers.
+
+🧱 **The Concept**
+Dependency migration is the organizational tendency to unconsciously reconstruct single points of failure around new leaders immediately after successfully eliminating previous dependencies, driven by the performance data that diversification exercises themselves generate.
+
+❓ **Why It Matters**
+Most organizations treat dependency elimination as a one-time structural fix rather than an ongoing behavioral pattern that requires continuous intervention. When you force fragility exercises and successfully diversify decision-making across multiple leaders, you create a natural experiment that produces performance signals—and those signals inevitably guide your team back toward concentrated dependencies, just around different people. Without understanding this migration instinct, you'll spend resources breaking dependencies that your culture immediately rebuilds through informal channels.
+
+⚙️ **How It Works**
+Imagine you identify that your CPO has become a single point of failure for all product strategy decisions, so you deliberately distribute strategic authority across five product leaders and force them to make major calls independently for six months. The diversification works—decisions get made without the CPO bottleneck. But the exercise generates comparative data: Leader A's decisions produce 40% better outcomes than Leader B's. Within weeks, your team starts unconsciously routing the hardest strategic questions to Leader A, seeking their input "informally" before making decisions, asking them to review conclusions before implementation. You've successfully eliminated the CPO dependency, but you've created an equally dangerous Leader A dependency—not through formal authority, but through revealed performance differentials that make everyone gravitate toward your best strategic thinker. The migration happens invisibly because it's driven by rational pattern-matching: people have seen which leader makes the best calls, and they naturally want that quality of thinking applied to their most important decisions. Traditional dependency breaking focuses on formal authority structures, but dependency migration operates through informal influence networks that reform around whoever your diversification experiments reveal as exceptional.
+
+🎯 **Scaling Wisdom**
+The organizations that successfully prevent dependency migration don't try to hide performance differentials—they establish "excellence rotation" protocols that deliberately move their best decision-makers to entirely new domains every 18-24 months, ensuring that exceptional judgment gets distributed across multiple problem spaces rather than allowing it to create permanent gravitational wells in any single domain.
+
+❓ **Tomorrow's Question**
+If excellence rotation protocols successfully prevent dependency migration by moving your best leaders to new domains, why do organizations that master this rotation discipline eventually discover that their most valuable decision-makers have become "professional beginners" who deliver consistently mediocre results because they never stay in any domain long enough to develop the deep pattern recognition that made their judgment exceptional in the first place?`,
+    parable: `Vex stood in Ironmere's study, staring at the architectural diagrams spread across the ancient table. Each drawing showed the same city block, but sketched by different hands during what Ironmere called "the great distribution."
+
+"You dispersed the design authority," Vex observed, tracing the varied line weights and structural approaches. "After your master architect became the single point of failure, you forced five different architects to independently solve the same district's challenges."
+
+"I did," Ironmere said quietly. "And I broke the dependency beautifully. Decisions flowed. Buildings rose. The bottleneck vanished."
+
+"But?"
+
+Ironmere pulled out a later map, covered in red ink annotations. "Within eight months, every architectural question of true consequence was being routed through Architect Thane. Not officially—she held no special authority. But the distribution experiment had revealed what everyone's instinct had suspected: her structural intuition was simply superior. A bridge designed by Thane stood for centuries. A bridge designed by the others needed reinforcement within decades."
+
+"So the dependency migrated," Vex said.
+
+"Like water finding a new channel after you dam the old one." Ironmere's finger traced the red ink flowing toward Thane's name. "I had eliminated the formal bottleneck, but I had created the data that showed everyone who truly understood load-bearing genius. And humans are pattern-matching creatures, Vex. Once they see excellence, they cannot unsee it. They will find ways to access it, regardless of your organizational charts."
+
+Vex studied a building that had clearly been designed by committee—five architects' signatures at the bottom. "This one looks... compromised."
+
+"Because they were terrified of creating a new Thane dependency," Ironmere said. "So they forced collaborative design. Five equal voices. Democratic architecture." He smiled grimly. "It's the ugliest, least functional building in the entire district. Still standing, but nobody wants to occupy it."
+
+"So what did you do?"
+
+Ironmere pulled out a final diagram—a rotation schedule showing Thane moving to naval engineering, then hydraulic systems, then fortification design, each assignment lasting two years. "I let her excellence migrate too. Every time people began routing decisions through her gravitational well, I moved her to an entirely new domain where she had to build new pattern recognition from scratch. Her genius got distributed across problem spaces instead of creating a permanent well in any single domain."
+
+"Did it work?"
+
+"For a time." Ironmere's expression darkened. "Until I discovered a different problem the rotation created—one I hadn't anticipated."
+
+He closed the folder before Vex could ask what that problem was.
+
+**Moral:** Breaking a dependency only reveals who your next dependency will be. The diversification that frees you from one single point of failure generates the performance data that builds another. Organizations don't eliminate dependencies—they migrate them to wherever their experiments reveal genuine excellence, unless they deliberately rotate that excellence across domains to prevent permanent gravitational collapse.
+
+**Tomorrow:** Ironmere will reveal what happened when Thane's constant rotation across domains created an unexpected crisis in her capability—and why the solution to dependency migration can become more dangerous than the dependency itself.`,
+  },
 ];

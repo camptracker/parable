@@ -9120,4 +9120,70 @@ Dove and Elm sat in the garden as the sun lowered, hands still joined, learning 
 
 **Tomorrow**: Dove will discover that her fear of full joy is really a fear of full vulnerability—and that unlocking one requires unlocking the other.`,
   },
+  {
+    day: 134,
+    title: "The Sacred Reciprocity",
+    date: "2026-08-14",
+    image: "images/wedding-planning/day-134.jpg",
+    audio: "audio/wedding-planning/day-134",
+    sonnet: `**🪶 Sonnet CXXXIV: The Sacred Reciprocity**
+
+Not fifty-fifty measured day by day,
+But seasons when one holds while other breaks,
+When love means shouldering the full display
+Of burdens that would crush your partner's wake.
+
+Today I carry what you cannot bear—
+The logistics, details, weight of choice and plan,
+While you construct our future's framework there,
+Each working at the edge of what we can.
+
+No ledger tracks the score of give and take,
+No spreadsheet measures who has given more,
+For partnership means trusting that the ache
+Of carrying alone won't be your norm.
+
+*The tide flows out, the tide returns again—*
+*In marriage, who's the river, who's the rain?*`,
+    standard: `💍 Day 134: The Sacred Reciprocity
+
+🧱 **The Concept**
+Marriage thrives not on perfect equality but on rhythmic reciprocity—seasons when one partner gives 80% while the other can only offer 20%, trusting the rhythm will eventually reverse.
+
+❓ **Why It Matters**
+The expectation of constant 50/50 balance creates scorekeeping that poisons intimacy. Real partnership acknowledges that life's challenges drain people unevenly, and sustainable love means carrying more weight precisely when your partner cannot, without resentment or tracking who's ahead.
+
+⚙️ **How It Works**
+Reciprocity operates on seasons, not days. During career crises, health challenges, grief, or exhaustion, one partner becomes the primary emotional anchor, household manager, or financial provider. The trust isn't that tomorrow will be exactly equal—it's that over the years, you'll both experience seasons of carrying and being carried. This requires releasing the transactional mindset that demands immediate balancing of scales. A partner who handles all the wedding logistics while you're drowning at work, or who absorbs your pre-wedding anxiety without demanding you immediately absorb theirs, is practicing the reciprocity that will sustain decades of marriage through job losses, illnesses, parenting exhaustion, and aging parents.
+
+🎯 **Wedding Wisdom**
+Your wedding planning reveals whether you're building a relationship based on fair exchange or generous flow—one keeps score, the other keeps faith.
+
+❓ **Tomorrow's Question** — If you discovered that the health of your marriage would be determined not by how equally you divide tasks and burdens but by how willingly you each carry the full weight when your partner simply cannot, what specific fear about being taken advantage of would you need to release to trust that giving more than you receive in any given season is an investment rather than a loss?`,
+    parable: `Dove sat at Nana Rose's kitchen table, her laptop open to a spreadsheet that tracked every wedding task, color-coded by who had completed what. "He's done maybe thirty percent of the planning," she said, her voice tight. "I'm doing everything."
+
+Nana Rose studied the spreadsheet without touching it. "And what's Elm been doing these past three months?"
+
+"Working," Dove admitted. "They offered him that promotion, but it meant taking on the merger project. He's been at the office until midnight most nights."
+
+"So he's carrying your shared future financially while you carry the wedding planning," Nana Rose observed. "That sounds like partnership, not inequality."
+
+"But it's not fair," Dove protested. "This is supposed to be our wedding."
+
+Nana Rose pulled out her own wedding album, worn with decades of handling. She pointed to a photo of a young woman in a simple dress. "I planned our entire wedding alone. My husband was deployed overseas. He didn't see the venue, taste the cake, or approve a single detail." She turned the page. "Ten years later, I was bedridden with our third child, complications from start to finish. He worked full-time, managed our two other children, cooked every meal, and sat with me every evening reading aloud because I was too weak to hold a book."
+
+She closed the album. "Marriage isn't a seesaw that must balance every day. It's a river that flows back and forth. Sometimes you're the bank that holds firm while your partner floods with crisis. Sometimes you're the flood, and they're what keeps you from washing away completely."
+
+Elm arrived then, eyes shadowed with exhaustion, carrying takeout. "I'm sorry I couldn't help with the seating chart tonight," he said to Dove. "The merger presentation is tomorrow."
+
+Dove looked at her spreadsheet, then at her partner. She saw what she'd been too focused on fairness to notice—how his shoulders curved with the weight of providing their future security, how he'd still brought her dinner despite his exhaustion.
+
+"I've got the seating chart," she said. "You've got us. That's the trade right now."
+
+Nana Rose smiled. "There will be seasons when he plans everything while you cannot. There will be seasons when neither of you can carry much, and you'll have to ask for help. The question isn't whether it's equal. It's whether you trust the tide to turn."
+
+**Moral**: The strongest marriages aren't built on daily scorekeeping but on the faith that love's economy operates on seasons, not transactions—trusting that the partner you carry today will carry you tomorrow.
+
+**Tomorrow**: Dove discovers that the fear of being taken advantage of in marriage often masks a deeper terror: that needing help makes us unworthy of love.`,
+  },
 ];
