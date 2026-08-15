@@ -9233,4 +9233,70 @@ He closed the folder before Vex could ask what that problem was.
 
 **Tomorrow:** Ironmere will reveal what happened when Thane's constant rotation across domains created an unexpected crisis in her capability—and why the solution to dependency migration can become more dangerous than the dependency itself.`,
   },
+  {
+    day: 141,
+    title: "The Attraction Necessity Principle",
+    date: "2026-08-15",
+    image: "images/how-to-scale/day-141.jpg",
+    audio: "audio/how-to-scale/day-141",
+    sonnet: `**🪶 Sonnet CXLI: The Attraction Necessity Principle**
+
+When expertise departs, we spread her weight
+Across ten minds who share what one had held,
+And celebrate how we've escaped the fate
+Of single souls through whom all wisdom felled.
+
+But watch how quickly burden makes them bend—
+Each partial view demands exhausting sync,
+What lived as instinct now requires ten friends
+To coordinate before they choose the ink.
+
+Then one develops slightly sharper sight,
+And all the rest experience sweet relief,
+The new dependency feels strangely right—
+Not laziness, but economic grief.
+
+*We did not fail to share the precious load,*
+*We failed to build the tools that ease the road.*`,
+    standard: `🚀 Day 141: The Attraction Necessity Principle
+
+🧱 **The Concept**
+Organizations don't randomly reconstruct dependencies—they're biologically attracted to concentrated expertise because distributed decision-making creates cognitive load that eventually becomes more expensive than the single-point-of-failure risk they just eliminated.
+
+❓ **Why It Matters**
+Companies celebrate diversifying their critical decision-making, then watch in confusion as their teams naturally gravitate back toward relying on individual experts. This isn't organizational dysfunction—it's an efficiency signal revealing that true decision distribution requires fundamentally different cognitive infrastructure, not just permission to make choices. Without understanding why attraction happens, you'll keep fighting a gravitational force that's actually pointing toward a deeper structural problem.
+
+⚙️ **How It Works**
+When you successfully break a dependency on a single leader, you don't eliminate the complexity that leader was managing—you distribute it across everyone who now shares that decision authority. A team that previously asked one technical architect becomes ten engineers each maintaining partial mental models of system trade-offs, constantly synchronizing their incomplete perspectives before making choices. This works briefly, but the cognitive overhead compounds: what took one conversation now requires five meetings, what lived in one expert's intuition now demands documented frameworks everyone must internalize, what felt like simple questions now trigger exhausting collaborative processes. Eventually someone on the team develops slightly better instincts, and everyone else experiences profound relief when they can just ask that person instead of coordinating distributed judgment. The new dependency forms not because teams are lazy, but because the infrastructure needed for truly distributed expertise—shared mental models, instant information access, automated trade-off analysis, collective pattern recognition—doesn't exist yet. You're asking people to coordinate in their heads what should be coordinated by systems.
+
+🎯 **Scaling Wisdom**
+Dependency migration isn't resistance to change—it's accurate feedback that you've distributed authority without distributing the cognitive tools required to exercise it efficiently.
+
+❓ **Tomorrow's Question** — If dependency migration reveals missing cognitive infrastructure rather than organizational weakness, why do the most sophisticated companies treat repeated dependency formation as a cultural failure requiring leadership intervention instead of an engineering problem requiring better collaborative tools?`,
+    parable: `Vex stood in the workshop's new wing, watching five apprentices argue over which timber joints to use for the merchant's commission. Three weeks ago, this decision would have taken one conversation with their master carpenter, Rella, who'd left to start her own shop. Now it required an hour of debate, reference to Rella's old sketches, and visible exhaustion on every face.
+
+"We diversified the expertise," Vex said when Ironmere arrived. "Just like you taught. Rella held too much knowledge, so I had her train everyone before she left. But look—they're miserable. And yesterday I caught them sending a runner to Rella's new workshop to ask her opinion on dovetail spacing."
+
+"What did you distribute, exactly?" Ironmere asked.
+
+"The authority to choose joints. The knowledge of different techniques. The responsibility for structural decisions."
+
+"And what remained concentrated?"
+
+Vex frowned, watching the apprentices finally reach consensus, their faces showing relief mixed with doubt. "The... the ability to hold all the variables at once? Rella could see how wood movement, grain direction, load patterns, and aesthetic requirements all interacted. These five are each tracking pieces of that, trying to assemble her vision through conversation."
+
+"You distributed her conclusions without distributing her cognitive architecture," Ironmere said. "She didn't just know different joint types—she'd built mental infrastructure for evaluating trade-offs instantly, pattern-matching against thousands of previous decisions, intuiting solutions without conscious deliberation. You gave your apprentices her knowledge but not her processing system."
+
+"So they'll naturally recreate dependency on whoever develops those instincts fastest," Vex said, watching one apprentice—Kael—confidently settle a new dispute while the others visibly relaxed. "Not because they're weak, but because coordinating five partial intuitions is brutally expensive compared to trusting one complete perspective."
+
+"The attraction to concentrated expertise isn't organizational failure," Ironmere said. "It's economic reality. True distribution requires building collaborative infrastructure that makes coordinated judgment cheaper than individual expertise. Shared frameworks that hold the complexity, tools that surface relevant patterns, systems that synchronize mental models automatically. Without those, you're not distributing decision-making—you're just distributing exhaustion."
+
+Vex nodded slowly. "We need to build the cognitive infrastructure that makes distribution sustainable, or admit we're just creating suffering until a new expert emerges."
+
+"Exactly," Ironmere said. "Dependency migration is feedback. Listen to what it's telling you about missing tools."
+
+**Moral:** Organizations don't resist distributed expertise—they resist the unsupported cognitive burden of coordinating partial knowledge without infrastructure that makes collaboration cheaper than concentration.
+
+**Tomorrow:** Vex discovers why companies that understand this infrastructure gap still treat dependency formation as a leadership problem rather than building the collaborative tools their distributed teams desperately need.`,
+  },
 ];

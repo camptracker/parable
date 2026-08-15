@@ -5873,4 +5873,86 @@ They stood together in the quiet kitchen, learning the difference between observ
 
 **Tomorrow**: *Elder Joy reveals why we defend our fearful interpretations so fiercely, even when more generous explanations are equally available...*`,
   },
+  {
+    day: 78,
+    title: "The Expectation Examination",
+    date: "2026-08-15",
+    image: "images/relationship-play/day-78.jpg",
+    audio: "audio/relationship-play/day-78",
+    sonnet: `**🪶 Sonnet LXXVIII: The Expectation Examination**
+
+What hidden scripts control the love we make?
+Which "shoulds" were borrowed from another's song?
+We carry blueprints never meant to take
+The shape of us, yet claim them all along.
+
+You fall asleep when I need talk the most—
+I read rejection in your closing eyes,
+Not seeing how your body keeps its post
+Of natural rhythms, not of love's demise.
+
+I wanted morning warmth you couldn't give,
+My expectation masking what is real:
+Two different humans learning how to live
+With biology that doesn't bend or kneel.
+
+*Examine what you thought was carved in stone—*
+*Most "truths" were simply seeds that others sown.*`,
+    standard: `🎮 Day 78: The Expectation Examination
+
+🧱 **The Concept**
+Our unexamined expectations about how partners "should" respond to our biological rhythms often create more conflict than the rhythms themselves.
+
+❓ **Why It Matters**
+When we unconsciously expect our partner to transcend their natural patterns to accommodate ours, we create an impossible standard that guarantees disappointment and resentment. Most relationship conflicts about "incompatibility" are actually conflicts about unexpressed or unrealistic expectations regarding how two different biological systems should harmonize. The problem isn't usually the rhythms themselves—it's our unstated assumptions about whose rhythm should adjust or how quickly adaptation should happen.
+
+⚙️ **How It Works**
+One partner expects the other to naturally match their sexual desire patterns without recognizing that libido follows different biological cycles. Another assumes their beloved should intuitively know when they need connection versus solitude, then feels hurt when their partner misreads the signals. A third expects that "if you really loved me, you'd want to stay up late talking" without acknowledging that their partner's sleep needs are as real as their connection needs. **The Expectation Examination** invites couples to surface and scrutinize these hidden "shoulds"—not to eliminate all expectations, but to distinguish between reasonable hopes and biological impossibilities. When we examine our expectations together with curiosity rather than defensiveness, we often discover that what felt like rejection or incompatibility was simply two people trying to meet each other while operating from completely different biological instruction manuals.
+
+🎯 **Playful Connection Wisdom**
+**The expectations we inherit from culture, family, and romance narratives often have nothing to do with biological reality—examining them together transforms invisible relationship saboteurs into opportunities for creative collaboration.**
+
+❓ **Tomorrow's Question** — If we can clearly see that many of our expectations about how love "should" look and feel were unconsciously absorbed from sources that knew nothing about our actual partnership, why do so many couples defend these inherited scripts more fiercely than they protect their lived experience of what actually creates connection between them specifically?`,
+    parable: `Quinn sat in Elder Joy's sunlit office, arms crossed. "River falls asleep during our most important conversations. Last night I was sharing something vulnerable, and I look over—asleep. It's like I don't even matter."
+
+Elder Joy set down her tea. "What time was this?"
+
+"Around eleven."
+
+"And what time does River typically become sleepy?"
+
+Quinn shifted. "I don't know... nine-thirty? Ten? But that's not the point. The point is—"
+
+"The point is that you expected River's love to override biology," Elder Joy said gently. "You expected that if River truly cared about your feelings, their body would somehow produce alertness and attentiveness despite being two hours past their natural sleep window. You took a biological fact and interpreted it as an emotional statement."
+
+River, who had been quiet, spoke up. "I feel terrible when I get drowsy during Quinn's stories. I'm not choosing it. My body just... shuts down."
+
+"And Quinn," Elder Joy continued, "when is your mind most alive and wanting to connect?"
+
+"Late evening," Quinn admitted. "That's when I process my day and want to talk about real things."
+
+"So you have an unexamined expectation that River should naturally be available during your peak processing hours, even though those hours coincide with River's biological shutdown. And River, do you have expectations about Quinn?"
+
+River nodded slowly. "I expect Quinn to want physical closeness in the morning when I'm most affectionate. But Quinn's barely conscious before coffee. I've been taking that personally for years."
+
+Elder Joy smiled. "Two beautiful humans, each carrying invisible scripts about how love should look, each taking biological rhythms as evidence of emotional deficiency. What if you examined these expectations together? Not to eliminate them, but to see which ones are serving your actual relationship and which ones are just inherited stories?"
+
+Quinn uncrossed their arms. "I never thought about it as an expectation. I thought it was just... obvious. If someone loves you, they stay awake when you're being vulnerable."
+
+"Where did you learn that?" Elder Joy asked.
+
+"I... I don't know. Movies? My parents? It just feels true."
+
+"Does it feel true, or does it feel familiar?" Elder Joy leaned forward. "Because I've watched countless couples torture themselves trying to match inherited templates that have nothing to do with their actual biology, their actual nervous systems, their actual relationship. The examination isn't about blame—it's about seeing clearly. When you see your expectations as assumptions rather than absolutes, you can get creative."
+
+River reached for Quinn's hand. "What if we had our vulnerable conversations at nine, before my brain turns off?"
+
+Quinn squeezed back. "And what if I tried being affectionate in the morning, even before coffee?"
+
+Elder Joy laughed. "Now you're building a relationship based on reality instead of romance novels. That's where the real intimacy lives—in the space between who you expected each other to be and who you actually are."
+
+**Moral**: *The expectations we never examine become the walls we can't see through—name them, question them, and discover whether they're building bridges or barriers.*
+
+**Tomorrow**: Quinn and River will discover that some of the stories they defend most passionately about "how relationships should work" have nothing to do with their relationship at all...`,
+  },
 ];
