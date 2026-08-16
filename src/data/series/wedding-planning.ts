@@ -9186,4 +9186,95 @@ Nana Rose smiled. "There will be seasons when he plans everything while you cann
 
 **Tomorrow**: Dove discovers that the fear of being taken advantage of in marriage often masks a deeper terror: that needing help makes us unworthy of love.`,
   },
+  {
+    day: 135,
+    title: "The Sacred Asymmetry",
+    date: "2026-08-16",
+    image: "images/wedding-planning/day-135.jpg",
+    audio: "audio/wedding-planning/day-135",
+    sonnet: `**🪶 Sonnet CXXXV: The Sacred Asymmetry**
+
+When one must bear the weight of two as one,
+And carry all the burdens through the night,
+The heart that keeps a ledger comes undone—
+But love that gives freely burns more bright.
+For seasons turn, and who was strong grows weak,
+And who was carried learns to lift and hold,
+The mathematics of the heart don't speak
+In equal trades but gifts more fierce than gold.
+You take my hand when I can barely stand,
+I lift you up when darkness pulls you down,
+No scorecard marks which partner made demand—
+Just two souls taking turns to wear the crown.
+*The marriage that endures beyond the years*
+*Is built by two who alternately carry tears.*`,
+    standard: `💍 Day 135: The Sacred Asymmetry
+
+The fear you'd need to release is the scarcity belief that love is a finite resource—that giving more than you receive depletes you rather than expands your capacity for generosity. Truly trusting your partner means believing that the seasons will turn, that the one who carries today will be carried tomorrow, and that love grows strongest not through perfect balance but through the willingness to be unbalanced when life demands it. This requires releasing the ledger-keeping mindset that measures every exchange and instead embracing the abundance mentality that sees temporary inequality as the natural rhythm of two lives woven together.
+
+🧱 **The Concept**
+
+Healthy marriages aren't built on 50/50 division but on 100/100 commitment, where both partners stand ready to give everything when the other has nothing left to give.
+
+❓ **Why It Matters**
+
+The insistence on perfect equality at every moment creates relationships that fail precisely when they're needed most—during illness, grief, career transitions, or exhaustion when one partner simply cannot contribute their "fair share." The marriages that endure are those where both people have released the scorecard and embraced the understanding that true partnership means sometimes carrying 80% or even 100% of the load without resentment, trusting that the asymmetry is temporary and the investment in your partner's wellbeing is an investment in the relationship's future.
+
+⚙️ **How It Works**
+
+When one partner is completing graduate school while working full-time, the other might handle all the household management for two years—not as a favor to be repaid with interest, but as a gift freely given to the relationship's long-term flourishing. When one partner is navigating grief after losing a parent, the other might carry the full weight of daily decisions, emotional labor, and practical life management for months without expecting immediate reciprocation. When one partner's career demands intense travel during a crucial project phase, the other might solo-parent and manage the home without keeping a tally of nights spent alone. The key is that both partners have agreed to this asymmetrical model in advance—that when your season comes to need more than you can give, you trust you'll be carried with the same generosity you've shown.
+
+🎯 **Wedding Wisdom**
+
+The vows don't promise "I'll give exactly as much as you give"—they promise "I'll give everything when you have nothing left," trusting that love's arithmetic works differently than the world's.
+
+❓ **Tomorrow's Question**
+
+If you discovered that the moments when your partner most needs you to carry the relationship's full weight would coincide precisely with the moments when you least feel like being generous (when you're also tired, stressed, or depleted), what internal resource would you need to cultivate now to ensure you can access generosity even when your own tank is empty, and what does that reveal about the difference between loving when it's convenient versus loving because you've made it a discipline?`,
+    parable: `Dove sat in Nana Rose's garden, watching Elm repair the fence he'd built six months ago. His hands moved steadily despite the exhaustion in his shoulders—he'd worked a double shift, then come straight here because he'd promised.
+
+"I feel terrible," Dove confessed to Nana Rose. "I haven't helped with any wedding tasks this week. I've been drowning at work, and Elm has done everything—the vendor calls, the seating chart revisions, even ordering my dress alterations. I keep a mental list of everything I owe him."
+
+Nana Rose set down her tea. "That list is a wall, dear one. You're building it brick by brick."
+
+"But it's not fair to him," Dove protested. "Marriage should be equal."
+
+"Equal?" Nana Rose laughed softly. "Child, I've seen a thousand marriages. The ones measuring fairness are the ones falling apart. The ones that last? Those are built by people who've thrown away the scales entirely."
+
+Elm approached, wiping his hands. "The fence is done, but I should probably head home and sleep before I fall over."
+
+Dove stood quickly. "Wait. I need to tell you—I'm sorry I haven't been pulling my weight. I've been keeping track of everything you've done, and I promise I'll make it up to you after this project ends."
+
+Elm's face fell slightly. "You're keeping track?"
+
+Nana Rose intervened gently. "Elm, tell Dove about February. When you had pneumonia."
+
+He nodded slowly. "I was in bed for three weeks. Dove handled everything—work, the apartment, bringing me meals, managing my family's worried calls. I felt guilty every single day."
+
+"And did she keep a list?" Nana Rose asked.
+
+"No," Elm said, his voice softening as he looked at Dove. "When I tried to thank her and promise I'd repay her somehow, she said, 'This is what we do. We take turns being strong.'"
+
+Dove's eyes filled. "But this feels different. I'm choosing work stress. You were sick."
+
+"Need is need," Nana Rose said firmly. "Whether it's illness, career demands, grief, or exhaustion, there will always be seasons when one of you carries more. The marriages that die are the ones where people resent the carrying. The marriages that thrive are the ones where people feel honored to carry their beloved when legs give out."
+
+Elm took Dove's hands. "I'm not keeping score. When you needed me to handle everything, I didn't think 'She owes me.' I thought 'I'm glad I can do this so she doesn't have to choose between her relationship and her survival.'"
+
+"But what if it's always unequal?" Dove whispered. "What if I always take more than I give?"
+
+"Then you'd address that pattern," Nana Rose said. "But temporary asymmetry isn't a pattern—it's a rhythm. Spring doesn't apologize to winter for being warmer. The seasons trust each other to turn."
+
+Elm squeezed Dove's hands. "Three months ago, you carried me. This month, I carry you. Next year, who knows? But I'm not doing this expecting repayment. I'm doing it because this is what marriage is—being willing to hold the full weight when your partner can't."
+
+"The fear is being taken advantage of," Dove admitted. "Of giving and giving and never receiving."
+
+Nana Rose nodded. "That fear comes from believing love is finite. That you'll run out. But the strange mathematics of marriage is that the more you give freely—without resentment, without keeping score—the more capacity you develop to give. The marriages I've seen crumble are the ones where both people protected themselves from giving too much. The ones that became unshakeable? Those were built by two people who competed over who could be more generous."
+
+Elm pulled Dove close. "I don't want you to owe me. I want you to know that when your season comes to carry me—and it will—you'll do it just as freely as I'm carrying you now. That's not debt. That's devotion."
+
+**Moral:** The strongest marriages are not balanced at every moment but are built by two people who trust the seasons enough to carry the full weight without resentment when their partner cannot.
+
+**Tomorrow:** When both partners are empty simultaneously, what will save them?`,
+  },
 ];

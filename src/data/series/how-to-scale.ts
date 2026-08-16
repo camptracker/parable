@@ -9299,4 +9299,83 @@ Vex nodded slowly. "We need to build the cognitive infrastructure that makes dis
 
 **Tomorrow:** Vex discovers why companies that understand this infrastructure gap still treat dependency formation as a leadership problem rather than building the collaborative tools their distributed teams desperately need.`,
   },
+  {
+    day: 142,
+    title: "The Infrastructure Attribution Error",
+    date: "2026-08-16",
+    image: "images/how-to-scale/day-142.jpg",
+    audio: "audio/how-to-scale/day-142",
+    sonnet: `**🪶 Sonnet CXLII: The Infrastructure Attribution Error**
+
+When teams return to oracles tried and true,
+We blame the culture, weak in distributed might,
+And launch initiatives to cultivate anew
+The courage that we think will set things right.
+
+But 'neath the surface lies a different tale:
+No tools exist to navigate the maze,
+No infrastructure where the wise prevail,
+Just checklists crude for complexity's dark ways.
+
+The master holds within his seasoned mind
+What should be carved in stone for all to see—
+Decision patterns, questions well-designed,
+That teams could wield as organizational key.
+
+*Misattributing gaps of engineer to soul,*
+*We fix the wrong disease and miss the whole.*`,
+    standard: `🚀 Day 142: The Infrastructure Attribution Error
+
+Because cultural narratives provide immediate emotional coherence while engineering solutions require admitting that the organization's most celebrated leaders might simply be compensating for badly designed systems. Most companies find it psychologically easier to frame dependency as a character issue ("we need stronger distributed leadership") than to acknowledge their collaborative infrastructure is so primitive that brilliant individual judgment remains their only reliable decision-making technology. The most sophisticated companies eventually recognize this attribution error and realize that what looks like unhealthy hero-worship is often healthy pragmatism—teams rationally gravitating toward the only cognitive tools that actually work.
+
+🧱 **The Concept**
+The infrastructure attribution error occurs when organizations misdiagnose systemic tool deficits as cultural dependency problems, leading them to invest in leadership development and empowerment initiatives when they actually need better collaborative decision-making infrastructure that makes distributed wisdom as reliable as concentrated expertise.
+
+❓ **Why It Matters**
+This misattribution wastes enormous resources on cultural interventions that can never succeed because they're solving the wrong problem. More dangerously, it creates a cycle where organizations shame their teams for rational behavior (seeking out their most reliable decision-making sources) while leaving in place the infrastructure gaps that make that behavior necessary. The pattern persists because cultural explanations feel more actionable and controllable than admitting your organization lacks the basic engineering required for genuine distributed intelligence.
+
+⚙️ **How It Works**
+When teams repeatedly form dependencies around specific leaders despite fragility exercises and empowerment programs, the infrastructure attribution error leads companies to conclude they have a culture problem and launch initiatives around psychological safety, decision-making courage, or distributed authority. Meanwhile, the actual issue is that their collaborative tools—meeting structures, decision frameworks, information systems, delegation protocols—are so poorly designed that only a few exceptional individuals can navigate complexity effectively. For example, a company might invest millions in leadership training to reduce dependency on their visionary CEO's strategic judgment, when the real problem is they lack any systematic process for integrating diverse perspectives into coherent strategy—something the CEO does intuitively but which exists nowhere in their organizational infrastructure. The most sophisticated companies eventually build what they call "judgment infrastructure"—explicit systems that capture how their best thinkers process complex decisions and make those cognitive patterns available as organizational tools rather than personal gifts. Amazon's six-page narrative memos and disagree-and-commit protocols are examples: infrastructure that makes distributed strategic thinking genuinely possible rather than aspirational. When these systems work, dependency migration stops not because culture changed but because teams finally have reliable alternatives to concentrated expertise.
+
+🎯 **Scaling Wisdom**
+Before investing in cultural transformation to reduce organizational dependencies, first ask whether your teams are actually exhibiting unhealthy psychology or rational adaptation to infrastructure that makes concentrated expertise your only reliable decision-making technology.
+
+❓ **Tomorrow's Question**
+If judgment infrastructure can successfully distribute decision-making capabilities that previously existed only in exceptional individuals, why do the organizations that build the most sophisticated judgment systems eventually discover their infrastructure has become *more* dependent on irreplaceable expertise than their original hero-dependent culture ever was?`,
+    parable: `Vex found Ironmere in the old architect's courtyard, studying a peculiar structure—a series of interconnected water channels that distributed flow from a single source to dozens of gardens.
+
+"They say I rely too much on Master Kael's judgment," Vex said, frustration evident. "The council wants me to make decisions independently, to build confidence in my own wisdom. But every time I try, something breaks that Kael would have foreseen."
+
+"Show me your workshop's decision tools," Ironmere replied.
+
+Vex produced a leather journal. "I write down my reasoning. I consult this checklist the council provided. I try to think through consequences like Kael does."
+
+Ironmere nodded slowly. "And when Kael makes decisions, what tools does he use?"
+
+"Tools?" Vex looked confused. "He just... knows. He sees patterns. He holds multiple considerations in his mind at once and weighs them against each other."
+
+"Precisely," Ironmere said. "Your council has given you a journal and a checklist—crude instruments—and asked you to compete with a master who has spent forty years developing sophisticated internal infrastructure for processing complexity. They call your reliance on him a weakness of character when it's actually rational assessment of tool quality."
+
+The old architect gestured to the water channels. "When this city was young, we had one brilliant water engineer. Everyone depended on him to decide where channels should run. The council, like yours, worried about this dependency. They trained other engineers, held workshops on hydraulic principles, encouraged distributed decision-making."
+
+"Did it work?"
+
+"No. Because the problem wasn't confidence or culture. The problem was that our brilliant engineer had developed mental models and calculation methods that existed only in his head. So we did something different: we built the infrastructure."
+
+Ironmere pointed to markings along the channels—elevation indicators, flow calculations, decision trees carved into stone at every junction. "We externalized his expertise. These channels aren't just water systems; they're decision-making systems. Now any competent engineer can manage them because the judgment is built into the infrastructure itself."
+
+"But Master Kael's wisdom is intuitive," Vex protested. "How do you externalize that?"
+
+"You make explicit what he does implicitly," Ironmere replied. "When Kael evaluates a design, what questions does he ask himself? In what order? When he sees a flaw, what patterns is he matching against? These aren't magical gifts—they're learnable processes. But first you have to recognize that the solution is engineering, not empowerment."
+
+Vex was quiet for a long moment. "So when I keep returning to Kael for judgment, I'm not weak. I'm just using the best tool available."
+
+"Exactly. And your council's frustration, while understandable, misses the point entirely. They're trying to change your psychology when they should be building your infrastructure."
+
+The water flowed steadily through Ironmere's ancient channels, distributed perfectly not through individual genius but through engineered wisdom made permanent.
+
+**Moral:** What appears as unhealthy dependency often reveals healthy pragmatism in the face of inadequate infrastructure. Before judging teams for gravitating toward concentrated expertise, ask whether you've built systems that make distributed judgment genuinely possible.
+
+**Tomorrow:** Ironmere will reveal why the most sophisticated decision infrastructure eventually creates dependencies far more dangerous than the hero-worship it was designed to eliminate.`,
+  },
 ];
