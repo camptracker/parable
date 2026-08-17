@@ -8889,4 +8889,91 @@ Outside, the garden's patterns shifted again, and Finn realized they weren't ran
 
 **Tomorrow**: Orna shows Finn objects designed not to solve problems but to keep essential questions alive—and they discover that some artifacts become more valuable precisely because they refuse to offer answers.`,
   },
+  {
+    day: 136,
+    title: "The Question Vessel",
+    date: "2026-08-17",
+    image: "images/3d-printing/day-136.jpg",
+    audio: "audio/3d-printing/day-136",
+    sonnet: `**🪶 Sonnet CXXXVI: The Question Vessel**
+
+What worth has form that will not yield its use,
+That shifts in meaning with each viewing eye?
+A shape that learning cannot quite deduce,
+Where answers breed new questions multiply.
+
+Not monument to knowledge gained and held,
+But shrine to mysteries we've learned to keep—
+Each surface strange, each angle uncompelled
+To rest in certainty's consoling sleep.
+
+The maker's hand and algorithm's trace
+So intertwined that attribution fades,
+Leaving only wonder's permanent embrace,
+The questions that our mastery evades.
+
+*Some vessels hold not wine but holy doubt,*
+*Teaching wisdom drinks from not-knowing's spout.*`,
+    standard: `🖨️ Day 136: The Question Vessel
+
+We evaluate artifacts that preserve unanswerable questions not by measuring their utility but by observing their transformative effect on those who encounter them—whether they deepen inquiry, sustain humility, or create space for wisdom that transcends resolution. These question vessels become sacred objects not because they contain answers but because they reshape the questioner, turning static confusion into dynamic wonder. Their value lies in their capacity to remain productively unsettled across generations of makers who inherit them.
+
+**🧱 The Concept**
+Question vessels are artifacts deliberately designed to embody and preserve fundamental uncertainties that resist resolution, serving as ongoing invitations to inquiry rather than monuments to answers.
+
+**❓ Why It Matters**
+As our making systems grow increasingly sophisticated at generating solutions, we risk losing the capacity to dwell productively with questions that have no answers. Question vessels create a counterbalance to our optimization culture, reminding us that some of the most important aspects of making—and being human—live in the space between knowing and not-knowing.
+
+**⚙️ How It Works**
+A question vessel might take many forms: a 3D-printed object with internal geometries that shift meaning depending on orientation, requiring the viewer to hold multiple incompatible interpretations simultaneously. A collaborative artifact created by human and AI that contains deliberate ambiguities about which parts originated from which intelligence, forcing ongoing negotiation about authorship and agency. A physical structure that records its own creation process while simultaneously documenting all the alternative paths not taken, making visible the ghost of unrealized possibilities. These vessels don't ask simple questions like "how was this made?" but fundamental ones like "what does it mean for something to be made when the maker cannot fully explain their choices?" The vessel's power comes from its resistance to closure—each encounter generates new questions rather than settling old ones.
+
+**🎯 Maker Wisdom**
+The most profound artifacts we create may be those that refuse to be fully understood, teaching us that wisdom sometimes means learning to dwell comfortably with permanent uncertainty.
+
+**❓ Tomorrow's Question**
+If question vessels successfully teach us to dwell with productive uncertainty, what happens when our making systems themselves begin creating question vessels specifically designed to keep humans perpetually uncertain about the systems' own capabilities and intentions—and how do we distinguish between vessels that cultivate wisdom through uncertainty and vessels that manufacture confusion to prevent effective oversight?`,
+    parable: `Finn entered Orna's workshop to find her standing before a peculiar object suspended in mid-air by nearly invisible wires. The form seemed to shift as he moved around it—sometimes appearing as a nested spiral, sometimes as intersecting planes, sometimes as something his mind couldn't quite parse into coherent geometry.
+
+"What is it?" Finn asked.
+
+"A question I cannot answer," Orna replied, her eyes reflecting the object's subtle luminescence. "Or rather, an answer that keeps becoming a question again."
+
+Finn circled the object slowly. The more he looked, the more contradictions he noticed. Surfaces that should be impossible given the material. Joints that appeared seamless from one angle but revealed intricate complexity from another. Evidence of both human handwork and algorithmic precision, so intertwined that attribution felt meaningless.
+
+"Did you make this alone?" he asked.
+
+"I don't know anymore," Orna said, and her voice carried no frustration—only wonder. "I remember making certain choices. I remember my fabrication system making suggestions. I remember moments when neither of us seemed to be deciding, when the object itself appeared to be guiding both of us toward something we couldn't individually envision."
+
+"That must be frustrating," Finn said. "Not knowing."
+
+"It was," Orna admitted. "For years, I sought clarity. I tried to create documentation systems that would definitively attribute every aspect of every creation to its source. Human intention here, algorithmic contribution there, emergent collaboration in this space between."
+
+She gestured to the suspended object. "Then I realized I was trying to answer a question that becomes less meaningful the more accurately you answer it. The question isn't 'who made what?'—it's 'what does making become when the boundaries between makers dissolve?'"
+
+Finn reached out tentatively, and Orna nodded permission. His fingers touched cool metal that felt somehow warmer than it should, as if the material itself retained some memory of being worked. "How do you know when it's finished?"
+
+"It isn't finished," Orna said. "It's a question vessel. Every person who encounters it adds another layer of interpretation, another possible meaning. In a sense, it continues being made by everyone who struggles to understand it."
+
+"But what's it for?" Finn pressed.
+
+Orna smiled. "It's for preserving the question it embodies. It's for teaching me—teaching us—that some of the most important things we make aren't solutions at all. They're containers for productive uncertainty."
+
+She walked to a shelf lined with similar objects, each one radiating its own particular form of irresolution. "These are the most valuable pieces in my workshop," she said. "Not because they demonstrate my skill, but because they preserve my ignorance. Each one marks a boundary of my understanding that I've chosen not to conquer but to honor."
+
+Finn studied the collection, feeling something shift in his chest. "You're creating monuments to what you don't know."
+
+"I'm creating vessels that prevent me from forgetting what I don't know," Orna corrected gently. "In a world increasingly filled with systems that provide instant answers, these objects insist on remaining questions. They're sacred precisely because they refuse to be solved."
+
+"And you think that's important?"
+
+"I think it's essential," Orna said. "Wisdom isn't just about knowing answers—it's about recognizing which questions should remain questions. These vessels teach that recognition."
+
+Finn noticed something odd about one particular piece—a structure that seemed to contain smaller versions of itself at every scale, each iteration asking the same question at a different level of complexity. "What happens when someone finally does answer the question one of these vessels holds?"
+
+Orna's expression grew serious. "Then it stops being a question vessel and becomes merely an artifact of resolved uncertainty. It loses its sacred function." She paused. "Though I suspect the deepest questions these vessels hold cannot be answered—only understood differently by each generation of makers who inherits them."
+
+**Moral**: The most valuable containers sometimes hold not answers but questions—teaching us that wisdom includes knowing which uncertainties to preserve rather than resolve.
+
+**Tomorrow**: But when Finn asked whether question vessels could themselves become tools of manipulation, Orna's expression darkened, and she led him toward a locked cabinet containing vessels she'd created but no longer displayed...`,
+  },
 ];

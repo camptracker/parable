@@ -9277,4 +9277,81 @@ Elm pulled Dove close. "I don't want you to owe me. I want you to know that when
 
 **Tomorrow:** When both partners are empty simultaneously, what will save them?`,
   },
+  {
+    day: 136,
+    title: "The Sacred Metabolization",
+    date: "2026-08-17",
+    image: "images/wedding-planning/day-136.jpg",
+    audio: "audio/wedding-planning/day-136",
+    sonnet: `**🪶 Sonnet CXXXVI: The Sacred Metabolization**
+
+The rose that wilts upon the garden floor
+Contains within its browning petals still
+A fragrance richer than it held before—
+If we but know the art to press and distill.
+So too the hurts that marriage brings to bear,
+The disappointments that we did not choose,
+Can either poison us with bitter air
+Or teach us what we needed most to lose.
+The strength of love is not in sunlit days
+But in our skill to take the shadowed night
+And ask what wisdom hides beneath dismay,
+What gift conceals itself within the blight.
+*For lasting bonds are not from joy alone—*
+*But pain transformed to understanding's throne.*`,
+    standard: `💍 Day 136: The Sacred Metabolization
+
+🧱 **The Concept**
+Marriage requires the capacity to transform pain into wisdom, conflict into understanding, and disappointment into depth—a kind of emotional alchemy where nothing is wasted and everything difficult becomes fertilizer for growth.
+
+❓ **Why It Matters**
+Couples who can only experience joy together but cannot metabolize suffering together will eventually find themselves stranded on opposite shores when hardship arrives. The strength of a marriage is revealed not by what delights it can celebrate but by what darkness it can digest and transform into insight, compassion, and renewed commitment.
+
+⚙️ **How It Works**
+Just as your body transforms food into energy, healthy marriages transform experience—even painful experience—into wisdom. When your partner disappoints you and you can ask "What is this teaching me about my expectations?" instead of "Why do they always do this?", you're metabolizing. When conflict reveals a pattern and you can say "This is showing us something we need to heal" instead of "We're fundamentally incompatible," you're metabolizing. When wedding stress tempts you to snap at each other but you pause to ask "What am I really afraid of underneath this irritation?", you're metabolizing. This week, when something difficult arises between you, resist the urge to simply react or suppress—instead, sit with it together and ask what gift it might be trying to deliver if you can unwrap it properly.
+
+🎯 **Wedding Wisdom**
+The couples who thrive aren't the ones who avoid all conflict and pain—they're the ones who have developed a shared practice for transforming every difficult moment into deeper understanding and stronger devotion.
+
+❓ **Tomorrow's Question** — If you discovered that your marriage would contain exactly the same amount of difficulty as any other marriage, but your happiness would be determined entirely by how skillfully you transform that difficulty into intimacy and wisdom rather than distance and bitterness, what specific practice would you need to establish now to ensure you become masters of transformation rather than victims of circumstance?`,
+    parable: `Dove stood at Nana Rose's kitchen table, staring at the pile of wilted roses that had been delivered for the centerpiece trial—brown-edged, drooping, clearly past their prime. Her throat tightened with the familiar pressure of things going wrong.
+
+"They're ruined," she whispered. "Everything is falling apart. First the venue lost our deposit paperwork, then Elm's sister said she might not come, and now even the flowers are dying before the wedding."
+
+Nana Rose lifted one of the wilted blooms, turning it slowly in the afternoon light. "Do you know what I do with roses like these?"
+
+Dove shook her head, expecting her to say she throws them away.
+
+"I make rose water," Nana Rose said softly. "The petals that are too damaged to display make the most exquisite essence. What looks like waste becomes something precious." She plucked a petal, crushed it gently between her fingers, and held it to Dove's nose. The scent was overwhelming—richer, deeper than any fresh rose.
+
+Elm appeared in the doorway, tension visible in his shoulders. "I just talked to my sister. She said some things about our relationship that really hurt."
+
+Dove felt her body tense, ready to defend, to be hurt alongside him. But Nana Rose's hand touched her wrist.
+
+"What if," the old woman said slowly, "everything difficult that happens between now and your wedding—every disappointment, every fear, every harsh word—is actually raw material? Not punishment. Not proof that something's wrong. Just... ingredients."
+
+"Ingredients for what?" Elm asked, moving closer.
+
+"For the marriage you're becoming capable of having," Nana Rose replied. "See, young love is all fresh roses—beautiful, fragrant, easy to admire. But lasting love? That's made from metabolizing the wilted ones. Taking what disappoints you, what hurts you, what scares you, and asking: What is this teaching us? How does this reveal what we need to heal? Where is the gift hidden in this difficulty?"
+
+Dove looked at Elm, saw the hurt still in his eyes from his sister's words. "What did she say?"
+
+"That we're rushing. That we don't know how to handle conflict because we avoid it." He swallowed hard. "Maybe she's not entirely wrong."
+
+The old Dove would have defended immediately, would have pushed the discomfort away. Instead, she felt something shift—a willingness to sit with the sting, to let it teach her something.
+
+"So... we learn," she said slowly. "We take this hurt and ask what it's showing us."
+
+Nana Rose smiled, returning to her roses. "You can't have a garden without compost. You can't have depth without digesting difficulty. The couples who last aren't the ones who avoid all pain—they're the ones who've learned to transform it."
+
+Elm reached for Dove's hand. "What if every hard thing between now and the wedding is practice?"
+
+"Practice for fifty years of hard things," Dove whispered, "that we'll turn into wisdom instead of weapons."
+
+Nana Rose began pulling petals, laying them in a bowl. "Now you're learning. Now you're ready to be married."
+
+**Moral**: *The strength of love is measured not by the difficulties it avoids but by its capacity to transform every wound into wisdom, every conflict into deeper understanding, and every disappointment into the rich soil from which lasting devotion grows.*
+
+**Tomorrow**: *Dove discovers that the practice of transformation requires a specific kind of patience she's never had to cultivate—and that without it, even the best intentions will curdle into resentment.*`,
+  },
 ];

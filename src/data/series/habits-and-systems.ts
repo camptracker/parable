@@ -8735,4 +8735,81 @@ Rook picked up one scroll, seeing it differently now. The diagram of meditation 
 
 **Tomorrow**: But when the ground itself feels unstable, do we reach for maps or learn to stand on shifting earth?`,
   },
+  {
+    day: 134,
+    title: "The Discernment Body",
+    date: "2026-08-17",
+    image: "images/habits-and-systems/day-134.jpg",
+    audio: "audio/habits-and-systems/day-134",
+    sonnet: `**🪶 Sonnet CXXXIV: The Discernment Body**
+
+The debt collector pounds upon the door,
+Demands immediate recognition's coin,
+Will not relent, grows louder than before—
+While wisdom waits outside, asks not to join.
+
+One shouts with urgency that will not fade,
+Erects elaborate justifications tall,
+The other rests in silence, unafraid,
+Trusts right response will come when there's a call.
+
+The body knows the difference by its feel—
+One tightens throat and quickens anxious breath,
+One settles deep like stone, composed and real,
+As calm when challenged as it is in death.
+
+*The pause reveals which voice deserves your trust—*
+*What screams when questioned was only just lust.*`,
+    standard: `🧘 Day 134: The Discernment Body
+
+Yes, the absence of conceptual guidance leaves us vulnerable—but not because impulses are inherently misleading. The danger lies in our inexperience with inhabiting the somatic wisdom that distinguishes genuine intuition from reactive patterns. True intuition arrives with a quality of calm clarity, even when it asks something difficult of us, while impulse carries the frenetic signature of unexamined desire or unprocessed fear.
+
+🧱 **The Concept**
+Authentic intuition can be distinguished from reactive impulse by developing sensitivity to the somatic signatures that accompany each—intuition carries spaciousness and inevitability, while impulse arrives with urgency and defensiveness.
+
+❓ **Why It Matters**
+Without this discernment capacity, we either become slaves to every passing desire (mistaking restlessness for inspiration) or we build such rigid conceptual frameworks that we disconnect entirely from embodied knowing. The path between these extremes requires us to develop what might be called a "discernment body"—a lived, felt sense of the difference between wisdom and wanting.
+
+⚙️ **How It Works**
+Intuition typically announces itself with a sense of recognition rather than discovery—as if we're remembering something we already knew rather than learning something new. There's no urgency to act immediately, even when the action itself is time-sensitive; the knowing has a patient quality that trusts the right moment will be clear. Impulse, by contrast, insists on immediate response and grows louder when resisted, creating internal pressure and rationalization. When someone suggests we "sleep on" an impulsive decision, we feel defensive and impatient; when someone suggests we delay acting on genuine intuition, we feel no threat because the knowing isn't going anywhere. We can practice this discernment by deliberately pausing when we feel moved to act, checking whether the pause creates spaciousness (intuition) or mounting anxiety (impulse).
+
+🎯 **Systems Wisdom**
+The discernment body develops through repeated practice of the pause itself—not to suppress our impulses, but to feel their texture clearly enough that wisdom becomes unmistakable when it arrives.
+
+❓ **Tomorrow's Question**
+If genuine intuition can be distinguished from impulse by its somatic signature, what happens when we've spent years suppressing our bodily sensations in service of "rationality" and can no longer feel the difference between spaciousness and numbness?`,
+    parable: `Rook burst into Cairn's workshop at dawn, breathless with excitement. "I've had a vision," they announced. "The stones want to be carved in spirals—everything I've been doing was wrong, but now I finally understand the true way!"
+
+Cairn continued his careful work on the statue he'd been carving for months—a simple figure, no spirals. He did not look up.
+
+"Did you hear me?" Rook pressed. "This is important. This is different from all my other ideas. This time I *know*."
+
+"You know," Cairn repeated quietly, "the way you knew about the stones wanting to be polished into perfect spheres? And before that, the way you knew they wanted to remain completely untouched?"
+
+Rook flushed. "This is different. I can feel it."
+
+"Yes," Cairn agreed. "I imagine you can. Tell me—does this feeling demand I stop my work immediately and acknowledge its brilliance?"
+
+Rook opened their mouth, then closed it. The feeling did demand exactly that.
+
+"Intuition," Cairn said, setting down his chisel and finally meeting Rook's eyes, "arrives like a guest who knows they're welcome. Impulse arrives like a debt collector who fears the door won't open."
+
+"But how do you know the difference?" Rook's voice cracked with genuine confusion. "How do you know which is which?"
+
+Cairn gestured to a stone bench. "Sit. Don't speak. Feel whether your vision grows louder or quieter in the silence."
+
+Rook sat, every muscle tense with resistance. The spiral vision shouted in their mind, insisting on immediate validation, spinning elaborate justifications for why waiting was foolish. After ten minutes, the urgency had become almost unbearable.
+
+"It's getting louder," Rook admitted miserably.
+
+"Then it was impulse," Cairn said gently. "Wisdom doesn't need your anxiety to survive. It can wait forty years if necessary."
+
+He returned to his statue. "But don't abandon the spirals entirely. When impulse quiets, sometimes intuition remains underneath. The trick is learning to hear the whisper after the shouting stops."
+
+Rook sat longer, past the urgency, past the embarrassment, into something approaching stillness. In that space, a different knowing emerged—not about spirals or techniques, but about their own frantic relationship with beginnings. This knowing didn't demand anything. It simply was.
+
+**Moral:** The body knows the difference between wisdom and wanting—intuition arrives with spaciousness, impulse with urgency.
+
+**Tomorrow:** But what happens when we've been taught to override our bodily wisdom for so long that numbness and spaciousness feel identical?`,
+  },
 ];
