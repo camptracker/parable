@@ -6322,4 +6322,126 @@ Maya saved her analysis, added a footnote about temporal uncertainty beyond the 
 
 **Tomorrow**: *When markets discover that temporal constraints might reduce systemic risk by forcing honesty, but also increase immediate vulnerability—who decides which generation bears the cost?*`,
   },
+  {
+    day: 85,
+    title: "The Temporal Mismatch",
+    date: "2026-08-18",
+    image: "images/us-bond-market/day-85.jpg",
+    audio: "audio/us-bond-market/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Temporal Mismatch**
+
+The analyst who prices tomorrow's debt
+Shall see but three years hence before they flee
+To other firms, while consequences set
+In decades yet unwatched, unnamed, unfree.
+
+A century bond bought at minus yield—
+The model spoke of matching liability,
+Of pension needs that decades hence revealed,
+Yet traders measured quarterly agility.
+
+The bridge that stands for fifty years was priced
+By minds that thought in quarters, months, and weeks,
+Where long-term risk was mathematically spliced
+Then buried where career ambition seeks.
+
+*When those who price won't see what comes to be,*
+*The market steals from futures yet to see.*`,
+    standard: `📊 Day 85: The Temporal Mismatch
+
+The dilemma cannot be resolved through maturity restrictions because the problem isn't the bonds themselves but the incentive structures of those who price them—shortening maturities would merely concentrate refinancing risk without fixing the psychological disconnect between individual careers and civilizational time horizons. The real issue is that financial markets operate on human timescales while the consequences they create operate on geological ones, revealing that intergenerational ethics may be fundamentally incompatible with market-based resource allocation. This suggests we need parallel systems: markets for goods with visible consequences within career spans, and non-market mechanisms for decisions whose impacts emerge across generations.
+
+🧱 **The Concept**
+
+**The Temporal Mismatch** describes the structural incompatibility between the time horizons on which financial markets operate (quarterly earnings, annual bonuses, 3-5 year investment mandates) and the time horizons on which their consequences materialize (pension adequacy 40 years forward, climate impacts 100 years out, infrastructure decay over 50-year cycles).
+
+❓ **Why It Matters**
+
+This mismatch means that bond markets systematically misprice risks that manifest outside professional career spans, creating a form of intergenerational theft where current generations extract value while externalizing costs to future populations who cannot participate in today's pricing. The 100-year Austrian bonds issued at negative yields in 2020, which lost over 70% of their value within two years, illustrate how markets can catastrophically misjudge risks when consequences fall beyond any living trader's professional horizon. When the time horizons of decision-makers diverge from the time horizons of consequences, markets cease to function as information-processing mechanisms and become wealth-transfer systems from the future to the present.
+
+⚙️ **How It Works**
+
+Consider a pension fund manager evaluating whether to buy 30-year Treasury bonds yielding 4.5% or 10-year corporate bonds yielding 5.2%. The manager's performance will be evaluated quarterly for the next three years before they move to their next role, making the extra 0.7% yield immediately visible in performance metrics while the long-term default risk or duration risk of the corporate bonds won't materialize within their employment horizon. The pension beneficiaries, meanwhile, need returns over 30-40 years, creating a profound misalignment where the manager is incentivized to optimize for short-term metrics that may harm long-term outcomes. This explains why pension funds consistently underperform simple index strategies—not because managers lack skill, but because their incentive structures reward gaming three-year measurement periods rather than optimizing 30-year outcomes. The Japan Government Bonds market provides the starkest example: decades of institutional investors buying JGBs at yields below inflation because their mandates required "safe" assets, systematically destroying real wealth for pensioners while managers collected fees for following mandates. The temporal mismatch becomes self-reinforcing: short career horizons prevent proper pricing of long-term risks, which creates mispriced opportunities that reward short-term trading over long-term investing, which further shortens professional time horizons, creating a race to the bottom where capital markets become increasingly disconnected from the long-term projects they're supposedly financing.
+
+🎯 **Bond Wisdom**
+
+When the people pricing the bonds won't live to see the consequences, the price reflects career preservation rather than risk assessment. Markets are efficient at aggregating information about the future only when participants have skin in the game across the relevant time horizon.
+
+❓ **Tomorrow's Question**
+
+If the temporal mismatch means that bond markets cannot properly price long-term risks regardless of how sophisticated the models or how intelligent the analysts, and if attempts to correct this through regulation or longer lockup periods merely shift the problem without solving it, does this mean that societies should create entirely separate financial systems for short-term capital allocation versus long-term intergenerational commitments—perhaps with bonds over 30 years traded only among institutions whose leadership cannot be replaced more frequently than once per decade—or would this institutional sclerosis create worse problems than the temporal mismatch it's meant to solve, and what does this impossible choice reveal about whether capitalism can physically survive beyond the lifetime of its current practitioners?`,
+    parable: `The afternoon sun cast long shadows across Garrison's office as Maya studied the screen before her with mounting confusion. Every model, every scenario analysis, every risk-adjusted return calculation pointed toward the same portfolio allocation—yet something felt profoundly wrong.
+
+"The Austrian century bonds," she said finally, looking up at the veteran trader. "In 2020, every sophisticated model said they were reasonably priced. Negative yields, yes, but European institutions needed long-duration assets to match pension liabilities. The math worked."
+
+"And two years later?" Garrison didn't look up from the market screens displaying the carnage of 2022.
+
+"Down seventy percent." Maya's voice was quiet. "Retirees who bought them to lock in income for life saw their principal decimated. But here's what troubles me—the models weren't wrong about the information they had. They correctly processed every data point available in 2020. The failure was deeper."
+
+Garrison finally turned, his weathered face illuminated by the glow of bond prices cascading across multiple monitors. "Tell me about the analyst who recommended those bonds. How old were they?"
+
+"Mid-thirties, probably. Maybe early forties."
+
+"And their career timeline?"
+
+Maya saw where he was heading. "They'd be evaluated on three-year performance. Promoted or fired long before the bonds matured."
+
+"Now tell me about the retiree who bought them."
+
+"Seventy years old. Needed income for potentially thirty years. No way to recover from a seventy percent loss."
+
+Garrison pulled up a chart showing the average tenure of institutional portfolio managers: 3.7 years. Beside it, he displayed the average duration of pension liabilities: 28 years. The disconnect was staggering.
+
+"The Temporal Mismatch," he said, his voice carrying the weight of four decades watching this pattern repeat. "The people making the decisions operate on career time—quarters, years, maybe a five-year mandate if they're lucky. The consequences operate on life time—decades, generations, sometimes centuries. And we've built an entire financial system that treats these incompatible timescales as if they're equivalent."
+
+Maya pulled up another dataset: infrastructure bonds financing bridges and water systems with 50-year lifespans, priced by analysts whose average job tenure was four years. Municipal bonds funding pension obligations that wouldn't peak for 30 years, evaluated by managers who'd be in different roles within 18 months.
+
+"But if everyone knows this, why don't institutions restructure incentives?" she asked. "Defer bonuses until long-term performance is known? Create compensation that vests over decades?"
+
+"They've tried." Garrison pulled up a case study of a pension fund that had implemented 10-year vesting for investment team bonuses. "Every talented manager left within six months. The fund ended up with whoever couldn't get jobs elsewhere. Performance collapsed. They reversed the policy within two years."
+
+"So we're trapped," Maya said. "Long vesting periods drive away talent. Short vesting periods destroy long-term thinking. There's no solution."
+
+"Worse than that." Garrison's fingers moved across the keyboard, pulling up historical data on professional career lengths in investment management. "The timeline is compressing. In 1980, average portfolio manager tenure was 8 years. In 2000, it was 5 years. Now it's under 4. As markets get faster and more competitive, as quarterly performance scrutiny intensifies, as career switching becomes normalized, the temporal mismatch widens."
+
+He showed her the other side: bond maturities lengthening. Mexico issued 100-year bonds. Austria issued century bonds at negative yields. Corporations increasingly termed out debt to 30 and 40 years to lock in low rates. The maturity of liabilities extending while the tenure of decision-makers contracted—a scissors crisis in time itself.
+
+"I'll show you the deepest problem," Garrison said, pulling up the term structure of compensation in asset management. "An analyst makes a bond recommendation today. If they're wrong within three years, they're fired. If they're right for three years but the bond collapses in year seven, they've already been promoted and the failure is someone else's problem. If they're catastrophically wrong but it takes fifteen years for the disaster to materialize, they've probably retired wealthy with their reputation intact."
+
+Maya felt something crystallize in her understanding. "The incentive is to be right on career timescales and wrong on consequence timescales. The optimal strategy is to make decisions that look good for three to five years regardless of what happens afterward."
+
+"Now you're seeing it." Garrison's voice was grim. "And because everyone is optimizing for the same shortened horizon, the entire market misprices long-term risk. It's not that individual analysts are incompetent or corrupt—it's that the system makes it psychologically and professionally impossible to properly weight risks that materialize outside your employment horizon."
+
+He pulled up the Japanese Government Bond market—decades of yields below inflation, institutional investors systematically destroying wealth for pensioners because their quarterly mandates required "safe" assets, managers collecting fees for following rules while real returns collapsed.
+
+"But pensioners could have earned more in equities," Maya protested. "Even accounting for volatility."
+
+"Not according to the manager's career calculus," Garrison explained. "Buying equities and getting fired for volatility in year two ends your career. Buying bonds that slowly lose real value over 30 years is someone else's problem—probably the problem of whoever replaces the person who replaced you. The temporal mismatch makes the wrong decision professionally rational."
+
+Maya stared at her screens with new eyes. Every bond price, every yield spread, every credit analysis suddenly looked different—not as attempts to assess true value, but as career-optimization calculations masquerading as financial analysis.
+
+"Is there any way to fix this?" she asked. "Regulatory mandates for longer evaluation periods? Fiduciary requirements that consider full liability duration?"
+
+Garrison's laugh was bitter. "You can mandate 10-year evaluation windows. The managers will be at different firms by year six. You can require consideration of 30-year impacts. The analyst's internal discount rate makes anything past five years essentially worthless. You can create clawback provisions on bonuses if long-term performance disappoints. The managers will just demand higher base salaries to compensate for the risk, and institutions will pay it because they're competing for talent on the same shortened timeframes."
+
+He pulled up one more chart: a philosophical timeline showing how agricultural societies naturally thought in generational terms because they planted orchards for their grandchildren, while financial markets think in quarterly terms because that's when performance is measured. The shift from multi-generational to sub-annual thinking compressed across just two centuries of market development.
+
+"The Temporal Mismatch isn't a bug in the system," Garrison said quietly. "It is the system. Modern capitalism operates on individual career timescales because individuals make the decisions. The consequences operate on civilizational timescales because infrastructure, climate, and compound effects take generations to manifest. The two are fundamentally incompatible, and every attempt to bridge them either fails or simply shifts where the failure occurs."
+
+Maya felt something shift in her chest—not despair exactly, but the recognition that she'd been trying to optimize within a framework that was itself the problem. "So when I build models for long-term bonds, what am I actually doing?"
+
+"Predicting three to five years of price action and calling it long-term analysis," Garrison said. "Because that's all your career horizon allows you to genuinely care about, and all the market will reward you for getting right. Everything beyond that is theater—sophisticated, mathematically rigorous theater, but theater nonetheless."
+
+The office fell quiet except for the hum of market data feeds and the occasional ping of price alerts. Maya looked at the bond curves stretching out to 30 years, then at the average career tenure data still displayed on Garrison's screen. The gap between them seemed suddenly unbridgeable—not because of any technical limitation, but because of something more fundamental about human nature and institutional design.
+
+"There is one partial solution," Garrison said finally. "Personal wealth that you can't exit from. If the analyst's own retirement, their children's education, their long-term security is genuinely tied to the 30-year performance of their recommendations—not through stock options they can sell or bonuses they can bank, but through unavoidable exposure to their own decisions—then the temporal horizons align. But that requires wealth, patience, and the psychological capacity to accept that you won't know if you were right until you're old."
+
+"Like you," Maya said, understanding. "You're still tracking positions you took decades ago. Still living with consequences of decisions from the 1990s."
+
+"And it makes me unemployable at modern institutions," Garrison admitted. "Because I refuse to make decisions optimized for three-year measurement windows when I know the consequences manifest over thirty. The market has evolved past people who think on civilizational timescales. We're professionally extinct, and the temporal mismatch grows wider with each generation." 
+
+**Moral:** When the people setting prices won't live to face the consequences, the market becomes a mechanism for borrowing from the future with no intention of repayment. True markets require true accountability—the kind that spans not quarterly reports but entire lives.
+
+**Tomorrow:** Maya discovers why attempting to solve the temporal mismatch might create something far worse than the problem it's meant to fix—and questions whether capitalism itself has an expiration date.`,
+  },
 ];
