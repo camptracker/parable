@@ -5880,4 +5880,66 @@ He reached out and gently touched her chest, right over her heart. "You are buil
 
 **Tomorrow**: Hana will discover why the temple teaches emotional complexity while the marketplace demands emotional simplicity, and what this reveals about the difference between wisdom and performance.`,
   },
+  {
+    day: 85,
+    title: "The Gratitude Body",
+    date: "2026-08-19",
+    image: "images/gratitude/day-85.jpg",
+    audio: "audio/gratitude/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Gratitude Body**
+
+No thought alone can teach the heart to know
+The living current gratitude imparts,
+For wisdom moves where breath and heartbeat flow,
+A measured rhythm dancing through our parts.
+
+The mind may speak of thankfulness and grace,
+Yet body holds the truth of what it means—
+When steady pulse finds its coherent pace,
+Appreciation flows through bone and genes.
+
+Place palm on chest and breathe the mountain's way,
+Recall what once made warmth bloom in your core,
+The cells remember what the thoughts betray,
+That gratitude is flesh, not metaphor.
+
+*When thinking fails, let beating heart remind*
+*That body's wisdom teaches doubting mind.*`,
+    standard: `🙏 Day 85: The Gratitude Body
+
+🧱 **The Concept**
+Your body itself becomes a living gratitude practice — not through forced positive thinking, but through developing actual physiological coherence where your heart, breath, and nervous system align in appreciation.
+
+❓ **Why It Matters**
+Most gratitude practices treat the body as a vehicle for the mind's intentions, but neuroscience reveals that genuine appreciation begins in the body's wisdom and radiates upward to thought. When your physiology embodies gratitude — steady heartbeat variability, relaxed breathing, open posture — your mind naturally follows, creating a biological foundation for sustainable appreciation that doesn't depend on constantly convincing yourself to feel grateful.
+
+⚙️ **How It Works**
+Your body has its own gratitude intelligence. When you place attention on your heart while recalling genuine appreciation, your heart rhythm becomes coherent — a measurable pattern that synchronizes multiple body systems and creates optimal conditions for emotional balance. This isn't metaphor; it's measurable physiology. A mother remembering her child's laughter while breathing slowly creates heart coherence that persists beyond the practice moment, establishing a new biological baseline. A grieving person focusing on gratitude for a lost loved one while maintaining gentle breath discovers that their body can hold both sorrow and appreciation simultaneously without collapse. The body learns what the mind struggles to accept: that gratitude isn't positivity that excludes pain, but presence that includes everything.
+
+🎯 **Gratitude Wisdom**
+True gratitude lives in your cells, your breath, your heartbeat — the mind simply learns to listen to what the body already knows about appreciation.
+
+❓ **Tomorrow's Question** — If your body can embody gratitude even when your mind resists it, why do we typically try to think ourselves into appreciation rather than breathing ourselves into it, and what does this reveal about our belief that consciousness exists primarily in our heads rather than in the intelligence distributed throughout our entire physical being?`,
+    parable: `Hana arrived at Elder Thorn's dwelling to find the old guardian lying completely still on a woven mat, eyes closed, one hand resting on his chest. For a long moment she hesitated, wondering if he had passed during the night.
+
+Then his eyes opened, calm and clear. "Come," he said softly. "Lie beside me. We practice differently today."
+
+She obeyed, settling onto the mat with the awkwardness of youth unused to stillness. "Today I teach you no words," Elder Thorn continued. "Place your hand here." He guided her palm to rest over her own heart. "Feel."
+
+Hana felt only her restless heartbeat, quick and irregular. "I feel nothing," she admitted.
+
+"You feel everything," he corrected gently. "But you listen only with your mind, which chatters. Your body speaks a quieter language." He demonstrated a slow, measured breath. "Breathe as the mountains breathe. Remember something that made your heart warm."
+
+She thought of her grandmother's hands, weathered and gentle. As she held this memory and breathed deeply, something shifted — her heartbeat seemed to find a rhythm, like a drum settling into a song's tempo.
+
+"There," Elder Thorn whispered. "Your body just taught your mind what gratitude feels like. Not thoughts about appreciation — the actual frequency of it, beating in your chest, flowing in your blood. I spent decades trying to think my way into gratitude, but my body knew the path all along. I had only to stop lecturing my heart and start listening to it."
+
+They lay in silence as morning light crossed the floor. Hana noticed that her breathing had synchronized with the elder's without conscious effort, and in this shared rhythm, she felt gratitude not as an idea but as a living current moving through flesh and bone.
+
+"The mind is a brilliant student," Elder Thorn said finally, "but the body is the wisest teacher. When you forget how to be grateful, ask your heart to remember for you."
+
+**Moral:** *Gratitude is not a thought you think but a coherence you embody — when your heart leads, your mind learns to follow.*
+
+*Tomorrow, Hana learns why the body's gratitude wisdom can guide her when thinking fails...*`,
+  },
 ];
