@@ -5700,4 +5700,100 @@ His response came quickly: *Yes. I've been thinking the same thing.*
 
 **Tomorrow:** *Asha will face the uncomfortable question of whether the patterns she and her husband need to change are visible to them at all, or whether they've become so normalized that they can no longer see what their daughter is actually learning.*`,
   },
+  {
+    day: 79,
+    title: "The Permission to Need",
+    date: "2026-08-20",
+    image: "images/raising-kids/day-79.jpg",
+    audio: "audio/raising-kids/day-79",
+    sonnet: `**🪶 Sonnet LXXIX: The Permission to Need**
+
+When mothers eat their meals on hidden feet,
+And fathers never name their weariness,
+The children learn that need means incomplete,
+That asking help reveals one's emptiness.
+
+The martyr's silence speaks a brutal creed:
+That worth resides in never taking space,
+That shame attends the body's every need,
+That suffering well-hidden wins the race.
+
+But hunger voiced without apology
+Teaches a child their body can be heard,
+And rest requested plain and honestly
+Makes interdependence not absurd.
+
+*The parent whole, not perfect, gives the key:*
+*That being human means the right to be.*`,
+    standard: `👶 Day 79: The Permission to Need
+
+🧱 **The Concept**
+Children learn whether their needs are legitimate and worthy of response not from what we say about asking for help, but from how we treat our own needs—whether we acknowledge them, dismiss them, or apologize for having them at all.
+
+❓ **Why It Matters**
+When we model self-denial, perpetual self-sacrifice, and the suppression of our own legitimate needs in the name of good parenting, we don't teach our children selflessness—we teach them that having needs is shameful, that asking for help is weak, and that their worth depends on requiring nothing from others. The parent who never admits to being tired, hungry, overwhelmed, or in need of support inadvertently teaches their child that mature adulthood means suffering silently.
+
+⚙️ **How It Works**
+A mother who always says "I'm fine" when she's clearly exhausted teaches her daughter that women's needs don't matter. A father who never asks for help with household tasks teaches his son that masculine competence means isolation. When we snap at our children because we haven't eaten, slept, or had a moment to ourselves—but refuse to acknowledge these unmet needs directly—we teach them that needs will express themselves through irritability and resentment rather than honest communication. Conversely, when we say, "I need twenty minutes of quiet time to recharge," or "I'm feeling overwhelmed and need to ask for help," we model that needs are not shameful emergencies to be hidden but natural conditions to be acknowledged and addressed. When we accept help graciously rather than insisting we can handle everything alone, we teach our children that interdependence is strength, not weakness. When we tend to our basic physical needs—eating when hungry, resting when tired—without guilt or apology, we demonstrate that self-care is not selfish but necessary for sustainable caregiving.
+
+🎯 **Parenting Wisdom**
+The parent who models healthy need-acknowledgment raises children who can ask for help without shame and offer support without resentment. The parent who models self-denial raises children who either martyr themselves or feel perpetually guilty for their own humanity.
+
+❓ **Tomorrow's Question** — If we accept that children internalize their sense of what's possible in relationships from the partnership they witness between their parents or caregivers, why do we often rationalize staying in dynamics characterized by contempt, chronic resentment, or emotional disconnection "for the children's sake," and what does our tolerance for relational toxicity teach them about what they should accept in their own future intimate relationships?`,
+    parable: `Asha arrived at Elder Mira's door with her infant in the carrier and dark circles under her eyes that spoke of weeks without proper rest. She had come seeking advice about her daughter's sleep patterns, but Mira took one look at her and said simply, "When did you last eat?"
+
+"I had something," Asha said vaguely. "This morning, I think. But tell me about the sleep training method you—"
+
+"Sit," Mira interrupted, already moving toward the kitchen. "We'll talk after you've had food."
+
+"I don't want to impose," Asha protested. "I really just came to ask—"
+
+Mira returned with bread, soup, and a firmness in her eyes. "If you do not eat, you cannot think clearly. If you cannot think clearly, you cannot learn. Sit."
+
+Asha sat, and as she ate—surprised by how ravenously hungry she actually was—Mira settled across from her. "Tell me," the elder said, "what did your mother do when she was exhausted?"
+
+"She pushed through," Asha said automatically. "She never complained. She just... handled everything."
+
+"And now you believe that handling everything means suffering everything," Mira observed. "That good mothers have no needs of their own."
+
+Asha's throat tightened. "I just don't want to be selfish."
+
+"Selfish," Mira repeated softly. "You believe that acknowledging hunger is selfish. That admitting exhaustion is selfish. That asking for help is selfish."
+
+"Isn't it?" Asha whispered. "I chose to have a child. These are the consequences."
+
+Mira was quiet for a long moment. Then she said, "I raised seven children. Do you know what I regret most?"
+
+Asha shook her head.
+
+"That I taught them, through my silence about my own needs, that their needs didn't matter either," Mira said. "I thought I was modeling strength. I was actually modeling shame."
+
+"But you were strong," Asha protested.
+
+Mira smiled sadly. "I was terrified. Terrified of being a burden. Terrified of being weak. Terrified of needing anything from anyone. And my children learned that terror. My daughters married men who expected them to need nothing. My sons became men who couldn't ask for help when they were drowning."
+
+She leaned forward. "True strength is not pretending you have no needs. True strength is acknowledging them clearly and addressing them honestly. When you say 'I'm fine' through gritted teeth, your daughter learns that women lie about their pain. When you refuse help you desperately need, she learns that asking for support is shameful. When you deny your hunger, your exhaustion, your overwhelm—she learns that her body's signals are not to be trusted."
+
+"But how do I balance my needs with hers?" Asha asked. "She's helpless. I'm the adult."
+
+"She needs you whole," Mira said simply. "Not perfect. Not selfless. Whole. She needs to see a woman who honors her body's wisdom, who asks for help without apology, who tends to herself so she can sustainably tend to others."
+
+Asha looked down at her sleeping daughter. "I'm afraid that if I start acknowledging what I need, I'll discover the needs are bottomless."
+
+"The needs are bottomless," Mira said gently, "when they've been denied for years. Feed them now, consistently, without shame, and they become manageable. Continue denying them, and they will express themselves anyway—through resentment, through illness, through the sharp edge in your voice when you insist you're fine."
+
+She placed a hand over Asha's. "Your daughter is learning from you what it means to be human. Teach her that humans have needs. That needs are not emergencies or failures but natural conditions to be met with compassion. Teach her that asking for help is how communities function, not evidence of personal inadequacy."
+
+"My mother never asked for help," Asha said quietly.
+
+"And how did that work out for her?" Mira asked, not unkindly.
+
+Asha thought of her mother's chronic migraines, her bitter complaints that no one appreciated her sacrifices, her inability to accept care even when she was ill. "Not well," she admitted.
+
+"Then give your daughter a different inheritance," Mira said. "Give her a mother who eats when she's hungry, who rests when she's tired, who says 'I need help' before she's drowning. Give her permission to be human."
+
+**Moral:** *The parent who hides their needs teaches their child that needing is shameful; the parent who tends to their needs with matter-of-fact dignity teaches their child that self-care is the foundation of sustainable caregiving.*
+
+**Tomorrow:** *Elder Mira will ask Asha about the marriage her daughter is witnessing—and what toxic relational patterns, rationalized as stability, teach children about what they should accept in love.*`,
+  },
 ];
