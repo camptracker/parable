@@ -9613,4 +9613,86 @@ Dove laughed, tears suddenly bright in her eyes. "You're perfect. Perfectly impe
 
 **Tomorrow**: Dove will discover that the question isn't whether to accept her partner's contradictions, but whether she can learn to praise them for the very qualities that sometimes challenge her most.`,
   },
+  {
+    day: 140,
+    title: "The Sacred Devotion",
+    date: "2026-08-21",
+    image: "images/wedding-planning/day-140.jpg",
+    audio: "audio/wedding-planning/day-140",
+    sonnet: `**🪶 Sonnet CXL: The Sacred Devotion**
+
+When feeling flees and leaves the house grown cold,
+When passion sleeps and will not stir at dawn,
+When years have worn the gleaming into old,
+And wonder fades like dew upon the lawn—
+
+Then love reveals its truest, deeper face:
+Not rapture's fire that burns and then retreats,
+But steady hands that hold their promised place,
+And faithful feet that walk through bitter streets.
+
+The feeling comes and goes like summer rain,
+But devotion stands like oak through winter's test,
+Still choosing love despite the heart's complaint,
+Still tending soil when branches look their worst.
+
+*For marriage built on feeling breaks with weather,*
+*But devotion's house will hold through storms forever.*`,
+    standard: `💍 Day 140: The Sacred Devotion
+
+**🧱 The Concept**
+Devotion in marriage is not the feeling of being in love, but the daily choice to return to love even when the feeling has temporarily left the room.
+
+**❓ Why It Matters**
+Your wedding day will be carried by emotion, but your marriage will be sustained by decision. The moments when you least feel like being loving are precisely the moments when love as a practice (rather than love as a feeling) determines whether your marriage deepens or deteriorates. Understanding this difference before you say "I do" prepares you for the reality that commitment is not about maintaining constant emotional intensity but about maintaining consistent relational integrity.
+
+**⚙️ How It Works**
+Devotion manifests in the 7am moment when you're both exhausted and irritable but you still ask "How can I help?" instead of retreating into silence. It appears in the evening when your partner needs to process their difficult day and you're depleted from yours, yet you still create space to listen rather than deflect. It shows up in the week when you feel more annoyed than attracted, yet you still choose curiosity about their inner world rather than judgment about their outer behavior. It becomes tangible when you're angry about something legitimate but you still speak with respect rather than contempt. Devotion is what remains when infatuation fades—it's the architecture of love that holds the house together during storms.
+
+**🎯 Wedding Wisdom**
+Your wedding celebrates the love you feel; your marriage will be built on the love you choose.
+
+**❓ Tomorrow's Question** — If you discovered that the primary difference between marriages that thrive for decades and those that dissolve isn't the absence of difficulty but the presence of a specific shared practice that both partners commit to daily regardless of how they feel, what practice would you hope defines your marriage, and what does that reveal about whether you're building your future on emotion or on discipline?`,
+    parable: `Dove sat in Nana Rose's garden on a cool morning, her wedding now only days away. The magnolia trees had dropped most of their blossoms, leaving the branches bare but strong. She traced her finger along the grain of the wooden bench.
+
+"I'm afraid," Dove said quietly. "What if the feeling goes away? What if I wake up one day and don't feel this anymore?"
+
+Nana Rose settled beside her, arranging her shawl against the morning chill. "The feeling will go away, dear child. Perhaps not forever, but certainly for hours, sometimes days. That's not the question."
+
+"Then what is?"
+
+"What you do when it does."
+
+Elm appeared around the corner of the garden path, carrying two cups of tea. He'd heard Dove's question, and something in his face had shifted—not worry, but recognition. He handed Dove her cup and sat on her other side.
+
+"Last week," Elm said slowly, "on Tuesday morning, I woke up and felt... nothing. Not love, not excitement, just tired. I looked at you sleeping and thought, 'I don't feel it right now.'"
+
+Dove turned to him, startled. "You never said—"
+
+"Because by that evening, it was back," Elm continued. "But in those hours between? I still made your coffee. I still asked about your mother's doctor appointment. I still listened to your stress about the florist. Not because I felt swept away with passion, but because I'd decided you were mine to care for. The feeling followed the action, not the other way around."
+
+Nana Rose smiled, sipping her own tea. "I've watched a thousand couples marry. The ones still tender with each other after forty years? They're not the ones who maintained the feeling—that's impossible. They're the ones who maintained the practice. They learned to water a garden even in seasons when nothing visible was blooming."
+
+"But doesn't that feel hollow?" Dove asked. "Going through the motions?"
+
+"Only if you misunderstand what the motions are," Nana Rose replied. "Devotion isn't performing love while feeling nothing. It's trusting that love exists beneath your current emotional weather. It's knowing that feelings are guests that visit and leave, but commitment is the house that remains."
+
+Elm set down his cup. "I think about my grandmother, how she took care of my grandfather during his last year when he barely recognized her. She wasn't doing it because it felt romantic. She was doing it because forty years earlier, she'd promised to. And here's the thing—she told me that sometimes, in the middle of feeding him or helping him dress, the feeling would rush back. Not because he'd suddenly become easier to care for, but because the practice of devotion cracked open a door that let love flood in again."
+
+"So devotion creates the feeling, not the other way around?" Dove asked.
+
+"They create each other," Nana Rose said. "But on the days when you're building your marriage—truly building it, brick by careful brick—you'll be relying on devotion to carry you to the next moment when feeling returns. And it always does return, child. Just not always when you demand it."
+
+Dove looked at the bare magnolia branches. "These will bloom again?"
+
+"Every spring," Nana Rose confirmed. "But the tree doesn't question whether it will. It simply remains rooted, drinks water, reaches toward light. That's devotion. The blossoms are the gift that devotion makes possible, but they're not the tree itself."
+
+Elm took Dove's hand. "I can promise you this: I will water our tree even when it looks bare. Especially when it looks bare."
+
+Dove felt something settle in her chest—not the wild butterflies of early love, but something sturdier. Something that felt like it could weather seasons.
+
+**Moral:** Love as feeling is the blossom; love as devotion is the root. Your marriage will not survive on beauty alone, but on what continues beneath the soil when beauty sleeps.
+
+**Tomorrow:** Nana Rose will reveal the one practice that has saved more marriages than any other—and why most couples never learn it until it's almost too late.`,
+  },
 ];
