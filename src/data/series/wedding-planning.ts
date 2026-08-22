@@ -9695,4 +9695,82 @@ Dove felt something settle in her chest—not the wild butterflies of early love
 
 **Tomorrow:** Nana Rose will reveal the one practice that has saved more marriages than any other—and why most couples never learn it until it's almost too late.`,
   },
+  {
+    day: 141,
+    title: "The Sacred Tending",
+    date: "2026-08-22",
+    image: "images/wedding-planning/day-141.jpg",
+    audio: "audio/wedding-planning/day-141",
+    sonnet: `**🪶 Sonnet CXLI: The Sacred Tending**
+
+The garden thrives not from the planting day,
+But from the gardener's return each dawn,
+With weathered hands that know the patient way
+Of tending what time's weather beats upon.
+
+No grand romantic gesture feeds the root,
+But daily water, though the task feels small,
+The pruning of dead wood, the pulling of what's moot—
+The showing up when feeling fails to call.
+
+For love left wild will not remain love long,
+But tangle into thorns that choke the bloom,
+While tended love grows gentle, deep, and strong,
+Creates from discipline's soil abundant room.
+
+*The couples who endure through decades' test*
+*Are those who tend when tending serves them least.*`,
+    standard: `💍 Day 141: The Sacred Tending
+
+The practice that sustains thriving marriages isn't grand gestures but daily tending—the conscious choice to turn toward each other with curiosity and care even when you're tired, hurt, or distracted. This reveals that lasting love is built not on the volatile foundation of feeling but on the steady ground of chosen devotion, where emotion follows action rather than dictating it. The discipline of tending becomes the soil in which feeling flourishes.
+
+🧱 **The Concept**
+
+Marriage requires daily tending—small, intentional acts of attention, care, and connection that prevent the garden of your relationship from becoming overgrown with neglect, resentment, or distance.
+
+❓ **Why It Matters**
+
+Without conscious tending, even the most passionate love will gradually wither under the demands of ordinary life—not from dramatic betrayal but from a thousand tiny moments of inattention. The couples who remain deeply connected decades into marriage aren't the ones who never get busy or tired; they're the ones who tend to their bond even when (especially when) everything else is competing for their energy.
+
+⚙️ **How It Works**
+
+Tending might look like a genuine "how are you really?" every morning before diving into logistics, a six-second kiss before parting ways, or ten minutes of undivided attention when you reunite at day's end—not because you always feel like it, but because you've committed to it. It's the practice of noticing when distance is creeping in and choosing connection before that distance calcifies into estrangement. It's asking "what do you need from me today?" and actually listening to the answer. It's the discipline of turning off your phone during dinner, of choosing the conversation over the screen, of treating your daily reunion as sacred rather than routine. The specific practice matters less than the consistency—it's the daily return to each other that keeps the path between your hearts well-worn and easily traveled.
+
+🎯 **Wedding Wisdom**
+
+Your wedding day will be tended by professionals and adrenaline, but your marriage will be sustained only by what you're willing to tend yourselves, every single unremarkable Tuesday for the rest of your lives.
+
+❓ **Tomorrow's Question**
+
+If you discovered that the moment you stop actively choosing your partner (and start simply coexisting with them out of habit or obligation) marks the beginning of your marriage's slow death, what specific daily choice would serve as your canary in the coal mine—the first sign that you've stopped tending and started just surviving together?`,
+    parable: `Dove found Nana Rose in the garden behind the venue, kneeling in the dirt despite her elegant dress, her weathered hands working the soil around a rosebush that looked half-dead.
+
+"I thought the venue had gardeners," Dove said, confused.
+
+Nana Rose didn't look up. "They do. But this one's mine. I planted it twenty years ago when a couple asked if they could get married under it. I've tended it every week since."
+
+"Even when no one's getting married here?"
+
+"Especially then." The old woman's fingers moved with practiced precision, removing dead leaves, checking for pests, loosening the compacted soil. "A garden doesn't care about your schedule, dear. It needs tending whether you feel inspired or not, whether you have time or not, whether anyone's watching or not."
+
+Dove watched the methodical care. "But surely sometimes you just... don't feel like it?"
+
+"Most times." Nana Rose finally sat back, wiping her hands. "That's the whole point. Feeling is weather—it comes and goes. Tending is climate—it's what you do regardless of the weather." She gestured to the rosebush, which Dove now noticed had tiny new buds forming despite its generally ragged appearance. "See those? They didn't come from me feeling motivated. They came from me showing up."
+
+Elm appeared, holding coffee for both of them. Nana Rose smiled. "Ah, I see someone already understands tending."
+
+Dove looked at her partner, who'd been bringing her coffee every morning for three months now, even when they'd fought the night before. "You don't always feel like it, do you?"
+
+"Almost never," Elm admitted. "But I do it because we're better when I do. Because the little things keep the big thing alive."
+
+Nana Rose stood, brushing dirt from her knees. "Marriage is a garden, children. Your wedding day is just the planting ceremony. The question isn't how beautiful the garden looks that day—it's whether you're both willing to kneel in the dirt every single week for the next fifty years, even when the blooms are sparse and your knees ache and you'd rather be doing literally anything else." She looked at Dove directly. "Especially then. Because that's when tending matters most—when everything in you wants to abandon it."
+
+Dove looked at the struggling rosebush with its hopeful buds. "What happens if you stop?"
+
+"The same thing that happens to any garden left untended." Nana Rose's voice was gentle but unflinching. "It doesn't die dramatically. It just slowly becomes wild, overgrown, unrecognizable. And by the time you notice how far it's gone, you've forgotten how to find your way back to what you planted."
+
+**Moral**: Love is not sustained by the passion of planting but by the discipline of tending—the daily choice to nurture what you've committed to grow, especially when no one's watching and nothing in you feels like kneeling in the dirt.
+
+**Tomorrow**: Dove asks about the first sign that she's stopped tending, and Nana Rose reveals the subtle shift that marks the beginning of every marriage's decline—or its deepening.`,
+  },
 ];
