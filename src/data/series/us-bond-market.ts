@@ -6836,4 +6836,82 @@ Maya looked out at the harbor, where container ships traced their predictable ro
 
 **Tomorrow**: Maya asks the question that keeps her awake at night—if markets can't price risks beyond the career horizon, what other essential functions are they failing to perform while everyone pretends the system works?`,
   },
+  {
+    day: 90,
+    title: "The Infinite Game",
+    date: "2026-08-23",
+    image: "images/us-bond-market/day-90.jpg",
+    audio: "audio/us-bond-market/day-90",
+    sonnet: `**🪶 Sonnet XC: The Infinite Game**
+
+We trade in time we'll never live to see,
+Making promises to unborn hands,
+Each bond a bridge from now to eternity,
+Built on the faith that something understands.
+
+The market lives though every trader dies,
+A phoenix fed by generations' trust,
+Where mortal wisdom meets immortal lies,
+And human frailty compounds to dust.
+
+Yet still we price what lies beyond our years,
+Still pledge our word to time we cannot touch,
+Still build the bridges over unknown tears,
+Still dare to promise—though we know too much.
+
+*The game is infinite, the players brief—*
+*Our legacy is not our gain, but what we leave in our belief.*`,
+    standard: `📊 Day 90: The Infinite Game
+
+🧱 **The Concept**
+Bond markets exist in an infinite temporal horizon where the game never ends, yet all participants play with finite lifespans, creating a fundamental mismatch between the system's continuity and the individual's mortality.
+
+❓ **Why It Matters**
+Every bond market decision is made by people who will eventually die, retire, or move on, yet the consequences of their choices compound across generations. This creates a structure where rational individual decisions can accumulate into collectively catastrophic outcomes because no single participant exists long enough to experience the full consequences of their actions. The bond market's infinity collides with human finitude.
+
+⚙️ **How It Works**
+A portfolio manager in 2024 issues 100-year bonds because the fees are higher and the immediate performance looks good, knowing they'll retire decades before maturity. Their successor inherits this position but makes similar decisions, optimizing for their own career window. Meanwhile, the bonds themselves outlive multiple market regimes, currency crises, and political revolutions—events that seemed remote when issued but become inevitable across a century. Japan's government debt reached 264% of GDP through exactly this mechanism: each generation of politicians borrowed assuming future growth would solve the problem, but future generations simply borrowed more. The mathematical compounding happens in both directions—debt compounds, but so does the moral distance between decision and consequence. A 30-year-old bond trader today will be retired when 2050 climate bonds mature, creating perfect misalignment between accountability and outcome.
+
+🎯 **Bond Wisdom**
+Markets are infinite; participants are mortal. This gap between system permanence and human transience means that institutional safeguards must encode the wisdom that individuals cannot carry across generations—or the system inevitably optimizes for extraction over sustainability.
+
+❓ **Tomorrow's Question** — If ninety days of exploring bond markets reveal that nearly every systemic problem—from regulatory capture to generational forgetting to career-driven short-termism—stems from the fundamental mismatch between infinite markets and finite participants, and no proposed reform can eliminate this temporal asymmetry without destroying markets' essential function of pricing uncertainty across time, does this mean that the deepest insights into bond markets ultimately point not toward better financial engineering but toward ancient philosophical questions about how mortal beings should relate to institutions that will outlive them, and if so, what would it mean to approach bond investing as a spiritual practice rather than a technical discipline?`,
+    parable: `Maya sat across from Garrison in the empty trading floor as evening fell. It was her ninetieth day, and she had asked the question she'd been avoiding: "After everything we've discussed, what's the actual point? We know these bonds will outlive us. We know the system has problems we can't fix. Why do we keep playing?"
+
+Garrison walked to the window overlooking the city. "Do you see those buildings? Every one was built by people who died before the paint faded. The bridges, the subways, the electrical grid—all built by the dead, maintained by the living, inherited by the unborn."
+
+"But buildings serve people," Maya said. "What do bond markets serve when they're mostly institutions trading with other institutions using money that belongs to people who don't understand what's happening?"
+
+"They serve time itself," Garrison replied. "A bond is a promise that reaches from the present into the future. Every transaction is a negotiation between the living and the yet-to-be-born. When we price a thirty-year Treasury, we're making a claim about what America will be in 2054. When Japan issues century bonds, they're asserting that Japan will still exist in 2124—an act of faith more than finance."
+
+He returned to his desk and pulled out a faded bond certificate. "This is from 1945. Confederate war debt. Worthless paper now. But when it was issued, people believed the Confederacy would endure forever. The bond market proved them wrong."
+
+"So bond markets are truth-tellers?"
+
+"They're time-tellers," Garrison corrected. "They reveal which promises humans make to the future are actually kept. Every default is a confession that we lied to tomorrow. Every bond that matures is proof that some thread of trust held across decades."
+
+Maya absorbed this. "But you've spent three months teaching me that the system is broken. That it's captured, that it optimizes for the wrong things, that it's heading toward crisis."
+
+"It is all those things," Garrison agreed. "But it's also the only mechanism humans have invented for coordinating resources across time horizons longer than a single lifetime. Democracy runs on election cycles. Corporations run on quarterly earnings. Families run on generational wealth transfer. Only bond markets force civilization to make promises that outlive everyone involved in making them."
+
+"That sounds almost sacred."
+
+"It is sacred," Garrison said quietly. "The bond market is humanity's attempt to cheat death—not individually, but collectively. Every bond is a message in a bottle thrown into the future. Most arrive. Some sink. But the practice of throwing them—of making promises to people we'll never meet, in conditions we cannot imagine—that's what separates civilization from barbarism."
+
+Maya thought about her ninety days. The yield curves, the Fed decisions, the regulatory capture, the career games, the structural problems. And beneath it all, this: people she would never know were depending on promises made today by people who would be dead before those promises matured.
+
+"So what do we do?" she asked. "If we can't fix the system, if the problems are structural, if every generation just re-creates the same mistakes?"
+
+Garrison smiled. "We play the infinite game as finite players. We make the best promises we can to the future, knowing we won't be there to see them kept. We try to leave the bond market slightly more honest than we found it. And we teach the next generation—people like you—to ask better questions than we did."
+
+"Is that enough?"
+
+"It's never enough," Garrison said. "But it's what mortal beings can offer to immortal institutions. We die. The market continues. The game goes on. And maybe, if enough players across enough generations choose sustainability over extraction, truth over illusion, the infinite game becomes worth playing."
+
+The city lights flickered on as night completed its fall. Maya understood now why Garrison never spoke of retirement. You didn't retire from an infinite game. You just handed your position to the next player and hoped you'd taught them something worth knowing.
+
+**Moral:** The bond market is humanity's promise to itself across time, played by mortal participants in an infinite game. The deepest wisdom comes not from mastering the system but from understanding your role in a story that began before you and will continue after you—and choosing to play for the readers you'll never meet.
+
+**Tomorrow:** After ninety days exploring bond markets from every angle, Maya must choose what kind of player she will be in the infinite game—and Garrison must decide whether she's ready for the one lesson that cannot be taught, only discovered.`,
+  },
 ];

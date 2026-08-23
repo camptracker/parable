@@ -9773,4 +9773,83 @@ Dove looked at the struggling rosebush with its hopeful buds. "What happens if y
 
 **Tomorrow**: Dove asks about the first sign that she's stopped tending, and Nana Rose reveals the subtle shift that marks the beginning of every marriage's decline—or its deepening.`,
   },
+  {
+    day: 142,
+    title: "The Sacred Anticipation",
+    date: "2026-08-23",
+    image: "images/wedding-planning/day-142.jpg",
+    audio: "audio/wedding-planning/day-142",
+    sonnet: `**🪶 Sonnet CXLII: The Sacred Anticipation**
+
+When keys that sang now scrape like distant bells,
+When homeward steps that quickened now delay,
+When presence brings not joy but tasks that swell—
+You've crossed from tending into mere surveil.
+
+The garden of a marriage needs the sun
+Of forward-leaning hope renewed each dawn,
+The water of small moments, one by one,
+Saved up to share when evening light is drawn.
+
+Not grand occasions only, but the thread
+Of Tuesday's triumph, morning's smallest grace,
+The observation held till you're in bed,
+The eagerness to see your lover's face.
+
+*Anticipation keeps the spirit green—*
+*Without it, love's a stage where ghosts convene.*`,
+    standard: `💍 Day 142: The Sacred Anticipation
+
+The first sign that you've stopped tending and started just surviving together is when you stop looking forward to seeing each other at the end of the day. When your partner's arrival shifts from "finally, the best part of my day" to "now I have to deal with another person's needs," you've crossed from cultivation into mere coexistence. The marriage hasn't necessarily failed, but its garden has gone unwatered.
+
+🧱 **The Concept**
+Healthy marriages are sustained by mutual anticipation—the daily renewable excitement of encountering the person you've chosen, even in the smallest moments.
+
+❓ **Why It Matters**
+Without anticipation, marriage becomes a series of obligations rather than opportunities. The relationship begins to feel like a weight you carry rather than a gift you unwrap. What begins as taking each other for granted eventually calcifies into emotional absence, where you're sharing a home but not actually sharing a life.
+
+⚙️ **How It Works**
+Anticipation creates a forward-leaning posture toward your partner rather than a defensive or withdrawn one. It's the difference between texting "What time will you be home?" (logistics) and "I can't wait to tell you about something that happened today" (connection). It shows up in saving small delights to share with them rather than immediately posting them online. It appears when you find yourself mentally composing how you'll describe your day to them, which means you're holding space for their witness. It's present when you choose to wait to watch the next episode together rather than continuing alone. These micro-anticipations accumulate into the felt sense that your partner is someone you *want* to return to, not just someone you *have* to return to.
+
+🎯 **Wedding Wisdom**
+Design your wedding day so that you create multiple small reunions throughout it—brief separations followed by moments where you get to see each other anew and feel that spark of "there you are, the person I most want to be with."
+
+❓ **Tomorrow's Question**
+If you discovered that your marriage's vitality would be determined by your ability to remain genuinely curious about who your partner is becoming (rather than attached to who they used to be), what question would you need to ask them regularly to ensure you're meeting the evolving person rather than relating to a frozen memory?`,
+    parable: `Dove sat in Nana Rose's garden workshop, watching the older woman deadhead roses with practiced precision. "I've been thinking about what you said last week," Dove began quietly. "About tending versus surviving. How do you know when you've crossed that line?"
+
+Nana Rose paused, a faded bloom in her weathered hand. "When you stop looking forward to them," she said simply. "When their key in the lock shifts from music to interruption. When their presence becomes something you manage rather than something you crave."
+
+Dove felt a small knot form in her chest. She thought about the past few weeks of wedding planning—the stress, the decisions, the budget spreadsheets. Had there been evenings when Elm's arrival felt like another task to navigate rather than the day's reward?
+
+"But that's temporary, isn't it?" Dove asked. "During stressful seasons?"
+
+"Of course," Nana Rose said, moving to another bush. "The question isn't whether you ever feel that way. The question is whether you let it become your default. Whether you remember to restore the anticipation."
+
+Elm appeared then at the garden gate, and Dove watched Nana Rose's face transform—a subtle brightening, a slight lean forward. After fifty-three years of marriage, the old woman still anticipated her husband's presence like a gift about to be unwrapped.
+
+"You're still early," Nana Rose called to him, delighted.
+
+"Couldn't wait to see if you'd finished that chapter you were reading to me," he replied, his eyes warm.
+
+Dove felt something shift inside her chest. This was what she wanted to build—not the absence of difficulty, but the presence of this renewable eagerness. The daily choice to orient toward each other with hope rather than habit.
+
+"How do you maintain that?" Dove asked quietly. "That forward-leaning posture toward each other?"
+
+Nana Rose set down her shears and looked at Dove directly. "You protect small moments of reunion throughout your day. You save things for each other—observations, questions, delights. You make space in your mind for them even when they're absent. You ask yourself each morning: what am I looking forward to sharing with them today? And you design your life so that question has real answers."
+
+"Not just the big moments," Dove said slowly, understanding dawning.
+
+"Especially not just the big moments," Nana Rose confirmed. "The big moments are easy to anticipate. It's the Tuesday evening, the morning coffee, the moment they walk through the door after an ordinary day—those are the ones that reveal whether you're still tending or merely surviving."
+
+Elm settled onto the garden bench beside his wife, and Dove watched them exist together in comfortable silence, both present, both content, both still clearly choosing each other's company.
+
+Dove pulled out her phone and texted Elm: *Can't wait to see you tonight. Save the best part of your day for me?*
+
+His reply came almost immediately: *Already am. You're my best part.*
+
+**Moral**: The vitality of marriage is measured not by the intensity of grand gestures but by the renewable quality of daily anticipation—the persistent gladness that this particular person will soon be home.
+
+**Tomorrow**: But what happens when the person who walks through your door isn't quite the same person you married last year, and how do you ensure that evolution draws you closer rather than making you strangers?`,
+  },
 ];

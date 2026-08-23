@@ -6444,4 +6444,98 @@ Elder Joy paused at the door. "That's the beginning of wisdom—recognizing that
 
 **Tomorrow:** Why we unconsciously devalue what we don't personally offer.`,
   },
+  {
+    day: 84,
+    title: "The Reciprocity Receptor",
+    date: "2026-08-23",
+    image: "images/relationship-play/day-84.jpg",
+    audio: "audio/relationship-play/day-84",
+    sonnet: `**🪶 Sonnet LXXXIV: The Reciprocity Receptor**
+
+What gifts have gone unnoticed at my door,
+Wrapped plain when I expected gilded bows?
+How many quiet offerings I swore
+Were less than love, when love was all they chose?
+
+My partner speaks in dialects I miss,
+Their morning coffee, evening walk, soft word—
+I wait for grand pronouncements, planned-out bliss,
+While daily devotions go unheard.
+
+We both give freely in our native tongue,
+Yet both feel unseen, unmet, alone—
+Our disconnection not from efforts wrung
+Too sparse, but reception scopes too narrow-grown.
+
+*What if the love I've hungered for was here,
+Spoken in accents I had learned to hear?*`,
+    standard: `🎮 Day 84: The Reciprocity Receptor
+
+🧱 **The Concept**
+The reciprocity receptor is our capacity to notice, receive, and acknowledge our partner's efforts to initiate connection, plan experiences, or invest energy in the relationship—even when their expression doesn't match our preferred style or timing.
+
+❓ **Why It Matters**
+Many couples develop "reciprocity blindness," where each partner genuinely believes they're doing most of the initiating while simultaneously feeling their own contributions go unnoticed. This creates a painful dynamic where both people feel like they're giving more than they're receiving, not because the balance is actually off, but because they've unconsciously tuned their reception antenna to only recognize efforts that match their specific preferences. When we can't see our partner's attempts to connect because they don't arrive in our expected package, we inadvertently train them to stop trying.
+
+⚙️ **How It Works**
+The reciprocity receptor requires developing the flexibility to recognize and value your partner's initiations even when they don't look like what you would have planned. **If you value elaborate date nights but your partner initiates through small daily gestures—bringing you coffee, sending midday texts, suggesting a walk after dinner—learning to receive these as genuine bids for connection rather than dismissing them as "not enough" fundamentally changes the relational dynamic.** Similarly, if you express care through acts of service while your partner shows it through physical affection, broadening your reception capacity means acknowledging their love language as equally valid rather than unconsciously devaluing it because it's not yours. **The practice involves catching yourself in moments of dismissal—"that doesn't count" or "they should know I need more"—and asking instead: "What if this IS their version of reaching toward me? What if I'm missing the gift because I'm fixated on the wrapping?"** This doesn't mean abandoning your needs or preferences, but it does mean creating space to appreciate what's actually being offered before focusing on what's missing.
+
+🎯 **Playful Connection Wisdom**
+When we tune our reciprocity receptor to recognize our partner's unique frequency of giving, we discover that we've often been surrounded by love we couldn't see because we were waiting for it to arrive in our specific dialect.
+
+❓ **Tomorrow's Question** — If we can clearly see that our partner expresses love and initiates connection in ways that genuinely reflect their personality, values, and strengths rather than ours, why do so many couples unconsciously insist that their beloved demonstrate care in the exact manner they would choose to give it, essentially demanding that their partner become a mirror image of themselves rather than celebrating the complementary gifts that come from loving someone who is beautifully different?`,
+    parable: `Quinn sat in Elder Joy's garden studio, arms crossed, voice tight with frustration. "I'm always the one planning things, Joy. Always. I suggest date nights, I research activities, I try to keep things interesting. And River just... coasts. Takes what I offer but never gives back."
+
+Elder Joy set down her teacup with deliberate care. "Tell me about yesterday."
+
+"Yesterday? Nothing special. River made breakfast, we worked, took a walk in the evening, watched something together before bed. Just... ordinary."
+
+"Who suggested the walk?"
+
+Quinn paused. "River did. But that's just—"
+
+"And breakfast?"
+
+"River always makes breakfast on weekends, but—"
+
+"And what did you watch together?"
+
+"Something River picked. But Joy, these aren't the same as planning a real date. They're just... basic daily stuff."
+
+Elder Joy rose and walked to her shelf, returning with two identical boxes, each wrapped differently—one in elaborate paper with ribbons and bows, the other in simple brown kraft paper with twine.
+
+"Which contains the gift?" she asked.
+
+"Both, I assume," Quinn said, confused.
+
+"Open them."
+
+Quinn unwrapped both boxes. Inside each was the same item: a smooth river stone. Quinn looked up, puzzled.
+
+"The gift is identical," Elder Joy said quietly. "Yet I suspect if someone gave you the beautifully wrapped box, you'd feel more valued than if they gave you the plain one. Even though the actual offering is exactly the same."
+
+Quinn felt something shift inside. "You're saying I only count River's efforts when they come in my preferred wrapping."
+
+"I'm saying that River initiates connection every single day—through morning rituals, through suggesting shared movement, through choosing entertainment you can enjoy together. River's love language is gentle, daily, woven through the ordinary. But you've tuned your receiver to only recognize grand gestures and elaborately planned experiences. So you're both experiencing the same painful paradox: River feels like every small bid for connection goes unnoticed and unappreciated, while you feel like you're the only one making effort."
+
+Quinn's eyes widened. "We're both giving. We're both not seeing each other's giving."
+
+"Precisely. River's initiations are quieter, more integrated into daily life. Yours are louder, more event-focused. Neither is better. But when you can only receive in your own dialect, you miss half the conversation."
+
+"So what do I do?"
+
+Elder Joy smiled. "Start noticing. When River makes breakfast without being asked, that's initiative. When River suggests a walk, that's planning shared experience. When River picks something to watch together, that's curating connection. These aren't 'less than' your elaborate date nights—they're simply different frequencies of the same fundamental energy: I want to be close to you."
+
+Quinn sat quietly, replaying the past weeks through this new lens. How many mornings had River woken early to prepare food? How many evenings had River orchestrated small moments of togetherness? How many tiny invitations had Quinn dismissed as "not enough" while simultaneously feeling lonely?
+
+"I've been blind," Quinn whispered.
+
+"Not blind," Elder Joy corrected gently. "Tuned to a single frequency. The beautiful thing about recognizing this is that you can expand your reception range. You can learn to appreciate both—the grand gestures you excel at and the daily devotions River offers. And when River feels truly seen and appreciated for their natural way of giving, something magical happens: they often start feeling safe enough to experiment with your style too. Not because you demanded it, but because appreciation breeds generosity."
+
+Quinn nodded slowly, already imagining the conversation ahead with River—not an accusation about what was missing, but a recognition of what had been present all along, waiting to be seen.
+
+**Moral:** The gift of connection arrives in many packages, and the wisest lovers learn to recognize their partner's unique wrapping paper rather than insisting all presents arrive in identical boxes.
+
+**Tomorrow:** Quinn discovers that truly receiving River's style of giving requires more than intellectual understanding—it requires releasing a deeply held belief about what "counts" as romantic effort, and this letting go feels more vulnerable than expected.`,
+  },
 ];
