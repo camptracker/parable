@@ -5952,4 +5952,80 @@ Nora, watching from her corner, stopped arranging her animals. She didn't need t
 
 **Tomorrow:** Elder Mira will help Asha understand why demonstrating repair is more powerful than teaching about it.`,
   },
+  {
+    day: 82,
+    title: "The Witness of Repair",
+    date: "2026-08-24",
+    image: "images/raising-kids/day-82.jpg",
+    audio: "audio/raising-kids/day-82",
+    sonnet: `**🪶 Sonnet LXXXII: The Witness of Repair**
+
+They watch us more than we could ever know—
+Not for our harmony, but how we mend
+The fractures that through every household flow,
+How bridges burned are built again, dear friend.
+
+To hide our discord serves them not at all,
+But teaches them that rupture means defeat,
+That love should never stumble, never fall,
+That cold withdrawal is conflict's only seat.
+
+But when they see us own what we regret,
+When words of genuine repair are said,
+They learn that intimacy's alphabet
+Includes the sacred art of coming back.
+
+*Let children witness how we close the gap—
+For love's not in the perfect, but repair's sweet map.*`,
+    standard: `👶 Day 82: The Witness of Repair
+
+🧱 **The Concept**
+Children learn conflict resolution not from our perfect harmony but from watching us navigate rupture and restoration in our adult relationships.
+
+❓ **Why It Matters**
+When we hide our disagreements from children or fight behind closed doors only to emerge with forced smiles, we teach them that conflict is shameful and repair is invisible. When they never see the messy middle of reconciliation—the vulnerability, the accountability, the choosing to reconnect after disconnection—they enter their own relationships believing that good partnerships don't have conflict or that ruptures are catastrophic rather than navigable.
+
+⚙️ **How It Works**
+Repair doesn't mean performing staged apologies for our children's benefit. It means letting them witness age-appropriate moments of genuine reconnection: a sincere "I spoke harshly earlier and I'm sorry," a conversation where we acknowledge we handled something poorly, a visible return to warmth after a period of tension. When a child sees their father take responsibility for something he said in frustration, they learn that mistakes don't destroy relationships. When they observe their mother express a need that wasn't being met and see her partner actually adjust their behavior, they learn that speaking your truth can lead to change rather than rejection. When they witness two adults choose connection over being right, they internalize that love is a practice, not a feeling you either have or don't. The repair doesn't have to be explained to them—they're absorbing the emotional sequence of disconnection, responsibility, and restoration.
+
+🎯 **Parenting Wisdom**
+Your children don't need to see a perfect relationship; they need to see a real one that includes the sacred art of coming back together after coming apart.
+
+❓ **Tomorrow's Question** — If we understand that children develop their template for emotional safety from whether we can tolerate their difficult feelings without collapsing or retaliating, why do we often treat their anger, defiance, or rejection of us as emergencies that must be immediately corrected rather than as information about their internal experience, and what does our need to eliminate their negative emotions reveal about whether we believe all feelings are actually acceptable or only the pleasant ones?`,
+    parable: `Asha sat at Elder Mira's kitchen table, her hands wrapped around a mug of tea she hadn't touched. Through the window, she could see her husband in the garden with their daughter, pointing at something in the soil. They'd had a fight that morning—not in front of the child, of course. They'd waited until she was occupied, kept their voices low, said things that needed to be unsaid.
+
+"We never fought in front of her," Asha said quietly. "But now there's this... heaviness. She keeps looking between us like she's trying to figure something out."
+
+Elder Mira smiled faintly. "Children are exquisite readers of emotional weather. They don't need to hear the words to know when the barometric pressure has changed."
+
+"So we failed. We brought our problems into her world anyway."
+
+"No," Mira said, setting down her own cup with deliberate gentleness. "You brought your humanity into her world. The question is whether you'll also bring your repair."
+
+Asha looked up. "What do you mean?"
+
+"Hiding conflict from children teaches them that good relationships don't have friction. That's a lie that will cost them dearly when they try to love someone." Mira paused, her eyes distant with memory. "I remember when my oldest was perhaps six. His father and I had a disagreement about something—I can't even recall what now. We'd been cold to each other all morning. And my son, this small creature, was moving through the house like he was trying to become invisible. Finally, his father knelt down and said to him, 'Your mother and I are working through something, and we're not being very kind to each other right now. But we'll figure it out. You're safe. This isn't about you.' "
+
+"That helped?" Asha asked.
+
+Mira shook her head. "Not immediately. But an hour later, his father found me and said—in front of our son, not hiding it—'I was dismissive of something that mattered to you, and I'm sorry.' And I said, 'I was holding onto being right when I should have been trying to understand.' They weren't elaborate apologies. They were just... real. And our son saw that."
+
+"And that made a difference?"
+
+"Twenty years later, that boy—now a man—told me that he remembered that day. Not the specifics, but the feeling. He said it taught him that when he hurt someone he loved, the answer wasn't to defend himself or run away. The answer was to come back. To take responsibility. To choose the relationship over his pride."
+
+Asha glanced out the window again. Her husband was now crouched beside their daughter, both of them examining something she couldn't see. "So what do we do?"
+
+"You don't perform reconciliation for her benefit," Mira said. "That would be theater. But you do let her see that when disconnection happens—and it will, again and again—reconnection is possible. Let her see you choose each other. Let her see that love is a practice, not a possession."
+
+"Even if it's uncomfortable?"
+
+Mira's eyes held a knowing gleam. "Especially then. Because one day she'll be uncomfortable in her own relationships, and she'll need to know that discomfort is navigable. That rupture and repair are the rhythm of intimacy, not evidence of its failure."
+
+Asha stood, her tea still untouched but something else—some weight she'd been carrying—left behind on the table. She walked to the back door, stepped into the garden, and knelt beside her husband and daughter. Whatever they'd found in the soil could wait. Right now, there was reconnection to practice.
+
+**Moral:** Children don't need to witness perfect harmony; they need to witness genuine repair—the sacred practice of choosing connection after disconnection.
+
+**Tomorrow:** Asha will ask Elder Mira about the difficulty of allowing her child's difficult emotions to exist without rushing to fix them, and what her urgency to eliminate discomfort reveals about which feelings she truly believes are acceptable.`,
+  },
 ];
