@@ -6538,4 +6538,88 @@ Quinn nodded slowly, already imagining the conversation ahead with River—not a
 
 **Tomorrow:** Quinn discovers that truly receiving River's style of giving requires more than intellectual understanding—it requires releasing a deeply held belief about what "counts" as romantic effort, and this letting go feels more vulnerable than expected.`,
   },
+  {
+    day: 85,
+    title: "The Translation Treasure",
+    date: "2026-08-25",
+    image: "images/relationship-play/day-85.jpg",
+    audio: "audio/relationship-play/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Translation Treasure**
+
+How many love letters arrive each day,
+In folded laundry, coffee brought at dawn,
+In schedules rearranged to clear the way,
+Yet go unread because the script feels wrong?
+
+We starve while feasting, blind to what we hold,
+Demanding that devotion wear our face,
+Insisting love must fit the ancient mold
+Of how we learned to recognize its grace.
+
+But she who stocks your fridge writes poetry,
+And he who fixes things declares his heart,
+Their actions sing of careful constancy—
+You need but learn to read their native art.
+
+*The treasure lies not in their translation,*
+*But in your willing cross-interpretation.*`,
+    standard: `🎮 Day 85: The Translation Treasure
+
+We insist our partner speak our exact love language because translation requires effort, vulnerability, and the humbling admission that our way isn't the only valid way to express care. It's cognitively easier to receive love in the format we naturally give it, so we unconsciously reject the beautiful offerings that arrive in unfamiliar packaging, essentially starving while surrounded by a feast we simply haven't learned to recognize as nourishment.
+
+🧱 **The Concept**
+
+The Translation Treasure is the practice of actively learning to recognize, receive, and celebrate how your partner naturally expresses love, rather than insisting they demonstrate care exclusively in the ways that feel most familiar to you.
+
+❓ **Why It Matters**
+
+Most relationship disconnection doesn't stem from a lack of love but from a failure of translation—one partner is offering genuine care that the other literally cannot see because it arrives in an unexpected format. When we develop the skill to translate our partner's native love language into our own understanding, we suddenly discover we've been loved far more generously than we realized, and our sense of deprivation transforms into recognition of abundance.
+
+⚙️ **How It Works**
+
+Translation begins with studying your partner's pattern of giving rather than demanding they adopt yours. If they express care through acts of service while you prefer words of affirmation, the work isn't to change them but to learn that the folded laundry and stocked refrigerator are actually love letters written in a language you haven't yet learned to read fluently. Practically, this means creating a "love language dictionary" where you document the specific ways your partner demonstrates care—maybe they show affection through teasing humor rather than direct compliments, through shared activities rather than prolonged eye contact, through problem-solving rather than empathetic listening. The treasure isn't hidden; it's simply been labeled in a language you didn't know you needed to study. When you begin translating their natural expressions into your understanding ("They researched the best route for our trip" becomes "They care about my comfort and our time together"), you stop feeling unloved and start feeling overwhelmed by how consistently your partner has been showing up in their authentic way.
+
+🎯 **Playful Connection Wisdom**
+
+Love isn't scarce—our ability to recognize it in unfamiliar forms is what creates the illusion of emptiness. The moment you learn to translate your partner's native language, you discover you've been swimming in affection you simply couldn't see.
+
+❓ **Tomorrow's Question**
+
+If learning to translate our partner's love language can transform our experience from scarcity to abundance almost overnight, why do so many couples unconsciously refuse to do this relatively simple perceptual work, instead investing years of energy trying to change how their partner naturally expresses care rather than simply learning to receive the gifts already being offered?`,
+    parable: `Quinn sat across from Elder Joy, frustration written across their face. "River just doesn't show affection the way I need it," they said, voice tight with familiar complaint. "I tell them constantly what would make me feel loved, but they just keep doing their own thing."
+
+Elder Joy's eyes sparkled with knowing mischief. "Show me River's messages from this week," she requested gently.
+
+Reluctantly, Quinn pulled out their phone. Elder Joy scrolled slowly, reading aloud: "'I fixed that squeaky cabinet you mentioned.' 'Saw this article about your project and thought of you.' 'Grabbed your favorite coffee on my way home.' 'Rearranged my schedule so we could have Saturday together.'"
+
+She looked up at Quinn with tender directness. "These are love letters, my dear. Every single one. River is screaming their devotion in a language you've refused to learn."
+
+Quinn's face flushed. "But those are just... practical things. I need them to actually say they love me, to look at me the way they used to, to—"
+
+"To perform love in the exact script you've written?" Elder Joy interrupted, not unkindly. "Tell me, Quinn—when you give River compliments and verbal affirmation, do they light up or do they seem slightly uncomfortable, like you've handed them a gift they don't quite know what to do with?"
+
+The truth landed heavily. "They usually deflect or make a joke," Quinn admitted quietly.
+
+"Because words aren't their native language," Elder Joy explained. "They speak in actions, in thoughtfulness, in making your life easier and more beautiful through tangible care. And you, my dear, have been standing in a rainstorm of devotion insisting you're dying of thirst because it's not arriving in cups."
+
+She pulled out a worn notebook. "This is my Translation Journal from forty years of marriage. On the left side, I write what my beloved actually does. On the right side, I translate it into what it means. 'He reorganized the garage' becomes 'He created order so I could find peace.' 'He researched retirement locations' becomes 'He's building our future together.' The actions were always love letters—I just had to learn to read them."
+
+Quinn took the notebook with trembling hands, seeing their own relationship reflected in those pages. "I've been starving while River was feeding me," they whispered.
+
+"Not quite," Elder Joy corrected gently. "You've been insisting River serve a seven-course French meal when they're a master of Japanese cuisine. Both are exquisite expressions of culinary devotion—but only if you're willing to appreciate cuisine you didn't grow up eating."
+
+That evening, Quinn began their own translation practice. River's text about picking up groceries became "I'm thinking about nourishing you." The repaired fence became "I'm protecting what we've built." The researched restaurant became "I want to delight you." By the end of the week, Quinn's phone was filled with evidence of a love so constant and attentive it brought them to tears.
+
+"I told River I've been learning their language," Quinn reported at their next session. "They actually cried. They said they've been trying to show love the best way they know how, but felt like it was never enough, never right."
+
+Elder Joy nodded slowly. "And now?"
+
+"Now I see love everywhere," Quinn said, wonder in their voice. "River hasn't changed a single thing they do—but I've changed everything about how I receive it. It's like I've been colorblind my whole life and suddenly can see an entire spectrum I was missing."
+
+"That," Elder Joy said with deep satisfaction, "is the Translation Treasure. You didn't need River to become fluent in your language—you needed to become bilingual in love."
+
+**Moral:** *The treasure isn't in changing how your beloved speaks, but in learning to hear the devotion already being whispered in their native tongue.*
+
+**Tomorrow:** Elder Joy asks Quinn and River a question that will challenge their newfound translation skills: if learning to receive love in unfamiliar forms is relatively straightforward perceptual work, why do so many couples resist it for years, choosing the familiar pain of feeling unloved over the unfamiliar work of recognizing abundance?`,
+  },
 ];

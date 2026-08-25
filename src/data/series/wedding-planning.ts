@@ -9918,4 +9918,106 @@ Dove looked out at the curved rows of empty chairs and suddenly saw them filled 
 
 **Tomorrow:** Nana Rose reveals what kind of healing a wedding can offer to a broken world.`,
   },
+  {
+    day: 144,
+    title: "The Sacred Testimony",
+    date: "2026-08-25",
+    image: "images/wedding-planning/day-144.jpg",
+    audio: "audio/wedding-planning/day-144",
+    sonnet: `**🪶 Sonnet CXLIV: The Sacred Testimony**
+
+What healing shall your celebration bring
+To hearts that carry wounds they will not name?
+Not polished proof that love's an easy thing,
+But testimony that transforms the shame.
+
+When vows confess that choosing comes each day,
+The weary ones who've lost their feeling know
+That love survives when passion fades away—
+This truth becomes the medicine they need most.
+
+When stress reveals your kindness still remains,
+The couples locked in cycles of critique
+Behold a different path beyond their pains,
+A gentler way for imperfect love to speak.
+
+*Your wedding's gift lies not in what you prove,*
+*But permission that imperfect hearts can love.*`,
+    standard: `💍 Day 144: The Sacred Testimony
+
+The healing your wedding could offer isn't found in the perfection of your celebration but in the courage of your imperfection—when your guests witness you navigating genuine emotion, showing real vulnerability, and choosing love even when it's inconvenient, they receive permission to believe that their own messy, complicated love stories might also be worthy of celebration. This transforms your wedding from a performance that makes others feel inadequate into a testimony that makes them feel possible. The difference between hosting a party and facilitating a homecoming is that parties showcase what you want people to admire, while homecomings demonstrate what you want people to remember is true about love itself.
+
+🧱 **The Concept**
+
+Your wedding becomes sacred testimony when it demonstrates a specific truth about love that contradicts the cynicism, fear, or disappointment your guests carry in their own hearts.
+
+❓ **Why It Matters**
+
+Most guests arrive at weddings carrying invisible wounds—divorces they've survived, relationships they've mourned, hopes they've abandoned, or patterns they can't seem to break. If your wedding only displays flawless romance, it confirms their secret belief that real love is reserved for other people. But if your celebration testifies to love's messy resilience, imperfect devotion, and capacity for transformation despite difficulty, it offers them evidence that their own struggles haven't disqualified them from experiencing something sacred.
+
+⚙️ **How It Works**
+
+Testimony doesn't mean oversharing your relationship struggles during toasts or turning your ceremony into therapy—it means allowing the truth of your actual partnership to be visible throughout your celebration. When your vows acknowledge that love requires daily choice rather than just initial feeling, guests who've lost that feeling in their own relationships hear hope. When you're visibly kind to each other during stressful moments, guests trapped in cycles of mutual criticism see an alternative. When your ceremony honors that you're both imperfect people choosing to grow together rather than perfect people who've found their missing piece, guests who feel broken receive permission to stop waiting until they're "fixed" before they deserve love. When your celebration demonstrates that joy and difficulty can coexist, that commitment doesn't require the absence of doubt, and that choosing each other again today matters more than the choice you made years ago, you're offering testimony that love is more durable, more accessible, and more forgiving than the fairy tales suggested. The couples who've been married thirty years don't need your testimony—but the heartbroken, the divorced, the disillusioned, and the defending-against-hope desperately do.
+
+🎯 **Wedding Wisdom**
+
+Your wedding's greatest gift to others won't be inspiration but permission—permission to believe that imperfect love between imperfect people can still be sacred, sustainable, and worth celebrating.
+
+❓ **Tomorrow's Question**
+
+If you discovered that the version of yourself who will stand at the altar is already present within you right now but buried beneath layers of who you think you should be for everyone else, what single permission would you need to grant yourself to let that truest self emerge fully on your wedding day, and what does your answer reveal about whether you're preparing to perform a role or preparing to make the most authentic promise of your entire life?`,
+    parable: `Dove sat in Nana Rose's garden studio, surrounded by photographs from a thousand weddings. Each couple smiled, kissed, danced. Each celebration looked perfect.
+
+"Why do they all look the same?" Dove asked quietly. "When every love story is different?"
+
+Nana Rose set down her tea. "Because most couples believe their job is to prove that love works. So they perform flawlessness." She pulled out a different album, worn and private. "These are the weddings I remember."
+
+The images were different. A bride crying during her vows—not delicate tears but genuine weeping. A groom's hand visibly shaking as he placed the ring. A couple laughing mid-ceremony at some private joke, breaking the solemnity entirely.
+
+"This couple," Nana Rose pointed to the crying bride, "had both been through bitter divorces. Everyone told them they were too damaged to try again. Her tears testified that love was worth risking heartbreak twice." She turned the page. "This groom's father had abandoned his mother. His trembling hands testified that choosing to stay is a courageous act, not a passive one."
+
+Elm appeared in the doorway, having finished his errands. "The florist said we could do roses or wildflowers."
+
+"What do wildflowers testify to?" Nana Rose asked.
+
+"That beautiful things don't need to be controlled or perfected," Elm answered slowly, understanding dawning. "That they can grow in difficult soil."
+
+Dove thought of her own parents—their quiet, enduring love that bore no resemblance to movie romance. Her mother's patience during her father's depression years. Her father's steady devotion through her mother's illness. No one would call it fairytale love, but it was real. It was testimony.
+
+"What if our wedding testified that love doesn't require you to be impressive?" Dove said quietly. "That you can be ordinary, struggling, imperfect—and still worthy of celebration?"
+
+Nana Rose smiled. "Now you're understanding what makes a wedding sacred rather than just pretty."
+
+"But how?" Dove asked. "How do we let that truth show without making it awkward or turning our ceremony into a therapy session?"
+
+"You don't announce your testimony," Nana Rose explained. "You embody it. When something goes wrong and you respond with grace instead of panic, that's testimony. When your vows acknowledge that you're promising to choose each other daily rather than claiming you'll always feel this exact feeling, that's testimony. When you look at each other with genuine affection rather than performing romance for the camera, that's testimony."
+
+Elm took Dove's hand. "Remember your cousin Sarah at her wedding? Everything was perfect, but I kept thinking how lonely she looked. Like she was trying so hard to prove something."
+
+"And remember when we visited the Kramers for their thirtieth anniversary?" Dove added. "Their house was a mess, they bickered about the dinner menu, but when he looked at her while telling that story about the year they almost lost everything—I wanted what they had more than any perfect wedding I'd ever seen."
+
+"That's testimony," Nana Rose confirmed. "The Kramers testified that love survives difficulty, includes difficulty, transforms difficulty. Sarah testified that performance exhausts everyone, including the performers."
+
+Dove pulled out her phone, looking at the elaborate timeline she'd created. "So maybe instead of scheduling every moment to look Instagram-perfect, we schedule moments to just... be real? To let people see us actually experiencing this, not just posing through it?"
+
+"What truth do you want to testify to?" Nana Rose asked.
+
+"That love doesn't require you to be anything other than yourself," Dove said. "That you don't have to fix yourself or perform yourself or diminish yourself. That being truly seen—flaws and all—is more intimate than being impressive."
+
+Elm's eyes brightened. "That's what my sister needs to hear. She's been single for five years because she thinks she has to become someone different before she deserves love."
+
+"That's what half our guests need to hear," Dove realized. "Your parents, who barely speak anymore. My uncle, who's been divorced twice and thinks he's just broken. Our friend Marcus, who says he's too anxious to ever commit to anyone."
+
+"And they won't believe it if you say it in a toast," Nana Rose cautioned. "But they will believe it if they watch you live it for six hours. If they see you be awkward and still lovable. Stressed and still kind to each other. Imperfect and still worth celebrating."
+
+Dove looked at Elm. "Are we brave enough to let people see us that honestly?"
+
+"We're brave enough to promise our lives to each other," Elm said quietly. "Surely we're brave enough to be real for one day."
+
+Nana Rose closed the album. "The weddings I remember aren't the ones that looked flawless. They're the ones that felt true. Where something genuine was being testified to, and everyone present knew they'd witnessed something that gave them permission to hope again."
+
+**Moral**: *The most sacred weddings don't prove that love is perfect; they testify that imperfect love between imperfect people can still be real, resilient, and worthy of celebration—and this testimony offers healing to every guest who has stopped believing such love is possible for them.*
+
+**Tomorrow**: Dove must decide what truth lies buried beneath the person she's been performing, and whether she's courageous enough to let that authentic self take her vows.`,
+  },
 ];
