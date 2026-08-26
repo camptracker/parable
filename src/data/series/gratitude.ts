@@ -6412,4 +6412,70 @@ A cherry blossom drifted down, landing in Hana's open palm. She hadn't reached f
 
 *Tomorrow, Hana will face the most unsettling discovery yet: that in releasing her attachment to gratitude practice, she must confront what she was really using that practice to avoid...*`,
   },
+  {
+    day: 92,
+    title: "The Gratitude Restoration",
+    date: "2026-08-26",
+    image: "images/gratitude/day-92.jpg",
+    audio: "audio/gratitude/day-92",
+    sonnet: `**🪶 Sonnet XCII: The Gratitude Restoration**
+
+Before the world taught wariness and guard,
+You knew the art of wonder without wall,
+Each moment met with heart completely bared,
+No cynicism dimming beauty's call.
+
+But loss arrived and taught you to protect,
+Each wound became a layer over light,
+Until you could no longer quite detect
+The child who marveled at a butterfly's flight.
+
+Now gratitude feels forced because you try
+To build what once existed naturally—
+The practice is not learning how to fly
+But shedding weight until you're finally free.
+
+*Beneath the armor forged from every scar,*
+*Your wonder waits—remembering what you are.*`,
+    standard: `🙏 Day 92: The Gratitude Restoration
+
+🧱 **The Concept**
+True gratitude practice doesn't build something new but restores your original capacity for wonder that existed before the world taught you to protect yourself from disappointment.
+
+❓ **Why It Matters**
+We treat gratitude as a skill to develop rather than a birthright to reclaim, spending years constructing elaborate appreciation practices when what we actually need is permission to return to the undefended openness we knew as children. This misunderstanding keeps us working harder at gratitude instead of simply removing the layers of protection that block our natural capacity to marvel at existence.
+
+⚙️ **How It Works**
+Watch a young child encounter a butterfly—they don't practice gratitude techniques, they simply become pure attention, unfiltered amazement, complete presence. Somewhere between that wonder and adulthood, we learned that such openness invites pain, that unguarded appreciation makes us vulnerable to loss, that wonder without defense leads to heartbreak. So we built walls and called them maturity, developed cynicism and called it wisdom, created emotional distance and called it strength. Gratitude restoration means recognizing these protective layers for what they are—not permanent parts of who you are but temporary armor you adopted when wonder felt dangerous. The practice isn't building appreciation from scratch; it's carefully, tenderly removing the protection you no longer need, one layer at a time, until you can once again encounter a butterfly with your whole undefended heart.
+
+🎯 **Gratitude Wisdom**
+You were born knowing how to be amazed by everything. The work isn't learning gratitude but unlearning the fear of feeling it fully.
+
+❓ **Tomorrow's Question** — If you were born with complete capacity for wonder and spent decades building protective layers against it, why might the discomfort you feel during gratitude practice be less about doing it wrong and more about your armor beginning to crack, and what would it mean to welcome this discomfort as evidence of restoration rather than failure?`,
+    parable: `Hana found Elder Thorn sitting before the monastery's ancient mirror, its surface clouded with centuries of dust and tarnish. The old guardian held a soft cloth but had not yet begun to clean.
+
+"I've been practicing gratitude for three seasons now," Hana said, frustration evident in her voice. "Why does it still feel like I'm building something that doesn't want to be built? Like I'm forcing something that should be natural?"
+
+Elder Thorn smiled and gestured to the mirror. "Tell me what you see."
+
+"Nothing. Just darkness and grime."
+
+"And yet this mirror was forged perfect. The capacity to reflect clearly existed from the moment it was made. The darkness you see isn't the mirror's true nature—it's simply what has accumulated over time." Elder Thorn began to gently wipe one corner, revealing brilliant silver beneath. "What am I doing here, child? Building a mirror or revealing one?"
+
+Hana watched as more silver emerged. "Revealing."
+
+"When you were very small, before language, before understanding, you knew how to be astonished by a beam of sunlight. You didn't practice gratitude—you were gratitude, pure and undefended." Elder Thorn continued cleaning. "Then you learned that wonder makes you vulnerable. You touched fire and learned to fear. You loved deeply and learned loss. Each lesson added a layer of protection, like dust settling on this mirror."
+
+"So I'm not broken?"
+
+"No more than this mirror is. The capacity for wonder still exists beneath your protection. It was never lost, only covered." Elder Thorn handed Hana the cloth. "The practice isn't building something new. It's gently, patiently removing what's covering your original brightness."
+
+Hana touched the cloth to the mirror and watched her own reflection slowly emerge from the darkness—not created, but revealed, as though she'd been there all along, waiting to be seen.
+
+"Some of these layers protected you when you needed protection," Elder Thorn said softly. "Honor them even as you release them. They kept you safe enough to survive until you were strong enough to be vulnerable again."
+
+**Moral:** You are not learning to be grateful; you are remembering what it feels like to marvel at existence without armor. The work is restoration, not construction—removing the layers of protection until your original capacity for wonder can shine through.
+
+*Tomorrow, Hana will discover why the pain of removal sometimes feels worse than the comfort of staying covered, and what this resistance reveals about the difference between safety and aliveness.*`,
+  },
 ];

@@ -10020,4 +10020,74 @@ Nana Rose closed the album. "The weddings I remember aren't the ones that looked
 
 **Tomorrow**: Dove must decide what truth lies buried beneath the person she's been performing, and whether she's courageous enough to let that authentic self take her vows.`,
   },
+  {
+    day: 145,
+    title: "The Sacred Harvest",
+    date: "2026-08-26",
+    image: "images/wedding-planning/day-145.jpg",
+    audio: "audio/wedding-planning/day-145",
+    sonnet: `**🪶 Sonnet CXLV: The Sacred Harvest**
+
+The wedding day reveals but cannot make
+What months of tending, planting, pruning grew;
+Each seed of patience sown, each choice to wake
+And water love when skies turned cold and blue.
+
+The garden shows what hands have truly done—
+No flower blooms from wishes left unsaid,
+No fruit appears because you've hired sun,
+Only what you've nurtured, weeded, fed.
+
+Your guests will see what thrives beneath the show:
+If tenderness or tension rules your soil,
+If partnership runs deep or just for show,
+If love's been leisured or been grown through toil.
+
+*The altar's not a magic trick or test—*
+*It harvests what you've planted at your best.*`,
+    standard: `💍 Day 145: The Sacred Harvest
+
+**🧱 The Concept**
+Your wedding day is not the culmination of your relationship's growth but the first harvest of what you've been planting together—and what you harvest reveals what you've actually been cultivating beneath the surface of your romance.
+
+**❓ Why It Matters**
+Many couples approach their wedding as the finish line of becoming ready for marriage, when it's actually the moment when everything you've been quietly building (communication patterns, conflict resolution skills, mutual respect, individual wholeness) finally becomes visible to everyone present. You can't fake a harvest—what you've planted will show up, whether you've been tending healthy soil or just performing for appearances.
+
+**⚙️ How It Works**
+The way you and your partner navigate your wedding day—how you support each other during stress, how you handle disappointments, how you include or exclude each other from decisions, how you treat vendors and family—reveals the actual quality of your relationship's foundation. If you've been cultivating genuine partnership, patience, and playfulness, those qualities will bloom naturally under pressure. If you've been papering over resentments, avoiding difficult conversations, or prioritizing appearance over authenticity, the stress of your wedding day will crack that facade and reveal what's actually growing beneath. Your guests who know love deeply will recognize the harvest immediately: they'll see whether you've grown a marriage or just staged a wedding. The most telling moments aren't the scripted ones but the spontaneous ones—how you look at each other when something goes wrong, whether you protect each other's dignity in front of others, whether your affection feels performative or simply present.
+
+**🎯 Wedding Wisdom**
+Your wedding day doesn't create your marriage; it reveals it. What grows in the garden you've been tending together will become visible to everyone who loves you.
+
+**❓ Tomorrow's Question** — If you discovered that the way you and your partner will handle every major life transition (moving homes, career changes, becoming parents, facing loss) is being rehearsed right now in how you're handling your wedding planning together, what would you need to change about your current dynamic to ensure you're practicing partnership rather than just coordinating logistics?`,
+    parable: `Dove stood in Nana Rose's garden three days before her wedding, staring at the raised beds she'd planted six months ago at the old woman's suggestion. "I don't understand," she said quietly. "The tomatoes in this bed are thriving, but these over here are scraggly and small. I used the same seeds, the same soil."
+
+Nana Rose knelt beside her, running her fingers through both beds. "Same seeds, same soil on top. But tell me, child—what did you do differently when you thought no one was watching?"
+
+Dove flushed. "I... I guess I watered this bed more consistently. The other one, I'd skip days when I was busy with wedding planning. And I pulled weeds from this one every week, but let them go longer on that one because it was farther from the path."
+
+"Your wedding day will be exactly like this harvest," Nana Rose said, standing slowly. "It won't create your marriage—it will reveal it. All those months of planning, every conversation you had with Elm about money and family and whose feelings matter more, every time you chose to address a resentment or let it grow like a weed... all of it has been planting and tending."
+
+Elm appeared from around the corner, carrying a basket of lettuce. "The greens are gorgeous this year," he said, setting them down. Then he saw Dove's face. "What's wrong?"
+
+"I'm scared," Dove admitted. "What if our wedding day reveals that we haven't been tending well enough? What if everyone can see that we're not ready?"
+
+Elm sat beside her on the garden wall. "Love, remember when we had that fight about the guest list last month? And instead of going to bed angry like we used to, we stayed up and actually worked it out?"
+
+"And when your mother criticized my dress choice," Dove added, "and you defended me instead of asking me to just keep peace."
+
+"And when I wanted to spend beyond our budget, and you helped me see what really mattered instead of just giving in." Elm took her hand. "We've been planting good things, Dove. Not perfectly, but consistently."
+
+Nana Rose smiled, plucking a ripe tomato from the thriving bed. "Your guests won't remember your centerpieces or your first dance. But they'll remember how you looked at each other when the caterer was late. They'll remember whether you treated each other with kindness when you were exhausted. They'll remember if your love looked like something real or something performed."
+
+"The wedding day just shows what's been growing all along," Dove said slowly. "We can't pretend to have what we haven't planted."
+
+"But we also can't hide what we have cultivated," Elm added. "And I think we've been growing something beautiful, even if it's not perfect."
+
+Nana Rose handed Dove the tomato, still warm from the sun. "Marriage is seasons of planting, tending, and harvest, over and over, for decades. Your wedding is just your first harvest—and child, from what I've watched you two grow together these months, you're going to have a beautiful yield."
+
+**Moral:** *Your wedding day cannot manufacture what your relationship hasn't grown. But it will reveal, harvest, and celebrate every good thing you've been quietly cultivating when no one was watching.*
+
+**Tomorrow:** *Dove discovers that the rehearsal for her wedding reveals something crucial about rehearsing for her marriage...*`,
+  },
 ];
