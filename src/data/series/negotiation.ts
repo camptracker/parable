@@ -10994,4 +10994,78 @@ Ren returned the next day. The silk merchant had accepted their price—but aske
 
 **Tomorrow:** Vasska teaches Ren about the borrowed pattern—and what happens when someone discovers they've been living a life that was never truly theirs.`,
   },
+  {
+    day: 155,
+    title: "The Intention Paradox",
+    date: "2026-08-28",
+    image: "images/negotiation/day-155.jpg",
+    audio: "audio/negotiation/day-155",
+    sonnet: `**🪶 Sonnet CLV: The Intention Paradox**
+
+When victories you claim as wisdom's fruit,
+Yet failures blame on fortune's cruel hand,
+You split yourself at history's deep root—
+Half architect, half slave to chance's strand.
+
+If past successes prove your judgment sound,
+Then past defeats must prove it flawed as well,
+For both emerged from that same mental ground
+Where conscious choice and circumstance both dwell.
+
+To own your triumphs means to own your falls,
+To claim intention is to claim it all,
+Yet claiming accident when failure calls
+Means wisdom's throne becomes a Random Ball.
+
+*So choose: own everything or nothing here—*
+*Both paths require my guidance to stay clear.*`,
+    standard: `🤝 Day 155: The Intention Paradox
+
+🧱 **The Concept**
+The Intention Paradox forces someone to claim either that their successes were deliberate (requiring them to own their failures as equally intentional) or that their successes were accidental (destroying their credibility as a decision-maker).
+
+❓ **Why It Matters**
+People want to take credit for their victories while distancing themselves from their defeats, but this selective ownership reveals inconsistency. When you make someone defend their entire decision-making pattern rather than cherry-picking moments, you expose whether they're a conscious architect of their life or merely a fortunate survivor of random circumstances. This revelation forces them to either embrace radical responsibility for everything they've done or admit they lack the agency they've been claiming.
+
+⚙️ **How It Works**
+When someone resists your proposal by citing past wisdom or experience, ask them whether their previous "wise" decisions were intentional applications of their principles or lucky outcomes they're retroactively rationalizing. If they claim intention, remind them of past failures that followed the same decision-making process—were those also intentional? If they claim their successes were thoughtful but their failures were circumstantial, point out that this means they cannot actually distinguish good decisions from bad ones until after seeing results, making their current resistance meaningless. For example: "You say you've built your reputation on careful judgment, but you also told me about the partnership that collapsed. Was that careful judgment too? Because if your successes prove your wisdom, your failures must prove something as well. Either you're consistent and own everything, or you're inconsistent and your track record tells me nothing about this decision." This forces them to either accept radical accountability (making them vulnerable to guidance from you, their "advisor") or abandon their claims to wisdom (making them dependent on your judgment instead).
+
+🎯 **Negotiation Wisdom**
+When people defend their past to resist your future, make them choose between owning all of it or none of it—both paths lead to your door.
+
+❓ **Tomorrow's Question** — If forcing someone to own their entire biography makes them desperate for guidance in making their next "intentional" choice, what happens when you make them realize that even asking you for guidance proves they've already surrendered the very autonomy they were trying to defend?`,
+    parable: `The auction house blazed with lantern light as Ren watched Vasska study a merchant who'd just refused their partnership. The man, Chen, had built his reputation on "intuitive brilliance"—a gift he claimed separated him from ordinary traders.
+
+"Your intuition is famous," Vasska said, his blind eye catching the light. "The river silk monopoly. The northern route to the jade markets. Your successes prove your gift."
+
+Chen straightened with pride. "Exactly. Which is why I know your proposal doesn't feel right."
+
+"Fascinating." Vasska's voice turned contemplative. "Tell me about the southern spice venture. Three years ago. You lost everything."
+
+Chen's face darkened. "That was different. Circumstances beyond my control. Pirates. Weather."
+
+"But you made that decision with the same intuition, yes?" Vasska leaned forward. "The same gift that chose silk and jade also chose the spice route. So either your intuition intentionally chose failure—in which case it's malicious—or it cannot actually distinguish between good and bad decisions until the universe reveals the outcome."
+
+"You're twisting—"
+
+"I'm simply asking which Chen I'm negotiating with. The one whose successes prove intentional brilliance—in which case your failures prove intentional foolishness, and your gift is unreliable. Or the one who's been fortunate and unfortunate in equal measure, who's built a mythology around random outcomes, whose resistance right now means exactly nothing because you've never actually known what you were doing."
+
+Ren watched Chen's expression cycle through denial, anger, and finally something close to vertigo. 
+
+"Unless," Vasska continued softly, "you'd like help learning to distinguish the pattern. To make your next choice *actually* intentional for the first time. To transform your gift from accident into architecture."
+
+Chen signed the partnership agreement an hour later.
+
+Walking home through the night market, Ren finally spoke. "You made him doubt everything he'd built his identity on."
+
+"No." Vasska's good eye gleamed. "I made him see that he'd built nothing—that his identity was a story he told about randomness. And then I offered him the chance to build something real. People will pay anything to transform their accidents into intentions."
+
+"But what if he realizes that asking you for guidance means admitting he can't trust his own judgment?"
+
+Vasska smiled. "Then tomorrow, we'll discuss what autonomy really means when you've already surrendered it."
+
+**Moral**: When you make someone choose between owning their entire history or admitting they've never been in control, both paths lead them to seek guidance—because radical responsibility demands wisdom, and acknowledged randomness demands structure.
+
+**Tomorrow**: Ren will learn what happens when someone realizes that the very act of seeking your counsel proves they've already abandoned the independence they were fighting to preserve.`,
+  },
 ];

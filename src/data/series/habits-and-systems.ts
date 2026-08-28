@@ -9470,4 +9470,75 @@ Rook sat with this, hating it, recognizing its truth.
 
 **Tomorrow:** Rook faces the unexpected anxiety of choosing ease, discovering that rest can feel more dangerous than exhaustion when your entire identity depends on being unbreakable.`,
   },
+  {
+    day: 143,
+    title: "The Anxiety Threshold",
+    date: "2026-08-28",
+    image: "images/habits-and-systems/day-143.jpg",
+    audio: "audio/habits-and-systems/day-143",
+    sonnet: `**🪶 Sonnet CXLIII: The Anxiety Threshold**
+
+The body trained to run knows only flight,
+And when you bid it rest, it starts to shake—
+For years of stress have taught it that the night
+Of peace portends the danger dawn will wake.
+Your cells have grown receptors for the storm,
+Expecting cortisol like daily bread;
+The chemistry of crisis feels like warm,
+While safety registers as cold and dead.
+You set a boundary, claim a morning's rest,
+And panic floods the space you've tried to clear—
+Not proof that stillness fails your every test,
+But evidence you're finally drawing near.
+*The threshold torment means you're breaking through—*
+*Your nervous system learning safe is true.*`,
+    standard: `🧘 Day 143: The Anxiety Threshold
+
+When rest triggers more anxiety than overload, it reveals that our nervous system has been running on stress chemistry so long that it's mistaken emergency mode for home. The discomfort we feel in boundaries and stillness isn't proof we're doing something wrong—it's proof we're finally doing something different, and our body is temporarily panicking at the unfamiliar sensation of safety.
+
+🧱 **The Concept**
+Our nervous systems can become so adapted to chronic activation that peace registers as danger, creating a temporary period where healing feels worse than the patterns that were harming us.
+
+❓ **Why It Matters**
+Most people abandon their recovery exactly when it's starting to work, mistaking the anxiety of nervous system recalibration for evidence that rest and boundaries are wrong for them. Understanding that initial discomfort is a predictable feature of nervous system reorganization—not a sign of incompatibility—can help us persist through the threshold where genuine healing becomes possible.
+
+⚙️ **How It Works**
+When we've operated in chronic stress for months or years, our bodies produce a continuous baseline of cortisol and adrenaline that begins to feel "normal"—our cells develop receptors expecting these chemicals, and our identity organizes around the story that we "work well under pressure." When we introduce actual rest or enforce genuine boundaries, this chemical baseline begins to shift, but our nervous system initially interprets the absence of familiar stress hormones as a threat itself, sometimes flooding us with anxiety to "restore" what it perceives as equilibrium. The sensation can be so intense—restlessness, guilt, existential dread during moments of peace—that we unconsciously sabotage our own recovery by creating new crises or abandoning the boundaries that triggered the discomfort. The threshold period typically lasts anywhere from a few days to several weeks, depending on how deeply entrenched the stress patterns were, and breaking through requires us to consciously tolerate the anxiety of unfamiliarity while our system gradually learns that safety isn't dangerous.
+
+🎯 **Systems Wisdom**
+The fact that rest makes you anxious doesn't mean you need less rest—it usually means you need more, sustained consistently enough that your nervous system can complete its recalibration beyond the initial panic of unfamiliarity.
+
+❓ **Tomorrow's Question** — If our nervous systems can complete their recalibration and learn to recognize safety as home rather than threat, what happens when we've successfully adapted to peace but then face a genuinely difficult situation—does our hard-won capacity for rest become a liability that's left us unable to access the activation we legitimately need?`,
+    parable: `Rook arrived at Cairn's workshop at dawn, trembling. The old stone-carver looked up from his chisel and said nothing, simply gestured to the bench beside him.
+
+"I can't," Rook said, his voice breaking. "I thought I was finally learning. I set boundaries. I said no to three projects. I blocked off mornings for rest. And now I feel like I'm dying."
+
+Cairn set down his tools with deliberate care. "Show me your hands."
+
+Rook extended them—shaking, restless, fingers drumming against each other unconsciously.
+
+"For ten years," Cairn said quietly, "you have run. Your body knows only the chemistry of flight. Now you ask it to sit still, and it panics. It thinks stillness is the danger."
+
+"So I was wrong to try," Rook said, already moving toward the door. "I'm not built for rest."
+
+"Sit," Cairn commanded, and something in his voice made Rook obey. "When I was young, I carved in fury. Fast, aggressive, trying to conquer the stone. My master made me stop. Made me sit with the marble for an entire day without touching it. I thought I would crawl out of my skin. The anxiety was unbearable. I was certain I was wasting my life."
+
+"What happened?"
+
+"On the second day, the shaking stopped. On the third day, I could breathe. On the fourth day, I picked up my chisel and carved differently. Slowly. The stone and I had made peace."
+
+Rook's hands were still trembling. "How long does it take?"
+
+"Different for everyone," Cairn said, returning to his work. "But always longer than you think you can bear. The threshold is exactly where most people turn back. They mistake the healing crisis for proof that healing is impossible."
+
+"What if I can't make it through?"
+
+Cairn smiled faintly. "You came here at dawn, shaking with anxiety instead of running to the next distraction. You're already through the hardest part—you stayed."
+
+Rook sat on the bench, hands trembling in his lap, watching Cairn work. The anxiety didn't disappear. But for the first time, he didn't run from it.
+
+**Moral**: The body that has known only emergency will mistake peace for danger—healing requires enduring the terrible discomfort of unfamiliar safety until the nervous system learns that home is not a threat.
+
+**Tomorrow**: Cairn teaches Rook what happens when you've finally learned to rest—and then life demands you remember how to run.`,
+  },
 ];

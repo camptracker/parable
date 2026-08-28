@@ -10090,4 +10090,100 @@ Nana Rose handed Dove the tomato, still warm from the sun. "Marriage is seasons 
 
 **Tomorrow:** *Dove discovers that the rehearsal for her wedding reveals something crucial about rehearsing for her marriage...*`,
   },
+  {
+    day: 146,
+    title: "The Sacred Rehearsal",
+    date: "2026-08-28",
+    image: "images/wedding-planning/day-146.jpg",
+    audio: "audio/wedding-planning/day-146",
+    sonnet: `**🪶 Sonnet CXLVI: The Sacred Rehearsal**
+
+Each task you share becomes a prophet's glass,
+Revealing futures etched in present deeds—
+The way you navigate what comes to pass
+Will shape the garden where tomorrow's seeds.
+
+In budget wars, financial truths are sown,
+In family storms, your boundaries take their stand,
+In moments when one partner feels alone,
+You learn if love extends a helping hand.
+
+For wedding planning is no simple test,
+But training ground for every trial ahead—
+The patience practiced now becomes your nest,
+The words you choose become the life you've led.
+
+*Each conversation is a sacred drill:*
+*The marriage that you practice, you fulfill.*`,
+    standard: `💍 Day 146: The Sacred Rehearsal
+
+If you discovered that your current wedding planning dynamic is rehearsing your future partnership, you'd need to shift from parallel task management to genuine collaboration—which means slowing down enough to discuss not just what needs doing but how each decision reflects your shared values, and creating space for both partners to contribute their perspectives even when it feels more efficient for one person to simply take charge. You'd need to practice asking "What do you think?" and actually waiting to hear the answer, rather than presenting solutions for approval. Most crucially, you'd need to treat moments of disagreement as opportunities to develop your conflict resolution skills rather than obstacles to check off your list.
+
+**🧱 The Concept**
+
+Your wedding planning process isn't just preparation for a single day—it's a 6-12 month intensive workshop in exactly the communication patterns, decision-making dynamics, and emotional habits that will define your marriage.
+
+**❓ Why It Matters**
+
+Most couples treat wedding planning as a temporary project with a deadline, not recognizing that they're engraving neural pathways for how they'll approach every shared challenge ahead. The couple who learns to plan a wedding as true partners—sharing vulnerability, navigating family pressure together, honoring each other's needs, and staying emotionally connected through stress—is literally training for the marriage they want. The couple who simply divides tasks, avoids difficult conversations, or lets one partner dominate decisions is rehearsing a very different future.
+
+**⚙️ How It Works**
+
+Every wedding planning challenge contains a marriage lesson in disguise. When you disagree about the budget, you're actually learning how you'll navigate financial values and scarcity. When you handle demanding family members, you're establishing the boundaries that will protect your marriage for decades. When one of you is overwhelmed and the other steps in, you're practicing the mutual support that will carry you through career stress, health crises, and parenting exhaustion. When you stay curious about why your partner cares deeply about something that seems minor to you, you're building the empathy that prevents contempt from calcifying. When you choose connection over efficiency—pausing a logistics discussion to actually hear your partner's fear or excitement—you're establishing that the relationship itself matters more than any outcome. The couples who emerge from wedding planning with their bond strengthened rather than strained are the ones who recognized they were in training, not just in coordination mode.
+
+**🎯 Wedding Wisdom**
+
+Your wedding planning process is a prophetic preview: the patterns you establish now—how you fight, repair, celebrate, support, and prioritize each other—are the patterns you'll carry into your marriage. Treat every planning conversation as practice for the partnership you actually want.
+
+**❓ Tomorrow's Question**
+
+If you discovered that the way you celebrate your partner's wins and mourn their losses during wedding planning would determine whether they feel truly seen by you throughout your marriage, what would need to change about your attention and presence during their emotional moments, and what does that reveal about the difference between being a cheerleader and being a witness?`,
+    parable: `Dove sat on the floor of her apartment, surrounded by vendor contracts, seating charts, and timeline spreadsheets that had begun to blur together. Elm found her there after work, her shoulders tight with that particular exhaustion that comes from trying to hold everything together alone.
+
+"I thought we were planning this together," he said gently, settling beside her.
+
+"We are," Dove replied automatically, then caught herself. "I mean... I guess I've been handling most of it because it's faster. You're busy with work, and I have all the details in my head, and it just seemed easier to—"
+
+"To do it alone," Elm finished. "Which is exactly what I did when we were looking for our apartment. Remember? You wanted to explore neighborhoods together, but I just sent you listings I'd already filtered. You said it made you feel like I was shopping for myself and you were just being consulted."
+
+Dove stilled. She remembered. She'd felt invisible in that process, decorative rather than essential.
+
+Nana Rose arrived for their weekly check-in to find them sitting in that recognition. She took in the scene with her knowing eyes—the divided labor, the efficient loneliness, the preview of a marriage neither of them actually wanted.
+
+"I've watched a thousand couples plan weddings," she said, lowering herself into the armchair with deliberate grace. "And I can predict with extraordinary accuracy which marriages will flourish and which will wither, based entirely on what I witness during these months."
+
+She gestured to Dove's carefully organized chaos. "The couples who treat this as project management—dividing tasks, maximizing efficiency, communicating through shared documents—they create perfectly executed weddings. And often, perfectly lonely marriages."
+
+"But the ones who treat these months as apprenticeship?" Nana Rose's face softened. "They slow down. They use every decision as an opportunity to understand each other more deeply. When they disagree about centerpieces, they get curious about the memory or value underneath the preference. When one is overwhelmed, the other doesn't just take over—they sit in the overwhelm together first, making sure their partner feels accompanied, not rescued."
+
+Elm reached for Dove's hand. "I think we've been rehearsing the wrong marriage."
+
+"Then it's not too late to change the rehearsal," Nana Rose said. "What if, instead of asking 'How can we get this done efficiently?' you asked 'How can we use this challenge to practice being the partners we want to become?'"
+
+Dove looked at her meticulously organized spreadsheets, and then at Elm—the person she'd chosen to build a life with, who she'd been treating like a helpful colleague.
+
+"I think," she said slowly, "that I need to practice actually sharing control. Not just consulting you, but genuinely making space for your voice to shape what we're creating."
+
+"And I think," Elm added, "that I need to practice staying engaged even when I'm tired, because that's what the hard seasons of marriage will require. Not just showing up for the decisions I care about, but showing up because you need me present."
+
+Nana Rose nodded. "Every conversation you have about table linens is actually a conversation about how you'll handle your future child's education. Every moment you choose connection over efficiency is a deposit in the intimacy account you'll need to draw from when life gets difficult. You're not just planning a wedding. You're engraving the habits that will define your marriage."
+
+"So what do we do?" Dove asked.
+
+"Start treating these months like sacred practice," Nana Rose replied. "When stress makes you want to divide and conquer, pause and collaborate instead. When you disagree, get curious. When one of you is struggling, accompany each other before problem-solving. Learn to fight well now, because you'll need that skill for decades. Learn to repair quickly now, because resentment compounds. Learn to stay tender under pressure now, because life will provide endless pressure."
+
+She stood to leave, then turned back. "The wedding day will be a mirror, showing you exactly who you've become to each other during these months. Make sure you like what you see."
+
+After she left, Dove and Elm sat together in the gentle evening light, not rushing to fix anything, just practicing presence.
+
+"I don't want a perfect wedding," Dove finally said. "I want to be someone who knows how to be married to you."
+
+"Then let's treat every day between now and then as training for that," Elm replied.
+
+And in choosing partnership over efficiency, presence over productivity, they began rehearsing the marriage they actually wanted to live.
+
+**Moral:** *Your wedding planning is not a task to complete but a transformation to undergo—every challenge you face together is training for the marriage you're about to enter, and the habits you establish now will echo through decades.*
+
+**Tomorrow:** Nana Rose will reveal how the way you witness each other's emotions during planning determines whether your partner will feel truly seen throughout your marriage.`,
+  },
 ];
