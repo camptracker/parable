@@ -6565,4 +6565,76 @@ Hana felt tears rising and tried to blink them back.
 
 **Tomorrow**: *Elder Thorn reveals why choosing sensitivity over safety might be the most radical act of courage in a world that values comfort above all else.*`,
   },
+  {
+    day: 94,
+    title: "The Grateful Rupture",
+    date: "2026-08-29",
+    image: "images/gratitude/day-94.jpg",
+    audio: "audio/gratitude/day-94",
+    sonnet: `**🪶 Sonnet XCIV: The Grateful Rupture**
+
+The wall I broke lies scattered at your feet,
+Each stone a testament to careless hands,
+And in my shame I turned away, complete
+In my retreat from facing what unmanned.
+
+But you spoke truth: the wall can be rebuilt,
+While trust destroyed by silence dies unseen—
+You thanked me not for absence born of guilt
+But for returning to the space between.
+
+For love that never ruptures never knows
+The strength that comes from weathering the storm,
+And gratitude that through the fracture grows
+Outlasts the fragile peace that fears the swarm.
+
+*The deepest bonds are forged in repair's flame,*
+*Where "thank you for staying" heals the shame.*`,
+    standard: `🙏 Day 94: The Grateful Rupture
+
+🧱 **The Concept**
+True intimacy requires the capacity to rupture and repair—to disappoint, hurt, or fail someone and then restore connection through authentic accountability and gratitude for their willingness to stay.
+
+❓ **Why It Matters**
+Most people avoid conflict or rupture because they believe it threatens relationships, when in reality, the ability to navigate repair with gratitude for the other person's continued presence creates deeper trust than perfection ever could. Relationships that never rupture never develop the resilience that comes from weathering storms together. The gratitude expressed after working through difficulty—thank you for staying, for telling me the truth, for giving me another chance—becomes the foundation of mature love.
+
+⚙️ **How It Works**
+When you hurt someone and they tell you, their vulnerability is a gift—they're trusting you with their pain rather than silently withdrawing. **Grateful rupture repair** means acknowledging the specific harm you caused, taking responsibility without defensiveness, and expressing genuine appreciation for their courage in staying present through discomfort. For example, instead of saying "I'm sorry you felt hurt," you might say "I spoke harshly when you were already feeling vulnerable, and I'm grateful you're telling me this hurts rather than pretending it doesn't matter." This gratitude for their honesty transforms conflict from relationship-ending threat into relationship-deepening opportunity. The strongest bonds are forged not in the absence of rupture but in the presence of repairs made with humility and appreciation.
+
+🎯 **Gratitude Wisdom**
+The relationships that survive your worst moments teach you that your worthiness doesn't depend on perfection—this is the grateful rupture's greatest gift.
+
+❓ **Tomorrow's Question** — If rupture and repair create deeper intimacy than avoiding conflict ever could, why do we often feel more afraid of admitting we've hurt someone than we are of slowly destroying the relationship through accumulated unspoken resentments, and what does this fear reveal about whether we're protecting the relationship or protecting our image of ourselves as someone who never causes harm?`,
+    parable: `Hana found Elder Thorn sitting by the garden wall she had knocked over three days ago. The stones still lay scattered. Her cheeks burned with shame.
+
+"I've been avoiding you," she whispered. "I was careless. I broke what you built."
+
+Elder Thorn picked up a stone, turning it slowly. "Yes. And in your avoidance, you broke something else—the trust that you would tell me the truth when you fail."
+
+The words landed like a second collapse. Hana's throat tightened. "I'm sorry I damaged your wall."
+
+"Look at me, child."
+
+Hana lifted her eyes. Elder Thorn's face held no anger, only steady presence.
+
+"I'm grateful you're here now," the elder said quietly. "I'm grateful you came back instead of running further. That matters more than stones."
+
+Hana's breath caught. "But I ruined—"
+
+"You made a mistake. And when I told you it hurt to see my work undone, you heard me instead of defending yourself. Do you know how rare that is?" Elder Thorn set down the stone. "Most people would rather protect their image of being careful than repair the actual harm they caused."
+
+"I don't understand," Hana said. "How can you be grateful? I disappointed you."
+
+"Yes. And you stayed present with that disappointment instead of disappearing into shame. You let me be honest about my hurt. That's the hardest gift to give someone—staying when you've caused pain." Elder Thorn smiled softly. "The wall I can rebuild in an afternoon. But trust that survives rupture? That takes both of us, and it's stronger than any wall."
+
+Hana knelt, picking up a stone. "Will you teach me how to rebuild it? Properly this time?"
+
+"I will. And Hana?" Elder Thorn placed a weathered hand over hers. "Thank you for coming back. That's the moment that matters most."
+
+As they worked together, Hana realized the wall they were building was different from the one that fell—made stronger by the mortar of honest words and grateful repair.
+
+**The Moral**: *The relationships that survive your failures teach you that love doesn't require perfection—it requires the courage to return and repair with gratitude for being allowed to try again.*
+
+**Tomorrow**: *What happens when the person you've hurt isn't ready to repair, and gratitude must exist in the space of uncertainty without guarantees?*`,
+  },
 ];

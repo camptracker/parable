@@ -6215,4 +6215,126 @@ Behind them, the morning glories continued their slow daily closing, having done
 
 **Tomorrow:** *But what if staying present to their rage means they never learn that their behavior affects others? Elder Mira will reveal why our fear of this outcome actually creates the very thing we're afraid of.*`,
   },
+  {
+    day: 85,
+    title: "The Wound of Being Unwelcome",
+    date: "2026-08-29",
+    image: "images/raising-kids/day-85.jpg",
+    audio: "audio/raising-kids/day-85",
+    sonnet: `**🪶 Sonnet LXXXV: The Wound of Being Unwelcome**
+
+When rage or disappointment finds its voice,
+And small fists push away the offered hand,
+We claim we want our children's honest choice—
+Yet flee when their rejection makes its stand.
+
+Our wounded exit teaches them to hide
+The parts of truth that threaten our repose,
+To sacrifice their anger, swallow pride,
+And wear the mask of peace that love requires, we suppose.
+
+But what if we could hold them in their storm,
+Neither collapse nor strike when they refuse,
+Remain both solid, present, calm and warm,
+Absorbing all the feelings they accuse?
+
+*Then they would learn what love can truly bear:*
+*That all of who they are is welcome there.*`,
+    standard: `👶 Day 85: The Wound of Being Unwelcome
+
+Our inability to welcome our children's difficult emotions reveals a profound truth: we say we want authenticity, but we've been unconsciously conditioned to equate love with agreement and closeness with comfort. When our child's anger or disappointment triggers our own shame, abandonment fears, or internalized messages that "good children don't get angry at their parents," we're not responding to our actual child in this moment—we're reacting from our own childhood wound of having our difficult feelings be too much for the adults who raised us. What we truly prefer, beneath our stated ideals, is often the reassurance that we're good parents, which our child's compliance provides but their authentic anger threatens.
+
+🧱 **The Concept**
+
+Children learn whether their full emotional range is acceptable not from what we say about feelings, but from whether we can remain emotionally available when their feelings are directed at us.
+
+❓ **Why It Matters**
+
+If a child learns that their anger, disappointment, or frustration makes their parent withdraw love or become fragile, they face an impossible choice: be authentic and risk losing connection, or perform pleasantness to maintain the relationship. This is how we accidentally train children to abandon themselves in order to take care of our emotional needs—the precise dynamic we claim to want to protect them from in their future relationships.
+
+⚙️ **How It Works**
+
+When your seven-year-old screams "I hate you!" after you've set a boundary, your nervous system likely activates with some combination of hurt, rage, or the impulse to teach them that such language is unacceptable. But beneath their words is a child experiencing powerlessness and testing whether you can hold steady when they're at their worst—whether your love is conditional on their agreeability. The parent who responds with "I hear you're really angry with me right now, and I can handle your anger" offers something radically different than the parent who says "We don't talk like that in this family" or walks away wounded. One response teaches the child that all of them is welcome; the other teaches them that certain parts must be hidden to maintain connection. When your teenager says "You don't understand anything about me" with contempt in their voice, your instinct might be to defend yourself, explain all the ways you do understand, or feel devastated by their rejection. But what if their developmental task is to differentiate from you, and they need to experience that they can push against you without destroying you or losing you? Your capacity to stay present without collapsing or retaliating teaches them that intimate relationships can withstand conflict and that they don't have to manage other people's emotions at the expense of their own truth.
+
+🎯 **Parenting Wisdom**
+
+The greatest gift we can give our children is the experience that they cannot overwhelm us with their emotions, damage us with their anger, or lose us through their authentic expression—because this is what teaches them that all of who they are is fundamentally acceptable.
+
+❓ **Tomorrow's Question**
+
+If we recognize that our children's most challenging behaviors often emerge when they're experiencing feelings too large for their developmental capacity to name or process, why do we instinctively treat the behavior as the problem to be corrected rather than as a communication about an underlying need, and what does our focus on eliminating the symptom rather than understanding the signal reveal about whether we believe difficult feelings are legitimate experiences or merely obstacles to manage?`,
+    parable: `Asha found Elder Mira sitting in the garden while Asha's daughter Leela, now four, played in the dirt nearby. Asha's face was tight with distress.
+
+"She told me she didn't want me," Asha said quietly, her voice breaking. "I tried to help her with her puzzle and she pushed my hand away and said 'I want Baba, not you. You're no help.'" Asha's eyes filled with tears. "After everything I do for her. After I've rearranged my whole life around her needs."
+
+Elder Mira was silent for a long moment, watching Leela dig with fierce concentration.
+
+"And what did you do?" the elder asked.
+
+Asha looked away. "I left the room. I couldn't... I just needed a moment."
+
+"To feel your hurt," Mira said gently.
+
+"Yes."
+
+"And what did Leela learn in that moment about what happens when she expresses a preference that excludes you?"
+
+Asha's throat tightened. "That it hurt me. That her rejection made me leave."
+
+"She learned," Mira said slowly, "that her authentic feeling—in this case, a simple preference for her other parent in a moment of frustration—had the power to wound you so deeply that you withdrew. She learned that your presence is conditional on her wanting you."
+
+The words landed like stones. "But I didn't yell at her," Asha protested. "I just needed space."
+
+"I understand," Mira said. "Your hurt is real. You are allowed your feelings. But we must ask: whose need was being met when you left? Were you giving yourself space to regulate so you could return and stay present with her rejection, or were you—perhaps unconsciously—showing her the consequence of hurting you?"
+
+Asha sat with the question, feeling the truth of it in her body. "I wanted her to know she'd hurt me."
+
+"Yes," Mira said. "And this is human. But consider what you're teaching. When you were a child and you expressed anger or disappointment toward your mother, what happened?"
+
+Asha felt the memory rise immediately: her mother's wounded silence, the cold withdrawal, the days of careful repair work to win back her mother's warmth. "She would get quiet. Hurt. And I would feel terrible and have to make it right."
+
+"And so you learned?"
+
+"That my anger was too much. That I was responsible for her feelings. That love was something I could lose if I wasn't... careful."
+
+Mira nodded. "And now Leela is learning the same lesson, yes? That her authentic emotions—even simple preferences—have the power to hurt the people she loves, and that she must manage her truth to protect her parent's feelings."
+
+Asha felt something crack open in her chest. "But what was I supposed to do? Just stand there while she rejected me?"
+
+"Perhaps," Mira said, "you might have said: 'You want Baba right now. I understand. I'll be here if you change your mind.' And then stayed near—not forcing your help, but demonstrating that her preference didn't damage you, didn't send you away, didn't make your love conditional."
+
+"But I was hurt," Asha whispered.
+
+"Yes," Mira acknowledged. "And that hurt is yours to tend to—not hers to fix. Your work is to understand why a four-year-old's moment of preference felt like such a devastating rejection that you had to leave. What wound in you did she touch?"
+
+Asha closed her eyes. "The belief that if I'm not needed, I'm not valued. That if I'm not helping, I'm not worthy of love."
+
+"Yes," Mira said softly. "And until you heal that wound, you will continue to require Leela's constant reassurance that you are good and wanted and valuable. You will train her to perform appreciation even when she's frustrated. You will teach her that her authentic emotions are dangerous to the people she loves."
+
+Asha watched Leela digging, oblivious to the teaching moment she'd created. "So the work is mine."
+
+"The work is always ours," Mira said. "We say we want children who are emotionally honest, who can set boundaries, who don't abandon themselves to please others. But then we unconsciously punish them—with our hurt, our withdrawal, our defensiveness—when they practice those very skills with us. We prefer, if we're honest, their compliance dressed up as affection. We prefer their performance of appreciation. Because their authentic rejection touches the place in us that still believes we must be needed to be loved."
+
+"How do I change this?" Asha asked.
+
+Mira smiled. "You notice it. You feel your hurt when it comes, and instead of making it her problem to solve, you get curious about it. You practice staying when your instinct is to leave. You learn to say 'You're upset with me right now, and that's okay' even when your whole body wants to either fight or flee. You demonstrate, again and again, that she cannot overwhelm you, damage you, or lose you through her honest feelings. And slowly, you heal the part of you that learned the opposite."
+
+Asha sat with this, feeling the weight and the possibility of it.
+
+"The bitter irony," Mira added quietly, "is that the child who learns their difficult feelings are welcome doesn't need to amplify them to be heard. The child who learns they cannot push their parent away stops pushing so hard. The very acceptance we're afraid to offer creates the security that makes the behavior unnecessary."
+
+Leela looked up from her digging. "Mama, look!" she called, her earlier frustration forgotten, holding up a worm with delight.
+
+Asha felt the impulse to go to her, and beneath it, the familiar need for this moment of wanting to repair the earlier rejection. She took a breath.
+
+"I see it, my love!" she called back, staying where she was. "What a good finder you are."
+
+Leela grinned and returned to her work, satisfied.
+
+Mira touched Asha's hand. "You see? She didn't need you to rush over. She needed to know you were still there, still warm, still available—unchanged by her earlier preference. That is the teaching."
+
+**Moral:** The child who learns that all of their emotions are welcome—even the ones directed at us—learns that they are fundamentally acceptable, and this security becomes the foundation for every honest relationship they will ever have.
+
+**Tomorrow:** Elder Mira helps Asha understand why her instinct to correct Leela's behavior might be missing the deeper communication beneath it.`,
+  },
 ];

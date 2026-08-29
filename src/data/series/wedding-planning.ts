@@ -10186,4 +10186,90 @@ And in choosing partnership over efficiency, presence over productivity, they be
 
 **Tomorrow:** Nana Rose will reveal how the way you witness each other's emotions during planning determines whether your partner will feel truly seen throughout your marriage.`,
   },
+  {
+    day: 147,
+    title: "The Sacred Calibration",
+    date: "2026-08-29",
+    image: "images/wedding-planning/day-147.jpg",
+    audio: "audio/wedding-planning/day-147",
+    sonnet: `**🪶 Sonnet CXLVII: The Sacred Calibration**
+
+When every voice but yours commands your way,
+And others' compass guides your wedding choice,
+You practice letting strangers have their say
+Above the wisdom of your inner voice.
+
+Each flower picked to please another's eyes,
+Each detail chosen just to look the part,
+You calibrate to fear of their demise
+Of judgment, not the magnet of your heart.
+
+But pause and ask: What moves us deep inside?
+What makes us smile when no one else can see?
+That quiet knowing—there your truth resides,
+The only compass for what's meant to be.
+
+*For marriage needs two people who can tell*
+*The difference 'tween their truth and what sells well.*`,
+    standard: `💍 Day 147: The Sacred Calibration
+
+🧱 **The Concept**
+The final weeks before your wedding are your last opportunity to calibrate the emotional compass you'll carry into marriage—to identify what genuinely matters to you both versus what you've been conditioned to value.
+
+❓ **Why It Matters**
+Without this calibration, you'll enter marriage operating on autopilot, making thousands of daily decisions based on inherited beliefs, cultural programming, or reactive patterns rather than your own discerned values. The wedding planning process has been teaching you which voices you listen to most loudly (your own intuition, your partner's needs, family expectations, social media aesthetics, or cultural scripts), and that hierarchy of voices will determine every significant choice in your marriage.
+
+⚙️ **How It Works**
+Calibration requires intentional stillness and ruthless honesty about your motivations. When you feel stress about a wedding decision, pause and ask: "Am I anxious because this actually matters to us, or because I'm imagining someone else's judgment?" Notice which external voices have the most power to make you doubt your own instincts—that's the voice that will sabotage your marriage whenever you face a decision that matters. If you're spending more emotional energy worrying about whether your centerpieces are impressive than whether your vows are true, your compass is miscalibrated. If you care more about your guests' experience than your own presence, your compass is miscalibrated. If you're planning a wedding to prove something to people who doubted your relationship, your compass is miscalibrated. These final weeks are your chance to notice these distortions and reset your internal navigation system so that your marriage begins oriented toward true north—the values you actually share, the life you genuinely want to build, the love you're honestly capable of sustaining.
+
+🎯 **Wedding Wisdom**
+The compass you bring to the altar becomes the compass you use to navigate your entire marriage—make sure it points toward what you actually value, not what you've been taught to want.
+
+❓ **Tomorrow's Question** — If you discovered that the single most important preparation for marriage isn't perfecting your wedding details but rather developing the specific emotional capacity that will be required most frequently in your daily life together, which capacity would you need to cultivate most urgently, and what does that reveal about the gap between the person you are now and the partner you need to become?`,
+    parable: `The Sacred Calibration
+
+Three days before the wedding, Dove found herself weeping in the florist's shop, unable to decide between peonies and garden roses. Elm sat beside her, bewildered by the intensity of her distress over flowers.
+
+"I don't understand what I'm even choosing anymore," Dove whispered. "I thought I wanted peonies, but then my mother said roses are more classic, and the wedding blogger I follow said peonies photograph better, and now I can't remember what I actually like."
+
+Nana Rose, who had been quietly rearranging stems in the corner, approached with a single wildflower—something nameless and imperfect, plucked from the roadside on her walk that morning.
+
+"Hold this," she said, pressing it into Dove's palm. "Now close your eyes. Does it make you smile?"
+
+Dove closed her eyes, felt the delicate stem between her fingers, and found herself smiling despite her tears. "Yes. It reminds me of the field where Elm proposed. We were surrounded by wildflowers like this."
+
+"Then your compass still works," Nana Rose said gently. "You've just been asking it to navigate by everyone else's north star instead of your own."
+
+Elm reached for Dove's other hand. "We've been doing that with everything, haven't we? The venue, the menu, the music—we kept asking what people would expect instead of what would make us feel most like ourselves."
+
+"The wedding planning has been showing you which voices you've given authority over your own knowing," Nana Rose explained. "Your mother's voice. The culture's voice. The voice of comparison and competition. And here's what matters: whichever voice dominates your wedding decisions will dominate your marriage decisions. If you can't trust your own compass to choose flowers, how will you trust it to choose where to live, how to spend money, whether to have children, how to handle conflict?"
+
+Dove opened her eyes, looking at the simple wildflower. "So this isn't really about flowers at all."
+
+"Nothing about wedding planning is really about what it appears to be about," Nana Rose smiled. "Every choice is practice for married life. Every moment you defer to external validation is a moment you're training yourself to abandon your own truth. And every moment you pause, get quiet, and ask 'What do we actually want?'—that's a moment you're calibrating your compass."
+
+Elm squeezed Dove's hand. "What do we actually want?"
+
+Dove looked at the wildflower, then at her beloved's face, and felt something settle in her chest—a kind of internal alignment she hadn't experienced in months of planning.
+
+"I want to walk down an aisle lined with wildflowers like the ones in the field where you proposed," she said slowly, testing each word for truth. "I want to marry you surrounded by the same kind of beauty that witnessed our beginning. I don't care if wildflowers aren't elegant enough for my mother or Instagram-worthy enough for my feed. This is true, and everything else is just noise."
+
+Nana Rose nodded. "Now you're calibrated. Hold onto this feeling—this clarity that comes from filtering out all the external voices and listening only to what resonates in your combined hearts. This is your north star. Everything you need to know about how to be married is contained in that internal alignment."
+
+"But what about all the other decisions we've already made?" Elm asked. "What if we've been following the wrong compass this whole time?"
+
+"Then you recalibrate," Nana Rose said simply. "It's not too late to change what can be changed. And for what can't be changed, you practice coming back to your true north despite the circumstances. The wedding will unfold however it unfolds, but your marriage depends on whether you've learned to distinguish between your authentic voice and all the voices you've internalized that aren't yours."
+
+Dove pressed the wildflower to her heart. "How do we keep the compass calibrated? After the wedding, when life gets complicated and everyone has opinions about how we should live?"
+
+"The same way you're doing now," Nana Rose answered. "You pause. You get quiet. You ask each other: 'What do we actually want? What actually matters to us? What feels true?' And you trust that internal navigation system more than any external authority, no matter how loud or insistent it becomes."
+
+As they left the florist with an order for wildflowers that made Dove's heart sing, Elm whispered, "This is what we should have been doing all along, isn't it? Calibrating to each other instead of to everyone else."
+
+"We're doing it now," Dove replied. "And we'll keep doing it for the rest of our lives. That's what marriage is—constantly recalibrating to what's true between us, regardless of what the world thinks we should be."
+
+**Moral**: The compass you trust during wedding planning is the compass you'll trust during marriage—make sure it points toward your shared truth rather than external expectations.
+
+**Tomorrow**: Nana Rose will reveal the single most important emotional capacity that newlyweds need but rarely develop before the wedding.`,
+  },
 ];
