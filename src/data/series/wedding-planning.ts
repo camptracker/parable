@@ -10358,4 +10358,94 @@ Dove reached for Elm's hand. "So every time we practice this, we're preparing fo
 
 **Tomorrow**: *But what if the very thing that makes your partner feel safe triggers your deepest anxiety, and the comfort you need most makes them feel trapped? Nana Rose reveals why learning your partner's specific language of safety changes everything...*`,
   },
+  {
+    day: 149,
+    title: "The Sacred Discernment",
+    date: "2026-10-10",
+    image: "images/wedding-planning/day-149.jpg",
+    audio: "audio/wedding-planning/day-149",
+    sonnet: `**🪶 Sonnet CXLIX: The Sacred Discernment**
+
+A thousand voices cry what you should do,
+Each certain that their path alone is right,
+Yet none of them will live your vows but you—
+So why do borrowed maps direct your flight?
+
+The mother speaks from fear of reputation,
+The friend projects regrets she hasn't healed,
+The vendor sells with practiced adulation,
+While your own knowing waits, as yet unsealed.
+
+To filter wisdom from the noise requires
+Three questions posed to every guiding word:
+Does this reflect our truth or their desires?
+Is this love speaking, or a wound unheard?
+
+*The clearest counsel asks no thing of you—*
+*But helps you hear the compass you already knew.*`,
+    standard: `💍 Day 149: The Sacred Discernment
+
+🧱 **The Concept**
+The ability to distinguish between guidance that serves your marriage and advice that serves someone else's agenda is perhaps the most crucial skill you'll need in these final days before your wedding.
+
+❓ **Why It Matters**
+You are being bombarded with opinions, traditions, expectations, and "shoulds" from every direction—family members insisting on customs, vendors pushing upgrades, friends offering cautionary tales from their own experiences. Without discernment, you risk building a wedding (and starting a marriage) based on other people's values rather than your own. The voices grow loudest when the stakes feel highest, and distinguishing between wisdom and noise becomes an act of self-preservation.
+
+⚙️ **How It Works**
+True discernment asks three questions of every piece of advice: Does this align with who we actually are (not who we think we should be)? Does this serve our marriage or someone else's comfort? Does this come from love or from fear? When your mother insists you must have a receiving line because "that's how it's done," discernment asks whether she's offering wisdom about hospitality or managing her own anxiety about appearances. When a friend warns you that skipping certain traditions will lead to regret, discernment asks whether they're protecting you or projecting their own unfulfilled desires onto your choices. When a vendor suggests an expensive addition "that all couples choose," discernment asks whether this serves your celebration or their commission. The practice is simple but not easy: pause before accepting any guidance, feel into whether it creates expansion or contraction in your body, and honor the difference between advice that illuminates your path and advice that tries to redirect it.
+
+🎯 **Wedding Wisdom**
+The most valuable guidance you'll receive won't tell you what to do—it will help you hear your own knowing more clearly.
+
+❓ **Tomorrow's Question** — If you discovered that your gut feeling about a wedding decision has been trying to tell you something important but you've been overriding it with logic, politeness, or the desire to please others, what decision would you need to revisit, and what does that reveal about whether you trust your inner compass more or other people's confidence more?`,
+    parable: `Dove sat at Nana Rose's kitchen table, surrounded by notebooks, vendor contracts, and three different lists her mother, future mother-in-law, and maid of honor had compiled. Each list contained "essential" items the wedding supposedly couldn't live without.
+
+"I don't know whose voice is whose anymore," Dove confessed, her head in her hands. "Every conversation leaves me more confused. My mother says we absolutely need escort cards. Elm's mother insists on a champagne tower. My best friend keeps warning me I'll regret not having a videographer. And yesterday, our florist suggested we'd be 'settling' if we didn't upgrade to garden roses."
+
+Nana Rose poured tea with the unhurried grace of someone who had witnessed this crisis a thousand times. "Tell me, child—when you close your eyes and imagine your wedding day, do any of these things appear?"
+
+Dove closed her eyes obediently. After a long moment, she opened them with tears streaming down her face. "No. I see Elm's face. I see our closest friends in a circle around us. I see evening light through trees. That's all."
+
+"Then you already have your answer," Nana Rose said gently. "The question is whether you trust it."
+
+"But what if they're right?" Dove whispered. "What if I regret not listening?"
+
+Elm, who had been quietly listening from the doorway, crossed to sit beside her. "Love, do you remember when we were deciding whether to move in together? Your mother thought it was too soon. My father thought we should wait until marriage. Your therapist suggested it might be premature. But you knew. You said you could feel it in your bones that it was right."
+
+Dove nodded, remembering.
+
+"Were you wrong?" Elm asked.
+
+A small smile broke through her tears. "No. It was the best decision we ever made."
+
+Nana Rose leaned forward. "Let me tell you something about advice, dear ones. People give it for three reasons: genuine wisdom born from experience, unprocessed fear they're trying to prevent you from experiencing, or unfulfilled desires they're trying to live through you. The challenge is learning to tell which is which."
+
+She pulled out a single piece of paper and drew three columns. "Every piece of advice you receive, filter it through these questions. First: Does this align with who we actually are, or who someone thinks we should be? Second: Does this serve our marriage, or someone else's comfort? Third: Does this come from love, or from fear?"
+
+Dove looked at her mother's list through this new lens. The escort cards—her mother's anxiety about organization and control. The champagne tower—Elm's mother's desire for a certain level of elegance that would reflect well on their family. The videographer—her friend's actual regret from her own wedding.
+
+"They're all trying to help," Dove said slowly. "But they're helping based on their own experiences, not ours."
+
+"Exactly," Nana Rose confirmed. "And here's what most people never learn: the most valuable guidance won't tell you what to do. It will help you hear your own knowing more clearly."
+
+Elm reached for the paper and took the pen. "So when someone offers advice, we don't have to accept or reject it immediately. We can thank them, filter it through these questions, and then decide."
+
+"You're learning discernment," Nana Rose said with satisfaction. "It's the skill that will serve you far beyond this wedding. Because marriage itself will come with endless advice—how to fight, how to raise children, how to manage money, how to balance work and intimacy. Everyone will have an opinion. But only you two will have to live with your choices."
+
+Dove picked up the three lists and held them for a moment, feeling their weight. Then she set them aside and pulled out a fresh sheet of paper. At the top, she wrote: *What we actually want.*
+
+The first thing she wrote: *Evening light through trees.*
+
+Elm added: *Our closest friends in a circle.*
+
+They looked at each other, and suddenly the complexity that had been drowning them simplified into crystal clarity.
+
+"Everything else," Dove said, "is just noise we've been mistaking for signal."
+
+Nana Rose raised her teacup in salute. "Now you're ready to plan not just a wedding, but a marriage. Because the practice you're learning right now—discerning true guidance from projected fear—is the same practice that will keep your partnership clear and true for the next fifty years."
+
+**Moral**: *The loudest voices are rarely the wisest ones, and the counsel that changes your direction is often more dangerous than the silence that lets you find your own way.*
+
+**Tomorrow**: *What happens when your inner compass points toward a decision that might disappoint someone you love, and you must choose between authentic integrity and comfortable compliance?*`,
+  },
 ];
