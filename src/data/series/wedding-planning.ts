@@ -10448,4 +10448,86 @@ Nana Rose raised her teacup in salute. "Now you're ready to plan not just a wedd
 
 **Tomorrow**: *What happens when your inner compass points toward a decision that might disappoint someone you love, and you must choose between authentic integrity and comfortable compliance?*`,
   },
+  {
+    day: 150,
+    title: "The Sacred Threshold",
+    date: "2026-10-11",
+    image: "images/wedding-planning/day-150.jpg",
+    audio: "audio/wedding-planning/day-150",
+    sonnet: `**🪶 Sonnet CL: The Sacred Threshold**
+
+Before the vows, a portal opens wide,
+Where who you've been must liquefy and change,
+Not lost, but shed—like snake must shed its hide—
+To cross requires you choose what to arrange.
+
+The baggage of your solitary years,
+The armor that protected your alone,
+The patterns learned from others' married tears—
+All these you name, release, or claim as own.
+
+This week is not for napkins and for chairs,
+But composting what you've outgrown inside,
+Transforming all your independent airs
+To soil where interdependence can abide.
+
+*The threshold asks: what will you carry through?*
+*Each answer births the marriage waiting true.*`,
+    standard: `💍 Day 150: The Sacred Threshold
+
+If you've been overriding your gut feeling about a wedding decision, that persistent unease is likely signaling a misalignment between your authentic desires and your fear of disappointing others. The decision you need to revisit is probably the one that makes you feel most apologetic when you imagine changing it—and that apologetic feeling reveals that you've been trusting other people's certainty about what your wedding should be more than your own clarity about what your marriage needs to begin with. This pattern of self-abandonment in favor of external validation is precisely what you're being asked to dissolve before you cross the threshold into marriage.
+
+🧱 **The Concept**
+
+The days immediately before your wedding are not simply a countdown to an event—they are a sacred threshold where you're invited to consciously complete who you've been and intentionally step into who you're becoming.
+
+❓ **Why It Matters**
+
+Most couples treat the final week before their wedding as a logistical sprint, managing details and managing stress. But this liminal space is actually the most spiritually significant period of your entire engagement—it's when you have one last opportunity to shed the identities, fears, and patterns that have brought you this far but would limit the marriage you're about to enter. What you carry across the threshold determines what kind of marriage you'll build on the other side.
+
+⚙️ **How It Works**
+
+A threshold is a place of transformation, not transition. It's where the caterpillar liquefies before becoming a butterfly—a complete dissolution of old form before new form emerges. In these final days, you're being invited to consciously release specific aspects of your single identity (the self-reliance that protected you, the independence that defined you, the wounds that shaped you) while simultaneously gathering the qualities you'll need as a married person (interdependence, vulnerability, mature devotion). This isn't about losing yourself—it's about composting everything you've outgrown so it can nourish what you're becoming. The couple who treats this week as mere preparation for a party misses the initiation entirely. The couple who recognizes they're standing in a portal between two lives understands that every choice they make now is either bringing old limitations forward or leaving them behind. **For example:** Instead of just confirming vendor details, you might spend an evening naming what fears about commitment you're ready to release. Instead of just rehearsing your ceremony logistics, you might create a private ritual where you each speak aloud the parts of your independent identity you're grateful for and ready to transform.
+
+🎯 **Wedding Wisdom**
+
+The threshold before your wedding isn't asking you to become someone else—it's inviting you to become so completely yourself that you're finally ready to share that self fully with another human being for the rest of your life.
+
+❓ **Tomorrow's Question**
+
+If you discovered that the primary spiritual work of marriage isn't learning to love your partner perfectly but rather learning to remain loving even when you feel completely unloving (exhausted, resentful, disappointed, or disconnected), what specific practice would you need to establish now to ensure that your commitment outlasts your feelings, and what does that reveal about the difference between emotional marriage and volitional marriage?`,
+    parable: `The morning had arrived with a quality of light that seemed different from all other mornings—not brighter, but somehow more consequential, as though the sun itself knew that Dove stood at the edge of something irreversible.
+
+She found Nana Rose in the garden at dawn, tending roses that wouldn't bloom in time for the wedding. The old woman's hands moved with unhurried certainty, pruning what needed to be cut away.
+
+"I thought you'd be here," Nana Rose said without looking up. "The almost-married always wake early on the threshold days. The soul knows something significant is happening, even when the mind is busy with seating charts."
+
+Dove sat on the stone bench, still in her nightgown. "I keep having this feeling that I'm supposed to be... I don't know... different somehow? Like I should transform into someone who knows exactly how to be married before I actually get married. But I'm just still me. Still messy and uncertain and—"
+
+"Still dragging all your familiar baggage toward the altar?" Nana Rose smiled, setting down her shears. "Good. That means you're paying attention."
+
+"Good? I thought I was supposed to have figured everything out by now."
+
+Nana Rose gestured to the roses. "See these? I'm cutting away the dead wood, the diseased branches, everything that would drain the plant's energy from producing new blooms. But I'm not changing what kind of rose this is. I'm helping it become more fully itself."
+
+She sat beside Dove, her weathered hands folded in her lap. "The threshold before marriage isn't about becoming a different person. It's about consciously choosing what you carry forward and what you leave behind. Every bride, every groom, every person approaching the altar stands in this same portal. You can walk through it unconsciously, bringing all your old fears and patterns with you, or you can pause here and ask: What am I ready to release? What do I need to strengthen? Who am I becoming?"
+
+Elm appeared in the garden doorway, two cups of coffee in his hands. He'd clearly been awake for hours too. As he approached, Nana Rose studied them both with the particular attention of someone reading a sacred text.
+
+"You're both doing it," she said softly. "Standing on the threshold, feeling the weight of what's about to change. This is the real wedding preparation—not the flowers or the cake, but this internal work of completion and becoming."
+
+Elm handed Dove her coffee, their fingers touching in the exchange. "I keep thinking about my father," he said quietly. "How he was married but never really *in* the marriage. Just... adjacent to it. And I'm afraid I learned how to be adjacent too."
+
+"And that's exactly what you name before you cross the threshold," Nana Rose said. "The inherited patterns you're choosing not to carry forward. The fears you're ready to compost. The qualities you need to cultivate." She stood, brushing soil from her skirt. "You have these remaining days to do the work of conscious transformation. Don't waste them on table arrangements alone."
+
+Dove and Elm sat together as the sun rose higher, the coffee growing cold between them, speaking aloud the things they'd each been carrying silently. Old wounds they were ready to stop protecting. Defenses they were ready to lower. Ways of being independent they needed to transform into ways of being interdependent.
+
+It wasn't comfortable. It wasn't romantic. But it was sacred.
+
+By the time they rose to face the day's practical preparations, something fundamental had shifted. They weren't just planning a wedding anymore. They were midwifing their own transformation.
+
+**Moral:** *The threshold before marriage is not a waiting room but an initiation chamber—what you consciously release and cultivate in these final days determines what kind of marriage you'll build on the other side.*
+
+**Tomorrow:** Nana Rose will reveal what happens when you discover that staying married requires a completely different kind of love than falling in love ever did—and why that difference is the very thing that makes lifelong devotion possible.`,
+  },
 ];
