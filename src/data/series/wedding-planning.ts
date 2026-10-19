@@ -10530,4 +10530,66 @@ By the time they rose to face the day's practical preparations, something fundam
 
 **Tomorrow:** Nana Rose will reveal what happens when you discover that staying married requires a completely different kind of love than falling in love ever did—and why that difference is the very thing that makes lifelong devotion possible.`,
   },
+  {
+    day: 151,
+    title: "The Sacred Unfurling",
+    date: "2026-10-19",
+    image: "images/wedding-planning/day-151.jpg",
+    audio: "audio/wedding-planning/day-151",
+    sonnet: `**🪶 Sonnet CLI: The Sacred Unfurling**
+
+The bud that grips against the coming spring
+May shield its tender heart from passing storm,
+Yet never knows the purpose blooming brings—
+The armor that protects prevents transform.
+
+So too the heart that enters marriage clenched,
+With every moment managed, planned, controlled,
+May walk the aisle with anxious shoulders tensed,
+But cannot let the mystery unfold.
+
+The rose unfurls not knowing what will come—
+If rain will drench or sunshine warm its face—
+Yet opens anyway, becomes, succumbs
+To vulnerability that grants it grace.
+
+*The bride who learns to soften, not defend,*
+*Lets love transform her at the threshold's end.*`,
+    standard: `💍 Day 151: The Sacred Unfurling
+
+🧱 **The Concept**
+The final days before marriage are not about perfecting details but about allowing yourself to soften into the enormity of what you're about to promise.
+
+❓ **Why It Matters**
+When you approach your wedding day in a state of rigid control or anxious perfectionism, you create armor that prevents the transformation marriage requires. The person who walks down the aisle defended, braced, and managing every variable is not the same person who can receive the full blessing of committed love. Your capacity to let the experience unfold—with all its imperfections, surprises, and unscripted beauty—directly determines whether your wedding becomes a performance you survive or a threshold you cross with an open heart.
+
+⚙️ **How It Works**
+Think of a flower that remains tightly budded despite the warmth of spring sunshine—it may look protected, but it never fulfills its purpose. Marriage requires a similar unfurling: a conscious relaxation of the defensive mechanisms that have kept you safe as a single person but will now prevent the vulnerability intimacy demands. This doesn't mean abandoning all boundaries or becoming passive; it means distinguishing between healthy preparation and the exhausting vigilance of trying to control outcomes. In practice, this might look like: choosing one hour each day to completely release wedding thoughts and simply be present with your partner without agenda; noticing when your body is clenched (shoulders, jaw, breath) and consciously softening; giving yourself permission to feel the full spectrum of pre-wedding emotions (excitement, terror, grief for what you're leaving behind, joy for what you're embracing) without trying to manage them into something more acceptable. The couples who report the most profound wedding experiences are those who arrived at their ceremony not with everything perfectly managed, but with their hearts courageously undefended.
+
+🎯 **Wedding Wisdom**
+The tighter you grip your wedding day, the less it can actually transform you—sometimes the deepest preparation is learning to unclench.
+
+❓ **Tomorrow's Question** — If you discovered that the specific emotional state you cultivate in these final days (whether anxious control, joyful anticipation, or exhausted resignation) would become the default emotional atmosphere of your entire first year of marriage, what would you need to release or embrace right now to ensure you're seeding the climate you actually want to live in?`,
+    parable: `Dove stood in Nana Rose's studio three days before her wedding, surrounded by final checklists, backup plans, and contingency timelines she'd created for every possible mishap. Her shoulders were rigid, her breathing shallow, her hands moving mechanically through tasks.
+
+"Child," Nana Rose said softly, "you're holding yourself like a fist."
+
+Dove's eyes filled with unexpected tears. "If I don't hold everything together, it will all fall apart."
+
+Nana Rose gestured to the window, where a late-blooming rose was slowly opening its petals to the afternoon sun. "Do you see that flower working hard to bloom? Do you see it clenching, planning, defending itself against the possibility of imperfection?"
+
+"That's different," Dove protested. "Flowers don't have to manage families, vendors, timelines—"
+
+"No," Nana Rose interrupted gently. "But they do have to trust that opening themselves completely, becoming utterly vulnerable to wind and weather and every passing insect, is the only way to fulfill their purpose. You can walk down that aisle defended and controlled, arriving at marriage with your armor intact. Or you can arrive softened, unfurled, ready to be touched by what's actually happening rather than managing what you hoped would happen."
+
+Elm entered quietly, and Dove could see immediately that he'd been carrying the same tension—his jaw tight, his usual ease replaced by vigilant responsibility. Nana Rose looked at them both.
+
+"Marriage doesn't ask you to be perfect managers," she said. "It asks you to be brave bloomers. These final days aren't for tightening your grip—they're for practicing the gentle unfurling that marriage will require every single day. The question isn't whether everything will go according to plan. The question is: will you be soft enough to receive what actually happens, or will you be so defended that the magic can't reach you?"
+
+Dove felt something release in her chest—a tightness she'd been carrying for months. She reached for Elm's hand, and they both took their first deep breath in weeks.
+
+**Moral:** *The heart that armor cannot protect, defenselessness must prepare.*
+
+**Tomorrow:** *What emotional climate are you planting for your marriage's first season?*`,
+  },
 ];
